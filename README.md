@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 16:09:49**
+As of **2025-10-01 15:56:17**
 
 ## Newspaper Stats
 
-*Scraped **80,214** Articles*
+*Scraped **80,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,76 +18,32 @@ economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
 adalk | 7,716
-adaderanalk | 10,337
+adaderanalk | 10,336
 tamilmirrorlk | 11,973
 virakesarilk | 13,108
-adaderanasinhalalk | 13,852
+adaderanasinhalalk | 13,850
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,211 (100.0%) of 80,214 articles have been extended.
+80,210 (100.0%) of 80,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### පොලිතීන් මලු සම්බන්ධයෙන් දුන් තීන්දුව
-
-*2025-10-01 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215223) · `si`
-
-ෂොපිං බෑග් වැනි පොලිතීන් මලු නොමිලේ ලබාදීමට නොහැකි වන පරිදි ලබන නොවැම්බර් 01 වනදා සිට කිසියම් මුදලක්  අයකර ගැනීම සඳහා ගැසට් නිවේදනයක් නිකුත් කිරීමට අපේක්ෂා කරන බව පරිසර අමාත්‍යවරයා ඇතුළු වගඋත්තරකරුවන් අද (01) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
-
-පොලිතින් භාවිතය තුළින් පාරිසරික විනාශයක් සිදුවන හෙයින් ඒවා භාවිත කිරීම අවම කිරීමේ වැඩපිලිවෙලක් සකස් කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා පරිසර යුක්ති කේන්ද්‍රය විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවූ අවස්ථාවේදී මෙම දැනුම්දීම සිදුකෙරුණි.
-
-මෙම නඩුකරයට අදාළව පරිසර යුක්ති කේන්ද්‍රය විසින් ඉදිරිපත් කළ මෝසමක් අද අගවිනිසුරු ප්‍රීති පද්මන් සූරසේන, කුමුදුනි වික්‍රමසිංහ සහ සම්පත් අබේකෝන් යන මහත් මහත්මීන්ගේ සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ කැඳවනු ලැබීය.
-
-...
-
-[Data](articles/3e6d262c.json)
-
----
-
-### පිලිපීන භූ කම්පනයෙන් මියගිය ගණන 69ක් දක්වා ඉහළට
-
-*2025-10-01 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215222) · `si`
-
-පිලිපීනයට බලපෑ භූ කම්පනයෙන් මියගිය ගණන 69ක් දක්වා ඉහළ ගොස් ඇති බව එරට බලධාරීන් තහවුරු කර ඇත.
-
-මධ්‍යම පිලිපීනයේ සෙබු නගරයේ වෙරළට ආසන්නයෙන් එරට වේලාවෙන් ඊයේ (30) රාත්‍රී 10ට පමණ මෙය ඇති වූ අතර, එය රික්ටර් මාපකයේ 6.9ක් ලෙස සටහන් විය.
-
-භූ කම්පනය ඇතිවීමෙන් පසු සෙබු නගරයේ විදුලිය ඇනහිටීම් සිදු වූ අතර, ගොඩනැගිලි රැසකටද දැඩි හානි සිදුවිය.
-
-මේ වනවිට තැන් තැන්වල මාර්ග ඉරිතලා ඇති අතර, පාලම් සහ මාර්ගවලටද දැඩි අලාභහානි සිදුව ඇත.
-
-එරට බලධාරීන් විදුලිය යථා තත්ත්වයට පත් කිරීම් මෙන්ම සුන්බුන් අතර සිරවී සිටින පුද්ගලයන් බේරාගැනීමේ කටයුතු තවමත් සිදුකරමින් සිටී.
-
-භූ කම්පනයේ බලපෑම් එල්ල වූ සෙබු නගරය තුළ මිලියනයකට ආසන්න ජනගහනයක් ජීවත්වන බව සඳහන්.
-
-පිලිපීනය භූ කම්පන මෙන්ම ස්වාභාවික විපත්වලට නිරන්තරයෙන් ගොදුරුවන රටක් වන අතර, වසරේ විවිධ කාලවලදී ඒ සඳහා එරට ජනතාවට මුහුණදීමට සිදුවේ.
-
-අවසන්වරට 2023 එරට මින්ඩනාඕ හි නැගෙනහිර වෙරළ තීරයට රිච්ටර් මාපකයේ 7.6ක භූමිකම්පාවක් ඇති වූ අතර, ඉන් ගැබිනි කාන්තාවක් ඇතුළුව තිදෙනෙක් ජීවිතක්ෂයට පත්විය.
-
-...
-
-[Data](articles/8c008ef1.json)
-
----
-
-### Children need a goal in front of technology, but no victim is
+### දරුවන් තාක්ෂණය එක්ක ඉස්සරහට යන්ඩ අවශ්‍යයි  නමුත් එ්කෙ ගොදුරක් වෙන්ඩ බෑ
 
 *2025-10-01 15:13:40* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්-තාක්ෂණය-එක්ක-ඉස්සරහට-යන්ඩ-අවශ්‍යයි--නමුත්-එ්කෙ-ගොදුරක්-වෙන්ඩ-බෑ/11-418849) · `si`
 
-The National Child Protection Authority (NSB) strongly believes that children carrying with technology should not be a victim of technology. It is also said that Internet child abuse can also be seen. They are therefore, steps should be taken to secure children on the Internet to reap the real fruits of the technology.
+තාක්ෂණය සමග ඉදිරියට යන ළමුන්  තාක්ෂණයේ ගොදුරක් බවට පත් නොවිය යුතු බව ජාතික ළමා ආරක්ෂක අධිකාරිය තරයේ විශ්වාස කරන බව දන්වා සිටියි. අන්තර්ජාලය මගින් සිදුවන ළමා අපයෝජන වල යම් පමණක වර්ධනයක් ද දැකිය හැකි බවද පෙන්වාදෙයි. එහෙයින්  තාක්ෂණයේ නියම ඵල නෙලා ගැනීමට අන්තර්ජාලය තුළ ළමයින් සුරක්ෂිත කිරීමට කඩිනමින් පියවර ගතයුතු බවත් වැඩිදුරටත් ඔවුන් සදහන් කර සිටියි.
 
-The Child Protection Authority is also the Welimiliarian reporting of a child abuse and commit to the most sensitive to child abuse.
+එසේම ළමා ආරක්ෂක අධිකාරියට ළමා අපයෝජන සිදුවීමක් අප්‍රමාදීව වාර්ථා කිරීමට සහ ළමා අපයෝජන පිළිබඳව වඩාත් සංවේදීව කටයුතු කිරීමට කැප වන ලෙස සියළු දෙනාගෙන් ඉලලා සිටියි.
 
 ◼️
 
 [Data](articles/82f0f6a8.json)
-
-[Extended Data](ext_articles/82f0f6a8.ext.json)
 
 ---
 
@@ -154,26 +110,6 @@ The police say that more than the weapons of the reservoir is suspected to be at
 [Data](articles/b360561b.json)
 
 [Extended Data](ext_articles/b360561b.ext.json)
-
----
-
-### Cache of firearms and ammunition uncovered from Kataragama Weheragala Reservoir
-
-*2025-10-01 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113109/cache-of-firearms-and-ammunition-uncovered-from-kataragama-weheragala-reservoir) · `en`
-
-A stock of weapons including 74 T-56 magazines, 35 LMG drums, 5 MPMG drum boxes, and several unidentified magazines has been discovered in the Kataragama Weheragala Reservoir.
-
-Additionally, two boxes suspected to contain explosives and two sacks suspected to contain weapons were also reportedly found at the location.
-
-The discovery was made following an investigation based on intelligence received by the military.
-
-The cache of military equipment was observed due to the receding water levels of the Weheragala Reservoir. Since the location where the equipment was found falls under jurisdiction of the Gonaganara Police Division, the items have been handed over to the Gonaganara Police Station for further investigation.
-
-Police stated assistance of Navy divers will be obtained to further inspect the reservoir.
-
-◼️
-
-[Data](articles/784351eb.json)
 
 ---
 
@@ -1984,5 +1920,67 @@ Sri Lanka's Sri Lankan Nranrogen, or Tinker, has been arrested. The Criminal Tro
 [Data](articles/702b39a0.json)
 
 [Extended Data](ext_articles/702b39a0.ext.json)
+
+---
+
+### President arrives in Sri Lanka by completing Japanese visit
+
+*2025-10-01 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215212) · `si`
+
+President Anura Kumara Dissanayake, who was on an official visit to Japan, arrived in the country at Katunayake airport this morning.
+
+President Anura Kumara Dissanayake left the island on September 22 to attend the 80th session of the United Nations General Assembly.
+
+President Anura Kumara Dissanayake later reached on the invitation of the Japanese government on the 27th of September.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and senior officials of the Ministry of External Affairs were also present.
+
+They all completed the visit from Bangkok, Thailand from Bangkok, from Bangkok from Bangkok, from Bangkok, from Bangkok, from Bangkok, from Bangkok.
+
+◼️
+
+[Data](articles/520aae4b.json)
+
+[Extended Data](ext_articles/520aae4b.ext.json)
+
+---
+
+### President met Japan's Emperor Naruhido
+
+*2025-10-01 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226547) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit at the invitation of the Japanese government, met with Japan's emperor Naruhido on Tuesday (30) at the Emperor's House.
+
+The Emperor greeted the President who visited the Emperor's Home, the official residence of the Japanese Emperor in Dochio and engaged in a smooth discussion.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath also attended the event.
+
+◼️
+
+[Data](articles/151cec62.json)
+
+[Extended Data](ext_articles/151cec62.ext.json)
+
+---
+
+### Police Fire at Van Ignoring Orders in Nittambuwa
+
+*2025-10-01 09:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-fire-at-van-ignoring-orders-in-nittambuwa) · `en`
+
+COLOMBO (News 1st); Police officers opened fire on a van that allegedly ignored orders to stop in the Udammita area of Nittambuwa early this morning, authorities confirmed.
+
+According to police, the incident occurred during a special motorcycle patrol conducted by the Gampaha Division.
+
+Officers signaled the van to halt, but the driver reportedly attempted to flee, prompting police to discharge their firearms to bring the vehicle to a stop.
+
+Subsequent investigations revealed that the driver and passengers were heavily intoxicated at the time of the incident.
+
+They are residents of Lellopitiya and Ratnapura, aged 38 and 43.
+
+◼️
+
+[Data](articles/5e35e671.json)
+
+[Extended Data](ext_articles/5e35e671.ext.json)
 
 ---

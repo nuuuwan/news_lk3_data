@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 15:38:35**
+As of **2025-10-01 15:20:40**
 
 ## Newspaper Stats
 
-*Scraped **80,210** Articles*
+*Scraped **80,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,715
-adaderanalk | 10,336
+adalk | 7,712
+adaderanalk | 10,328
 tamilmirrorlk | 11,973
 virakesarilk | 13,108
 adaderanasinhalalk | 13,850
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,850
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,199 (100.0%) of 80,210 articles have been extended.
+80,198 (100.0%) of 80,199 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,22 +40,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f94b418c.json)
-
-[Extended Data](ext_articles/f94b418c.ext.json)
-
----
-
-### ලිට්‍රෝ ගෑස් මිල ගැන අද ගත්ත තීරණය මෙන්න
-
-*2025-10-01 14:49:47* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අද-ගත්ත-තීරණය-මෙන්න/11-418846) · `si`
-
-මාසික ගෑස් මිල සංශෝධනය අනුව ඔක්තෝම්බර් මාසයට අදාළව ලිට්‍රෝ ගෑස් මිලේ කිසිදු සංශෝධනයක් සිදු නොකරන බව එම ආයතනය නිවේදනය කරයි.
-
-ඒ අනුව  කිලෝග්‍රෑම් 12.5ක ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල රු. 3,690කට, කිලෝග්‍රෑම් 5 ගෑස් සිලින්ඩරයක මිල රු. 1,482කට මිල නොවෙනස්ව පෙර පැවති මිලටම අලෙවි කිරීම සිදු වේ.
-
-◼️
-
-[Data](articles/3cc2f8b0.json)
 
 ---
 
@@ -211,24 +195,6 @@ We have the problems of many children as children, children, orphans with childr
 
 ---
 
-### Development officers to be recruited for teaching service – Education Min.
-
-*2025-10-01 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113108/development-officers-to-be-recruited-for-teaching-service-education-min) · `en`
-
-The Ministry of Education, Higher Education and Vocational Training has issued a statement regarding the recruitment of development officers currently assigned to schools to the teaching service.
-
-Accordingly, a communique confirming the move has been issued with the signature of the Secretary to the Ministry, Nalaka Kaluwewa.
-
-The Ministry states that several cases heard before the Supreme Court regarding the competitive examination which was scheduled to be held on March 25, 2023, for the recruitment of graduates to the state service, including development officers working in schools to the teaching service, have now been concluded.
-
-However, since the case being heard in the Court of Appeal has not yet been concluded, the Ministry of Education further states that any further action regarding the competitive examination will be taken only after the verdict is delivered.
-
-◼️
-
-[Data](articles/d700bbdf.json)
-
----
-
 ### Children will have the best?
 
 *2025-10-01 14:06:27* · [`lankadeepalk`](https://www.lankadeepa.lk/features/දරවනට-ලබනන-හදම-දද/2-680570) · `si`
@@ -266,38 +232,6 @@ The arrested trio will be produced before the Panadura Magistrate's Court, the V
 [Data](articles/2c9d50b9.json)
 
 [Extended Data](ext_articles/2c9d50b9.ext.json)
-
----
-
-### Litro Gas prices to remain unchanged in October
-
-*2025-10-01 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/113107/litro-gas-prices-to-remain-unchanged-in-october-) · `en`
-
-The prices of Litro Gas domestic cylinder refills will remain unchanged for the month of October 2025, the Litro Gas Company has announced.
-
-Accordingly, the existing prices of LP gas cylinders will continue to apply throughout October.
-
-The prices for domestic LP Gas cylinders in the Colombo District are as follows:
-
-Earlier today, Laugfs Gas PLC announced that the company will not revise domestic LP gas prices for the month of October 2025.
-
-◼️
-
-[Data](articles/4302ee4d.json)
-
----
-
-### Tourist arrivals to Sri Lanka surpass 1.7 million in 2025
-
-*2025-10-01 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113106/tourist-arrivals-to-sri-lanka-surpass-17-million-in-2025) · `en`
-
-The number of tourist arrivals to Sri Lanka so far in 2025 has surpassed 1.7 million.
-
-According to latest figures released by the Sri Lanka Tourism Development Authority (SLTDA), as of 28 September 2025, a total of 1,715,196 foreign nationals have arrived in the country.
-
-◼️
-
-[Data](articles/2f368f2d.json)
 
 ---
 
@@ -391,22 +325,6 @@ Mosin Naqvi said that I will give the trophy. The Indian team refused to accept 
 
 ---
 
-### No Laugfs Gas price revision in October
-
-*2025-10-01 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113105/no-laugfs-gas-price-revision-in-october-) · `en`
-
-LAUGFS Gas PLC has confirmed that there will be no price revision for domestic gas cylinder refills in the month of October, 2025.
-
-This was announced by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J Peiris.
-
-The prices for LAUGFS Gas cylinders in the Colombo District are as follows:
-
-◼️
-
-[Data](articles/24a102f4.json)
-
----
-
 ### Laugfs do not change the price of gas
 
 *2025-10-01 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215219) · `si`
@@ -489,58 +407,6 @@ Police say that the suspect was interrogated in the organized crime and the drug
 
 ---
 
-### දෙහිඅත්තකණ්ඩිය රෝහලේ ගැටලුව සොයන්න සිව් පුද්ගල කමිටුවක්
-
-*2025-10-01 13:42:25* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිඅත්තකණ්ඩිය-රෝහලේ-ගැටලුව-සොයන්න-සිව්-පුද්ගල-කමිටුවක්/11-418841) · `si`
-
-වෛද්‍ය ස්ථාන මාරුවක් සම්භන්ධයෙන් දෙහිඅත්තකණ්ඩිය මූලික රෝහලේ ඇතිවී තිබෙන තත්ත්වය පිළිබදව කරුණු සොයාබලා වාර්තාවක් ලබාදෙන ලෙස සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම් විශේෂඥ වෛද්‍ය අනිල් ජාසිංහ මහතා වෙත උපදෙස් ලබා දී ඇත.
-
-ඒ අනූව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ  ලේකම්වරයා විසින් සිව් පුද්ගල කමිටුවක් පත් කිරිමට මේවන විට පියවර ගෙන ඇත.
-
-එම කමිටුවේ සම සභාපතිවරුන් ලෙස සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් (විමර්ශන) තාරකා දිසානායක මහත්මිය සහ අධ්‍යක්ෂ (ප්‍රාථමික සෞඛ්‍ය සේවා) වෛද්‍ය ඩබ්.කේ.ඩබ්. සරත්චන්ද්‍ර කුමාරවංශ මහතා කටයුතුකරන අතර සෙසු සාමාජිකයන් ලෙස එම අමාත්‍යාංශයේ  සහකාර ලේකම් (හදිසි වැටලීම්)ii එච්.පී.පී. ජයවික්‍රම, විමර්ශන නිලධාරී කේ.එම්.ඩී.එල්. අමරතුංග යන මහත්වරුන් කටයුතු කරනු ලබයි.
-
-...
-
-[Data](articles/2216728f.json)
-
----
-
-### USD 1 billion in vehicles imported in 8 months, Aug records highest expenditure
-
-*2025-10-01 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113104/usd-1-billion-in-vehicles-imported-in-8-months-aug-records-highest-expenditure-) · `en`
-
-Following the lifting of restrictions on vehicle imports, the Central Bank of Sri Lanka (CBSL) has reported that the country spent US$1,007.5 million on vehicle imports during the eight-month period from January to August 2025.
-
-This was stated in the External Sector Performance Report for August 2025, released by the CBSL.
-
-The highest monthly expenditure on vehicle imports this year was recorded in August 2025, totaling US$255.7 million.
-
-The monthly expenditure on vehicle imports into the country for 2025 is shown below in millions of US dollars:
-
-◼️
-
-[Data](articles/2c615f44.json)
-
----
-
-### ලෝක ළමා දිනයේදී ශිෂ්‍යයෙකුගේ පහරදීමෙන් මොනරාගල මහානාමයේ ගුරුවරයෙක් රෝහලේ
-
-*2025-10-01 13:31:30* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-ළමා-දිනයේදී-ශිෂ්‍යයෙකුගේ-පහරදීමෙන්-මොනරාගල-මහානාමයේ-ගුරුවරයෙක්-රෝහලේ/11-418840) · `si`
-
-ලෝක ළමා දිනය යෙදුණ ඔක්තෝබර් (01) වෙනිදා මොනරාගල මහානාම ජාතික පාසලේ 11 වන ශ්‍රේණියේ ශිෂ්‍යයෙකු පහරදීමෙන් ගුරුවරයෙකු රෝහල් ගත කර ඇතැයි මොනරාගල රෝහල් පොලීසිය පවසයි.
-
-ලෝක ළමා දිනය නිමිත්තෙන් මොනරාගල ජාතික පාසල සැමරුම් උත්සවයක් සංවිධානය කර තිබූ අතර ඒ සඳහා සහභාගී වන ළමයින් රැස්වීම් ශාලාව වෙත යැවීමට සූදානම් කරමින් සිටියදී එක් ශිෂ්‍යයෙකු ජංගම දුරකථන චාර්ජ් කරන පවර් බෑන්ක් එකක් සාක්කුවේ දමාගෙන සිටිණු දුටු ගුරුවරයා එය ලබාගෙන මෙහි ජංගම දුරකථනය කොහේදැයි විමසා ඇත.
-
-ඒ අවස්ථාවේ ශිෂ්‍යයා විසින් ගුරුවරයාට පරුෂ වචනයෙන් බැණ ඇති අතර ගුරුවරයා විසින් සිසුවා අංශ භාර ගුරුවරයා වෙත ඉදිරිපත් කිරීමට කැඳවාගෙන යාමට උත්සාහ කළ අවස්ථාවේ ශිෂ්‍යයා විසින් ගුරුවරයාගේ කම්මුලට පහරදී තිබේ. පහරදීමෙන් පසු සිසුවා පාසලෙන් පළා ගොස් ඇත.
-
-පසුව ඒ පිළිබඳව ගුරුවරයා විසින් විදුහල්පතිවරයා දැනුවත් කොට ප්‍රතිකාර ගැනීම සඳහා මොනරාගල දිස්ත්‍රික් මහ රෝහලට ඇතුලත්වී තිබේ. සිද්ධියෙන් තුවාල ලැබූ ආර්.ඒ ප්‍රියදර්ශන නැමති ගුරුවරයා පැවසුවේ, තමා සිසුවාව සන්සුන් කිරීමට උත්සාහ ගත්තත් අවනත නොවූ ශිෂ්‍යයා තමාට පහරදුන් බවයි. මොනරාගල පොලීසිය පරීක්ෂණ පවත්වයි
-
-◼️
-
-[Data](articles/2516fe26.json)
-
----
-
 ### Sujeewa Senasinghe's hearing on controversial luxury vehicle
 
 *2025-10-01 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226566) · `ta`
@@ -619,22 +485,6 @@ Investigations later revealed that several more suspects escaped with about 100 
 
 ---
 
-### US government shutdown begins as partisan division rules Washington
-
-*2025-10-01 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113103/us-government-shutdown-begins-as-partisan-division-rules-washington) · `en`
-
-The U.S. government shut down much of its operations on Wednesday as deep partisan divisions prevented Congress and the White House from reaching a funding deal, setting off what could be a long, grueling standoff that could lead to the loss of thousands of federal jobs.
-
-There was no clear path out of the impasse, while agencies warned that the 15th government shutdown since 1981 would halt the release of a closely watched September employment report, slow air travel, suspend scientific research, withhold pay from U.S. troops and lead to the furlough of 750,000 federal workers at a daily cost of $400 million.
-
-Trump, whose campaign to radically reshape the federal government is already on track to push out some 300,000 workers by December, warned congressional Democrats that a shutdown could clear the path for “irreversible” actions including cutting more jobs and programs.
-
-...
-
-[Data](articles/a952d1f7.json)
-
----
-
 ### Gaza War: Trump - Netanyahu Meeting; US extreme pressure on peace - 8 countries including China and Pakistan welcome
 
 *2025-10-01 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226574) · `ta`
@@ -674,24 +524,6 @@ The federal government ran out of money after a Democratic-backed spending bill 
 [Data](articles/39027746.json)
 
 [Extended Data](ext_articles/39027746.ext.json)
-
----
-
-### Case against Keheliya Rambukwella and family fixed for pre-trial conference
-
-*2025-10-01 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113102/case-against-keheliya-rambukwella-and-family-fixed-for-pre-trial-conference-) · `en`
-
-The Colombo High Court has ordered that the case filed by the Bribery Commission against former Minister Keheliya Rambukwella, his wife, and four other family members for the illegal acquisition of assets worth over Rs. 97 million be called for further pre-trial conference on October 15.
-
-When the case was called before Colombo High Court Judge Mohamed Mihal today (01), former Minister of Health Keheliya Rambukwella along with the other defendants appeared before the court, Ada Derana reporter said.
-
-President’s Counsel Kalinga Indatissa, who appeared for the defendant Keheliya Rambukwella, stated in court that the prosecution has not yet provided him with 12 documents requested by the defendant.
-
-The President’s Counsel observed that although the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) had suddenly filed indictments against the defendants, the relevant documents had not been provided to the defense, adding that such conduct sets an improper precedent.
-
-...
-
-[Data](articles/65fb9412.json)
 
 ---
 
@@ -822,24 +654,6 @@ In a statement issued by Hamas, it said,. Hamas has said that it will take a few
 [Data](articles/b0a81eec.json)
 
 [Extended Data](ext_articles/b0a81eec.ext.json)
-
----
-
-### Philippines quake death toll rises to 69, official says
-
-*2025-10-01 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113101/philippines-quake-death-toll-rises-to-69-official-says) · `en`
-
-The death toll from a 6.9-magnitude earthquake that hit the central Philippines has risen to 69, a disaster official said on Wednesday as the government mobilised agencies to search for survivors and restore power and water supplies.
-
-In Bogo city in the north of Cebu province, which was near the epicentre of the shallow quake that struck off the coast just before 10 p.m. on Tuesday, the hospital has been “overwhelmed,” Civil Defense official Raffy Alejandro told reporters.
-
-The death toll of 69 was based on data from the Cebu provincial disaster office and was subject to validation, said Jane Abapo, an information officer at the regional Civil Defense office. Another official said more than 150 people were injured.
-
-President Ferdinand Marcos Jr assured survivors of swift assistance, saying cabinet secretaries were on the ground directing relief operations, as he expressed his condolences to those who lost loved ones.
-
-...
-
-[Data](articles/54032195.json)
 
 ---
 
@@ -1962,5 +1776,227 @@ The weapons found on information received by the Army.
 [Data](articles/f334ef2c.json)
 
 [Extended Data](ext_articles/f334ef2c.ext.json)
+
+---
+
+### The law kicked the law and divided Rs. 668 crores
+
+*2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/101-680541) · `si`
+
+The Select Committee of the Public Enterprises (COPE) has revealed that the Sri Lanka Electricity Board has been given to the Protection Fund.
+
+The committee says that the loans had been granted without an approval of the Board of Labor and the Commissioner of Labor and the Commissioner General of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Inland Revenue.
+
+The Kopypay Committee has recommended immediate action to take appropriate measures.
+
+◼️
+
+[Data](articles/07acab98.json)
+
+[Extended Data](ext_articles/07acab98.ext.json)
+
+---
+
+### The law kicked the law and divided Rs. 668 crores
+
+*2025-10-01 09:56:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නතයට-පයන-ගස-කට-668ක-ණයට-බදල/1-680541) · `si`
+
+The Select Committee of the Public Enterprises (COPE) has revealed that the Sri Lanka Electricity Board has been given to the Protection Fund.
+
+The committee says that the loans had been granted without an approval of the Board of Labor and the Commissioner of Labor and the Commissioner General of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Labor and the Commissioner of Inland Revenue.
+
+The Kopypay Committee has recommended immediate action to take appropriate measures.
+
+◼️
+
+[Data](articles/6c1c6b7d.json)
+
+[Extended Data](ext_articles/6c1c6b7d.ext.json)
+
+---
+
+### Greeting of the president
+
+*2025-10-01 09:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வாழ்த்துச்-செய்தி/175-365568) · `ta`
+
+President Anura Kumara Dissanayake said in a congratulatory message that we are continuing to work for the well -being of children and the elderly.
+
+The future of a country and the world is in the hands of the boys. It is so beautiful because their world is real and dirty world. It is the responsibility of a community to give them an uninterrupted opportunity to enjoy that beauty.
+
+As a government that understands that duties and responsibilities are coming up with rights, we are always committed to protecting and encouraging children's rights.  We are making the intervention necessary to improve the rights of children by defining the most practical and comprehensive manner of who is the child.
+
+In it, our government is committed to providing proper nutrition for all children's physical and mental well -being and health services from all kinds of violence against all children, as well as all kinds of violence against children, abuse and discrimination against children.
+
+...
+
+[Data](articles/4410f567.json)
+
+[Extended Data](ext_articles/4410f567.ext.json)
+
+---
+
+### “Everyone will join hands to build Sri Lanka” President
+
+*2025-10-01 09:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-கட்டியெழுப்ப-அனைவரும்-கைகோர்ப்போம்-ஜனாதிபதி/175-365568) · `ta`
+
+President Anura Kumara Dissanayake said in a congratulatory message that we are continuing to work for the well -being of children and the elderly.
+
+The future of a country and the world is in the hands of the boys. It is so beautiful because their world is real and dirty world. It is the responsibility of a community to give them an uninterrupted opportunity to enjoy that beauty.
+
+As a government that understands that duties and responsibilities are coming up with rights, we are always committed to protecting and encouraging children's rights.  We are making the intervention necessary to improve the rights of children by defining the most practical and comprehensive manner of who is the child.
+
+In it, our government is committed to providing proper nutrition for all children's physical and mental well -being and health services from all kinds of violence against all children, as well as all kinds of violence against children, abuse and discrimination against children.
+
+...
+
+[Data](articles/6bcfd69e.json)
+
+[Extended Data](ext_articles/6bcfd69e.ext.json)
+
+---
+
+### President arrives
+
+*2025-10-01 09:53:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-එයි/11-418833) · `si`
+
+President Anura Kumara Dissanayake, who was on an official visit to the US and Japan, arrived at the Bandaranaike International Airport on the morning of 10/01.
+
+The 80th United Nations General Assembly was attended by the US General Assembly in the United States before being engaged in official visit.
+
+Foreign Affairs, Foreign Employment and Tourism Promotion Promotion, Vijitha Herath and several other high government officials were joined in the tour.
+
+They were 10:30 am on 09.01 am, from Bangkok, UL of SriLankan Airlines - 403, Katunayake arrived at the Katunayake Airport.
+
+◼️
+
+[Data](articles/bc44f4b4.json)
+
+[Extended Data](ext_articles/bc44f4b4.ext.json)
+
+---
+
+### The US government is officially closed
+
+*2025-10-01 09:51:03* · [`adalk`](https://www.ada.lk/international/ඇමෙරිකානු-රජය-නිල-වශයෙන්-වසා-දැමෙයි/3-418832) · `si`
+
+The US Federal Government has officially closed. The government has to be officially closed due to the Awarding of Eleenming. This is the first time a US government has been officially closed after 2019.
+
+The leaders of the United States personally emphasize that they should not be responsible for the shortage of funds: Republican Party insists that the Democratic Party should agree to extend the current funds for another seven weeks.
+
+The Democratic Party has rejected the main relief to vote for his votes to pass any funding step in the Senate. Senators have a deep uncertainty of how long the shutdown can last.
+
+The Senate is to vote again on the funding plan. The closing of the government means leave of lack of thousands of federal workers, and others who are considered essential will continue to report to work.
+
+But most people are not paid until the end of this messy. Others, however, will continue to collect salaries as they do not fund their jobs through the annual discharge of Congress.
+
+◼️
+
+[Data](articles/8801641e.json)
+
+[Extended Data](ext_articles/8801641e.ext.json)
+
+---
+
+### Japan - Sri Lanka's Parliamentary League Committee meets President
+
+*2025-10-01 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226544) · `ta`
+
+President Anura Kumara Dissanayake, who was on an official visit to the country at the invitation of the Japanese government, held a breakfast at the Imperial Hotel in Tokyo on Tuesday (30).
+
+Yoshitaka Shindo and General Secretary Yuko Obuchi said that Japan -Sri Lanka's League League League League League is expected to work with President Anura Kumara Dissanayake to further strengthen the cooperation between the two foreign parliamentarians.
+
+They further stated that they are working to strengthen cooperation in the fields of political, economics and cultural sectors for mutual interests of the two countries.
+
+The Japan-Sri Lanka Parliament League was founded in 1982 under the leadership of former Japanese Prime Minister Kaizo Obuchi.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Sri Lanka Ambassador to Japan, Prof. Pivithuru Janak Kumarasinghe and members of the Japan-Sri Lanka Parliamentary League and many others were present at the event.
+
+◼️
+
+[Data](articles/5914477e.json)
+
+[Extended Data](ext_articles/5914477e.ext.json)
+
+---
+
+### The President meets the Japanese Emperor
+
+*2025-10-01 09:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிய-பேரரசரை-சந்தித்தார்-ஜனாதிபதி/175-365567) · `ta`
+
+President Anura Kumara Dissanayake, who is on an official visit to Japan, met Japan's emperor Naruhido yesterday (30) at the Emperor's House.
+
+The President of the Emperor, the official residence of the Japanese Emperor in Tokyo, welcomed the President who was visiting the Emperor House, and the Emperor was engaged in a smooth discussion.
+
+Foreign, Foreign Employment and Tourism Minister Vijitha Herath also attended the event.. Remble
+
+◼️
+
+[Data](articles/13a3d4de.json)
+
+[Extended Data](ext_articles/13a3d4de.ext.json)
+
+---
+
+### ජනපති ජපානයේ නරුහිතෝ අධිරාජ්‍යයා හමුවෙයි
+
+*2025-10-01 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215210) · `si`
+
+President Anura Kumara Dissanayake has found the Nirup of Japan on an invitation to the Japanese government invitation.
+
+The President also held a friendly discussion after the President was warmly welcomed by the Emperor's official residence, the official residence of the Japanese mansion.
+
+Foreign Affairs, Foreign Employment and Tourism Vijitha Herath were also present at the occasion.
+
+◼️
+
+[Data](articles/c6071bd4.json)
+
+[Extended Data](ext_articles/c6071bd4.ext.json)
+
+---
+
+### Nearly Rs.
+
+*2025-10-01 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215209) · `si`
+
+Two suspects have been arrested by the CID.
+
+The police said that a woman who was residing in Bakamuna has been arrested and remanded after the 43-year-old Bakamuna area.
+
+She had been living in a temporary lodge in Kiribathgoda.
+
+එමෙන්ම සිද්ධියට සම්බන්ධ අනෙක් 55 හැවිරිදි සැකකරු මහරගම ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, ඔහුව පසුගිය 29 වනදා අත්අඩංගුවට ගෙන කල්මුණේ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර තිබේ.
+
+The suspect had revealed that he had obtained Rs.
+
+Investigations have revealed that 50 businessmen were summoned to the party in Kalmunu area and had obtained their deeds to discuss and deceived political matters in Colombo and discussing political matters.
+
+The Investigation Officers have also been taken to obtain orders from the court to suspend the suspension of Rs.
+
+◼️
+
+[Data](articles/bdd35589.json)
+
+[Extended Data](ext_articles/bdd35589.ext.json)
+
+---
+
+### The government is making a huge contribution to improving the tourism industry - the Governor of the Central Province
+
+*2025-10-01 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226543) · `ta`
+
+Central Provincial Tourism Day Events parallel to World Travel Day, Central Province Governor Professor SBS. The took place in Kandy under the leadership of Abayakon.
+
+The event was held on the banks of the Mahaweli River, near the Thodamwala Bridge, Kandy. The event was organized by the Ministry of Tourism and the Department of Commerce and Commerce.
+
+Many traditional hydraulic games associated with water were organized.  Many local and foreign tourists participated.
+
+The current government is making a great contribution to the development of the tourism industry and that it is a pleasure to launch such projects in the Central Province, Professor SBS. Abhayakon said in his speech.
+
+◼️
+
+[Data](articles/7f4253ff.json)
+
+[Extended Data](ext_articles/7f4253ff.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-01 17:42:31**
+As of **2025-10-01 18:22:39**
 
 ## Newspaper Stats
 
-*Scraped **80,262** Articles*
+*Scraped **80,283** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 534
-lankadeepalk | 593
+newsfirstlk | 537
+lankadeepalk | 598
 dbsjeyarajcom | 637
 bbccomsinhala | 715
 colombotelegraphcom | 802
@@ -17,25 +17,209 @@ dailymirrorlk | 4,733
 economynextcom | 4,758
 islandlk | 4,861
 dailyftlk | 5,615
-adalk | 7,718
-adaderanalk | 10,339
+adalk | 7,720
+adaderanalk | 10,340
 tamilmirrorlk | 11,978
-virakesarilk | 13,125
-adaderanasinhalalk | 13,854
+virakesarilk | 13,133
+adaderanasinhalalk | 13,856
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,253 (100.0%) of 80,262 articles have been extended.
+80,273 (100.0%) of 80,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
 
-### මෝදරින් හමුවූ බෝම්බ 10යේ රස පරීක්ෂක වාර්තා කැඳවයි
+### Police Freeze Properties of Notorious Drug Queenpin
+
+*2025-10-01 17:59:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-freeze-properties-of-notorious-drug-queenpin) · `en`
+
+COLOMBO (News 1st); The Illegal Assets Investigation Division has frozen three buildings in Ferguson Road, Grandpass, allegedly owned by Vindani Priyadarshika, also known as “Thotalaga Poddi Akka,” a suspected drug trafficker.Police said the action was taken following an investigation conducted under the directive of the Inspector General of Police (IGP). The properties are believed to have been acquired using proceeds from large-scale narcotics trafficking.Authorities further revealed that the suspect is currently in hiding, and efforts are underway to locate and apprehend her.
+
+◼️
+
+[Data](articles/aafa7933.json)
+
+---
+
+### Underworld Figure ‘Tinker’ Arrested After Dubai Deportation
+
+*2025-10-01 17:55:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/underworld-figure-%e2%80%98tinker%e2%80%99-arrested-after-dubai-deportation) · `en`
+
+...
+
+[Data](articles/a50d5799.json)
+
+---
+
+### ශ්‍රී ලංකා ගුවන් හමුදාවට එකතුවීමට කැමති ඔබට අවස්ථාවක්
+
+*2025-10-01 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215227) · `si`
+
+ආධුනික ගුවන් භට හා ගුවන් කාන්තා නව බඳවාගැනීම පිළිබඳව ශ්‍රී ලංකා ගුවන් හමුදාව විසින් දැනුම්දීමක් සිදුකර තිබේ.
+
+ඒ අනුව, ශ්‍රී ලංකා ගුවන් හමුදාවට නිත්‍ය/ස්වේච්චා ගුවන් භට ගුවන් කාන්තාවන් බඳවා ගැනීම් සිදුකෙරේ.
+
+නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා ගුවන් හමුදාව දැනුම් දී ඇත්තේ අයදුම් පත් බාර ගැනීමේ අවසන් දිනය 2025 ඔක්තෝම්බර් මස 15 වන දින දක්වා දීර්ඝ කර ඇති බවය.
+
+◼️
+
+[Data](articles/ce9e5b8f.json)
+
+---
+
+### US Embassy Limits Updates Amid Washington Shutdown
+
+*2025-10-01 17:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/us-embassy-limits-updates-amid-washington-shutdown) · `en`
+
+COLOMBO (News 1st); The U.S. Embassy in Colombo & US Ambassador to Sri Lanka Julie Chung, announced that their respective official social media accounts will not be updated regularly during the ongoing U.S. federal government shutdown, except for urgent safety and security information.In a statement, the Embassy clarified that scheduled passport and visa services in the United States and at U.S. embassies and consulates worldwide will continue as circumstances permit, despite the lapse in appropriations.The Embassy advised the public to visit travel.state.gov for the latest information on consular services and operating status.The announcement follows the U.S. government shutdown triggered by a congressional deadlock over funding measures, marking the first such lapse in six years.
+
+◼️
+
+[Data](articles/506de2a0.json)
+
+---
+
+### පුටින් දෙසැම්බර් මස ඉන්දියාවට
+
+*2025-10-01 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215226) · `si`
+
+රුසියානු ජනාධිපති ව්ලැඩිමීර් පුටින් එළැඹෙන දෙසැම්බර් මස ඉන්දියාවේ සංචාරයක නිරතවීමට නියමිත බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+ඉන්දියාවේ පැවැත්වෙන සමුළුක් සඳහා පුටින් මෙලෙස පැමිණෙන අතර, බොහෝ දුරට එම සංචාරය දෙසැම්බර් 5-6 දිනවල සිදුකරනු ඇති බව සඳහන්.
+
+පසුගිය අගෝස්තු මාසයේ දී ඉන්දීය ජාතික ආරක්ෂක උපදේශක අජිත් ඩෝවාල් සිදුකළ රුසියානු සංචාරයේ දී පුටින් ඉන්දියාවේ සංචාරයකට එක්වන බව සඳහන් වුවද, කාලසීමාව පිළිබඳ නිල සඳහනක් නොතිබුණි.
+
+කෙසේ නමුත් ඉකුත්දා චීනයේ පැවති ෂැංහයි සහයෝගිතා සංවිධානයේ (SCO) සමුළුවේදී අගමැති මෝදි හා රුසියානු ජනාධිපතිවරයා  හමුවිය.
+
+එහිදී නායකයින් දෙදෙනා පුටින්ගේ ලිමොසින් රථයේ ගමන්කර ඇති අතර, පැයක කාලයක් සංවාදයක ද නිරතව තිබේ.
+
+ඉන්දියාව විසින් රුසියාවේ තෙල් මිලදී ගැනීමට විරෝධය පලකරමින් අමෙරිකාව විසින් මේ වනවිට ඉන්දියාවට දඬුවම් තීරු බද්දක් පනවා තිබේ.
+
+එවන් පසුබිමක රුසියානු ජනපතිගේ මෙම සංචාරය ඉන්දීය - අමෙරිකා ද්විපාශ්වික සබඳතා තවදුරටත් බලපෑමට ලක්වනු ඇති බව සඳහන්.
+
+◼️
+
+[Data](articles/590a205b.json)
+
+---
+
+### Vijayadasamy Pooja at Navalapitiya Municipal Library
+
+*2025-10-01 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226618) · `ta`
+
+The Navaratri Vijayadasamy Pooja was held on Wednesday (01) at the Library Complex organized by the Public Library of Nawalapitiya.
+
+In the event of the event, the Nawalapitiya Municipal Council, Deputy Chairman, Members and Municipal Council staff made good arrangements.
+
+◼️
+
+[Data](articles/c1db163c.json)
+
+[Extended Data](ext_articles/c1db163c.ext.json)
+
+---
+
+### Brain damage to a schoolgirl who is fed up with a swimming lake in Colombo; Father complains to police!
+
+*2025-10-01 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226616) · `ta`
+
+The father of an 8 -year -old schoolgirl has lodged a complaint at a school in Colombo against the Colombo Swimming Club.
+
+My son was attending a birthday party at the Colombo Swimming Association.
+
+We did not answer the questions asked by the doctors as to how much time the son was given and when the ambulance came.
+
+This is because the authorities of the Colombo Swimming Corporation did not provide us with the right information regarding the incident. They have no CCTV cameras.
+
+The negligence of the Colombo Swimming Association is responsible for the brain damage to my son.
+
+Therefore, the father said in the complaint that I would like to ask the police to conduct a proper investigation into the matter.
+
+◼️
+
+[Data](articles/949df499.json)
+
+[Extended Data](ext_articles/949df499.ext.json)
+
+---
+
+### The case against the Mannar wind power towers
+
+*2025-10-01 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226617) · `ta`
+
+The Mannar police filed a case against those who were protesting against the construction of wind power towers that were brought into the city of Mannar last Friday night (26).
+
+Police have filed a case in the Mannar court as they have already been treated at the Mannar Hospital, who were injured in the attack by the police.
+
+The three men were produced before the Mannar court on Saturday and the magistrate ordered the three men to go on bail worth Rs 5 lakh each.
+
+In this case, the Mannar police filed a case in the Mannar court against 5 more persons.
+
+The police have filed a grown up against six persons who were protesting, including the leader of the Mannar Citizens Committee, Aruttanda Macas Adikal.
+
+The persons were present in court on Wednesday (1) via Attorney -at -Law P. Deniswaran. Other lawyers also expressed their support on behalf of the persons.
+
+The magistrate ordered the five suspects and each suspect to go on bail worth Rs 5 lakh each.
+
+...
+
+[Data](articles/13466703.json)
+
+[Extended Data](ext_articles/13466703.ext.json)
+
+---
+
+### A committee appointment to explore the current state of the Tehiyakattai Resource Hospital
+
+*2025-10-01 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226613) · `ta`
+
+Health and Mass Media Minister Nalinda Jayatissa has issued a directive to Anil Jasinghe, Secretary to the Ministry of Health and Media, to submit a report on the relocation of the Medical Survey of the Tehiyakkanda Resource Hospital.
+
+Accordingly, the Secretary of the Ministry of Health and Mass has already taken steps to appoint a four -member committee.
+
+Deputy Director (Inquiry) of the Ministry of Health and Mass media. K. M. Sarathchandra Kumarawansa has been appointed co -chairs of the committee.
+
+Assistant Secretary of the Ministry (emergency tests). B.. B.. Jayawickrama, Inquiry Officer K. M.. D. L. Amaratunga includes this group.
+
+The current situation of the Tehiyakattai Resource Hospital has told the officials of the Committee appointed by the Secretary of the Mass Media Ministry to investigate the relevant issues and submit a report immediately.
+
+◼️
+
+[Data](articles/b84cecf9.json)
+
+[Extended Data](ext_articles/b84cecf9.ext.json)
+
+---
+
+### 10 bombs found in Modernan summon 10 bombs
 
 *2025-10-01 17:12:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදරන-හමව-බමබ-10ය-රස-පරකෂක-වරත-කඳවය/101-680586) · `si`
+
+Colombo Additional Magistrate Ozha Migara Maharachchi has ordered the Modara Police to see the government's skins have been abusive in the Municipal Council workplace.
+
+The order was issued after considering the procedures made by a special police team to have received information on information received by the Terrorist Investigation Division.
+
+The police said further court said that investigations are conducted through CCTV footage to detect suspects.
+
+Considering the submissions, the Additional Magistrate ordered the Government Analysting report to address the bombs.
+
+Police ordered the police to submit the investigation into the courts soon.
+
+◼️
+
+[Data](articles/6345456e.json)
+
+[Extended Data](ext_articles/6345456e.ext.json)
+
+---
+
+### මෝදරින් හමුවූ බෝම්බ 10යේ රස පරීක්ෂක වාර්තා කැඳවයි
+
+*2025-10-01 17:12:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මදරන-හමව-බමබ-10ය-රස-පරකෂක-වරත-කඳවය/1-680586) · `si`
 
 මෝදර අලුත් මාවත ප්‍රදේශයේ නගර සභා වැඩ බිමක් අසල පාසල් බෑගයක තිබී අත්අඩංගුවට ගත්  අත්බෝම්බ 10 ය නිශ්ක්‍රීය කර   රජයේ රස පරීක්ෂක වාර්තා කැඳවීමට  කොළඹ අතිරේක මහේස්ත්‍රාත් ඕෂද මිගාර මහාරච්චි මහතා මෝදර පොලිසියට අද (01) නියෝග කළේය.
 
@@ -49,13 +233,51 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/6345456e.json)
+[Data](articles/a8f2b693.json)
+
+---
+
+### Deposit for the Klangan Hospital outpatient unit
+
+*2025-10-01 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226610) · `ta`
+
+At the Dikoya Klangan Hospital, the Attan Lions Association gifted a sum of rays to the hospital for the outpatient unit and the welfare of those who visit the clinic services.
+
+இந்நிகழ்வில் அட்டன் லயன்ஸ் கழகத் தலைவர்  எஸ்.சப்பாணி,  செயலாளர் நல்லுசாமி , லயன் பிரபாகர் உட்பட கிளங்கன் வைத்தியசாலை அபிவிருத்தி சங்க செயலாளர் சங்கரமணிவண்ணன், பொருளாளர் பி.நாகேந்திரன் மற்றும் வைத்தியர் அருள்குமரன் உட்பட பிரமுகர்கள் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/abd1c995.json)
+
+[Extended Data](ext_articles/abd1c995.ext.json)
+
+---
+
+### "Highly in Welcome to Sri Lanka
+
+*2025-10-01 17:09:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලකවට-ලකයන-ඉහළ-පළගනමක/101-680585) · `si`
+
+Health and Mass Media Minister Nalinda Jayatissa said that there is a high number of recognition and a good image of Sri Lanka.
+
+The Minister said that many countries have begun to be friendly transactions with Sri Lanka.
+
+The Minister made this observation at the opening of the new Physical Disease Ward of the New Physical Disease Complex, which was built in Dharga Town.
+
+It was constructed at a cost of a health facility to improve the 13-selected hospitals under the Chinese government's assistance.
+
+The three-storey emergency medical treatment unit is scheduled to be provided with a four-bed-wards, including 96 beds, and the OPD of the OPD.
+
+◼️
+
+[Data](articles/98ac8a1c.json)
+
+[Extended Data](ext_articles/98ac8a1c.ext.json)
 
 ---
 
 ### ’’ලංකාවට ලෝකයෙන් ඉහළ පිළිගැනීමක්’’
 
-*2025-10-01 17:09:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලකවට-ලකයන-ඉහළ-පළගනමක/101-680585) · `si`
+*2025-10-01 17:09:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකවට-ලකයන-ඉහළ-පළගනමක/1-680585) · `si`
 
 ලංකාව ගැන ලෝකයේ ඉහළ පිළිගැනීමක් සහ යහපත් ප්‍රතිරූපයක් ගොඩනැගෙමින් පවතින බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
 
@@ -69,13 +291,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/98ac8a1c.json)
+[Data](articles/d287aa97.json)
+
+---
+
+### Two Sri Lankans between the 10 Twenty20 Ratings
+
+*2025-10-01 17:07:00* · [`adalk`](https://www.ada.lk/sports/විස්සයි-20-ශ්‍රේණිගතකිරීම්-හී-මුල්-10-දෙනා-අතරට-ශ්‍රී-ලාංකිකයන්-දෙදෙනෙක්/9-418854) · `si`
+
+Sri Lanka's opener, Sri Lanka's opening batsmen, has come to the 5th to 5th cricket rankings.
+
+Kusal Janith Perera has come forward to the 9th to 09 places.
+
+Two Sri Lankans have come among the 10 batsmen of T20 Ratings.
+
+Meanwhile, Waranga has passed the advance of Twenty20 gellabors.
+
+◼️
+
+[Data](articles/14d235c1.json)
+
+[Extended Data](ext_articles/14d235c1.ext.json)
 
 ---
 
 ### තාබුගලට අධිකරණයේ පෙනී සිටින්නැයි නියෝග
 
-*2025-10-01 17:06:32* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තබගලට-අධකරණය-පන-සටනනය-නයග/101-680584) · `si`
+*2025-10-01 17:06:32* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තබගලට-අධකරණය-පන-සටනනය-නයග/1-680584) · `si`
 
 රුපියල් මිලියන 194ක බදු මුදලක්  නොගෙවා පැහැර හැරියේ යැයි කියන  අවුරා ලංකා සමාගමේ සභාපති විරංජිත් තාබුගල  විත්තිකරුට වැට් බදු වාර්තා ඉදිරිපත් නොකිරීම සම්බන්ධයෙන්  නොවැම්බර් 25 දින අධිකරණයේ  පෙනී සිට කරුණු දක්වන  ලෙසට කොළඹ අතිරේක මහේස්ත්‍රාත්  සජිවිකා ඉයන්දල මහත්මිය සිතාසී නිකුත් කරමින් නියෝග කළාය.
 
@@ -87,13 +329,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
+[Data](articles/3f80d26e.json)
+
+---
+
+### Orders to appear in the Tubungala court
+
+*2025-10-01 17:06:32* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තබගලට-අධකරණය-පන-සටනනය-නයග/101-680584) · `si`
+
+Sri Lanka's Chairman of Sri Lanka, the Chairman of Sri Lanka has issued a VAT to the court on November 25 regarding the defense of VAT.
+
+After considering a complaint with the Commissioner of Inland Revenue, the Commissioner of Inland Revenue issued a complaint with a complaint that the Commissioner of Inland Revenue had to be submitted for the year 2019 for the year 2019.
+
+Attorney-at-Law Dinesh Perera appearing on behalf of the Commissioner of the Department of Revenue Dinesh Perera said that the accused had not been issued to appear in court.
+
+The Additional Magistrate was ordered to issue the Talangama Police through the OIC through the OIC.
+
+The Commissioner of Inland Revenue has filed another case against the default of 2022/2023, the Commissioner of Investigation to be called on December 15, Rs. 194 million.
+
+◼️
+
 [Data](articles/9b0f612b.json)
+
+[Extended Data](ext_articles/9b0f612b.ext.json)
 
 ---
 
 ### කුලී රථ රියදුරෝත් මැතිසබයට
 
-*2025-10-01 16:59:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කල-රථ-රයදරත-මතසබයට/101-680583) · `si`
+*2025-10-01 16:59:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කල-රථ-රයදරත-මතසබයට/1-680583) · `si`
 
 කුලී රථ හිමිකරුවන්ගේ සහ රියදුරන්ගේ ජාතික එකමුතුවේ නියෝජිතයෝ පිරිසක්  ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවට සිය යෝජනා සහ අදහස් ඉදිරිපත් කළහ.
 
@@ -103,85 +367,177 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/476f9893.json)
+[Data](articles/2997c69f.json)
 
 ---
 
-### හැට දාහකට අලුතින් රැකියා
+### Taxi drivers also to the comment
+
+*2025-10-01 16:59:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කල-රථ-රයදරත-මතසබයට/101-680583) · `si`
+
+Representatives of taxi owners and drivers were supporting the Ministry Advisory Committee on Transport, Highways, Ports and Civil Aviation.
+
+The subsidiary, aimed at strongest the legal framework associated with the transportation industry, was presented when he met the Chairman of the Parliamentary Lakmali Hemachandra on the 26th.
+
+The Sub Committee pointed out that the driver, the passenger should be prepared in criteria for the fair transport sector. The Deputy Committee pointed out that the views and proposals of those professionals are concerned about the taxi industry. Accordingly, the representatives presented their views and suggestions to the respondous and agreed to the Chamber of Committe in writing.. She said that the proposals will be considered when preparation of transport policies.
+
+◼️
+
+[Data](articles/476f9893.json)
+
+[Extended Data](ext_articles/476f9893.ext.json)
+
+---
+
+### Teacher injury to student attack inside school
+
+*2025-10-01 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226611) · `ta`
+
+A teacher was injured after a student was attacked at a school in Moneragala area, police said.
+
+In 11th grade, a student has taken a mobile phone inside the school.
+
+A teacher at the school has questioned the student about this.
+
+◼️
+
+[Data](articles/2c5f0399.json)
+
+[Extended Data](ext_articles/2c5f0399.ext.json)
+
+---
+
+### Heavy sun in Badulla; Drinking water shortage due to drought; Agricultural activities also affect
+
+*2025-10-01 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226612) · `ta`
+
+The public is concerned that the drought -stricken weather has caused a shortage of drinking water in the Badulla district for the past few months.
+
+Due to the ongoing dry weather in the Badulla district, people in the Divisional Secretariat Divisions of Badulla, Bandarawela, Pasara, Viyaluwa, Outiyadai and Mahiyangana have been severely affected.
+
+Farmers engaged in vegetable farming in Bandarawela and Outdoor areas have been forced to abandon agricultural activities due to the drainage of the canals, rivers and streams.
+
+The amount of drinking water supplied to the people of the National Water Supply Board has been limited due to the heavy rainfall in the areas.
+
+The public reports that water supply is on the basis of two days.
+
+Due to the severe drought, the work of plantation workers has also been reduced. People in the "Bee" estate area of ​​the Pasaru Dameria have also faced a severe drinking water problem.
+
+...
+
+[Data](articles/7eeeaa04.json)
+
+[Extended Data](ext_articles/7eeeaa04.ext.json)
+
+---
+
+### New jobs for 60,000
 
 *2025-10-01 16:55:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හට-දහකට-අලතන-රකය/101-680582) · `si`
 
-විවිධ ක්ෂේත්‍ර සඳහා තරුණ තරුණියන්  හැටදාහක් පමණ අලුතින් බඳවා ගැනීමට අපේක්ෂා කරන බව රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍ය  ආචාර්ය චන්දන අබේරත්න මහතා පැවසීය.
+Minister of Public Administration and Local Government Dr. Chandana Abeyratne said that the new youths are expected to be recruited for about 60,000 youths for various fields.
 
-එම ප්‍රමාණය ඉක්මවා හැටදහසක පමණ රැකියා ප්‍රමාණයක් ලබාදීමට රජය තීරණය කර ඇති  බවද ඔහු සඳහන් කළේය.
+He also said that the government has decided to provide a job in about 60,000.
 
-මේ අතර කළමනාකරණ  සේවා පත්වීම් 1890ක් පසුගියදා  දුන් බව පැවසූ අමාත්‍යවරයා රට  පුරා තරග විභාග පවත්වා එම පත්වීම්  දුන් බවද ප්‍රකාශ කළේය.
+The Minister said that 1890 Management Services Appointments have been given to the recent past.
 
-තරග විභාගවලින් තොරව හිතවත් කම් මත රැකියා  නොදෙන බව චන්දන අබේරත්න මහතා වැඩිදුරටත් පැවසීය.
+Chandana Abeyratne added that there is no jobs without competitive exam.
 
 ◼️
 
 [Data](articles/ece538de.json)
 
+[Extended Data](ext_articles/ece538de.ext.json)
+
 ---
 
-### මහනුවර ශ්‍රී දළදා මාලිගාවේ දේපළ සම්බන්ධයෙන් පෙත්සමක්
+### Petition on property of Sri Dalada Maligawa in Kandy
 
 *2025-10-01 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215225) · `si`
 
-මහනුවර ශ්‍රී දළදා මාලිගාවේ වැඩබලන දියවඩන නිලමේ නිලංග දෑල මහතා විසින් එම මාලිගාවට අයත් දේපළ අවභාවිතා කිරීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+Acting Diyawadana Nilame, Diyawadana Nilame, Diyawadana Nilame, Diyawadana Nilame.
 
-සිවිල් බුද්ධි පෙරමුණේ කැඳවුම්කරු සංජය මහවත්ත මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර ඇත.
+The petition was presented by the convener of the Civil Intelligence Front.
 
-පෙත්සම්කරු කියා සිටින්නේ විහාර හා දේවාල ගම් පනත යටතේ දළදා මාලිගාවට අයත් ප්‍රවේණිගත දේපල පැවරීම, බදුදීම හෝ අන්සතු කිරීම සම්පූර්ණයෙන්ම තහනම් බවය.
+The petitioner claims that the authorization or alizing the authorization of the Dalada Maligawa under the Temples and Devalagam Act.
 
-එසේ තිබියදී වත්මන් වැඩබලන නිලමේවරයා ඉකුත් කාලයේ දළදා මාලිගාවට අයත් දේපොළ අවභාවිතාවට ලක්කර තිබෙන බවට තොරතුරු ලැබී ඇතැයිද පෙත්සම්කරු සඳහන් කර ඇත.
+However, the Petitioner has said that the current acting Nilame has been depressed that the property belonging to the Dalada Maligawa has been depressed.
 
-ඒ අනුව ශ්‍රී දළදා මාලිගාව සතු වත්කම් සහ නිශ්චල දේපළ අන්සතු කිරීම, පැවරීම හෝ විකිණිම වළක්වාලන නියෝගයක් නිකුත් කරන ලෙස පෙත්සම්කරු අධිකරණයෙන්  ඉල්ලා තිබේ.
+Accordingly, the petitioner has requested the court to issue an order to issue the Assets and Real Estate Property of the Dalada Maligawa.
 
-ඊට අමතරව දළදා මාළිගාව සතු වත්කම් හා දේපළ පිළිබඳ සම්පූර්ණ විගණනයක් සිදු කරන ලෙස නියෝගයක් නිකුත් කරන ලෙසත් දළදා මාලිගාවේ පාලන කටයුතු මෙහෙයවීම සඳහා තාවකාලික භාරකරුවකු පත්කරන ලෙස බෞද්ධ කටයුතු කොමසාරිස් ජනරාල්වරයා වෙත නියෝගයක් නිකුත් කරන ලෙසත් පෙත්සමෙන් වැඩිදුරටත් ඉල්ලා තිබේ.
+In addition, the petition has also been asked to issue a permission to the Commissioner General of Buddhist Affairs to make a full audit of the Dalada Maligawa and to appoint a temporary care of the Dalada Malika.
 
 ◼️
 
 [Data](articles/45807f52.json)
 
+[Extended Data](ext_articles/45807f52.ext.json)
+
 ---
 
-### T20 ශ්‍රේණිගත කිරීම්හි පැතුම් තවත් ඉදිරියට
+### The wishes of T20 rating forward
 
 *2025-10-01 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215224) · `si`
 
-ICCය ප්‍රකාශයට පත්කළ නවතම විස්සයි20 පිතිකරුවන් ශ්‍රේණිගතකිරීමේ 5වන ස්ථානය දක්වා ඉදිරියට පැමිණීමට පැතුම් නිස්සංක සමත්ව තිබේ.
+The Latest Twenty20 batsmen, published by the ICC, has come to the 5th.
 
-ආසියානු කුසලාන තරගාවලියේ ඉන්දියාවට එරෙහිව රැස්කළ විශිෂ්ට ශතකය හේතුවෙන් ඔහු 7වන ස්ථානයේ සිට ස්ථාන 2කින් මෙලෙස ඉදිරියට පැමිණ සිටියි.
+He has been in the 7st to 2 locations from the 7st due to the excellent century against India in the Asia Cup.
 
-එමෙන්ම එම තරගයේ දී සටන්කාමී අර්ධ ශතකයක් රැස්කළ කුසල් ජනිත්ද 11වන ස්ථානයේ සිට 9වන ස්ථානයට ඉදිරියට පැමිණ ඇත.
+Kusal Janith, who scored the militant half century in the match, has come forward to 9th to 9th.
 
-මේ අතර විස්සයි20 තුන්ඉරියව් ක්‍රීඩකයන් අතර අංක එකට පත්ව සිටි ඉන්දියාවේ හර්දික් පාන්ඩ්‍ය අභිබවා පෙරමුණ අත්පත් කරගැනීමට පාකිස්තානයේ සයිම් අයුබ් සමත්ව තිබේ.
+Meanwhile, Zayme icon has been able to acquire the front of Harvk, India, who was the number twenths and Twenty20s.
 
-ඔහු ජාත්‍යන්තර විස්සයි20 තුන්ඉරියව් ක්‍රීඩකයන් අතර පෙරමුණට පැමිණ පළමු අවස්ථාව මෙය වේ.
+This is the first time he came to the forefront of the 31st international T20.
 
-ශ්‍රී ලංකාවේ වනිඳු හසරංගද මෙම කාණ්ඩයේ එක් ස්ථානයක් ඉදිරියට පැමිණ 6වන ස්ථානයට පැමිණ සිටියි.
+Sri Lanka's fanny Hasaranga is a place in this category and arrives in the 6th place.
 
 ◼️
 
 [Data](articles/35cdf594.json)
 
+[Extended Data](ext_articles/35cdf594.ext.json)
+
 ---
 
-### ඇමෙරිකානු ආණ්ඩුව වසා දමයි
+### The US government shuts down
 
 *2025-10-01 16:37:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමරකන-ආණඩව-වස-දමය/101-680581) · `si`
 
-වසර හයකට පසු ප්‍රථම වතාවට අද (01) එරට වේලාවෙන් පෙරවරු 12 ට ඇමෙරිකානු ආණ්ඩුව වසා දැමුණේය. මෙම මස සිට ඉන් ඉදිරියට රාජ්‍ය සේවා අඛණ්ඩව පවත්වා ගැනීමට අරමුදල් සැපයීම සඳහා ගෙන ආ අයවැය පනත් කෙටුම්පත සම්මත කිරීම සඳහා ඇමෙරිකානු සෙනෙට් සභාවේ සිටින රිපබ්ලිකන් සහ ඩිමොක්‍රටික් පාක්ෂිකයන් එකඟතාවයකට පැමිණීමට නොහැකි වීම ආණ්ඩුව වසා දැමීමට හේතුව විය.
+Six years later, the US government was closed for the first time in the 12th today (01). The government shutdates that the government shutdown of the Republicans and Democratic supporters in the American Senate to continue the public services to continue.
 
-ඇමෙරිකානු ආණ්ඩුව වසා දැමීමත් සමග සියලු රාජ්‍ය සේවා නොවුණත් ඇතැම් රාජ්‍ය සේවා අද (01) අත්හිටු විණ. අරමුදල වෙන් කිරීමට තිබූ අවසන් කාල සීමාව පසුවීමත් සමග ඇමෙරිකානු ආණ්ඩුව වහාම වසා දැමුණු අතර ඉන් අනතුරුව ඩිමෝක්‍රටික් සහ රිපබ්ලිකන් පාක්ෂිකයන් එකිනෙකා මත වරද පැටවූවේය. අයවැය පනත් කෙටුම්පත ගෙන ආ අවස්ථවේදී වත්මන් වියදම් තවත් සති 7 ක කාලයක් ඉදිරියට ගෙනයා යුතු බවට රිපබ්ලිකන්වරු ඩිමොක්‍රටික් පාක්ෂිකයන්ට බල කර සිටියේය.
+Although not all public services with the closure of the US government, some public services today (01) suspended. The US government has been closed immediately with the last period of allocation of the fund and then democratic and Republicans blamed each other on each other. The Republicans insisted that the current expenses should be forwarded for another 7 weeks when the budget was brought.
 
-රිපබ්ලිකන්වරුට කොංග්‍රසයේ සහ සෙනෙට් සබ්වේ බලය තිබුණත් සෙන්ට් සභාවේ ප්‍රමාණවත් ආසන සංඛ්‍යාවක් රිපබ්ලිකන්වරුන්ට නොමැත. ඒ හේතුවෙන් පනත් කෙටුම්පතක් සෙන්ට් සභාවේ සම්මත කිරීමට රිපබ්ලිකන් සාමාජිකයන්ට ඩිමොක්‍රටික් පාක්ෂිකයන් 60 දෙනකුගේ ඡන්දය අවශ්‍ය වේ.
+Republicans do not have enough number of seats in Saint, even though the Republicans have the power of Congress and Senate. As a result, the Republican members need the vote of 60 Democratic (Taxtore) to pass a Bill.
 
 ...
 
 [Data](articles/08a38508.json)
+
+[Extended Data](ext_articles/08a38508.ext.json)
+
+---
+
+### Pakistani citizen to arrest the public over bail conditions
+
+*2025-10-01 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226609) · `ta`
+
+Police Drug Prevention Unit has sought help to arrest a Pakistani citizen who violates bail conditions.
+
+On April 01, 2016, 17 people were arrested in court with 111 kg 82 grams of heroin in a roundabout carried out by the Navy in the Sri Lankan waters.
+
+The Pakistani citizen was released on bail on July 04 by the Court of Appeal.
+
+The court ordered the Pakistani citizen to appear in the police drug detention unit every Sunday as per the bail condition.
+
+Subsequently, the Police Drug Prevention Unit posted a photo of the Pakistani citizen to help the public.
+
+If any information on the suspect in these photos is available, the police have asked the public to contact the Police Drug Prevention Unit 071 - 8591881 or 011 - 2343333.
+
+◼️
+
+[Data](articles/efb8f401.json)
+
+[Extended Data](ext_articles/efb8f401.ext.json)
 
 ---
 
@@ -202,6 +558,28 @@ The fifth Health and Welfare Center in Matale District, the Gold Health Center w
 [Data](articles/7a9e161e.json)
 
 [Extended Data](ext_articles/7a9e161e.ext.json)
+
+---
+
+### Revised indictment served on ex-Minister Anura Priyadharshana Yapa, his wife, and six others
+
+*2025-10-01 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113112/revised-indictment-served-on-ex-minister-anura-priyadharshana-yapa-his-wife-and-six-others) · `en`
+
+A revised indictment was served before the Colombo High Court today (01) against former Minister of Petroleum Resources Development Anura Priyadharshana Yapa, his wife, and six other defendants.
+
+The charges were filed in relation to the misuse of over Rs. 6.1 million in government funds from the state-owned Ceylon Petroleum Corporation, allegedly spent illegally under the pretext of providing flood relief in December 2014.
+
+The revised indictment, filed by the Attorney General, was formally submitted before Colombo High Court Judge Udesh Ranatunga.
+
+As per the revised charges, the prosecution further informed court that another individual, Anura Seneviratne — who is said to have functioned as the Coordinating Secretary to the former Minister — has been named as an additional accused in the case.
+
+The judge ordered the case to be recalled on October 29 to formally serve charges to the additional accused.
+
+◼️
+
+[Data](articles/f4bcbf07.json)
+
+[Extended Data](ext_articles/f4bcbf07.ext.json)
 
 ---
 
@@ -267,21 +645,23 @@ The former Added Director of the National Planning Department of the Ministry of
 
 ---
 
-### මේඛලා සදරේනු සවුත්වේල්ස්හි නීතිඥවරියක ලෙස දිව්රුම් දෙයි
+### These sworn in as a lawyer in Samara Wales
 
 *2025-10-01 16:24:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මඛල-සදරන-සවතවලසහ-නතඥවරයක-ලස-දවරම-දය/101-680580) · `si`
 
-ශ්‍රේෂ්ඨාධිකරණ නීතිඥ අසුරුමුනි ආරච්චිගේ මේඛලා සදරේනු මහත්මිය  ඕස්ට්‍රේලියාවේ  නිව් සවුත්වේල්ස් ශ්‍රේෂ්ඨාධිකරණ නීතිඥවරියක (සොලිසිටර්වරියක) ලෙස නිව් සවුත් වේල්ස් ශ්‍රේෂ්ඨාධිකරණ අග විනිසුරුවරයා ඉදිරියේ පසුගියදා දිව්රුම් දුන්නාය.
+The Supreme Court Attorney Assurrumuna Arachchige Arachchi was sworn in before the Chief Justice of New Solicitoria in Australia.
 
-කොළඹ මියුසියස්  විද්‍යාලයේ  අධ්‍යාපනය හැදෑරූ මේඛලා සදරේනු ඕස්ට්‍රේලියාවේ ඇඩිලේඩ් නගරයේ කොලනල් ලයිට්  පසලේ අධ්‍යාපනය හදාරා ඇති අතර ලන්ඩන් විශ්ව විද්‍යාලයේ   නීති උපාධිය  සමත් වීමෙන් පසුව   ශ්‍රී ලංකා නීතී විද්‍යාලයට ඇතුලු විය.  නීති විද්‍යාල  විභාග සමත් වීමෙන් අනතුරුව සිය ආධුනික කාලය  නීතිපති දෙපාර්තමේන්තුවේ අතිරේක  සොලිසිටර් ජනරාල් දිල්රුක්ෂි මහත්මිය යටතේ කටයුතු කරමින් නිම කළාය .
+Education, who studied at the Mushaus Vidyalaya, Colombo, is studying the soil of Adelayard, Australia, and the colanet lights of the University of London.  After passing the law school exam, the Additional Solicitor General of the Attorney General's Department was completed by Dilrukshi.
 
-අනතුරුව  ඕස්ට්‍රේලියාවේ university of western sydney විශ්ව විද්‍යාලයෙන් නීතිය පිළිබඳ ශාස්ත්‍ර පති විභාගය  සමත්ව සොලිසිටර් වරියක ලෙස දිවුරුම් දුන්නාය.
+Subsequently, the law was sworn in as a soldier with law from the University of the Western Sydney University in Australia.
 
-මේඛලා සදරේනු  මුදල් අමාත්‍යාංශයේ ජාතික ක්‍රම සම්පාදන දෙපාර්තමේන්තුවේ හිටපු අතිරේක අධ්‍යක්‍ෂ ඡනරාල් සේපාලි රූපසිංහ මහත්මියගේ හා නීතිඥ  ඒ.ඒ. තිලකරත්න මහතාගේ දියණිය වේ.
+The former Added Director of the National Planning Department of the Ministry of Finance Ministry of Finance Ministry of National Planning, Secretary of the National Planning Ministry of Finance. Tilakaratne's daughter is.
 
 ◼️
 
 [Data](articles/693ca501.json)
+
+[Extended Data](ext_articles/693ca501.ext.json)
 
 ---
 
@@ -1243,6 +1623,20 @@ Earlier today, Laugfs Gas PLC announced that the company will not revise domesti
 
 ---
 
+### Announcement on absorbing development officers to the teacher service
+
+*2025-10-01 14:02:03* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-නිලධාරීන්-ගුරු-සේවයට-අන්තර්ග්‍රහණය-කිරීම-ගැන-නිවේදනයක්/11-418843) · `si`
+
+2023 මාර්තු මස 25 වන දින පාසල්වල සේවය කරන සංවර්ධන නිලධාරීන් ඇතුළුව රජයේ සේවයේ නියුතු උපාධිධාරී නිලධාරීන් ගුරු සේවයට ඇතුළත් කිරීම සම්බන්ධයෙන් පැවැත්වීමට නියමිත ව තිබු තරග විභාගයට අදාළව ශ්‍රේෂ්ඨාධිකරණයේ විභාග වූ නඩු කටයුතු කිහිපයක් මේ වන විට අවසන්ව ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි. However, as the case of the Court of Appeal has not yet been completed, the decision will be carried out regarding the above examination.
+
+◼️
+
+[Data](articles/323b9f21.json)
+
+[Extended Data](ext_articles/323b9f21.ext.json)
+
+---
+
 ### Tourist arrivals to Sri Lanka surpass 1.7 million in 2025
 
 *2025-10-01 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113106/tourist-arrivals-to-sri-lanka-surpass-17-million-in-2025) · `en`
@@ -1543,408 +1937,18 @@ Later, the teacher has been admitted to the Moneragala district hospital to get 
 
 ---
 
-### Sujeewa Senasinghe's hearing on controversial luxury vehicle
+### තාජුදීන් ඝාතනයේ හඬ පට හැංගු ලොක්කන් මේ ආණ්ඩුවෙත් ඉන්නවා
 
-*2025-10-01 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226566) · `ta`
+*2025-10-01 13:26:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-ඝතනය-හඬ-පට-හග-ලකකන-ම-ආණඩවත-ඉනනව/1-680567) · `si`
 
-Fort Magistrate Isuru Netikumara has ordered that a case filed against MP Sujeewa Senasinghe has been taken up for hearing on January 07, 2026, alleging that a V8 luxury vehicle worth Rs 10 crore has been set up illegally equipped with illegal vehicle parts.
+තාජුඩීන්ගේ බී වාර්තාව වැරදියට ලියපු අය පවා  මේ ආණ්ඩුවේ සිටින බව සමගි  ජන බලවේගයේ කොළඹ දිස්ත්‍රික්  පාර්ලිමේන්තු මන්ත්‍රී මුජිබර්  රහුමාන් මහතා පැවසීය
 
-The order was issued when the case was called on Wednesday (01).
+තාජුදීන්ගේ ඝාතනය සිදු වූ දින අරලියගහ මන්දිරය සහ නාරාහෙන්පිට  පොලිසිය අතර කෙරුණු  දුරකථන සංවාද හතළිහකට  අදාල  වාර්තාව දුරකතන සමාගමක   ප්‍රධානීන් හැංගූ බව කී මන්ත්‍රීවරයා එදා  පාලකයන්ට  හිතවත්ව සිටි ඒ දුරකථන සමාගම් ලොක්කන්   දැන් ජනාධිපතිතුමා ළඟත් සිටින බව ප්‍රකාශ කළේය.
 
-◼️
-
-[Data](articles/22edde74.json)
-
-[Extended Data](ext_articles/22edde74.ext.json)
-
----
-
-### Austrian Ambassador to Sri Lanka
-
-*2025-10-01 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/226575) · `ta`
-
-Austria's Ambassador to Sri Lanka Katharina Wileser on Tuesday (Sept.. 30) Prime Minister Harini met Amarasuriya at the Alari House.
-
-The Prime Minister praised Wileser's services to carry out the Sri Lankan -Austria relationship, especially on attracting the investment of the Austrian government in the field of stable energy and technology, emphasizing the importance of expanding bilateral cooperation.
-
-Both sides discussed the educational reforms that are currently being implemented in Sri Lanka and explained to the Prime Minister's Ambassador and the fields that improve cooperation with Austria.
-
-The ambassador, who praised the new government's efforts to guide the country to normalize the country, shared information about Austria's education system.
-
-The Prime Minister also called for leading Austrian nationals to visit Sri Lanka to strengthen bilateral cooperation.
-
-...
-
-[Data](articles/e64e0416.json)
-
-[Extended Data](ext_articles/e64e0416.ext.json)
-
----
-
-### Weheragala tank bam tanks found
-
-*2025-10-01 13:17:55* · [`adalk`](https://www.ada.lk/breaking_news/වෙහෙරගල-වැව්-බැම්මෙන්-සංග්‍රාමික-උපකරණ-රැසක්-හමුවෙයි/11-418839) · `si`
-
-There are 74 T-56 Magazines, which are located near the Sagargala Reservoir of the Yala National Park, 34 T-56 Magazines, including 35 LMG Drums, Mcenario and a chemical fertilizer. Gonagankara Police said.
-
-A fisherman engaged in the Vellakaragama Army Army and the Gonagankara Police College of Weapons Affairs of the Weapons Tank Bilm Weapons and the Gonagankara Police College was found.
-
-The police say that more than the weapons found in the reservoir, so that the sluice of the reservoir is at the bottom of the reservoir, so that the navy divers will continue to look into the matter.
-
-Due to the high dry weather in the area, the water level of the Weheragala reservoir has fallen in large numbers, including the stock of weapons of the tank bund of the reservoir.
-
-Acting Superintendent of Police in charge of the Moneragala Division B.Peganara Police is conducting further investigations.
+පාස්කු  ඉරුදින  ප්‍රහාරයට අදාළව විශ්වාසභංග යෝජනාවක්වත් ගේන්නවත්  මේ ආණ්ඩුව ඉඩ නොදෙන බව රහුමාන් මහතා පැවසීය
 
 ◼️
 
-[Data](articles/9dd7d311.json)
-
-[Extended Data](ext_articles/9dd7d311.ext.json)
-
----
-
-### Recovery of 10 handbags out of 100
-
-*2025-10-01 13:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-இல்-10-கைக்குண்டுகள்-மீட்பு/175-365578) · `ta`
-
-The Terrorist Investigation Unit, which is investigating the suspects who escaped with 100 handguns, recovered 10 of them in the confrontation yesterday.
-
-Police have arrested three suspects in Kiribathkodai and Chettikulam with T-56 assault rifle and 86 hand grenades.
-
-Investigations later revealed that several more suspects escaped with about 100 grenades. The rescue operation was made during a series of measures associated with the initial arrests.
-
-◼️
-
-[Data](articles/7f18be6a.json)
-
-[Extended Data](ext_articles/7f18be6a.ext.json)
-
----
-
-### US government shutdown begins as partisan division rules Washington
-
-*2025-10-01 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113103/us-government-shutdown-begins-as-partisan-division-rules-washington) · `en`
-
-The U.S. government shut down much of its operations on Wednesday as deep partisan divisions prevented Congress and the White House from reaching a funding deal, setting off what could be a long, grueling standoff that could lead to the loss of thousands of federal jobs.
-
-There was no clear path out of the impasse, while agencies warned that the 15th government shutdown since 1981 would halt the release of a closely watched September employment report, slow air travel, suspend scientific research, withhold pay from U.S. troops and lead to the furlough of 750,000 federal workers at a daily cost of $400 million.
-
-Trump, whose campaign to radically reshape the federal government is already on track to push out some 300,000 workers by December, warned congressional Democrats that a shutdown could clear the path for “irreversible” actions including cutting more jobs and programs.
-
-...
-
-[Data](articles/a952d1f7.json)
-
-[Extended Data](ext_articles/a952d1f7.ext.json)
-
----
-
-### Gaza War: Trump - Netanyahu Meeting; US extreme pressure on peace - 8 countries including China and Pakistan welcome
-
-*2025-10-01 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226574) · `ta`
-
-Eight countries, including China and Pakistan, have welcomed the 20 -stipulated plan to end the Gaza Conflict.
-
-More than 65 thousand Palestinians, including women and children, have been killed in the Gaza attack on Israel over the past one and a half years. Attempts to meditate under the leadership of US President Donald Trump have been intensified to end the war.
-
-In this context, Israeli Prime Minister Benjamin Netanyahu traveled to the United States on September 30. The meeting occurred at the time of Israel's intensification of the Gaza War, which caused a stir on the world stage.
-
-This is the 4th time Netanyahu goes to the United States in the current year. Trump, who came to the white palace door, greeted Netanyahu, who came out of the car. During the talks at the White House, it seems that Gaza has been pressed on behalf of Trump to end the Gaza War immediately. Thus, there is an expectation that the Gaza War may be ended soon.
-
-...
-
-[Data](articles/b6c16786.json)
-
-[Extended Data](ext_articles/b6c16786.ext.json)
-
----
-
-### First US Federal Shutdown in Six Years Begins After Funding Talks Collapse
-
-*2025-10-01 13:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/first-us-federal-shutdown-in-six-years-begins-after-funding-talks-collapse) · `en`
-
-The US federal government has officially shut down for the first time in six years after a deadlocked Congress failed to pass a funding measure to keep the lights on — and no one inside the Capitol knows what will happen next.
-
-Republicans insist Democrats need to simply agree to extend current funding for another seven weeks.
-
-Democrats refuse to do so without major concessions for lending their votes to pass any funding measure in the Senate.
-
-Both Republican and Democratic proposals that would have funded the government past Tuesday failed in the Senate during the eleventh hour, effectively shutting down the government at 12:01 a.m. on Wednesday.
-
-The federal government ran out of money after a Democratic-backed spending bill that would have extended health care subsidies under the Affordable Care Act and reversed cuts to Medicaid failed, as well as the GOP-backed stopgap funding measure that would have funded the government for seven weeks also failed.
-
-...
-
-[Data](articles/39027746.json)
-
-[Extended Data](ext_articles/39027746.ext.json)
-
----
-
-### Case against Keheliya Rambukwella and family fixed for pre-trial conference
-
-*2025-10-01 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113102/case-against-keheliya-rambukwella-and-family-fixed-for-pre-trial-conference-) · `en`
-
-The Colombo High Court has ordered that the case filed by the Bribery Commission against former Minister Keheliya Rambukwella, his wife, and four other family members for the illegal acquisition of assets worth over Rs. 97 million be called for further pre-trial conference on October 15.
-
-When the case was called before Colombo High Court Judge Mohamed Mihal today (01), former Minister of Health Keheliya Rambukwella along with the other defendants appeared before the court, Ada Derana reporter said.
-
-President’s Counsel Kalinga Indatissa, who appeared for the defendant Keheliya Rambukwella, stated in court that the prosecution has not yet provided him with 12 documents requested by the defendant.
-
-The President’s Counsel observed that although the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) had suddenly filed indictments against the defendants, the relevant documents had not been provided to the defense, adding that such conduct sets an improper precedent.
-
-...
-
-[Data](articles/65fb9412.json)
-
-[Extended Data](ext_articles/65fb9412.ext.json)
-
----
-
-### Ticket law from today
-
-*2025-10-01 12:59:30* · [`adalk`](https://www.ada.lk/breaking_news/ටිකට්-නීතිය-අද-සිට/11-418838) · `si`
-
-Passengers from passenger buses in the Western Province have been mandatory by the Western Province Road Passenger Transport Superintendent.
-
-The conductors who do not give passengers a fine of Rs.
-
-◼️
-
-[Data](articles/03e76722.json)
-
-[Extended Data](ext_articles/03e76722.ext.json)
-
----
-
-### 400 Iranians illegally settled in the United States
-
-*2025-10-01 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226572) · `ta`
-
-After Donald Trump took office as US President, various action changes are being made in administration. As part of this, the move to return illegal immigrants to their own countries has intensified.
-
-US Immigration Officers are conducting raids on commercial complexes and private companies, arresting those who are staying without proper documents and sent back to their own countries.
-
-As part of the action, about 400 people from Iran were found to stay there without proper documentation.. In a recent raid, 120 people from Iran were arrested. The number of Iranians arrested has exceeded 400.
-
-Hossein Noushabadi, General Director of Parliament and Embassy Affairs of the Iranian Foreign Ministry, said that the US is planning to deport about 400 Iranians.
-
-He said that Iran would arrive in the next two days after the 120 Iranians were brought to Qatar in the first constituency.
-
-...
-
-[Data](articles/72e3e13f.json)
-
-[Extended Data](ext_articles/72e3e13f.ext.json)
-
----
-
-### கதிர்காமம் வெஹெரகல ஏரியில் வெடிபொருட்கள் கண்டுபிடிப்பு
-
-*2025-10-01 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226571) · `ta`
-
-Kadirgamam police said that ammunition has been found on Tuesday (30) at Veerakala Lake Kadirgamam.
-
-The captured ammunition includes 74 T-56 Magasins, 36 T-56 Lights Machine Gun Magazines, several T-81 clouds and other ammunition, police said.
-
-◼️
-
-[Data](articles/ddd38abc.json)
-
-[Extended Data](ext_articles/ddd38abc.ext.json)
-
----
-
-### Bollywood Battles AI: The Bachchans' Legal Crusade
-
-*2025-10-01 12:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/bollywood-battles-ai-the-bachchans-legal-crusade) · `en`
-
-In India, Bollywood stars are asking judges to protect their voice and persona in the era of artificial intelligence. One famous couple's biggest target is Google's video arm YouTube.
-
-Abhishek Bachchan and his wife Aishwarya Rai Bachchan, known for her iconic Cannes Film Festival red carpet appearances, have asked a judge to remove and prohibit creation of AI videos infringing their intellectual property rights. But in a more far-reaching request, they also want Google ordered to have safeguards to ensure such YouTube videos uploaded anyway do not train other AI platforms, legal papers reviewed by Reuters show.
-
-A handful of Bollywood celebrities have begun asserting their "personality rights" in Indian courts over the last few years, as the country has no explicit protection for those like in many U.S. states.
-
-...
-
-[Data](articles/d375f3c9.json)
-
-[Extended Data](ext_articles/d375f3c9.ext.json)
-
----
-
-### Free recovery to children who suffer from cancer
-
-*2025-10-01 12:46:16* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/පිළිකා-රෝගයෙන්-පීඩා-විඳින--දරුවන්ට--නොමිලේ--සුවය--බෙදන-සුව-අරණ/12-680566) · `si`
-
-◼️
-
-[Data](articles/55c6bbaa.json)
-
-[Extended Data](ext_articles/55c6bbaa.ext.json)
-
----
-
-### Three Indians arrested for coming to Sri Lanka on a tourist visa
-
-*2025-10-01 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226569) · `ta`
-
-Three persons belonging to the same family who have come to Sri Lanka on a tourist visa from India have been arrested by the Point Pedro Police.
-
-In the Point Pedro area, a family from India was arrested on Tuesday (30) on Tuesday (30), based on confidential information received by the police that a rented house was being set up in a rented house.
-
-Investigations conducted by the three arrested have revealed that the three were husband, wife and child and that they were from Bangalore in India.
-
-Investigations have revealed that the trio had come to Sri Lanka on a tourist visa and stayed at a hostel in the Point Pedro area and recently rented a house in the Thumbala area and turned it into astrology.
-
-◼️
-
-[Data](articles/5fb506a4.json)
-
-[Extended Data](ext_articles/5fb506a4.ext.json)
-
----
-
-### Netanyahu is angry after negotiations with Trump
-
-*2025-10-01 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226570) · `ta`
-
-As Israeli Prime Minister Netanyahu immediately returned to the country after completing a peace talks with US President Trump, he expressed his expression on the plan to recognize Palestine.
-
-Speaking to reporters at Tel Aviv Airport, reporters questioned whether Palestine would be recognized as an individual.
-
-Responding to this, Netanyahu excitedly said, "I will never recognize Palestine alone."
-
-Netanyahu added that Israel has only allowed US President Trump's Peace Agreement and the 20 -point plan.
-
-When he clarified the position, he said, “Our position is to have a ceasefire. We will never recognize it. ”
-
-In this scenario, Hamas has said that US President Trump's Gaza Peace Plan has been reconsidered.
-
-In a statement issued by Hamas, it said,. Hamas has said that it will take a few days to end the negotiations due to leaders and communications issues, which will only be resolved.
-
-◼️
-
-[Data](articles/b0a81eec.json)
-
-[Extended Data](ext_articles/b0a81eec.ext.json)
-
----
-
-### Philippines quake death toll rises to 69, official says
-
-*2025-10-01 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113101/philippines-quake-death-toll-rises-to-69-official-says) · `en`
-
-The death toll from a 6.9-magnitude earthquake that hit the central Philippines has risen to 69, a disaster official said on Wednesday as the government mobilised agencies to search for survivors and restore power and water supplies.
-
-In Bogo city in the north of Cebu province, which was near the epicentre of the shallow quake that struck off the coast just before 10 p.m. on Tuesday, the hospital has been “overwhelmed,” Civil Defense official Raffy Alejandro told reporters.
-
-The death toll of 69 was based on data from the Cebu provincial disaster office and was subject to validation, said Jane Abapo, an information officer at the regional Civil Defense office. Another official said more than 150 people were injured.
-
-President Ferdinand Marcos Jr assured survivors of swift assistance, saying cabinet secretaries were on the ground directing relief operations, as he expressed his condolences to those who lost loved ones.
-
-...
-
-[Data](articles/54032195.json)
-
-[Extended Data](ext_articles/54032195.ext.json)
-
----
-
-### Medical equipment from the population fund
-
-*2025-10-01 12:36:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනගහන-අරමදලන-වදය-උපකරණ/1-680563) · `si`
-
-The United Nations Population Fund (UNFPA) was held in Sri Lanka and the Maldives, the Ministry of Health and Mass Media, Media Minister Dr. Nalinda Jayatissa.
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa and Funtzhow Vanguel were exchanged on the current functioning and planning and challenges of the health service system in Sri Lanka.
-
-The support of children's and maternity health promotion of Sri Lanka and provide medical equipment to the national health policy of the country, and the discussion of the country's national health policy and strengthen the program for sex education.
-
-◼️
-
-[Data](articles/ec5045da.json)
-
-[Extended Data](ext_articles/ec5045da.ext.json)
-
----
-
-### Medical equipment from the population fund
-
-*2025-10-01 12:36:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනගහන-අරමදලන-වදය-උපකරණ/101-680563) · `si`
-
-The United Nations Population Fund (UNFPA) was held in Sri Lanka and the Maldives, the Ministry of Health and Mass Media, Media Minister Dr. Nalinda Jayatissa.
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa and Funtzhow Vanguel were exchanged on the current functioning and planning and challenges of the health service system in Sri Lanka.
-
-The support of children's and maternity health promotion of Sri Lanka and provide medical equipment to the national health policy of the country, and the discussion of the country's national health policy and strengthen the program for sex education.
-
-◼️
-
-[Data](articles/f170497b.json)
-
-[Extended Data](ext_articles/f170497b.ext.json)
-
----
-
-### The country's clothing export revenue is $ 479.14 billion in August
-
-*2025-10-01 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226568) · `ta`
-
-The country's clothing export revenue is US $ 479.14 billion in August, and it fell 1.33% per hundred compared to August last year.
-
-Exports to the United States recorded a small increase of 0.92%, compared to August last year, and exports to the EU and the UK have fallen by 4.83% per hundred and 2.6%.
-
-However, in the first eight months of this year, the export of apparel has shown a significant increase in the forum of the united garment associations.
-
-Accordingly, that revenue is $ 3.39 billion during this period. Compared to last year, it was $ 3.16 billion in the same period, with an increase of 7.48%.
-
-The increase in revenue has increased export revenues for the EU (except Britain) to 14.66%, the value of exports to the United States 2.58% and 9.45% of other markets exports.
-
-◼️
-
-[Data](articles/6e4a2f7b.json)
-
-[Extended Data](ext_articles/6e4a2f7b.ext.json)
-
----
-
-### An announcement on recruiting development officers to the teaching
-
-*2025-10-01 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215218) · `si`
-
-The Ministry of Education has issued a statement regarding the recruitment of development officers working in schools to the teaching of the school.
-
-The announcement is listed under the signature of the Secretary to the Ministry Nalaka Kabuwewa.
-
-The Ministry of Education states that several proceedings of the Supreme Court have been completed in connection with the participation of the Government of the Supreme Court regarding the inclusion of the participants who are working in the teacher service, including the development officers of the schools.
-
-However, since the case of the Court of Appeal has not yet been completed, the above examination will be carried out following the above examination.
-
-◼️
-
-[Data](articles/de5e4f02.json)
-
-[Extended Data](ext_articles/de5e4f02.ext.json)
-
----
-
-### HNB Finance signing contract with Indra Traders to provide more profitable leasing facilities to customers
-
-*2025-10-01 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226567) · `ta`
-
-Sri Lanka's leading financial firm HNB Finance Plc recently signed an agreement with Indra Traders, the country's popular motor vehicle import company.
-
-Through this agreement, customers across the country of HNB Finance and Indra Traders will get the opportunity to buy motor vehicles from Indra Traders with attractive leasing facilities and many benefits.. The signing event was held on August 15 at the headquarters of HNB Finance PLC.
-
-According to this strategic agreement, HNB Finance will provide attractive interest rate and many benefits to the new motor vehicle or high -quality quality -made motor vehicle from Indra Traders.
-
-In addition, the machine and gear system of motor vehicles purchased under the HNB Finance Leasing Facility will be given three years of full warranty, and a three -year guarantee of unregistered motor vehicles will be guaranteed.
-
-...
-
-[Data](articles/e9798c69.json)
-
-[Extended Data](ext_articles/e9798c69.ext.json)
+[Data](articles/e224200c.json)
 
 ---

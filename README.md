@@ -1,37 +1,549 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 05:56:07**
+As of **2025-10-02 08:58:01**
 
 ## Newspaper Stats
 
-*Scraped **80,370** Articles*
+*Scraped **80,404** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 539
+newsfirstlk | 551
 lankadeepalk | 615
 dbsjeyarajcom | 637
-bbccomsinhala | 716
+bbccomsinhala | 717
 colombotelegraphcom | 803
 dailymirrorlk | 4,733
 economynextcom | 4,774
-islandlk | 4,861
+islandlk | 4,873
 dailyftlk | 5,616
 adalk | 7,726
-adaderanalk | 10,352
-tamilmirrorlk | 11,986
+adaderanalk | 10,358
+tamilmirrorlk | 11,988
 virakesarilk | 13,149
-adaderanasinhalalk | 13,863
+adaderanasinhalalk | 13,864
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,367 (100.0%) of 80,370 articles have been extended.
+80,398 (100.0%) of 80,404 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-10-02 (Thursday)
+
+### Free Entry as Women’s World Cup Kicks Off in Sri Lanka
+
+*2025-10-02 08:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/free-entry-as-women%e2%80%99s-world-cup-kicks-off-in-sri-lanka) · `en`
+
+...
+
+[Data](articles/b3d90fc8.json)
+
+---
+
+### Israeli Forces Detain Over 200 People In Aid Flotilla From 37 Countries
+
+*2025-10-02 08:32:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/israeli-forces-detain-over-200-people-in-aid-flotilla-from-37-countries) · `en`
+
+(AJ): Global Sumud Flotilla spokesperson Saif Abukeshek has provided a “mission update” in a post on Instagram, confirming that Israeli forces have intercepted 13 boats at sea.
+
+Abukeshek said there were more than 201 people from 37 countries on those boats, including 30 participants from Spain, 22 from Italy, 21 from Turkiye and 12 from Malaysia.
+
+He said the group’s “mission is going on” despite the arrests, and vessels are continuing to sail “through the Mediterranean to break the siege on Gaza”.
+
+“We have around 30 ships that are still fighting their way away from the military vessels of the occupation forces trying to reach to the shores of Gaza. They are determined. They are motivated, and they are doing everything within their hand to be able to break this [siege] by early morning and to arrive together,” he said.
+
+...
+
+[Data](articles/e1e7e1ee.json)
+
+---
+
+### Sri Lanka Partners with RMIT to Launch National Innovation Centre
+
+*2025-10-02 08:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/sri-lanka-partners-with-rmit-to-launch-national-innovation-centre) · `en`
+
+COLOMBO (News 1st); A high-level discussion was held at the Presidential Secretariat between representatives of the Government of Sri Lanka and the Royal Melbourne Institute of Technology (RMIT), Australia, focusing on the establishment of the Sri Lanka National Innovation Centre.The initiative aims to create a dedicated platform for advancing research, innovation, and development across multiple sectors. Once operational, the centre is expected to enhance the effectiveness of existing integrated doctoral programs by aligning them more closely with national priorities and research policy frameworks.Officials emphasized that the centre will play a pivotal role in identifying local challenges and delivering targeted R&D solutions. It will also serve as a bridge between academic research and practical implementation, ensuring that the outcomes of innovation efforts directly benefit the Sri Lankan public.
+
+◼️
+
+[Data](articles/b0295057.json)
+
+---
+
+### Colombia Expels Israeli Diplomats Over Attack On Flotilla
+
+*2025-10-02 08:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/colombia-expels-israeli-diplomats-over-attack-on-flotilla) · `en`
+
+(TRT) President Gustavo Petro has ordered the expulsion of the entire Israeli diplomatic delegation from Colombia, a move triggered by the detention of two Colombian nationals aboard a flotilla attempting to deliver humanitarian aid to besieged Gaza.
+
+Manuela Bedoya and Luna Barreto were part of the Global Sumud Flotilla's crew – an international effort that is trying to break Israeli blockade and deliver aid to Gaza. According to a statement from the Global Movement to Gaza, the Israeli military illegaly detained the women after the flotilla reached a high-risk area 150 nautical miles off the coast.
+
+"After reaching 150 nautical miles ... the maritime positioning of Israeli ships begins at 23:59 UTC (6.59 pm Colombia time)," said the statement, asserting that other flotillas have been "attacked or intercepted." It described it as "a violation of international law and the Geneva Accords."
+
+...
+
+[Data](articles/e543435b.json)
+
+---
+
+### NDDCB Confirms Mephedrone in Coastal Seizure
+
+*2025-10-02 08:24:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/nddcb-confirms-mephedrone-in-coastal-seizure) · `en`
+
+COLOMBO (News 1st): The National Dangerous Drugs Control Board (NDDCB) has confirmed that the substance found in possession of a Moldovan national in the Weligama area is Mephedrone, a highly potent and dangerous synthetic narcotic.Following detailed laboratory analysis, the NDDCB officially handed over the final report to the Weligama Police yesterday, confirming the presence of the banned psychoactive substance.
+
+◼️
+
+[Data](articles/55014ef5.json)
+
+---
+
+### CID Questions Top Officers Over Suspected Meth Container Release
+
+*2025-10-02 08:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/cid-questions-top-officers-over-suspected-meth-container-release) · `en`
+
+...
+
+[Data](articles/e1a0e370.json)
+
+---
+
+### Authorities Confirm Methamphetamine in Tangalle Raid
+
+*2025-10-02 08:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/authorities-confirm-methamphetamine-in-tangalle-raid) · `en`
+
+COLOMBO (News 1st); The National Dangerous Drugs Control Board (NDDCB) has confirmed that the large stock of chemicals recently discovered in Netolpitiya, Tangalle, contains methamphetamine, commonly known as "Ice."
+
+The confirmation follows detailed laboratory testing of samples obtained during the raid.
+
+According to the NDDCB, the final report of the chemical analysis has been officially handed over to the Tangalle Police, marking a significant breakthrough in the ongoing investigation into suspected narcotics production operations in the region.
+
+Authorities also revealed that a similar stock of suspicious chemicals found in Kadana is currently undergoing extensive testing.
+
+The final report on that batch is expected to be released within the coming week.
+
+The discoveries in Middeniya, Kadana, and Netolpitiya were made following intelligence gathered during interrogations of Backhoe Saman, a known organized crime figure currently in custody under a detention order.
+
+...
+
+[Data](articles/0684a897.json)
+
+[Extended Data](ext_articles/0684a897.ext.json)
+
+---
+
+### Sri Lanka Tightens Product Standards with New Gazette
+
+*2025-10-02 07:59:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/sri-lanka-tightens-product-standards-with-new-gazette) · `en`
+
+COLOMBO (News 1st); The Consumer Affairs Authority has issued an extraordinary gazette notification mandating that all products covered under standard specifications must not be manufactured, packaged, distributed, transported, stored, or sold without obtaining the Sri Lanka Standards (SLS) certification.
+
+This regulation will come into effect from April 1, 2026, and is aimed at ensuring product quality, consumer safety, and regulatory compliance across all sectors.
+
+◼️
+
+[Data](articles/1a4d24ed.json)
+
+[Extended Data](ext_articles/1a4d24ed.ext.json)
+
+---
+
+### No More Free Sili Sili Bags: Sri Lanka Ends Free Distribution
+
+*2025-10-02 07:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/no-more-free-sili-sili-bags-sri-lanka-ends-free-distribution) · `en`
+
+COLOMBO (News 1st); The Central Environmental Authority has issued an extraordinary gazette notification announcing a ban on the free distribution of lightweight polythene bags, commonly known as sili sili bags, effective November 1.
+
+According to the gazette, low-density polyethylene (LDPE) bags and LDPE-based packaging must no longer be provided free of charge to consumers.
+
+The regulation further mandates that retailers must clearly indicate the price of such bags on the customer’s bill.
+
+Additionally, the price of the polythene bags must be visibly displayed at the point of sale, allowing consumers to make informed choices.
+
+◼️
+
+[Data](articles/1698ad3a.json)
+
+[Extended Data](ext_articles/1698ad3a.ext.json)
+
+---
+
+### Seat Belts a Must for Drivers and Passengers on Expressway
+
+*2025-10-02 07:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/seat-belts-a-must-for-drivers-and-passengers-on-expressway) · `en`
+
+COLOMBO (News 1st); The Ministry of Transport, Highways, Ports and Civil Aviation has issued an extraordinary gazette notification mandating the use of seat belts for all occupants of vehicles traveling on expressways.
+
+The regulation, signed and announced by Minister Bimal Rathnayake, stipulates that both drivers and passengers seated in the rear must wear seat belts at all times while on expressways.
+
+This marks a significant expansion of previous safety requirements, which primarily focused on front-seat passengers.
+
+According to the gazette, every vehicle must be equipped with a standardized seat belt system comprising three anchoring points: one belt running diagonally across the chest, another horizontally across the lap, and a third securing the side of the torso.
+
+These specifications aim to ensure maximum protection in the event of a collision or sudden deceleration.
+
+◼️
+
+[Data](articles/d2ec9476.json)
+
+[Extended Data](ext_articles/d2ec9476.ext.json)
+
+---
+
+### Sri Lanka Spends USD 918M on Vehicle Imports: August Sets All-Time Monthly Record
+
+*2025-10-02 07:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/sri-lanka-spends-usd-918m-on-vehicle-imports-august-sets-all-time-monthly-record) · `en`
+
+COLOMBO (News 1st); The Central Bank of Sri Lanka has revealed that the country has spent a staggering USD 918 million on vehicle imports so far this year, marking a sharp rise in consumer demand and import activity.
+
+According to the latest data, August alone accounted for USD 249 million in vehicle import expenditure—the highest monthly figure recorded since the resumption of vehicle imports.
+
+This surge reflects a significant uptick compared to July’s USD 193 million, indicating a month-on-month increase of USD 56 million.
+
+◼️
+
+[Data](articles/10b567d3.json)
+
+[Extended Data](ext_articles/10b567d3.ext.json)
+
+---
+
+### Underwater Arms Discovery Triggers Major Search Operation
+
+*2025-10-02 07:36:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/underwater-arms-discovery-triggers-major-search-operation) · `en`
+
+COLOMBO (News 1st); Sri Lankan authorities have launched a special underwater operation at the Weheragala Reservoir in Kataragama, following the discovery of a large cache of military-grade weapon components.
+
+According to police sources, the operation involves six elite diving teams from the Sri Lanka Navy, deployed to conduct a thorough search of the reservoir’s interior.
+
+The decision to initiate the operation was made after recent search missions uncovered a significant stockpile of empty magazines and weapon accessories submerged in the area.
+
+The discovery was made based on intelligence provided by a military officer, which led to coordinated search efforts in the reservoir vicinity.
+
+Police confirmed  that the Wellawaya Magistrate’s Court will be briefed on the developments.
+
+◼️
+
+[Data](articles/09f5790b.json)
+
+[Extended Data](ext_articles/09f5790b.ext.json)
+
+---
+
+### Conservationist Dame Jane Goodall dies aged 91
+
+*2025-10-02 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113132/conservationist-dame-jane-goodall-dies-aged-91) · `en`
+
+Conservationist Dame Jane Goodall, a world-leading expert on chimpanzees, has died aged 91.
+
+Her observations helped to reveal how closely related humans are to chimpanzees. She also worked tirelessly for conservation projects around the world.
+
+Dr Goodall died of natural causes while in California on a speaking tour of the US, according to a statement from the Jane Goodall Institute.
+
+It said her discoveries “revolutionised science” and that she was “a tireless advocate for the protection and restoration of our natural world”.
+
+The United Nations said it mourned the loss of Dr Goodall, saying that she “worked tirelessly for our planet and all its inhabitants, leaving an extraordinary legacy for humanity and nature”.
+
+Greenpeace said it was “heartbroken” by her death, calling her “one of the true conservation giants of our time”.
+
+...
+
+[Data](articles/889763d5.json)
+
+[Extended Data](ext_articles/889763d5.ext.json)
+
+---
+
+### Putin goes to India in December
+
+*2025-10-02 06:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிசம்பரில்-இந்தியா-செல்கின்றார்-புடின்/50-365603) · `ta`
+
+Indian media reports that Russian President Vladimir Putin will go to India in December.
+
+He is expected to attend the summit on December 5 and 6.
+
+During the Russian visit to Indian National Security Advisor Ajith Dowel last August, Putin was referred to as an attendance of India, but there was no official reference to the time.
+
+However, the Indian Prime Minister Modi and the Russian President met at the recent Shanghai Cooperation Organization Summit in China. Both leaders have negotiated an hour. (A)
+
+◼️
+
+[Data](articles/26e512be.json)
+
+[Extended Data](ext_articles/26e512be.ext.json)
+
+---
+
+### Vijay's campaign canceled for 2 weeks
+
+*2025-10-02 06:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-பிரச்சாரம்-2-வாரங்களுக்கு-ரத்து/175-365602) · `ta`
+
+The Tamil Nadu Victory Corporation has announced that the next two weeks will be postponed, with 41 people killed in the crowd during the Vijay's campaign in Karur last Saturday.
+
+In this context, which is in pain and grief that we have lost our own, the people's meeting for the next two weeks of the president of our club is temporarily postponed.. With the approval of the Chairman of our Corporation, the new details of this people's meeting will be announced later.. (A)
+
+◼️
+
+[Data](articles/9629f46c.json)
+
+[Extended Data](ext_articles/9629f46c.ext.json)
+
+---
+
+### A change in the weather in many areas from tomorrow
+
+*2025-10-02 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215236) · `si`
+
+Atmospheric atmospheric conditions are underway during the evening in the evening.
+
+The Department of Meteorology announced that there is a rainy weather in many parts of the island.
+
+From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds are about 30-40 times.
+
+◼️
+
+[Data](articles/bd0fbf24.json)
+
+[Extended Data](ext_articles/bd0fbf24.ext.json)
+
+---
+
+### Duo arrested at BIA while attempting to smuggle foreign cigarettes worth over Rs. 14 million
+
+*2025-10-02 06:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113131/duo-arrested-at-bia-while-attempting-to-smuggle-foreign-cigarettes-worth-over-rs-14-million) · `en`
+
+A Sri Lankan and an Indian national have been arrested at the Bandaranaike International Airport (BIA) by officers of the Police Narcotics Bureau while attempting to smuggle a stock of foreign-manufactured cigarettes, into the country.
+
+They had concealed 347 cartons containing a total of 69,400 cigarettes valued at Rs. 14.12 million within six travel bags.
+
+One of the suspects is a 26-year-old businessman from Ratnapura while the other is a 23-year-old Indian businessman.
+
+The suspects have been released on police bail and are scheduled to be produced before the Negombo Magistrate’s Court tomorrow (03).
+
+◼️
+
+[Data](articles/647c50d5.json)
+
+[Extended Data](ext_articles/647c50d5.ext.json)
+
+---
+
+### Govt taking steps towards establishing an Independent Prosecutor’s Office
+
+*2025-10-02 06:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113130/govt-taking-steps-towards-establishing-an-independent-prosecutors-office) · `en`
+
+The government has taken measures to appoint an expert committee to establish an Independent Prosecutor’s Office, as a step towards strengthening the process of ensuring justice in the country.
+
+According to the Ministry of Justice and National Integration, a discussion among the members of the committee was held yesterday (01) under the leadership of the Minister of Justice, Harsha Nanayakkara.
+
+The meeting focused on preparing the initial framework and plans required for the establishment of the Independent Prosecutor’s Office.
+
+The Ministry further stated that, following the drafting of the preliminary concept paper, it is planned to seek views and suggestions from the public and civil society organizations.
+
+Supreme Court Justice and President’s Counsel Yasantha Kodagoda, Attorney General and President’s Counsel Parinda Ranasinghe, President of the Bar Association of Sri Lanka Attorney-at-Law Rajeev Amarasuriya and several others participated in the discussion.
+
+◼️
+
+[Data](articles/673b7936.json)
+
+[Extended Data](ext_articles/673b7936.ext.json)
+
+---
+
+### Israeli naval ships intercept Gaza-bound flotilla
+
+*2025-10-02 05:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113129/israeli-naval-ships-intercept-gaza-bound-flotilla) · `en`
+
+The Israeli navy has intercepted boats carrying aid to Gaza and detained the activists aboard, including Swedish climate campaigner Greta Thunberg.
+
+Israel’s Foreign Ministry said several vessels that form part of the Global Sumud Flotilla (GSF) had been “safely stopped” and that those aboard were being transferred to an Israeli port.
+
+It added that the navy had told the vessels to change course as they were “approaching an active combat zone”.
+
+The GSF described the interception as “illegal” and “not an act of defence” but “a brazen act of desperation”.
+
+The group has alleged that one vessel within the flotilla was “deliberately rammed at sea” and said additional boats were hit by water cannons.
+
+“It clearly reveals the extreme lengths to which the occupier will go to ensure Gaza remains starved and isolated,” GSF wrote on social media.
+
+“They will attack a peaceful civilian mission because the success of humanitarian aid means the failure of their siege.”
+
+...
+
+[Data](articles/a088c1ab.json)
+
+[Extended Data](ext_articles/a088c1ab.ext.json)
+
+---
+
+### Traders banned from handing shopping bags FOC to consumers from Nov. 1
+
+*2025-10-02 05:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113128/traders-banned-from-handing-shopping-bags-free-of-charge-to-consumers-from-nov-1) · `en`
+
+A gazette extraordinary has been issued suspending the free distribution of plastic shopping bags to consumers from November 1.
+
+The gazette has been issued by the Chairman of the Consumer Affairs Authority Hemantha Samarakoon.
+
+According to the gazette, the Consumer Affairs Authority has directed that no trader shall, at the time of selling of goods, issue free of charge to any consumer, bags made of the following raw materials.
+
+Furthermore, the price charged for such bags should be mentioned on the bill issued to the consumer.
+
+The regulation is applicable to Low-Density Polyethylene (LDPE) and Linear Low-Density Polyethylene (LLDPE).
+
+The directive of the Consumer Affairs Authority states bags of any dimension with handles for the purpose of carrying purchased goods generally referred as “sili- sili bags” will come into effect from November 1, 2025.
+
+◼️
+
+[Data](articles/f8f9023e.json)
+
+[Extended Data](ext_articles/f8f9023e.ext.json)
+
+---
+
+### Showery condition to enhance tomorrow due to atmospheric disturbance
+
+*2025-10-02 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113127/showery-condition-to-enhance-tomorrow-due-to-atmospheric-disturbance) · `en`
+
+Atmospheric conditions are getting favorable for evening thundershowers in the most parts of the island, starting from tomorrow (03).
+
+Mainly fair weather will prevail over the most parts of the island.
+
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.
+
+◼️
+
+[Data](articles/14b2e506.json)
+
+[Extended Data](ext_articles/14b2e506.ext.json)
+
+---
+
+### What happens to the police officers who are addicted to poison?
+
+*2025-10-02 01:37:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2n19dke20o) · `si`
+
+What happens to the police officers who are addicted to poison?
+
+Minister of Public Defense and Parliamentary Affairs Ananda Wijepala recently revealed that between 15-20 percent of the new officers' new officials.
+
+The Minister also said that 68 police officers have been suspended from January 2025 on charges of drugs.
+
+The Minister of Public Service Ananda Wijepala told the Minister Ananda Wijepala regarding the matter.
+
+"New is that drug use has increased among the youth of the police,. Otherwise, it is not known to new recruits. The task of recruiting the test of the recruiters to the police. "
+
+"Speaking to people who are recruited to the Police Service. Especially on their background reports. People involved in drug trafficking are paying close attention to their families, or whether they have such relations. "The Minister said.
+
+What if a police officer addicted to poison?
+
+...
+
+[Data](articles/91626f42.json)
+
+[Extended Data](ext_articles/91626f42.ext.json)
+
+---
+
 ### 2025-10-01 (Wednesday)
+
+### Carrot face mask …
+
+*2025-10-01 23:37:00* · [`islandlk`](http://island.lk/carrot-face-mask-2/) · `en`
+
+Most of us are concerned about our looks … our appearance! We like our face to look good all the time.
+
+Okay, and I’ll lend you a helping hand, this week, with Carrot Face Mask, and what is so special about carrots is that carrot face mask is perfect for any skin type.
+
+Carrots are a natural antiseptic and help make your skin feeling fresh and healthy.
+
+It gives life to skin and, what’s more, carrots are also freely available.
+
+Vegetable markets are stocked with carrots so you don’t need to go searching for this vegetable here, there and everywhere, and, I’m sure, right now, you have carrots … at home!
+
+You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon honey, and 1/2 tablespoon fresh lemon juice.
+
+You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon sandalwood powder, and 1/2 tablespoon fresh lemon juice.
+
+You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon yoghurt, and 1/2 tablespoon fresh lemon juice.
+
+...
+
+[Data](articles/5cfcd901.json)
+
+[Extended Data](ext_articles/5cfcd901.ext.json)
+
+---
+
+### Eswaran Brothers launches empowerment programme to elevate women in tea industry
+
+*2025-10-01 23:23:00* · [`islandlk`](http://island.lk/eswaran-brothers-launches-empowerment-programme-to-elevate-women-in-tea-industry/) · `en`
+
+Eswaran Brothers, one of Sri Lanka’s largest value-added tea exporters, has launched a pioneering gender inclusion initiative designed to elevate women into leadership roles across the tea industry. The initiative is implemented in collaboration with global gender advisory firm Value for Women (VFW) and supported by FMO, the Dutch development bank.
+
+This initiative marks a significant step for Eswaran Brothers as it integrates diversity and inclusion into its long-term business strategy, aligning with global best practices to strengthen its organisational culture and future-proof its operations.
+
+Ganesh Deivanayagam, Executive Chairman of Eswaran Brothers, remarked, “What makes this partnership especially noteworthy is that Eswaran Brothers, as a family company steeped in values, was able to work with VFW and FMO to create a far-reaching programme of importance. This reflects strategic foresight and a fundamental belief in doing the right thing.”
+
+...
+
+[Data](articles/0fd02d47.json)
+
+[Extended Data](ext_articles/0fd02d47.ext.json)
+
+---
+
+### CEAT Kelani scores double win at World HRD Congress Sri Lanka Awards
+
+*2025-10-01 23:22:00* · [`islandlk`](http://island.lk/ceat-kelani-scores-double-win-at-world-hrd-congress-sri-lanka-awards/) · `en`
+
+CEAT Kelani Holdings has been recognised as Sri Lanka’s Employer Brand of the Year 2025, while its Vice President – Human Resources, Thushara Hettithantrige, was honoured as a ‘Topmost HR Leader of Sri Lanka’ at the 2025 World HRD Congress Sri Lanka awards presentation held in Colombo recently.
+
+The evaluation process for the Sri Lanka awards was based on criteria that encompassed brand strategy, employee value proposition, recruitment and retention, diversity and inclusion, employer reputation, innovation, creativity and outcomes.
+
+The World HRD Congress is a global platform for human resource professionals founded by Dr. R. L. Bhatia, with a dynamic presence across Asia, Africa and the GCC. It is governed and run by professionals and HR leaders across multiple countries with the objective of bringing them together on a single platform.
+
+...
+
+[Data](articles/62c5cdd8.json)
+
+[Extended Data](ext_articles/62c5cdd8.ext.json)
+
+---
+
+### Bourse springs into another bull-run; indices up
+
+*2025-10-01 23:19:00* · [`islandlk`](http://island.lk/bourse-springs-into-another-bull-run-indices-up/) · `en`
+
+CSE activities were extremely bullish yesterday and the bourse gained 1500 Index points during the last twelve seasons, according to market analysts.
+
+The All Share Price Index was up by 72.7 points, while the S and P SL20 rose by 16.15 points. Turnover stood at Rs 6.46 billion with 12 crossings.
+
+Top seven crossings were reported in Commercial Bank, where 1.8 million shares crossed to the tune of Rs 341 million; its shares traded at Rs 193, Kandy Hotels five million shares crossed for Rs 100 million and its shares sold at Rs 20, Lanka Wall Tiles 1.4 million shares crossed for Rs 71.5 million; its shares traded at Rs 52, Dipped Products 731,000 shares crossed for Rs 48.8 million; its shares sold at Rs 66.50, Chevron Lubricants 170,000 shares crossed for Rs 30.1 million; its shares fetched at Rs 177,CTC 17000 shares crossed to the tune of Rs 28.5 million; its shares traded at Rs 1675 and Hayleys 150,000 shares crossed for Rs 27.9 million; its shares traded at Rs 180.
+
+...
+
+[Data](articles/3da9e829.json)
+
+[Extended Data](ext_articles/3da9e829.ext.json)
+
+---
+
+### Dr. Nalinda Jayatissa visits LAUGFS Life Sciences’ State-of-the-Art (LVP) pharmaceutical facility
+
+*2025-10-01 23:18:00* · [`islandlk`](http://island.lk/dr-nalinda-jayatissa-visits-laugfs-life-sciences-state-of-the-art-lvp-pharmaceutical-facility/) · `en`
+
+The Minister of Health and Mass Media, Dr. Nalinda Jayatissa, undertook an observational visit to the state-of-the-art sterile pharmaceutical manufacturing facility of LAUGFS Life Sciences (Pvt) Ltd, located within the BOI Export Processing Zone, Koggala. This visit reflects the company’s commitment to strengthening Sri Lanka’s healthcare system through world-class local manufacturing. Marking a significant milestone for the country’s healthcare industry, LAUGFS Life Sciences is advancing sterile infusion therapy production, reducing reliance on imports, delivering economic and clinical benefits, and positioning Sri Lanka as a regional hub for quality-driven pharmaceutical manufacturing through innovation, regulatory compliance, and private-sector investment.
+
+...
+
+[Data](articles/c2bb27c5.json)
+
+[Extended Data](ext_articles/c2bb27c5.ext.json)
+
+---
 
 ### A Chief Negotiator Would Be Instrumental For NPP In Finalizing ETCA
 
@@ -66,6 +578,8 @@ RELATED : Sri Lanka current account turns to deficit in 4Q after printing money
 ...
 
 [Data](articles/c965a9ee.json)
+
+[Extended Data](ext_articles/c965a9ee.ext.json)
 
 ---
 
@@ -436,6 +950,8 @@ The Free Trade Zone Manufacturers’ Association (FTZMA), together with the Nati
 ...
 
 [Data](articles/b655f65e.json)
+
+[Extended Data](ext_articles/b655f65e.ext.json)
 
 ---
 
@@ -1157,6 +1673,8 @@ Sri Lanka Customs revenue jump is largely due to stronger enforcement, improved 
 
 [Data](articles/6fccfbb7.json)
 
+[Extended Data](ext_articles/6fccfbb7.ext.json)
+
 ---
 
 ### Sri Lanka Customs exceed revenue target by 37-pct  in September
@@ -1478,549 +1996,5 @@ The Commissioner of Inland Revenue has filed another case against the default of
 [Data](articles/9b0f612b.json)
 
 [Extended Data](ext_articles/9b0f612b.ext.json)
-
----
-
-### Taxi drivers also to the comment
-
-*2025-10-01 16:59:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කල-රථ-රයදරත-මතසබයට/1-680583) · `si`
-
-Representatives of taxi owners and drivers were supporting the Ministry Advisory Committee on Transport, Highways, Ports and Civil Aviation.
-
-The subsidiary, aimed at strongest the legal framework associated with the transportation industry, was presented when he met the Chairman of the Parliamentary Lakmali Hemachandra on the 26th.
-
-The Sub Committee pointed out that the driver, the passenger should be prepared in criteria for the fair transport sector. The Deputy Committee pointed out that the views and proposals of those professionals are concerned about the taxi industry. Accordingly, the representatives presented their views and suggestions to the respondous and agreed to the Chamber of Committe in writing.. She said that the proposals will be considered when preparation of transport policies.
-
-◼️
-
-[Data](articles/2997c69f.json)
-
-[Extended Data](ext_articles/2997c69f.ext.json)
-
----
-
-### Taxi drivers also to the comment
-
-*2025-10-01 16:59:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කල-රථ-රයදරත-මතසබයට/101-680583) · `si`
-
-Representatives of taxi owners and drivers were supporting the Ministry Advisory Committee on Transport, Highways, Ports and Civil Aviation.
-
-The subsidiary, aimed at strongest the legal framework associated with the transportation industry, was presented when he met the Chairman of the Parliamentary Lakmali Hemachandra on the 26th.
-
-The Sub Committee pointed out that the driver, the passenger should be prepared in criteria for the fair transport sector. The Deputy Committee pointed out that the views and proposals of those professionals are concerned about the taxi industry. Accordingly, the representatives presented their views and suggestions to the respondous and agreed to the Chamber of Committe in writing.. She said that the proposals will be considered when preparation of transport policies.
-
-◼️
-
-[Data](articles/476f9893.json)
-
-[Extended Data](ext_articles/476f9893.ext.json)
-
----
-
-### Teacher injury to student attack inside school
-
-*2025-10-01 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226611) · `ta`
-
-A teacher was injured after a student was attacked at a school in Moneragala area, police said.
-
-In 11th grade, a student has taken a mobile phone inside the school.
-
-A teacher at the school has questioned the student about this.
-
-◼️
-
-[Data](articles/2c5f0399.json)
-
-[Extended Data](ext_articles/2c5f0399.ext.json)
-
----
-
-### Heavy sun in Badulla; Drinking water shortage due to drought; Agricultural activities also affect
-
-*2025-10-01 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226612) · `ta`
-
-The public is concerned that the drought -stricken weather has caused a shortage of drinking water in the Badulla district for the past few months.
-
-Due to the ongoing dry weather in the Badulla district, people in the Divisional Secretariat Divisions of Badulla, Bandarawela, Pasara, Viyaluwa, Outiyadai and Mahiyangana have been severely affected.
-
-Farmers engaged in vegetable farming in Bandarawela and Outdoor areas have been forced to abandon agricultural activities due to the drainage of the canals, rivers and streams.
-
-The amount of drinking water supplied to the people of the National Water Supply Board has been limited due to the heavy rainfall in the areas.
-
-The public reports that water supply is on the basis of two days.
-
-Due to the severe drought, the work of plantation workers has also been reduced. People in the "Bee" estate area of ​​the Pasaru Dameria have also faced a severe drinking water problem.
-
-...
-
-[Data](articles/7eeeaa04.json)
-
-[Extended Data](ext_articles/7eeeaa04.ext.json)
-
----
-
-### New jobs for 60,000
-
-*2025-10-01 16:55:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හට-දහකට-අලතන-රකය/1-680582) · `si`
-
-Minister of Public Administration and Local Government Dr. Chandana Abeyratne said that the new youths are expected to be recruited for about 60,000 youths for various fields.
-
-He also said that the government has decided to provide a job in about 60,000.
-
-The Minister said that 1890 Management Services Appointments have been given to the recent past.
-
-Chandana Abeyratne added that there is no jobs without competitive exam.
-
-◼️
-
-[Data](articles/e4d0f2d7.json)
-
-[Extended Data](ext_articles/e4d0f2d7.ext.json)
-
----
-
-### New jobs for 60,000
-
-*2025-10-01 16:55:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හට-දහකට-අලතන-රකය/101-680582) · `si`
-
-Minister of Public Administration and Local Government Dr. Chandana Abeyratne said that the new youths are expected to be recruited for about 60,000 youths for various fields.
-
-He also said that the government has decided to provide a job in about 60,000.
-
-The Minister said that 1890 Management Services Appointments have been given to the recent past.
-
-Chandana Abeyratne added that there is no jobs without competitive exam.
-
-◼️
-
-[Data](articles/ece538de.json)
-
-[Extended Data](ext_articles/ece538de.ext.json)
-
----
-
-### Petition on property of Sri Dalada Maligawa in Kandy
-
-*2025-10-01 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215225) · `si`
-
-Acting Diyawadana Nilame, Diyawadana Nilame, Diyawadana Nilame, Diyawadana Nilame.
-
-The petition was presented by the convener of the Civil Intelligence Front.
-
-The petitioner claims that the authorization or alizing the authorization of the Dalada Maligawa under the Temples and Devalagam Act.
-
-However, the Petitioner has said that the current acting Nilame has been depressed that the property belonging to the Dalada Maligawa has been depressed.
-
-Accordingly, the petitioner has requested the court to issue an order to issue the Assets and Real Estate Property of the Dalada Maligawa.
-
-In addition, the petition has also been asked to issue a permission to the Commissioner General of Buddhist Affairs to make a full audit of the Dalada Maligawa and to appoint a temporary care of the Dalada Malika.
-
-◼️
-
-[Data](articles/45807f52.json)
-
-[Extended Data](ext_articles/45807f52.ext.json)
-
----
-
-### The wishes of T20 rating forward
-
-*2025-10-01 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215224) · `si`
-
-The Latest Twenty20 batsmen, published by the ICC, has come to the 5th.
-
-He has been in the 7st to 2 locations from the 7st due to the excellent century against India in the Asia Cup.
-
-Kusal Janith, who scored the militant half century in the match, has come forward to 9th to 9th.
-
-Meanwhile, Zayme icon has been able to acquire the front of Harvk, India, who was the number twenths and Twenty20s.
-
-This is the first time he came to the forefront of the 31st international T20.
-
-Sri Lanka's fanny Hasaranga is a place in this category and arrives in the 6th place.
-
-◼️
-
-[Data](articles/35cdf594.json)
-
-[Extended Data](ext_articles/35cdf594.ext.json)
-
----
-
-### Sri Lanka stocks close up 0.33-pct
-
-*2025-10-01 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-0-33-pct-242482/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s All Share Price Index (ASPI) ended 0.33 percent higher on Wednesday, data on its site showed.
-
-The ASPI climbed 72.70 points to end at 21,851.30; while the S&P SL20 closed 0.20 percent, or 12.26 points higher, at 6,138.79.
-
-Top contributors to the ASPI were Melstacorp (up 2.50 rupees at 173.50), Hemas Holdings (up 0.60 rupees at 33.50), Diesel & Motor Engineering (up 114.00 rupees at 2,184.75), People’s Leasing & Finance (up 1.10 rupees at 27.40) and R I L Property (up 1.70 rupees at 38.20).
-
-Market turnover was 6.5 billion rupees, while the share volume was 225,207,446.
-
-Elsewhere, Indian equity markets ended higher on Wednesday as investor interest improved after the Central Bank eased rules for lending to capital markets and large corporations.
-
-The Nifty 50 index rose 0.92 percent to 24,836.30, while the BSE Sensex moved 0.89 percent up to 80,983.31.
-
-...
-
-[Data](articles/59af12ca.json)
-
-[Extended Data](ext_articles/59af12ca.ext.json)
-
----
-
-### The US government shuts down
-
-*2025-10-01 16:37:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමරකන-ආණඩව-වස-දමය/101-680581) · `si`
-
-Six years later, the US government was closed for the first time in the 12th today (01). The government shutdates that the government shutdown of the Republicans and Democratic supporters in the American Senate to continue the public services to continue.
-
-Although not all public services with the closure of the US government, some public services today (01) suspended. The US government has been closed immediately with the last period of allocation of the fund and then democratic and Republicans blamed each other on each other. The Republicans insisted that the current expenses should be forwarded for another 7 weeks when the budget was brought.
-
-Republicans do not have enough number of seats in Saint, even though the Republicans have the power of Congress and Senate. As a result, the Republican members need the vote of 60 Democratic (Taxtore) to pass a Bill.
-
-...
-
-[Data](articles/08a38508.json)
-
-[Extended Data](ext_articles/08a38508.ext.json)
-
----
-
-### The US government shuts down
-
-*2025-10-01 16:37:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමරකන-ආණඩව-වස-දමය/1-680581) · `si`
-
-Six years later, the US government was closed for the first time in the 12th today (01). The government shutdates that the government shutdown of the Republicans and Democratic supporters in the American Senate to continue the public services to continue.
-
-Although not all public services with the closure of the US government, some public services today (01) suspended. The US government has been closed immediately with the last period of allocation of the fund and then democratic and Republicans blamed each other on each other. The Republicans insisted that the current expenses should be forwarded for another 7 weeks when the budget was brought.
-
-Republicans do not have enough number of seats in Saint, even though the Republicans have the power of Congress and Senate. As a result, the Republican members need the vote of 60 Democratic (Taxtore) to pass a Bill.
-
-...
-
-[Data](articles/17001ccd.json)
-
-[Extended Data](ext_articles/17001ccd.ext.json)
-
----
-
-### Pakistani citizen to arrest the public over bail conditions
-
-*2025-10-01 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226609) · `ta`
-
-Police Drug Prevention Unit has sought help to arrest a Pakistani citizen who violates bail conditions.
-
-On April 01, 2016, 17 people were arrested in court with 111 kg 82 grams of heroin in a roundabout carried out by the Navy in the Sri Lankan waters.
-
-The Pakistani citizen was released on bail on July 04 by the Court of Appeal.
-
-The court ordered the Pakistani citizen to appear in the police drug detention unit every Sunday as per the bail condition.
-
-Subsequently, the Police Drug Prevention Unit posted a photo of the Pakistani citizen to help the public.
-
-If any information on the suspect in these photos is available, the police have asked the public to contact the Police Drug Prevention Unit 071 - 8591881 or 011 - 2343333.
-
-◼️
-
-[Data](articles/efb8f401.json)
-
-[Extended Data](ext_articles/efb8f401.ext.json)
-
----
-
-### Two Health Welfare Centers to be provided to the public in Kandy, Matale
-
-*2025-10-01 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226608) · `ta`
-
-Under the first phase of the new government's health policy, the Ministry of Health and Mass media is planning to establish a thousand primary health centers across the country to make it easier for the people living in the country.
-
-Accordingly, the Fourth Health and Welfare Center in Matale, Matale, Matale, will be presented to the public with the participation of health and mass media Minister Nalinda Jayatissa on Thursday afternoon (2).
-
-Accordingly, the Health and Welfare Center in Kandy district will be connected to the Health and Welfare Center in the afternoon Health Service. As a result, the villagers of the Vadakkadagama South, Vadakkadagama North, Kunnappana and Uda Kunnappana North will benefit nearly seven thousand people.
-
-The fifth Health and Welfare Center in Matale District, the Gold Health Center will be delivered to the public at 4 pm tomorrow.
-
-...
-
-[Data](articles/7a9e161e.json)
-
-[Extended Data](ext_articles/7a9e161e.ext.json)
-
----
-
-### Revised indictment served on ex-Minister Anura Priyadharshana Yapa, his wife and six others
-
-*2025-10-01 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113112/revised-indictment-served-on-ex-minister-anura-priyadharshana-yapa-his-wife-and-six-others) · `en`
-
-A revised indictment was served before the Colombo High Court today (01) against former Minister of Petroleum Resources Development Anura Priyadharshana Yapa, his wife, and six other defendants.
-
-The charges were filed in relation to the misuse of over Rs. 6.1 million in government funds from the state-owned Ceylon Petroleum Corporation, allegedly spent illegally under the pretext of providing flood relief in December 2014.
-
-The revised indictment, filed by the Attorney General, was formally submitted before Colombo High Court Judge Udesh Ranatunga.
-
-As per the revised charges, the prosecution further informed court that another individual, Anura Seneviratne — who is said to have functioned as the Coordinating Secretary to the former Minister — has been named as an additional accused in the case.
-
-The judge ordered the case to be recalled on October 29 to formally serve charges to the additional accused.
-
-◼️
-
-[Data](articles/f4bcbf07.json)
-
-[Extended Data](ext_articles/f4bcbf07.ext.json)
-
----
-
-### Soldier
-
-*2025-10-01 16:28:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உயிரை-மாய்த்த-இராணுவ-வீரர்/76-365589) · `ta`
-
-The incident took place on Tuesday (30) in the Meegahamada area of ​​the Moneragala and Badalgamburai police division.
-
-The deceased is 30 -year -old Pradeep Chaturanga from Badalkumburai, Meegahamada.
-
-It has been revealed that a person has been depressed due to unable to repay the loan as a person frequently issued telephone calls to repay the loan.
-
-He came home on vacation on Friday 26th and was found dead at the military camp where he was working and left home and was found dead in a home garden when he was searched for not going to the camp.
-
-The police officer of the Padalgamburai Chintaka Wickramaratne is conducting investigations into the incident.
-
-◼️
-
-[Data](articles/ebb39989.json)
-
-[Extended Data](ext_articles/ebb39989.ext.json)
-
----
-
-### Student who hit the teacher on the child's day
-
-*2025-10-01 16:25:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவர்-தினத்தன்று-ஆசிரியரை-தாக்கிய-மாணவன்/76-365588) · `ta`
-
-On the International Children's Day (Wednesday 01), a teacher has been admitted to the hospital in the 11th grade of a school in Moneragala.
-
-On the occasion of Children's Day, a celebration event was organized at the school, and when the student was ready to send the students to the main hall to attend, the teacher observed that the student was carrying the power bank of charging the mobile phones in his pocket and inquired where the mobile phone was.
-
-In the meantime, the student was scolded by the teacher and tried to take the teacher in charge of the education sector.
-
-The teacher later informed the Chancellor of the incident and was admitted to the Moneragala District General Hospital for treatment.
-
-◼️
-
-[Data](articles/b190a293.json)
-
-[Extended Data](ext_articles/b190a293.ext.json)
-
----
-
-### These sworn in as a lawyer in Samara Wales
-
-*2025-10-01 16:24:31* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මඛල-සදරන-සවතවලසහ-නතඥවරයක-ලස-දවරම-දය/1-680580) · `si`
-
-The Supreme Court Attorney Assurrumuna Arachchige Arachchi was sworn in before the Chief Justice of New Solicitoria in Australia.
-
-Education, who studied at the Mushaus Vidyalaya, Colombo, is studying the soil of Adelayard, Australia, and the colanet lights of the University of London.  After passing the law school exam, the Additional Solicitor General of the Attorney General's Department was completed by Dilrukshi.
-
-Subsequently, the law was sworn in as a soldier with law from the University of the Western Sydney University in Australia.
-
-The former Added Director of the National Planning Department of the Ministry of Finance Ministry of Finance Ministry of National Planning, Secretary of the National Planning Ministry of Finance. Tilakaratne's daughter is.
-
-◼️
-
-[Data](articles/3b5155ae.json)
-
-[Extended Data](ext_articles/3b5155ae.ext.json)
-
----
-
-### These sworn in as a lawyer in Samara Wales
-
-*2025-10-01 16:24:31* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මඛල-සදරන-සවතවලසහ-නතඥවරයක-ලස-දවරම-දය/101-680580) · `si`
-
-The Supreme Court Attorney Assurrumuna Arachchige Arachchi was sworn in before the Chief Justice of New Solicitoria in Australia.
-
-Education, who studied at the Mushaus Vidyalaya, Colombo, is studying the soil of Adelayard, Australia, and the colanet lights of the University of London.  After passing the law school exam, the Additional Solicitor General of the Attorney General's Department was completed by Dilrukshi.
-
-Subsequently, the law was sworn in as a soldier with law from the University of the Western Sydney University in Australia.
-
-The former Added Director of the National Planning Department of the Ministry of Finance Ministry of Finance Ministry of National Planning, Secretary of the National Planning Ministry of Finance. Tilakaratne's daughter is.
-
-◼️
-
-[Data](articles/693ca501.json)
-
-[Extended Data](ext_articles/693ca501.ext.json)
-
----
-
-### Physical Punished Prevention amendment to Parliament
-
-*2025-10-01 16:23:10* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්ට-ශාරීරික-දැඩුවම්-දීම-වැළැක්වීමේ--සංශෝධනය-පාර්ලිමේන්තුවට/11-418852) · `si`
-
-The Ministry of Women and Child Affairs has said that the amendment of the Penal Code has been presented to Parliament by the Ministry of Women and Child Affairs.
-
-The Ministry will be able to release them to the schools after the end of the proposed amendment.
-
-◼️
-
-[Data](articles/1c5dc9e4.json)
-
-[Extended Data](ext_articles/1c5dc9e4.ext.json)
-
----
-
-### Opposition Leader Sajith Premadasa pointing to the unanswered position of the majority government
-
-*2025-10-01 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226606) · `ta`
-
-Whatever a change in the 76 -year history, people are now presenting their problems to the opposition leader. Despite giving millions of votes to the current government and winning 159 seats in 225 in Parliament, the country has reached its issues to the opposition leader.. Opposition leader Sajith Premadasa said that although the current government has given a majority power in anticipation of answers and solutions, the people have not yet provided the expected answers and solutions.
-
-Opposition Leader Sajith Premadasa said this while addressing the event of the Anuradhapura district, the Kalawewa electorate, the Opposition Leader's Mobile Scheme in Kattiyawa and the joining of the new members of the United People's Power.
-
-...
-
-[Data](articles/78d60e65.json)
-
-[Extended Data](ext_articles/78d60e65.ext.json)
-
----
-
-### Mannar Wind Power Plant: Government is trying to respond through the riot division
-
-*2025-10-01 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226602) · `ta`
-
-Repression is being used by the opposition parties not only to fight for their rights. The government is not important to the people's struggles or the opinions of the environmentalists regarding the Mannar wind power project.. United People's Power MP Mujibur Rahman accused the government of trying to respond through the rioting unit instead of resolving the issue through negotiations.
-
-He further stated at the media conference held at the United People's Power Office in Colombo on Wednesday (1).
-
-A massive demonstration was staged by the public against the wind power plant in Mannar.
-
-Many environmentalists have pointed out that the project will have a huge impact on the environment and birds. But the government ignores the people's struggles or the opinions of the environmentalists without importance. No one can prioritize the governing body to respond to these.
-
-...
-
-[Data](articles/11b392af.json)
-
-[Extended Data](ext_articles/11b392af.ext.json)
-
----
-
-### Suspect arrested with foreign cigarettes in Colombo
-
-*2025-10-01 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226607) · `ta`
-
-A suspect with 1,618 foreign cigarettes was arrested by the Sri Lankan navy and police on Tuesday (30).
-
-Accordingly, the suspect was arrested during a roundup conducted by the Sri Lanka Navy and the Sri Lanka Naval Ship Gemunu Division of the Western Navy.
-
-The arrested suspect has been identified as a 46 -year -old living in Colombo 14.
-
-In addition, the suspect and foreign cigarettes were handed over to the Coastal Police Station for further legal action.
-
-◼️
-
-[Data](articles/6f490288.json)
-
-[Extended Data](ext_articles/6f490288.ext.json)
-
----
-
-### False contraceptive allegations are false in the short term - doctor Sahabdin
-
-*2025-10-01 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226600) · `ta`
-
-I and my family have faced the suffering of a Tauheed Muslim doctor for 400 Sinhalese mothers through the Cesarean system.. The allegation made against me for coming to power was false in a short time. Those who accused me of referring to as professors have disappeared today due to karma.
-
-I don't have contraception. The country's birth rate has fallen shortly in the midst of economic impact. The rate of admission of children per grade has declined by millions.. Birth rate is seen as the main component of a country's economic development. Therefore, the government should focus on this issue.
-
-He was speaking at the launch of the 'Run Dhoni' book held on Tuesday (30) at the Bandaranaike Memorial International Conference Hall.
-
-I am a man who has completely ignored communalism with fellow ethnicity and brotherhood in a beautiful small village called Kalawei.. I am firmly in the position that the country can never progress without the abolition of communalism.
-
-...
-
-[Data](articles/7f242397.json)
-
-[Extended Data](ext_articles/7f242397.ext.json)
-
----
-
-### The promise to the intellectual ministers
-
-*2025-10-01 16:02:00* · [`adalk`](https://www.ada.lk/breaking_news/පරිසර-ඇමති-නඳුන්ට-දුන්-පොරොන්දුව/11-418851) · `si`
-
-Minister of the Ministry of Wildlife is the sections of the Department of Wildlife and the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of Reptiles.
-
-Mihintale Deputy Dilhara, 15-year old, who is undermined to the reigns, is being carried out to the homes, to release the homes and conserves dead animals and conserves dead animals.
-
-The Department of Wildlife has been taken by the Department of Wildlife and Animal specimens after the television program was revealed in connection with the child's ability.
-
-Minister of Environment Dr. Damika Detunge to the residence of the Minister of Environment Dhammika Detuna, Mihintale, Ambaranda, Anuradhapura, has been present at the Vavuniya.
-
-A few weeks ago, the interest in this subject was not able to recover and was not discouraged by the minister to call on the same day as he had gone to Dilhara.
-
-...
-
-[Data](articles/f36f74c1.json)
-
-[Extended Data](ext_articles/f36f74c1.ext.json)
-
----
-
-### The death of Wasim Tajud should not be used for politics - Namal Rajapaksa
-
-*2025-10-01 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226599) · `ta`
-
-The government should conduct a neutral inquiries without using the death of Wasim Tajud for his politics. The use of this issue to politics is the greatest injustice of his soul and. Namal Rajapaksa, the national organizer and parliamentarian of the Sri Lanka Peoples Alliance (PA), said that the police media unit has revealed a new issue for political speech.
-
-He was speaking to the media after a meeting with the constituency organizers held at the Sri Lanka PA's office on Wednesday (01).
-
-The Rajapaksa government and the government of goodwill have made many allegations. Investigations were also carried out. They tried to make specific lies in the election stage.
-
-The last government officials also attempted to arrest the Narahenpitiya Police Station in connection with the death of Wasim Tajud.. Those officials are in the top positions of this government.
-
-...
-
-[Data](articles/e00b1d3f.json)
-
-[Extended Data](ext_articles/e00b1d3f.ext.json)
-
----
-
-### Farmers protest in Trincomalee urging land grabbing
-
-*2025-10-01 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226603) · `ta`
-
-Farmers from 11 Agricultural Federations staged a demonstration in front of the Trincomalee Agrarian Development Department today (01) by the Van Ela -Kinniya Agricultural Organizations Federation under the theme "Van Ela - Kinniya land grabbing".
-
-The demonstration was staged by the farmers of the five Agricultural Federations of the Kinniya Divisional Secretariat and the farmers of the Kandalai Divisional Secretariat, demanding the provision of their agricultural lands and the granting of the subsidized subsidy.
-
-Representatives of the Agricultural Federations in the talks said that the governor had promised to take steps to provide the subsidized subsidy and provide a permanent solution to the land issue on Friday.
-
-...
-
-[Data](articles/eb291707.json)
-
-[Extended Data](ext_articles/eb291707.ext.json)
-
----
-
-### 02 re -water treatment plants installed by the Navy were handed over to the public
-
-*2025-10-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226605) · `ta`
-
-Under the Navy's Social Working Scheme, with the financial contribution of the Presidential Secretariat, the Navy's technical and artistic contribution, the Wilkamuwa Pradeshiya Sabha of the Matale District with the financial contribution of the Embassy of the Chinese People's Republic in Sri Lanka Handed over to the public.
-
-In addition, the Navy has set up 1132 water treatment plants with these 02 water treatment plants, so that the two water purification centers handed over to the public can easily meet the clean drinking water needs of a large number of people around the Sri Samputtu Maithri Vihara in Vilgamuwa and Oyamaduwa.
-
-The Sri Lanka Navy has successfully implemented this social care program in accordance with the state's health vision of "sick life - healthy people".
-
-◼️
-
-[Data](articles/1697f53b.json)
-
-[Extended Data](ext_articles/1697f53b.ext.json)
 
 ---

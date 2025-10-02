@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 11:07:04**
+As of **2025-10-02 11:20:26**
 
 ## Newspaper Stats
 
-*Scraped **80,462** Articles*
+*Scraped **80,468** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 553
-lankadeepalk | 621
+newsfirstlk | 554
+lankadeepalk | 624
 dbsjeyarajcom | 637
 bbccomsinhala | 718
 colombotelegraphcom | 803
@@ -17,21 +17,65 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,873
 dailyftlk | 5,634
-adalk | 7,730
+adalk | 7,731
 adaderanalk | 10,370
 tamilmirrorlk | 11,993
 virakesarilk | 13,149
-adaderanasinhalalk | 13,874
+adaderanasinhalalk | 13,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,462 (100.0%) of 80,462 articles have been extended.
+80,462 (100.0%) of 80,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-02 (Thursday)
+
+### Western Province Tops List of Student Drug Cases: 67% Risk of Repeat Use
+
+*2025-10-02 11:07:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/western-province-tops-list-of-student-drug-cases-67-risk-of-repeat-use) · `en`
+
+...
+
+[Data](articles/3e75c6ed.json)
+
+---
+
+### සියලු ආගම්වලට ගරු කිරීම අධ්‍යාපන ක්‍රමය තුළින් සමාජගත කළ යුතුයි - අගමැති
+
+*2025-10-02 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215250) · `si`
+
+සියලු ආගම්වලට මෙන් ම සියලු සංස්කෘතීන්වලට ගෞරව දැක්වීම හා නිසි තැන ලබා දීම, අධ්‍යාපන ක්‍රමය තුළින් ම ප්‍රචලිත කර සමාජගත කළ යුතු බව අග්‍රාමාත්‍ය, අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය  ආචාර්ය හරිනි අමරසූරිය මහත්මිය අධ්‍යාපන අමාත්‍යාංශයේ පැවති නවරාත්‍රී උත්සව සැමරුමට සහභාගි වෙමින් ප්‍රකාශ කළා ය.
+
+"ලස්සන අගය කරන, ගීතිකා පූජා පවත්වා ආදරය සතුට පතුරවන අද වැනි දවසක බෙදාහදාගැනීම, එකමුතුකම වැනි යහ ආකල්ප කෙරෙහි වැඩි අවධානයක් යොමු කළ යුතුයි."
+
+අමාත්‍යාංශයේ දමිළ පාසල් කටයුතු අංශය මගින් සංවිධානය කර තිබූ මෙම උත්සව අවස්ථාවට අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන ලේකම් නාලක කලුවැව මහතා, අමාත්‍යාංශ අතිරේක ලේකම්වරුන් ඇතුළු නිලධාරීන් මෙන් ම කාර්ය මණ්ඩලය ද එක් ව සිටියහ.
+
+◼️
+
+[Data](articles/0195ff68.json)
+
+---
+
+### ’’තාජුදීන් ඝාතනයේ තොරතුරු රැසක් අපේ අතේ’’
+
+*2025-10-02 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තජදන-ඝතනය-තරතර-රසක-අප-අත/101-680611) · `si`
+
+තාජුදීන් ඝාතනය ගැන අලුත්ම තොරතුරු ලැබී ඇතැයි අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය
+
+මේ අපරාධ කළේ ගමේ සිරිපාල හෝ ඥානරත්න නොවන බව කී හෙතෙම රට පාලනය කරපු අය අපරාධ වසා දැමූ බවද සඳහන් කළේය
+
+මේ රජයට මාස 60ක කාලයක් ඇති  බවත් තවම ගතවී ඇත්තේ මාස දොළහක්  පමණක්  බවත්  ඔහු කීවේය
+
+මාස 48 ඉවර වෙනකොට සියලු දෙනා නීතිය අනුව ඇතුළේ ඉඳීවි යැයිද බිමල් රත්නායක මහතා ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/3e67d135.json)
+
+---
 
 ### Fishing boat holder arrested for bringing 700 kg of ice
 
@@ -330,6 +374,26 @@ According to police, the suspect is a close associate of notorious drug traffick
 [Data](articles/547222c0.json)
 
 [Extended Data](ext_articles/547222c0.ext.json)
+
+---
+
+### ඇමැති බංගලාවල තවමත් වවුල්ලු
+
+*2025-10-02 08:53:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමත-බගලවල-තවමත-වවලල/101-680607) · `si`
+
+ඇමැති බංගලා වසා දමා වසරකට ආසන්න කාලයක් ගතවී ඇතත් ඒ සම්බන්ධයෙන් රජය තවමත් ස්ථිර තීරණයකට පැමිණ නැතැයි වාර්තාවේ.
+
+මේ හේතුවෙන් එම බංගලා දවසින් දවස ජරාවාස වෙමින් පවතින බව ආරංචි මාර්ග සඳහන් කළේය.
+
+ඇමති බංගලා වලට අමතරව පසුගිය කාලයේදී වසා දමා තිබූ ගොඩනැගිලි කිහිපයක් සම්බන්ධයෙන්ද කැබිනට් මණ්ඩලය ඉදිරියේදී තීරණයක් ගැනීමට නියමිතය එම ගොඩනැගිලි කාලයක් රජයේ නිලධාරීන් පාවිච්චි කළ ඒවාවේ.
+
+මේ සම්බන්ධයෙන් අප රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍ය ආචාර්ය චන්දන අබේරත්න මහතාගෙන් කළ විමසුමකදී ඔහු පැවසුවේ ඇමති බංගලා සම්බන්ධයෙන් කැබිනට් මණ්ඩලය ළඟදීම තීරණයක් ගනු ඇති බවයි.
+
+ඒ බංගලා ඇතුළු ගොඩනැගිලි සම්බන්ධයෙන් සියලු වාර්තා භාරදී අවසන් බවද ඔහු සඳහන් කළේය. එසේම ඇමැති බංගලාවල යම් යම් අලුත් වැඩියා කිරීම් කරන බව අමාත්‍යවරයා පැවසීය. මේ අතර ඇමැති බංගලා ලබාදෙන ලෙස රාජ්‍ය සහ පෞද්ගලික ආයතන පනහකට වැඩි ප්‍රමාණයක් ඉල්ලීම් කර ඇතැයි රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශය පවසයි. කොළඹ නගරයේ ඇති ඇමැති බංගලා සංඛ්‍යාව පනස් පහකි.
+
+◼️
+
+[Data](articles/7a432b0a.json)
 
 ---
 
@@ -826,6 +890,22 @@ This surge reflects a significant uptick compared to July’s USD 193 million, i
 [Data](articles/10b567d3.json)
 
 [Extended Data](ext_articles/10b567d3.ext.json)
+
+---
+
+### කිලෝ හතරක රන් නාවික හමුදා භාරයට
+
+*2025-10-02 07:40:35* · [`adalk`](https://www.ada.lk/breaking_news/කිලෝ-හතරක-රන්-නාවික-හමුදා-භාරයට/11-418859) · `si`
+
+නාවික හමුදාව කල්පිටිය කලපුවේ අරිච්චල් මුහුදු ප්‍රදේශයේ සිදුකළ සෝදිසි මෙහෙයුමකදී, නීති විරෝධි ලෙස රත්‍රං කිලෝ 4.454  සූක්‍ෂම ලෙස සඟවා ප්‍රවාහනය කිරීමට උත්සාහ කළ ඩිංගි යාත්‍රාවක් සමඟ සැකකරුවන් දෙදෙනෙකු ඊයේ (01දා) නාවික හමුදා භාරයට ගැනීමට ගැණින.
+
+වයඹ නාවික විධානයට ලද තොරතුරකට අනුව, නාවික නෞකා විජය ආයතනය මඟින් කල්පිටිය කලපුවේ කළ සෝදිසි මෙහෙයුමේදි, සැකකටයුතු ඩිංගි යාත්‍රාවක් පරික්‍ෂාවට ලක් කෙරිණි. එහිදි, එම ඩිංගි යාත්‍රාවේ ධීවර දැලක අමුණා තිබූ සැකකටයුතු ඊයම් බරු දහතුනක්  නිරීක්‍ෂණය කර, සිදුකළ වැඩිදුර පරීක්‍ෂාවේදී, ඊයම් බරු ලෙස සූක්‍ෂම ලෙස සකස් කර සඟවා, නීති විරෝධි ලෙස ප්‍රවාහනය කිරීමට උත්සහ කල රත්‍රං තොගය සමඟ සැකකරුවන් නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
+
+සැකකරුවන්, රත්‍රං තොගය සහ ඩිංගි යාත්‍රාව ඉදිරි නීතිමය කටයුතු සඳහා කටුනායක රේගු නිවාරණ කාර්යාලය වෙත භාරදීමට කටයුතු කෙරිණි.
+
+◼️
+
+[Data](articles/d8317e25.json)
 
 ---
 
@@ -1928,95 +2008,5 @@ Furthermore, the driver of a motor vehicle should not enter into or drive or use
 [Data](articles/68ccdd04.json)
 
 [Extended Data](ext_articles/68ccdd04.ext.json)
-
----
-
-### Gazette issued on mandatory seat belts for all vehicles traveling on expressways
-
-*2025-10-01 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113123/gazette-issued-on-mandatory-seat-belts-for-vehicles-traveling-on-expressways) · `en`
-
-A gazette notification has been issued by the Minister of Transport, Highways, Ports and Civil Aviation making it mandatory for drivers and all passengers of vehicles traveling along expressways to wear seat belts.
-
-According to the gazette notification, the driver of a motor vehicle driven or used on an expressway and every passenger and individual occupying any seat and travelling in the motor vehicle are required to wear an individual safety seat belt while such motor vehicle is being driven or used on the expressway.
-
-Furthermore, the driver of a motor vehicle should not enter into or drive or use a vehicle on an expressway unless such motor vehicle is fitted with individual safety seat belts to be worn by the driver, every passenger and individual occupying a seat.
-
-◼️
-
-[Data](articles/979169f3.json)
-
-[Extended Data](ext_articles/979169f3.ext.json)
-
----
-
-### Semmami Human Burial Case
-
-*2025-10-01 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226626) · `ta`
-
-Jaffna - Ariyalai, Sindhupathi - Semmani Human Burial case has been set up for the 13th of this month.
-
-The case was taken in the presence of Jaffna Magistrate's Court Judge S. Lenin Kumar.
-
-Due to the lack of a hop for the next excavation work, the magistrate has set the point on the 13th of this month.
-
-◼️
-
-[Data](articles/516120bd.json)
-
-[Extended Data](ext_articles/516120bd.ext.json)
-
----
-
-### Namal answers to the Thajayan story
-
-*2025-10-01 19:36:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-කතවට-නමලගන-පළතරක/1-680596) · `si`
-
-The Government of Sri Lanka General, Namal Rajapaksa alleges that the government and the Criminal Investigations Department is trying to distract the public opinion for political gain.
-
-He added that the former good governance government and the present government have built various absurd allegations.
-
-Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures to be former officials to the OIC of the Narahenpita OIC of Thajudepitiya.
-
-◼️
-
-[Data](articles/81ff093e.json)
-
-[Extended Data](ext_articles/81ff093e.ext.json)
-
----
-
-### Namal answers to the Thajayan story
-
-*2025-10-01 19:36:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තජදන-කතවට-නමලගන-පළතරක/101-680596) · `si`
-
-The Government of Sri Lanka General, Namal Rajapaksa alleges that the government and the Criminal Investigations Department is trying to distract the public opinion for political gain.
-
-He added that the former good governance government and the present government have built various absurd allegations.
-
-Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures to be former officials to the OIC of the Narahenpita OIC of Thajudepitiya.
-
-◼️
-
-[Data](articles/a036c02e.json)
-
-[Extended Data](ext_articles/a036c02e.ext.json)
-
----
-
-### Fitch affirms Sri Lanka at ‘CCC+’
-
-*2025-10-01 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/113121/fitch-affirms-sri-lanka-at-ccc) · `en`
-
-Fitch Ratings has affirmed Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) at ‘CCC+’.
-
-Fitch Ratings stated that Sri Lanka’s ‘CCC+’ sovereign rating remains constrained by elevated general government indebtedness and a high interest-revenue ratio despite completion of the sovereign’s debt restructuring in 2024.
-
-Sustained adherence to a path of reforms is facilitating a solid economic recovery, low inflation, a substantial fiscal adjustment, and improvements in the external finance position, it added further.
-
-...
-
-[Data](articles/e8eee9c8.json)
-
-[Extended Data](ext_articles/e8eee9c8.ext.json)
 
 ---

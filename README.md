@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 11:07:04**
+As of **2025-10-02 11:40:42**
 
 ## Newspaper Stats
 
-*Scraped **80,462** Articles*
+*Scraped **80,470** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 553
-lankadeepalk | 621
+newsfirstlk | 554
+lankadeepalk | 624
 dbsjeyarajcom | 637
 bbccomsinhala | 718
 colombotelegraphcom | 803
@@ -17,21 +17,97 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,873
 dailyftlk | 5,634
-adalk | 7,730
+adalk | 7,733
 adaderanalk | 10,370
 tamilmirrorlk | 11,993
 virakesarilk | 13,149
-adaderanasinhalalk | 13,874
+adaderanasinhalalk | 13,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,462 (100.0%) of 80,462 articles have been extended.
+80,468 (100.0%) of 80,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-02 (Thursday)
+
+### ඇප ඉල්ලූ පෙත්සම ශෂින්ද්‍ර ඉල්ලා අස්කර ගනී
+
+*2025-10-02 11:10:57* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-ඉල්ලූ-පෙත්සම-ශෂින්ද්‍ර-ඉල්ලා-අස්කර-ගනී/11-418864) · `si`
+
+බන්ධනාගාර ගත කර සිටින තමන්ව ඇප මත මුදාහරිණ ලෙස ඉල්ලා හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සම ඉල්ලා අස්කර ගැනීමෙන් අනතුරුව එය නිෂ්ප්‍රභ කරන ලෙස කොළඹ මහාධිකරණය අද(02දා) නියෝග කළේය.
+
+◼️
+
+[Data](articles/56f26857.json)
+
+---
+
+### Western Province Tops List of Student Drug Cases: 67% Risk of Repeat Use
+
+*2025-10-02 11:07:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/western-province-tops-list-of-student-drug-cases-67-risk-of-repeat-use) · `en`
+
+...
+
+[Data](articles/3e75c6ed.json)
+
+[Extended Data](ext_articles/3e75c6ed.ext.json)
+
+---
+
+### දෙහි මිල ගිය උඩ
+
+*2025-10-02 11:06:29* · [`adalk`](https://www.ada.lk/breaking_news/දෙහි-මිල-ගිය-උඩ/11-418863) · `si`
+
+දේශිය වෙළඳපොලේ දෙහි කිලෝවක සිල්ලර මිල රුපියල් 1800- 2000 දක්වා ඉහල ගොස් ඇති බව පාරිභෝගිකයන් පවසයි.
+
+මේ වනවිට දෙහි ඵලදාව ඉතාමත් අඩු මට්ටමක පැවතීමත්,  වෙළදපොලේ පවතින ඉල්ලුමට සරිලන සැපයුමක් නෙමැතිවීම මීට හේතුවී ඇතිබව තොග වෙළදුන් පවසයි.
+
+◼️
+
+[Data](articles/608e868f.json)
+
+---
+
+### Respect for all religions should be socialized by the education system - PM
+
+*2025-10-02 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215250) · `si`
+
+Prime Minister, Education, Higher Education and Vocational Education Minister Dr. Harini Amarasuriya, Minister of Education, Education and Vocational Education should be fulfilled in the education Ministry and the education system.
+
+"The beautiful and song sacrifices and grief, such as sharing, unity, should focus more on sharing, unity, such as shares."
+
+The ceremony was organized by the Ministry of Tamil School Affairs, Nalaka Kabuwewa, and other officials, as well as the staff of the Ministry.
+
+◼️
+
+[Data](articles/0195ff68.json)
+
+[Extended Data](ext_articles/0195ff68.ext.json)
+
+---
+
+### "Our hands in our hands on the killing of the Thajayan
+
+*2025-10-02 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තජදන-ඝතනය-තරතර-රසක-අප-අත/101-680611) · `si`
+
+Minister Bim Ratnayake said there was the latest information about the killing of the Thajauth
+
+He said that these crimes were not crimes or Gnanaratne said that the country who ruled the country was closed
+
+He said this government had 60 months and that only twelve months
+
+Dimal Ratnayake said that everyone will be in accordance with the law by the end of the last 48 months.
+
+◼️
+
+[Data](articles/3e67d135.json)
+
+[Extended Data](ext_articles/3e67d135.ext.json)
+
+---
 
 ### Fishing boat holder arrested for bringing 700 kg of ice
 
@@ -330,6 +406,28 @@ According to police, the suspect is a close associate of notorious drug traffick
 [Data](articles/547222c0.json)
 
 [Extended Data](ext_articles/547222c0.ext.json)
+
+---
+
+### Minister Bangalawala still hosting
+
+*2025-10-02 08:53:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමත-බගලවල-තවමත-වවලල/101-680607) · `si`
+
+It is reported that the government has not yet been a permanent decision regarding the closure of ministers.
+
+According to sources, the bungalows will be shrine.
+
+In addition to the minister bungalow, the Cabinet is to be taken up in the future.
+
+When we inquired from Public Administrative Provincial Councils and Local Government, Dr. Chandana Abeyratne, said that the cabinet would be taken soon to take a decision regarding the ministerial bungalow.
+
+He said that all reports including those bungalows and buildings. The Minister also said that some new work will be made in the ministerial minister. Meanwhile, the Ministry of Public Administrative Provincial Councils and Local Government says that more than 50 government and private institutions have been requested to provide ministers bungalows.. The number of ministers in Colombo is fifty five.
+
+◼️
+
+[Data](articles/7a432b0a.json)
+
+[Extended Data](ext_articles/7a432b0a.ext.json)
 
 ---
 
@@ -826,6 +924,24 @@ This surge reflects a significant uptick compared to July’s USD 193 million, i
 [Data](articles/10b567d3.json)
 
 [Extended Data](ext_articles/10b567d3.ext.json)
+
+---
+
+### Gold to gold jailed for four kilos
+
+*2025-10-02 07:40:35* · [`adalk`](https://www.ada.lk/breaking_news/කිලෝ-හතරක-රන්-නාවික-හමුදා-භාරයට/11-418859) · `si`
+
+During a search operation conducted by the Navy, two suspects were taken into custody with a dingi vessel attempted to be meticted.
+
+According to information received by the North Western Naval Command, the naval shil inspected a suspicious digie vessel at Kalpitiya Lagoon. The suspects were taken to take the suspects to be taken into custody with the arrangements made by the arrangements and illegally transported and illegally transported to lead to the arrangement of a fishing grass.
+
+Steps were handed over to the Katunayake Customs Prevention Office for further legal proceedings for the suspects, gold and digical proceedings.
+
+◼️
+
+[Data](articles/d8317e25.json)
+
+[Extended Data](ext_articles/d8317e25.ext.json)
 
 ---
 
@@ -1886,137 +2002,5 @@ Most of them have been provided with this meal with about 230 students studying 
 [Data](articles/4bb5c1ad.json)
 
 [Extended Data](ext_articles/4bb5c1ad.ext.json)
-
----
-
-### 'Love with love - win the world': World Stories Day National Festival - 2025
-
-*2025-10-01 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226627) · `ta`
-
-This year, the Ministry of Girls and Children's Affairs has declared a weekly National Children's Day week.
-
-Its closing ceremony and World Children's Day National Celebration was held on Wednesday (October 01) at the Alari House.
-
-The ceremony was chaired by Prime Minister Harini Amarasuriya.
-
-In the meantime, the World Summit's Day Memorial Stamp and Postal. Kshama Bhoomi, a collection of literary competitions organized by the Department of Probation and Child Care Services, was launched on World Children's Day.
-
-The winners of the "Sithuvili Siththam", organized by the National Child Protection Authority, were honored at today's event.
-
-Special programs based on various activities were carried out for the children who attended the event.
-
-...
-
-[Data](articles/f12dea21.json)
-
-[Extended Data](ext_articles/f12dea21.ext.json)
-
----
-
-### Gazette issued on mandatory seat belts for all vehicles traveling on expressways
-
-*2025-10-01 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113123/gazette-issued-on-mandatory-seat-belts-for-all-vehicles-traveling-on-expressways) · `en`
-
-A gazette notification has been issued by the Minister of Transport, Highways, Ports and Civil Aviation making it mandatory for drivers and all passengers of vehicles traveling along expressways to wear seat belts.
-
-According to the gazette notification, the driver of a motor vehicle driven or used on an expressway and every passenger and individual occupying any seat and travelling in the motor vehicle are required to wear an individual safety seat belt while such motor vehicle is being driven or used on the expressway.
-
-Furthermore, the driver of a motor vehicle should not enter into or drive or use a vehicle on an expressway unless such motor vehicle is fitted with individual safety seat belts to be worn by the driver, every passenger and individual occupying a seat.
-
-◼️
-
-[Data](articles/68ccdd04.json)
-
-[Extended Data](ext_articles/68ccdd04.ext.json)
-
----
-
-### Gazette issued on mandatory seat belts for all vehicles traveling on expressways
-
-*2025-10-01 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113123/gazette-issued-on-mandatory-seat-belts-for-vehicles-traveling-on-expressways) · `en`
-
-A gazette notification has been issued by the Minister of Transport, Highways, Ports and Civil Aviation making it mandatory for drivers and all passengers of vehicles traveling along expressways to wear seat belts.
-
-According to the gazette notification, the driver of a motor vehicle driven or used on an expressway and every passenger and individual occupying any seat and travelling in the motor vehicle are required to wear an individual safety seat belt while such motor vehicle is being driven or used on the expressway.
-
-Furthermore, the driver of a motor vehicle should not enter into or drive or use a vehicle on an expressway unless such motor vehicle is fitted with individual safety seat belts to be worn by the driver, every passenger and individual occupying a seat.
-
-◼️
-
-[Data](articles/979169f3.json)
-
-[Extended Data](ext_articles/979169f3.ext.json)
-
----
-
-### Semmami Human Burial Case
-
-*2025-10-01 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226626) · `ta`
-
-Jaffna - Ariyalai, Sindhupathi - Semmani Human Burial case has been set up for the 13th of this month.
-
-The case was taken in the presence of Jaffna Magistrate's Court Judge S. Lenin Kumar.
-
-Due to the lack of a hop for the next excavation work, the magistrate has set the point on the 13th of this month.
-
-◼️
-
-[Data](articles/516120bd.json)
-
-[Extended Data](ext_articles/516120bd.ext.json)
-
----
-
-### Namal answers to the Thajayan story
-
-*2025-10-01 19:36:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-කතවට-නමලගන-පළතරක/1-680596) · `si`
-
-The Government of Sri Lanka General, Namal Rajapaksa alleges that the government and the Criminal Investigations Department is trying to distract the public opinion for political gain.
-
-He added that the former good governance government and the present government have built various absurd allegations.
-
-Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures to be former officials to the OIC of the Narahenpita OIC of Thajudepitiya.
-
-◼️
-
-[Data](articles/81ff093e.json)
-
-[Extended Data](ext_articles/81ff093e.ext.json)
-
----
-
-### Namal answers to the Thajayan story
-
-*2025-10-01 19:36:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තජදන-කතවට-නමලගන-පළතරක/101-680596) · `si`
-
-The Government of Sri Lanka General, Namal Rajapaksa alleges that the government and the Criminal Investigations Department is trying to distract the public opinion for political gain.
-
-He added that the former good governance government and the present government have built various absurd allegations.
-
-Mr. Rajapaksa said that the officers of the Narahenpita OIC had taken measures to be former officials to the OIC of the Narahenpita OIC of Thajudepitiya.
-
-◼️
-
-[Data](articles/a036c02e.json)
-
-[Extended Data](ext_articles/a036c02e.ext.json)
-
----
-
-### Fitch affirms Sri Lanka at ‘CCC+’
-
-*2025-10-01 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/113121/fitch-affirms-sri-lanka-at-ccc) · `en`
-
-Fitch Ratings has affirmed Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) at ‘CCC+’.
-
-Fitch Ratings stated that Sri Lanka’s ‘CCC+’ sovereign rating remains constrained by elevated general government indebtedness and a high interest-revenue ratio despite completion of the sovereign’s debt restructuring in 2024.
-
-Sustained adherence to a path of reforms is facilitating a solid economic recovery, low inflation, a substantial fiscal adjustment, and improvements in the external finance position, it added further.
-
-...
-
-[Data](articles/e8eee9c8.json)
-
-[Extended Data](ext_articles/e8eee9c8.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 12:13:00**
+As of **2025-10-02 12:22:59**
 
 ## Newspaper Stats
 
-*Scraped **80,472** Articles*
+*Scraped **80,473** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 554
+newsfirstlk | 555
 lankadeepalk | 625
 dbsjeyarajcom | 637
 bbccomsinhala | 718
@@ -27,11 +27,31 @@ adaderanasinhalalk | 13,876
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,472 (100.0%) of 80,472 articles have been extended.
+80,472 (100.0%) of 80,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-02 (Thursday)
+
+### Sri Lanka’s SOEs: Rs 3.2 Trillion Liability Cloud Over Public Finances
+
+*2025-10-02 12:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/sri-lanka%e2%80%99s-soes-rs-3-2-trillion-liability-cloud-over-public-finances) · `en`
+
+COLOMBO (News 1st); Sri Lanka’s State-Owned Enterprises (SOEs) continue to exert significant pressure on public finances, despite recent improvements in profitability, according to a Techincal Assistance Report by the International Monetary Fund (IMF).
+
+The report, part of Sri Lanka’s efforts to publish its first Fiscal Risk Statement by mid-2025, highlights the structural and financial vulnerabilities of the SOE sector and its implications for fiscal sustainability.
+
+With nearly 400 public corporations, including 199 commercial SOEs and 198 statutory boards, the sector plays a central role in the economy.
+
+Of the 199 commercial SOEs, 41 are considered strategically important, operating in critical sectors such as energy, ports, water, food, and construction.
+
+These 41 entities alone held Rs. 3.2 trillion in liabilities at the end of 2023—11.7% of GDP—with five major entities (CPC, CEB, SLA, NWS&DB, and SLPA) accounting for 90% of that total.
+
+...
+
+[Data](articles/ffdab925.json)
+
+---
 
 ### Bribery Commission is worried about misleading statements
 
@@ -1992,21 +2012,5 @@ A 10-year residence visa for an investment of USD 200,000 (or equivalent in fore
 [Data](articles/8882f2b0.json)
 
 [Extended Data](ext_articles/8882f2b0.ext.json)
-
----
-
-### The gazette notification that wears seat belts for all vehicles on the expressway
-
-*2025-10-01 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215233) · `si`
-
-The gazette notification included in the wearing the drivers of vehicles and seatbelt for all passengers on the expressway.
-
-The gazette was issued by Transport, Highways, Ports and Civil Aviation.
-
-◼️
-
-[Data](articles/b8345894.json)
-
-[Extended Data](ext_articles/b8345894.ext.json)
 
 ---

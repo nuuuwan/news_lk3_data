@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 09:12:20**
+As of **2025-10-02 09:21:39**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,864
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,404 (100.0%) of 80,407 articles have been extended.
+80,407 (100.0%) of 80,407 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,6 +40,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/02f00f3a.json)
+
+[Extended Data](ext_articles/02f00f3a.ext.json)
 
 ---
 
@@ -55,21 +57,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### செம்மணிப் புதைகுழி வழக்கு ஒத்திவைப்பு
+### Cloces postponing
 
 *2025-10-02 08:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிப்-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-365618) · `ta`
 
-யாழ்ப்பாணம், செம்மணி - சித்துப்பாத்தி மனிதப் புதைகுழி தொடர்பான வழக்கை எதிர்வரும் 13ஆம் திகதிக்கு யாழ்ப்பாணம் நீதிவான் நீதிமன்றம் ஒத்திவைத்துள்ளது.
+The Jaffna Magistrate's Court has adjourned the case relating to the human burial ground on the 13th of this month.
 
-மூன்றாம் கட்ட அகழ்வுப் பணிக்கான நிதி ஒதுக்கீடு கிடைக்கப் பெறாதமையாலேயே இந்த வழக்கு ஒத்திவைக்கப்பட்டுள்ளது.
+The case has been postponed without the availability of funds for the third phase of excavation.
 
-இந்த வழக்கு நேற்று புதன்கிழமை நீதிவான் எஸ். லெனின்குமார் முன்னிலையில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+The case was held yesterday by Judge S.. The presence of Lenin Kumar was taken up for trial.
 
-இதன்போது, மூன்றாம் கட்ட அகழ்வுப் பணிக்கான பாதீட்டுக்கான அங்கீகார அறிக்கையை மன்றில் சமர்ப்பிக்க அரச சட்டத்தரணி கால அவகாசம் கோரினார். இதைத் தொடர்ந்தே வழக்கு எதிர்வரும் 13 ஆம் திகதிக்குத்  தவணையிடப்பட்டது. (a)
+In the meantime, the State Attorney General sought time to submit the approval report on the third phase excavation work.. This was followed by the case on the 13th of this month. (A)
 
 ◼️
 
 [Data](articles/e9a3faaa.json)
+
+[Extended Data](ext_articles/e9a3faaa.ext.json)
 
 ---
 
@@ -151,23 +155,25 @@ COLOMBO (News 1st): The National Dangerous Drugs Control Board (NDDCB) has confi
 
 ---
 
-### வர்த்தக நோக்கில் வெளிநாட்டவருக்கு இலங்கை வதிவிட விசா
+### Sri Lanka Resident Visa for Business
 
 *2025-10-02 08:10:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-நோக்கில்-வெளிநாட்டவருக்கு-இலங்கை-வதிவிட-விசா/175-365617) · `ta`
 
-திருத்தப்பட்ட குடிவரவு மற்றும் குடியகல்வு ஒழுங்கு விதிகளின் அடிப்படையில் அறிமுகப்படுத்தப்பட்ட தனிநபர் முதலீட்டாளர் பிரிவின் கீழ் இலங்கை தமது வரலாற்றில் முதல் வதிவிட விசாவை வழங்கியுள்ளது.
+Sri Lanka has issued the first residency visa in its history under the Personal Investment Division introduced on the basis of the Rules of the Revised Immigration and Emigration Regulation.
 
-பொதுமக்கள் பாதுகாப்பு மற்றும் நாடாளுமன்ற அலுவல்கள் அமைச்சர் ஆனந்த விஜேபால உத்தியோகபூர்வமாக இந்த விசாவை கையளித்துள்ளார்.
+Minister of Public Safety and Parliamentary Affairs Ananda Wijebala has officially handed over the visa.
 
-வெளிநாட்டு முதலீடுகளை ஈர்க்கும் நோக்கில் வடிவமைக்கப்பட்ட இந்தத் திட்டத்தின் கீழ், வெளிநாட்டவர்கள் முதலீடு செய்வதன் மூலம் இலங்கையில் நீண்டகால வதிவிட விசாவைப் பெற்றுக்கொள்ள முடியும்.
+Under this scheme, designed to attract foreign investment, foreigners can get a long -term residency visa in Sri Lanka by investing.
 
-இதற்கமைய, 5 வருட வதிவிட விசாவை பெறுவதற்கு 1 லட்சம் அமெரிக்க டொலர் அல்லது அதற்குச் சமமான வேறு வெளிநாட்டு நாணயத்தை முதலீடு செய்ய வேண்டும்.
+Accordingly, to obtain a 5 -year residency visa, you have to invest a US $ 1 lakh or equivalent foreign currency.
 
-அதேநேரம், 10 வருட வதிவிட விசாவை பெறுவதற்கு 2 லட்சம் அமெரிக்க டொலர் அல்லது அதற்குச் சமமான வேறு வெளிநாட்டு நாணயத்தை முதலீடு செய்ய வேண்டும்.  (a)
+At the same time, you have to invest 2 lakhs or equivalent foreign currency to obtain a 10 -year residency visa.  (a)
 
 ◼️
 
 [Data](articles/38d69861.json)
+
+[Extended Data](ext_articles/38d69861.ext.json)
 
 ---
 

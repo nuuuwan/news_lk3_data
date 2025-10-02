@@ -1,209 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 07:44:30**
+As of **2025-10-02 05:56:07**
 
 ## Newspaper Stats
 
-*Scraped **80,386** Articles*
+*Scraped **80,370** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 539
 lankadeepalk | 615
 dbsjeyarajcom | 637
-bbccomsinhala | 717
+bbccomsinhala | 716
 colombotelegraphcom | 803
 dailymirrorlk | 4,733
 economynextcom | 4,774
-islandlk | 4,873
+islandlk | 4,861
 dailyftlk | 5,616
 adalk | 7,726
 adaderanalk | 10,352
-tamilmirrorlk | 11,988
+tamilmirrorlk | 11,986
 virakesarilk | 13,149
-adaderanasinhalalk | 13,864
+adaderanasinhalalk | 13,863
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,384 (100.0%) of 80,386 articles have been extended.
+80,367 (100.0%) of 80,370 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2025-10-02 (Thursday)
-
-### Putin goes to India in December
-
-*2025-10-02 06:28:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிசம்பரில்-இந்தியா-செல்கின்றார்-புடின்/50-365603) · `ta`
-
-Indian media reports that Russian President Vladimir Putin will go to India in December.
-
-He is expected to attend the summit on December 5 and 6.
-
-During the Russian visit to Indian National Security Advisor Ajith Dowel last August, Putin was referred to as an attendance of India, but there was no official reference to the time.
-
-However, the Indian Prime Minister Modi and the Russian President met at the recent Shanghai Cooperation Organization Summit in China. Both leaders have negotiated an hour. (A)
-
-◼️
-
-[Data](articles/26e512be.json)
-
-[Extended Data](ext_articles/26e512be.ext.json)
-
----
-
-### Vijay's campaign canceled for 2 weeks
-
-*2025-10-02 06:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜய்யின்-பிரச்சாரம்-2-வாரங்களுக்கு-ரத்து/175-365602) · `ta`
-
-The Tamil Nadu Victory Corporation has announced that the next two weeks will be postponed, with 41 people killed in the crowd during the Vijay's campaign in Karur last Saturday.
-
-In this context, which is in pain and grief that we have lost our own, the people's meeting for the next two weeks of the president of our club is temporarily postponed.. With the approval of the Chairman of our Corporation, the new details of this people's meeting will be announced later.. (A)
-
-◼️
-
-[Data](articles/9629f46c.json)
-
-[Extended Data](ext_articles/9629f46c.ext.json)
-
----
-
-### A change in the weather in many areas from tomorrow
-
-*2025-10-02 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215236) · `si`
-
-Atmospheric atmospheric conditions are underway during the evening in the evening.
-
-The Department of Meteorology announced that there is a rainy weather in many parts of the island.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds are about 30-40 times.
-
-◼️
-
-[Data](articles/bd0fbf24.json)
-
-[Extended Data](ext_articles/bd0fbf24.ext.json)
-
----
-
-### විෂ මත්ද්‍රව්‍ය භාවිතයට ඇබ්බැහි වූ පොලිස් නිලධාරීන්ට සිදුවන්නේ කුමක් ද?
-
-*2025-10-02 01:37:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2n19dke20o) · `si`
-
-විෂ මත්ද්‍රව්‍ය භාවිතයට ඇබ්බැහි වූ පොලිස් නිලධාරීන්ට සිදුවන්නේ කුමක් ද?
-
-පොලිස් දෙපාර්තමේන්තුවේ 'අලුත් නිලධාරීන්ගෙන් සියයට 15-20ත් අතර පිරිසක් මත්ද්‍රව්‍යවලට ඇබ්බැහි වී සිටින බව' මහජන ආරක්ෂක හා පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල පසුගියදා අනාවරණය කළේය.
-
-මත්ද්‍රව්‍ය හා සම්බන්ධ චෝදනා මත 2025 වසරේ ජනවාරි සිට මේ දක්වා කාලය තුළ පොලිස් නිලධාරීන් 68 දෙනෙකුගේ වැඩ තහනම් කර ඇති බව ද අමාත්‍යවරයා එහිදී පැවසුවේය.
-
-මේ සම්බන්ධයෙන් බීබීසී සිංහල සේවය මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාලගෙන් විමසීමක් කළ අතර එහිදී අමාත්‍යවරයා කියා සිටියේ 'අලුතෙන්' යනුවෙන් සඳහන් කළේ පොලිසියේ සේවය කරන තරුණ නිලධාරීන් බව ය.
-
-"අලුත් කියලා කියන්නේ පොලිසියේ ඉන්න තරුණ අය අතර මත්ද්‍රව්‍ය භාවිතය වැඩි වෙලා තියෙනවා කියන එකයි. එහෙම නැතිව අලුතෙන් බඳවා ගන්න අයගේ කියලා නෙමෙයි. පොලිසියට බඳවා ගන්නා අයගේ ටෙස්ට් එකක් කරල යි බඳවා ගැනීමේ කටයුත්ත කරන්නේ."
-
-...
-
-[Data](articles/91626f42.json)
-
----
-
 ### 2025-10-01 (Wednesday)
-
-### Carrot face mask …
-
-*2025-10-01 23:37:00* · [`islandlk`](http://island.lk/carrot-face-mask-2/) · `en`
-
-Most of us are concerned about our looks … our appearance! We like our face to look good all the time.
-
-Okay, and I’ll lend you a helping hand, this week, with Carrot Face Mask, and what is so special about carrots is that carrot face mask is perfect for any skin type.
-
-Carrots are a natural antiseptic and help make your skin feeling fresh and healthy.
-
-It gives life to skin and, what’s more, carrots are also freely available.
-
-Vegetable markets are stocked with carrots so you don’t need to go searching for this vegetable here, there and everywhere, and, I’m sure, right now, you have carrots … at home!
-
-You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon honey, and 1/2 tablespoon fresh lemon juice.
-
-You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon sandalwood powder, and 1/2 tablespoon fresh lemon juice.
-
-You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon yoghurt, and 1/2 tablespoon fresh lemon juice.
-
-...
-
-[Data](articles/5cfcd901.json)
-
-[Extended Data](ext_articles/5cfcd901.ext.json)
-
----
-
-### Eswaran Brothers launches empowerment programme to elevate women in tea industry
-
-*2025-10-01 23:23:00* · [`islandlk`](http://island.lk/eswaran-brothers-launches-empowerment-programme-to-elevate-women-in-tea-industry/) · `en`
-
-Eswaran Brothers, one of Sri Lanka’s largest value-added tea exporters, has launched a pioneering gender inclusion initiative designed to elevate women into leadership roles across the tea industry. The initiative is implemented in collaboration with global gender advisory firm Value for Women (VFW) and supported by FMO, the Dutch development bank.
-
-This initiative marks a significant step for Eswaran Brothers as it integrates diversity and inclusion into its long-term business strategy, aligning with global best practices to strengthen its organisational culture and future-proof its operations.
-
-Ganesh Deivanayagam, Executive Chairman of Eswaran Brothers, remarked, “What makes this partnership especially noteworthy is that Eswaran Brothers, as a family company steeped in values, was able to work with VFW and FMO to create a far-reaching programme of importance. This reflects strategic foresight and a fundamental belief in doing the right thing.”
-
-...
-
-[Data](articles/0fd02d47.json)
-
-[Extended Data](ext_articles/0fd02d47.ext.json)
-
----
-
-### CEAT Kelani scores double win at World HRD Congress Sri Lanka Awards
-
-*2025-10-01 23:22:00* · [`islandlk`](http://island.lk/ceat-kelani-scores-double-win-at-world-hrd-congress-sri-lanka-awards/) · `en`
-
-CEAT Kelani Holdings has been recognised as Sri Lanka’s Employer Brand of the Year 2025, while its Vice President – Human Resources, Thushara Hettithantrige, was honoured as a ‘Topmost HR Leader of Sri Lanka’ at the 2025 World HRD Congress Sri Lanka awards presentation held in Colombo recently.
-
-The evaluation process for the Sri Lanka awards was based on criteria that encompassed brand strategy, employee value proposition, recruitment and retention, diversity and inclusion, employer reputation, innovation, creativity and outcomes.
-
-The World HRD Congress is a global platform for human resource professionals founded by Dr. R. L. Bhatia, with a dynamic presence across Asia, Africa and the GCC. It is governed and run by professionals and HR leaders across multiple countries with the objective of bringing them together on a single platform.
-
-...
-
-[Data](articles/62c5cdd8.json)
-
-[Extended Data](ext_articles/62c5cdd8.ext.json)
-
----
-
-### Bourse springs into another bull-run; indices up
-
-*2025-10-01 23:19:00* · [`islandlk`](http://island.lk/bourse-springs-into-another-bull-run-indices-up/) · `en`
-
-CSE activities were extremely bullish yesterday and the bourse gained 1500 Index points during the last twelve seasons, according to market analysts.
-
-The All Share Price Index was up by 72.7 points, while the S and P SL20 rose by 16.15 points. Turnover stood at Rs 6.46 billion with 12 crossings.
-
-Top seven crossings were reported in Commercial Bank, where 1.8 million shares crossed to the tune of Rs 341 million; its shares traded at Rs 193, Kandy Hotels five million shares crossed for Rs 100 million and its shares sold at Rs 20, Lanka Wall Tiles 1.4 million shares crossed for Rs 71.5 million; its shares traded at Rs 52, Dipped Products 731,000 shares crossed for Rs 48.8 million; its shares sold at Rs 66.50, Chevron Lubricants 170,000 shares crossed for Rs 30.1 million; its shares fetched at Rs 177,CTC 17000 shares crossed to the tune of Rs 28.5 million; its shares traded at Rs 1675 and Hayleys 150,000 shares crossed for Rs 27.9 million; its shares traded at Rs 180.
-
-...
-
-[Data](articles/3da9e829.json)
-
-[Extended Data](ext_articles/3da9e829.ext.json)
-
----
-
-### Dr. Nalinda Jayatissa visits LAUGFS Life Sciences’ State-of-the-Art (LVP) pharmaceutical facility
-
-*2025-10-01 23:18:00* · [`islandlk`](http://island.lk/dr-nalinda-jayatissa-visits-laugfs-life-sciences-state-of-the-art-lvp-pharmaceutical-facility/) · `en`
-
-The Minister of Health and Mass Media, Dr. Nalinda Jayatissa, undertook an observational visit to the state-of-the-art sterile pharmaceutical manufacturing facility of LAUGFS Life Sciences (Pvt) Ltd, located within the BOI Export Processing Zone, Koggala. This visit reflects the company’s commitment to strengthening Sri Lanka’s healthcare system through world-class local manufacturing. Marking a significant milestone for the country’s healthcare industry, LAUGFS Life Sciences is advancing sterile infusion therapy production, reducing reliance on imports, delivering economic and clinical benefits, and positioning Sri Lanka as a regional hub for quality-driven pharmaceutical manufacturing through innovation, regulatory compliance, and private-sector investment.
-
-...
-
-[Data](articles/c2bb27c5.json)
-
-[Extended Data](ext_articles/c2bb27c5.ext.json)
-
----
 
 ### A Chief Negotiator Would Be Instrumental For NPP In Finalizing ETCA
 
@@ -238,8 +66,6 @@ RELATED : Sri Lanka current account turns to deficit in 4Q after printing money
 ...
 
 [Data](articles/c965a9ee.json)
-
-[Extended Data](ext_articles/c965a9ee.ext.json)
 
 ---
 
@@ -610,8 +436,6 @@ The Free Trade Zone Manufacturers’ Association (FTZMA), together with the Nati
 ...
 
 [Data](articles/b655f65e.json)
-
-[Extended Data](ext_articles/b655f65e.ext.json)
 
 ---
 
@@ -1333,8 +1157,6 @@ Sri Lanka Customs revenue jump is largely due to stronger enforcement, improved 
 
 [Data](articles/6fccfbb7.json)
 
-[Extended Data](ext_articles/6fccfbb7.ext.json)
-
 ---
 
 ### Sri Lanka Customs exceed revenue target by 37-pct  in September
@@ -2030,5 +1852,175 @@ The former Added Director of the National Planning Department of the Ministry of
 [Data](articles/693ca501.json)
 
 [Extended Data](ext_articles/693ca501.ext.json)
+
+---
+
+### Physical Punished Prevention amendment to Parliament
+
+*2025-10-01 16:23:10* · [`adalk`](https://www.ada.lk/breaking_news/ළමුන්ට-ශාරීරික-දැඩුවම්-දීම-වැළැක්වීමේ--සංශෝධනය-පාර්ලිමේන්තුවට/11-418852) · `si`
+
+The Ministry of Women and Child Affairs has said that the amendment of the Penal Code has been presented to Parliament by the Ministry of Women and Child Affairs.
+
+The Ministry will be able to release them to the schools after the end of the proposed amendment.
+
+◼️
+
+[Data](articles/1c5dc9e4.json)
+
+[Extended Data](ext_articles/1c5dc9e4.ext.json)
+
+---
+
+### Opposition Leader Sajith Premadasa pointing to the unanswered position of the majority government
+
+*2025-10-01 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226606) · `ta`
+
+Whatever a change in the 76 -year history, people are now presenting their problems to the opposition leader. Despite giving millions of votes to the current government and winning 159 seats in 225 in Parliament, the country has reached its issues to the opposition leader.. Opposition leader Sajith Premadasa said that although the current government has given a majority power in anticipation of answers and solutions, the people have not yet provided the expected answers and solutions.
+
+Opposition Leader Sajith Premadasa said this while addressing the event of the Anuradhapura district, the Kalawewa electorate, the Opposition Leader's Mobile Scheme in Kattiyawa and the joining of the new members of the United People's Power.
+
+...
+
+[Data](articles/78d60e65.json)
+
+[Extended Data](ext_articles/78d60e65.ext.json)
+
+---
+
+### Mannar Wind Power Plant: Government is trying to respond through the riot division
+
+*2025-10-01 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226602) · `ta`
+
+Repression is being used by the opposition parties not only to fight for their rights. The government is not important to the people's struggles or the opinions of the environmentalists regarding the Mannar wind power project.. United People's Power MP Mujibur Rahman accused the government of trying to respond through the rioting unit instead of resolving the issue through negotiations.
+
+He further stated at the media conference held at the United People's Power Office in Colombo on Wednesday (1).
+
+A massive demonstration was staged by the public against the wind power plant in Mannar.
+
+Many environmentalists have pointed out that the project will have a huge impact on the environment and birds. But the government ignores the people's struggles or the opinions of the environmentalists without importance. No one can prioritize the governing body to respond to these.
+
+...
+
+[Data](articles/11b392af.json)
+
+[Extended Data](ext_articles/11b392af.ext.json)
+
+---
+
+### Suspect arrested with foreign cigarettes in Colombo
+
+*2025-10-01 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226607) · `ta`
+
+A suspect with 1,618 foreign cigarettes was arrested by the Sri Lankan navy and police on Tuesday (30).
+
+Accordingly, the suspect was arrested during a roundup conducted by the Sri Lanka Navy and the Sri Lanka Naval Ship Gemunu Division of the Western Navy.
+
+The arrested suspect has been identified as a 46 -year -old living in Colombo 14.
+
+In addition, the suspect and foreign cigarettes were handed over to the Coastal Police Station for further legal action.
+
+◼️
+
+[Data](articles/6f490288.json)
+
+[Extended Data](ext_articles/6f490288.ext.json)
+
+---
+
+### False contraceptive allegations are false in the short term - doctor Sahabdin
+
+*2025-10-01 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226600) · `ta`
+
+I and my family have faced the suffering of a Tauheed Muslim doctor for 400 Sinhalese mothers through the Cesarean system.. The allegation made against me for coming to power was false in a short time. Those who accused me of referring to as professors have disappeared today due to karma.
+
+I don't have contraception. The country's birth rate has fallen shortly in the midst of economic impact. The rate of admission of children per grade has declined by millions.. Birth rate is seen as the main component of a country's economic development. Therefore, the government should focus on this issue.
+
+He was speaking at the launch of the 'Run Dhoni' book held on Tuesday (30) at the Bandaranaike Memorial International Conference Hall.
+
+I am a man who has completely ignored communalism with fellow ethnicity and brotherhood in a beautiful small village called Kalawei.. I am firmly in the position that the country can never progress without the abolition of communalism.
+
+...
+
+[Data](articles/7f242397.json)
+
+[Extended Data](ext_articles/7f242397.ext.json)
+
+---
+
+### The promise to the intellectual ministers
+
+*2025-10-01 16:02:00* · [`adalk`](https://www.ada.lk/breaking_news/පරිසර-ඇමති-නඳුන්ට-දුන්-පොරොන්දුව/11-418851) · `si`
+
+Minister of the Ministry of Wildlife is the sections of the Department of Wildlife and the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of Reptiles.
+
+Mihintale Deputy Dilhara, 15-year old, who is undermined to the reigns, is being carried out to the homes, to release the homes and conserves dead animals and conserves dead animals.
+
+The Department of Wildlife has been taken by the Department of Wildlife and Animal specimens after the television program was revealed in connection with the child's ability.
+
+Minister of Environment Dr. Damika Detunge to the residence of the Minister of Environment Dhammika Detuna, Mihintale, Ambaranda, Anuradhapura, has been present at the Vavuniya.
+
+A few weeks ago, the interest in this subject was not able to recover and was not discouraged by the minister to call on the same day as he had gone to Dilhara.
+
+...
+
+[Data](articles/f36f74c1.json)
+
+[Extended Data](ext_articles/f36f74c1.ext.json)
+
+---
+
+### The death of Wasim Tajud should not be used for politics - Namal Rajapaksa
+
+*2025-10-01 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226599) · `ta`
+
+The government should conduct a neutral inquiries without using the death of Wasim Tajud for his politics. The use of this issue to politics is the greatest injustice of his soul and. Namal Rajapaksa, the national organizer and parliamentarian of the Sri Lanka Peoples Alliance (PA), said that the police media unit has revealed a new issue for political speech.
+
+He was speaking to the media after a meeting with the constituency organizers held at the Sri Lanka PA's office on Wednesday (01).
+
+The Rajapaksa government and the government of goodwill have made many allegations. Investigations were also carried out. They tried to make specific lies in the election stage.
+
+The last government officials also attempted to arrest the Narahenpitiya Police Station in connection with the death of Wasim Tajud.. Those officials are in the top positions of this government.
+
+...
+
+[Data](articles/e00b1d3f.json)
+
+[Extended Data](ext_articles/e00b1d3f.ext.json)
+
+---
+
+### Farmers protest in Trincomalee urging land grabbing
+
+*2025-10-01 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226603) · `ta`
+
+Farmers from 11 Agricultural Federations staged a demonstration in front of the Trincomalee Agrarian Development Department today (01) by the Van Ela -Kinniya Agricultural Organizations Federation under the theme "Van Ela - Kinniya land grabbing".
+
+The demonstration was staged by the farmers of the five Agricultural Federations of the Kinniya Divisional Secretariat and the farmers of the Kandalai Divisional Secretariat, demanding the provision of their agricultural lands and the granting of the subsidized subsidy.
+
+Representatives of the Agricultural Federations in the talks said that the governor had promised to take steps to provide the subsidized subsidy and provide a permanent solution to the land issue on Friday.
+
+...
+
+[Data](articles/eb291707.json)
+
+[Extended Data](ext_articles/eb291707.ext.json)
+
+---
+
+### 02 re -water treatment plants installed by the Navy were handed over to the public
+
+*2025-10-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226605) · `ta`
+
+Under the Navy's Social Working Scheme, with the financial contribution of the Presidential Secretariat, the Navy's technical and artistic contribution, the Wilkamuwa Pradeshiya Sabha of the Matale District with the financial contribution of the Embassy of the Chinese People's Republic in Sri Lanka Handed over to the public.
+
+In addition, the Navy has set up 1132 water treatment plants with these 02 water treatment plants, so that the two water purification centers handed over to the public can easily meet the clean drinking water needs of a large number of people around the Sri Samputtu Maithri Vihara in Vilgamuwa and Oyamaduwa.
+
+The Sri Lanka Navy has successfully implemented this social care program in accordance with the state's health vision of "sick life - healthy people".
+
+◼️
+
+[Data](articles/1697f53b.json)
+
+[Extended Data](ext_articles/1697f53b.ext.json)
 
 ---

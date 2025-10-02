@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 10:55:38**
+As of **2025-10-02 10:37:57**
 
 ## Newspaper Stats
 
-*Scraped **80,462** Articles*
+*Scraped **80,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,71 +17,29 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,873
 dailyftlk | 5,634
-adalk | 7,730
-adaderanalk | 10,370
+adalk | 7,729
+adaderanalk | 10,358
 tamilmirrorlk | 11,993
 virakesarilk | 13,149
-adaderanasinhalalk | 13,874
+adaderanasinhalalk | 13,872
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,447 (100.0%) of 80,462 articles have been extended.
+80,446 (100.0%) of 80,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-02 (Thursday)
 
-### අයිස් කිලෝ 700ක් මෙරටට රැගෙන ආ බවට සැක ධීවර යාත්‍රා හිමිකරුවෙක් අත්අඩංගුවට
-
-*2025-10-02 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215249) · `si`
-
-තංගල්ල සීනිමෝදර ප්‍රදේශයේදී සොයාගත් කිලෝග්‍රෑම් 700කට අධික මත්ද්‍රව්‍ය තොගය මෙරටට රැගෙන ආ බව කියන ධීවර යාත්‍රාවක හිමිකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් සිදුකළ වැටලීමකදී මෙම සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
-
-තංගල්ල සීනිමෝදර ප්‍රදේශයේ ලොරි රථ තුනක තිබී හෙරොයින් සහ අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 700කට අධික ප්‍රමාණයක් පසුගියදා පොලීසිය විසින් සොයාගනු ලැබීය.
-
-අදාළ මත්ද්‍රව්‍ය තොගය විදෙස් රටක සිට ටෝලර් යාත්‍රාවකින් ගෙනවිත් කුඩා ධීවර යාත්‍රාවකින් මෙරටට රැගෙනවිත් ඇති බවට මේ වන විට තොරතුරු අනාවරණය වී තිබේ.
-
-එම කුඩා යාත්‍රාවේ හිමිකරු මෙලෙස අත්අඩංගුවට ගෙන ඇති බව පොලීසිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/5b7189d4.json)
-
----
-
-### ඇප ඉල්ලූ පෙත්සම ශෂීන්ද්‍ර රාජපක්ෂ ඉල්ලා අස්කරගනී
-
-*2025-10-02 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215247) · `si`
-
-අල්ලස් කොමිසම විසින් පොදු දේපළ පනත යටතේ රක්ෂිත බන්ධනාගාර ගත කර සිටින තමන්ව ඇප මත මුදාහරිණ ලෙස ඉල්ලා හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සම ඉල්ලා අස්කර ගැනීමෙන් අනතුරුව එය නිෂ්ප්‍රභ කරන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
-
-මෙම පෙත්සම අද (02) කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා ඉදිරියේ කැඳවනු ලැබීය.
-
-එහිදී පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතීඥ සම්පත් මෙන්ඩිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම ඉල්ලා අස්කර ගන්නා ලෙස තම සේවාදායකයා තමන්ට උපදෙස් ලබා දී ඇති බවයි.
-
-ඒ අනුව අදාළ පෙත්සම ඉල්ලා අස්කර ගැනීමට අවසර දෙන ලෙස ජනාධිපති නීතිඥවරයා අධිකරණයෙන් ඉල්ලා තිබේ.
-
-එම ඉල්ලීම පිළිගත් කොළඹ මහාධිකරණ විනිසුරුවරයා අදාළ ප්‍රතිශෝධන පෙත්සම ඉල්ලා අස්කර ගැනීමට අවසර දෙමින් එය නිෂ්ප්‍රභ කිරීමට තීන්දු කර ඇත.
-
-◼️
-
-[Data](articles/25b54929.json)
-
----
-
-### Sexual education
+### பாலியல் கல்வி
 
 *2025-10-02 10:16:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/பாலியல்-கல்வி/62-365623) · `ta`
 
 ◼️
 
 [Data](articles/e4dc67ca.json)
-
-[Extended Data](ext_articles/e4dc67ca.ext.json)
 
 ---
 
@@ -100,28 +58,6 @@ The suspect is a 38 year old resident of the Ariyagama area in Morotuduwa.
 [Data](articles/84284662.json)
 
 [Extended Data](ext_articles/84284662.ext.json)
-
----
-
-### 2 Delta planes collide on Tarmac at New York Airport
-
-*2025-10-02 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113145/2-delta-planes-collide-on-tarmac-at-new-york-airport) · `en`
-
-Two commercial planes of Delta Airlines collided while taxiing at New York’s LaGuardia Airport on Wednesday, causing one plane’s wing to detach.
-
-Video footage circulating on social media, which appeared to be taken from inside a neighbouring plane, showed flashing emergency vehicle lights on the tarmac and damage to one jet’s wing.
-
-The nose of the one plane collided with the right wing of the other plane while both jets were taxiing, according to Air Traffic Control audio.
-
-The pilots reported damage to their windshield, the ATC audio said.
-
-One person was injured in the accident that took place around 9:56 p.m (local time), a report by ABC said.
-
-The Delta airlines has not issued any statement over the incident at the time of filing of this report.
-
-...
-
-[Data](articles/0dbc39d3.json)
 
 ---
 
@@ -191,26 +127,6 @@ The suspect, the suspect, who is a drug dealer named 'Kudu Sale', is a person wh
 
 ---
 
-### Another individual arrested in connection with massive drug haul seized in Tangalle
-
-*2025-10-02 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113142/another-individual-arrested-in-connection-with-massive-drug-haul-seized-in-tangalle) · `en`
-
-Another individual connected to the large haul of narcotics uncovered from three lorries in Seenimodara, Tangalle has been arrested by the Tangalle Divisional Crime Investigation Unit.
-
-The suspect, known as ‘Beliatta Sanaa’, was arrested yesterday (01), according to police.
-
-Recently, police seized over 700 kilograms of heroin and crystal methamphetamine (‘Ice’) hidden in three lorries in Seenimodara. The haul of drugs had been smuggled into the country from abroad and were being prepared for transportation, police stated.
-
-The drug consignment is believed to belong to a foreign-based trafficker named ‘Unakuruwa Shantha’. In connection with the incident, police have launched a special operation to apprehend suspects involved in drug trafficking activities within Sri Lanka.
-
-Accordingly, ‘Beliatta Sanaa’, has been arrested, who is said to be a close associate of the main suspect known as “Bhoomithelā”.
-
-...
-
-[Data](articles/74550182.json)
-
----
-
 ### Brain damage to a boy falling in a swimming pool
 
 *2025-10-02 09:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீச்சல்-குளத்தில்-விழுந்த-சிறுவனுக்கு-மூளையில்-பாதிப்பு/175-365620) · `ta`
@@ -263,24 +179,6 @@ In 2024, the driver of the car, who was shot dead by the suspects, who was shot 
 
 ---
 
-### Israel detains over 200 from 37 countries in flotilla
-
-*2025-10-02 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113141/israel-detains-over-200-from-37-countries-in-flotilla) · `en`
-
-Global Sumud Flotilla spokesperson Saif Abukeshek has provided a “mission update” in a post on Instagram, confirming that Israeli forces have intercepted 13 boats at sea.
-
-Abukeshek said there were more than 201 people from 37 countries on those boats, including 30 participants from Spain; 22 from Italy; 21 from Turkey; and 12 from Malaysia.
-
-He said the group’s “mission is going on” despite the arrests and vessels are continuing to sail “through the Mediterranean to break the siege on Gaza”.
-
-“We have around 30 ships that are still fighting their way away from the military vessels of the occupation forces trying to reach to the shores of Gaza. They are determined. They are motivated, and they are doing everything within their hand to be able to break this [siege] by early morning and to arrive together,” he said.
-
-◼️
-
-[Data](articles/a36e97ef.json)
-
----
-
 ### Heroin hidden in pants waters hidden
 
 *2025-10-02 09:02:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කලසම-වටය-සඟව-හරයන-ගනලල/101-680609) · `si`
@@ -296,28 +194,6 @@ The three-wheeler, which was in a bag of information on information received by 
 [Data](articles/8404ddc9.json)
 
 [Extended Data](ext_articles/8404ddc9.ext.json)
-
----
-
-### Criminal gang member “Piyuma” further remanded
-
-*2025-10-02 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113140/criminal-gang-member-piyuma-further-remanded) · `en`
-
-The Colombo Fort Magistrate’s Court has remanded Piyum Hasthika, alias “Piyuma”, who is alleged to be a member of an organized crime gang, until October 15.
-
-The order was issued by Colombo Fort Magistrate Isuru Neththi Kumara.
-
-Although the case was taken up before Colombo Fort Magistrate Isuru Neththi Kumara, the suspect appeared virtually via Zoom, said Ada Derana reporter.
-
-Police informed court that the suspect is being held under the Prevention of Terrorism Act (PTA) and that further investigations against him are being carried out.
-
-Accordingly, after considering the facts presented, the Magistrate ordered that the suspect be remanded until October 15.
-
-According to police, the suspect is a close associate of notorious drug trafficker “Kudu Salindu” and has been investigated in connection with several serious offenses, including drug trafficking and murder.
-
-◼️
-
-[Data](articles/547222c0.json)
 
 ---
 
@@ -340,26 +216,6 @@ He said that all reports including those bungalows and buildings. The Minister a
 [Data](articles/baef5e61.json)
 
 [Extended Data](ext_articles/baef5e61.ext.json)
-
----
-
-### Elon Musk becomes first person in history to be worth over $500 billion
-
-*2025-10-02 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113139/elon-musk-becomes-first-person-in-history-to-be-worth-over-500-billion) · `en`
-
-Tesla boss Elon Musk has become the first person ever to achieve a net worth of more than $500bn (£370.9bn), as the value of the electric car company and his other businesses have risen this year.
-
-The tech magnate’s net worth briefly reached $500.1bn on Wednesday afternoon New York time, before dipping slightly to just over $499bn later in the day, the Forbes’ billionaires index reported.
-
-Alongside Tesla, valuations of his other ventures, including the artificial intelligence startup xAI and rocket company SpaceX, have also reportedly climbed in recent months.
-
-The milestone further cements Musk’s status as the world’s richest person, well ahead of rivals in the global tech sector.
-
-According to Forbes’ billionaires index, Oracle founder Larry Ellison is the world’s second richest person, with a fortune of about $350.7bn.
-
-...
-
-[Data](articles/6e63903d.json)
 
 ---
 
@@ -455,26 +311,6 @@ COLOMBO (News 1st); A high-level discussion was held at the Presidential Secreta
 
 ---
 
-### Court orders govt. analyst’s report on 10 hand grenades found in Mutwal
-
-*2025-10-02 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113138/court-orders-govt-analysts-report-on-10-hand-grenades-found-in-mutwal) · `en`
-
-The Colombo Magistrate’s Court has directed police to obtain a Government Analyst’s report regarding the 10 hand grenades recently discovered in Aluthmawatha, Mutwal.
-
-Colombo Additional Magistrate Oshada Migara Maharachchi issued the order after considering a request submitted by the Mutwal Police, said Ada Derana reporter.
-
-Police informed court that further investigations are being carried out with the assistance of CCTV footage to identify the suspects connected to the incident.
-
-Granting another request made by police, the Magistrate also permitted the defusing of the seized grenades and ordered the Government Analyst’s report to be presented to court.
-
-The stock of grenades had been recovered by a special police team acting on information received by the Terrorism Investigation Division (TID).
-
-◼️
-
-[Data](articles/bc309ba1.json)
-
----
-
 ### Colombia Expels Israeli Diplomats Over Attack On Flotilla
 
 *2025-10-02 08:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/colombia-expels-israeli-diplomats-over-attack-on-flotilla) · `en`
@@ -490,26 +326,6 @@ Manuela Bedoya and Luna Barreto were part of the Global Sumud Flotilla's crew �
 [Data](articles/e543435b.json)
 
 [Extended Data](ext_articles/e543435b.ext.json)
-
----
-
-### White House says firings ‘imminent’ as plan to reopen government collapses
-
-*2025-10-02 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/113137/white-house-says-firings-imminent-as-plan-to-reopen-government-collapses) · `en`
-
-Efforts to swiftly end the US government shutdown collapsed Wednesday (Oct 1) as Democrats in Congress went home without resolving a funding stand-off with President Donald Trump - and the White House threatened public sector jobs.
-
-Federal funding expired at midnight after Trump and lawmakers failed to agree on a deal to keep the lights on, prompting agencies to wind down services, while the White House warned of “imminent” firings of public sector workers.
-
-Senate Democrats - who are demanding extended health care subsidies for low-income families - refused to help the majority Republicans approve a House-passed Bill that would have reopened the government for several weeks while negotiations continue.
-
-Voting in the Senate is now adjourned until Friday, meaning hopes for a quick resolution have been frustrated.
-
-Around 750,000 federal employees are expected to be placed on furlough - a kind of enforced leave, with pay withheld until they return to work.
-
-...
-
-[Data](articles/5ae11769.json)
 
 ---
 
@@ -564,44 +380,6 @@ Meanwhile, Deputy Minister Mahinda Jayasinghe says that all crimes including dru
 [Data](articles/e1a0e370.json)
 
 [Extended Data](ext_articles/e1a0e370.ext.json)
-
----
-
-### Court grants permission to detain and question underworld figure ‘Tinker’
-
-*2025-10-02 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113136/court-grants-permission-to-detain-and-question-underworld-figure-tinker-) · `en`
-
-The Hulftsdorp Magistrate’s Court has granted permission for the Colombo Crimes Division (CCD) to detain and interrogate Sridaran Niranjan, also known as ‘Tinker’, a member of an organized crime group who was recently arrested in Dubai and deported to Sri Lanka.
-
-According to the Police Media Division, court approved a 24-hour detention period, until tomorrow (03), for officers to question the suspect.
-
-The suspect was apprehended during a joint operation involving Sri Lanka Police, the State Intelligence Service and the Dubai Police in the United Arab Emirates.
-
-Following his arrest, he was brought to Sri Lanka in the early hours of yesterday (02) and taken into custody at the Bandaranaike International Airport (BIA) by officers of the Airport Criminal Investigation Division. He was then handed over to the Peliyagoda Police.
-
-...
-
-[Data](articles/466f2e68.json)
-
----
-
-### Former Congolese president sentenced to death for war crimes
-
-*2025-10-02 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113135/former-congolese-president-sentenced-to-death-for-war-crimes) · `en`
-
-Former Democratic Republic of Congo President Joseph Kabila has been sentenced to death in absentia for war crimes and treason.
-
-The charges concern accusations that Kabila has been supporting the M23, a rebel group who have wreaked devastation across the country’s eastern region.
-
-Kabila was convicted on Friday by a military court of treason, crimes against humanity, and war crimes, including murder, sexual assault, torture and insurrection. He denied the charges, but did not appear in court to defend himself.
-
-The ex-president rejected the case as “arbitrary” and said the courts were being used as an “instrument of oppression”. His current whereabouts are unknown.
-
-One of his allies and a former minister, Kikaya Bin Karubi, told the BBC’s Newsday programme that the whole trial had been “theatrical” and was an example of the dictatorship of President Félix Tshisekedi. He said the court had not seen any evidence linking Kabila to the M23 rebel group.
-
-...
-
-[Data](articles/8d3562ea.json)
 
 ---
 
@@ -745,22 +523,6 @@ These specifications aim to ensure maximum protection in the event of a collisio
 
 ---
 
-### India unveils new measures for internationalisation of Rupee
-
-*2025-10-02 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113134/india-unveils-new-measures-for-internationalisation-of-rupee) · `en`
-
-The Reserve Bank of India (RBI) has announced fresh measures to promote wider use of the Indian Rupee in cross-border transactions, as part of its strategy to gradually internationalise the currency.
-
-For months now, the Indian government has been taking steps to internationalise the rupee, which refers to the process of making the Indian currency widely accepted and used for global trade, finance, and investment. As part of latest announcements, RBI Governor Sanjay Malhotra proposed three measures to globalise the rupee. This comes amid India’s bid to present the rupee as a stable currency.
-
-1. The Reserve Bank said authorised dealer (AD) banks will now be permitted to extend loans in Indian Rupees to non-residents from Bhutan, Nepal and Sri Lanka for trade-related transactions. This is expected to deepen trade settlement in INR with neighbouring economies.
-
-...
-
-[Data](articles/ad90222c.json)
-
----
-
 ### Detention of 'Tynanger' and interrogation
 
 *2025-10-02 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215241) · `si`
@@ -842,22 +604,6 @@ Many of the investigations have been revealed by the inquiry into the connection
 [Data](articles/e06968b0.json)
 
 [Extended Data](ext_articles/e06968b0.ext.json)
-
----
-
-### ආහාර  කොමසාරිස් දෙපාර්තමේන්තුවට කෝටි 19ක පොල්ලක්
-
-*2025-10-02 07:27:26* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර--කොමසාරිස්-දෙපාර්තමේන්තුවට-කෝටි-19ක-පොල්ලක්/11-418858) · `si`
-
-ආහාර  කොමසාරිස් දෙපාර්තමේන්තුව විසින්  කුලිපදනම මත   ලබා දි ඇති  ගබඩා හා පරිශ්‍ර 32කින් හිග ගබඩා කුලි වශයෙන්  රුපියල් දහනමකෝටි,දෙලක්ෂ හැත්තැපන්දහස් පන්සියහයක මුදලක් (190,275,506)  අයවිමට ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
-
-පුද්ගලික අංශයේ ආයතන 15කින්  රුපියල් තුන්කෝටි,හැටහයලක්ෂ,තිස්හතරදහස් එකසිය හැත්තැඑකක (36,634,171)   මුදලක් හිග ගබඩා කුලි මුදල් ලෙස අයවිමට තිබුණි. ගබඩා 21ක් සදහා රාජ්‍ය ආයතන 07කින් අයවිමට  ඇති මුදල රුපියල් හත්කෝටි, පනස්හත්ලක්ෂ, හැටහත්දහස්, අටසිය අසුවකි. (75,767,880)  එමෙන්ම සන්තකය ලබා ගැනිම සහ හිග ගබඩා කුලි අයකරගැනිමට  නිතිමය ක්‍රියාමාර්ග ගෙන ඇති ගබඩා 04ක් සම්බන්දයෙන්  අයවිමට ඇති මුදල තුන්කෝටි,හත්ලක්ෂ,පනස්එක්දහස් අටසිය හතලිහකි (30,751,840) .
-
-කුලියට ලබා දි  නැවත පවරාගෙන තිබු ගබඩා 27කින්  රුපියල් හාරකෝටි හැත්තැඑක්ලක්ෂ,විසිඑක්දහස් හයසිය පහළොවක මුදලක් (47,121,615)  අයවිමට තිබුණි.  ආහාර කොමසාරිස් දෙපාර්තමේන්තුව සම්බන්දයෙන්  2024 වර්ෂයට අදාළව නිකුත්කොට ඇති කාර්යසාධන වාර්තාවට  ඇතුළත්කොට ඇති විගණන වාර්තාවේ මෙම තොරතුරු ඇතුළත්ව ඇත.
-
-◼️
-
-[Data](articles/b0b3bb81.json)
 
 ---
 
@@ -1008,24 +754,6 @@ At the Sri Lanka Charity Tea Auction held on 26 September in Osaka, Japan, the f
 [Data](articles/8a45590a.json)
 
 [Extended Data](ext_articles/8a45590a.ext.json)
-
----
-
-### Tourist arrivals in September top 150,000
-
-*2025-10-02 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113133/tourist-arrivals-in-september-top-150000) · `en`
-
-A total of 158,971 tourists have arrived in the country in the month of September, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.
-
-According to data released by the SLTDA, a total of 49,697 tourists have arrived from India which accounts to 31.3%. Furthermore, 10,752 persons from the United Kingdom, 10,527 from China, 9,344 from Germany and 9,105 Australian nationals have also visited Sri Lanka in the month of September.
-
-Meanwhile, the number of tourists arrived in Sri Lanka in 2025 has increased to 1,725,494 with the release of the latest figures for September.
-
-Among them, 375,292 individuals are from India, 161,893 from the UK, 122,144 from Russia and 106,988 are from Germany, the SLTDA noted.
-
-◼️
-
-[Data](articles/8dd7094e.json)
 
 ---
 
@@ -1429,28 +1157,6 @@ The group has alleged that one vessel within the flotilla was “deliberately ra
 
 ### Traders banned from handing shopping bags FOC to consumers from Nov. 1
 
-*2025-10-02 05:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113128/traders-banned-from-handing-shopping-bags-foc-to-consumers-from-nov-1) · `en`
-
-A gazette extraordinary has been issued suspending the free distribution of plastic shopping bags to consumers from November 1.
-
-The gazette has been issued by the Chairman of the Consumer Affairs Authority Hemantha Samarakoon.
-
-According to the gazette, the Consumer Affairs Authority has directed that no trader shall, at the time of selling of goods, issue free of charge to any consumer, bags made of the following raw materials.
-
-Furthermore, the price charged for such bags should be mentioned on the bill issued to the consumer.
-
-The regulation is applicable to Low-Density Polyethylene (LDPE) and Linear Low-Density Polyethylene (LLDPE).
-
-The directive of the Consumer Affairs Authority states bags of any dimension with handles for the purpose of carrying purchased goods generally referred as “sili- sili bags” will come into effect from November 1, 2025.
-
-◼️
-
-[Data](articles/afd48574.json)
-
----
-
-### Traders banned from handing shopping bags FOC to consumers from Nov. 1
-
 *2025-10-02 05:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113128/traders-banned-from-handing-shopping-bags-free-of-charge-to-consumers-from-nov-1) · `en`
 
 A gazette extraordinary has been issued suspending the free distribution of plastic shopping bags to consumers from November 1.
@@ -1477,11 +1183,11 @@ The directive of the Consumer Affairs Authority states bags of any dimension wit
 
 *2025-10-02 05:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113127/showery-condition-to-enhance-tomorrow-due-to-atmospheric-disturbance) · `en`
 
-Atmospheric conditions are getting favorable for evening thundershowers in most parts of the island, starting from tomorrow (03), the Department of Meteorology said.
+Atmospheric conditions are getting favorable for evening thundershowers in the most parts of the island, starting from tomorrow (03).
 
-Mainly fair weather will prevail over most parts of the island today, the Met. Department added.
+Mainly fair weather will prevail over the most parts of the island.
 
-Meanwhile, fairly strong winds of about 30-40kmph can be expected at times over the Western slopes of the central hills and in the Northern, North-central, North-western, and Central provinces and in the Trincomalee and Hambantota districts.
+Fairly strong winds of about (30-40) kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, North-western, and Central provinces and in Trincomalee and Hambantota districts.
 
 ◼️
 
@@ -1988,5 +1694,309 @@ Sustained adherence to a path of reforms is facilitating a solid economic recove
 [Data](articles/e8eee9c8.json)
 
 [Extended Data](ext_articles/e8eee9c8.ext.json)
+
+---
+
+### Controversial discovery from the son of Kjja
+
+*2025-10-01 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215231) · `si`
+
+The eldest son of Kahja was told today (01) regarding his wife's detection in a suspicious vehicle that the rugby playing was killed.
+
+The CCTV siblings of the coja show to the coja's brothers and sisters, he is inquired of why they are not interested in asking their brother.
+
+Acting Police Media Spokesperson ASP, Hon.
+
+Aruna Vidanagamage, the oldwara Vidanagamage, the oldwara Vidanagamage, is a note of the oldwara Vidanagama's account.
+
+According to police, the police have accepted that his former wife has admitted that the person who was pursued by the car pursuing the car pursuing Tajuvenine.
+
+Why, Aruna Priyantha alias brothers and siblings, are not listening to the cCTV siblings from the brothers and sisters in Kibling? ''
+
+Aruna Vidanagamage son held a press conference this afternoon this afternoon, he also revealed that his mother's account was credited to her mother's account.
+
+◼️
+
+[Data](articles/d018b6bb.json)
+
+[Extended Data](ext_articles/d018b6bb.ext.json)
+
+---
+
+### Actor Vijay’s statewide tour called off days after 41 died in Karur rally stampede
+
+*2025-10-01 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113120/actor-vijays-statewide-tour-called-off-days-after-41-died-in-karur-rally-stampede) · `en`
+
+Actor-politician Vijay’s party, TVK, has suspended his statewide tour for two weeks after a stampede in Tamil Nadu’s Karur claimed 41 lives and triggered massive outrage.
+
+The TVK announced the decision to suspend Vijay’s tour through its official X handle. “In this situation where we are in pain and sorrow over the loss of our loved ones, the public meeting programme of our party leader for the next two weeks is being temporarily postponed. New details regarding these public meetings will be announced later,” a post read.
+
+This was expected as Vijay is yet to meet the families of the 41 victims, although he announced a relief of Rs. 2 million for each family. Yesterday, in a recorded video, Vijay said he would meet the families soon. The stampede has also triggered a sense of fear among the party cadre and the public. The police, too, would look at the venues more closely, and a lot needs to be done by both sides to restore public confidence.
+
+...
+
+[Data](articles/a9e672ab.json)
+
+[Extended Data](ext_articles/a9e672ab.ext.json)
+
+---
+
+### Sri Lanka biz chambers go to court against SVAT removal
+
+*2025-10-01 19:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-biz-chambers-go-to-court-against-svat-removal-242523/) · `en`
+
+ECONOMYNEXT – Three key Sri Lankan business chambers have challenged a decision by the Inland Revenue Department (IRD) to remove Simplified Value Added Tax (SVAT) for exporters without having a proper refunding mechanism.
+
+The Free Trade Zone Manufacturers’ Association (FTZMA), together with the National Chamber of Commerce of Sri Lanka (NCCSL) and the Sri Lanka Chamber of Small and Medium Industries, has filed a writ application before the Court of Appeal on Tuesday challenging the IRD’s decision to commence collecting VAT from October 1 without first operationalising the legally mandated automated refund mechanism.
+
+...
+
+[Data](articles/b655f65e.json)
+
+[Extended Data](ext_articles/b655f65e.ext.json)
+
+---
+
+### Australian Homeland Homeland Radio Radio Radio
+
+*2025-10-01 19:01:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவில்-230-முன்பள்ளி-மாணவர்களுக்கு-அவுஸ்திரேலிய-தாயகம்-வானொலியின்-அன்பளிப்பு/175-365599) · `ta`
+
+School equipment has been provided under the 'Home' Tamil Broadcast Service Radio 'program, which is broadcast from Australia for a 24 -hour broadcast for selected pre -school students in the Mullaitivu district.
+
+The event was held yesterday (30.09.2025) in Mulliyawala and Vadapalai areas.
+
+Former Karaithuraipattu Pradeshiya Sabha Chairman K. Dawarasa, Pradeshiya Sabha Member Gnana. Judson, social activists e. Dayaparan, P. Sreedharan, Vadapalai and Keppapulavu Grama Niladhari, Stock Exchange, Pre -School Teachers and Parents were among those present.
+
+On the occasion of Children's Day, at the request of Gnan Judsan, a member of the Karaithauraipattu Pradeshiya Sabha and Social activist, the financial assistance provided by the director of 'Homeland' Radio was provided with school equipment to 230 students from 10 pre -schools.
+
+It is noteworthy that the 'Homeland' Tamil Broadcasting Service Radio continues to carry out various social aid programs in the Vanni area.
+
+◼️
+
+[Data](articles/8cf306ae.json)
+
+[Extended Data](ext_articles/8cf306ae.ext.json)
+
+---
+
+### 58 children living on World Children's Day hospitalized
+
+*2025-10-01 18:58:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලක-ළම-දනය-ගත-ආහර-වස-ව-දරව-58ක-රහල-ගත-කරත/1-680595) · `si`
+
+A hospital spokesman said that the teachers of Hingurakgoda Bakatuna Kottapitiya School of Colombo, Hingurakgoda, Vidyalaya in Polonnaruwa have been admitted to the Bakamuna Divisional Hospital due to the teachers of the World Children's Day.
+
+Later, after granting the food to the students, the school had a number of students who went to home and inhabitants.
+
+At the same time, nearly 58 school children have been hospitalized with each parent to bring their children to the Bakamuna Regional Hospital.
+
+◼️
+
+[Data](articles/1f24921e.json)
+
+[Extended Data](ext_articles/1f24921e.ext.json)
+
+---
+
+### 58 children living on World Children's Day hospitalized
+
+*2025-10-01 18:58:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-ළම-දනය-ගත-ආහර-වස-ව-දරව-58ක-රහල-ගත-කරත/101-680595) · `si`
+
+A hospital spokesman said that the teachers of Hingurakgoda Bakatuna Kottapitiya School of Colombo, Hingurakgoda, Vidyalaya in Polonnaruwa have been admitted to the Bakamuna Divisional Hospital due to the teachers of the World Children's Day.
+
+Later, after granting the food to the students, the school had a number of students who went to home and inhabitants.
+
+At the same time, nearly 58 school children have been hospitalized with each parent to bring their children to the Bakamuna Regional Hospital.
+
+◼️
+
+[Data](articles/4d4a7b60.json)
+
+[Extended Data](ext_articles/4d4a7b60.ext.json)
+
+---
+
+### 3 commercial boards in court against the abolition of SVAT
+
+*2025-10-01 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215230) · `si`
+
+A Rit petition has been filed against the abolition of SVAT (SVAT (Simplified Value Added Tax Tax) Scheme and the abolition of SVAT (Simplified Value Added Tax) System.
+
+Free Trade Zone Manufacturers Association, National Commodity Board of Sri Lanka and the Commercial Heads of Small and Medium Small Industries have been filed in the Court of Appeal.
+
+◼️
+
+[Data](articles/b853700f.json)
+
+[Extended Data](ext_articles/b853700f.ext.json)
+
+---
+
+### “It’s our collective responsibility to ensure safety of all children”: PM Harini
+
+*2025-10-01 18:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113119/its-our-collective-responsibility-to-ensure-safety-of-all-children-pm-harini) · `en`
+
+It is our collective responsibility to ensure the safety of all children, leave no child behind, regardless of background or circumstance, safeguard their economic, social and mental well-being, Prime Minister Dr. Harini Amarasuriya stated.
+
+The Prime Minister also noted the importance of ensuring a child-friendly environment for the future generation to live freely.
+
+Prime Minister Dr. Amarasuriya made these remarks while addressing the World Elders’ and Children’s Day celebration organized by the Ministry of Women and Child Affairs at Temple Trees today.
+
+The event was held under theme “Nurture with Love - To Lead the World” which has been chosen as this year’s Children’s Day theme.
+
+◼️
+
+[Data](articles/753df725.json)
+
+[Extended Data](ext_articles/753df725.ext.json)
+
+---
+
+### Director's director is locked up with the Principal of the Principal
+
+*2025-10-01 18:53:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදහලපතට-සථන-මර-ලපය-රගන-ගය-කලප-අධයකෂක-සරකරල/1-680594) · `si`
+
+Schedule after conducting the Schedule article after an investigation against the principal held against the Principal of Abboddi National School, ZHN.. Mrs. Dulanjali had taken steps to keep the school's gates of the school and prison.
+
+Several claims to be the school development society of the school and had a teaching of the entrance, supporting it and staying on the school premises.
+
+The Zeagraphent Director of the Agraditional Principal of the Agraditional School of Agraditional School of Agraditional School SK Coomaranayake has taken the transfer letter to the Eastern Provincial Department of Education with immediate effect.
+
+As soon as the incident, a group of committees came to a "voice" against the outside principal.
+
+Senior Superintendent of Police in charge of the Kantale Division. Sanjeewa Bandara deployed several police officers at Headquarters Police and allowed the zonal education director.
+
+◼️
+
+[Data](articles/41b8e923.json)
+
+[Extended Data](ext_articles/41b8e923.ext.json)
+
+---
+
+### Director's director is locked up with the Principal of the Principal
+
+*2025-10-01 18:53:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදහලපතට-සථන-මර-ලපය-රගන-ගය-කලප-අධයකෂක-සරකරල/101-680594) · `si`
+
+Schedule after conducting the Schedule article after an investigation against the principal held against the Principal of Abboddi National School, ZHN.. Mrs. Dulanjali had taken steps to keep the school's gates of the school and prison.
+
+Several claims to be the school development society of the school and had a teaching of the entrance, supporting it and staying on the school premises.
+
+The Zeagraphent Director of the Agraditional Principal of the Agraditional School of Agraditional School of Agraditional School SK Coomaranayake has taken the transfer letter to the Eastern Provincial Department of Education with immediate effect.
+
+As soon as the incident, a group of committees came to a "voice" against the outside principal.
+
+Senior Superintendent of Police in charge of the Kantale Division. Sanjeewa Bandara deployed several police officers at Headquarters Police and allowed the zonal education director.
+
+◼️
+
+[Data](articles/d5e4b033.json)
+
+[Extended Data](ext_articles/d5e4b033.ext.json)
+
+---
+
+### 4 year old baby billions into the well
+
+*2025-10-01 18:51:21* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අවරද-4ක-දරව-ළඳට-බල/101-680593) · `si`
+
+Navagamuwa Police say that a four-year-old child had died in the ground behind the house today (01)
+
+The deceased has been identified as 404/6, the highest Bomiriya, a resident of Kaduwela. Although the well on the back of the nickey is covered with a net, the involvement of the adult attention must have been suspected to go into the well.
+
+The police say that the accident had been identified as the children of the children's day to attend the presence of the Children's Day Cricket and acquired gifts.
+
+When this event was the mother's mother and grandfather were from home. Later, although the intervention of Navagamuwa Polonnaruwa, the child was taken to Navagamuwa hospital, but the doctors have been identified as the child has died.
+
+◼️
+
+[Data](articles/789edd0e.json)
+
+[Extended Data](ext_articles/789edd0e.ext.json)
+
+---
+
+### 45 students of Bakamuna school hospitalised due to food poisoning
+
+*2025-10-01 18:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113118/45-students-of-bakamuna-school-hospitalised-due-to-food-poisoning) · `en`
+
+Around 45 students from a Primary School in Bakamuna, Hingurakgoda have been hospitalised due to food poisoning.
+
+It is reported that the incident occurred as a result of a meal provided during a program held at the school today, in view of World Children’s Day.
+
+The children have started showing symptoms only after they returned home following the conclusion of the program. Parents had then taken their children to the Bakamuna Regional Hospital, Ada Derana reporter said.
+
+Some of the children are currently receiving in-house treatment, while others have been treated and discharged.
+
+The school has approximately 230 students in total, and all of them were served the same meal.
+
+◼️
+
+[Data](articles/8765943d.json)
+
+[Extended Data](ext_articles/8765943d.ext.json)
+
+---
+
+### There is a huge task through the translation service to our country where we live - Munir Mulapar
+
+*2025-10-01 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226620) · `ta`
+
+The work of translators in our country of different language -speaking people is enormous.  Deputy Minister of National Integration Munir Mulappar said that the language is also a reason for the 30 -year war in the country.
+
+He said this while addressing the event organized by the State Language Department to mark the International Translation Day of September 30.
+
+Translators have the ability to understand each other through language. There is a need to understand the ruling government between each and each.
+
+Building peace and reconciliation is the government, as the government is aware of its responsibility and the mixing of solutions to the issues from the field of translation.
+
+Similarly, the government will provide all the necessary facilities to expand the translation service. We need to understand that the best translation books in the world are transported among all the languages ​​of all languages.
+
+...
+
+[Data](articles/10bbaab6.json)
+
+[Extended Data](ext_articles/10bbaab6.ext.json)
+
+---
+
+### Energy Minister visits India: Advice on bilateral energy cooperation
+
+*2025-10-01 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226621) · `ta`
+
+Minister of Energy Kumara Jayakody attended the 6th International Energy Conference and Exhibition (IECE 2025) in India on September 23 and 24.
+
+The conference was organized in New Delhi, along with the new, developing and strategic technologies (NEST) Division of the Indian Labor Federation (CII), the new and renewable Energy Ministry (MNRE) and the Foreign Ministry of the Ministry of Foreign Affairs.
+
+The theme of the conference is "Payment of India's Energy Change: Pathway to Net-Zero: Driving India's Energy Transition: Pathway to Net-Zero".
+
+Special Ministers Kumara Jayakody addressed the session titled Scaling Up Solar and Wind for Round-The-Clock Power Supply.
+
+Minister IECE visited the exhibition and showcased India's modern technologies and excellent practices in the new and renewable energy industry.
+
+...
+
+[Data](articles/ac229dfb.json)
+
+[Extended Data](ext_articles/ac229dfb.ext.json)
+
+---
+
+### President - Sri Lanka Freedom Party (SLFP)
+
+*2025-10-01 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226619) · `ta`
+
+President Anura Kumara Dissanayake has gone to the United States and betrayed the motherland among the countries of the world. Sri Lanka Freedom Party (SLFP) general secretary Duminda Dissanayake said that the country's glory has increased the market opportunities and has made Sri Lanka a disgrace to the international community.
+
+He further stated this at a press conference held at the Freedom Party headquarters on Wednesday (01) at the Colombo -Dolly Road.
+
+Everyone, including President Anura Kumara Dissanayake, was classified as to why the tax was levied for fuel during the past regime.
+
+But what are they providing relief in fuel prices today? When the President went to Japan and addressed the Sri Lankan citizens, he said the tax would not be increased in the budget this year.. For that, they were angry.
+
+...
+
+[Data](articles/7d6134a1.json)
+
+[Extended Data](ext_articles/7d6134a1.ext.json)
 
 ---

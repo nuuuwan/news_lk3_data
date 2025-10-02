@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 05:56:07**
+As of **2025-10-02 06:21:27**
 
 ## Newspaper Stats
 
-*Scraped **80,370** Articles*
+*Scraped **80,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 716
 colombotelegraphcom | 803
 dailymirrorlk | 4,733
 economynextcom | 4,774
-islandlk | 4,861
+islandlk | 4,873
 dailyftlk | 5,616
 adalk | 7,726
 adaderanalk | 10,352
@@ -27,11 +27,97 @@ adaderanasinhalalk | 13,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,367 (100.0%) of 80,370 articles have been extended.
+80,367 (100.0%) of 80,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### Carrot face mask …
+
+*2025-10-01 23:37:00* · [`islandlk`](http://island.lk/carrot-face-mask-2/) · `en`
+
+Most of us are concerned about our looks … our appearance! We like our face to look good all the time.
+
+Okay, and I’ll lend you a helping hand, this week, with Carrot Face Mask, and what is so special about carrots is that carrot face mask is perfect for any skin type.
+
+Carrots are a natural antiseptic and help make your skin feeling fresh and healthy.
+
+It gives life to skin and, what’s more, carrots are also freely available.
+
+Vegetable markets are stocked with carrots so you don’t need to go searching for this vegetable here, there and everywhere, and, I’m sure, right now, you have carrots … at home!
+
+You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon honey, and 1/2 tablespoon fresh lemon juice.
+
+You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon sandalwood powder, and 1/2 tablespoon fresh lemon juice.
+
+You will need 01 tablespoon carrot paste or finely grated carrot, 01 tablespoon yoghurt, and 1/2 tablespoon fresh lemon juice.
+
+...
+
+[Data](articles/5cfcd901.json)
+
+---
+
+### Eswaran Brothers launches empowerment programme to elevate women in tea industry
+
+*2025-10-01 23:23:00* · [`islandlk`](http://island.lk/eswaran-brothers-launches-empowerment-programme-to-elevate-women-in-tea-industry/) · `en`
+
+Eswaran Brothers, one of Sri Lanka’s largest value-added tea exporters, has launched a pioneering gender inclusion initiative designed to elevate women into leadership roles across the tea industry. The initiative is implemented in collaboration with global gender advisory firm Value for Women (VFW) and supported by FMO, the Dutch development bank.
+
+This initiative marks a significant step for Eswaran Brothers as it integrates diversity and inclusion into its long-term business strategy, aligning with global best practices to strengthen its organisational culture and future-proof its operations.
+
+Ganesh Deivanayagam, Executive Chairman of Eswaran Brothers, remarked, “What makes this partnership especially noteworthy is that Eswaran Brothers, as a family company steeped in values, was able to work with VFW and FMO to create a far-reaching programme of importance. This reflects strategic foresight and a fundamental belief in doing the right thing.”
+
+...
+
+[Data](articles/0fd02d47.json)
+
+---
+
+### CEAT Kelani scores double win at World HRD Congress Sri Lanka Awards
+
+*2025-10-01 23:22:00* · [`islandlk`](http://island.lk/ceat-kelani-scores-double-win-at-world-hrd-congress-sri-lanka-awards/) · `en`
+
+CEAT Kelani Holdings has been recognised as Sri Lanka’s Employer Brand of the Year 2025, while its Vice President – Human Resources, Thushara Hettithantrige, was honoured as a ‘Topmost HR Leader of Sri Lanka’ at the 2025 World HRD Congress Sri Lanka awards presentation held in Colombo recently.
+
+The evaluation process for the Sri Lanka awards was based on criteria that encompassed brand strategy, employee value proposition, recruitment and retention, diversity and inclusion, employer reputation, innovation, creativity and outcomes.
+
+The World HRD Congress is a global platform for human resource professionals founded by Dr. R. L. Bhatia, with a dynamic presence across Asia, Africa and the GCC. It is governed and run by professionals and HR leaders across multiple countries with the objective of bringing them together on a single platform.
+
+...
+
+[Data](articles/62c5cdd8.json)
+
+---
+
+### Bourse springs into another bull-run; indices up
+
+*2025-10-01 23:19:00* · [`islandlk`](http://island.lk/bourse-springs-into-another-bull-run-indices-up/) · `en`
+
+CSE activities were extremely bullish yesterday and the bourse gained 1500 Index points during the last twelve seasons, according to market analysts.
+
+The All Share Price Index was up by 72.7 points, while the S and P SL20 rose by 16.15 points. Turnover stood at Rs 6.46 billion with 12 crossings.
+
+Top seven crossings were reported in Commercial Bank, where 1.8 million shares crossed to the tune of Rs 341 million; its shares traded at Rs 193, Kandy Hotels five million shares crossed for Rs 100 million and its shares sold at Rs 20, Lanka Wall Tiles 1.4 million shares crossed for Rs 71.5 million; its shares traded at Rs 52, Dipped Products 731,000 shares crossed for Rs 48.8 million; its shares sold at Rs 66.50, Chevron Lubricants 170,000 shares crossed for Rs 30.1 million; its shares fetched at Rs 177,CTC 17000 shares crossed to the tune of Rs 28.5 million; its shares traded at Rs 1675 and Hayleys 150,000 shares crossed for Rs 27.9 million; its shares traded at Rs 180.
+
+...
+
+[Data](articles/3da9e829.json)
+
+---
+
+### Dr. Nalinda Jayatissa visits LAUGFS Life Sciences’ State-of-the-Art (LVP) pharmaceutical facility
+
+*2025-10-01 23:18:00* · [`islandlk`](http://island.lk/dr-nalinda-jayatissa-visits-laugfs-life-sciences-state-of-the-art-lvp-pharmaceutical-facility/) · `en`
+
+The Minister of Health and Mass Media, Dr. Nalinda Jayatissa, undertook an observational visit to the state-of-the-art sterile pharmaceutical manufacturing facility of LAUGFS Life Sciences (Pvt) Ltd, located within the BOI Export Processing Zone, Koggala. This visit reflects the company’s commitment to strengthening Sri Lanka’s healthcare system through world-class local manufacturing. Marking a significant milestone for the country’s healthcare industry, LAUGFS Life Sciences is advancing sterile infusion therapy production, reducing reliance on imports, delivering economic and clinical benefits, and positioning Sri Lanka as a regional hub for quality-driven pharmaceutical manufacturing through innovation, regulatory compliance, and private-sector investment.
+
+...
+
+[Data](articles/c2bb27c5.json)
+
+---
 
 ### A Chief Negotiator Would Be Instrumental For NPP In Finalizing ETCA
 
@@ -1924,103 +2010,5 @@ In addition, the suspect and foreign cigarettes were handed over to the Coastal 
 [Data](articles/6f490288.json)
 
 [Extended Data](ext_articles/6f490288.ext.json)
-
----
-
-### False contraceptive allegations are false in the short term - doctor Sahabdin
-
-*2025-10-01 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226600) · `ta`
-
-I and my family have faced the suffering of a Tauheed Muslim doctor for 400 Sinhalese mothers through the Cesarean system.. The allegation made against me for coming to power was false in a short time. Those who accused me of referring to as professors have disappeared today due to karma.
-
-I don't have contraception. The country's birth rate has fallen shortly in the midst of economic impact. The rate of admission of children per grade has declined by millions.. Birth rate is seen as the main component of a country's economic development. Therefore, the government should focus on this issue.
-
-He was speaking at the launch of the 'Run Dhoni' book held on Tuesday (30) at the Bandaranaike Memorial International Conference Hall.
-
-I am a man who has completely ignored communalism with fellow ethnicity and brotherhood in a beautiful small village called Kalawei.. I am firmly in the position that the country can never progress without the abolition of communalism.
-
-...
-
-[Data](articles/7f242397.json)
-
-[Extended Data](ext_articles/7f242397.ext.json)
-
----
-
-### The promise to the intellectual ministers
-
-*2025-10-01 16:02:00* · [`adalk`](https://www.ada.lk/breaking_news/පරිසර-ඇමති-නඳුන්ට-දුන්-පොරොන්දුව/11-418851) · `si`
-
-Minister of the Ministry of Wildlife is the sections of the Department of Wildlife and the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of the Laboratory of Reptiles.
-
-Mihintale Deputy Dilhara, 15-year old, who is undermined to the reigns, is being carried out to the homes, to release the homes and conserves dead animals and conserves dead animals.
-
-The Department of Wildlife has been taken by the Department of Wildlife and Animal specimens after the television program was revealed in connection with the child's ability.
-
-Minister of Environment Dr. Damika Detunge to the residence of the Minister of Environment Dhammika Detuna, Mihintale, Ambaranda, Anuradhapura, has been present at the Vavuniya.
-
-A few weeks ago, the interest in this subject was not able to recover and was not discouraged by the minister to call on the same day as he had gone to Dilhara.
-
-...
-
-[Data](articles/f36f74c1.json)
-
-[Extended Data](ext_articles/f36f74c1.ext.json)
-
----
-
-### The death of Wasim Tajud should not be used for politics - Namal Rajapaksa
-
-*2025-10-01 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226599) · `ta`
-
-The government should conduct a neutral inquiries without using the death of Wasim Tajud for his politics. The use of this issue to politics is the greatest injustice of his soul and. Namal Rajapaksa, the national organizer and parliamentarian of the Sri Lanka Peoples Alliance (PA), said that the police media unit has revealed a new issue for political speech.
-
-He was speaking to the media after a meeting with the constituency organizers held at the Sri Lanka PA's office on Wednesday (01).
-
-The Rajapaksa government and the government of goodwill have made many allegations. Investigations were also carried out. They tried to make specific lies in the election stage.
-
-The last government officials also attempted to arrest the Narahenpitiya Police Station in connection with the death of Wasim Tajud.. Those officials are in the top positions of this government.
-
-...
-
-[Data](articles/e00b1d3f.json)
-
-[Extended Data](ext_articles/e00b1d3f.ext.json)
-
----
-
-### Farmers protest in Trincomalee urging land grabbing
-
-*2025-10-01 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226603) · `ta`
-
-Farmers from 11 Agricultural Federations staged a demonstration in front of the Trincomalee Agrarian Development Department today (01) by the Van Ela -Kinniya Agricultural Organizations Federation under the theme "Van Ela - Kinniya land grabbing".
-
-The demonstration was staged by the farmers of the five Agricultural Federations of the Kinniya Divisional Secretariat and the farmers of the Kandalai Divisional Secretariat, demanding the provision of their agricultural lands and the granting of the subsidized subsidy.
-
-Representatives of the Agricultural Federations in the talks said that the governor had promised to take steps to provide the subsidized subsidy and provide a permanent solution to the land issue on Friday.
-
-...
-
-[Data](articles/eb291707.json)
-
-[Extended Data](ext_articles/eb291707.ext.json)
-
----
-
-### 02 re -water treatment plants installed by the Navy were handed over to the public
-
-*2025-10-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226605) · `ta`
-
-Under the Navy's Social Working Scheme, with the financial contribution of the Presidential Secretariat, the Navy's technical and artistic contribution, the Wilkamuwa Pradeshiya Sabha of the Matale District with the financial contribution of the Embassy of the Chinese People's Republic in Sri Lanka Handed over to the public.
-
-In addition, the Navy has set up 1132 water treatment plants with these 02 water treatment plants, so that the two water purification centers handed over to the public can easily meet the clean drinking water needs of a large number of people around the Sri Samputtu Maithri Vihara in Vilgamuwa and Oyamaduwa.
-
-The Sri Lanka Navy has successfully implemented this social care program in accordance with the state's health vision of "sick life - healthy people".
-
-◼️
-
-[Data](articles/1697f53b.json)
-
-[Extended Data](ext_articles/1697f53b.ext.json)
 
 ---

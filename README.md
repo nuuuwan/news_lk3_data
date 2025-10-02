@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 11:40:42**
+As of **2025-10-02 12:13:00**
 
 ## Newspaper Stats
 
-*Scraped **80,470** Articles*
+*Scraped **80,472** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 554
-lankadeepalk | 624
+lankadeepalk | 625
 dbsjeyarajcom | 637
 bbccomsinhala | 718
 colombotelegraphcom | 803
@@ -21,27 +21,71 @@ adalk | 7,733
 adaderanalk | 10,370
 tamilmirrorlk | 11,993
 virakesarilk | 13,149
-adaderanasinhalalk | 13,875
+adaderanasinhalalk | 13,876
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,468 (100.0%) of 80,470 articles have been extended.
+80,472 (100.0%) of 80,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-02 (Thursday)
 
-### ඇප ඉල්ලූ පෙත්සම ශෂින්ද්‍ර ඉල්ලා අස්කර ගනී
+### Bribery Commission is worried about misleading statements
+
+*2025-10-02 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215252) · `si`
+
+The Commission also informs that some persons and institutions have worked hard to deal with bribery or corruption complaints regarding the bribery or corruption Commission.
+
+The Commission has informed the Commission that the Commission will not hesitate to take necessary legal legal action to propagate the wrong propaganda of the Commission or the Corruption Act to the Commission.
+
+The Commission is worried that there is anxious and misleading electronic media, print and social media regarding the bribery or corruption commissions.
+
+Such actions also cause a distorted opinion on the pretext of the commission of the Commission and the activities of the Commission as well as the activities of the Commission are lacking.
+
+The Bribery or Corruption Commission has once again commemorated that the Commission has had constitutional authority to ensure the power of the Commission.
+
+...
+
+[Data](articles/19458878.json)
+
+[Extended Data](ext_articles/19458878.ext.json)
+
+---
+
+### Tipper prevailing businessman killed
+
+*2025-10-02 11:12:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ටපරය-පරළ-වයපරකය-මරට/101-680615) · `si`
+
+According to Boralesgamuwa Police, a businessman who was driving a driver of a tipper in the Rattotapitiya Sooriya Path was killed in the spot.
+
+The deceased has been identified as K Dudlive Ananda (51), a resident of Suriyawa, Boralesgamuwa.
+
+The deceased is carrying out various business, including the demolition of the old buildings and has taken a building yard in the Gumzaba Junction area, police said.
+
+The police say that the canal has been rolled upsidely to the canal from the early hours of work from work from work yard.
+
+◼️
+
+[Data](articles/864e270a.json)
+
+[Extended Data](ext_articles/864e270a.ext.json)
+
+---
+
+### Shashindra withdraws bail
 
 *2025-10-02 11:10:57* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-ඉල්ලූ-පෙත්සම-ශෂින්ද්‍ර-ඉල්ලා-අස්කර-ගනී/11-418864) · `si`
 
-බන්ධනාගාර ගත කර සිටින තමන්ව ඇප මත මුදාහරිණ ලෙස ඉල්ලා හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා විසින් ඉදිරිපත් කළ ප්‍රතිශෝධන පෙත්සම ඉල්ලා අස්කර ගැනීමෙන් අනතුරුව එය නිෂ්ප්‍රභ කරන ලෙස කොළඹ මහාධිකරණය අද(02දා) නියෝග කළේය.
+The Colombo High Court today (02) ordered the release of the Revision Petition filed by former Minister of State Shashhendra Rajapaksa to be released on bail.
 
 ◼️
 
 [Data](articles/56f26857.json)
+
+[Extended Data](ext_articles/56f26857.ext.json)
 
 ---
 
@@ -57,17 +101,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### දෙහි මිල ගිය උඩ
+### The prices of lime priced
 
 *2025-10-02 11:06:29* · [`adalk`](https://www.ada.lk/breaking_news/දෙහි-මිල-ගිය-උඩ/11-418863) · `si`
 
-දේශිය වෙළඳපොලේ දෙහි කිලෝවක සිල්ලර මිල රුපියල් 1800- 2000 දක්වා ඉහල ගොස් ඇති බව පාරිභෝගිකයන් පවසයි.
+Customers say that the retail price of a kilogram of the local market has risen to Rs.
 
-මේ වනවිට දෙහි ඵලදාව ඉතාමත් අඩු මට්ටමක පැවතීමත්,  වෙළදපොලේ පවතින ඉල්ලුමට සරිලන සැපයුමක් නෙමැතිවීම මීට හේතුවී ඇතිබව තොග වෙළදුන් පවසයි.
+The Wholesalers have said that the fether is very low, and the demand of the market is said.
 
 ◼️
 
 [Data](articles/608e868f.json)
+
+[Extended Data](ext_articles/608e868f.ext.json)
 
 ---
 
@@ -1962,45 +2008,5 @@ The gazette was issued by Transport, Highways, Ports and Civil Aviation.
 [Data](articles/b8345894.json)
 
 [Extended Data](ext_articles/b8345894.ext.json)
-
----
-
-### Renewal of a Sun-thero
-
-*2025-10-01 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215232) · `si`
-
-India's webuvuath Sri vows today (1), India's first batsman was the first batsman in the Under-19 Test.
-
-The exclusive milestone has crossed the milestone in the second Test against Sri Vidyalaya, only 14 years in Brisben.
-
-The sun raised 113 runs off 86 balls with eight fours and nine fours in the event.
-
-Among the adultment cricket scored less than 100 balls and the first batsman was the inscription of former New Zealand leader Brendon.
-
-◼️
-
-[Data](articles/df05c579.json)
-
-[Extended Data](ext_articles/df05c579.ext.json)
-
----
-
-### 45 school students admitted to hospital
-
-*2025-10-01 20:24:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-மாணவர்கள்-45-பேர்-வைத்தியசாலையில்-அனுமதி/175-365600) · `ta`
-
-About 45 students have been admitted to the hospital in the Polonnaruwa - Hingurakoda, Pakamuna Education area.
-
-The situation is said to have been caused by food allergies provided at the school on the occasion of World Children's Day.
-
-The affected students are staying at the regional hospital and are being treated and some have returned home after treatment.
-
-Most of them have been provided with this meal with about 230 students studying in the school.
-
-◼️
-
-[Data](articles/4bb5c1ad.json)
-
-[Extended Data](ext_articles/4bb5c1ad.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 05:05:54**
+As of **2025-10-02 05:56:07**
 
 ## Newspaper Stats
 
-*Scraped **80,366** Articles*
+*Scraped **80,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 539
 lankadeepalk | 615
 dbsjeyarajcom | 637
 bbccomsinhala | 716
-colombotelegraphcom | 802
+colombotelegraphcom | 803
 dailymirrorlk | 4,733
-economynextcom | 4,771
+economynextcom | 4,774
 islandlk | 4,861
 dailyftlk | 5,616
 adalk | 7,726
@@ -27,11 +27,47 @@ adaderanasinhalalk | 13,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,366 (100.0%) of 80,366 articles have been extended.
+80,367 (100.0%) of 80,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-01 (Wednesday)
+
+### A Chief Negotiator Would Be Instrumental For NPP In Finalizing ETCA
+
+*2025-10-01 22:16:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-chief-negotiator-would-be-instrumental-for-npp-in-finalizing-etca/) · `en`
+
+Recent reports have sparked serious concerns about Sri Lanka’s economic future. The country continues to struggle to recover from its lowest point, and prospects for economic stability remain uncertain. As the National People’s Power (NPP) government marks its first year in office, both the U.S. State Department and the Asian Development Bank have issued red alerts about Sri Lanka’s economic outlook.
+
+...
+
+[Data](articles/a171b32a.json)
+
+[Extended Data](ext_articles/a171b32a.ext.json)
+
+---
+
+### Fitch confirms Sri Lanka CCC+ sovereign rating
+
+*2025-10-01 22:14:00* · [`economynextcom`](https://economynext.com/fitch-confirms-sri-lanka-ccc-sovereign-rating-242525/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has confirmed Sri Lanka’s CCC+ sovereign rating saying external finances are stable, and growth is resuming despite US tariffs.
+
+“We expect full-year growth at 4.4 percent, with 3.8 percent in 2026 and 3.6 percent in 2027,” the rating agency said.
+
+“US tariffs will be a growth headwind, but the revised reciprocal tariff rate of 20 percent is now in line with peers, reducing risks to exports.
+
+“We see low average inflation, but to rise gradually to 5 percent in 2027, in line with the CBSL’s inflation target.”
+
+Sri Lanka’s macro-economists created a series of currency crises with its 5 percent inflation target, ousted two elected administrations and triggered a sovereign default using inflationary open market operations and buy-sell swaps to inject money, critics have said.
+
+RELATED : Sri Lanka current account turns to deficit in 4Q after printing money
+
+...
+
+[Data](articles/c965a9ee.json)
+
+---
 
 ### Discussion on establishing Sri Lanka Innocition Center
 
@@ -386,6 +422,20 @@ This was expected as Vijay is yet to meet the families of the 41 victims, althou
 [Data](articles/a9e672ab.json)
 
 [Extended Data](ext_articles/a9e672ab.ext.json)
+
+---
+
+### Sri Lanka biz chambers go to court against SVAT removal
+
+*2025-10-01 19:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-biz-chambers-go-to-court-against-svat-removal-242523/) · `en`
+
+ECONOMYNEXT – Three key Sri Lankan business chambers have challenged a decision by the Inland Revenue Department (IRD) to remove Simplified Value Added Tax (SVAT) for exporters without having a proper refunding mechanism.
+
+The Free Trade Zone Manufacturers’ Association (FTZMA), together with the National Chamber of Commerce of Sri Lanka (NCCSL) and the Sri Lanka Chamber of Small and Medium Industries, has filed a writ application before the Court of Appeal on Tuesday challenging the IRD’s decision to commence collecting VAT from October 1 without first operationalising the legally mandated automated refund mechanism.
+
+...
+
+[Data](articles/b655f65e.json)
 
 ---
 
@@ -1084,6 +1134,28 @@ Considering the proposed facts, the additional Magistrate, the additional Magist
 [Data](articles/3ed79b15.json)
 
 [Extended Data](ext_articles/3ed79b15.ext.json)
+
+---
+
+### Sri Lanka Customs exceed revenue target by 37-pct  in September
+
+*2025-10-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-exceed-revenue-target-by-37-pct-in-september-242491/) · `en`
+
+ECONOMYNEXT – Revenue collected by Sri Lanka Customs jumped around 37 percent in September compared to the monthly target, the government data showed.
+
+Sri Lanka Customs has set a revenue target of 2,115 billion rupees for this year, 36.2 percent higher than last year’s 1,553 million rupees.
+
+The monthly target for September this year was 185 billion rupees, but the government has achieved 253.2 billion rupees, the official Customs data showed,
+
+The Customs has achieved 1,724 billion in revenue during the first nine months of this year compared to 1,116.1 billion rupees in the same period last year, showing a 54.5 percent growth in the collection.
+
+Customs also exceeded its revenue target by 16 percent in the first nine months of this year, the data showed.
+
+Sri Lanka Customs revenue jump is largely due to stronger enforcement, improved valuation practices, and a rebound in import volumes after years of contraction.
+
+...
+
+[Data](articles/6fccfbb7.json)
 
 ---
 
@@ -1950,93 +2022,5 @@ The Sri Lanka Navy has successfully implemented this social care program in acco
 [Data](articles/1697f53b.json)
 
 [Extended Data](ext_articles/1697f53b.ext.json)
-
----
-
-### Government to avenge plantation workers - United People's Power
-
-*2025-10-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226598) · `ta`
-
-When plantation workers were urged to pay a salary of 1750 rupees, the JVP (JVP) union said that it was not enough and the basic salary of 2000 rupees should be paid.. But today, the government of the United People's Power, Ranjith Mathuma Bandara said that the government was blaming them without paying 1750 rupees as the plantation people supported Sajith Premadasa.
-
-He made this comment while addressing the media after a meeting with members of the United People's Power Pradeshiya Sabha in Nuwara Eliya in Nuwara Eliya district on Tuesday (30).
-
-Plantation people have supported us in all elections. During the last presidential election, the Tamil people of the hill country and the Tamil people of the North and East voted for Sajith Premadasa. When we insisted that plantation workers should be paid a salary of 1750 rupees in the past, the JVP. The union argued that 2000 rupees should be paid.
-
-...
-
-[Data](articles/849abbb4.json)
-
-[Extended Data](ext_articles/849abbb4.ext.json)
-
----
-
-### The verdict of polythene
-
-*2025-10-01 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215223) · `si`
-
-The Minister of Environment has informed the Supreme Court today that polythene bags such as shopping bags will not be provided free of charge.
-
-This notification was made when a fundamental rights submitted by the Environmental Justice Center for an order to issue a measurement of a measurement of the use of the use of them as polythene.
-
-A tribult sent by the Crimearian Sampath Wickramasinghe and Sampani Abeykoon regarding this cases were held today.
-
-The monsoon had said that the Minister of Environment had agreed to the Supreme Court on the 19th of 2024 to minimize the use of shopping institutions including supermarkets.
-
-Attorney-at-Law Dr. Ravindranath Dabare, appearing on behalf of the Environmental Justice Center, said in the court.
-
-Deputy Solicitor General Dr. Amavan Perera, who appeared on behalf of the respondents, said that the gazette notification is expected to be charged for shopping bags from November.
-
-...
-
-[Data](articles/3e6d262c.json)
-
-[Extended Data](ext_articles/3e6d262c.ext.json)
-
----
-
-### Woman in connection with the theft seeks to help the public
-
-*2025-10-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226604) · `ta`
-
-Police have sought help from the public to arrest a woman in connection with the theft.
-
-A complaint has been received by the police station on August 24 that the jewelery and goods worth Rs 03 lakhs 64 thousand rupees have been stolen from a house in the Kodagawela area, which belongs to the police division in Ratnapura.
-
-Police investigations have revealed that a woman who was staying in the house had stolen.
-
-However, the police have now posted a photo of the suspect, seeking help from the public as the woman fled the area.
-
-The police have asked the public to contact the police station 071 - 8591394 or 071 - 8593808 if any information is available in these photos.
-
-◼️
-
-[Data](articles/67fdafac.json)
-
-[Extended Data](ext_articles/67fdafac.ext.json)
-
----
-
-### The death of rugby player Tajuddin: The copy of another play should not be staged - PA
-
-*2025-10-01 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226592) · `ta`
-
-The fact that the reality of death is more cruel than death is more cruel than death.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Wednesday (01).
-
-The death of rugby player Wasim Tajuddin was seen as the main speech in the 2015 presidential election. When the good government came to power, the investigation into his death accelerated.
-
-It is horrible for the reality of death to make it confidential, so we are in the position that the secret of the death of Rugby player Wasim Tajuddin should be revealed.
-
-A new issue has now been revealed in the wake of a long -standing investigation by the government. Wasim Tajudin's father -in -law was consciously addressing the death of Wasim Tajuddin. Against this backdrop, the media spokesman refers to another new issue to the media.
-
-In response, the media spokesman reveals another new issue to the media.. This issue must be based on investigations beyond the play.
-
-...
-
-[Data](articles/69bfcf64.json)
-
-[Extended Data](ext_articles/69bfcf64.ext.json)
 
 ---

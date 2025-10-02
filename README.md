@@ -1,37 +1,445 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 13:39:58**
+As of **2025-10-02 14:38:13**
 
 ## Newspaper Stats
 
-*Scraped **80,526** Articles*
+*Scraped **80,566** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 556
-lankadeepalk | 630
+newsfirstlk | 559
 dbsjeyarajcom | 637
+lankadeepalk | 644
 bbccomsinhala | 719
 colombotelegraphcom | 803
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,873
 dailyftlk | 5,634
-adalk | 7,736
-adaderanalk | 10,374
-tamilmirrorlk | 12,004
-virakesarilk | 13,175
-adaderanasinhalalk | 13,878
+adalk | 7,740
+adaderanalk | 10,379
+tamilmirrorlk | 12,008
+virakesarilk | 13,182
+adaderanasinhalalk | 13,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,522 (100.0%) of 80,526 articles have been extended.
+80,564 (100.0%) of 80,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-02 (Thursday)
+
+### A train opens in Ragama
+
+*2025-10-02 14:11:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දමරයක-රගමද-පල-පනය/1-680640) · `si`
+
+A train from Ragama Railway Station has been appointed as the rag of Ragama Railway Station today (2).
+
+The official added that the train traffic in the Puttalam road could be interrupted today.
+
+◼️
+
+[Data](articles/d964bb6d.json)
+
+[Extended Data](ext_articles/d964bb6d.ext.json)
+
+---
+
+### Local Government Candidate Nabbed in Vehicle Scam
+
+*2025-10-02 14:07:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/local-government-candidate-nabbed-in-vehicle-scam) · `en`
+
+COLOMBO (News 1st); A candidate for the Kalutara Pradeshiya Sabha has been arrested by the Central Crimes Investigation Bureau in connection with the fraudulent registration of a Jeep.
+
+The suspect, identified as 38-year-old Rusiru Srimal Fernando, a resident of Wadduwa, was taken into custody following an investigation into the manipulation of official data at the Department of Motor Traffic.
+
+According to police sources, the suspect had altered vehicle registration records to falsely register the Jeep.
+
+◼️
+
+[Data](articles/13a3f8ef.json)
+
+---
+
+### හිටපු ජනපති මහින්දගේ ප්‍රධාන ආරක්ෂක නෙවිල් අත්අඩංගුවට
+
+*2025-10-02 14:01:00* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-මහින්දගේ-ප්‍රධාන-ආරක්ෂක-නෙවිල්-අත්අඩංගුවට/11-418870) · `si`
+
+The Chief Defense Officer of former President Mahinda Rajapaksa, the Chief Defense Officer of former President Mahinda Rajapaksa, has been arrested by the Commission of Investigation Commission.
+
+The Bribery Commission had arrested this after arriving at the Bribery Commission today (02).
+
+◼️
+
+[Data](articles/5455b483.json)
+
+[Extended Data](ext_articles/5455b483.ext.json)
+
+---
+
+### 14 DIGs Transferred in Major Police Overhaul
+
+*2025-10-02 14:01:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/14-digs-transferred-in-major-police-overhaul) · `en`
+
+COLOMBO (News 1st); The National Police Commission has approved the immediate transfer of several Deputy Inspector Generals (DIGs) across key divisions of the Sri Lanka Police.
+
+DIG G. N. De Zoysa has been transferred from the Police Welfare Division to serve as DIG in charge of the Colombo Range.
+
+DIG K. D. G. L. A. Dharmasena moves from the Negombo Division to head the Narcotics Division.
+
+DIG W. P. J. Senadheera, previously in charge of the Western Province Traffic Range, will now lead the Traffic Management and Road Safety Division, while also continuing to oversee his previous post.
+
+DIG S. D. Wijesekera has been reassigned from the Mannar and Vavuniya Range to the Western Province (South).
+
+DIG J. A. K. Jayasinghe transitions from the Police Legal Division to the Western Province (North).
+
+DIG O. Hewawitharana moves from the Narcotics Division to the Kegalle Range.
+
+DIG A. I. Hapugoda has been transferred from Traffic Management and Road Safety to the Vavuniya and Mannar Range.
+
+...
+
+[Data](articles/66ccb7ea.json)
+
+---
+
+### Mahinda's chief security officer arrested
+
+*2025-10-02 13:57:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනදග-පරධන-ආරකෂක-නලධරය-අතඅඩගවට/1-680639) · `si`
+
+Former President Mahinda Rajapaksa's Chief Security Officer Major Neville Wanniarachchi was arrested by the Investigation Commission for Bribery or Corruption.
+
+It was when he appeared before the Bribery Commission regarding a bribery and corruption.
+
+◼️
+
+[Data](articles/a3e10181.json)
+
+[Extended Data](ext_articles/a3e10181.ext.json)
+
+---
+
+### Tajuddin goal blocking Namal Baby
+
+*2025-10-02 13:52:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தாஜுதீன்-கோலை-தடுப்பாரா-நாமல்-பேபி/62-365642) · `ta`
+
+◼️
+
+[Data](articles/64cedc9d.json)
+
+[Extended Data](ext_articles/64cedc9d.ext.json)
+
+---
+
+### Tajuddin goal
+
+*2025-10-02 13:52:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தாஜுதீன்-கோலை-பிடிப்பாரா-நாமல்-பேபி/62-365642) · `ta`
+
+◼️
+
+[Data](articles/bfd1c0cd.json)
+
+[Extended Data](ext_articles/bfd1c0cd.ext.json)
+
+---
+
+### King Khan joins society
+
+*2025-10-02 13:50:48* · [`adalk`](https://www.ada.lk/breaking_news/කිං-ඛාන්-බිලියනපතියන්ගේ-සමාජයට-එක්වෙයි/11-418868) · `si`
+
+The first list of Bollywood Superch Khan is first joined the first billionaire accused to the world's richest actor.
+
+According to the annual rating of the richest people in India, his 59-year-old is $ 1.4 billion.
+
+Other Bollywood people in the list include Chewla, Rithik Redhi and Amitab Bachchan and film director Karunch.
+
+◼️
+
+[Data](articles/982f84b3.json)
+
+[Extended Data](ext_articles/982f84b3.ext.json)
+
+---
+
+### Mahinda's senior security officer arrested
+
+*2025-10-02 13:47:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-சிரேஸ்ட-பாதுகாப்பு-அதிகாரி-கைது/175-365641) · `ta`
+
+Former President Mahinda Rajapaksa's senior security officer, Neville Wanniyarachchi has been arrested by the Commission for Investigation of Bribery and Corruption.
+
+Wanniyarachchi was summoned to the Criminal Investigation Department (CIT) in December last year to file a confession on illegal assets.
+
+◼️
+
+[Data](articles/30d740e9.json)
+
+[Extended Data](ext_articles/30d740e9.ext.json)
+
+---
+
+### MR's Security Chief Arrested By Bribery Commission
+
+*2025-10-02 13:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/mr-s-security-chief-arrested-by-bribery-commission) · `en`
+
+COLOMBO (News 1st); Neville Wanniarachchi, the Chief Security Officer of ex-President Mahinda Rajapaksa, has been taken into custody by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+According to official sources, Wanniarachchi was arrested for failing to cooperate with an ongoing investigation conducted by the Bribery Commission.
+
+◼️
+
+[Data](articles/181e064d.json)
+
+[Extended Data](ext_articles/181e064d.ext.json)
+
+---
+
+### Suspect arrested with a foreign country
+
+*2025-10-02 13:37:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදස-රටක-ගන-අවයක-සමඟ-අයක-අලලය/1-680638) · `si`
+
+A person arrested with a modern firearm that was produced in a foreign country, a person arrested with the firearm.
+
+On a tip off received by the police, he was arrested with the firearm after the inspection of the suspect and questioned the suspect.
+
+Menikhinna OIC Chief Inspector DSM. Chandrapala is conducting further transitisters and the suspect has taken steps to produce the suspect in court.
+
+◼️
+
+[Data](articles/24c35a70.json)
+
+[Extended Data](ext_articles/24c35a70.ext.json)
+
+---
+
+### Suspect arrested with a foreign country
+
+*2025-10-02 13:37:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදස-රටක-ගන-අවයක-සමඟ-අයක-අලලය/101-680638) · `si`
+
+Menikhinna police say a person has been arrested with the firearm with a modern firearm that was produced in a foreign country.
+
+On a tip off received by the police, he was arrested with the firearm after the inspection of the suspect and questioned the suspect.
+
+Menikhinna OIC Chief Inspector DSM. Chandrapala is conducting further transitisters and the suspect has taken steps to produce the suspect in court.
+
+◼️
+
+[Data](articles/ccc61fde.json)
+
+[Extended Data](ext_articles/ccc61fde.ext.json)
+
+---
+
+### Lock tomorrow for liquor schools
+
+*2025-10-02 13:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-நாளை-பூட்டு/175-365640) · `ta`
+
+The Excise Department has announced that all liquor hospitals in the country will be closed tomorrow (03) and that strict action will be taken against those who illegally sell liquor.
+
+Meanwhile, the Department of Excise has announced that a special round of searches will be carried out to arrest those who sell illegal liquor.
+
+October 3rd is the day of World Liquor Day. All liquor roads will be closed tomorrow (03).
+
+◼️
+
+[Data](articles/32ae4a7f.json)
+
+[Extended Data](ext_articles/32ae4a7f.ext.json)
+
+---
+
+### A transport transport train jumps
+
+*2025-10-02 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215257) · `si`
+
+රාගම හන්දිය දුම්රිය ස්ථානය ආසන්නයේ දී භාන්ඩ ප්‍රවාහන දුම්රියක් පීලි පැනීමකට ලක්ව තිබේ.
+
+As a result, all trains to travel on the Puttalam railway line have been reported to be running late or the run cancellation.
+
+◼️
+
+[Data](articles/9d43a3f0.json)
+
+[Extended Data](ext_articles/9d43a3f0.ext.json)
+
+---
+
+### The people with various sexes should not be injured
+
+*2025-10-02 13:32:07* · [`adalk`](https://www.ada.lk/breaking_news/විවිධ-ලිංගික-නැමියාවන්-ඇති-ජනතාව-අසාධාරණයට-ලක්-නොවිය-යුතුයි/11-418866) · `si`
+
+The government should not be subjected to injustice, that the government has not been subjected to unfair to develop the country and have a biological people with many religions.
+
+The coordinating committee of the Ministry of Transport, Highways and Civil Aviation was held on Monday (1K) at the Anuradhapura District Secretariat.
+
+The media was not allowed to meet the meeting and Minister Bimal Ratnayake addressed the media after the meeting.
+
+The Minister said that the rights of the rights of the rights of the rights of the country is to protect the rights of the country, not to advise children without persecution.
+
+Speaking to the media said that Rs. 250 million was allocated for the development of road development in the Anuradhapura District.
+
+The Minister said that the law was instructed to promptly implement the proceedings in the North Central Province today and said that the law will be instructed to implement the fuel remeal.
+
+...
+
+[Data](articles/6b1539d2.json)
+
+[Extended Data](ext_articles/6b1539d2.ext.json)
+
+---
+
+### In the East, the rotation of justice for justice is complete
+
+*2025-10-02 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226665) · `ta`
+
+The hunger strike for justice, which began on Saturday (27) in Thambiluvu in the East, in the Ampara district, was completed on Wednesday (1) on the fifth day.
+
+Batticaloa District Parliamentarian R. Sanakiyan and Navithanveli Karadivu in the Navithanveli Karadivu Ceylon were present in the final day of the protest.
+
+In addition, the President of the Trincomalee District of the three districts of the East, Sebastian Devi Batticaloa District Missing Relations Association, Amalraj Amalnayaki Ambara District, was presented to the UN Magistrate's Member of Parliament.
+
+The Ampara District Missing Relations Association Advisor and Human Rights activist Damodaram Pradevan and Batticaloa Trincomalee District Relations also participated in the hunger strike.
+
+...
+
+[Data](articles/33795683.json)
+
+[Extended Data](ext_articles/33795683.ext.json)
+
+---
+
+### Mahinda's PSO Bribery Commission
+
+*2025-10-02 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215256) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධාන ආරක්ෂක නිලධාරියා අල්ලස් කොමිසමට පැමිණ තිබේ.
+
+It is reported that Major Neville Wanniarachchi has arrived at the Bribery Commission to grant a statement.
+
+◼️
+
+[Data](articles/fad4d0e7.json)
+
+[Extended Data](ext_articles/fad4d0e7.ext.json)
+
+---
+
+### Head of Health Minister Malwatte and Asgiriya North Nayaka
+
+*2025-10-02 13:24:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සව-ඇමත-මලවත-අසගර-මහ-නහමවරන-බහ-දක/101-680637) · `si`
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa saw the Malwathu and Asgiriya Maha N'hawathu and Asgiriya Maha N'havir.
+
+The Minister of Siddhartha Sumanathana Ven.
+
+The Minister of Health was held as a new concept of the Ministry of Health and the Ministry of Health and the Minister of Hoogya Health Centers "The Chief Secretary of the Ministry of Sports was conducting the island wide.
+
+◼️
+
+[Data](articles/e28840dd.json)
+
+[Extended Data](ext_articles/e28840dd.ext.json)
+
+---
+
+### Ex-President Mahinda’s Chief Security Officer Neville Wanniarachchi brought to Bribery Commission
+
+*2025-10-02 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113155/chief-security-officer-of-ex-president-mahinda-rajapaksa-neville-wanniarachchi-arrested-) · `en`
+
+The Chief Security Officer of former President Mahinda Rajapaksa, Neville Wanniarachchi has been brought to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+He is currently being questioned by officers attached to the Bribery Commission.
+
+◼️
+
+[Data](articles/0794c15f.json)
+
+[Extended Data](ext_articles/0794c15f.ext.json)
+
+---
+
+### We will release 101,762.75 acres of land in Vanni district
+
+*2025-10-02 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226674) · `ta`
+
+In the Vanni district, we are going to release 101,762.75 acres of land for the people, ”the Minister of Environment Tammika Thamika said.
+
+The Vavuniya District Secretariat Auditorium was chaired by the Minister of Environment Thamika Pitabendi at the Vavuniya District Secretariat auditorium in Mathura Nagar.
+
+Deputy Minister Anton Jayakody, Uppali Samarasinghe and Parliamentarian M Jegadeeswaran, District Secretary Sarath Chandra Chandra Chandra Chandra Chandra were also present at the meeting.
+
+On the fifth of July, our government had identified nearly 30 places as forest protection places and to take steps to protect it.. The displacement of the 30 -year war, especially in the aftermath of the war, was resettled in their places.
+
+...
+
+[Data](articles/942baea8.json)
+
+[Extended Data](ext_articles/942baea8.ext.json)
+
+---
+
+### A leader of a robbery and three others arrested
+
+*2025-10-02 13:19:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කලල-කලල-ජලයක-නයකවක-ඇග-පතරය-ඇතළ-තදනක-අලලය/101-680636) · `si`
+
+The Bemmulla Police tells the police that a woman named a woman, a woman, who is a woman who is engaged in an organized network of the houses, engaged in working with employees of the houses.
+
+The arrested persons are residents of the Hanguran field, police said.
+
+The lack of investigating the robberies that the woman join his son's gang had been investigated in a two-year-old woman who lived at a two-year-old house with a two-year-old woman.
+
+The complainant had been recruited by a Man Power of Colombo in Negombo and that the woman had disappeared from the house of Negombo.
+
+Extended by the company to check the woman, no police report has not received any police record in this woman. It has been revealed that the woman in search of information on the woman by the Hanguran police, that the woman is 10 warrants for any mistakes and that there is currently not missing in the area.
+
+...
+
+[Data](articles/c77af4c6.json)
+
+[Extended Data](ext_articles/c77af4c6.ext.json)
+
+---
+
+### Relief in 40 boats for Gaza
+
+*2025-10-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226673) · `ta`
+
+Israeli navy has stopped Sweden's young environmental activist Greta Tanberg and his group who carried relief items for the Palestinian people affected by the war on the Gaza tip.. Israel said they were all safely taken to the port of Ashod and would be returned soon.
+
+On October 7, 2023, 1,139 Israelis were killed in a terrorist attack by a Hamas armed group managing the Gaza tip.. In addition, 251 were abducted as hostages.
+
+In return, Israel has announced that there is no ceasefire until the Hamas has completely destroyed the organization.. Gaza is completely disrupted by Israel's military operations. More than 65 thousand Palestinian people have died so far.
+
+The Israeli military has been accused of preventing relief aid to the war -affected Gaza people from international countries.. There are fears that Gaza is likely to cause bad famine.
+
+...
+
+[Data](articles/dd82dc62.json)
+
+[Extended Data](ext_articles/dd82dc62.ext.json)
+
+---
+
+### SLS certification to be made mandatory for plastic bottles and children’s items from April 2026
+
+*2025-10-02 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113153/sls-certification-to-be-made-mandatory-for-plastic-bottles-and-childrens-items-from-april-2026) · `en`
+
+It will be mandatory for manufacturers to obtain the Sri Lanka Standards (SLS) certification for plastic items such as feeding bottles and lunch boxes used by schoolchildren before releasing them to the market, the Minister of Trade, Commerce, Food Security and Cooperative Development, Wasantha Samarasinghe has announced.
+
+Participating in a media conference at the Ministry, Minister Samarasinghe further stated that from April 01, 2026, the sale of products that do not comply with the prescribed standards will be strictly prohibited.
+
+The Minister noted that plastic bottles used for feeding milk to children, as well as lunch boxes and water bottles used by schoolchildren, are currently available in the market at varying prices. However, he further pointed out that a number of these products neither carry the prescribed standard certification nor any indication of their suitability for use.
+
+...
+
+[Data](articles/88018f47.json)
+
+[Extended Data](ext_articles/88018f47.ext.json)
+
+---
 
 ### Chimpanzee Whisperer Bids Adieu: Jane Goodall Passes Aged 91
 
@@ -40,6 +448,58 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/48812466.json)
+
+[Extended Data](ext_articles/48812466.ext.json)
+
+---
+
+### 275 boys killed by continuous rain and floods in Pakistan
+
+*2025-10-02 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226671) · `ta`
+
+The normal life of the people has been severely affected by the heavy rains and heavy floods in Pakistan. The country's National Disaster Management Commission (NDMA) said the number of victims of flood victims across the country has risen to 1,006.
+
+Heavy rains and floods have severely affected the provinces of Khyber Pakhtunkhua, Punjab, Sindh, Khiljit-Baldistan, Baluchistan, Azad Jammu and Kashmir and Islamabad capital.. The victims include 275 children, 163 women and 568 men.
+
+A total of 1,063 people were injured in flood disasters. These include 321 children, 450 men and 292 women. A maximum of 661 people were injured in the Punjab province.
+
+Rescue and relief work continues in flood -affected areas. Officials are struggling to rescue the victims and assess the degree of damage.
+
+As a result of the flooding, the country's inflation will increase temporary basis, the Pakistani government said. This natural outrage has caused great destruction and death in Pakistan.
+
+◼️
+
+[Data](articles/a7ca562b.json)
+
+[Extended Data](ext_articles/a7ca562b.ext.json)
+
+---
+
+### Another record of Elon Musk
+
+*2025-10-02 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215255) · `si`
+
+The head of Tesla Company has become the first person who has achieved a net asset that exceeds $ 500 billion (370.9 billion) exceeding $ 500 billion.
+
+Foreign media said, the value of the electric car company and his other businesses have increased.
+
+According to the Billionaires Index report, his net asset was $ 500.1 billion, and then that he fell to $ 499 billion in noon.
+
+It is reported that the valuation of other businesses, including the artificial intelligence XAI and a rocket company with Tesla, has also increased in recent months.
+
+The milestone further confirms the Musk's position as the world's richest person in the world.
+
+According to the Forbes Billionaire Indicator Larry Elizan, Oracle founder Elizan, is the second richest person in the world, and his wealth is about $ 350.7 billion.
+
+Musk's massive wealth is closely bound with more than 12% of his 12% of his 12% of his 12% shares this year.
+
+Tesla has increased to more than 3.3% yesterday, and over 20% of Tesla.
+
+...
+
+[Data](articles/3911a205.json)
+
+[Extended Data](ext_articles/3911a205.ext.json)
 
 ---
 
@@ -65,6 +525,66 @@ Deceased. It is reported that the death may have occurred after losing a huge am
 
 ---
 
+### Boys who wearing a black men's day on International Children's Day - This is the reason!
+
+*2025-10-02 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226668) · `ta`
+
+On the occasion of International Children's Day, the children of the Ampara district wearing a black bar on their heads and lit their protests.
+
+The event was held on Wednesday (01) evening in front of the Central Market in Thambiluvil, Tirukovil, Ampara District.
+
+The hunger strike for justice, which began on Saturday (27) in front of the Central Market in Thambiluvil in Tirukkovil in the East, ended on the fifth day of Wednesday evening.
+
+At the same time, the boys gathered together to mark the Children's Day, wearing a black bar with a small procession and carrying the firefighters.
+
+During this time, the children joined the protest by raising various slogans about the plight of the missing children in the past.
+
+...
+
+[Data](articles/5346abbf.json)
+
+[Extended Data](ext_articles/5346abbf.ext.json)
+
+---
+
+### Teacher attacked a schoolgirl in Vavuniya; Lawsuit
+
+*2025-10-02 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226666) · `ta`
+
+The student has returned home after being treated at a hospital in Bandarikulam, Vavuniya.
+
+Parents say that the son was allegedly assaulted by a flute -like appliance in the first year.
+
+As a result of this, the boy who was injured in the head was returned to the Vavuniya General Hospital for two days.
+
+Meanwhile, a complaint has been lodged with the Vavuniya Police and a complaint has been lodged with the National Child Protection Authority and the Governor's Secretariat.
+
+The teacher has been investigated and released on bail by the Vavuniya police and has filed a case in court.
+
+◼️
+
+[Data](articles/0ee252d9.json)
+
+[Extended Data](ext_articles/0ee252d9.ext.json)
+
+---
+
+### Sri Lanka's criminal suspects punishment 10%
+
+*2025-10-02 12:51:48* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-අපරධ-සකකරවන-දඬවම-ලබනන-10-අඩ-පරමණයක/26-680635) · `si`
+
+Advice - Director, Attorney Sanjeewani Abeykoon on the laws of the National Child Protection Authority
+
+The law is a recognized principle that the law is not excuse. Law knows or do not know or do not know the children and women in the country. The Dhampeasure of the Hangara Scenario has been noted daily.. To prevent such tragic events, the children should be given to the children to protect children from child abuse. At any sexual abuse, the elderly and child child knows about the elders and children.
+
+...
+
+[Data](articles/adb62db2.json)
+
+[Extended Data](ext_articles/adb62db2.ext.json)
+
+---
+
 ### Sri Lanka's criminal suspect is punished 10%
 
 *2025-10-02 12:51:48* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-අපරධ-සකකරව-දඬවම-ලබනන-10-අඩ-පරමණයක/26-680635) · `si`
@@ -78,6 +598,72 @@ The law is a recognized principle that the law is not excuse. Law knows or do no
 [Data](articles/ea1e5e2e.json)
 
 [Extended Data](ext_articles/ea1e5e2e.ext.json)
+
+---
+
+### Drug in the hip bar of trousers that took to the prison prisoner; Two arrested arrests!
+
+*2025-10-02 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226663) · `ta`
+
+Two persons, including a woman who was detained at the Kalutara Prison, were arrested by the Kalutara Police Crime Unit on Wednesday (01).
+
+The Kalutara Police Crime Unit has received information that drugs are being brought from outside the prison.
+
+In this regard, two persons, including a woman who tried to carry drugs inside the prison, have been arrested in a raid conducted by the Kalutara Police Crime Unit.
+
+In the clothes brought by the suspects, the police have been found by the police who were very subtle in the waist bar of a trousers.
+
+Police have also seized 2 mobile phones and three wheelers from the suspects.
+
+Police have taken steps to bring the two suspects to the Kalutara Magistrate's Court.
+
+Further investigations are being carried out by the Kalutara Police Crime Unit.
+
+◼️
+
+[Data](articles/4ad12db9.json)
+
+[Extended Data](ext_articles/4ad12db9.ext.json)
+
+---
+
+### Protests in Pakistan-administered Kashmir leave 4 people dead and over 100 injured
+
+*2025-10-02 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/113151/protests-in-pakistan-administered-kashmir-leave-4-people-dead-and-over-100-injured) · `en`
+
+Thousands of demonstrators demanding subsidies on food, electricity and other services clashed with police in Pakistan-administered Kashmir on Wednesday, leaving four people dead and more than 100 others injured, police said.
+
+The violence erupted when armed protesters, carrying guns and sticks, attacked officers who were deployed across Kashmir to prevent them from blocking roads and damaging property, local police officer Mohammad Afzal said.
+
+He confirmed the deaths of three police officers and a civilian, noting that the casualties included at least eight officers left in critical condition after being struck on the head with sticks and stones.
+
+Videos circulating on social media showed protesters in Kashmir’s hilly areas punching police, beating them with sticks and pelting them with stones. Some demonstrators were also seen tearing off officers’ uniforms. Police officials said their forces did not return fire, claiming they had refrained to avoid further loss of life.
+
+...
+
+[Data](articles/897a510c.json)
+
+[Extended Data](ext_articles/897a510c.ext.json)
+
+---
+
+### More than one million tourists visit in September!
+
+*2025-10-02 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226669) · `ta`
+
+According to the Sri Lanka Tourism Development Authority, 1 lakh 58 thousand 971 tourists visited the country within the period from 01st to 30th September 2025.
+
+The total number of tourists from India in September was 49,697.
+
+In September, 10,752 tourists from the United Kingdom, 10,527 tourists from China, 9,344 from Germany, 9,105 tourists from Australia and 5,144 from France.
+
+According to the Sri Lanka Tourism Development Authority, 17 lakhs and 494 tourists have visited the country from January 1 to September 30 this year.
+
+◼️
+
+[Data](articles/6f1ef656.json)
+
+[Extended Data](ext_articles/6f1ef656.ext.json)
 
 ---
 
@@ -127,6 +713,30 @@ He added that these types of influenza spreads will be re -re -re -held in the r
 
 ---
 
+### Importers object to Treasury proposal to release detained vehicles with 35% surcharge
+
+*2025-10-02 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113150/importers-object-to-treasury-proposal-to-release-detained-vehicles-with-35-surcharge) · `en`
+
+Counsels representing a group of vehicle importers have raised objections before the Court of Appeal against a proposal submitted by the Treasury to impose a 35% surcharge in order to release vehicles currently held by Sri Lanka Customs.
+
+These vehicles were detained due to being imported into the country under letters of credit opened at foreign banks.
+
+President’s Counsel Faiszer Musthapha, appearing on behalf of several vehicle importers related to the matter, expressed this objection before court today.
+
+Additionally, President’s Counsels Ikram Mohamed and Sanjeeva Jayawardena, who appeared on behalf of several other importers, also objected to the Treasury’s proposal.
+
+Counsels argued that the decision taken by Customs to detain the vehicles is contrary to the law.
+
+President’s Counsel Faiszer Musthapha further stated in court that if such a surcharge were to be imposed, it would create a situation where the cost of the vehicle would exceed its actual value.
+
+...
+
+[Data](articles/cd4a7150.json)
+
+[Extended Data](ext_articles/cd4a7150.ext.json)
+
+---
+
 ### The father father goes on the end of the elephant
 
 *2025-10-02 12:37:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇතග-පහරන-තදර-පය-අවසන-ගමන-යය/101-680634) · `si`
@@ -145,23 +755,21 @@ Police say they had broken back from the house at around 6.30 am and was attacke
 
 ---
 
-### In the East, the rotation of justice for justice is complete
+### The father father goes on the end of the elephant
 
-*2025-10-02 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226665) · `ta`
+*2025-10-02 12:37:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇතග-පහරන-තදර-පය-අවසන-ගමන-යය/1-680634) · `si`
 
-The hunger strike for justice, which began on Saturday (27) in Thambiluvu in the East, in the Ampara district, was completed on Wednesday (1) on the fifth day.
+Anamaduwa, a father of a father, has been killed in a resident of Siyambalagaswewa areas, said Anamaduwa Police.
 
-Batticaloa District Parliamentarian R. Sanakiyan and Navithanveli Karadivu in the Navithanveli Karadivu Ceylon were present in the final day of the protest.
+The deceased has been identified as a 65 year old farmanna, a 65-year-old farmanna.
 
-In addition, the President of the Trincomalee District of the three districts of the East, Sebastian Devi Batticaloa District Missing Relations Association, Amalraj Amalnayaki Ambara District, was presented to the UN Magistrate's Member of Parliament.
+Police say they had broken back from the house at around 6.30 am and was attacked and killed in that place.. Siyambalagaswewa says that the elephant has already been killed in the Anamaduwa, Thonigala area and Kajahoda.
 
-The Ampara District Missing Relations Association Advisor and Human Rights activist Damodaram Pradevan and Batticaloa Trincomalee District Relations also participated in the hunger strike.
+◼️
 
-...
+[Data](articles/a6ad267a.json)
 
-[Data](articles/33795683.json)
-
-[Extended Data](ext_articles/33795683.ext.json)
+[Extended Data](ext_articles/a6ad267a.ext.json)
 
 ---
 
@@ -244,6 +852,24 @@ The Deputy Minister said that the Hon.
 [Data](articles/1d322366.json)
 
 [Extended Data](ext_articles/1d322366.ext.json)
+
+---
+
+### ’’තාජුදීන් කතාවට නාමල් කලබලවීම හොයන්න ඕන’’
+
+*2025-10-02 12:35:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-කතවට-නමල-කලබලවම-හයනන-ඕන/1-680633) · `si`
+
+Deputy Minister of Labor Mahinda Jayasinghe said that MP Namal Rajapaksa should not worry about his speech to the assassination of the Thajayan.
+
+The people of this country are inquired about the incidents such as why the people of the mass of the Thajudean is so upset.
+
+The Deputy Minister said that the Hon.
+
+◼️
+
+[Data](articles/a1bfa3b7.json)
+
+[Extended Data](ext_articles/a1bfa3b7.ext.json)
 
 ---
 
@@ -377,6 +1003,24 @@ The accident occurred when the tipper lorry was rear from the work yard on Wedne
 
 ---
 
+### අවුරුද්දකට ලංකාවෙන් පියයුරු පිළිකා රෝගීහු 5500ක්
+
+*2025-10-02 12:19:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අවරදදකට-ලකවන-පයයර-පළක-රගහ-5500ක/1-680632) · `si`
+
+Sri Lanka's surgeon's scientists say that the breast cancer patients identify a hundred thousand five
+
+Meanwhile, it has been revealed that fifteen pawned cancer patients are identified and three breast cancer patients die.
+
+This information was revealed at the workshop for breast cancer organized by the Institute of Sciences of Sri Lanka Surgeons
+
+◼️
+
+[Data](articles/120ae9b6.json)
+
+[Extended Data](ext_articles/120ae9b6.ext.json)
+
+---
+
 ### 5500 breast cancer patients from Sri Lanka a year
 
 *2025-10-02 12:19:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අවරදදකට-ලකවන-පයයර-පළක-රගහ-5500ක/101-680632) · `si`
@@ -395,15 +1039,57 @@ This information was revealed at the workshop for breast cancer organized by the
 
 ---
 
-### හෙට දිනයේ සුරාසැල් වසා තැබීමේ තීරණයක්
+### No more signs of life in Indonesia school collapse, with 59 still missing: Rescuers
+
+*2025-10-02 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113149/no-more-signs-of-life-in-indonesia-school-collapse-with-59-still-missing-rescuers) · `en`
+
+Rescuers detected “no more signs of life” under the rubble of a collapsed Indonesian school where 59 people remain missing, an official said Thursday (Oct 2), raising fears that no more survivors would be found.
+
+“We used high-tech equipment like thermal drones, and, scientifically, there were no more signs of life,” said Suharyanto, the head of the country’s disaster mitigation agency, during a press briefing at the site of Monday’s collapse in eastern Java.
+
+The Al Khoziny boarding school, located in the East Java town of Sidoarjo about 780km east of Jakarta, collapsed when its foundations could not support ongoing construction work on the upper floors, crushing dozens of students who were praying and trapping them under rubble.
+
+Rescuers had been racing against time to extricate those trapped.
+
+...
+
+[Data](articles/bbbc57cc.json)
+
+[Extended Data](ext_articles/bbbc57cc.ext.json)
+
+---
+
+### Decision to close liquor shops tomorrow
 
 *2025-10-02 12:14:11* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-දිනයේ-සුරාසැල්-වසා-තැබීමේ-තීරණයක්/11-418865) · `si`
 
-ඒ හේතුවෙන් දිවයිනපුරා හෙට දිනයේ  සුරාසැල් වසා තබන බව  සුරාබදු දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Excise Department announced that liquor shops will be closed tomorrow due to this.
 
 ◼️
 
 [Data](articles/65711046.json)
+
+[Extended Data](ext_articles/65711046.ext.json)
+
+---
+
+### Explosives found in Pudukudirippu land
+
+*2025-10-02 12:14:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදකඩරපප-ඉඩමකන-පපරණ-දරවය-හමවය/1-680629) · `si`
+
+Police said that the land was located in Muhamalai, Muhamalai and Mullaittivu Pudukudirippu and Mullaittivu, RPG ammunition and a flag of the LTTE and the LTTE was found yesterday.
+
+Palai Police said that 31 mm 81mm mortar bullets found at a cost of information received by the Pallai Police.
+
+Pudukudirippu Devapuram Devatas was found in the clevition of a land of providing a RPG bullet, a 60mm mortar bullet, the LTTE's flag in the LTTE.
+
+Police said the LTTE would have found out that the delegated explosives were taken by the LTTE to attack security forces during the war.
+
+◼️
+
+[Data](articles/c7e52f00.json)
+
+[Extended Data](ext_articles/c7e52f00.ext.json)
 
 ---
 
@@ -765,6 +1451,26 @@ The police say that the canal has been rolled upsidely to the canal from the ear
 
 ---
 
+### Tipper prevailing businessman killed
+
+*2025-10-02 11:12:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ටපරය-පරළ-වයපරකය-මරට/1-680615) · `si`
+
+According to Boralesgamuwa Police, a businessman who was driving a driver of a tipper in the Rattotapitiya Sooriya Path was killed in the spot.
+
+The deceased has been identified as K Dudlive Ananda (51), a resident of Suriyawa, Boralesgamuwa.
+
+The deceased is carrying out various business, including the demolition of the old buildings and has taken a building yard in the Gumzaba Junction area, police said.
+
+The police say that the canal has been rolled upsidely to the canal from the early hours of work from work from work yard.
+
+◼️
+
+[Data](articles/956144ff.json)
+
+[Extended Data](ext_articles/956144ff.ext.json)
+
+---
+
 ### Shashindra withdraws bail
 
 *2025-10-02 11:10:57* · [`adalk`](https://www.ada.lk/breaking_news/ඇප-ඉල්ලූ-පෙත්සම-ශෂින්ද්‍ර-ඉල්ලා-අස්කර-ගනී/11-418864) · `si`
@@ -920,6 +1626,26 @@ Dimal Ratnayake said that everyone will be in accordance with the law by the end
 [Data](articles/3e67d135.json)
 
 [Extended Data](ext_articles/3e67d135.ext.json)
+
+---
+
+### "Our hands in our hands on the killing of the Thajayan
+
+*2025-10-02 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-ඝතනය-තරතර-රසක-අප-අත/1-680611) · `si`
+
+Minister Bim Ratnayake said there was the latest information about the killing of the Thajauth
+
+He said that these crimes were not crimes or Gnanaratne said that the country who ruled the country was closed
+
+He said this government had 60 months and that only twelve months
+
+මාස 48 ඉවර වෙනකොට සියලු දෙනා නීතිය අනුව ඇතුළේ ඉඳීවි යැයිද බිමල් රත්නායක මහතා ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/a12d6645.json)
+
+[Extended Data](ext_articles/a12d6645.ext.json)
 
 ---
 
@@ -1121,6 +1847,20 @@ All the scenes in this teaser have attracted the attention of the fans of the fa
 
 ---
 
+### The kilo of lime is Rs. 2000 and a boil is Rs. 120
+
+*2025-10-02 10:13:43* · [`adalk`](https://www.ada.lk/breaking_news/දෙහි-කිලෝව-රු--2000යි--ගෙඩියක්-රු-120යි/11-418862) · `si`
+
+Consumers claim that retail price of a kilogram of the local market has increased to Rs.2000. The merchants claim that the reduction of lime yield and demand is not able to provide the demand. The retail price of a lime is sold at Rs.
+
+◼️
+
+[Data](articles/8e60899c.json)
+
+[Extended Data](ext_articles/8e60899c.ext.json)
+
+---
+
 ### Man arrested with a fake jeep
 
 *2025-10-02 10:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හර-ජප-රයක-සමඟ-අයක-අලලය/101-680610) · `si`
@@ -1136,6 +1876,22 @@ The suspect is a 38 year old resident of the Ariyagama area in Morotuduwa.
 [Data](articles/84284662.json)
 
 [Extended Data](ext_articles/84284662.ext.json)
+
+---
+
+### Man arrested with a fake jeep
+
+*2025-10-02 10:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හර-ජප-රයක-සමඟ-අයක-අලලය/1-680610) · `si`
+
+According to the Colombo Central Criminal Investigation Bureau, the Colombo Central Criminal Investigation Department says that a person contesting to Kalutara Pradeshiya Sabha has been arrested with a luxury jeep used using bonus.
+
+Police said that a candidate was arrested for the Kalutara Pradeshiya Sabha. The suspect is a 38 year old resident of the Ariyagama area in Morottuwa, police said. The jeep used in investigations so far as a car number has been reported so far.
+
+◼️
+
+[Data](articles/f0305ec7.json)
+
+[Extended Data](ext_articles/f0305ec7.ext.json)
 
 ---
 
@@ -1212,799 +1968,5 @@ It is worth noting that the case is to be filed in court on Thursday against the
 [Data](articles/5c990af3.json)
 
 [Extended Data](ext_articles/5c990af3.ext.json)
-
----
-
-### Noticeable reduction in number of children being placed under probation this year – Authorities
-
-*2025-10-02 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113144/noticeable-reduction-in-number-of-children-being-placed-under-probation-this-year-authorities) · `en`
-
-There is a noticeable decrease in the number of children being placed under probation when compared to previous years, according to the Department of Probation and Child Care Services.
-
-Assistant Commissioner Darshani Perera of the department noted that the Western Province has the highest number of child probation cases.
-
-She made these remarks while participating in a media briefing held by the Health Promotion Bureau.
-
-Assistant Commissioner Darshani Perera noted in comparison to previous years, there’s a reduction in the number of children being placed under probation.
-
-At present, the department is dealing with around 9,000 children under probation care, she added.
-
-The Assistant Commissioner said most of the child development centers are located in the Western Province which houses a higher number of children under probation.
-
-◼️
-
-[Data](articles/640961d7.json)
-
-[Extended Data](ext_articles/640961d7.ext.json)
-
----
-
-### Northern Development and Negotiations need to be coordinated
-
-*2025-10-02 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226640) · `ta`
-
-The new inspiration in the north is visible. Government officials from the North confirmed that the reason for being cautiously confident. There is now a large number of development activities that have been unveiled at any point in the aftermath of the end of the war. In the last presidential election, President Anura Kumara Dissanayake received about 27,000 votes in the Jaffna district. But if he is contesting again today, he may get 200,000 votes.
-
-◼️
-
-[Data](articles/71c1ef58.json)
-
-[Extended Data](ext_articles/71c1ef58.ext.json)
-
----
-
-### Free Entry as Women’s World Cup Kicks Off in Sri Lanka
-
-*2025-10-02 09:57:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/free-entry-as-women%e2%80%99s-world-cup-kicks-off-in-sri-lanka) · `en`
-
-...
-
-[Data](articles/b3d90fc8.json)
-
-[Extended Data](ext_articles/b3d90fc8.ext.json)
-
----
-
-### Yall. Violence groups in the city - people fear!
-
-*2025-10-02 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226638) · `ta`
-
-Yall. Violence groups engaged in the city at 5.40 pm on Wednesday (01) in the city. The attacks were also carried out.
-
-Who carried out this attack? There have been no issues of who the victims of the attack.
-
-The violence in the public place was observed that people were in awe.
-
-The police have demanded that the police take immediate action and arrest those who worked in the public place and the people who worked in fear of the people.
-
-◼️
-
-[Data](articles/34051f40.json)
-
-[Extended Data](ext_articles/34051f40.ext.json)
-
----
-
-### முகமாலையில் வெடிக்காத நிலையில் வெடிகுண்டுகள் கண்டுபிடிப்பு!
-
-*2025-10-02 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226637) · `ta`
-
-கிளிநொச்சி - பளை பொலிஸ் பிரிவுக்கு உட்பட்ட முகமாலை வடக்கு பகுதியில் நேற்று புதன்கிழமை (01) பிற்பகல் 2:30 மணியளவில் வெடிக்காத நிலையில் 31 வெடிகுண்டுகள் கண்டுபிடிக்கப்பட்டுள்ளன.
-
-முகமாலை வடக்கு பகுதியில் உள்ள வீட்டு உரிமையாளர் ஒருவர் தமது வீட்டில் பள்ளம் தோண்டியுள்ளார். இதன்போது அப்  பகுதியில் ஆபத்தான வெடிகுண்டுகள் காணப்பட்டுள்ளன.
-
-அதன் பின்னர் கிளிநொச்சி நீதிமன்றத்தின் உத்தரவுடன் பாதுகாப்பான முறையில் வெடிகுண்டுகளை மீட்கும் பணி முன்னெடுக்கப்பட்டுள்ளது.
-
-இச் சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை பளை பொலிஸார் மேற்கொண்டு வருகின்றனர் .
-
-◼️
-
-[Data](articles/4f700acd.json)
-
----
-
-### Women's ODI World Cups from today
-
-*2025-10-02 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215246) · `si`
-
-The women's ODI will commence from today under today.
-
-Accordingly, at 3 pm today at 3 pm. The match begins with the women's teams of Pakistan and Bangladesh at the Premadasa Stadium.
-
-Sri Lanka Cricket announced that all the tournaments in the country will receive free visitors and the gate is open from 1 pm.
-
-The 13th universal units of the Women's ODI World Cup began at the Guate Stadium in India on 30th September.
-
-The World Cup will be held until November 2nd.
-
-Eight teams will compete in this year and runs at 4 stadiums in India and in one stadium in Sri Lanka.
-
-Every team will face seven matches in the World Cup base.
-
-Sri Lanka will be played in the preliminary round of this year's tournament.
-
-Indian team won the first match against Sri Lanka women's team in 59 runs in terms of eight countries.
-
-Meanwhile, Sri Lankan and Indian team has come to the island to attend the remainder of the Women's ODI World Cup.
-
-...
-
-[Data](articles/25eb2de1.json)
-
-[Extended Data](ext_articles/25eb2de1.ext.json)
-
----
-
-### 'Puma' further remanded
-
-*2025-10-02 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215245) · `si`
-
-The Colombo Fort Magistrate Court yesterday (Fort) Court yesterday handed over the Lirm Shame of Organized crime.
-
-The suspect had not been produced before the Fort Magistrate Isuri Neinta Kumara yesterday and was produced before the Sum Technology.
-
-The suspect has been imprisoned under the Prevention of Terrorism Act and the police have informed the court that investigations are being investigated.
-
-After considering the submissions, the Magistrate ordered that the suspect was remanded till the 15th.
-
-The suspect, the suspect, who is a drug dealer named 'Kudu Sale', is a person who has been investigated into drug trafficking, murder, police said.
-
-◼️
-
-[Data](articles/b721cb8a.json)
-
-[Extended Data](ext_articles/b721cb8a.ext.json)
-
----
-
-### Another individual arrested in connection with massive drug haul seized in Tangalle
-
-*2025-10-02 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113142/another-individual-arrested-in-connection-with-massive-drug-haul-seized-in-tangalle) · `en`
-
-Another individual connected to the large haul of narcotics uncovered from three lorries in Seenimodara, Tangalle has been arrested by the Tangalle Divisional Crime Investigation Unit.
-
-The suspect, known as ‘Beliatta Sanaa’, was arrested yesterday (01), according to police.
-
-Recently, police seized over 700 kilograms of heroin and crystal methamphetamine (‘Ice’) hidden in three lorries in Seenimodara. The haul of drugs had been smuggled into the country from abroad and were being prepared for transportation, police stated.
-
-The drug consignment is believed to belong to a foreign-based trafficker named ‘Unakuruwa Shantha’. In connection with the incident, police have launched a special operation to apprehend suspects involved in drug trafficking activities within Sri Lanka.
-
-Accordingly, ‘Beliatta Sanaa’, has been arrested, who is said to be a close associate of the main suspect known as “Bhoomithelā”.
-
-...
-
-[Data](articles/74550182.json)
-
-[Extended Data](ext_articles/74550182.ext.json)
-
----
-
-### Brain damage to a boy falling in a swimming pool
-
-*2025-10-02 09:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீச்சல்-குளத்தில்-விழுந்த-சிறுவனுக்கு-மூளையில்-பாதிப்பு/175-365620) · `ta`
-
-The boy's father has lodged a complaint at the Kalupitiya police station that his eight -year -old son fell into the swimming pool of the swimming club in Colombo.
-
-The accident occurred when the boy who went there for a birthday party fell into the swimming pool.
-
-The boy's father has requested the CCTV footage of the area during the incident.
-
-◼️
-
-[Data](articles/58ecc28b.json)
-
-[Extended Data](ext_articles/58ecc28b.ext.json)
-
----
-
-### ස්වාධින අභිචෝදක කාර්යාලය ගැන සාකච්ඡාවක්
-
-*2025-10-02 09:28:14* · [`adalk`](https://www.ada.lk/breaking_news/ස්වාධින-අභිචෝදක-කාර්යාලය-ගැන-සාකච්ඡාවක්/11-418860) · `si`
-
-මෙරට යුක්තිය පසිඳලීමේ ක්‍රියාවලිය ශක්තිමත් කිරීමේ එක් පියවරක් වශයෙන් ස්වාධින අභිචෝදක කාර්යාලයක් ස්ථාපිත කිරීම සඳහා විද්වත් කමිටුවක් පත් කිරීමට රජය පියවර ගත් අතර, එම කමිටුවේ සාකච්ඡාවක් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ හර්ෂණ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙන් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේදී පැවැත්විණි.
-
-ස්වාධින අභිචෝදක කාර්යාලයක් ස්ථාපිත කිරීමට අදාළව මුලික සැලසුම් සකස් කිරීම පිළිබඳව මෙහිදී සාකච්ඡා වු අතර, එහි මුලික සංකල්ප පත්‍රිකාව කෙටුම්පත් කිරීමෙන් අනතුරුව මහජනතාවගේ සහ සිවිල් සංවිධානවල අදහස් ලබා ගැනීමට නියමිතව තිබේ.
-
-මෙම සාකච්ඡාව සඳහා ශ්‍රේෂ්ඨාධිකරණ විනිසුරු, ජනාධිපති නීතිඥ යසන්ත කෝදාගොඩ, නීතිපති ජනාධිපති නීතිඥ, පාරින්ද රණසිංහ, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේ ලේකම්, ජනාධිපති නීතිඥ අයෙෂා ජිනසේන, ශ්‍රී ලංකා නීතිඥ සංගමයේ සභාපති, නීතිඥ රජිව් අමරසූරිය, ජනාධිපති නීතිඥ රියෙන්සි අර්සකුලරත්න, ජනාධිපති නීතිඥ යූ.ආර් ද සිල්වා යන මහත්ම මහත්මීන් ජ්‍යෙෂ්ඨ නීතිඥවරුන්, අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේ උසස් නිලධාරීන් එක්ව සිටියහ.
-
-◼️
-
-[Data](articles/90490b56.json)
-
----
-
-### No More Commission-Driven Projects—Real Development Is Coming
-
-*2025-10-02 09:16:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/no-more-commission-driven-projects%e2%80%94real-development-is-coming) · `en`
-
-COLOMBO (News 1st); Deputy Minister of Housing T. B. Sarath announced that the government is preparing to implement a structured and participatory development model, aimed at ensuring long-term benefits for communities across Sri Lanka.Speaking at a public event, the Deputy Minister emphasized that the upcoming development initiatives will not resemble the ad hoc, commission-driven projects seen under previous administrations.Instead, he said, the new approach will prioritize grassroots involvement, with local representatives and community members playing a central role in planning and execution.T. B. Sarath urged the public to remain patient, assuring that the planned development strategy will be unveiled soon and will be sustainable, inclusive, and transparent.
-
-◼️
-
-[Data](articles/ac1fdf93.json)
-
-[Extended Data](ext_articles/ac1fdf93.ext.json)
-
----
-
-### Allow tinker to be detained for 24 hours
-
-*2025-10-02 09:09:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிங்கரை-24-மணி-நேரம்-தடுத்து-வைத்து-விசாரிக்க-அனுமதி/175-365619) · `ta`
-
-The court has granted permission to the Colombo Criminal Investigation Division to detain Sreedharan Neranjan, known as Tinker, who is accused of committing a planned crime at the Katunayake airport for 24 hours.
-
-The 36 -year -old suspect from Blooming was brought from Dubai to the country yesterday morning.
-
-The suspect has been found to be the assistant of Palani Shiran Glorion, known as Kochchikada Shiran, who is accused of deliberate crimes.
-
-In 2024, the driver of the car, who was shot dead by the suspects, who was shot dead by a car in the Grandpas, was shot dead by a man who was shot dead by a car, and injured another person, and the suspects were charged against the suspects.. Remble
-
-◼️
-
-[Data](articles/70265243.json)
-
-[Extended Data](ext_articles/70265243.ext.json)
-
----
-
-### Israel detains over 200 from 37 countries in flotilla
-
-*2025-10-02 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113141/israel-detains-over-200-from-37-countries-in-flotilla) · `en`
-
-Global Sumud Flotilla spokesperson Saif Abukeshek has provided a “mission update” in a post on Instagram, confirming that Israeli forces have intercepted 13 boats at sea.
-
-Abukeshek said there were more than 201 people from 37 countries on those boats, including 30 participants from Spain; 22 from Italy; 21 from Turkey; and 12 from Malaysia.
-
-He said the group’s “mission is going on” despite the arrests and vessels are continuing to sail “through the Mediterranean to break the siege on Gaza”.
-
-“We have around 30 ships that are still fighting their way away from the military vessels of the occupation forces trying to reach to the shores of Gaza. They are determined. They are motivated, and they are doing everything within their hand to be able to break this [siege] by early morning and to arrive together,” he said.
-
-◼️
-
-[Data](articles/a36e97ef.json)
-
-[Extended Data](ext_articles/a36e97ef.ext.json)
-
----
-
-### Heroin hidden in pants waters hidden
-
-*2025-10-02 09:02:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කලසම-වටය-සඟව-හරයන-ගනලල/101-680609) · `si`
-
-Another person, including a woman who came to the Kalutara Prison, hidden the pants waters and another, another person was arrested, and another person arrested.
-
-The suspect was arrested a 28 year old woman and another resident of Bandaragama.
-
-The three-wheeler, which was in a bag of information on information received by the Western Province intelligence officers, was arrested in a large number of drugs and two mobile phones and the suspects with the three-wheeler and three-wheeler.
-
-◼️
-
-[Data](articles/8404ddc9.json)
-
-[Extended Data](ext_articles/8404ddc9.ext.json)
-
----
-
-### Criminal gang member “Piyuma” further remanded
-
-*2025-10-02 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113140/criminal-gang-member-piyuma-further-remanded) · `en`
-
-The Colombo Fort Magistrate’s Court has remanded Piyum Hasthika, alias “Piyuma”, who is alleged to be a member of an organized crime gang, until October 15.
-
-The order was issued by Colombo Fort Magistrate Isuru Neththi Kumara.
-
-Although the case was taken up before Colombo Fort Magistrate Isuru Neththi Kumara, the suspect appeared virtually via Zoom, said Ada Derana reporter.
-
-Police informed court that the suspect is being held under the Prevention of Terrorism Act (PTA) and that further investigations against him are being carried out.
-
-Accordingly, after considering the facts presented, the Magistrate ordered that the suspect be remanded until October 15.
-
-According to police, the suspect is a close associate of notorious drug trafficker “Kudu Salindu” and has been investigated in connection with several serious offenses, including drug trafficking and murder.
-
-◼️
-
-[Data](articles/547222c0.json)
-
-[Extended Data](ext_articles/547222c0.ext.json)
-
----
-
-### Minister Bangalawala still hosting
-
-*2025-10-02 08:53:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමත-බගලවල-තවමත-වවලල/101-680607) · `si`
-
-It is reported that the government has not yet been a permanent decision regarding the closure of ministers.
-
-According to sources, the bungalows will be shrine.
-
-In addition to the minister bungalow, the Cabinet is to be taken up in the future.
-
-When we inquired from Public Administrative Provincial Councils and Local Government, Dr. Chandana Abeyratne, said that the cabinet would be taken soon to take a decision regarding the ministerial bungalow.
-
-He said that all reports including those bungalows and buildings. The Minister also said that some new work will be made in the ministerial minister. Meanwhile, the Ministry of Public Administrative Provincial Councils and Local Government says that more than 50 government and private institutions have been requested to provide ministers bungalows.. The number of ministers in Colombo is fifty five.
-
-◼️
-
-[Data](articles/7a432b0a.json)
-
-[Extended Data](ext_articles/7a432b0a.ext.json)
-
----
-
-### Minister Bangalawala still hosting
-
-*2025-10-02 08:53:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමත-බගලවල-තවමත-වවලල/1-680607) · `si`
-
-It is reported that the government has not yet been a permanent decision regarding the closure of ministers.
-
-According to sources, the bungalows will be shrine.
-
-In addition to the minister bungalow, the Cabinet is to be taken up in the future.
-
-When we inquired from Public Administrative Provincial Councils and Local Government, Dr. Chandana Abeyratne, said that the cabinet would be taken soon to take a decision regarding the ministerial bungalow.
-
-He said that all reports including those bungalows and buildings. The Minister also said that some new work will be made in the ministerial minister. Meanwhile, the Ministry of Public Administrative Provincial Councils and Local Government says that more than 50 government and private institutions have been requested to provide ministers bungalows.. The number of ministers in Colombo is fifty five.
-
-◼️
-
-[Data](articles/baef5e61.json)
-
-[Extended Data](ext_articles/baef5e61.ext.json)
-
----
-
-### Elon Musk becomes first person in history to be worth over $500 billion
-
-*2025-10-02 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113139/elon-musk-becomes-first-person-in-history-to-be-worth-over-500-billion) · `en`
-
-Tesla boss Elon Musk has become the first person ever to achieve a net worth of more than $500bn (£370.9bn), as the value of the electric car company and his other businesses have risen this year.
-
-The tech magnate’s net worth briefly reached $500.1bn on Wednesday afternoon New York time, before dipping slightly to just over $499bn later in the day, the Forbes’ billionaires index reported.
-
-Alongside Tesla, valuations of his other ventures, including the artificial intelligence startup xAI and rocket company SpaceX, have also reportedly climbed in recent months.
-
-The milestone further cements Musk’s status as the world’s richest person, well ahead of rivals in the global tech sector.
-
-According to Forbes’ billionaires index, Oracle founder Larry Ellison is the world’s second richest person, with a fortune of about $350.7bn.
-
-...
-
-[Data](articles/6e63903d.json)
-
-[Extended Data](ext_articles/6e63903d.ext.json)
-
----
-
-### Tangalle Drugs: Suspect, Boat Seized In Dondra Head
-
-*2025-10-02 08:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/tangalle-drugs-suspect-boat-seized-in-dondra-head) · `en`
-
-...
-
-[Data](articles/02f00f3a.json)
-
-[Extended Data](ext_articles/02f00f3a.ext.json)
-
----
-
-### Cloces postponing
-
-*2025-10-02 08:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செம்மணிப்-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-365618) · `ta`
-
-The Jaffna Magistrate's Court has adjourned the case relating to the human burial ground on the 13th of this month.
-
-The case has been postponed without the availability of funds for the third phase of excavation.
-
-The case was held yesterday by Judge S.. The presence of Lenin Kumar was taken up for trial.
-
-In the meantime, the State Attorney General sought time to submit the approval report on the third phase excavation work.. This was followed by the case on the 13th of this month. (A)
-
-◼️
-
-[Data](articles/e9a3faaa.json)
-
-[Extended Data](ext_articles/e9a3faaa.ext.json)
-
----
-
-### Children are lacking in probation of probation relative to the previous year
-
-*2025-10-02 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215244) · `si`
-
-The Department of Probation and Child Protection Services says that children have a lack of children in the previous years.
-
-The Assistant Commissioner of the Department Norraka V Daniene Perera said that most of the children will take place in the Western Province.
-
-He was speaking at a media brief held at the Health Promotion Bureau.
-
-"There is a decrease in the number of children who are probably probable compared to previous years. At present, children and children are in Newadas. "
-
-Reports about probation centers and sex?
-
-"We have the ability to investigate as the National Department."
-
-"Especially in the Western Province he has a large number of child development centers. Accordingly, most of the children are in the Western Province. "
-
-◼️
-
-[Data](articles/8e69e443.json)
-
-[Extended Data](ext_articles/8e69e443.ext.json)
-
----
-
-### Israeli Forces Detain Over 200 People In Aid Flotilla From 37 Countries
-
-*2025-10-02 08:32:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/israeli-forces-detain-over-200-people-in-aid-flotilla-from-37-countries) · `en`
-
-(AJ): Global Sumud Flotilla spokesperson Saif Abukeshek has provided a “mission update” in a post on Instagram, confirming that Israeli forces have intercepted 13 boats at sea.
-
-Abukeshek said there were more than 201 people from 37 countries on those boats, including 30 participants from Spain, 22 from Italy, 21 from Turkiye and 12 from Malaysia.
-
-He said the group’s “mission is going on” despite the arrests, and vessels are continuing to sail “through the Mediterranean to break the siege on Gaza”.
-
-“We have around 30 ships that are still fighting their way away from the military vessels of the occupation forces trying to reach to the shores of Gaza. They are determined. They are motivated, and they are doing everything within their hand to be able to break this [siege] by early morning and to arrive together,” he said.
-
-...
-
-[Data](articles/e1e7e1ee.json)
-
-[Extended Data](ext_articles/e1e7e1ee.ext.json)
-
----
-
-### Sri Lanka Partners with RMIT to Launch National Innovation Centre
-
-*2025-10-02 08:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/sri-lanka-partners-with-rmit-to-launch-national-innovation-centre) · `en`
-
-COLOMBO (News 1st); A high-level discussion was held at the Presidential Secretariat between representatives of the Government of Sri Lanka and the Royal Melbourne Institute of Technology (RMIT), Australia, focusing on the establishment of the Sri Lanka National Innovation Centre.The initiative aims to create a dedicated platform for advancing research, innovation, and development across multiple sectors. Once operational, the centre is expected to enhance the effectiveness of existing integrated doctoral programs by aligning them more closely with national priorities and research policy frameworks.Officials emphasized that the centre will play a pivotal role in identifying local challenges and delivering targeted R&D solutions. It will also serve as a bridge between academic research and practical implementation, ensuring that the outcomes of innovation efforts directly benefit the Sri Lankan public.
-
-◼️
-
-[Data](articles/b0295057.json)
-
-[Extended Data](ext_articles/b0295057.ext.json)
-
----
-
-### Court orders govt. analyst’s report on 10 hand grenades found in Mutwal
-
-*2025-10-02 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113138/court-orders-govt-analysts-report-on-10-hand-grenades-found-in-mutwal) · `en`
-
-The Colombo Magistrate’s Court has directed police to obtain a Government Analyst’s report regarding the 10 hand grenades recently discovered in Aluthmawatha, Mutwal.
-
-Colombo Additional Magistrate Oshada Migara Maharachchi issued the order after considering a request submitted by the Mutwal Police, said Ada Derana reporter.
-
-Police informed court that further investigations are being carried out with the assistance of CCTV footage to identify the suspects connected to the incident.
-
-Granting another request made by police, the Magistrate also permitted the defusing of the seized grenades and ordered the Government Analyst’s report to be presented to court.
-
-The stock of grenades had been recovered by a special police team acting on information received by the Terrorism Investigation Division (TID).
-
-◼️
-
-[Data](articles/bc309ba1.json)
-
-[Extended Data](ext_articles/bc309ba1.ext.json)
-
----
-
-### Colombia Expels Israeli Diplomats Over Attack On Flotilla
-
-*2025-10-02 08:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/colombia-expels-israeli-diplomats-over-attack-on-flotilla) · `en`
-
-(TRT) President Gustavo Petro has ordered the expulsion of the entire Israeli diplomatic delegation from Colombia, a move triggered by the detention of two Colombian nationals aboard a flotilla attempting to deliver humanitarian aid to besieged Gaza.
-
-Manuela Bedoya and Luna Barreto were part of the Global Sumud Flotilla's crew – an international effort that is trying to break Israeli blockade and deliver aid to Gaza. According to a statement from the Global Movement to Gaza, the Israeli military illegaly detained the women after the flotilla reached a high-risk area 150 nautical miles off the coast.
-
-"After reaching 150 nautical miles ... the maritime positioning of Israeli ships begins at 23:59 UTC (6.59 pm Colombia time)," said the statement, asserting that other flotillas have been "attacked or intercepted." It described it as "a violation of international law and the Geneva Accords."
-
-...
-
-[Data](articles/e543435b.json)
-
-[Extended Data](ext_articles/e543435b.ext.json)
-
----
-
-### White House says firings ‘imminent’ as plan to reopen government collapses
-
-*2025-10-02 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/113137/white-house-says-firings-imminent-as-plan-to-reopen-government-collapses) · `en`
-
-Efforts to swiftly end the US government shutdown collapsed Wednesday (Oct 1) as Democrats in Congress went home without resolving a funding stand-off with President Donald Trump - and the White House threatened public sector jobs.
-
-Federal funding expired at midnight after Trump and lawmakers failed to agree on a deal to keep the lights on, prompting agencies to wind down services, while the White House warned of “imminent” firings of public sector workers.
-
-Senate Democrats - who are demanding extended health care subsidies for low-income families - refused to help the majority Republicans approve a House-passed Bill that would have reopened the government for several weeks while negotiations continue.
-
-Voting in the Senate is now adjourned until Friday, meaning hopes for a quick resolution have been frustrated.
-
-Around 750,000 federal employees are expected to be placed on furlough - a kind of enforced leave, with pay withheld until they return to work.
-
-...
-
-[Data](articles/5ae11769.json)
-
-[Extended Data](ext_articles/5ae11769.ext.json)
-
----
-
-### NDDCB Confirms Mephedrone in Coastal Seizure
-
-*2025-10-02 08:24:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/nddcb-confirms-mephedrone-in-coastal-seizure) · `en`
-
-COLOMBO (News 1st): The National Dangerous Drugs Control Board (NDDCB) has confirmed that the substance found in possession of a Moldovan national in the Weligama area is Mephedrone, a highly potent and dangerous synthetic narcotic.Following detailed laboratory analysis, the NDDCB officially handed over the final report to the Weligama Police yesterday, confirming the presence of the banned psychoactive substance.
-
-◼️
-
-[Data](articles/55014ef5.json)
-
-[Extended Data](ext_articles/55014ef5.ext.json)
-
----
-
-### Another suspected to be arrested in Seenmodara drug
-
-*2025-10-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215242) · `si`
-
-Another person was arrested by Tangalle Divisional Investigation Unit, which was found in three lorries in Modara, Tangalla Sugar.
-
-The criminal was arrested in Beliathette Sana yesterday, police said.
-
-More than 700 kilograms of heroin and ice narcotics were found in three lorries, Tangalle, Tangalle recently.
-
-Police have launched a special operation to arrest the suspects who have been involved in the drug dealer of the Unakari, Unaketuwa.
-
-Accordingly, Beliaththe Sana San accompanied the racket was arrested and he was a close associate of this racket, police said.
-
-The police have recovered another house in the racketeers to be hidden from drugs.
-
-Investigations have revealed that the residents of the Tangalle area have been used to hide drugs by these racketeers to keep drugs into the drug.
-
-Meanwhile, Deputy Minister Mahinda Jayasinghe says that all crimes including drug trafficking in the country are working to complete the expensive crimes.
-
-...
-
-[Data](articles/1b596b2f.json)
-
-[Extended Data](ext_articles/1b596b2f.ext.json)
-
----
-
-### CID Questions Top Officers Over Suspected Meth Container Release
-
-*2025-10-02 08:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/cid-questions-top-officers-over-suspected-meth-container-release) · `en`
-
-...
-
-[Data](articles/e1a0e370.json)
-
-[Extended Data](ext_articles/e1a0e370.ext.json)
-
----
-
-### Court grants permission to detain and question underworld figure ‘Tinker’
-
-*2025-10-02 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113136/court-grants-permission-to-detain-and-question-underworld-figure-tinker-) · `en`
-
-The Hulftsdorp Magistrate’s Court has granted permission for the Colombo Crimes Division (CCD) to detain and interrogate Sridaran Niranjan, also known as ‘Tinker’, a member of an organized crime group who was recently arrested in Dubai and deported to Sri Lanka.
-
-According to the Police Media Division, court approved a 24-hour detention period, until tomorrow (03), for officers to question the suspect.
-
-The suspect was apprehended during a joint operation involving Sri Lanka Police, the State Intelligence Service and the Dubai Police in the United Arab Emirates.
-
-Following his arrest, he was brought to Sri Lanka in the early hours of yesterday (02) and taken into custody at the Bandaranaike International Airport (BIA) by officers of the Airport Criminal Investigation Division. He was then handed over to the Peliyagoda Police.
-
-...
-
-[Data](articles/466f2e68.json)
-
-[Extended Data](ext_articles/466f2e68.ext.json)
-
----
-
-### Former Congolese president sentenced to death for war crimes
-
-*2025-10-02 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113135/former-congolese-president-sentenced-to-death-for-war-crimes) · `en`
-
-Former Democratic Republic of Congo President Joseph Kabila has been sentenced to death in absentia for war crimes and treason.
-
-The charges concern accusations that Kabila has been supporting the M23, a rebel group who have wreaked devastation across the country’s eastern region.
-
-Kabila was convicted on Friday by a military court of treason, crimes against humanity, and war crimes, including murder, sexual assault, torture and insurrection. He denied the charges, but did not appear in court to defend himself.
-
-The ex-president rejected the case as “arbitrary” and said the courts were being used as an “instrument of oppression”. His current whereabouts are unknown.
-
-One of his allies and a former minister, Kikaya Bin Karubi, told the BBC’s Newsday programme that the whole trial had been “theatrical” and was an example of the dictatorship of President Félix Tshisekedi. He said the court had not seen any evidence linking Kabila to the M23 rebel group.
-
-...
-
-[Data](articles/8d3562ea.json)
-
-[Extended Data](ext_articles/8d3562ea.ext.json)
-
----
-
-### Sri Lanka Resident Visa for Business
-
-*2025-10-02 08:10:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-நோக்கில்-வெளிநாட்டவருக்கு-இலங்கை-வதிவிட-விசா/175-365617) · `ta`
-
-Sri Lanka has issued the first residency visa in its history under the Personal Investment Division introduced on the basis of the Rules of the Revised Immigration and Emigration Regulation.
-
-Minister of Public Safety and Parliamentary Affairs Ananda Wijebala has officially handed over the visa.
-
-Under this scheme, designed to attract foreign investment, foreigners can get a long -term residency visa in Sri Lanka by investing.
-
-Accordingly, to obtain a 5 -year residency visa, you have to invest a US $ 1 lakh or equivalent foreign currency.
-
-At the same time, you have to invest 2 lakhs or equivalent foreign currency to obtain a 10 -year residency visa.  (a)
-
-◼️
-
-[Data](articles/38d69861.json)
-
-[Extended Data](ext_articles/38d69861.ext.json)
-
----
-
-### Authorities Confirm Methamphetamine in Tangalle Raid
-
-*2025-10-02 08:05:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/authorities-confirm-methamphetamine-in-tangalle-raid) · `en`
-
-COLOMBO (News 1st); The National Dangerous Drugs Control Board (NDDCB) has confirmed that the large stock of chemicals recently discovered in Netolpitiya, Tangalle, contains methamphetamine, commonly known as "Ice."
-
-The confirmation follows detailed laboratory testing of samples obtained during the raid.
-
-According to the NDDCB, the final report of the chemical analysis has been officially handed over to the Tangalle Police, marking a significant breakthrough in the ongoing investigation into suspected narcotics production operations in the region.
-
-Authorities also revealed that a similar stock of suspicious chemicals found in Kadana is currently undergoing extensive testing.
-
-The final report on that batch is expected to be released within the coming week.
-
-The discoveries in Middeniya, Kadana, and Netolpitiya were made following intelligence gathered during interrogations of Backhoe Saman, a known organized crime figure currently in custody under a detention order.
-
-...
-
-[Data](articles/0684a897.json)
-
-[Extended Data](ext_articles/0684a897.ext.json)
-
----
-
-### Sri Lanka Tightens Product Standards with New Gazette
-
-*2025-10-02 07:59:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/sri-lanka-tightens-product-standards-with-new-gazette) · `en`
-
-COLOMBO (News 1st); The Consumer Affairs Authority has issued an extraordinary gazette notification mandating that all products covered under standard specifications must not be manufactured, packaged, distributed, transported, stored, or sold without obtaining the Sri Lanka Standards (SLS) certification.
-
-This regulation will come into effect from April 1, 2026, and is aimed at ensuring product quality, consumer safety, and regulatory compliance across all sectors.
-
-◼️
-
-[Data](articles/1a4d24ed.json)
-
-[Extended Data](ext_articles/1a4d24ed.ext.json)
-
----
-
-### Weather today
-
-*2025-10-02 07:57:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680601) · `si`
-
-The Meteorology Department says that at least in many parts of the island to the Met Department, however, at least due to thundershowers.
-
-According to the Department, there is a rainy weather in many parts of the island.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds are about 30-40 times.
-
-◼️
-
-[Data](articles/a347c4c4.json)
-
-[Extended Data](ext_articles/a347c4c4.ext.json)
-
----
-
-### Weather today
-
-*2025-10-02 07:57:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680601) · `si`
-
-The Meteorology Department says that at least in many parts of the island to the Met Department, however, at least due to thundershowers.
-
-According to the Department, there is a rainy weather in many parts of the island.
-
-From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds are about 30-40 times.
-
-◼️
-
-[Data](articles/d9525681.json)
-
-[Extended Data](ext_articles/d9525681.ext.json)
-
----
-
-### No More Free Sili Sili Bags: Sri Lanka Ends Free Distribution
-
-*2025-10-02 07:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/no-more-free-sili-sili-bags-sri-lanka-ends-free-distribution) · `en`
-
-COLOMBO (News 1st); The Central Environmental Authority has issued an extraordinary gazette notification announcing a ban on the free distribution of lightweight polythene bags, commonly known as sili sili bags, effective November 1.
-
-According to the gazette, low-density polyethylene (LDPE) bags and LDPE-based packaging must no longer be provided free of charge to consumers.
-
-The regulation further mandates that retailers must clearly indicate the price of such bags on the customer’s bill.
-
-Additionally, the price of the polythene bags must be visibly displayed at the point of sale, allowing consumers to make informed choices.
-
-◼️
-
-[Data](articles/1698ad3a.json)
-
-[Extended Data](ext_articles/1698ad3a.ext.json)
-
----
-
-### Seat Belts a Must for Drivers and Passengers on Expressway
-
-*2025-10-02 07:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/seat-belts-a-must-for-drivers-and-passengers-on-expressway) · `en`
-
-COLOMBO (News 1st); The Ministry of Transport, Highways, Ports and Civil Aviation has issued an extraordinary gazette notification mandating the use of seat belts for all occupants of vehicles traveling on expressways.
-
-The regulation, signed and announced by Minister Bimal Rathnayake, stipulates that both drivers and passengers seated in the rear must wear seat belts at all times while on expressways.
-
-This marks a significant expansion of previous safety requirements, which primarily focused on front-seat passengers.
-
-According to the gazette, every vehicle must be equipped with a standardized seat belt system comprising three anchoring points: one belt running diagonally across the chest, another horizontally across the lap, and a third securing the side of the torso.
-
-These specifications aim to ensure maximum protection in the event of a collision or sudden deceleration.
-
-◼️
-
-[Data](articles/d2ec9476.json)
-
-[Extended Data](ext_articles/d2ec9476.ext.json)
-
----
-
-### India unveils new measures for internationalisation of Rupee
-
-*2025-10-02 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113134/india-unveils-new-measures-for-internationalisation-of-rupee) · `en`
-
-The Reserve Bank of India (RBI) has announced fresh measures to promote wider use of the Indian Rupee in cross-border transactions, as part of its strategy to gradually internationalise the currency.
-
-For months now, the Indian government has been taking steps to internationalise the rupee, which refers to the process of making the Indian currency widely accepted and used for global trade, finance, and investment. As part of latest announcements, RBI Governor Sanjay Malhotra proposed three measures to globalise the rupee. This comes amid India’s bid to present the rupee as a stable currency.
-
-1. The Reserve Bank said authorised dealer (AD) banks will now be permitted to extend loans in Indian Rupees to non-residents from Bhutan, Nepal and Sri Lanka for trade-related transactions. This is expected to deepen trade settlement in INR with neighbouring economies.
-
-...
-
-[Data](articles/ad90222c.json)
-
-[Extended Data](ext_articles/ad90222c.ext.json)
-
----
-
-### Detention of 'Tynanger' and interrogation
-
-*2025-10-02 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215241) · `si`
-
-The Alleran Narojon, a member of the Colombo Crimes Division, has been detained in the Colombo Crimes Division, an organized criminal group, who was arrested in Dubai and 'Tynkkar'.
-
-The suspect was retained for 24 hours to 24 hours (03).
-
-The suspect was arrested in a mission of the Sri Lanka Police, State Intelligence and Dubai Police in the United Arab Emirates.
-
-Later, after he was brought to the Katunayake Airport, Airport Criminal Investigations were arrested and handed over to the Peliyagoda Police Station.
-
-Accordingly, the suspect was produced before the Aluthkade Magistrate's Court yesterday, the police said that the court granted permission to be detained in the Colombo Crimes Division.
-
-The suspect is a 36 year old resident of Colombo 15 and is a disciple of organized crime and drug dealer, Palani Shiran, Kochchikade, Kochchikade, Kochchikade.
-
-The police said that he had been carrying out firearms to suspicion of firearms in Peliyagoda last August.
-
-...
-
-[Data](articles/22615ded.json)
-
-[Extended Data](ext_articles/22615ded.ext.json)
 
 ---

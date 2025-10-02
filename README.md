@@ -1,37 +1,89 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 09:21:39**
+As of **2025-10-02 10:08:31**
 
 ## Newspaper Stats
 
-*Scraped **80,407** Articles*
+*Scraped **80,438** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 552
-lankadeepalk | 615
+newsfirstlk | 553
+lankadeepalk | 618
 dbsjeyarajcom | 637
 bbccomsinhala | 717
 colombotelegraphcom | 803
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,873
-dailyftlk | 5,616
-adalk | 7,726
+dailyftlk | 5,634
+adalk | 7,728
 adaderanalk | 10,358
-tamilmirrorlk | 11,990
+tamilmirrorlk | 11,991
 virakesarilk | 13,149
-adaderanasinhalalk | 13,864
+adaderanasinhalalk | 13,870
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,407 (100.0%) of 80,407 articles have been extended.
+80,431 (100.0%) of 80,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-02 (Thursday)
+
+### No More Commission-Driven Projects—Real Development Is Coming
+
+*2025-10-02 09:16:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/no-more-commission-driven-projects%e2%80%94real-development-is-coming) · `en`
+
+COLOMBO (News 1st); Deputy Minister of Housing T. B. Sarath announced that the government is preparing to implement a structured and participatory development model, aimed at ensuring long-term benefits for communities across Sri Lanka.Speaking at a public event, the Deputy Minister emphasized that the upcoming development initiatives will not resemble the ad hoc, commission-driven projects seen under previous administrations.Instead, he said, the new approach will prioritize grassroots involvement, with local representatives and community members playing a central role in planning and execution.T. B. Sarath urged the public to remain patient, assuring that the planned development strategy will be unveiled soon and will be sustainable, inclusive, and transparent.
+
+◼️
+
+[Data](articles/ac1fdf93.json)
+
+[Extended Data](ext_articles/ac1fdf93.ext.json)
+
+---
+
+### Allow tinker to be detained for 24 hours
+
+*2025-10-02 09:09:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிங்கரை-24-மணி-நேரம்-தடுத்து-வைத்து-விசாரிக்க-அனுமதி/175-365619) · `ta`
+
+The court has granted permission to the Colombo Criminal Investigation Division to detain Sreedharan Neranjan, known as Tinker, who is accused of committing a planned crime at the Katunayake airport for 24 hours.
+
+The 36 -year -old suspect from Blooming was brought from Dubai to the country yesterday morning.
+
+The suspect has been found to be the assistant of Palani Shiran Glorion, known as Kochchikada Shiran, who is accused of deliberate crimes.
+
+In 2024, the driver of the car, who was shot dead by the suspects, who was shot dead by a car in the Grandpas, was shot dead by a man who was shot dead by a car, and injured another person, and the suspects were charged against the suspects.. Remble
+
+◼️
+
+[Data](articles/70265243.json)
+
+[Extended Data](ext_articles/70265243.ext.json)
+
+---
+
+### Heroin hidden in pants waters hidden
+
+*2025-10-02 09:02:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කලසම-වටය-සඟව-හරයන-ගනලල/101-680609) · `si`
+
+Another person, including a woman who came to the Kalutara Prison, hidden the pants waters and another, another person was arrested, and another person arrested.
+
+The suspect was arrested a 28 year old woman and another resident of Bandaragama.
+
+The three-wheeler, which was in a bag of information on information received by the Western Province intelligence officers, was arrested in a large number of drugs and two mobile phones and the suspects with the three-wheeler and three-wheeler.
+
+◼️
+
+[Data](articles/8404ddc9.json)
+
+[Extended Data](ext_articles/8404ddc9.ext.json)
+
+---
 
 ### Tangalle Drugs: Suspect, Boat Seized In Dondra Head
 
@@ -74,6 +126,32 @@ In the meantime, the State Attorney General sought time to submit the approval r
 [Data](articles/e9a3faaa.json)
 
 [Extended Data](ext_articles/e9a3faaa.ext.json)
+
+---
+
+### Children are lacking in probation of probation relative to the previous year
+
+*2025-10-02 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215244) · `si`
+
+The Department of Probation and Child Protection Services says that children have a lack of children in the previous years.
+
+The Assistant Commissioner of the Department Norraka V Daniene Perera said that most of the children will take place in the Western Province.
+
+He was speaking at a media brief held at the Health Promotion Bureau.
+
+"There is a decrease in the number of children who are probably probable compared to previous years. At present, children and children are in Newadas. "
+
+Reports about probation centers and sex?
+
+"We have the ability to investigate as the National Department."
+
+"Especially in the Western Province he has a large number of child development centers. Accordingly, most of the children are in the Western Province. "
+
+◼️
+
+[Data](articles/8e69e443.json)
+
+[Extended Data](ext_articles/8e69e443.ext.json)
 
 ---
 
@@ -140,6 +218,34 @@ COLOMBO (News 1st): The National Dangerous Drugs Control Board (NDDCB) has confi
 [Data](articles/55014ef5.json)
 
 [Extended Data](ext_articles/55014ef5.ext.json)
+
+---
+
+### Another suspected to be arrested in Seenmodara drug
+
+*2025-10-02 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215242) · `si`
+
+Another person was arrested by Tangalle Divisional Investigation Unit, which was found in three lorries in Modara, Tangalla Sugar.
+
+The criminal was arrested in Beliathette Sana yesterday, police said.
+
+More than 700 kilograms of heroin and ice narcotics were found in three lorries, Tangalle, Tangalle recently.
+
+Police have launched a special operation to arrest the suspects who have been involved in the drug dealer of the Unakari, Unaketuwa.
+
+Accordingly, Beliaththe Sana San accompanied the racket was arrested and he was a close associate of this racket, police said.
+
+The police have recovered another house in the racketeers to be hidden from drugs.
+
+Investigations have revealed that the residents of the Tangalle area have been used to hide drugs by these racketeers to keep drugs into the drug.
+
+Meanwhile, Deputy Minister Mahinda Jayasinghe says that all crimes including drug trafficking in the country are working to complete the expensive crimes.
+
+...
+
+[Data](articles/1b596b2f.json)
+
+[Extended Data](ext_articles/1b596b2f.ext.json)
 
 ---
 
@@ -217,6 +323,42 @@ This regulation will come into effect from April 1, 2026, and is aimed at ensuri
 
 ---
 
+### Weather today
+
+*2025-10-02 07:57:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අද-කලගණය/101-680601) · `si`
+
+The Meteorology Department says that at least in many parts of the island to the Met Department, however, at least due to thundershowers.
+
+According to the Department, there is a rainy weather in many parts of the island.
+
+From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds are about 30-40 times.
+
+◼️
+
+[Data](articles/a347c4c4.json)
+
+[Extended Data](ext_articles/a347c4c4.ext.json)
+
+---
+
+### Weather today
+
+*2025-10-02 07:57:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අද-කලගණය/1-680601) · `si`
+
+The Meteorology Department says that at least in many parts of the island to the Met Department, however, at least due to thundershowers.
+
+According to the Department, there is a rainy weather in many parts of the island.
+
+From the North, North-Central, North-Western and Central provinces, in the North, North-Central, North Western and Central provinces.. Strong winds are about 30-40 times.
+
+◼️
+
+[Data](articles/d9525681.json)
+
+[Extended Data](ext_articles/d9525681.ext.json)
+
+---
+
 ### No More Free Sili Sili Bags: Sri Lanka Ends Free Distribution
 
 *2025-10-02 07:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/no-more-free-sili-sili-bags-sri-lanka-ends-free-distribution) · `en`
@@ -256,6 +398,32 @@ These specifications aim to ensure maximum protection in the event of a collisio
 [Data](articles/d2ec9476.json)
 
 [Extended Data](ext_articles/d2ec9476.ext.json)
+
+---
+
+### Detention of 'Tynanger' and interrogation
+
+*2025-10-02 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215241) · `si`
+
+The Alleran Narojon, a member of the Colombo Crimes Division, has been detained in the Colombo Crimes Division, an organized criminal group, who was arrested in Dubai and 'Tynkkar'.
+
+The suspect was retained for 24 hours to 24 hours (03).
+
+The suspect was arrested in a mission of the Sri Lanka Police, State Intelligence and Dubai Police in the United Arab Emirates.
+
+Later, after he was brought to the Katunayake Airport, Airport Criminal Investigations were arrested and handed over to the Peliyagoda Police Station.
+
+Accordingly, the suspect was produced before the Aluthkade Magistrate's Court yesterday, the police said that the court granted permission to be detained in the Colombo Crimes Division.
+
+The suspect is a 36 year old resident of Colombo 15 and is a disciple of organized crime and drug dealer, Palani Shiran, Kochchikade, Kochchikade, Kochchikade.
+
+The police said that he had been carrying out firearms to suspicion of firearms in Peliyagoda last August.
+
+...
+
+[Data](articles/22615ded.json)
+
+[Extended Data](ext_articles/22615ded.ext.json)
 
 ---
 
@@ -299,6 +467,382 @@ Police confirmed  that the Wellawaya Magistrate’s Court will be briefed on th
 
 ---
 
+### World's famous Chinpenzy dead dies
+
+*2025-10-02 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215240) · `si`
+
+The world's famous expertise has passed away in the world's research and study on Chimpanzis.
+
+Foreign media reports that she has passed away while traveling in California Prefecture in the United States.
+
+Many of the investigations have been revealed by the inquiry into the connection between the chimpansees and people and to change the previous ideologies.
+
+◼️
+
+[Data](articles/e06968b0.json)
+
+[Extended Data](ext_articles/e06968b0.ext.json)
+
+---
+
+### DSI Samson Group strengthens leadership with 14-member team
+
+*2025-10-02 07:24:32* · [`dailyftlk`](https://www.ft.lk/business/DSI-Samson-Group-strengthens-leadership-with-14-member-team/34-782487) · `en`
+
+Standing, from left: Asha Dissanayake, Lakmal Dharmarathna, Jagath Vithanachchi, Renuka Bandara, Pradeep Samaratunga, Waruni De Silva, Nuwan Kulasooriya, Chaminda Sumanaratne
+
+Seated, from left: Priyantha Abeygunawardhane, Arunodhani Wikramasinghe, Dayananda Abeythilake, Sarath Weliwita, Bhathiya Amarakoon, and Rohan Somawansa
+
+DSI Samson Group Ltd., has appointed eight new Board members (now a total of 14) across its subsidiaries as part of its group-wide succession plan.
+
+The new appointees will join the ranks of current DSI Samson Group Subsidiary leadership – Sarath Weliwita, Dayananda Abeythilake, Rohan Somawansa, Bhathiya Amarakoon, Priyantha Abeygunawardhane and Arunodhani Wikramasinghe, reaffirming DSI’s commitment to a sharper business focus across its diverse portfolio.
+
+The latest appointments are part of the group’s long-term succession planning.
+
+...
+
+[Data](articles/68015777.json)
+
+[Extended Data](ext_articles/68015777.ext.json)
+
+---
+
+### Trailblazing CA Sri Lankans shine at SAFA Women Leadership Awards 2025
+
+*2025-10-02 07:23:07* · [`dailyftlk`](https://www.ft.lk/business/Trailblazing-CA-Sri-Lankans-shine-at-SAFA-Women-Leadership-Awards-2025/34-782486) · `en`
+
+CA Sri Lanka student Dinali Jayasinghe receiving her award at the SAFA Women Leadership Awards Ceremony in Colombo
+
+CA Sri Lanka member Pyumi Sumanasekara receiving her SAFA Women Leadership Award
+
+Two exceptional women from the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) have won top honours at the prestigious SAFA Women Leadership Awards, a regional platform that celebrates excellence, leadership, and impact among women in the accounting profession across South Asia.
+
+CA Sri Lanka member, Pyumi Sumanasekara, was honoured with the “ESG Visionary Woman Award” while CA Student Dinali Jayasinghe won the “Rising Woman Student Award – CA” at a grand event held at Cinnamon Life.
+
+Out of seven competitive categories open to SAFA member countries, including India, Pakistan, Bangladesh, Nepal, the Maldives, and Sri Lanka, Sumanasekara, and Jayasinghe emerged victorious, showcasing the remarkable talent and leadership nurtured within CA Sri Lanka fraternity.
+
+...
+
+[Data](articles/0a24077a.json)
+
+[Extended Data](ext_articles/0a24077a.ext.json)
+
+---
+
+### OSC wins Gold at International ARC Awards in New York
+
+*2025-10-02 07:21:54* · [`dailyftlk`](https://www.ft.lk/business/OSC-wins-Gold-at-International-ARC-Awards-in-New-York/34-782485) · `en`
+
+The Overseas School of Colombo (OSC) has once again achieved international acclaim, winning Gold at the prestigious International ARC Awards in New York for its 2023/24 Annual Report, Timeless Dedication: Celebrating the Faces Behind Our Progress.
+
+“This triumph is not just about an award, but a reflection of OSC’s philosophy, of who we are: a community rooted in trust and openness, where every individual is part of the story, striving for excellence in all we do, and carrying the Gecko spirit from Colombo to the world stage with pride,” OSC’s Head of School Nel Capadona, captured the essence of the Gecko ethos: a spirit embodied daily by every teacher, student, staff member, and parent who shapes OSC’s enduring legacy.
+
+This marks back-to-back Gold victories (2024/2025), following a Silver in 2022, making OSC the only IB World School globally – and the only Sri Lankan educational institution ever – to triumph at the ARCs.
+
+...
+
+[Data](articles/c5b46450.json)
+
+[Extended Data](ext_articles/c5b46450.ext.json)
+
+---
+
+### PRISL Awards 2025 applications open till 10 Oct.
+
+*2025-10-02 07:21:38* · [`dailyftlk`](https://www.ft.lk/business/PRISL-Awards-2025-applications-open-till-10-Oct/34-782484) · `en`
+
+The Plastics and Rubber Institute of Sri Lanka (PRISL) has announced the extension of the deadline to apply for the PRISL Awards 2025, to 10 October. The extension comes in response to strong interest from across the industry and aims to give more organisations and individuals the opportunity to showcase their achievements and gain national recognition.
+
+The eagerly anticipated PRISL Awards Night will be held on 25 November 2025 at BMICH, reinforcing its status as a premier event for the industry. The evening will bring together industry leaders, policymakers, academics and innovators to celebrate excellence and inspire the next chapter of growth for the sector. Applicants are encouraged to take advantage of the extended deadline and submit their entries by 10 October 2025.
+
+...
+
+[Data](articles/15524764.json)
+
+[Extended Data](ext_articles/15524764.ext.json)
+
+---
+
+### Top Sri Lanka food and beverages companies participate at Saudi Foodex – 2025
+
+*2025-10-02 07:21:21* · [`dailyftlk`](https://www.ft.lk/business/Top-Sri-Lanka-food-and-beveragescompanies-participateat-Saudi-Foodex-2025/34-782483) · `en`
+
+Sri Lanka Embassy in Riyadh facilitated 15 popular Sri Lankan food and beverages sector companies to participate at the 12th edition of Saudi Foodex – 2025 in collaboration with the Sri Lanka Export Development Board (EDB) and Sri Lanka Tea Board (SLTB).
+
+The Foodex was held from 21 to 24 September 2025 at the International Convention & Exhibition Center in Riyadh.
+
+...
+
+[Data](articles/67bb7146.json)
+
+[Extended Data](ext_articles/67bb7146.ext.json)
+
+---
+
+### Japanese tech corporates seek to recruit Sri Lankan IT students
+
+*2025-10-02 07:20:12* · [`dailyftlk`](https://www.ft.lk/business/Japanese-tech-corporates-seek-to-recruit-Sri-Lankan-IT-students/34-782482) · `en`
+
+Representatives from a reputed Japanese IT corporate recently visited South Asia’s only Japanese IT University based in Sri Lanka, Lanka Nippon BizTech Institute (LNBTI) with the objective of exploring recruitment opportunities for talented graduates.
+
+The visit underscores LNBTI’s growing reputation as a hub for producing globally employable IT professionals equipped with both technical expertise and Japanese language proficiency right in Sri Lanka.
+
+During their visit, the delegation held comprehensive discussions with the institute’s leadership, including Vice Chancellor Prof. Ananda Kumara, Directors Saman Kumara and Ravindra Perera, Head of IT Department Bashini Wijewickrama, and Japanese Language Senior Lecturer and Coordinator of Career Development Hub Dr. Manjula Wanninayaka.
+
+...
+
+[Data](articles/9f67c333.json)
+
+[Extended Data](ext_articles/9f67c333.ext.json)
+
+---
+
+### RMIT Sri Lanka Innovation Hub to boost R&D commercialisation
+
+*2025-10-02 07:19:06* · [`dailyftlk`](https://www.ft.lk/business/RMIT-Sri-Lanka-Innovation-Hub-to-boost-R-D-commercialisation/34-782481) · `en`
+
+Senior Additional Secretary to the President Russell Aponso (left) with RMIT Deputy Vice-Chancellor (Research and Innovation) Prof. Calum Drummond after their meeting at the Presidential Secretariat
+
+The Royal Melbourne Institute of Technology (RMIT) is in high-level talks to establish an innovation hub in Sri Lanka that will connect universities, industry, and Government institutions with international research expertise, the President’s Media Division (PMD) said.
+
+At a meeting held at the Presidential Secretariat on  Tuesday, RMIT officials and senior representatives of the Secretariat discussed the initiative, which is being coordinated through the National Initiative for Research and Development Commercialisation (NIRDC).
+
+According to the PMD, the proposed RMIT Sri Lanka Innovation Hub will strengthen joint doctoral programs, align research with national priorities, and expand opportunities for commercialising innovation.
+
+...
+
+[Data](articles/8af61d85.json)
+
+[Extended Data](ext_articles/8af61d85.ext.json)
+
+---
+
+### New Vithanakande reinforces supremacy with Guinness World Record for Most Expensive Tea
+
+*2025-10-02 07:17:55* · [`dailyftlk`](https://www.ft.lk/business/New-Vithanakande-reinforces-supremacy-with-Guinness-World-Record-for-Most-Expensive-Tea/34-782480) · `en`
+
+New Vithanakande Tea Factory CEO Pubudu Gunasekara accorded special welcome on arrival at the Bandaranaike International Airport from Japan where Guinness World Record for Most Expensive Tea was achieved – Pic by T.K.G. Kapila
+
+Sri Lanka’s reputation as the home of the world’s finest teas was further cemented when the New Vithanakande Tea Factory, representing the Sabaragamuwa region, set a new Guinness World Record for producing the most valuable tea ever sold.
+
+At the Sri Lanka Charity Tea Auction held on 26 September in Osaka, Japan, the factory’s premium black tea fetched a staggering 125,000 Japanese Yen (around Rs. 255,000) per kilogram, the highest price ever recorded for tea globally. The purchase was made by Janat Paris International Company, a renowned French tea brand.
+
+...
+
+[Data](articles/8a45590a.json)
+
+[Extended Data](ext_articles/8a45590a.ext.json)
+
+---
+
+### Sri Lanka issues first investor residence visa
+
+*2025-10-02 07:16:33* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-issues-first-investor-residence-visa/34-782479) · `en`
+
+Public Security and Parliamentary Affairs Minister Ananda Wijepala (left) presents Sri Lanka’s first Individual Investor Category resident visa to Dr. Prey Drechsel of Germany
+
+The Government yesterday issued Sri Lanka’s first residence visa under the Individual Investor Category, introduced through the amended Immigration and Emigration Regulations published in November 2023.
+
+The visa was awarded to German national Dr. Prey Drechsel by Public Security and Parliamentary Affairs Minister Ananda Wijepala.
+
+The scheme allows foreign nationals to qualify for a five-year visa with an investment of $ 100,000, or a 10-year visa with $ 200,000. Investments must be deposited in a Visa Programme Foreign Currency Account (VPFCA) at a licensed Sri Lankan bank.
+
+The initiative is intended to attract foreign capital by linking long-term residency to direct investment in the country.
+
+◼️
+
+[Data](articles/8833cc4d.json)
+
+[Extended Data](ext_articles/8833cc4d.ext.json)
+
+---
+
+### Janek Jayasekara takes helm at International Distillers as new CEO
+
+*2025-10-02 07:15:33* · [`dailyftlk`](https://www.ft.lk/business/Janek-Jayasekara-takes-helm-at-International-Distillers-as-new-CEO/34-782478) · `en`
+
+International Distillers Ltd., (IDL) yesterday announced the appointment of Janek Jayasekara as its Chief Executive Officer, effective 1 October 2025. The appointment marks a significant milestone in the company’s ongoing transformation as it strengthens its position both domestically and internationally.
+
+Jayasekara succeeds Dr. Kemal de Soysa, who completed a distinguished tenure leading the organisation and will continue to contribute his expertise as a member of IDL’s Board of Directors.
+
+...
+
+[Data](articles/4bb17829.json)
+
+[Extended Data](ext_articles/4bb17829.ext.json)
+
+---
+
+### Sri Lanka Food Processors Association elects Executive Committee for 2026/2027
+
+*2025-10-02 07:14:32* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Food-Processors-Association-elects-Executive-Committee-for-2026-2027/34-782477) · `en`
+
+The newly appointed Executive Committee for 2026/2027. From left: Treasurer Sanjeewa De Silva, Secretary Deepal De Alwis, President Aruna Senanayake, President-elect Nadishan Guruge, and Immediate Past President Thusith Wijesinghe
+
+From left: UN FAO CRICULAR Project Manager Sri Lanka Camelia Andria Bucatariu, SLFPA Immediate Past President Thusith Wijesinghe, Immediate Past Secretary Hemantha Balasuriya, Past Presidents Delano Dias and Malith De Silva, and President Aruna Senanayake
+
+The Sri Lanka Food Processors Association (SLFPA) successfully held its 28th Annual General Meeting (AGM) on 24 September at The Kingsbury Hotel, Colombo, with the participation of its members and industry stakeholders.
+
+Established in 1997 as an advocacy group, SLFPA today represents over 162 member companies, ranging from large multinationals to small and medium-sized enterprises (SMEs), all dedicated to advancing Sri Lanka’s food and beverage processing industry.
+
+...
+
+[Data](articles/0900c9d1.json)
+
+[Extended Data](ext_articles/0900c9d1.ext.json)
+
+---
+
+### Anura, Mahinda, Premadasa: Who is progressive, who isn’t and why?
+
+*2025-10-02 07:06:36* · [`dailyftlk`](https://www.ft.lk/columns/Anura-Mahinda-Premadasa-Who-is-progressive-who-isn-t-and-why/4-782473) · `en`
+
+Mannar: Multiethnic, multilingual, multireligious protests against ecological and livelihood destruction
+
+Two former Navy chiefs whose wartime background was in naval intelligence, are incarcerated. The Government insists that it doesn’t decide to arrest anyone and that any such decisions are not taken by the political authorities but have been and are being taken quite independently by state authorities, i.e., state machinery that has been newly rendered independent by the NPP government.
+
+If so, isn’t it a little odd that President Anura Kumara Dissanayake made the following announcement to an audience of Sri Lankans in New York City?
+
+‘…President Anura Kumara Dissanayake said that investigations into the 2019 Easter Sunday bomb attacks are continuing and advancing and that one or two former Army officials are expected to be arrested over the incident…
+
+…”Several former military officials are to be arrested soon and investigations are both continuing and advancing.”…’
+
+...
+
+[Data](articles/41a557f7.json)
+
+[Extended Data](ext_articles/41a557f7.ext.json)
+
+---
+
+### Deals with regional countries including Sri Lanka decalk to Indian Rupees
+
+*2025-10-02 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215239) · `si`
+
+The Indian Central Bank has decided to use the Indian Rupees in trading dealings with Sri Lanka and regional countries.
+
+Indian Rupees have been used to use the Indian Rupees in trading dealings with Sri Lanka, Nepal and Bhutan countries.
+
+In addition, it has been decided to provide loans to the relevant countries by the Indian rupees.
+
+The Indian Central Bank has said that the objectives have been taken to reduce the dependence on the US dollar in the region.
+
+The Central Bank of India has also decided to introduce an official exchange rate for its priority partners.
+
+◼️
+
+[Data](articles/42e6f8b9.json)
+
+[Extended Data](ext_articles/42e6f8b9.ext.json)
+
+---
+
+### CMA Sri Lanka Budget proposals for promotion and development of MSME sector
+
+*2025-10-02 06:58:16* · [`dailyftlk`](https://www.ft.lk/columns/CMA-Sri-Lanka-Budget-proposals-for-promotion-and-development-of-MSME-sector/4-782471) · `en`
+
+In Sri Lanka, MSMEs comprise more than 75% of enterprises and account for 52% of GDP, 45% of employment, and a meagre 5% in exports
+
+The CMA Sri Lanka SME Development Committee comprises members from professional bodies, commercial banks, chambers of commerce and industry, and industry experts who have been meeting since April 2020 to find solutions and support the SME sector. One of the main recommendations made was to revive the SME Credit Guarantee Institution which was appearing as an approved project in the ADB project proposals since 2019 which was approved by the Cabinet of Ministers and was launched in June this year.
+
+The annual conduct of the UN MSME day conference 2021 with the latest one on 27 June 2025 with the participation of 11 commercial banks and two finance companies with their SME customers totalling 250 with a competition to judge the best SME projects nominated by the banks.
+
+...
+
+[Data](articles/ee7c6f66.json)
+
+[Extended Data](ext_articles/ee7c6f66.ext.json)
+
+---
+
+### Lotus Tower sees revenue increase under new management
+
+*2025-10-02 06:54:40* · [`dailyftlk`](https://www.ft.lk/business/Lotus-Tower-sees-revenue-increase-under-new-management/34-782469) · `en`
+
+The Colombo Lotus Tower Management Company (CLTMC) said that it has increased revenue by 31% since it took over administration.
+
+This was disclosed by the CLTMC Chairman Shirantha Peries and Chief Executive Officer (CEO) Dr. Chamaru de Alwis, at a press briefing on Tuesday evening.
+
+“Since we took over the administration exactly a year ago, the CLTMC has demonstrated remarkable financial progress under the new management,” CLTMC Chairman Shirantha Peries, addressing a press briefing on Tuesday which was attended by CEO Dr. Chamaru de Alwis.
+
+...
+
+[Data](articles/687a4afd.json)
+
+[Extended Data](ext_articles/687a4afd.ext.json)
+
+---
+
+### Govt. to fast-track SL’s consular and immigration services
+
+*2025-10-02 06:51:32* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-fast-track-SL-s-consular-and-immigration-services/56-782468) · `en`
+
+The Government is to fast-track passport processing for overseas applicants, more efficient handling of dual citizenship requests, and expanding digitalisation to streamline administrative procedures.
+
+This was discussed at a meeting held by Foreign Affairs, Foreign Employment and Tourism Acting Minister Arun Hemachandra at a high-level joint meeting bringing together senior officials of the Ministry’s Consular Division and the Department of Immigration and Emigration to review and enhance key aspects of Sri Lanka’s consular and immigration services.
+
+The meeting, was attended by Additional Secretaries of the Consular and Foreign Employment Divisions, the Director General of Consular Affairs, the Controller General of Immigration and Emigration, senior Directors from both Departments, and the Chairman and Additional General Manager of the Sri Lanka Bureau of Foreign Employment (SLBFE).
+
+...
+
+[Data](articles/2f378051.json)
+
+---
+
+### Rs. 1 b China-funded ward complex opens at Dharga Town Hospital
+
+*2025-10-02 06:51:16* · [`dailyftlk`](https://www.ft.lk/news/Rs-1-b-China-funded-ward-complex-opens-at-Dharga-Town-Hospital/56-782467) · `en`
+
+Health Minister Dr. Nalinda Jayatissa (second from left) at the inauguration of the new ward complex at Dharga Town Hospital
+
+A new three-storey ward complex costing Rs. 1 billion has been opened at the Dharga Town District Hospital, with Health and Media Minister Dr. Nalinda Jayatissa attending the ceremony.
+
+The project is part of a Chinese-funded initiative to upgrade 13 hospitals across the country.
+
+The 38,400-square-foot facility includes a 96-bed maternal and paediatric ward, a four-bed ICU, general wards, and an outpatient department. The Health Ministry has set aside an additional Rs. 50 million to procure essential medical equipment.
+
+According to Dr. Jayatissa, the facility addresses a longstanding requirement in the area and will help reduce pressure on the Kalutara and Beruwala hospitals. Staffing will be expanded gradually, with more doctors, nurses, and support personnel to be deployed.
+
+...
+
+[Data](articles/cf41e6c3.json)
+
+---
+
+### Weapons cache uncovered near Weheragala reservoir
+
+*2025-10-02 06:50:24* · [`dailyftlk`](https://www.ft.lk/news/Weapons-cache-uncovered-near-Weheragala-reservoir/56-782466) · `en`
+
+Police in Kataragama have begun an inquiry following the discovery of a cache of weapons close to the sluice gate of the Weheragala reservoir.
+
+The find was made after Army personnel alerted Police when falling water levels in the reservoir exposed the items. Among the recovered materials were 74 T-56 rifle magazines, 36 magazines for light machine guns, T-81 ammunition, two ammunition boxes, corroded bullets, and assorted weapon components.
+
+The reservoir is situated at the junction of the Kataragama, Lunugamvehera, and Gonaganara Police Divisions. Officers from Kataragama Police visited the site and subsequently reported the recovery to the Tissamaharama Magistrate’s Court.
+
+◼️
+
+[Data](articles/beda3129.json)
+
+---
+
+### Keheliya asset case set for pre-trial conference in October
+
+*2025-10-02 06:49:28* · [`dailyftlk`](https://www.ft.lk/news/Keheliya-asset-case-set-for-pre-trial-conference-in-October/56-782465) · `en`
+
+The Colombo High Court has fixed 15 October for the next pre-trial conference in the case against former Minister Keheliya Rambukwella and his family over alleged unlawful acquisition of assets worth about Rs. 97 million. The case was filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) under the Prevention of Money Laundering Act.
+
+Rambukwella, his wife, three daughters, and son-in-law appeared before High Court Judge Mohamed Mihal when the matter was taken up yesterday.
+
+President’s Counsel Kalinga Indatissa, representing Rambukwella, told the Court that 12 documents required by the defence had not yet been provided. He argued that indictments had been filed without handing over these papers, which he described as an irregular move.
+
+CIABOC Assistant Director General Subhashini Siriwardena said efforts were being made to trace and release the requested documents, though some were tied to ongoing inquiries.
+
+...
+
+[Data](articles/68bcbeca.json)
+
+---
+
 ### Conservationist Dame Jane Goodall dies aged 91
 
 *2025-10-02 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113132/conservationist-dame-jane-goodall-dies-aged-91) · `en`
@@ -320,6 +864,26 @@ Greenpeace said it was “heartbroken” by her death, calling her “one of the
 [Data](articles/889763d5.json)
 
 [Extended Data](ext_articles/889763d5.ext.json)
+
+---
+
+### ස්වාධීන අභිචෝදක කාර්යාලයක් ස්ථාපිත කිරීමට විද්වත් කමිටුවක්
+
+*2025-10-02 06:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215238) · `si`
+
+මෙරට යුක්තිය පසඳලීමේ ක්‍රියාවලිය ශක්තිමත් කිරීමේ එක් පියවරක් ලෙස ස්වාධීන අභිචෝදක කාර්යාලයක් ස්ථාපිත කිරීම සඳහා විද්වත් කමිටුවක් පත්කිරීමට රජය පියවර ගෙන තිබේ.
+
+එම කමිටුවේ සාමාජිකයින් අතර සාකච්ඡාවක් අධිකරණ අමාත්‍ය හර්ෂණ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (01) පැවති බව අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය සඳහන් කළේය.
+
+ස්වාධීන අභිචෝදක කාර්යාලයක් ස්ථාපිත කිරීමට අදාළව මුලික සැලසුම් සකස් කිරීම පිළිබඳව මෙහිදි සාකච්ඡා වී තිබේ.
+
+එහි මුලික සංකල්ප පත්‍රිකාව කෙටුම්පත් කිරීමෙන් අනතුරුව මහජනතාවගේ සහ සිවිල් සංවිධානවල අදහස් ලබාගැනීමට නියමිත බව අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය සඳහන් කළේය.
+
+මෙම සාකච්ඡාවට ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ජනාධිපති නීතිඥ යසන්ත කෝදාගොඩ, නීතිපති ජනාධිපති නීතිඥ පාරින්ද රණසිංහ, ශ්‍රී ලංකා නීතිඥ සංගමයේ සභාපති නීතිඥ රජිව් අමරසූරිය ඇතුළු පිරිසක් එක්ව සිටියේය.
+
+◼️
+
+[Data](articles/30ffeaa0.json)
 
 ---
 
@@ -1428,575 +1992,5 @@ The police say that the accident had been identified as the children of the chil
 [Data](articles/5e6e167d.json)
 
 [Extended Data](ext_articles/5e6e167d.ext.json)
-
----
-
-### Little son of the World Children's Day
-
-*2025-10-01 18:17:04* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-ළම-දනය-ද-පච-පත-ළඳට-බල/101-680590) · `si`
-
-Navagamuwa Police said that the World Children's Day was celebrated in the back of the house.
-
-The deceased has been identified as a resident of Semaraya, Niliyan Hettiarachchi (4).
-
-Despite this well on the back of the nickest, the involvement of the children of the nests, the busy doubts that the adult child had gone into the well and fell into it.
-
-The police say that the accident had been identified as the children of the children's day to attend the presence of the Children's Day Cricket and acquired gifts.
-
-◼️
-
-[Data](articles/5f0ee49f.json)
-
-[Extended Data](ext_articles/5f0ee49f.ext.json)
-
----
-
-### Namal Slams CID Over ‘Politically Driven’ Thajudeen Case
-
-*2025-10-01 18:15:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/namal-slams-cid-over-%e2%80%98politically-driven%e2%80%99-thajudeen-case) · `en`
-
-...
-
-[Data](articles/e1f8b9ce.json)
-
-[Extended Data](ext_articles/e1f8b9ce.ext.json)
-
----
-
-### Business chambers file petition challenging VAT collection without refund system and abolition of SVAT
-
-*2025-10-01 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113116/business-chambers-file-petition-challenging-vat-collection-without-refund-system-and-abolition-of-svat) · `en`
-
-The Free Trade Zone Manufacturers’ Association (FTZMA), the National Chamber of Commerce of Sri Lanka (NCCSL) and the Sri Lanka Chamber of Small and Medium Industries have filed a writ application before the Court of Appeal challenging the decision by the Inland Revenue Department (IRD) to commence collecting Value Added Tax (VAT) from today (October 1) without first operationalising the legally mandated automated refund mechanism.
-
-The Petitioners—representing exporters, deemed exporters, sub-contractors to exporters, service providers in the export supply chain, SMEs, and the broader business community—state that collecting VAT from export-related businesses without a proper functioning refund system, and without publishing the conditions of the proposed risk-based refund scheme in the Gazette, is unlawful, unreasonable, and a violation of constitutional rights.
-
-...
-
-[Data](articles/43a15abe.json)
-
-[Extended Data](ext_articles/43a15abe.ext.json)
-
----
-
-### Theft in a bank money laundering machine - observation!
-
-*2025-10-01 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226622) · `ta`
-
-In a bank's cash deposit machine, a young man who came to help the woman to deposit a woman's money to a bank account, has taken the money in Kilinochchi.
-
-A woman from Ponnagar village in Kilinochchi has gone to a bank to pay her home electricity bills.
-
-The woman, who did not know how to deposit money in the cash deposit machine, has asked a young man standing nearby to deposit electricity bills.
-
-The young man has given his home electric account number and six thousand rupees of money to deposit the money.
-
-The young man acts as if she was helping the woman, pretending to deposit money for the account number she gave, and deposited the money for her bank account.
-
-Then, he gave the woman a money deposit from the nearby garbage basket and left the place.
-
-When the woman returned home, when she showed the receipt to her son, it was revealed that it was not a debit to deposit into the account.
-
-...
-
-[Data](articles/7e2e17e8.json)
-
-[Extended Data](ext_articles/7e2e17e8.ext.json)
-
----
-
-### Tomorrow's decision on bus fare revision
-
-*2025-10-01 18:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேருந்து-கட்டணத்-திருத்தம்-குறித்து-நாளை-தீர்மானம்/175-365596) · `ta`
-
-Transport Minister Bimal Ratnayake said the government would release the bus fare by the recent fuel prices.
-
-He told the media that the NTC would calculate the bus fares according to a certain criterion and whether the bus fares could be reduced according to a certain criterion.
-
-“I told NTC to see if the bus fare could be reduced in accordance with fuel prices. They will calculate it today and will tell you if they can reduce bus fares, ”he said.
-
-◼️
-
-[Data](articles/42c879e8.json)
-
-[Extended Data](ext_articles/42c879e8.ext.json)
-
----
-
-### Police Recover Over 200 T-56 Magazines From Reservoir
-
-*2025-10-01 18:09:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-recover-over-200-t-56-magazines-from-reservoir) · `en`
-
-COLOMBO (News 1st); Police have recovered another large cache of empty weapon magazines from the Veheragala Reservoir, continuing a major search operation launched yesterday based on military intelligence.According to police, the latest discovery includes:214 empty T-56 magazines38 LMG drum magazines11 MPMG 200-round magazines9 MPMG 100-round magazines6 T-81 magazinesOne 100-round drum for 12.7mm anti-aircraft gunsThe search operation, which began yesterday afternoon with the assistance of divers, was initiated following information provided by an Army Intelligence officer.Police have launched an investigation to identify those responsible for dumping the magazines into the reservoir. The case will be reported to the Wellawaya Magistrate’s Court, according to a statement from the Police Media Division.
-
-◼️
-
-[Data](articles/72a725be.json)
-
-[Extended Data](ext_articles/72a725be.ext.json)
-
----
-
-### Rescue of explosive bombs at Mohamalai
-
-*2025-10-01 18:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முகமாலையில்-வெடி-குண்டுகள்-மீட்பு/175-365595) · `ta`
-
-31 bombs have been recovered at the North of Mohamalai on Wednesday (01) at 2:30 pm
-
-In the northern part of Mohamalai, a family member has been digging his house while cleaning his house.
-
-Since then, the Kilinochchi court has been working on a safe recovery of bombs.
-
-◼️
-
-[Data](articles/98e7f3bf.json)
-
-[Extended Data](ext_articles/98e7f3bf.ext.json)
-
----
-
-### Gaza flotilla says Israeli vessels intimidated its boats as it nears blockade
-
-*2025-10-01 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/113115/gaza-flotilla-says-israeli-vessels-intimidated-its-boats-as-it-nears-blockade) · `en`
-
-The international flotilla trying to deliver aid to Gaza said Israeli vessels approached some of its boats and engaged in “dangerous and intimidatory manoeuvres” on Wednesday as it neared the war-stricken strip.
-
-The mission’s organisers said two Israeli “warships” had approached fast and encircled two of the flotilla’s boats, Alma and Sirius. All navigation and communication devices went down in what one organiser on board, Thiago Ávila, described in a press conference as a “cyber attack”.
-
-The Global Sumud Flotilla consists of more than 40 civilian boats carrying about 500 people, among them parliamentarians, lawyers and activists including Swedish climate campaigner Greta Thunberg.
-
-The mission is the latest sea-borne attempt to break Israel’s blockade of the Palestinian enclave to deliver food and medicine. It is currently within 120 nautical miles of Gaza’s coast, inside an area that Israel is policing to stop any boats approaching.
-
-...
-
-[Data](articles/a77af4ad.json)
-
-[Extended Data](ext_articles/a77af4ad.ext.json)
-
----
-
-### Police Freeze Properties of Notorious Drug Queenpin
-
-*2025-10-01 17:59:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/police-freeze-properties-of-notorious-drug-queenpin) · `en`
-
-COLOMBO (News 1st); The Illegal Assets Investigation Division has frozen three buildings in Ferguson Road, Grandpass, allegedly owned by Vindani Priyadarshika, also known as “Thotalaga Poddi Akka,” a suspected drug trafficker.Police said the action was taken following an investigation conducted under the directive of the Inspector General of Police (IGP). The properties are believed to have been acquired using proceeds from large-scale narcotics trafficking.Authorities further revealed that the suspect is currently in hiding, and efforts are underway to locate and apprehend her.
-
-◼️
-
-[Data](articles/aafa7933.json)
-
-[Extended Data](ext_articles/aafa7933.ext.json)
-
----
-
-### Underworld Figure ‘Tinker’ Arrested After Dubai Deportation
-
-*2025-10-01 17:55:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/underworld-figure-%e2%80%98tinker%e2%80%99-arrested-after-dubai-deportation) · `en`
-
-...
-
-[Data](articles/a50d5799.json)
-
-[Extended Data](ext_articles/a50d5799.ext.json)
-
----
-
-### A chance to join the Sri Lanka Air Force
-
-*2025-10-01 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215227) · `si`
-
-The Sri Lanka Air Force has notified the recruitment of amateur airmen and air women.
-
-Accordingly, the Sri Lanka Air Force will recruit permanent / sectoral aircraft.
-
-The Sri Lanka Air Force has been informed of announcement, the deadline to accept the applications has been extended until the 15th of October.
-
-◼️
-
-[Data](articles/ce9e5b8f.json)
-
-[Extended Data](ext_articles/ce9e5b8f.ext.json)
-
----
-
-### Shocking husband in sexual intercourse
-
-*2025-10-01 17:48:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடலுறவில்-மனைவியின்-உள்ளாடையை-பார்த்து-ஷாக்-ஆன-கணவன்/175-365594) · `ta`
-
-In Idukki district, Achuthan and his wife, Kesavi, operated more than 10 snacks restaurants within Town and lived as rich with Idli-Borota-threts.
-
-The 'separate mouse' for their restaurants was formed. Thus, their jungle is the money rainfall. But, like the rhetoric of "money lacking in a place, the problem, the problem," the mood of Achuthan began to stumble.
-
-Gopalakrishnan, who rented near his house, entered the house.. His wife, Meera, used Kesavi as 'aka-Thanga'.
-
-When Kesavi went home with her children on school holidays, Meera cooked food for Achuthan, who was alone.
-
-"Sister go to town and take a week to arrive. Do not eat in the store until then, ”he said.
-
-One day, Meera, who brought the food, sat down at home and said, "I liked you ... You look beautiful ... ". While the tense Meera tapped her hand, Achuthan drove the 'romantic tasam', "Tell me when he comes up with dinner."
-
-...
-
-[Data](articles/86710314.json)
-
-[Extended Data](ext_articles/86710314.ext.json)
-
----
-
-### Vijayadasamy Pooja at Navalapitiya Municipal Library
-
-*2025-10-01 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226618) · `ta`
-
-The Navaratri Vijayadasamy Pooja was held on Wednesday (01) at the Library Complex organized by the Public Library of Nawalapitiya.
-
-In the event of the event, the Nawalapitiya Municipal Council, Deputy Chairman, Members and Municipal Council staff made good arrangements.
-
-◼️
-
-[Data](articles/c1db163c.json)
-
-[Extended Data](ext_articles/c1db163c.ext.json)
-
----
-
-### US Embassy Limits Updates Amid Washington Shutdown
-
-*2025-10-01 17:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/01/us-embassy-limits-updates-amid-washington-shutdown) · `en`
-
-COLOMBO (News 1st); The U.S. Embassy in Colombo & US Ambassador to Sri Lanka Julie Chung, announced that their respective official social media accounts will not be updated regularly during the ongoing U.S. federal government shutdown, except for urgent safety and security information.In a statement, the Embassy clarified that scheduled passport and visa services in the United States and at U.S. embassies and consulates worldwide will continue as circumstances permit, despite the lapse in appropriations.The Embassy advised the public to visit travel.state.gov for the latest information on consular services and operating status.The announcement follows the U.S. government shutdown triggered by a congressional deadlock over funding measures, marking the first such lapse in six years.
-
-◼️
-
-[Data](articles/506de2a0.json)
-
-[Extended Data](ext_articles/506de2a0.ext.json)
-
----
-
-### Putin to India in December
-
-*2025-10-01 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215226) · `si`
-
-Sri Lanka's Vladimir Putin is to visit India in December, Indian media reports.
-
-According to Putin in India, it is said that the visit is largely done on December 5-6.
-
-In August, the Indian National Security Advisor was reported to visit India at Russian visit to India, but there was no official reference to the deadline.
-
-However, at Shanghai Cooperation Organization in China, the Prime Minister Modiy and the Russian president meet.
-
-The two leaders were traveling in Putin's Limousine and was also in a conversation for an hour.
-
-India has protested against India by India, USA is a punishment tax on India.
-
-It is said that the visit of Russian President will be influenced by Indian-American bilateral tests.
-
-◼️
-
-[Data](articles/590a205b.json)
-
-[Extended Data](ext_articles/590a205b.ext.json)
-
----
-
-### Recovery of 10 hand grenades in confront
-
-*2025-10-01 17:30:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோதரையில்-10-கைக்குண்டுகள்-மீட்பு-நீதவான்-அதிரடி-உத்தரவு/175-365592) · `ta`
-
-Colombo Additional Magistrate Oshada Mikara Maharachchi Motarai on Wednesday (01) ordered the police to submit a report of a government analyst and submit a report by a government analyst.
-
-The order was issued in view of the facts presented by the Special Police Committee that the B Report was filed on the basis of confidential information received by the Terrorist Investigation Division.
-
-Police said that CCTV footage is being investigated to identify the suspects.
-
-Considering the proposed facts, the additional Magistrate, the additional Magistrate, ordered the government to obtain the report of the government analyst.
-
-◼️
-
-[Data](articles/3ed79b15.json)
-
-[Extended Data](ext_articles/3ed79b15.ext.json)
-
----
-
-### Sri Lanka Customs exceed revenue target by 37-pct  in September
-
-*2025-10-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-exceed-revenue-target-by-37-pct-in-september-242491/) · `en`
-
-ECONOMYNEXT – Revenue collected by Sri Lanka Customs jumped around 37 percent in September compared to the monthly target, the government data showed.
-
-Sri Lanka Customs has set a revenue target of 2,115 billion rupees for this year, 36.2 percent higher than last year’s 1,553 million rupees.
-
-The monthly target for September this year was 185 billion rupees, but the government has achieved 253.2 billion rupees, the official Customs data showed,
-
-The Customs has achieved 1,724 billion in revenue during the first nine months of this year compared to 1,116.1 billion rupees in the same period last year, showing a 54.5 percent growth in the collection.
-
-Customs also exceeded its revenue target by 16 percent in the first nine months of this year, the data showed.
-
-Sri Lanka Customs revenue jump is largely due to stronger enforcement, improved valuation practices, and a rebound in import volumes after years of contraction.
-
-...
-
-[Data](articles/6fccfbb7.json)
-
-[Extended Data](ext_articles/6fccfbb7.ext.json)
-
----
-
-### Sri Lanka Customs exceed revenue target by 37-pct  in September
-
-*2025-10-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-revenue-exceeds-37-percent-in-september-242491/) · `en`
-
-ECONOMYNEXT – Revenue collected by Sri Lanka Customs jumped around 37 percent in September compared to the monthly target, the government data showed.
-
-Sri Lanka Customs has set a revenue target of 2,115 billion rupees for this year, 36.2 percent higher than last year’s 1,553 million rupees.
-
-The monthly target for September this year was 185 billion rupees, but the government has achieved 253.2 billion rupees, the official Customs data showed,
-
-The Customs has achieved 1,724 billion in revenue during the first nine months of this year compared to 1,116.1 billion rupees in the same period last year, showing a 54.5 percent growth in the collection.
-
-Customs also exceeded its revenue target by 16 percent in the first nine months of this year, the data showed.
-
-Sri Lanka Customs revenue jump is largely due to stronger enforcement, improved valuation practices, and a rebound in import volumes after years of contraction.
-
-...
-
-[Data](articles/9e419e55.json)
-
-[Extended Data](ext_articles/9e419e55.ext.json)
-
----
-
-### Brain damage to a schoolgirl who is fed up with a swimming lake in Colombo; Father complains to police!
-
-*2025-10-01 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226616) · `ta`
-
-The father of an 8 -year -old schoolgirl has lodged a complaint at a school in Colombo against the Colombo Swimming Club.
-
-My son was attending a birthday party at the Colombo Swimming Association.
-
-We did not answer the questions asked by the doctors as to how much time the son was given and when the ambulance came.
-
-This is because the authorities of the Colombo Swimming Corporation did not provide us with the right information regarding the incident. They have no CCTV cameras.
-
-The negligence of the Colombo Swimming Association is responsible for the brain damage to my son.
-
-Therefore, the father said in the complaint that I would like to ask the police to conduct a proper investigation into the matter.
-
-◼️
-
-[Data](articles/949df499.json)
-
-[Extended Data](ext_articles/949df499.ext.json)
-
----
-
-### Teacher hospitalised after assault by student
-
-*2025-10-01 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/113114/teacher-hospitalised-after-assault-by-student) · `en`
-
-A teacher at a prominent school in Monaragala has been injured and hospitalised following an assault by a student.
-
-The incident occurred this morning (October 1), and it has been reported that the injured teacher is currently receiving inpatient treatment at the Monaragala District General Hospital.
-
-According to reports, the Grade 11 student allegedly assaulted the teacher after being questioned about bringing a mobile phone to school.
-
-◼️
-
-[Data](articles/f31c441f.json)
-
-[Extended Data](ext_articles/f31c441f.ext.json)
-
----
-
-### The case against the Mannar wind power towers
-
-*2025-10-01 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226617) · `ta`
-
-The Mannar police filed a case against those who were protesting against the construction of wind power towers that were brought into the city of Mannar last Friday night (26).
-
-Police have filed a case in the Mannar court as they have already been treated at the Mannar Hospital, who were injured in the attack by the police.
-
-The three men were produced before the Mannar court on Saturday and the magistrate ordered the three men to go on bail worth Rs 5 lakh each.
-
-In this case, the Mannar police filed a case in the Mannar court against 5 more persons.
-
-The police have filed a grown up against six persons who were protesting, including the leader of the Mannar Citizens Committee, Aruttanda Macas Adikal.
-
-The persons were present in court on Wednesday (1) via Attorney -at -Law P. Deniswaran. Other lawyers also expressed their support on behalf of the persons.
-
-The magistrate ordered the five suspects and each suspect to go on bail worth Rs 5 lakh each.
-
-...
-
-[Data](articles/13466703.json)
-
-[Extended Data](ext_articles/13466703.ext.json)
-
----
-
-### Bus fare cannot be reduced - Gemunu Wijeratne
-
-*2025-10-01 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226614) · `ta`
-
-The price of diesel is reduced by 6 rupees but the bus fare cannot be reduced. Gemunu Wijeratne, president of the All Ceylon Private Bus Owners Association, said that the government is making decisions to make private bus owners in crisis.
-
-He was speaking at a media briefing held at the All Ceylon Private Bus Owners Association in Colombo on Wednesday (01).
-
-All governments that have been in power since independence have considered the private bus industry as the second time.
-
-The prices of fuel have been reduced by midnight yesterday, according to the monthly fuel price.. In August, diesel prices were reduced by 6 rupees.
-
-Although the price of diesel has been reduced by 6 rupees, the bus fare cannot be reduced.
-
-◼️
-
-[Data](articles/2ba37868.json)
-
-[Extended Data](ext_articles/2ba37868.ext.json)
-
----
-
-### A committee appointment to explore the current state of the Tehiyakattai Resource Hospital
-
-*2025-10-01 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226613) · `ta`
-
-Health and Mass Media Minister Nalinda Jayatissa has issued a directive to Anil Jasinghe, Secretary to the Ministry of Health and Media, to submit a report on the relocation of the Medical Survey of the Tehiyakkanda Resource Hospital.
-
-Accordingly, the Secretary of the Ministry of Health and Mass has already taken steps to appoint a four -member committee.
-
-Deputy Director (Inquiry) of the Ministry of Health and Mass media. K. M. Sarathchandra Kumarawansa has been appointed co -chairs of the committee.
-
-Assistant Secretary of the Ministry (emergency tests). B.. B.. Jayawickrama, Inquiry Officer K. M.. D. L. Amaratunga includes this group.
-
-The current situation of the Tehiyakattai Resource Hospital has told the officials of the Committee appointed by the Secretary of the Mass Media Ministry to investigate the relevant issues and submit a report immediately.
-
-◼️
-
-[Data](articles/b84cecf9.json)
-
-[Extended Data](ext_articles/b84cecf9.ext.json)
-
----
-
-### Sri Lanka rupee stronger against dollar, bond yields up
-
-*2025-10-01 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-up-242506/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.47/53 to the US dollar on Wednesday, from 302.55/60 the previous day, while bond yields closed up, dealers said.
-
-A bond maturing on 15.12.2026 closed at 8.30/40 percent, up from 8.25/35 percent.
-
-A bond maturing on 15.12.2032 closed at 10.50/60 percent, up from 10.45/50 percent.. (Colombo/Oct1/2025)
-
-◼️
-
-[Data](articles/85efbe32.json)
-
-[Extended Data](ext_articles/85efbe32.ext.json)
-
----
-
-### 10 bombs found in Modernan summon 10 bombs
-
-*2025-10-01 17:12:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මදරන-හමව-බමබ-10ය-රස-පරකෂක-වරත-කඳවය/101-680586) · `si`
-
-Colombo Additional Magistrate Ozha Migara Maharachchi has ordered the Modara Police to see the government's skins have been abusive in the Municipal Council workplace.
-
-The order was issued after considering the procedures made by a special police team to have received information on information received by the Terrorist Investigation Division.
-
-The police said further court said that investigations are conducted through CCTV footage to detect suspects.
-
-Considering the submissions, the Additional Magistrate ordered the Government Analysting report to address the bombs.
-
-Police ordered the police to submit the investigation into the courts soon.
-
-◼️
-
-[Data](articles/6345456e.json)
-
-[Extended Data](ext_articles/6345456e.ext.json)
-
----
-
-### 10 bombs found in Modernan summon 10 bombs
-
-*2025-10-01 17:12:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මදරන-හමව-බමබ-10ය-රස-පරකෂක-වරත-කඳවය/1-680586) · `si`
-
-Colombo Additional Magistrate Ozha Migara Maharachchi has ordered the Modara Police to see the government's skins have been abusive in the Municipal Council workplace.
-
-The order was issued after considering the procedures made by a special police team to have received information on information received by the Terrorist Investigation Division.
-
-The police said further court said that investigations are conducted through CCTV footage to detect suspects.
-
-Considering the submissions, the Additional Magistrate ordered the Government Analysting report to address the bombs.
-
-Police ordered the police to submit the investigation into the courts soon.
-
-◼️
-
-[Data](articles/a8f2b693.json)
-
-[Extended Data](ext_articles/a8f2b693.ext.json)
-
----
-
-### Deposit for the Klangan Hospital outpatient unit
-
-*2025-10-01 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226610) · `ta`
-
-At the Dikoya Klangan Hospital, the Attan Lions Association gifted a sum of rays to the hospital for the outpatient unit and the welfare of those who visit the clinic services.
-
-இந்நிகழ்வில் அட்டன் லயன்ஸ் கழகத் தலைவர்  எஸ்.சப்பாணி,  செயலாளர் நல்லுசாமி , லயன் பிரபாகர் உட்பட கிளங்கன் வைத்தியசாலை அபிவிருத்தி சங்க செயலாளர் சங்கரமணிவண்ணன், பொருளாளர் பி.நாகேந்திரன் மற்றும் வைத்தியர் அருள்குமரன் உட்பட பிரமுகர்கள் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/abd1c995.json)
-
-[Extended Data](ext_articles/abd1c995.ext.json)
-
----
-
-### "Highly in Welcome to Sri Lanka
-
-*2025-10-01 17:09:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලකවට-ලකයන-ඉහළ-පළගනමක/101-680585) · `si`
-
-Health and Mass Media Minister Nalinda Jayatissa said that there is a high number of recognition and a good image of Sri Lanka.
-
-The Minister said that many countries have begun to be friendly transactions with Sri Lanka.
-
-The Minister made this observation at the opening of the new Physical Disease Ward of the New Physical Disease Complex, which was built in Dharga Town.
-
-It was constructed at a cost of a health facility to improve the 13-selected hospitals under the Chinese government's assistance.
-
-The three-storey emergency medical treatment unit is scheduled to be provided with a four-bed-wards, including 96 beds, and the OPD of the OPD.
-
-◼️
-
-[Data](articles/98ac8a1c.json)
-
-[Extended Data](ext_articles/98ac8a1c.ext.json)
-
----
-
-### "Highly in Welcome to Sri Lanka
-
-*2025-10-01 17:09:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකවට-ලකයන-ඉහළ-පළගනමක/1-680585) · `si`
-
-Health and Mass Media Minister Nalinda Jayatissa said that there is a high number of recognition and a good image of Sri Lanka.
-
-The Minister said that many countries have begun to be friendly transactions with Sri Lanka.
-
-The Minister made this observation at the opening of the new Physical Disease Ward of the New Physical Disease Complex, which was built in Dharga Town.
-
-It was constructed at a cost of a health facility to improve the 13-selected hospitals under the Chinese government's assistance.
-
-The three-storey emergency medical treatment unit is scheduled to be provided with a four-bed-wards, including 96 beds, and the OPD of the OPD.
-
-◼️
-
-[Data](articles/d287aa97.json)
-
-[Extended Data](ext_articles/d287aa97.ext.json)
 
 ---

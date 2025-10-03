@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 23:40:04**
+As of **2025-10-03 23:57:08**
 
 ## Newspaper Stats
 
@@ -27,25 +27,27 @@ adaderanasinhalalk | 13,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,950 (100.0%) of 80,955 articles have been extended.
+80,955 (100.0%) of 80,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
 
-### சட்டப்படி வேலை செய்யும் தொழிற்சங்க போராட்டத்தை தீவிரப்படுத்தவுள்ளோம் - இலங்கை மின்சாரசபை பொறியியலாளர் சங்கம்
+### We are going to intensify the union struggle that works legally - the Ceylon Electricity Board Engineers Association
 
 *2025-10-03 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226837) · `ta`
 
-இலங்கை மின்சாரசபை ஊழியர்கள் இதுவரை கடைப்பிடித்துவரும் சட்டப்படி வேலை செய்யும் தொழிற்சங்க போராட்டத்தை தீவிரப்படுத்தி திங்கட்கிழமை முதல் உயர் அதிகாரிகளுடன் தொடர்புகளை மேற்கொள்வதில் இருந்து தவிர்ந்திருப்பதாகவும் அந்த அதிகாரிகள் யார் என்பது தொடர்பான தீர்மானத்தை இன்றைய தினத்துக்குள் மேற்கொள்வதாகவும் இலங்கை மின்சாரசபை பொறியியலாளர் சங்கத்தின் நிறைவேற்று குழு உறுப்பினர் தனுஷ்க பராக்கிரமசிங்க தெரிவித்தார்.
+The Executive Committee of the Ceylon Electricity Board (CEB Engineers' Association, Dhanushka Parakramasinghe said that the Ceylon Electricity Board (CEB) employees have been able to intensify the trade union struggle, which is practiced by the Ceylon Electricity Board (CEB).
 
-இலங்கை மின்சாரசபை  ஊழியர்கள் கடந்த மாதம் 4ஆம் திகதிமுதல் முன்னெடுத்துவரும் சட்டப்படி  வேலை செய்யும்  போராட்டத்தின் அடுத்த கட்ட நடவடிக்கை தொடர்பில் வெள்ளிக்கிழமை (3) ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+He was speaking to the media on Friday (3) regarding the next phase of the strike by the Ceylon Electricity Board (CEB) employees on the 4th of last month.
 
-இலங்கை  மின்சாரசபையை மறுசீரமைப்பு செய்வதற்கு அரசாங்கம் எடுத்திருக்கும் நடவடிக்கையை முறையாக மேற்கொள்ள வேண்டும்  என தெரிவித்து, 24 கோரிக்கைகளைை அடிப்படையாகக்கொண்டு எமது தொழிற்சங்கங்கள் போராட்டம் மேற்கொண்டு வருகிறது. ஆரம்பமாக நாங்கள் இரண்டுநாள் சுகயீன விடுமுறை அறிவித்து ஊழியர்கள் அனைவரையும் கொழும்புக்கு அழைத்துவந்து ஆர்ப்பாட்டம் ஒன்றை மேற்கொண்டிருந்தோம்.
+Our trade unions are struggling based on 24 demands, demanding that the government take steps to rehabilitate the Ceylon Electricity Board.. In the beginning, we had to announce a two -day sick holiday and brought all the employees to Colombo and staged a demonstration.
 
 ...
 
 [Data](articles/7ef89e87.json)
+
+[Extended Data](ext_articles/7ef89e87.ext.json)
 
 ---
 
@@ -67,19 +69,21 @@ From today, the following telephone numbers of the Senior Superintendent of Poli
 
 ---
 
-### இலங்கை வங்கி ஊழியர் சங்கத்தினால் மட்டக்களப்பில்  "தீப்பந்த எதிர்ப்பு" ஆர்ப்பாட்டம்!!
+### "Anti -fire" demonstration in Batticaloa by Ceylon Bank Employees Union
 
 *2025-10-03 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226836) · `ta`
 
-அரச வங்கிகள் அனைத்திலும் தீர்க்கப்படாதுள்ள பிரச்சினைகளுக்கு எதிராக மட்டக்களப்பில் 03ஆம் திகதி வெள்ளிக்கிழமை மாலை "தீப்பந்த எதிர்ப்பு" ஆர்ப்பாட்டமொன்று முன்னெடுக்கப்பட்டது.
+A “anti -fireball” demonstration was staged in Batticaloa on Friday evening in Batticaloa against issues that have not been resolved in all state banks.
 
-அரச வங்கிகள் அனைத்திலும் தீர்க்கப்படாதுள்ள பிரச்சினைகள் காணப்பட்டு வரும் நிலையில் தொழிற்சங்க நடவடிக்கைகளை தீவிரப்படுத்தும் முகமாக மாவட்ட மட்டத்தில் வெள்ளிக்கிழமை (03) திகதி மாலை மட்டக்களப்பு காந்தி பூங்கா முன்பாக "தீப்பந்த எதிர்ப்பு" ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+The "anti -fireball" demonstration has been staged in front of the Gandhi Park in Batticaloa on Friday evening (03) at the district level to intensify trade union activities as all state banks have not been resolved.
 
-நாடளாவிய ரீதியில் இன்றைய தினம் யாழ்ப்பாணம், மட்டக்களப்பு, திருகோணமலை, இரத்தினபுரி மற்றும் மாத்தளை மாவட்டம் உள்ளிட்ட நகரங்களில் மாலை 6.00 மணி முதல் இலங்கை வங்கி ஊழியர் சங்கத்தினால் "தீப்பந்த எதிர்ப்பு" ஆர்ப்பாட்டங்கள் முன்னெடுக்கப்பட்டமையும் குறிப்பிடத்தக்கது.
+It is noteworthy that the "anti -fireball" demonstrations were staged by the Ceylon Bank Employees Union from 6.00 pm in the cities of Jaffna, Batticaloa, Trincomalee, Ratnapura and Matale district today.
 
 ◼️
 
 [Data](articles/0299f5f3.json)
+
+[Extended Data](ext_articles/0299f5f3.ext.json)
 
 ---
 
@@ -105,23 +109,27 @@ When the Chunnakam police were investigating the matter, the student said this i
 
 ---
 
-### காசா போர்நிறுத்த ஒப்பந்தம்: ஹமாஸுக்கு டிரம்ப் இறுதி எச்சரிக்கை! "நரகமாகும்" என மிரட்டல்!
+### Gaza ceasefire agreement: Trump final warning to Hamas! Threaten as "hell"!
 
 *2025-10-03 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226835) · `ta`
 
-அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப், காசா போரை முடிவுக்குக் கொண்டு வருவதற்கான போர்நிறுத்த ஒப்பந்தத்தை ஏற்க ஹமாஸ் அமைப்புக்கு காலக்கெடு விதித்துள்ளார்.
+US President Donald Trump has set a deadline for Hamas to accept the ceasefire agreement to end the Gaza War.
 
-வெளிநாட்டு ஊடகச் செய்திகளின்படி, ஹமாஸ் அமைப்பு இந்த ஒப்பந்தத்தை ஏற்க ஞாயிற்றுக்கிழமை, கிரீன்விச் நேரம் (GMT) இரவு 10 மணி (2200) வரை மட்டுமே அவகாசம் அளிக்கப்பட்டுள்ளது.
+According to foreign media reports, the Hamas Organization has been granted time to accept the agreement on Sunday, GMT time (GMT) at 10 pm (2200).
 
-டிரம்ப் தனது சமூக ஊடகப் பதிவில், "இந்த கடைசி வாய்ப்பு ஒப்பந்தம் எட்டப்படாவிட்டால், வேறு யாரும் இதுவரை கண்டிராத வகையில், ஹமாஸுக்கு எதிராக 'அனைத்து நரகமும் (All Hell)' வெடிக்கும்" என்று கடுமையாக எச்சரித்துள்ளார்.
+In his social media record, Trump has strongly warned that if this last chance is not reached, no one else has ever seen, and that all hell will be 'exploding' against Hamas.
 
-இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகுவுடன் இணைந்து டிரம்ப் வெளியிட்ட இந்த அமைதித் திட்டத்திற்கு அரபு மற்றும் முஸ்லிம் நாடுகள் உட்படப் பல உலக நாடுகள் ஆதரவு தெரிவித்துள்ளன.
+Many world countries, including the Arab and Muslim countries, have supported the peace scheme released by Israeli Prime Minister Benjamin Netanyahu.
 
-திட்டத்தின் முக்கிய அம்சங்களில் உடனடி போர் நிறுத்தம், பிணைக் கைதிகள் விடுவிப்பு, ஹமாஸ் ஆயுதங்களைக் கைவிடுதல் மற்றும் படிப்படியாக இஸ்ரேல் படைகள் காசாவிலிருந்து வெளியேறுதல் ஆகியவை அடங்கும்.
+The main features of the project include immediate ceasefire, the release of hostages, the abandonment of Hamas weapons, and the gradual exit of Israeli forces from Gaza.
+
+A member of the Hamas Organization's political office said he was still investigating the project and announced that their decision would be announced soon.
 
 ...
 
 [Data](articles/594b82d5.json)
+
+[Extended Data](ext_articles/594b82d5.ext.json)
 
 ---
 
@@ -247,21 +255,23 @@ He emphasizes that a note of its Truth Social Media Status should be agreed at 2
 
 ---
 
-### யாழில் விளையாட்டில் முதலிடம் பெற்ற மாணவி மாடியில் இருந்து குதித்தால் பாடுகாயம்!
+### The first student in the game in Jaffna jumps from the floor!
 
 *2025-10-03 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226834) · `ta`
 
-யாழ்ப்பாணம் - உடுவில் மகளிர் கல்லூரியில் கல்வி பயிலும் மாணவி ஒருவர் விளையாட்டு ஒன்றில் முதலிடம் பெற்றதால் அவரது வகுப்பு மாணவிகள் அவரிமிருந்து விலகி இருந்ததால் குறித்த மாணவி 2வது மாடியில் இருந்து குதித்ததால் படுகாயமடைந்துள்ளார். இந்த சம்பவமானது வியாழக்கிழமை (02) இடம்பெற்றுள்ளது.
+A student at Uduvil Women's College, Jaffna, has been injured in the 2nd floor of a student who has been left in a sport.. The incident took place on Thursday (02).
 
-முல்லைத்தீவை சேர்ந்த 14 வயதுடைய குறித்த மாணவி உடுவில் மகளிர் கல்லூரியின் மாணவிகள் விடுதியில் கடந்த ஒரு வருட காலமாக தங்கி நின்று கற்றல் நடவடிக்கைகளில் ஈடுபட்டு வருகின்றார்.
+A 14 -year -old student from Mullaitivu has been staying at the Uduvil Ladies College and has been staying at the hostel for the past one year.
 
-இந்நிலையில் அவர் விளையாட்டு ஒன்றில் பங்குபற்றி முதலிடம் பெற்றுள்ளார். இதனால் அவரது வகுப்பு மாணவிகள் அவரிடம் இருந்து விலகி இருந்தனர். இதன் காரணமாக மனமுடைந்த மாணவி விடுதியின் இரண்டாவது மாடியில் இருந்து கீழே குதித்ததால் காலில் படுகாயம் ஏற்பட்டுள்ளது.
+In this case, he has participated in a game. Thus his classmates were away from him. As a result of this, the student jumped down the second floor of the hostel and was injured.
 
-இது தொடர்பாக சுன்னாகம் பொலிசார் விசாரணைகளை மேற்கொண்ட போது தனது வாக்குமூலத்தில் குறித்த மாணவி இதனை தெரிவித்துள்ளார். படுகாயம்டைந்த மாணவி வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றார்.
+When the Chunnakam police were investigating the matter, the student said this in her affidavit. The injured student is receiving treatment at the hospital.
 
 ◼️
 
 [Data](articles/b6e97c8e.json)
+
+[Extended Data](ext_articles/b6e97c8e.ext.json)
 
 ---
 
@@ -1295,23 +1305,25 @@ Police investigations revealed that these tipper vehicles belong to the nephew o
 
 ---
 
-### சிறுவர்களுக்கு எதிரான உடல் ரீதியான தண்டனை விவகார சர்ச்சைக்கு நீதி அமைச்சர் விளக்கம்
+### Minister of Justice
 
 *2025-10-03 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226809) · `ta`
 
-சிறுவர்களுக்கு எதிரான உடல் ரீதியான தண்டனை தொடர்பான தண்டனைச் சட்டக்கோவையின் (பிரிவு 19) முன்மொழியப்பட்ட திருத்தம் சட்டமாக இயற்றப்படவில்லை என்று நீதி அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்துள்ளார்.
+Minister of Justice Harshana Nanayakkara has said that the amendment proposed by the Penal Code (Section 19) of the Penal Code (Section 19) of the Penal Code against Children has not been enacted.
 
-கடந்த செப்டம்பர் 24ஆம் திகதி தண்டனைச் சட்டக்கோவை திருத்த மசோதா மீதான இரண்டாம் வாசிப்பு விவாதம் பாராளுமன்றத்தில் நடைபெற்றாலும், அது ஒரு விவாதமே தவிர, சட்டமாக நிறைவேற்றப்படவில்லை என்று அமைச்சர் குறிப்பிட்டுள்ளார்.
+The Minister noted that the second reading debate on the amendment of the Penal Code on September 24 was held in Parliament, but it was not a law, except for a debate.
 
-மேலும், அத்தகைய ஒரு திருத்தம் நடைமுறைக்கு வர வேண்டுமானால், குற்றவியல் நடைமுறைச் சட்டத்திலும் அதற்குரிய மாற்றம் செய்யப்பட வேண்டும் என்றும் அவர் சுட்டிக்காட்டியுள்ளார். அந்த மாற்றம் இன்னும் செய்யப்படாததால், இந்த மசோதா நிலுவையில் உள்ளது.
+He also pointed out that if such a revision is to be implemented, it should be changed in the Criminal Procedure Act.. The bill is pending, as that change has not yet been made.
 
-மசோதாவில் திருத்தங்கள் கொண்டுவரக்கூடிய பாராளுமன்றத்தின் குழு நிலையின்போது  குறித்த மாற்றங்கள் இன்னமும் பரிசீலனைக்கு எடுத்துக்கொள்ளப்படலாம் என்றும் அமைச்சர் மேலும் தெரிவித்துள்ளார்.
+The Minister added that the changes may still be taken up for review during the Parliamentary Committee that amendments to the bill.
 
-உடல் ரீதியான தண்டனை தொடர்பான திருத்தம் விவாத நிலையில் உள்ளது என்றும், அது சட்டமாக நிறைவேற்றப்படவில்லை என்றும் நீதி அமைச்சர் தனது அறிக்கையில் மேலும் தெரிவித்துள்ளார்.
+The Minister of Justice added in his statement that the amendment to the physical punishment is in a state of debate and it has not been passed.
 
 ◼️
 
 [Data](articles/b7f36967.json)
+
+[Extended Data](ext_articles/b7f36967.ext.json)
 
 ---
 

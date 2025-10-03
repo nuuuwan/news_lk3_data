@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 18:58:00**
+As of **2025-10-03 19:10:51**
 
 ## Newspaper Stats
 
-*Scraped **80,907** Articles*
+*Scraped **80,911** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 572
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 728
+lankadeepalk | 732
 colombotelegraphcom | 806
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,45 +27,87 @@ adaderanasinhalalk | 13,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,902 (100.0%) of 80,907 articles have been extended.
+80,907 (100.0%) of 80,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
 
-### විෂ මත්ද්‍රව්‍ය සම්බන්ධයෙන් තොරතුරු ලබා දෙන්න නව දුරකතන අංක කිහිපයක්
+### මාර්ග හදන්න ගත් කෝටි 31000ක් හිරවෙලා
+
+*2025-10-03 18:53:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මරග-හදනන-ගත-කට-31000ක-හරවල/1-680713) · `si`
+
+මාර්ග සංවර්ධන අධිකාරිය මාර්ග ඉදිකිරීම සඳහා දේශීය බැංකුවලින් ලබාගෙන ඇති රුපියල් කෝටි 31000ක පමණ  අධික ණය මුදල් ප්‍රමාණය ගෙවීම ලොකු අර්බුදයක්  බවට පත්ව ඇතැයි වාර්තාවේ.
+
+මේ හේතුවෙන් එම ණය මුදල් ගෙවීමට  අයවැයෙන් වෙන් කර ඇති රුපියල් කෝටි 3600 ගැනීම සදහා පාර්ලිමේන්තුවේ අනුමැතිය  ගැනීමට පරිපූරක ඇස්තමේන්තුවක් ඉදිරිපත් කරන බව ප්‍රවාහන අමාත්‍යාංශයේ නිලධාරීහු රජයේ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට දැනුම් දුන්හ.
+
+මෙම පරිපූරක ඇස්තමේන්තුව  එම කාරක සභාවේදී  සලකා බැලීමෙන් පසුව  අනුමත  කෙරිණ
+
+මේ අතර ශ්‍රී ලංකාව විදේශයන්ගෙන් හා දේශීයව දැනට  ලබාගෙන ඇති ණය  ප්‍රමාණ පිළිබඳව මුදල්  කාරක සභාවට කැඳවා සිටි රාජ්‍ය ණය කළමනාකරණ කාර්යාල නිලධාරීන්ගෙන් විමසා සිටියේය.   විදේශ ණය ඩොලර් කෝටි 3700  ක්ද  රුපියල්වලින් ගත්  ණය කෝටි 19 ලක්ෂයක්ද  ගෙවීමට  පවතින බව  එම නිලධාරීහු  පෙන්වා දුන්හ.
+
+මෙහිදී  මේ වසරේ ගෙවීමට ඇති ණය වාරික ප්‍රමාණය පිළිබඳව කාරක සභාභාපතිවරයා  නිලධාරීන්ගෙන් විමසා සිටි නමුත් අදාළ  සංඛ්‍යා දත්ත ඔවුන් සතුව ඒ මොහොතේ නොතිබීම පිළිබඳව සභාපතිවරයා නොසතුට පළකළේය.
+
+...
+
+[Data](articles/adffd110.json)
+
+---
+
+### ’’කළු පාලනය අවසන් කරන පියවර ආපසු හරවන්නේ නෑ’’
+
+*2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/1-680712) · `si`
+
+රටේ බිඳ වැටුණු ආර්ථිකය යළි ගොඩනඟන අතරම, සියලු අතින් පිරිහී ගිය සමාජය යළි සුවපත් කිරීමේ වගකීමද රජය භාරගෙන තිබෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+මත්ද්‍රව්‍ය ජාවාරම සහ අවි බලය සමඟ සමාජය දැවැන්ත විනාශයකට ඇඳ දමා තිබෙන කළු පාලනය අවසන් කිරීමට රජය තැබූ පියවර කිසිසේත් ආපසු  හැරවීමට කටයුතු නොකරන බවද ජනාධිපති ජනාධිපතිවරයා අවධාරණය කළේය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කළේ නාරම්පනාවේ ආනන්ද අස්ගිරි අභිනව අනුනාහිමියන් වෙත ශ්‍රී සන්නස් පත්‍ර පිළිගැන්වීම වෙනුවෙන් අද (03) පස්වරුවේ මහනුවර ඓතිහාසික මඟුල් මඬුවේ පැවති පූජෝත්සවය අමතමිනි.
+
+සමාජ පුනරුදය ඇති කිරීමේදී මහා සංඝරත්නයට විශාල කාර්යභාරයක් පැවරී තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා, අතීතයේදී රාජ්‍යය අභියෝගයට පත් වූ සෑම අවස්ථාවකම ඒ වෙනුවෙන් ඉදිරියට පැමිණියේ මහා සංඝරත්නය බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/19f1fa01.json)
+
+---
+
+### Provide information about poisonous drugs
 
 *2025-10-03 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215305) · `si`
 
-දිවයිනේ විශ මත්ද්‍රව්‍ය සම්බන්ධයෙන් තොරතුරු ලබා දීම සඳහා මහජනතාව වෙත තවත් නව දුරකතන අංක කිහිපයක් හඳුන්වාදීමට පොලීසිය කටයුතු කර තිබේ.
+The police have introduced several new telephone numbers to the public to provide information on the unique drug.
 
-ඒ අනුව දිවයිනේ විවිධ ප්‍රදේශවල ව්‍යාප්තව පවතින හෙරොයින්‍, අයිස්, කොකේන් සහ ගංජා ඇතුළු විශ මත්ද්‍රව්‍ය සම්බන්ධයෙන් වූ තොරතුරු මහජනතාවට සෘජුවම මෙම අංක ඔස්සේ දැනුම්දීමේ හැකියාව පවතී.
+Accordingly, the public is directly informed directly in the public drugs including heroin, ice, cocaine and cannabis, which is spread in different parts of the island.
 
-පොලීසිය පැවසුවේ අද (03) සිට ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන් යටතේ සිටින දිසා භාර නියෝජ්‍ය පොලිස්පතිවරුන්ගේ හා කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන්ගේ පහත දුරකතන අංක වෙත එම තොරුතුරු ලබා දීමේ හැකියාව පවතී.
+Police said that the information is available to the following telephone numbers of the DIGs in charge of the Senior Deputy Inspector General of Police and the Senior Deputy Inspector General of Police.
 
-විෂ මත්ද්‍රව්‍ය සම්බන්ධයෙන් තොරතුරු ලබා දෙන්න නව දුරකතන අංක කිහිපයක්  by  poornima
+Provide information about poisonous drugs
 
 ◼️
 
 [Data](articles/63bcdfa8.json)
 
+[Extended Data](ext_articles/63bcdfa8.ext.json)
+
 ---
 
-### ලෝක සෞඛ්‍ය සංවිධානයෙන් විශේෂ හෙළිදරව්වක්
+### The World Health Organization is a special revelation
 
 *2025-10-03 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215304) · `si`
 
-ඊශ්‍රායලය එල්ල කළ ප්‍රහාරවලින් ගාසා තීරයේ පුද්ගලයින් 42,000කට අධික පිරිසක් බරපතළ ශෛල්‍ය කර්මවලට ලක් කර සිටින බව ලෝක සෞඛ්‍ය සංවිධානය පවසයි.
+The World Health Organization says that more than 42,000 people have been severely circumstances in the Gaza.
 
-එම සංවිධානය පෙන්වා දෙන්නේ ඔවුන්ගෙන් හතරෙන් එකක් පමණ කුඩා ළමුන් වන බවය.
+The organization points out that there are about one-fourth of them.
 
-එමෙන්ම ශෛල්‍යකර්ම හේතුවෙන් පුද්ගලයින් 5,000කට අධික පිරිසකගේ අත් පා කපා ඉවත් කර ඇති බව ද සඳහන් වේ.
+It is also said that the limbs of more than 5,000 people have been cut off due to stylize.
 
-කොඳු ඇට පෙළේ තුවාල, පිපිරීම් හේතුවෙන් මොළයේ සිදුවු තුවාල සහ අනෙකුත් පිළිස්සුම් තුවාල හේතුවෙන් අදාළ ශෛල්‍යකර්ම සිදුකර ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කළේය.
+According to foreign media, the courses have been carried out due to brain injuries and other burns due to spine injuries, explosions and other burns.
 
 ◼️
 
 [Data](articles/60e4f612.json)
+
+[Extended Data](ext_articles/60e4f612.ext.json)
 
 ---
 
@@ -127,6 +169,24 @@ The event was held at the Hilton Hotel in Colombo, with diplomats, politicians a
 
 ---
 
+### විදුලි සේවකයන්ගෙන් විශේෂ ප්‍රකාශයක්
+
+*2025-10-03 17:43:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදල-සවකයනගන-වශෂ-පරකශයක/1-680711) · `si`
+
+ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය නිවැරදිව කරන ලෙස ඉල්ලමින් ලංකා විදුලිබල මණ්ඩලයේ වෘත්තිය සමිති රැසක් ක්‍රියාත්මක කරන ‘අකුරට වැඩකිරීම’ ක්‍රියාමාර්ගය පිළිබඳව විශේෂ ප්‍රකාශයක් ලබන අඟහරුවාදා කරන බව ලංකා විදුලිබල මණ්ඩලයේ නිදහස් සේවක සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් ප්‍රියන්ත මහතා අද (3) පැවසීය.
+
+‘අකුරට වැඩකිරීම’ වෘත්තීය ක්‍රියාමාර්ගය තව දුරටත් ක්‍රියාත්මක වන බවත් කම්කරු දෙපාර්තමේන්තුව සහ ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ කරන සාකච්ඡාවල ප්‍රතිඵලය මත ඉදිරි ක්‍රියාමාර්ග තීරණය වන බවත් ඒ මහතා කීය.
+
+ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියට එරෙහිව එහි වෘත්තීය සමිති 25 ක් පසුගිය සැප්තැම්බර් මස 4 වැනිදා අකුරට වැඩකිරීමේ වෘත්තිය ක්‍රියාමාර්ගයක් ආරම්භ කළ අතර එම වෘත්තිය ක්‍රියාමාර්ගය වර්ජනයක් දක්වා දැඩි කරන බව පැවසුව ද එම මණ්ඩලයේ සියලුම සේවකයන්ගේ නිවාඩු අවලංගු කිරීමට බලධාරීහූ පියවර ගත්හ.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විදුලිබල සැපයීම සම්බන්ධ සියලු සේවා අත්‍යාවශ්‍ය සේවාවන් බවට පත්කරමින් අති විශේෂ ගැසට් නිවේදනයක් පසුගිය මස 21 වැනිදා නිකුත් කළේය.
+
+◼️
+
+[Data](articles/215d1cd9.json)
+
+---
+
 ### Special statement from electrical workers
 
 *2025-10-03 17:43:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදල-සවකයනගන-වශෂ-පරකශයක/101-680711) · `si`
@@ -147,19 +207,21 @@ President Anura Kumara Dissanayake issued a special gazette notification on the 
 
 ---
 
-### බෙලිඅත්තේ සනා රඳවා ප්‍රශ්න කිරීමට අවසර
+### Permission to interfere in Beliatta
 
 *2025-10-03 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215303) · `si`
 
-තංගල්ල සීනිමෝදර ප්‍රදේශයේ මත්ද්‍රව්‍ය නඩුව සම්බන්ධයෙන් අත්අඩංගුවට ගත් බෙලිඅත්තේ සනා නොහොත් වීරසිංහගේ සනත් නැමැත්තා රඳවා ප්‍රශ්න කිරීමට අධිකරණය විසින් අද (03) අවසර ලබා දී තිබේ.
+The court has granted permission to interfere with the drug case of the drug case in Tangalle Sanath.
 
-ඒ අනුව තංගල්ල වැඩබලන මහේස්ත්‍රාත් විදුර වීරකෝන් මහතා විසින් සැකකරු එළැඹෙන 09 වැනිදා දක්වා රඳවා ප්‍රශ්න කිරීම සඳහා පොලීසියට අවසර ලබා දී ඇත.
+Accordingly, Tangalle Acting Magistrate Viduru Weerakoon has been given permission to the suspect until the 9th.
 
-බෙලිඅත්තේ සනා නැමැති මෙම අපරාධකරු තංගල්ල කොට්ඨාස අපරාධ විමර්ශන ඒකකය විසින් පසුගිය 01 වැනිදා අත්අඩංගුවට ගනු ලැබීය.
+The criminal of the Tangalle Divisional Criminal Investigation Unit was arrested by the Tangalle Division Criminal Investigation Unit.
 
 ◼️
 
 [Data](articles/4071cca1.json)
+
+[Extended Data](ext_articles/4071cca1.ext.json)
 
 ---
 
@@ -185,23 +247,29 @@ We have no alternative to change this bill. But people are well aware of this dr
 
 ---
 
-### දෙහිවල වෙඩි තැබීමේ සිද්ධියේ පැදිකරු ලෙස පැමිණි පුද්ගලයා අත්අඩංගුවට
+### Man arrested for shooting incident in Dehiwala
 
 *2025-10-03 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215302) · `si`
 
-දෙහිවල දුම්රියපොළ පාර අසළ සුපිරි වෙළඳසැලක් ඉදිරිපිටදී මෝටර් රථයක සිටි පුද්ගලයෙකුට වෙඩි තබා බරපතල තුවාල කිරීමේ සිදුවීමට සම්බන්ධ තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+Another suspect had been arrested in front of a person in a car in front of a supermarket near the Dehiwala Railway Station Road.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වෙඩි තැබීම සඳහා පැමිණි යතුරු පැදිය පදවාගෙන ආ පැදිකරු වේ.
+The arrested has been arrested for the shooting and the motor vehicle.
 
-ඔහු සන්තකයේ තිබී කඩු පහක්, කිනිස්සක් හා රුපියල් ලක්ෂ පනහකට අධික වටිනාකමින් යුත් අයිස් මත්ද්‍රව්‍ය ගෑම් 50ක් පොලීසිය සිය භාරයට ගෙන ඇත.
+Five swords, five swords in his possession and 50 ice drugs worth Rs.
 
-සංවිධානාත්මක අපරාධකරුවෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන බඩෝවිට අසංකගේ සමීප ඥාතියකු වන ව්‍යාපාරික බස් අසිත නැමැත්තා ඉකුත් ජූලි මස 17 වෙනි දින සුපිරි වෙළඳසැලක් ඉදිරිපිට සිය මෝටර් රථය තුළ සිටියදීම වෙඩි තබා ඝාතනය කෙරිණි.
+A close relative of an organized criminal and the drug dealer, Asita, a close relative of Asita, was shot dead in front of a supermarket on July 17.
 
-එහි වෙඩික්කරු වන පොලිස් විශේෂ කාර්යබලකායේ හිටපු සෙබළා, කහතුඩුව පොලිස් වසමේ පාලාගම ප්‍රදේශයේ කුරුඳු ඉඩමක වාඩියක සැඟව සිටියදී පොලිස් විශේෂ කාර්ය බළකාය සමඟ ඇතිවූ වෙඩි හුවමාරුවකදී ජීවිතක්ෂයට පත් විය.
+The shooter, police special tasks, was killed in a gunfill with the STD in a cinnamon land in Palagama area in Kahathuduwa police Division.
+
+The arrests made by the delegation was revealed that the organized criminal and drug dealer who was assassinated by the bus Assathi was also given to close to Rs.
+
+The money has been imported to his account and has been paid to their account and has been given the remaining money from time to time.
 
 ...
 
 [Data](articles/0140f7fa.json)
+
+[Extended Data](ext_articles/0140f7fa.ext.json)
 
 ---
 
@@ -254,6 +322,24 @@ The suspect was produced before the Tissa Magistrate's Court and receive detenti
 [Data](articles/ee2e7ae3.json)
 
 [Extended Data](ext_articles/ee2e7ae3.ext.json)
+
+---
+
+### දෙහිවල වෙඩි තැබීමේ පැදිකරු අත්අඩංගුවට
+
+*2025-10-03 17:11:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දහවල-වඩ-තබම-පදකර-අතඅඩගවට/1-680710) · `si`
+
+දෙහිවල  දුම්රිය පොල පාර අසල සුපිරි වෙළඳසැලක් ඉදිරිපිටදී මෝටර් රථයක සිටි පුද්ගලයෙකුට යතුරු පැදියකින් පැමිණ වෙඩි තබා බරපතල තුවාල සිදුකිරීමේ සිද්ධියේ පැදිකරු ලෙස කටයුතු කළ පුද්ගලයා තියුණු ආයුධ සහ මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් බව ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය කියයි
+
+එම සැකකරු සමග කඩු පහක්, කිනිස්සක් හා රුපියල් ලක්ෂ පනහකට අධික වටිනා අයිස්  මත්ද්‍රව්‍ය ගෑම් 50ක් පොලිස් භාරයට ගෙන ඇත
+
+වෙඩි තැබීමට සම්බන්ධ යතුරු පැදිය පැදවූ පුද්ගලයා ගල්කිස්ස සුමනාරාම පාරේ නිවසක සැඟව සිටින බවට ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ගමගේ නිලන්ත  මහතාට ලද තොරතුරකට අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් පැදිකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී  බස් අසිත නැමැත්තාට වෙඩි තබා ඝාතනය කිරීම සඳහා  සංවිධානාත්මක අපරාධකරුක සහ මත් ජාවාරම්කරුවෙකු වන කොස් මල්ලි නැමැත්තා තමන් වෙත රුපියල් ලක්ෂ 7කට ආසන්න මුදලක්ද ලබා දුන් බවත් එම මුදලින් එකවර රුපියල් තුන් ලක්ෂ පනස්දහසක් තම ගිණුමට බැරකල බවත් අනතුරුව වරින් වර ඉතිරි මුදල් ලබා දුන් බවත් සැකකරු  අනාවරණය කර ඇත
+
+...
+
+[Data](articles/6e3e2165.json)
 
 ---
 
@@ -1111,19 +1197,21 @@ In addition, 54 others have been arrested in connection with drunk and unrespons
 
 ---
 
-### විදෙස් ගත ශ්‍රමිකයෝ ඩොලර් බිලියන 5.1ක් එවති
+### Foreign laborars sent $ 5.1 billion
 
 *2025-10-03 15:05:22* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ගත-ශ්‍රමිකයෝ-ඩොලර්-බිලියන-5-1ක්-එවති/11-418900) · `si`
 
-මේ වසරේ මුල් මාස 8 තුළදී පමණක් විදෙස් ගත ශ්‍රී ලංකා ශ්‍රමිකයන් ඇමෙරිකානු ඩොලර් මිලියන 5 116ක් ශ්‍රී ලංකාවට ප්‍රේෂණය කර ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+Sri Lanka's US $ 5 116 million has been remitted to Sri Lanka US $ 5 116 million in the first eight months of this year.
 
-ශ්‍රී ලංකා මහ බැංකුවේ විදේශීය අංශයේ ක්‍රියාකාරිත්ව සටහන අනුව එය 2024 වසරේ එම කාලසීමාව හා සසදා බැලීමේදී සියයට 19.3ක වර්ධනයකි. 2024 වසරේදී ලැබී තිබුණ ප්‍රේෂණ ප්‍රමාණය ඩොලර් මිලියන 4 288කි.
+It is a 19.3 percent increase in the duration of 2024 in the foreign sector operation of the Central Bank of Sri Lanka.. The remittances received in 2024 was $ 4 288 million.
 
-එසේම අගෝස්තු මාසයේදී පමණක් ඇමෙරිකානු ඩොලර් මිලියන 680ක් විදෙස් ගත ශ්‍රමිකයන් ලංකාවට ‍ප්‍රේෂණය කර තිබුණ අතර 2024 වසරේ අගෝස්තු මාසයේදී අම අගය ඇමෙරිකානු ඩොලර් මිලියන 577.5ක් විය.
+In August alone, US $ 680 million was remitted to Sri Lanka to Sri Lanka in August 2024.
 
 ◼️
 
 [Data](articles/ff0f4f10.json)
+
+[Extended Data](ext_articles/ff0f4f10.ext.json)
 
 ---
 
@@ -1960,87 +2048,5 @@ Also, we are planning to buy more agricultural products and medicines from India
 [Data](articles/098e5a7b.json)
 
 [Extended Data](ext_articles/098e5a7b.ext.json)
-
----
-
-### Manusha’s anticipatory bail application fixed for consideration
-
-*2025-10-03 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/113182/manushas-anticipatory-bail-application-fixed-for-consideration) · `en`
-
-The Colombo Magistrate’s Court has ordered that the anticipatory bail application filed by former Minister Manusha Nanayakkara, seeking his release on anticipatory bail before he is arrested by the Bribery Commission, be taken up for consideration on October 08.
-
-The application was called before Colombo Chief Magistrate Asanka S. Bodaragama today (03), said Ada Derana reporter.
-
-Assistant Director General of the Bribery Commission Anusha Sammandapperuma submitted written objections to the appeal, when the case was taken up today.
-
-In response, President’s Counsel Saliya Peiris, representing former minister Nanayakkara, requested a date to file written replies to the objections.
-
-Accordingly, the Magistrate directed the defense counsel to submit written responses by next Tuesday and fixed the consideration of the application on October 8.
-
-...
-
-[Data](articles/9f96573f.json)
-
-[Extended Data](ext_articles/9f96573f.ext.json)
-
----
-
-### Government financial assistance for housing to 100 families in Trincomalee district
-
-*2025-10-03 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226771) · `ta`
-
-State funding for housing for 100 beneficiaries selected in the Trincomalee district on Friday (3) was held at the Trincomalee District Secretariat.
-
-Deputy Minister of Urban Development and Housing Department RB Sarath presented documents to beneficiaries during the event.
-
-Rs.. The fund was provided as 15 lakhs.
-
-These beneficiaries were selected from the Tamil, Sinhala and Muslim communities who had lost their homes due to past war conditions from the 11 Divisional Secretariat Divisions of the district to build houses.
-
-District Parliamentarian Roshan Akmeemana, District Government Agent, District Planning Director, Divisional Secretaries and Families of Beneficiaries were also present at the event.
-
-◼️
-
-[Data](articles/d62e292f.json)
-
-[Extended Data](ext_articles/d62e292f.ext.json)
-
----
-
-### David Peiris Group strengthened the contribution of the Sri Lankan military
-
-*2025-10-03 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226769) · `ta`
-
-The David Peiris Group has once again given its support to the Abhimansala Health Hostel, which is maintaining the transgender warriors in Anuradhapura, conducted by the Sri Lankan military through its Social Welfare Committee.
-
-Rehabilitated Villas David Peiris Motor Company (Sri Lanka) Deputy Chief Officer of Limited
-
-Mr. Sampath Weerakoon, Members of the Group's Social Welfare Committee, Deputy Regional Manager
-
-Vehicle Sales, Mr. Dasun Enemy, Chairman - Internal and External Communication - David Peiris Holdings (Private) Limited, Mr. Thuminda Ekanayake, Manager - Rescue, Essatline Finance Limited and Mr. Dias, Administrator - Manager - Manager - Manager - Manager - Administrator
-
-◼️
-
-[Data](articles/8fbe7e33.json)
-
-[Extended Data](ext_articles/8fbe7e33.ext.json)
-
----
-
-### DFCC Bank empowers iconnect 2.0 to empower business
-
-*2025-10-03 12:52:36* · [`adalk`](https://www.ada.lk/business/ව්‍යාපාර-සවිබල-ගැන්වීමට-DFCC-බැංකුව-iConnect-2-0-බලගන්වයි/7-418893) · `si`
-
-DFCC Bank's premier digital digital banking solution, DFCC iconnect 2.0, the way business agencies in Sri Lanka manages its financial operations.
-
-DFCC Bank's pioneer role in simplifying banking and trade from launching this banking solution to date. Companies and Small and Medium Scale Enterprises Early and Small and Medium Scale Propositions allow the management of trade, payments and supply chains through one digital banking solution.
-
-DFCC Iconnect 2.0 Provides money management, trading solutions, supplier financing, and API intecreations (API intension). The expedited connection is the convenience of banking from anywhere in the island, and with comparison to the banking, and allows you to improve their cash flows (cash flow) and maintain the product of the relationships, and to maintain the order of operational.
-
-...
-
-[Data](articles/13ca4a59.json)
-
-[Extended Data](ext_articles/13ca4a59.ext.json)
 
 ---

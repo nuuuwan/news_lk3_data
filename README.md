@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 16:20:34**
+As of **2025-10-03 16:08:25**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,817 (100.0%) of 80,851 articles have been extended.
+80,796 (99.9%) of 80,851 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,8 +43,6 @@ COLOMBO (News 1st);The All Share Price Index (ASPI) of the Colombo Stock Exchang
 
 [Data](articles/c0deca43.json)
 
-[Extended Data](ext_articles/c0deca43.ext.json)
-
 ---
 
 ### ICAO Agrees To Support Local Airports
@@ -56,8 +54,6 @@ COLOMBO (News 1st); The International Civil Aviation Organization (ICAO) has agr
 ◼️
 
 [Data](articles/701d9866.json)
-
-[Extended Data](ext_articles/701d9866.ext.json)
 
 ---
 

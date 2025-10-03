@@ -1,41 +1,63 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 20:38:23**
+As of **2025-10-03 20:55:46**
 
 ## Newspaper Stats
 
-*Scraped **80,930** Articles*
+*Scraped **80,939** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 576
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 734
+lankadeepalk | 736
 colombotelegraphcom | 806
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,653
-adalk | 7,770
-adaderanalk | 10,415
+adalk | 7,771
+adaderanalk | 10,416
 tamilmirrorlk | 12,035
-virakesarilk | 13,265
+virakesarilk | 13,270
 adaderanasinhalalk | 13,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,927 (100.0%) of 80,930 articles have been extended.
+80,930 (100.0%) of 80,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
 
-### මහින්දගේ වෙඩි නොවදින රථයත් බාරදෙයි
+### Mahinda handed down
 
 *2025-10-03 20:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනදග-වඩ-නවදන-රථයත-බරදය/1-680715) · `si`
+
+Former President Mahinda Rajapaksa's bulletproof was handed over to the bulletproof-baked vehicle.
+
+Thus, the former president's security personnel have not been used
+
+Former Presidential Facilities Removal Bill was passed in Parliament recently. Thus, all the facilities were lost other than the pension of former presidents.
+
+Also, the wife of former President Ranasinghe Premadasa losing the pension and all other facilities
+
+After the former presidents' Facilitation Elimination Eliminating Bill, the Bangabayan of the Wijerama Mawatha, who was residents of the Wijerama Mawatha, left on Carlton House on the 11th.
+
+◼️
+
+[Data](articles/ed71bb8b.json)
+
+[Extended Data](ext_articles/ed71bb8b.ext.json)
+
+---
+
+### මහින්දගේ වෙඩි නොවදින රථයත් බාරදෙයි
+
+*2025-10-03 20:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-වඩ-නවදන-රථයත-බරදය/101-680715) · `si`
 
 හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට දී තිබූ වෙඩි නොවදින රථයද අද බාර දුන් බව හිටපු ජනාධිපතිවරයාගේ මාධ්‍ය ප්‍රකාශක නීතිඥ  මනෝජ්  ගමගේ මහතා පැවසීය.
 
@@ -49,7 +71,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/ed71bb8b.json)
+[Data](articles/5f2b7008.json)
+
+---
+
+### இலங்கை தொடர்பில் ஒரு நாட்டுக்கே உரிய சிறப்பு அறிக்கையாளர் நியமிக்கப்படவேண்டும் - சிவஞானம் சிறிதரன்
+
+*2025-10-03 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226833) · `ta`
+
+பல சாட்சியாளர்களும், மீறல்களிலிருந்து உயிர் தப்பியவர்களின் குடும்பத்தினரும் வயது முதிர்வடைந்திருப்பதுடன் பலர் உயிரிழந்துள்ளனர். மேலும் பலர் அச்சத்திலும், நம்பிக்கை இழந்தும் வாழ்ந்துவருகின்றனர். எனவே பாதிக்கப்பட்ட தரப்பினருக்கான நீதியை நிலைநாட்டும் வகையில் இலங்கை தொடர்பில் ஒரு நாட்டுக்கே உரிய சிறப்பு அறிக்கையாளர் நியமிக்கப்படவேண்டும் என இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்றக்குழுத்தலைவர் சிவஞானம் சிறிதரன் ஐ.நா மனித உரிமைகள் பேரவைக் கூட்டத்தொடரின் பக்க நிகழ்வில் வலியுறுத்தியுள்ளார்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஆரம்பமானது. இக்கூட்டத்தொடரின் ஓரங்கமாக நடைபெற்ற பக்க நிகழ்வில் உரையாற்றியபோதே சிறிதரன் மேற்கண்டவாறு வலியுறுத்தினார். அங்கு அவர் மேலும் கூறியதாவது;
+
+...
+
+[Data](articles/dbfe88ed.json)
+
+---
+
+### විදුලි ගාස්තු ඉහළ දැමීමේ තීරණය 15වැනිදා
+
+*2025-10-03 19:58:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදල-ගසත-ඉහළ-දමම-තරණය-15වනද/101-680714) · `si`
+
+විදුලි ගාස්තුව සියයට 6.8කින් ඉහළ නැංවීමට ලංකා විදුලිබල මණ්ඩලය පසුගිය සැපු්තැමබර් මස කළ යෝජනාව පිළිබඳ මහජන උපයෝගිතා කොමිෂන් සභාවේ තීරණය මෙම මස තුන්වැනි සතියේ නිවේදනය කරන බවත් එම නිවේදනය මෙම මස 15 වැනිදා කිරීමට වැඩි අවස්ථාවක් ඇති බවත් එම කොමිෂමේ උසස් නිලධාරියෙක් ‘ලංකාදීප’යට අද (3) පැවසීය.
+
+එම විදුලි ගාස්තු සංශෝධනය පිළිබඳව වන ක්‍රියාවලියේ මහජන අදහස් විමසීම මේ වන විට ක්‍රියාත්මක වන බවත් එහි අවසන් සැසිය වන බස්නාහිර පළාත් රැස්වීම මෙම මස 8 වැනිදා පැවැත්වීමෙන් පසුව ගාස්තු සංශෝධනය පිළිබඳ අවසන් තිරණය ගන්නා බවත් එම නිලධාරියා සඳහන් කළේය.
+
+මෙම ගාස්තු සංශෝධනයේදී විදුලිබල පනතට සහ විදුලි ගාස්තු මිල සූත්‍රයට අනුව කටයුතු කරන බව කී එම නිලධාරියා ඒ අනුව විදුලිබල මණ්ඩලය අවසන් වශයෙන් කළ යෝජනාවේ වියදම් ඇස්තමේන්තු කීපයක් පිළිබඳව දැඩි අවදානය යොමු වී ඇති බව ද සඳහන් කළේය.
+
+...
+
+[Data](articles/a1d27c78.json)
 
 ---
 
@@ -77,49 +129,71 @@ It is estimated that an increase of Rs. 17,694 million, or Rs.
 
 ---
 
-### බේරේ වැව සහ කටුනායක අතර ගුවන් ගමන් ඇරඹෙයි
+### Flights between Beira Lake and Katunayake
 
 *2025-10-03 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215309) · `si`
 
-මෙරට සංචාරක කර්මාන්තය දියුණු කිරීමේ තවත් අදියරක් වශයෙන් කොළඹ සහ කටුනායක අතර අභ්‍යන්තර ගුවන් ගමන් අද (03) පෙරවරුවේ ආරම්භ කෙරිණි.
+Internal flights between Colombo and Katunayake were commenced as another phase of developing tourism industry in Sri Lanka this morning.
 
-එහි සමාරම්භය සනිටුහන් කරමින් සිනමන් ගුවන් සමාගමට අයත් Cessna 208 වර්ගයේ SEAPLANE යානයක් කටුනායක ගුවන්තොටුපොළේ සිට අද පෙරවරුවේ පියාසර කෙරිණි.
+Cessna 208 Seaplane, a 248, SEAPLELE, was flew from the Katunayake airport this morning.
 
-එම ගුවන් යානයට නැගි වරාය හා සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය ජනිත රුවන් කොඩිතුවක්කු, සංචාරක නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ යන මහත්වරුන් ඇතුළු නිලධාරීන් පිරිසක් කොළඹ බේරේ වැව දක්වා පැමිණියහ.
+Deputy Minister of Ports and Civil Aviation, Deputy Minister of Tourism Professor Ruwan Ranasinghe and other officials of Colombo Ruwan Ranasinghe came to Beira Lake.
 
-ගුවන් යානයෙන් පැමිණි පිරිස පිළිගැනීම සඳහා ප්‍රවාහන, මහාමාර්ග හා සිවිල් ගුවන්සේවා අමාත්‍ය බිමල් රත්නායක, ආරක්ෂක ලේකම් සම්පත් තුයියකොන්තා සහ සිනමන් හෝටල් සමූහයේ සභාපති ක්‍රිෂාන් බාලේන්ද්‍ර යන මහත්වරුන් Cinnamon Lake side ජැටිය වෙත පැමිණ සිටියේය.
+Transport, Highways and Civil Aviation Minister Bimal Ratnayake, Secretary Defense and Cinnamon Hotel Chairman Krishan Balendra was present at the Cinnamon Lake Side Jetty.
 
-අනතුරුව ගුවන් යානයට ගොඩවූ බිමල් රත්නායක අමාත්‍යවරයා එහි ප්‍රධාන ගුවන් නියමුවා වූ කපිතාන් ඉන්දික ප්‍රේමදාස සහ සහයක නියමුවරයා වූ ඉසුරු මුණසිංහ යන මහත්වරුන් සමඟ සුහද කතාබහක නිරත විය.
+Minister Bimal Ratnayake, who was launched on the plane, was in a friendly conversation with the Chief Prelate of the Captain Indika Premadasa and the Assistant Pilot.
 
 ◼️
 
 [Data](articles/9b887b69.json)
 
+[Extended Data](ext_articles/9b887b69.ext.json)
+
 ---
 
-### කෙහෙල්බද්දර පද්මෙට අයත් තවත් ගිනිඅවියක් ඌරගස්මංහන්දියෙන් හමුවෙයි
+### பாதாள ஆட்சியை முறியடித்து சமூக சீர்திருத்தத்திற்கு அரசாங்கம் உறுதி – ஜனாதிபதி அநுரகுமார திசாநாயக்க
+
+*2025-10-03 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226832) · `ta`
+
+வீழ்ச்சியடைந்த நாட்டின் பொருளாதாரத்தை மீண்டும் கட்டியெழுப்புவதோடு, அனைத்து வகையிலும் சரிவடைந்துள்ள சமூகத்தை சீர்படுத்தும் பொறுப்பையும் அரசாங்கம் ஏற்றுக்கொண்டுள்ளதாகவும், போதைப்பொருள் கடத்தல் மற்றும் துப்பாக்கி வன்முறையால் சமூகத்தை பாரிய அழிவுக்கு இட்டுச் சென்ற பாதாள ஆட்சியை முடிவுக்குக் கொண்டுவர அரசாங்கம் எடுத்த நடவடிக்கைகளை ஒருபோதும் மாற்றியமைக்கப் போவதில்லை என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தினார்.
+
+அந்த சமூக மறுமலர்ச்சியைக் கொண்டுவருவதில் மகா சங்கத்தினருக்கு முக்கிய பங்கு உண்டு என்று சுட்டிக்காட்டிய ஜனாதிபதி, கடந்த காலங்களில், அரசுக்கு சவால் விடப்பட்ட போதெல்லாம், அதற்கு எதிராக முன்வந்தது மகா சங்கத்தினரே என்றும் குறிப்பிட்டார்.
+
+கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க மகுல் மடுவவில் வெள்ளிக்கிழமை (03) பிற்பகல் நடைபெற்ற சியம் மகா நிக்காயவின் அஸ்கிரி மகா விகாரை தரப்பின் புதிய அனுநாயக்க அதி வணக்கத்திற்குரிய நாரன்பனாவே ஆனந்த நாயக்க தேரருக்கு ஸ்ரீ சன்னஸ் பத்திரத்தை வழங்கும் நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/6033d820.json)
+
+---
+
+### Another fireman in Kehelbaradara Padma meets Uragasmanathan
 
 *2025-10-03 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215308) · `si`
 
-කෙහෙල්බද්දර පද්මෙට අයත් යැයි කියන තවත් ගිනිඅවියක් ඌරගස් මංහන්දිය ප්‍රදේශයෙන් අද (03) සොයා ගෙන තිබේ.
+Another firearm was found in Kehelbaram from the Uraugas Junction this morning (03).
 
-ඌරගස්මංහන්දිය පොලිස් වසමේ අතුරු මාර්ගයක සඟවා තිබියදී මෙම ගිනිඅවිය සොයා ගත් බව පොලීසිය පැවසුවේය.
+The firearm was found while hiding on the Uragasmanhandiya police division.
 
-ඒ අනුව එහි සඟවා තිබී මයික්‍රෝ වර්ගයේ පිස්තෝලයක් හා පතරොම් ගැබක් පොලීසිය සිය භාරයට ගෙන ඇත.
+Accordingly, the police have taken the micro pistol and the Foremost house.
 
-මේ අතර කෙහෙල්බද්දර පද්මේගේ මව විසින් අභියාචනාධිකරණයට රිට් පෙත්සමක් ගොනු කර තිබේ.
+Meanwhile, the mother of Kehelbhadara Padma's mother has filed a film to the Court of Appeal.
 
-ඒ සිය පුත්‍රයාට එරෙහිව නිකුත් කරන ලද රැඳවුම් නියෝගය නීතිවිරෝධී බව ප්‍රකාශ කරමිනි.
+The detention order issued against his son is illegal.
 
-ඒ අනුව ඇය විසින් හබයාස් කෝපස් සහ රිට් අධිකරණ බලය මගින් නියෝගයක් ඉල්ලා මෙම රිට් පෙත්සම ගොනු කර තිබේ.
+Accordingly, she has filed the writ petition for the order by Habayas Corpus and Rit jurisdiction.
 
-පෙත්සමේදී ඇය විසින් නඩුව අවසාන තීරණය ගන්නා තෙක් රැඳවියා අපරාධ පරීක්ෂ දෙපාර්තමේන්තුවෙන් පිටත ඕනෑම ස්ථානයකට මාරු කිරීම වැළැක්වීම සඳහා අතුරු සහනයක් ඉල්ලා ඇත.
+An interim relief has been requested to prevent the Inmate Inspector General out of the Criminal Inspection Department until the final decision.
 
-ඒ අනුව මෙම කාරණය විභාගයට ගත් විට නීතිපති දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි නීතීඥවරයා අධිකරණයට සහතික වී ඇත්තේ නඩුවේ කරුණු පරීක්ෂා කර තහවුරු කරන තුරු රැඳවියා වෙනත් ස්ථානයකට මාරු නොකරන බවය.
+Accordingly, the lawyer who appeared for the Attorney General's Department was assured of the Attorney General's Department that the inmate would not be transferred elsewhere until the case was examined in the case.
+
+The lawyer also said that all the investigations conducted by the Criminal Inspector during the department's premises were held in the court.
 
 ...
 
 [Data](articles/43fd4608.json)
+
+[Extended Data](ext_articles/43fd4608.ext.json)
 
 ---
 
@@ -344,6 +418,22 @@ Accordingly, the committee had a long discussion on the interest rate on obtaine
 [Data](articles/4fa848f6.json)
 
 [Extended Data](ext_articles/4fa848f6.ext.json)
+
+---
+
+### Court grants permission to detain and question ‘Beliatte Sana’
+
+*2025-10-03 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/113192/court-grants-permission-to-detain-and-question-beliatte-sana) · `en`
+
+The Tangalle Magistrate’s Court has granted permission for police to detain and interrogate Sanath Weerasinghe, also known as ‘Beliatta Sanaa,’ who was arrested in connection with the large haul of narcotics recently seized in Seenimodara, Tangalle.
+
+Accordingly, Additional Magistrate Vidura Weerakoon permitted police to detain and interrogate the suspect until October 9, police said.
+
+The suspect was arrested on October 1 by the Tangalle Divisional Crime Investigation Unit.
+
+◼️
+
+[Data](articles/411ec493.json)
 
 ---
 
@@ -971,6 +1061,22 @@ Eligibility workers receive a 63-month contract period and the overtime allowanc
 
 ---
 
+### மாகாண சபைத் தேர்தல் – சட்ட சிக்கல்களுக்கு தீர்வு வழங்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் - தேர்தல்கள் ஆணைக்குழு
+
+*2025-10-03 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226806) · `ta`
+
+மாகாண சபை தேர்தல் குறித்து அரசியல் கட்சிகள் விசேட அவதானம் செலுத்தியுள்ளமை வரவேற்கத்தக்கது. மாகாண சபைத் தேர்தலை நடத்துவதில் உள்ள அடிப்படை சட்ட சிக்கல் குறித்து அரசாங்கம் விசேட கவனம் செலுத்தி, அதற்கான தீர்வினை வெகுவிரைவில் முன்வைக்க வேண்டும் என்று வலியுறுத்துகிறோம் என்று தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்தார்.
+
+காலவரையறையின்றி பிற்போடப்பட்டுள்ள மாகாண சபைத் தேர்தலை வெகுவிரைவாக நடத்த வேண்டும் என்ற நிலைப்பாட்டில் உறுதியாகவுள்ளோம். மாகாண சபைத் தேர்தலை பழைய தேர்தல் முறையில் நடத்துவதா அல்லது புதிய தேர்தல் முறையில் நடத்துவதா என்பதில் சட்ட சிக்கல் காணப்படுகிறது.
+
+மாகாண சபைத் தேர்தலில் காணப்படும் சட்ட சிக்கலுக்கு பாராளுமன்றத்தின் ஊடாகவே தீர்வு காண முடியும் என்று உயர்நீதிமன்றம் பலமுறை வியாக்கியானம் அளித்துள்ளது. ஆகவே இந்த சட்ட சிக்கலுக்கு தீர்வு காண்பதற்கு சகல அரசியல் கட்சிகளும் ஒன்றிணைந்து செயற்பட வேண்டும் என்பதை தொடர்ந்து குறிப்பிட்டு வருகிறோம்.
+
+...
+
+[Data](articles/26391d8d.json)
+
+---
+
 ### President meets Chief Prelates of Malwathu and Asgiri Chapters
 
 *2025-10-03 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/113189/president-meets-chief-prelates-of-malwathu-and-asgiri-chapters) · `en`
@@ -1301,6 +1407,24 @@ Speaking at the event, the Prime Minister praised the importance of this joint v
 
 ---
 
+### தன்பாலீர்ப்பின சுற்றுலாப்பயணிகள் சர்ச்சைக்கு அரசாங்கத்தின் பதில் !
+
+*2025-10-03 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226779) · `ta`
+
+நாட்டின் கலாசாரத்தை சீரழித்து, தரத்தை தாழ்த்திக் கொண்டு சுற்றுலாப்பயணிகளின் எண்ணிக்கையை அதிகரிக்க வேண்டிய தேவை அரசாங்கத்துக்கு இல்லை. எந்த வகையிலும் தன்பாலீர்ப்பின சுற்றுலாப்பயணிகளை நாட்டுக்கு வரவழைப்பதை மேம்படுத்த அரசாங்கத்தால் எந்தவொரு நடவடிக்கையும் எடுக்கப்படமாட்டாது. அது அரசாங்கத்தின் கொள்கையும் அல்ல என வெளிவிவகார, வெளிநாட்டு வேலை வாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் தெரிவித்தார்.
+
+சர்வதேச சுற்றுலா தலைமைத்துவ  மாநாடு  வியாழக்கிழமை (02) கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஜனாதிபதி அநுர குமார திசாநாயக்க தலைமையில் நடைபெற்றது.
+
+இந்நிகழ்வில் உரையாற்றிய போதே அமைச்சர் விஜித ஹேரத் இதனைத் தெரிவித்தார். நிகழ்வில் தொடர்ந்தும் உரையாற்றிய அவர்,
+
+எமது பொருளாதார இலக்கை அடைவதற்கு சுற்றுலாத்துறையின் ஊடாக பாரிய ஒத்துழைப்புக்கள் கிடைக்கின்றன. இவ்வாண்டு இதுவரையான காலப்பகுதியில் சுற்றுலாத்துறை வருமானம் 2.2 பில்லியனை கடந்துள்ளது.
+
+...
+
+[Data](articles/4cf124c3.json)
+
+---
+
 ### Body Punishment of Children: Law is not allowed in Parliament;  Harshana Nanayakkara
 
 *2025-10-03 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226777) · `ta`
@@ -1322,6 +1446,24 @@ We would like to point out that the amendment bill in the sentence of the prosec
 [Data](articles/c7a99e06.json)
 
 [Extended Data](ext_articles/c7a99e06.ext.json)
+
+---
+
+### ඉන්දියාව හා චීනය ගුවනින් යළි එක්වෙයි
+
+*2025-10-03 15:45:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-චීනය-ගුවනින්-යළි-එක්වෙයි/11-418902) · `si`
+
+චීන හා ඉන්දියා සබඳතා ක්‍රමයෙන් සාමාන්‍යකරණය කිරීමේ තවත් පියවරක් ලෙස, ඉන්දියාව සහ චීනය මෙම මාසයේ දී රටවල් අතර සෘජු ගුවන් ගමන් නැවත ආරම්භ කරන බව ඉන්දීය විදේශ අමාත්‍යාංශය පවසයි.
+
+හිමාලයානු දේශසීමාවේ මාරාන්තික චීන හා ඉන්දිය හමුදා ගැටුම් වලින් පසුව, 2020 සිට දෙරට අතර සෘජු ගුවන් ගමන් නවතා දැමීය
+
+නමුත් පසුගිය වසරක පමණ කාලය තුළ, දිල්ලිය සහ බීජිං දේශසීමාවේ ආතතීන් සමනය කිරීමට පියවර ගැනීම ඇතුළුව සබඳතා නැවත ගොඩනඟා ගැනීමට කටයුතු කරමින් සිටියි.
+
+ඉන්දියාවේ විශාලතම අඩු වියදම් ගුවන් සේවාවක් වන ඉන්ඩිගෝ ගුවන් සේවය පැවසුවේ ඔක්තෝබර් 26 සිට කොල්කටා සහ ගුවැන්ෂු නගර අතර සෘජු ගුවන් ගමන් නැවත ආරම්භ කරන බවයි.
+
+◼️
+
+[Data](articles/e5ba8313.json)
 
 ---
 
@@ -1892,175 +2034,5 @@ The deceased has been identified as Ralahmilah's monastery (56), Dambulla, D For
 [Data](articles/b276884c.json)
 
 [Extended Data](ext_articles/b276884c.ext.json)
-
----
-
-### Doctors need to adjust the signature: Court
-
-*2025-10-03 14:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவர்கள்-கையெழுத்தை-சரிசெய்ய-வேண்டும்-நீதிமன்றம்/175-365695) · `ta`
-
-The Indian court has ordered that doctors should write drugs clearly in large letters, not grains, or to be switched to digital forms.
-
-The Punjab and the Haryana High Court issued the order after a judge found the medical legal statement "incomprehensible".
-
-The court recommended the inclusion of manuscripts in the medical school curriculum, and urged the government to make digital pharmaceutical tickets compulsory within two years.. Remble
-
-◼️
-
-[Data](articles/24e288f6.json)
-
-[Extended Data](ext_articles/24e288f6.ext.json)
-
----
-
-### 562 people who left the Israeli lottery
-
-*2025-10-03 14:01:05* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-ලොතරැයියෙන්-ඉවත්වූ-562-දෙනෙකුට-යළි-රැකියා-අවස්ථා/11-418897) · `si`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) states that the Sri Lanka Bureau of Sri Lanka has been replaced by the Sri Lanka Lottery.
-
-Accordingly, 969 job seekers in the housekeeper and cleanlination industry were admitted to the lottery system. The Israeli PIBA has been selected for 562 out of the 969 jobs under the Lottery System that was implemented.. Of the 518, 518 are male candidates, and 44 are women candidates.
-
-Lottery system will inform the selected 562 days through SMS, the Bureau says that the remaining 407 students who do not gradually gradually gradually graduated.. The 4077777 people have not gradually distributed the data system in PIBA.
-
-The Bureau of Public Periodic. The Bureau requests the 1989 Instant Calling Number of the Information Bureau of such persons
-
-◼️
-
-[Data](articles/09e1bcf4.json)
-
-[Extended Data](ext_articles/09e1bcf4.ext.json)
-
----
-
-### A 14 -year -old granddaughter in Batticaloa
-
-*2025-10-03 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226781) · `ta`
-
-Batticaloa High Court Judge RJ Prabhakaran issued a decree last Thursday (25) to pay a 30 -year -old imprisonment and a penalty of 30 thousand rupees.
-
-The 56 -year -old father, aged 14, was arrested for allegedly sexually abusing three times from December 2015 to April 2016 and was shifted to the Batticaloa High Court.
-
-The prosecution was found guilty on September 9 last year after a three -year -old case of sexual abuse of a woman under Section 365 (2) of the suspect.
-
-When the case was taken up in the presence of Batticaloa High Court Judge TJ Prabhakaran on Thursday 25th, the first offense was sentenced to 10 years in prison for the first offense and a penalty of Rs. The judge ordered that the victim would be sentenced to 3 months in prison if he was not paid a penalty of 10 thousand rupees.
-
-◼️
-
-[Data](articles/e76414dc.json)
-
-[Extended Data](ext_articles/e76414dc.ext.json)
-
----
-
-### Namal asks for the Spirit's soul
-
-*2025-10-03 13:56:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නමල-තජදනග-ආතමයට-සධරණයක-ඉලලය/1-680695) · `si`
-
-Namal Rajapaksa requested the government to hold a fair investigation and justice to the cosmetic soul.
-
-Namal Rajapaksa said, "The government is using false evidence.
-
-It is not the key to the government to go to the government. The police requested to protect the dignity.
-
-The cosmetry went to make false evidence. Twenty-four hours, the media staged the media.
-
-Now hold a fair investigation. It's justice to the soul of Thajudin.
-
-◼️
-
-[Data](articles/994dd5d1.json)
-
-[Extended Data](ext_articles/994dd5d1.ext.json)
-
----
-
-### Namal asks for the Spirit's soul
-
-*2025-10-03 13:56:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නමල-තජදනග-ආතමයට-සධරණයක-ඉලලය/101-680695) · `si`
-
-Namal Rajapaksa requested the government to hold a fair investigation and justice to the cosmetic soul.
-
-Namal Rajapaksa said, "The government is using false evidence.
-
-It is not the key to the government to go to the government. The police requested to protect the dignity.
-
-The cosmetry went to make false evidence. Twenty-four hours, the media staged the media.
-
-Now hold a fair investigation. ඒක තාජුඩින්ගේ ආත්මයට කරන සාධාරණයක්.
-
-◼️
-
-[Data](articles/1646e313.json)
-
-[Extended Data](ext_articles/1646e313.ext.json)
-
----
-
-### America's largest oil refinery fire
-
-*2025-10-03 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215292) · `si`
-
-A large fire in the Chevring Refinery of Angeles, a largest oil refinery in the US western coast, has broken the largest oil refinery.
-
-Foreign media reports that the flames of the oil refinery appear in the sky.
-
-The cause of the fire is yet to be revealed, and the report on an explosion has come to the refrigency and commences fire to the refrigency.
-
-However, the public security has no immediate threat, but the people have been informed to stay indoors.
-
-The refinery covers approximately 3.9 square kilometers and there is more than 1,770 km long roads.
-
-Since 1911, the refinement of 290,000 barrels of crude daily can be refined.
-
-◼️
-
-[Data](articles/edbc02c1.json)
-
-[Extended Data](ext_articles/edbc02c1.ext.json)
-
----
-
-### Soldier sells ice that came on vacation
-
-*2025-10-03 13:47:31* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩුවට-ආපු-සෙබලා-අයිස්-විකුණයි/11-418896) · `si`
-
-Middeniya Police have arrested a soldier who was engaged in racket in the possession of ice at a rackery in Midrakolaha area.
-
-The arrested was a 37-year-old Army soldier who is attached to the 18th Senmya Headquarters in Hambantota, which is residents of Embilipitiya.
-
-The suspect was arrested in possession of the Ice drug in possession of the suspect. When the suspect was handed over to the house, he was engaged in the racket of ice.
-
-The suspect is to be produced before the Walasmulla Magistrate's Court and the Middeniya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/fbd8ca4b.json)
-
-[Extended Data](ext_articles/fbd8ca4b.ext.json)
-
----
-
-### Wild elephant killed in train collision in Habarana
-
-*2025-10-03 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113183/wild-elephant-killed-in-train-collision-in-habarana) · `en`
-
-A wild elephant was struck and killed by a fuel train near the 137 ½ Mile Post on the Eastern Railway Line, between Habarana and Hatares Kotuwa stations, today (03).
-
-Officials from Kaudulla National Park reported that the train, travelling from Colombo to Batticaloa, hit the elephant at around 12.55 a.m.
-
-The deceased elephant was around 12 years old and stood five feet seven inches tall, said Ada Derana reporter.
-
-The elephant had collided with the train and was dragged on for nearly 100 meters before coming to a stop.
-
-Wildlife officials and local residents suggested that the accident may have been caused by careless operation of the train, despite the visibility of the track from a distance.
-
-Investigations indicate that the wild elephant was crossing from Hurulu Forest Reserve to Gal Oya National Park when the collision occurred.
-
-...
-
-[Data](articles/682160b8.json)
-
-[Extended Data](ext_articles/682160b8.ext.json)
 
 ---

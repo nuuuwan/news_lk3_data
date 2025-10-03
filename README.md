@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 21:06:41**
+As of **2025-10-03 20:55:46**
 
 ## Newspaper Stats
 
-*Scraped **80,940** Articles*
+*Scraped **80,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,37 +21,17 @@ adalk | 7,771
 adaderanalk | 10,416
 tamilmirrorlk | 12,035
 virakesarilk | 13,270
-adaderanasinhalalk | 13,925
+adaderanasinhalalk | 13,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,939 (100.0%) of 80,940 articles have been extended.
+80,930 (100.0%) of 80,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
-
-### නේපාලයේ නව කන්‍යා දෙව්දුව තෝරාගනී
-
-*2025-10-03 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215310) · `si`
-
-නේපාලයේ, ජීවමාන කන්‍යා දෙව්දුව හෙවත් 'කුමාරිය' ලෙස අවුරුදු දෙකයි මාස අටක් වයසැති ආර්යතරා ශාක්‍යා නම් දැරිය නම් කර තිබේ.
-
-මීට පෙර කුමාරිය ලෙස නම් කර සිටි ගැහැණු දරුවා වැඩිවියට පැමිණීමත් සමඟ නව කුමාරියක් පත්කිරීම සිදු කෙරිණි.
-
-දැරියගේ පවුලේ සාමාජිකයින් කත්මන්ඩුහි නිවසේ සිට ඇය නව වාසස්ථානය වන ආගමික සිද්ධස්ථානය වෙත රැගෙන ආවේ පෙරහැරකිනි.
-
-කන්‍යා දෙව්දුව ලෙස තෝරා ගැණෙන්නේ අවුරුදු දෙකත් - හතරත් අතර වයස් කාණ්ඩයේ, ලප කැළල් රහිත පැහැපත් සමක් ඇති, අඳුරට බිය නොවන දැරියකි.
-
-මෙම උත්සවය එරට පැරැණිතම සහ වැදගත් හින්දු ආගමික උත්සවය ලෙස සැලකෙන අතර මෙලෙස තෝරා ගැනෙන කන්‍යා දෙව්දුව බෞද්ධ සහ හින්දු ආගමික කණ්ඩායම් දෙකෙහිම ගෞරවයට පාත්‍ර වේ.
-
-◼️
-
-[Data](articles/53ddf739.json)
-
----
 
 ### Mahinda handed down
 
@@ -75,67 +55,53 @@ After the former presidents' Facilitation Elimination Eliminating Bill, the Bang
 
 ---
 
-### Mahinda handed down
+### මහින්දගේ වෙඩි නොවදින රථයත් බාරදෙයි
 
 *2025-10-03 20:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-වඩ-නවදන-රථයත-බරදය/101-680715) · `si`
 
-Former President Mahinda Rajapaksa's bulletproof was handed over to the bulletproof-baked vehicle.
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට දී තිබූ වෙඩි නොවදින රථයද අද බාර දුන් බව හිටපු ජනාධිපතිවරයාගේ මාධ්‍ය ප්‍රකාශක නීතිඥ  මනෝජ්  ගමගේ මහතා පැවසීය.
 
-Thus, the former president's security personnel have not been used
+මේ අනුව හිටපු ජනාධිපතිවරයාගේ ආරක්ෂක අංශ නිලධාරීන්ගේ  පාවිච්චියට  මේ වනවිට එකම  වාහනයක් හෝ නොමැත
 
-Former Presidential Facilities Removal Bill was passed in Parliament recently. Thus, all the facilities were lost other than the pension of former presidents.
+හිටපු ජනාධිපතිවරුන්ගේ පහසුකම් ඉවත් කිරීමේ පනත් කෙටුම්පත පාර්ලිමේන්තුවේදී පසුගියදා සම්මත කෙරිණ. මේ අනුව හිටපු ජනාධිපති වරුන්ගේ විශ්‍රාම වැටුප හැර අනෙකුත් සියලුම පහසුකම් අහිමි වී ගියේය.
 
-Also, the wife of former President Ranasinghe Premadasa losing the pension and all other facilities
+එසේම  හිටපු ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාගේ බිරිඳගේ විශ්‍රාම වැටුප මෙන්ම අනෙකුත් සියලුම පහසුකම්ද අහිමිවී  ගොස් අැත
 
-After the former presidents' Facilitation Elimination Eliminating Bill, the Bangabayan of the Wijerama Mawatha, who was residents of the Wijerama Mawatha, left on Carlton House on the 11th.
+හිටපු ජනාධිපතිවරුන්ගේ පහසුකම් ඉවත් කිරීමේ පනත් කෙටුම්පත සම්මත වීමෙන් පසු හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඹහු  පදිංචිව සිටි කොළඹ  විජේරාම මාවතේ රජයේ  බංගලාෙවන් පසුගිය 11 වැනිදා   තංගල්ලේ කාල්ටන් නිවෙසට පිටව ගියේය.
 
 ◼️
 
 [Data](articles/5f2b7008.json)
 
-[Extended Data](ext_articles/5f2b7008.ext.json)
-
 ---
 
-### A special reporter should be appointed to a country regarding Sri Lanka - Sivagnanam Sridharan
+### இலங்கை தொடர்பில் ஒரு நாட்டுக்கே உரிய சிறப்பு அறிக்கையாளர் நியமிக்கப்படவேண்டும் - சிவஞானம் சிறிதரன்
 
 *2025-10-03 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226833) · `ta`
 
-Many witnesses and the families of the survivors who survived the violations are old and many have died. And many people live in fear and faith. Sivagnanam Sridharan, the leader of the Sri Lanka Tamil National Alliance (TNA), has urged the UN Human Rights Council on the side of the session of the United Nations Human Rights Council to appoint a special reporter for a country in Sri Lanka to uphold justice for the affected parties.
+பல சாட்சியாளர்களும், மீறல்களிலிருந்து உயிர் தப்பியவர்களின் குடும்பத்தினரும் வயது முதிர்வடைந்திருப்பதுடன் பலர் உயிரிழந்துள்ளனர். மேலும் பலர் அச்சத்திலும், நம்பிக்கை இழந்தும் வாழ்ந்துவருகின்றனர். எனவே பாதிக்கப்பட்ட தரப்பினருக்கான நீதியை நிலைநாட்டும் வகையில் இலங்கை தொடர்பில் ஒரு நாட்டுக்கே உரிய சிறப்பு அறிக்கையாளர் நியமிக்கப்படவேண்டும் என இலங்கைத் தமிழரசுக்கட்சியின் பாராளுமன்றக்குழுத்தலைவர் சிவஞானம் சிறிதரன் ஐ.நா மனித உரிமைகள் பேரவைக் கூட்டத்தொடரின் பக்க நிகழ்வில் வலியுறுத்தியுள்ளார்.
 
-The 60th session of the United Nations Human Rights Council commenced on the 8th. Sridharan stressed the above while addressing the event held on the sidelines of the meeting.. There he added:
-
-I would like to express my long -term concern over the continued occupation of the military. People living in these areas are still sacrificed to the tyrannical rules of the terrorism law that suppresses human rights.
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஆரம்பமானது. இக்கூட்டத்தொடரின் ஓரங்கமாக நடைபெற்ற பக்க நிகழ்வில் உரையாற்றியபோதே சிறிதரன் மேற்கண்டவாறு வலியுறுத்தினார். அங்கு அவர் மேலும் கூறியதாவது;
 
 ...
 
 [Data](articles/dbfe88ed.json)
 
-[Extended Data](ext_articles/dbfe88ed.ext.json)
-
 ---
 
-### The decision to increase electricity tariff on the 15th
+### විදුලි ගාස්තු ඉහළ දැමීමේ තීරණය 15වැනිදා
 
 *2025-10-03 19:58:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදල-ගසත-ඉහළ-දමම-තරණය-15වනද/101-680714) · `si`
 
-The Ceylon Electricity Board (CEB) The Ceylon Electricity Board (CEB) is announced by the Public Utilities Proceedings of the Ceylon Electricity Monetary Motion to increase the electricity fund by 6.8 percent.
+විදුලි ගාස්තුව සියයට 6.8කින් ඉහළ නැංවීමට ලංකා විදුලිබල මණ්ඩලය පසුගිය සැපු්තැමබර් මස කළ යෝජනාව පිළිබඳ මහජන උපයෝගිතා කොමිෂන් සභාවේ තීරණය මෙම මස තුන්වැනි සතියේ නිවේදනය කරන බවත් එම නිවේදනය මෙම මස 15 වැනිදා කිරීමට වැඩි අවස්ථාවක් ඇති බවත් එම කොමිෂමේ උසස් නිලධාරියෙක් ‘ලංකාදීප’යට අද (3) පැවසීය.
 
-The official said that public comments on the process of the telephone revision is currently underway, the final session of the Western Provincial Council will be decided on the reference to the remembrance of the fee.
+එම විදුලි ගාස්තු සංශෝධනය පිළිබඳව වන ක්‍රියාවලියේ මහජන අදහස් විමසීම මේ වන විට ක්‍රියාත්මක වන බවත් එහි අවසන් සැසිය වන බස්නාහිර පළාත් රැස්වීම මෙම මස 8 වැනිදා පැවැත්වීමෙන් පසුව ගාස්තු සංශෝධනය පිළිබඳ අවසන් තිරණය ගන්නා බවත් එම නිලධාරියා සඳහන් කළේය.
 
-The official revision of the Television and the electricity tariff is said to be the fiercely alert of expenditure estimates.
+මෙම ගාස්තු සංශෝධනයේදී විදුලිබල පනතට සහ විදුලි ගාස්තු මිල සූත්‍රයට අනුව කටයුතු කරන බව කී එම නිලධාරියා ඒ අනුව විදුලිබල මණ්ඩලය අවසන් වශයෙන් කළ යෝජනාවේ වියදම් ඇස්තමේන්තු කීපයක් පිළිබඳව දැඩි අවදානය යොමු වී ඇති බව ද සඳහන් කළේය.
 
-The official said that the proposal was being studied by the Public Utilities and the electricity per fuel purchase of fuel power plants, the electricity booty cost and the fuel power plants.
-
-The CEB engineering engineering engineering Engineer (CEB) has demanded an increase in the fee.
-
-It is estimated that an increase of Rs. 17,694 million, or Rs.
-
-◼️
+...
 
 [Data](articles/a1d27c78.json)
-
-[Extended Data](ext_articles/a1d27c78.ext.json)
 
 ---
 
@@ -185,23 +151,19 @@ Minister Bimal Ratnayake, who was launched on the plane, was in a friendly conve
 
 ---
 
-### President Anurakumara Dissanayake pledged to defeat the underworld
+### பாதாள ஆட்சியை முறியடித்து சமூக சீர்திருத்தத்திற்கு அரசாங்கம் உறுதி – ஜனாதிபதி அநுரகுமார திசாநாயக்க
 
 *2025-10-03 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226832) · `ta`
 
-President Anuragumara Dissanayake stressed that the government has taken the responsibility of rebuilding the economy of the country and rejuvenating the society that has collapsed in all respects and that the government will never change the action taken by the government to end the underworld by drug trafficking and gun violence.
+வீழ்ச்சியடைந்த நாட்டின் பொருளாதாரத்தை மீண்டும் கட்டியெழுப்புவதோடு, அனைத்து வகையிலும் சரிவடைந்துள்ள சமூகத்தை சீர்படுத்தும் பொறுப்பையும் அரசாங்கம் ஏற்றுக்கொண்டுள்ளதாகவும், போதைப்பொருள் கடத்தல் மற்றும் துப்பாக்கி வன்முறையால் சமூகத்தை பாரிய அழிவுக்கு இட்டுச் சென்ற பாதாள ஆட்சியை முடிவுக்குக் கொண்டுவர அரசாங்கம் எடுத்த நடவடிக்கைகளை ஒருபோதும் மாற்றியமைக்கப் போவதில்லை என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தினார்.
 
-Pointing out that the Maha Sangam has an important role in bringing that social revival, the President said that in the past, whenever the government was challenged, it was the Maha Sangam.
+அந்த சமூக மறுமலர்ச்சியைக் கொண்டுவருவதில் மகா சங்கத்தினருக்கு முக்கிய பங்கு உண்டு என்று சுட்டிக்காட்டிய ஜனாதிபதி, கடந்த காலங்களில், அரசுக்கு சவால் விடப்பட்ட போதெல்லாம், அதற்கு எதிராக முன்வந்தது மகா சங்கத்தினரே என்றும் குறிப்பிட்டார்.
 
-The President said this while addressing the Sri Sannaz bond in the historic Magul Maduwa in Kandy on Friday afternoon (03).
-
-The president praised the national, religious, social and social services by Ananda Nayaka Thera, a devotee, decent and most talented, great charioteer, and pointed out that this age is a need for thousands of spiritual leaders such as Ananda Anunayaka Thera.
+கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க மகுல் மடுவவில் வெள்ளிக்கிழமை (03) பிற்பகல் நடைபெற்ற சியம் மகா நிக்காயவின் அஸ்கிரி மகா விகாரை தரப்பின் புதிய அனுநாயக்க அதி வணக்கத்திற்குரிய நாரன்பனாவே ஆனந்த நாயக்க தேரருக்கு ஸ்ரீ சன்னஸ் பத்திரத்தை வழங்கும் நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
 
 ...
 
 [Data](articles/6033d820.json)
-
-[Extended Data](ext_articles/6033d820.ext.json)
 
 ---
 
@@ -472,8 +434,6 @@ The suspect was arrested on October 1 by the Tangalle Divisional Crime Investiga
 ◼️
 
 [Data](articles/411ec493.json)
-
-[Extended Data](ext_articles/411ec493.ext.json)
 
 ---
 
@@ -1101,23 +1061,19 @@ Eligibility workers receive a 63-month contract period and the overtime allowanc
 
 ---
 
-### Provincial Council Election - Government should take steps to address legal issues - Elections Commission
+### மாகாண சபைத் தேர்தல் – சட்ட சிக்கல்களுக்கு தீர்வு வழங்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் - தேர்தல்கள் ஆணைக்குழு
 
 *2025-10-03 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226806) · `ta`
 
-It is welcome that political parties have paid special attention to the provincial council election. The Chairman of the Elections Commission, RMAL, urges the government to pay special attention to the basic legal issue in conducting the provincial council election and put forward a solution to the solution quickly.. Ratnayake said.
+மாகாண சபை தேர்தல் குறித்து அரசியல் கட்சிகள் விசேட அவதானம் செலுத்தியுள்ளமை வரவேற்கத்தக்கது. மாகாண சபைத் தேர்தலை நடத்துவதில் உள்ள அடிப்படை சட்ட சிக்கல் குறித்து அரசாங்கம் விசேட கவனம் செலுத்தி, அதற்கான தீர்வினை வெகுவிரைவில் முன்வைக்க வேண்டும் என்று வலியுறுத்துகிறோம் என்று தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்தார்.
 
-We are determined to hold an indefinitely delayed provincial council election. There is a legal problem whether the provincial council election is held in the old electoral system or the new electoral system.
+காலவரையறையின்றி பிற்போடப்பட்டுள்ள மாகாண சபைத் தேர்தலை வெகுவிரைவாக நடத்த வேண்டும் என்ற நிலைப்பாட்டில் உறுதியாகவுள்ளோம். மாகாண சபைத் தேர்தலை பழைய தேர்தல் முறையில் நடத்துவதா அல்லது புதிய தேர்தல் முறையில் நடத்துவதா என்பதில் சட்ட சிக்கல் காணப்படுகிறது.
 
-The Supreme Court has repeatedly stated that the legal issue in the provincial council election can be resolved through Parliament.. We continue to mention that all political parties should work together to address this legal problem.
+மாகாண சபைத் தேர்தலில் காணப்படும் சட்ட சிக்கலுக்கு பாராளுமன்றத்தின் ஊடாகவே தீர்வு காண முடியும் என்று உயர்நீதிமன்றம் பலமுறை வியாக்கியானம் அளித்துள்ளது. ஆகவே இந்த சட்ட சிக்கலுக்கு தீர்வு காண்பதற்கு சகல அரசியல் கட்சிகளும் ஒன்றிணைந்து செயற்பட வேண்டும் என்பதை தொடர்ந்து குறிப்பிட்டு வருகிறோம்.
 
-The government should create an environment where the provincial council election is held quickly. He said the election could be held quickly if the legal problem is solved.
-
-◼️
+...
 
 [Data](articles/26391d8d.json)
-
-[Extended Data](ext_articles/26391d8d.ext.json)
 
 ---
 
@@ -1451,25 +1407,21 @@ Speaking at the event, the Prime Minister praised the importance of this joint v
 
 ---
 
-### Government's response to controversy
+### தன்பாலீர்ப்பின சுற்றுலாப்பயணிகள் சர்ச்சைக்கு அரசாங்கத்தின் பதில் !
 
 *2025-10-03 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226779) · `ta`
 
-The government does not need to degrade the country's culture, lower the quality and increase the number of tourists. No action will be taken by the government to improve the summons of the country in any way. Foreign, Foreign Employment and Tourism Minister Vijitha Herath said it was not the government's policy.
+நாட்டின் கலாசாரத்தை சீரழித்து, தரத்தை தாழ்த்திக் கொண்டு சுற்றுலாப்பயணிகளின் எண்ணிக்கையை அதிகரிக்க வேண்டிய தேவை அரசாங்கத்துக்கு இல்லை. எந்த வகையிலும் தன்பாலீர்ப்பின சுற்றுலாப்பயணிகளை நாட்டுக்கு வரவழைப்பதை மேம்படுத்த அரசாங்கத்தால் எந்தவொரு நடவடிக்கையும் எடுக்கப்படமாட்டாது. அது அரசாங்கத்தின் கொள்கையும் அல்ல என வெளிவிவகார, வெளிநாட்டு வேலை வாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத் தெரிவித்தார்.
 
-The International Tourism Leadership Conference was held on Thursday (02) at the Bandaranaike Memorial International Conference Hall in Colombo under the patronage of President Anura Kumara Dissanayake.
+சர்வதேச சுற்றுலா தலைமைத்துவ  மாநாடு  வியாழக்கிழமை (02) கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஜனாதிபதி அநுர குமார திசாநாயக்க தலைமையில் நடைபெற்றது.
 
-Minister Vijitha Herath said this while addressing the event.. He continued to address the event,
+இந்நிகழ்வில் உரையாற்றிய போதே அமைச்சர் விஜித ஹேரத் இதனைத் தெரிவித்தார். நிகழ்வில் தொடர்ந்தும் உரையாற்றிய அவர்,
 
-Massive cooperation is available through the tourism industry to achieve our economic goal. Tourism revenues have crossed 2.2 billion this year.
-
-At the same time, the arrival of tourists has increased greatly. For the first time in history in September, the attendance of the highest number of tourists in September.
+எமது பொருளாதார இலக்கை அடைவதற்கு சுற்றுலாத்துறையின் ஊடாக பாரிய ஒத்துழைப்புக்கள் கிடைக்கின்றன. இவ்வாண்டு இதுவரையான காலப்பகுதியில் சுற்றுலாத்துறை வருமானம் 2.2 பில்லியனை கடந்துள்ளது.
 
 ...
 
 [Data](articles/4cf124c3.json)
-
-[Extended Data](ext_articles/4cf124c3.ext.json)
 
 ---
 
@@ -1497,23 +1449,21 @@ We would like to point out that the amendment bill in the sentence of the prosec
 
 ---
 
-### Air and China joins air
+### ඉන්දියාව හා චීනය ගුවනින් යළි එක්වෙයි
 
 *2025-10-03 15:45:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-චීනය-ගුවනින්-යළි-එක්වෙයි/11-418902) · `si`
 
-According to India and China, India and China will resume direct flights between countries in this month, the Indian Foreign Ministry said.
+චීන හා ඉන්දියා සබඳතා ක්‍රමයෙන් සාමාන්‍යකරණය කිරීමේ තවත් පියවරක් ලෙස, ඉන්දියාව සහ චීනය මෙම මාසයේ දී රටවල් අතර සෘජු ගුවන් ගමන් නැවත ආරම්භ කරන බව ඉන්දීය විදේශ අමාත්‍යාංශය පවසයි.
 
-After 2020, the deadly Chinese and Indian Army was suspended between 2020 and the two countries
+හිමාලයානු දේශසීමාවේ මාරාන්තික චීන හා ඉන්දිය හමුදා ගැටුම් වලින් පසුව, 2020 සිට දෙරට අතර සෘජු ගුවන් ගමන් නවතා දැමීය
 
-However, over the past year, about taking steps to rebuild ties, including taking steps to relieve tensions on Delhi and Beijing borders.
+නමුත් පසුගිය වසරක පමණ කාලය තුළ, දිල්ලිය සහ බීජිං දේශසීමාවේ ආතතීන් සමනය කිරීමට පියවර ගැනීම ඇතුළුව සබඳතා නැවත ගොඩනඟා ගැනීමට කටයුතු කරමින් සිටියි.
 
-India's largest low-cost airline, IndiGo Airlines, said that direct flights would be restarted between Kolkata and Guangzu cities.
+ඉන්දියාවේ විශාලතම අඩු වියදම් ගුවන් සේවාවක් වන ඉන්ඩිගෝ ගුවන් සේවය පැවසුවේ ඔක්තෝබර් 26 සිට කොල්කටා සහ ගුවැන්ෂු නගර අතර සෘජු ගුවන් ගමන් නැවත ආරම්භ කරන බවයි.
 
 ◼️
 
 [Data](articles/e5ba8313.json)
-
-[Extended Data](ext_articles/e5ba8313.ext.json)
 
 ---
 
@@ -2064,5 +2014,25 @@ Based on the confession made by "Kehelbattara Padme" during the trial, the gun a
 [Data](articles/e7df3c69.json)
 
 [Extended Data](ext_articles/e7df3c69.ext.json)
+
+---
+
+### 18 marves driver killed in Kithuttu accident
+
+*2025-10-03 14:15:06* · [`adalk`](https://www.ada.lk/breaking_news/කිතුල්කොටේ-අනතුරින්-තුවාල-ලබා-සිටි-18-හැවැරිදි-රියදුරුත්-මිය-යයි/11-418898) · `si`
+
+Van driver, who was injured in the Kithulkotte area of ​​the Thanamalwila police division, was killed in the accident in Kithulkotte area on the morning.. Accordingly, the death toll was killed.
+
+The 250 - 2292, which was traveling from Tanamalwila and 2292 was unable to control the speed and collided with a mango tree and teak tree.
+
+The injured were rushed to the Thanamalwila Regional Hospital and died on admission to the Tanamalwila Divisional Hospital with serious injuries.
+
+The deceased has been identified as Ralahmilah's monastery (56), Dambulla, D Forest Residence (56). Jayasinghe, a resident of Kotagasinghe, who was transferred to the Hambantota district hospital for further treatment, the youth named Jayasinghe, a young man named after receiving treatment.
+
+...
+
+[Data](articles/b276884c.json)
+
+[Extended Data](ext_articles/b276884c.ext.json)
 
 ---

@@ -1,37 +1,127 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 19:55:50**
+As of **2025-10-03 20:38:23**
 
 ## Newspaper Stats
 
-*Scraped **80,925** Articles*
+*Scraped **80,930** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 576
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 732
+lankadeepalk | 734
 colombotelegraphcom | 806
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,653
-adalk | 7,769
+adalk | 7,770
 adaderanalk | 10,415
 tamilmirrorlk | 12,035
 virakesarilk | 13,265
-adaderanasinhalalk | 13,922
+adaderanasinhalalk | 13,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,925 (100.0%) of 80,925 articles have been extended.
+80,927 (100.0%) of 80,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
+
+### මහින්දගේ වෙඩි නොවදින රථයත් බාරදෙයි
+
+*2025-10-03 20:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනදග-වඩ-නවදන-රථයත-බරදය/1-680715) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට දී තිබූ වෙඩි නොවදින රථයද අද බාර දුන් බව හිටපු ජනාධිපතිවරයාගේ මාධ්‍ය ප්‍රකාශක නීතිඥ  මනෝජ්  ගමගේ මහතා පැවසීය.
+
+මේ අනුව හිටපු ජනාධිපතිවරයාගේ ආරක්ෂක අංශ නිලධාරීන්ගේ  පාවිච්චියට  මේ වනවිට එකම  වාහනයක් හෝ නොමැත
+
+හිටපු ජනාධිපතිවරුන්ගේ පහසුකම් ඉවත් කිරීමේ පනත් කෙටුම්පත පාර්ලිමේන්තුවේදී පසුගියදා සම්මත කෙරිණ. මේ අනුව හිටපු ජනාධිපති වරුන්ගේ විශ්‍රාම වැටුප හැර අනෙකුත් සියලුම පහසුකම් අහිමි වී ගියේය.
+
+එසේම  හිටපු ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාගේ බිරිඳගේ විශ්‍රාම වැටුප මෙන්ම අනෙකුත් සියලුම පහසුකම්ද අහිමිවී  ගොස් අැත
+
+හිටපු ජනාධිපතිවරුන්ගේ පහසුකම් ඉවත් කිරීමේ පනත් කෙටුම්පත සම්මත වීමෙන් පසු හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඹහු  පදිංචිව සිටි කොළඹ  විජේරාම මාවතේ රජයේ  බංගලාෙවන් පසුගිය 11 වැනිදා   තංගල්ලේ කාල්ටන් නිවෙසට පිටව ගියේය.
+
+◼️
+
+[Data](articles/ed71bb8b.json)
+
+---
+
+### The decision to increase electricity tariff on the 15th
+
+*2025-10-03 19:58:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදල-ගසත-ඉහළ-දමම-තරණය-15වනද/1-680714) · `si`
+
+The Ceylon Electricity Board (CEB) The Ceylon Electricity Board (CEB) is announced by the Public Utilities Proceedings of the Ceylon Electricity Monetary Motion to increase the electricity fund by 6.8 percent.
+
+The official said that public comments on the process of the telephone revision is currently underway, the final session of the Western Provincial Council will be decided on the reference to the remembrance of the fee.
+
+The official revision of the Television and the electricity tariff is said to be the fiercely alert of expenditure estimates.
+
+The official said that the proposal was being studied by the Public Utilities and the electricity per fuel purchase of fuel power plants, the electricity booty cost and the fuel power plants.
+
+The CEB engineering engineering engineering Engineer (CEB) has demanded an increase in the fee.
+
+It is estimated that an increase of Rs. 17,694 million, or Rs.
+
+◼️
+
+[Data](articles/b6bfd809.json)
+
+[Extended Data](ext_articles/b6bfd809.ext.json)
+
+---
+
+### බේරේ වැව සහ කටුනායක අතර ගුවන් ගමන් ඇරඹෙයි
+
+*2025-10-03 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215309) · `si`
+
+මෙරට සංචාරක කර්මාන්තය දියුණු කිරීමේ තවත් අදියරක් වශයෙන් කොළඹ සහ කටුනායක අතර අභ්‍යන්තර ගුවන් ගමන් අද (03) පෙරවරුවේ ආරම්භ කෙරිණි.
+
+එහි සමාරම්භය සනිටුහන් කරමින් සිනමන් ගුවන් සමාගමට අයත් Cessna 208 වර්ගයේ SEAPLANE යානයක් කටුනායක ගුවන්තොටුපොළේ සිට අද පෙරවරුවේ පියාසර කෙරිණි.
+
+එම ගුවන් යානයට නැගි වරාය හා සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය ජනිත රුවන් කොඩිතුවක්කු, සංචාරක නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ යන මහත්වරුන් ඇතුළු නිලධාරීන් පිරිසක් කොළඹ බේරේ වැව දක්වා පැමිණියහ.
+
+ගුවන් යානයෙන් පැමිණි පිරිස පිළිගැනීම සඳහා ප්‍රවාහන, මහාමාර්ග හා සිවිල් ගුවන්සේවා අමාත්‍ය බිමල් රත්නායක, ආරක්ෂක ලේකම් සම්පත් තුයියකොන්තා සහ සිනමන් හෝටල් සමූහයේ සභාපති ක්‍රිෂාන් බාලේන්ද්‍ර යන මහත්වරුන් Cinnamon Lake side ජැටිය වෙත පැමිණ සිටියේය.
+
+අනතුරුව ගුවන් යානයට ගොඩවූ බිමල් රත්නායක අමාත්‍යවරයා එහි ප්‍රධාන ගුවන් නියමුවා වූ කපිතාන් ඉන්දික ප්‍රේමදාස සහ සහයක නියමුවරයා වූ ඉසුරු මුණසිංහ යන මහත්වරුන් සමඟ සුහද කතාබහක නිරත විය.
+
+◼️
+
+[Data](articles/9b887b69.json)
+
+---
+
+### කෙහෙල්බද්දර පද්මෙට අයත් තවත් ගිනිඅවියක් ඌරගස්මංහන්දියෙන් හමුවෙයි
+
+*2025-10-03 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215308) · `si`
+
+කෙහෙල්බද්දර පද්මෙට අයත් යැයි කියන තවත් ගිනිඅවියක් ඌරගස් මංහන්දිය ප්‍රදේශයෙන් අද (03) සොයා ගෙන තිබේ.
+
+ඌරගස්මංහන්දිය පොලිස් වසමේ අතුරු මාර්ගයක සඟවා තිබියදී මෙම ගිනිඅවිය සොයා ගත් බව පොලීසිය පැවසුවේය.
+
+ඒ අනුව එහි සඟවා තිබී මයික්‍රෝ වර්ගයේ පිස්තෝලයක් හා පතරොම් ගැබක් පොලීසිය සිය භාරයට ගෙන ඇත.
+
+මේ අතර කෙහෙල්බද්දර පද්මේගේ මව විසින් අභියාචනාධිකරණයට රිට් පෙත්සමක් ගොනු කර තිබේ.
+
+ඒ සිය පුත්‍රයාට එරෙහිව නිකුත් කරන ලද රැඳවුම් නියෝගය නීතිවිරෝධී බව ප්‍රකාශ කරමිනි.
+
+ඒ අනුව ඇය විසින් හබයාස් කෝපස් සහ රිට් අධිකරණ බලය මගින් නියෝගයක් ඉල්ලා මෙම රිට් පෙත්සම ගොනු කර තිබේ.
+
+පෙත්සමේදී ඇය විසින් නඩුව අවසාන තීරණය ගන්නා තෙක් රැඳවියා අපරාධ පරීක්ෂ දෙපාර්තමේන්තුවෙන් පිටත ඕනෑම ස්ථානයකට මාරු කිරීම වැළැක්වීම සඳහා අතුරු සහනයක් ඉල්ලා ඇත.
+
+ඒ අනුව මෙම කාරණය විභාගයට ගත් විට නීතිපති දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි නීතීඥවරයා අධිකරණයට සහතික වී ඇත්තේ නඩුවේ කරුණු පරීක්ෂා කර තහවුරු කරන තුරු රැඳවියා වෙනත් ස්ථානයකට මාරු නොකරන බවය.
+
+...
+
+[Data](articles/43fd4608.json)
+
+---
 
 ### Dr. Harini Amarasuriya Pledges Major Reforms to Strengthen Education System
 
@@ -1343,6 +1433,22 @@ For emergency assistance, the public is requested to contact local disaster mana
 
 ---
 
+### Stock market overall Price Index exceeds of 22000 units
+
+*2025-10-03 15:22:41* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-සමස්ත-මිල-දර්ශකය-ඒකක-22000-ඉක්මවයි/11-418901) · `si`
+
+The overall price index in the Colombo Stock Exchange won a significant milestone, reporting a value of 22000 units.
+
+Accordingly the overall price index rose 0.6 percent to this day. The market turnover was reportedly a tremendous value of Rs. 9.7 billion.
+
+◼️
+
+[Data](articles/ceb5973e.json)
+
+[Extended Data](ext_articles/ceb5973e.ext.json)
+
+---
+
 ### Mother imprisoned 16 -year -old daughter with an iron rod  - Batticaloa High Court verdict
 
 *2025-10-03 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226796) · `ta`
@@ -1956,95 +2062,5 @@ Investigations indicate that the wild elephant was crossing from Hurulu Forest R
 [Data](articles/682160b8.json)
 
 [Extended Data](ext_articles/682160b8.ext.json)
-
----
-
-### Sajith is in a journey to protect the hoof
-
-*2025-10-03 13:44:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහටටව-රකනන-ගහන-සජත-පඹ-ගලක/101-680691) · `si`
-
-Minister Dr. Nalinda Jayatissa said that Sajith Premadasa has gone on a joint today.
-
-He pointed out that when the politicians who are involved in the ice and the politicians involved in them are not spoken by Sajith Premadasa.
-
-Due to the government's actions, the racket involving the racket of ice is being exposed and the opposition is expected to close them today.
-
-◼️
-
-[Data](articles/cd46c8ce.json)
-
-[Extended Data](ext_articles/cd46c8ce.ext.json)
-
----
-
-### Sajith is in a journey to protect the hoof
-
-*2025-10-03 13:44:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහටටව-රකනන-ගහන-සජත-පඹ-ගලක/1-680691) · `si`
-
-Minister Dr. Nalinda Jayatissa said that Sajith Premadasa has gone on a joint today.
-
-He pointed out that when the politicians who are involved in the ice and the politicians involved in them are not spoken by Sajith Premadasa.
-
-Due to the government's actions, the racket involving the racket of ice is being exposed and the opposition is expected to close them today.
-
-◼️
-
-[Data](articles/d7d9db76.json)
-
-[Extended Data](ext_articles/d7d9db76.ext.json)
-
----
-
-### Sri Lanka strengthens trade, investment, and tourism ties at World Expo 2025 in Osaka
-
-*2025-10-03 13:42:55* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-strengthens-trade-investment-and-tourism-ties-at-World-Expo-2025-in-Osaka/34-782581) · `en`
-
-Sri Lanka showcased its export potential, investment opportunities, and tourism offerings at the Sri Lanka Business Forum and Networking Session held on 26 September during the World Expo 2025 in Osaka.
-
-Organised by the Sri Lanka Export Development Board (EDB) in collaboration with the Embassy of Sri Lanka in Japan, and supported by the Japan External Trade Organisation (JETRO) and the Sri Lanka Business Council of Japan (SLBCJ), the landmark event brought together around 20 leading Sri Lankan exporters from key sectors including apparel, tea, spices, gems and jewellery, food and beverages, handicrafts, and IT services. The Forum served as a dynamic platform to promote Sri Lanka’s authentic, high-quality, and globally trusted products to Japanese investors, importers, and industry leaders.
-
-Opening the session, EDB Chairman/CEO Mangala Wijesinghe described the event as a milestone in strengthening the longstanding partnership between Sri Lanka and Japan.
-
-...
-
-[Data](articles/e2879f2b.json)
-
-[Extended Data](ext_articles/e2879f2b.ext.json)
-
----
-
-### Hayleys Leisure appoints Rajitha Amarasinghe as Director of Operations – Amaya Resorts & Spas
-
-*2025-10-03 13:41:33* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Leisure-appoints-Rajitha-Amarasinghe-as-Director-of-Operations-Amaya-Resorts-Spas/34-782580) · `en`
-
-Hayleys Leisure has announced the appointment of Rajitha Amarasinghe as Director of Operations – Amaya Resorts & Spas.
-
-In his new role, Amarasinghe will oversee the operations of Amaya Resorts & Spas and the Boutique Collection by Amaya, with a focus on driving operational excellence, elevating service standards, enhancing guest experiences and strengthening financial and business performance. His responsibilities will also encompass people development and compliance, ensuring alignment with Amaya’s vision of becoming the most preferred hotel brand in Sri Lanka.
-
-...
-
-[Data](articles/7a4fb9fc.json)
-
-[Extended Data](ext_articles/7a4fb9fc.ext.json)
-
----
-
-### Hayleys Fibre appoints Ajith Karunarathna to Board
-
-*2025-10-03 13:40:44* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fibre-appoints-Ajith-Karunarathna-to-Board/34-782579) · `en`
-
-Hayleys Fibre PLC yesterday said it has appointed Ajith Karunarathna to its Board as an Executive Director.
-
-He served as CFO of the eco solution sector at Hayleys Fibre PLC overseeing financial reporting, taxation, IT and related functions.
-
-With over 20 years of experience in finance, he possesses expertise in strategic financial management, operational oversight and corporate governance across a range of industries including healthcare, manufacturing, technology and retail.
-
-Karunarathna holds a BSc in Accountancy and Financial Management with First Class Honours from the University of Sri Jayewardenepura. He is a Fellow of the Institute of Chartered Accountants of Sri Lanka, the Association of Chartered Certified Accountants (UK), and the Institute of Certified Management Accountants of Sri Lanka.
-
-◼️
-
-[Data](articles/810f7862.json)
-
-[Extended Data](ext_articles/810f7862.ext.json)
 
 ---

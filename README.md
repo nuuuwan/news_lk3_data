@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 13:06:06**
+As of **2025-10-03 12:55:25**
 
 ## Newspaper Stats
 
-*Scraped **80,662** Articles*
+*Scraped **80,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ bbccomsinhala | 719
 colombotelegraphcom | 803
 dailymirrorlk | 4,733
 economynextcom | 4,774
-islandlk | 4,884
-dailyftlk | 5,648
+islandlk | 4,873
+dailyftlk | 5,634
 adalk | 7,759
 adaderanalk | 10,382
 tamilmirrorlk | 12,008
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,592 (99.9%) of 80,662 articles have been extended.
+80,592 (99.9%) of 80,637 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -613,230 +613,6 @@ COLOMBO (News 1st); Sri Lanka marks World Temperance Day today, focusing on the 
 
 ---
 
-### Sri Lanka slips 15 places in UN gender equality ranking
-
-*2025-10-03 02:01:57* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-slips-15-places-in-UN-gender-equality-ranking/56-782567) · `en`
-
-Sri Lanka has slipped sharply in global gender equality rankings, according to findings presented by UN Women to the Women Parliamentarians’ Caucus recently. The country, which ranked 18th out of 115 nations in 2006, has fallen to 130th among 148 countries in 2025.
-
-The study assessed women’s economic empowerment, participation in governance and decision-making, roles in peace and security, and efforts to prevent violence against women and girls. While acknowledging that some of the region’s most influential figures are women, the research highlighted persistent disparities between men and women across these areas.
-
-Chairing the session, Women and Child Affairs Minister Saroja Savithri Paulraj called for the final report to be shared with the caucus and proposed that, in addition to allocations for the Women and Child Affairs Ministry, each Ministry should set aside funds in the upcoming Budget to support women’s empowerment.
-
-...
-
-[Data](articles/2aef4259.json)
-
----
-
-### Alston Koch appointed as Commonwealth Union Envoy to Australia and Pacific Region
-
-*2025-10-03 02:01:08* · [`dailyftlk`](https://www.ft.lk/news/Alston-Koch-appointed-as-Commonwealth-Union-Envoy-to-Australia-and-Pacific-Region/56-782566) · `en`
-
-The Commonwealth Union (CU) has announced the appointment of Alston Koch, internationally recognised artist, award-winning entertainer and global influencer, as its Envoy to Australia and the Pacific Region.
-
-Koch will represent the Commonwealth Union and promote its objectives in line with the People’s Charter of the Commonwealth. His work will focus on strengthening regional collaboration, advancing the Commonwealth Union’s mission of inclusivity and sustainability and fostering greater engagement with communities across Australia and the Pacific.
-
-Alongside his envoy responsibilities, Koch will also serve as a Consultant to the Commonwealth Union, providing advisory services and acting as a marketing consultant. He will support the Commonwealth Union’s Digital Platform by facilitating key introductions, attracting advertising partnerships and engaging in approved business negotiations that enhance the Union’s outreach and global presence.
-
-...
-
-[Data](articles/6aee6377.json)
-
----
-
-### Fishing boat owner held over 700kg drug haul in Tangalle
-
-*2025-10-03 02:00:23* · [`dailyftlk`](https://www.ft.lk/news/Fishing-boat-owner-held-over-700kg-drug-haul-in-Tangalle/56-782565) · `en`
-
-Police have arrested the owner of a fishing boat in connection with the recent seizure of more than 700 kilograms of heroin and crystal methamphetamine (ICE) in Seenimodara, Tangalle.
-
-The Police Narcotics Bureau (PNB) said the drugs, discovered in three lorries in the area, had been smuggled into the country by sea. Investigations revealed that the narcotics were brought in aboard a toll boat before being transferred to a smaller fishing vessel for transport.
-
-The arrest was made during a raid linked to the wider probe into the drug trafficking operation.
-
-Authorities confirmed that further investigations are underway into the network responsible for the smuggling.
-
-◼️
-
-[Data](articles/8c906c2a.json)
-
----
-
-### Inspiring Sri Lanka’s children to dream big on World Children’s Day
-
-*2025-10-03 01:59:28* · [`dailyftlk`](https://www.ft.lk/news/Inspiring-Sri-Lanka-s-children-to-dream-big-on-World-Children-s-Day/56-782564) · `en`
-
-In celebration of World Children’s Day on 1 October, SriLankan Airlines facilitated the flight experience for a special program for children selected through a creative competition from every province across Sri Lanka.
-
-Through this unique initiative, 250 youngsters aged 12 to 15 were gifted the opportunity to enjoy a nearly two-hour flight aboard a SriLankan Airlines Airbus A330-300, with breath-taking views of Sri Lanka’s stunning landscapes from the sky. For many, it was their first flying experience.
-
-The children were warmly welcomed at Bandaranaike International Airport and taken on a guided tour by SriLankan Airlines’ Ground Handling team and Airport and Aviation Services (AASL), where they experienced the full international travel process, from check-in to boarding, before taking off to the skies with SriLankan Airlines.
-
-...
-
-[Data](articles/87c79e57.json)
-
----
-
-### SLIC offers Rs. 1 m free life cover to parents of children born on World Children’s Day 2025
-
-*2025-10-03 01:58:19* · [`dailyftlk`](https://www.ft.lk/news/SLIC-offers-Rs-1-m-free-life-cover-to-parents-of-children-born-on-World-Children-s-Day-2025/56-782563) · `en`
-
-Senior Management of SLIC Life symbolically handing over a Free Life Cover of Rs. 1 m to a parent whose child was born on 1 October
-
-SLIC provides free life cover worth Rs. 1 m for parents of every child being born on 1 October island-wide
-
-The program was carried out island-wide, covering all hospitals on 1 October taking the message of Life insurance to everyone
-
-In celebration of World Children’s Day 2025, Sri Lanka Insurance Life (SLIC Life) has extended a Rs. 1 million free life insurance cover to the parents of every child born on 1 October, across the island. Now in its fourth consecutive year, the initiative reflects SLIC Life’s mission to provide financial protection to families at crucial moments while reinforcing the value of life insurance as a safety net.
-
-...
-
-[Data](articles/f8278965.json)
-
----
-
-### Colombo Chetty Association elects new Ex-Co
-
-*2025-10-03 01:57:36* · [`dailyftlk`](https://www.ft.lk/news/Colombo-Chetty-Association-elects-new-Ex-Co/56-782562) · `en`
-
-Seated from left: Vice President Ermina Muthupulle, Assistant Treasurer Lucien Fernandopulle, President Chris Corea, Secretary Viran Fernandopulle, Vice President Joe Saverymuthapulle, and Callistus Alles
-
-Standing from left: Marian Candappa, Indira Fernandopulle, Past Presidents Rinesh Fernandopulle, Nanda Corea, Colin Fernandopulle, Selva Perumal, Phyllis Corea, and Rishanka Fernandopulle
-
-Inset: Treasurer Christobel Saverimuttu, Royce Fernandopulle, Rohan Masillamani, Carlyle Alles, and Rishnie Fernandopulle
-
-The Colombo Chetty Association of Sri Lanka recently elected its Executive Committee for 2025.
-
-A separate ethnic group in Sri Lanka, living alongside the Malays, Moors, Tamils, Burghers and the Sinhalese, Colombo Chetties form an integral part of Sri Lankan Society. Today, this small educated and cultured community consists of around 150,000 individuals living in the Western and North Western Provinces of Sri Lanka.
-
-...
-
-[Data](articles/9ea9ef15.json)
-
----
-
-### Gabriel’s Charity Auction in aid of Rescue Animals Sri Lanka
-
-*2025-10-03 01:56:56* · [`dailyftlk`](https://www.ft.lk/news/Gabriel-s-Charity-Auction-in-aid-of-Rescue-Animals-Sri-Lanka/56-782561) · `en`
-
-Front row (from left): Co-host Vrai Raymond, Designer and Choreographer Brian Kerkoven, Headlines PR and Events Chairman and RAS Founding Trustee Anusha David, Cinnamon Grand Director – Events/Sales Dini Isaacs,  Hi Magazine Editor Shyamalee Tudawe,  Designer Charini Suriyage, Cinnamon Grand General Manager Nazoomi Azhar, Cinnamon Hotels and Resorts Chief Operating Officer Kamal Munasinghe
-
-Second row (from left): Ashok Ferrey, Designer Dhammika Amarasekere, Julianne Ephraums (RAS), Upeckha Cumaratunga (Gravitas), Designer Jaishri Jayasinghe.
-
-Third row (from left):  Cinnamon Grand Executive Chef Kapila Jayasinghe, Hair and Make up Partner Chagall Chairman Gerald Solomons, Designer Kamil Hewavitharane, Presenting Partner of the Auction Aditi, Managing Director Mahika Weerakoon, Headlines/RAS Upul Wijenayake, and Akry Ameer (RAS)
-
-Gabriel’s Charity Auction in aid of Rescue Animals Sri Lanka (RAS) will take place on 31 October at the Mahogany, Cinnamon Grand, commencing 7.30 p.m.
-
-...
-
-[Data](articles/983faf2a.json)
-
----
-
-### Telbedde Estate crowned Overall Gold Winner at Ceylon Specialty Estate Tea Awards 2025
-
-*2025-10-03 01:55:54* · [`dailyftlk`](https://www.ft.lk/business/Telbedde-Estate-crowned-Overall-Gold-Winner-at-Ceylon-Specialty-Estate-Tea-Awards-2025/34-782560) · `en`
-
-Telbedde Estate Superintendent Lakkhana Perera (left) receiving the award from Japan Tea Association Managing Director Kohei Akiba
-
-Telbedde Estate, managed by Balangoda Plantations PLC, has emerged as the Overall Gold Award Winner at the prestigious Ceylon Specialty Estate Tea of the Year 2025.
-
-The award, presented by the Sri Lanka Tea Board in collaboration with the Colombo Tea Traders Association and Colombo Brokers’ Association, celebrates excellence in single-origin Ceylon teas. Telbedde Estate’s Orange Pekoe 1 (OP1) tea stood out from a competitive field, judged for its exceptional quality, unique character and consistency.
-
-...
-
-[Data](articles/0ec217ab.json)
-
----
-
-### SEVA project signals new trade and investment potential for Sri Lankan craft
-
-*2025-10-03 01:55:08* · [`dailyftlk`](https://www.ft.lk/business/SEVA-project-signals-new-trade-and-investment-potential-for-Sri-Lankan-craft/34-782559) · `en`
-
-Sri Lanka’s creative and craft sector has marked a landmark moment with the launch of SEVA, a transdisciplinary cultural diplomacy project uniting international artistry with Sri Lankan heritage. Beyond its artistic merit, SEVA showcases the untapped trade potential of Sri Lanka’s artisan economy, an area poised to grow into a high-value export sector and attract new investment.
-
-An outcome of the EU–Sri Lanka Matchmaking Program, delivered with the Sri Lanka Export Development Board (EDB), supported by the European Union to Sri Lanka and the Maldives, the Cultural Relations Platform (CRP), with the University of the Arts London (UAL) and the British Council as knowledge partners, and The Institute of Future Creations (TIFC) as program leader, SEVA has also received the backing of the Italian Embassy in Colombo.
-
-...
-
-[Data](articles/00533d82.json)
-
----
-
-### Construction PMI increases in August
-
-*2025-10-03 01:52:27* · [`dailyftlk`](https://www.ft.lk/business/Construction-PMI-increases-in-August/34-782557) · `en`
-
-Sri Lanka Purchasing Managers’ Index for Construction (PMI–Construction) increased further in August 2025, as reflected by the total activity index which registered a value of 61.1 indicating a continuous expansion in construction activities.
-
-The Central Bank said most respondents highlighted the ongoing increase in project availability, along with the resumption of some temporarily suspended projects, has strengthened the confidence of the construction sector.
-
-The New Orders Index also increased in August. According to survey respondents, road development and water supply work were the most commonly awarded project types during the month.
-
-In August, both the Employment and Quantity of Purchases indices increased, indicating the optimism for continued growth in the construction work.
-
-Meanwhile, the suppliers’ delivery time further lengthened during the month, driven by the increase in demand for construction material.
-
-...
-
-[Data](articles/e1834100.json)
-
----
-
-### Beyond degrees: Creating future-ready workforce for Sri Lanka
-
-*2025-10-03 01:38:14* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-degrees-Creating-future-ready-workforce-for-Sri-Lanka/4-782547) · `en`
-
-The future of Sri Lanka’s economy depends not only on investment and policy but on how well the country prepares its people for the world of work. The Government is pushing forward with significant reforms to revamp the education system, from modernising curricula to expanding vocational training pathways. These initiatives deserve appreciation. They demonstrate a recognition that the nation cannot build a resilient future with outdated methods of teaching and learning.
-
-In an increasingly competitive world, equipping students and employees with modern skills is crucial for both social progress and economic stability. Yet, despite these promising efforts, fundamental questions remain about whether the country is truly preparing its people to be future-ready and whether the billions spent on free education are delivering an adequate return on investment.
-
-...
-
-[Data](articles/692d51f4.json)
-
----
-
-### Growing the pool of billion-dollar companies in Sri Lanka
-
-*2025-10-03 01:33:02* · [`dailyftlk`](https://www.ft.lk/columns/Growing-the-pool-of-billion-dollar-companies-in-Sri-Lanka/4-782541) · `en`
-
-Today, Sri Lanka has just three listed companies valued at over a billion dollars: John Keells Holdings (JKH), Commercial Bank of Ceylon, and Ceylon Tobacco PLC. This is a sobering statistic for an economy with ambitions of becoming a South Asian hub for trade, services, and investment. A country of 22 million people, strategically positioned astride major maritime routes, and possessing a strong pool of talent in accounting, IT, and law, should be capable of nurturing multiple billion-dollar firms across diverse sectors. The fact that it has not points to deeper structural barriers inhibiting corporate growth.
-
-...
-
-[Data](articles/2ee2b76b.json)
-
----
-
-### Financial institutions at crossroads: Redefining risk management in the age of climate change
-
-*2025-10-03 01:31:15* · [`dailyftlk`](https://www.ft.lk/columns/Financial-institutions-at-crossroads-Redefining-risk-management-in-the-age-of-climate-change/4-782540) · `en`
-
-In the end, banks become the ultimate receivers of climate shocks, bearing the financial fallout of environmental catastrophes
-
-The recent flash floods in Uttarakhand, India where over 100 people went missing, are just one among thousands of climate-related disasters in recent years. For banks, the impact is direct washed-out assets, loan defaults, and rising credit risk. This is not tomorrow’s threat; climate risk is already reshaping financial stability today. In the end, banks become the ultimate receivers of climate shocks, bearing the financial fallout of environmental catastrophes. Banking risk management is entering a new era. Traditional frameworks built around credit, market, liquidity, and operational risk are no longer sufficient to address the growing complexities of a changing world.
-
-...
-
-[Data](articles/b45f0f78.json)
-
----
-
-### Energy diplomacy: How Sri Lanka can bridge trade gap with United States
-
-*2025-10-03 01:25:08* · [`dailyftlk`](https://www.ft.lk/columns/Energy-diplomacy-How-Sri-Lanka-can-bridge-trade-gap-with-United-States/4-782539) · `en`
-
-For Sri Lanka, the United States is more than just a trading partner. It is the single most important destination for Sri Lankan exports, particularly apparel, and a market that sustains hundreds of thousands of jobs and contributes significantly to national GDP. Yet, beneath this success story lies a structural imbalance. While Sri Lanka exports billions of dollars’ worth of goods to the United States each year, its imports from America remain comparatively small. This asymmetry leaves Sri Lanka exposed to tariff risks, particularly in the post-Trump era where US trade policy has become increasingly transactional.
-
-...
-
-[Data](articles/b492836c.json)
-
----
-
 ### 2025-10-02 (Thursday)
 
 ### Trade Uncertainties Loom, But Sri Lanka’s Reform Drive Powers On : IMF
@@ -866,76 +642,6 @@ For Sri Lanka, the United States is more than just a trading partner. It is the 
 ◼️
 
 [Data](articles/e7abb86c.json)
-
----
-
-### Dialog AI Empowers Sri Lanka’s SMEs to Grow Smarter
-
-*2025-10-02 19:31:00* · [`islandlk`](http://island.lk/dialog-ai-empowers-sri-lankas-smes-to-grow-smarter/) · `en`
-
-Small and medium enterprises (SMEs) are the backbone of Sri Lanka’s economy, forming the vast majority of the business sector. Yet many entrepreneurs struggle to access digital tools that truly work for them, especially when most global platforms are built primarily for English speakers. Dialog AI — the country’s first trilingual generative AI platform — is stepping in to bridge this gap, available free for all Dialog customers with no data charges.
-
-What sets Dialog AI apart is its localisation for Sri Lankan users. Unlike global large language models (LLMs), it is built to reflect local context and culture. Its responses in Sinhala and Tamil are sharper, clearer, and more relevant than those of other AI tools, and it even supports informal blends like Singlish and Tanglish. This means entrepreneurs can interact with AI in the way they naturally speak — whether drafting a marketing pitch in Sinhala, clarifying a supplier contract in Tamil, or mixing languages casually in conversation.
-
-...
-
-[Data](articles/c3263495.json)
-
----
-
-### NDB Bank becomes the only local bank to be named a ‘Great Place to Work’
-
-*2025-10-02 19:31:00* · [`islandlk`](http://island.lk/ndb-bank-becomes-the-only-local-bank-to-be-named-a-great-place-to-work/) · `en`
-
-NDB Bank announces that it has once again been certified as a Great Place to Work for the period July 2025 to July 2026, affirming its status as a leading employer and the only local bank in Sri Lanka to receive this esteemed recognition.
-
-The certification is based on extensive independent evaluations by Great Place to Work Sri Lanka, using globally benchmarked criteria that assess employee experience, workplace culture, trust, and people practices. Through confidential employee surveys and a comprehensive audit of HR initiatives, NDB Bank was recognised for fostering a culture that prioritises inclusion, purpose, and continuous development.
-
-Commenting on the recognition, Director and Chief Executive Officer of NDB Bank, Kelum Edirisinghe, stated, “We are proud to be recognised once again as a Great Place to Work and even prouder to be the only local bank to receive this honour. At NDB, we believe that our people are at the heart of every success story.”
-
-...
-
-[Data](articles/945fadbc.json)
-
----
-
-### CSE’s robustness sustained as Haycarb amalgamates fully-owned subsidiary
-
-*2025-10-02 19:31:00* · [`islandlk`](http://island.lk/cses-robustness-sustained-as-haycarb-amalgamates-fully-owned-subsidiary/) · `en`
-
-Haycarb PLC announced that it had merged its fully-owned subsidiary Ultracarb (Private) Limited, effective October 1.
-
-“Haycarb PLC and Ultracarb (Private) Limited, a fully owned subsidiary of Haycarb PLC, amalgamated in terms of Section 242 (1) of the Companies Act No. 07 of 2007 and continue as Haycarb PLC, CSE sources said
-
-The move was made to boost the company’s finances and operations, Haycarb, a unit of the Hayleys conglomerate, said.
-
-Amid those developments yesterday the CSE was extremely bullish, while investors tried to break the psychological barrier of 22000 Index points, but the CSE settled at the 21000 Index points level.
-
-Both indices moved upwards. The All Share Price Index went up by 127.95 points, while the S and P SL20 rose by 18.78 points. Turnover stood at Rs 6.5 billion with 16 crossings.
-
-...
-
-[Data](articles/de6f233a.json)
-
----
-
-### External Sector Performance – August 2025
-
-*2025-10-02 19:30:00* · [`islandlk`](http://island.lk/external-sector-performance-august-2025/) · `en`
-
-Sri Lanka’s external sector continued to strengthen in August 2025, as the current account maintained its streak of monthly surpluses.
-
-The merchandise trade deficit narrowed in August 2025 compared to August 2024, reflecting a higher growth in exports than imports.
-
-Vehicle imports, including both personal and commercial vehicles, amounted to US dollars 249 million in August 2025, bringing the total vehicle imports of US dollars 918 million in the first eight months of 2025.
-
-The terms of trade deteriorated in August 2025 compared to August 2024, as import prices increased at a faster pace than export prices.
-
-The services sector net inflows increased by 2.3 per cent year-on-year to US dollars 2.7 billion during January-August 2025, despite a modest decline recorded in August 2025 compared to the corresponding period of 2024.
-
-...
-
-[Data](articles/d7393ddf.json)
 
 ---
 
@@ -982,20 +688,6 @@ COLOMBO (News 1st); Former President Mahinda Rajapaksa’s chief security office
 ...
 
 [Data](articles/3602159f.json)
-
----
-
-### Sri Lanka’s Leading Online Retailer for Travel Essentials: NIRASU PVT LTD
-
-*2025-10-02 17:46:00* · [`islandlk`](http://island.lk/sri-lankas-leading-online-retailer-for-travel-essentials-nirasu-pvt-ltd/) · `en`
-
-Founded in 2021, NIRASU Pvt Ltd has rapidly become Sri Lanka’s premier online retailer for travel-related products. Specializing in travel accessories, winterwear, packing solutions, and personal care essentials, NIRASU is the trusted partner for Sri Lankan travelers preparing for journeys abroad and within the region.
-
-Under its current leadership, NIRASU has evolved from a small startup into a household name. By consistently prioritizing quality, value, and customer trust, the company has secured its position as a leader in the country’s burgeoning travel retail sector.
-
-...
-
-[Data](articles/e61e964e.json)
 
 ---
 
@@ -1730,5 +1422,381 @@ As a result, all trains to travel on the Puttalam railway line have been reporte
 [Data](articles/9d43a3f0.json)
 
 [Extended Data](ext_articles/9d43a3f0.ext.json)
+
+---
+
+### The people with various sexes should not be injured
+
+*2025-10-02 13:32:07* · [`adalk`](https://www.ada.lk/breaking_news/විවිධ-ලිංගික-නැමියාවන්-ඇති-ජනතාව-අසාධාරණයට-ලක්-නොවිය-යුතුයි/11-418866) · `si`
+
+The government should not be subjected to injustice, that the government has not been subjected to unfair to develop the country and have a biological people with many religions.
+
+The coordinating committee of the Ministry of Transport, Highways and Civil Aviation was held on Monday (1K) at the Anuradhapura District Secretariat.
+
+The media was not allowed to meet the meeting and Minister Bimal Ratnayake addressed the media after the meeting.
+
+The Minister said that the rights of the rights of the rights of the rights of the country is to protect the rights of the country, not to advise children without persecution.
+
+Speaking to the media said that Rs. 250 million was allocated for the development of road development in the Anuradhapura District.
+
+The Minister said that the law was instructed to promptly implement the proceedings in the North Central Province today and said that the law will be instructed to implement the fuel remeal.
+
+...
+
+[Data](articles/6b1539d2.json)
+
+[Extended Data](ext_articles/6b1539d2.ext.json)
+
+---
+
+### In the East, the rotation of justice for justice is complete
+
+*2025-10-02 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226665) · `ta`
+
+The hunger strike for justice, which began on Saturday (27) in Thambiluvu in the East, in the Ampara district, was completed on Wednesday (1) on the fifth day.
+
+Batticaloa District Parliamentarian R. Sanakiyan and Navithanveli Karadivu in the Navithanveli Karadivu Ceylon were present in the final day of the protest.
+
+In addition, the President of the Trincomalee District of the three districts of the East, Sebastian Devi Batticaloa District Missing Relations Association, Amalraj Amalnayaki Ambara District, was presented to the UN Magistrate's Member of Parliament.
+
+The Ampara District Missing Relations Association Advisor and Human Rights activist Damodaram Pradevan and Batticaloa Trincomalee District Relations also participated in the hunger strike.
+
+...
+
+[Data](articles/33795683.json)
+
+[Extended Data](ext_articles/33795683.ext.json)
+
+---
+
+### Mahinda's PSO Bribery Commission
+
+*2025-10-02 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215256) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධාන ආරක්ෂක නිලධාරියා අල්ලස් කොමිසමට පැමිණ තිබේ.
+
+It is reported that Major Neville Wanniarachchi has arrived at the Bribery Commission to grant a statement.
+
+◼️
+
+[Data](articles/fad4d0e7.json)
+
+[Extended Data](ext_articles/fad4d0e7.ext.json)
+
+---
+
+### Head of Health Minister Malwatte and Asgiriya North Nayaka
+
+*2025-10-02 13:24:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සව-ඇමත-මලවත-අසගර-මහ-නහමවරන-බහ-දක/1-680637) · `si`
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa saw the Malwathu and Asgiriya Maha N'hawathu and Asgiriya Maha N'havir.
+
+The Minister of Siddhartha Sumanathana Ven.
+
+The Minister of Health was held as a new concept of the Ministry of Health and the Ministry of Health and the Minister of Hoogya Health Centers "The Chief Secretary of the Ministry of Sports was conducting the island wide.
+
+◼️
+
+[Data](articles/4878f6db.json)
+
+[Extended Data](ext_articles/4878f6db.ext.json)
+
+---
+
+### Head of Health Minister Malwatte and Asgiriya North Nayaka
+
+*2025-10-02 13:24:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සව-ඇමත-මලවත-අසගර-මහ-නහමවරන-බහ-දක/101-680637) · `si`
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa saw the Malwathu and Asgiriya Maha N'hawathu and Asgiriya Maha N'havir.
+
+The Minister of Siddhartha Sumanathana Ven.
+
+The Minister of Health was held as a new concept of the Ministry of Health and the Ministry of Health and the Minister of Hoogya Health Centers "The Chief Secretary of the Ministry of Sports was conducting the island wide.
+
+◼️
+
+[Data](articles/e28840dd.json)
+
+[Extended Data](ext_articles/e28840dd.ext.json)
+
+---
+
+### Ex-President Mahinda’s Chief Security Officer Neville Wanniarachchi arrested
+
+*2025-10-02 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113155/ex-president-mahindas-chief-security-officer-neville-wanniarachchi-arrested) · `en`
+
+The Chief Security Officer of former President Mahinda Rajapaksa, Neville Wanniarachchi has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Earlier, he was brought to the Bribery Commission for questioning.
+
+◼️
+
+[Data](articles/2775de8a.json)
+
+[Extended Data](ext_articles/2775de8a.ext.json)
+
+---
+
+### Ex-President Mahinda’s Chief Security Officer Neville Wanniarachchi brought to Bribery Commission
+
+*2025-10-02 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113155/chief-security-officer-of-ex-president-mahinda-rajapaksa-neville-wanniarachchi-arrested-) · `en`
+
+The Chief Security Officer of former President Mahinda Rajapaksa, Neville Wanniarachchi has been brought to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+He is currently being questioned by officers attached to the Bribery Commission.
+
+◼️
+
+[Data](articles/0794c15f.json)
+
+[Extended Data](ext_articles/0794c15f.ext.json)
+
+---
+
+### A leader of a robbery and three others arrested
+
+*2025-10-02 13:19:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කලල-කලල-ජලයක-නයකවක-ඇග-පතරය-ඇතළ-තදනක-අලලය/101-680636) · `si`
+
+The Bemmulla Police tells the police that a woman named a woman, a woman, who is a woman who is engaged in an organized network of the houses, engaged in working with employees of the houses.
+
+The arrested persons are residents of the Hanguran field, police said.
+
+The lack of investigating the robberies that the woman join his son's gang had been investigated in a two-year-old woman who lived at a two-year-old house with a two-year-old woman.
+
+The complainant had been recruited by a Man Power of Colombo in Negombo and that the woman had disappeared from the house of Negombo.
+
+Extended by the company to check the woman, no police report has not received any police record in this woman. It has been revealed that the woman in search of information on the woman by the Hanguran police, that the woman is 10 warrants for any mistakes and that there is currently not missing in the area.
+
+...
+
+[Data](articles/c77af4c6.json)
+
+[Extended Data](ext_articles/c77af4c6.ext.json)
+
+---
+
+### A leader of a robbery and three others arrested
+
+*2025-10-02 13:19:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කලල-කලල-ජලයක-නයකවක-ඇග-පතරය-ඇතළ-තදනක-අලලය/1-680636) · `si`
+
+The Bemmulla Police tells the police that a woman named a woman, a woman, who is a woman who is engaged in an organized network of the houses, engaged in working with employees of the houses.
+
+මෙසේ අත්අඩංගුවට ගත් පිරිස හඟුරන් කෙත ප්‍රදේශයේ පදිංචිකරුවන් බව පොලිසිය කියයි.
+
+The lack of investigating the robberies that the woman join his son's gang had been investigated in a two-year-old woman who lived at a two-year-old house with a two-year-old woman.
+
+The complainant had been recruited by a Man Power of Colombo in Negombo and that the woman had disappeared from the house of Negombo.
+
+මෙම කාන්තාව පිළිබඳව කරුණු පරික්ෂා කිරීමේදී ආයතනය මෙම කාන්තාව සම්බන්ධව කිසිදු පොලිස් වාර්තාවක්වත් ලබාගෙන නොමැති බව අනාවරණය විය. It has been revealed that the woman in search of information on the woman by the Hanguran police, that the woman is 10 warrants for any mistakes and that there is currently not missing in the area.
+
+...
+
+[Data](articles/d81971a9.json)
+
+[Extended Data](ext_articles/d81971a9.ext.json)
+
+---
+
+### A leader of a robbery and three others arrested
+
+*2025-10-02 13:19:14* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කලල-කලල-ජලයක-නයකවක-ඇග-පතරය-ඇතළ-තදනක-අලලය/222-680636) · `si`
+
+The Bemmulla Police tells the police that a woman named a woman, a woman, who is a woman who is engaged in an organized network of the houses, engaged in working with employees of the houses.
+
+The arrested persons are residents of the Hanguran field, police said.
+
+The lack of investigating the robberies that the woman join his son's gang had been investigated in a two-year-old woman who lived at a two-year-old house with a two-year-old woman.
+
+The complainant had been recruited by a Man Power of Colombo in Negombo and that the woman had disappeared from the house of Negombo.
+
+Extended by the company to check the woman, no police report has not received any police record in this woman.   හඟුරන් කෙත පොලිසිය මගින්  කාන්තාව සම්බන්ධව තොරතුරු සොයා බැලීමේදී  මෙම කාන්තාවට යම් වැරදි වෙනුවෙන් වරෙන්තු 10 පවතින බවත් දැනට ප්‍රදේශයෙන් අතුරුදහන් නැති බවත් අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/8efa341c.json)
+
+[Extended Data](ext_articles/8efa341c.ext.json)
+
+---
+
+### Relief in 40 boats for Gaza
+
+*2025-10-02 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226673) · `ta`
+
+Israeli navy has stopped Sweden's young environmental activist Greta Tanberg and his group who carried relief items for the Palestinian people affected by the war on the Gaza tip.. Israel said they were all safely taken to the port of Ashod and would be returned soon.
+
+On October 7, 2023, 1,139 Israelis were killed in a terrorist attack by a Hamas armed group managing the Gaza tip.. In addition, 251 were abducted as hostages.
+
+In return, Israel has announced that there is no ceasefire until the Hamas has completely destroyed the organization.. Gaza is completely disrupted by Israel's military operations. More than 65 thousand Palestinian people have died so far.
+
+The Israeli military has been accused of preventing relief aid to the war -affected Gaza people from international countries.. There are fears that Gaza is likely to cause bad famine.
+
+...
+
+[Data](articles/dd82dc62.json)
+
+[Extended Data](ext_articles/dd82dc62.ext.json)
+
+---
+
+### SLS certification to be made mandatory for plastic bottles and children’s items from April 2026
+
+*2025-10-02 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113153/sls-certification-to-be-made-mandatory-for-plastic-bottles-and-childrens-items-from-april-2026) · `en`
+
+It will be mandatory for manufacturers to obtain the Sri Lanka Standards (SLS) certification for plastic items such as feeding bottles and lunch boxes used by schoolchildren before releasing them to the market, the Minister of Trade, Commerce, Food Security and Cooperative Development, Wasantha Samarasinghe has announced.
+
+Participating in a media conference at the Ministry, Minister Samarasinghe further stated that from April 01, 2026, the sale of products that do not comply with the prescribed standards will be strictly prohibited.
+
+The Minister noted that plastic bottles used for feeding milk to children, as well as lunch boxes and water bottles used by schoolchildren, are currently available in the market at varying prices. However, he further pointed out that a number of these products neither carry the prescribed standard certification nor any indication of their suitability for use.
+
+...
+
+[Data](articles/88018f47.json)
+
+[Extended Data](ext_articles/88018f47.ext.json)
+
+---
+
+### Chimpanzee Whisperer Bids Adieu: Jane Goodall Passes Aged 91
+
+*2025-10-02 13:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/chimpanzee-whisperer-bids-adieu-jane-goodall-passes-aged-91) · `en`
+
+...
+
+[Data](articles/48812466.json)
+
+[Extended Data](ext_articles/48812466.ext.json)
+
+---
+
+### 275 boys killed by continuous rain and floods in Pakistan
+
+*2025-10-02 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226671) · `ta`
+
+The normal life of the people has been severely affected by the heavy rains and heavy floods in Pakistan. The country's National Disaster Management Commission (NDMA) said the number of victims of flood victims across the country has risen to 1,006.
+
+Heavy rains and floods have severely affected the provinces of Khyber Pakhtunkhua, Punjab, Sindh, Khiljit-Baldistan, Baluchistan, Azad Jammu and Kashmir and Islamabad capital.. The victims include 275 children, 163 women and 568 men.
+
+A total of 1,063 people were injured in flood disasters. These include 321 children, 450 men and 292 women. A maximum of 661 people were injured in the Punjab province.
+
+Rescue and relief work continues in flood -affected areas. Officials are struggling to rescue the victims and assess the degree of damage.
+
+As a result of the flooding, the country's inflation will increase temporary basis, the Pakistani government said. This natural outrage has caused great destruction and death in Pakistan.
+
+◼️
+
+[Data](articles/a7ca562b.json)
+
+[Extended Data](ext_articles/a7ca562b.ext.json)
+
+---
+
+### Another record of Elon Musk
+
+*2025-10-02 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215255) · `si`
+
+The head of Tesla Company has become the first person who has achieved a net asset that exceeds $ 500 billion (370.9 billion) exceeding $ 500 billion.
+
+Foreign media said, the value of the electric car company and his other businesses have increased.
+
+According to the Billionaires Index report, his net asset was $ 500.1 billion, and then that he fell to $ 499 billion in noon.
+
+It is reported that the valuation of other businesses, including the artificial intelligence XAI and a rocket company with Tesla, has also increased in recent months.
+
+The milestone further confirms the Musk's position as the world's richest person in the world.
+
+According to the Forbes Billionaire Indicator Larry Elizan, Oracle founder Elizan, is the second richest person in the world, and his wealth is about $ 350.7 billion.
+
+Musk's massive wealth is closely bound with more than 12% of his 12% of his 12% of his 12% shares this year.
+
+Tesla has increased to more than 3.3% yesterday, and over 20% of Tesla.
+
+...
+
+[Data](articles/3911a205.json)
+
+[Extended Data](ext_articles/3911a205.ext.json)
+
+---
+
+### Corpse hanging in a star hotel
+
+*2025-10-02 12:54:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நட்சத்திர-ஹோட்டலில்-தொங்கிய-சடலம்/175-365639) · `ta`
+
+A 45 -year -old man has been found dead from his room last Tuesday (30) at a star hotel in Colombo.
+
+When the hotel staff noticed that the door of his room was locked, they informed the police.
+
+Then when the officers broke the door, he found him hanging in the sleep. It was confirmed that the death took place due to the death of the autopsy.
+
+However, the reason for his suicide has not yet been detected. Further investigations are underway, police said.
+
+Deceased. It is reported that the death may have occurred after losing a huge amount of gambling at the newly opened star hotel.
+
+◼️
+
+[Data](articles/bf3abbdd.json)
+
+[Extended Data](ext_articles/bf3abbdd.ext.json)
+
+---
+
+### Boys who wearing a black men's day on International Children's Day - This is the reason!
+
+*2025-10-02 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226668) · `ta`
+
+On the occasion of International Children's Day, the children of the Ampara district wearing a black bar on their heads and lit their protests.
+
+The event was held on Wednesday (01) evening in front of the Central Market in Thambiluvil, Tirukovil, Ampara District.
+
+The hunger strike for justice, which began on Saturday (27) in front of the Central Market in Thambiluvil in Tirukkovil in the East, ended on the fifth day of Wednesday evening.
+
+At the same time, the boys gathered together to mark the Children's Day, wearing a black bar with a small procession and carrying the firefighters.
+
+During this time, the children joined the protest by raising various slogans about the plight of the missing children in the past.
+
+...
+
+[Data](articles/5346abbf.json)
+
+[Extended Data](ext_articles/5346abbf.ext.json)
+
+---
+
+### Teacher attacked a schoolgirl in Vavuniya; Lawsuit
+
+*2025-10-02 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226666) · `ta`
+
+The student has returned home after being treated at a hospital in Bandarikulam, Vavuniya.
+
+Parents say that the son was allegedly assaulted by a flute -like appliance in the first year.
+
+As a result of this, the boy who was injured in the head was returned to the Vavuniya General Hospital for two days.
+
+Meanwhile, a complaint has been lodged with the Vavuniya Police and a complaint has been lodged with the National Child Protection Authority and the Governor's Secretariat.
+
+The teacher has been investigated and released on bail by the Vavuniya police and has filed a case in court.
+
+◼️
+
+[Data](articles/0ee252d9.json)
+
+[Extended Data](ext_articles/0ee252d9.ext.json)
+
+---
+
+### Sri Lanka's criminal suspect is punished 10%
+
+*2025-10-02 12:51:48* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-අපරධ-සකකරව-දඬවම-ලබනන-10-අඩ-පරමණයක/26-680635) · `si`
+
+Advice - Director, Attorney Sanjeewani Abeykoon on the laws of the National Child Protection Authority
+
+The law is a recognized principle that the law is not excuse. Law knows or do not know or do not know the children and women in the country. The Dhampeasure of the Hangara Scenario has been noted daily.. To prevent such tragic events, the children should be given to the children to protect children from child abuse. At any sexual abuse, the elderly and child child knows about the elders and children.
+
+...
+
+[Data](articles/ea1e5e2e.json)
+
+[Extended Data](ext_articles/ea1e5e2e.ext.json)
 
 ---

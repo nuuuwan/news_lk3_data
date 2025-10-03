@@ -1,115 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 14:55:41**
+As of **2025-10-03 14:10:10**
 
 ## Newspaper Stats
 
-*Scraped **80,825** Articles*
+*Scraped **80,771** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 568
 dbsjeyarajcom | 637
-lankadeepalk | 713
-bbccomsinhala | 723
+lankadeepalk | 699
+bbccomsinhala | 722
 colombotelegraphcom | 805
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,653
-adalk | 7,764
-adaderanalk | 10,406
-tamilmirrorlk | 12,034
-virakesarilk | 13,226
+adalk | 7,762
+adaderanalk | 10,382
+tamilmirrorlk | 12,032
+virakesarilk | 13,215
 adaderanasinhalalk | 13,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,721 (99.9%) of 80,825 articles have been extended.
+80,662 (99.9%) of 80,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
-
-### Doctors need to adjust the signature: Court
-
-*2025-10-03 14:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவர்கள்-கையெழுத்தை-சரிசெய்ய-வேண்டும்-நீதிமன்றம்/175-365695) · `ta`
-
-The Indian court has ordered that doctors should write drugs clearly in large letters, not grains, or to be switched to digital forms.
-
-The Punjab and the Haryana High Court issued the order after a judge found the medical legal statement "incomprehensible".
-
-The court recommended the inclusion of manuscripts in the medical school curriculum, and urged the government to make digital pharmaceutical tickets compulsory within two years.. Remble
-
-◼️
-
-[Data](articles/24e288f6.json)
-
-[Extended Data](ext_articles/24e288f6.ext.json)
-
----
-
-### A 14 -year -old granddaughter in Batticaloa
-
-*2025-10-03 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226781) · `ta`
-
-Batticaloa High Court Judge RJ Prabhakaran issued a decree last Thursday (25) to pay a 30 -year -old imprisonment and a penalty of 30 thousand rupees.
-
-The 56 -year -old father, aged 14, was arrested for allegedly sexually abusing three times from December 2015 to April 2016 and was shifted to the Batticaloa High Court.
-
-The prosecution was found guilty on September 9 last year after a three -year -old case of sexual abuse of a woman under Section 365 (2) of the suspect.
-
-When the case was taken up in the presence of Batticaloa High Court Judge TJ Prabhakaran on Thursday 25th, the first offense was sentenced to 10 years in prison for the first offense and a penalty of Rs. The judge ordered that the victim would be sentenced to 3 months in prison if he was not paid a penalty of 10 thousand rupees.
-
-◼️
-
-[Data](articles/e76414dc.json)
-
-[Extended Data](ext_articles/e76414dc.ext.json)
-
----
-
-### Namal asks for the Spirit's soul
-
-*2025-10-03 13:56:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නමල-තජදනග-ආතමයට-සධරණයක-ඉලලය/1-680695) · `si`
-
-Namal Rajapaksa requested the government to hold a fair investigation and justice to the cosmetic soul.
-
-Namal Rajapaksa said, "The government is using false evidence.
-
-It is not the key to the government to go to the government. The police requested to protect the dignity.
-
-The cosmetry went to make false evidence. Twenty-four hours, the media staged the media.
-
-Now hold a fair investigation. It's justice to the soul of Thajudin.
-
-◼️
-
-[Data](articles/994dd5d1.json)
-
-[Extended Data](ext_articles/994dd5d1.ext.json)
-
----
-
-### Sajith is in a journey to protect the hoof
-
-*2025-10-03 13:44:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහටටව-රකනන-ගහන-සජත-පඹ-ගලක/1-680691) · `si`
-
-Minister Dr. Nalinda Jayatissa said that Sajith Premadasa has gone on a joint today.
-
-He pointed out that when the politicians who are involved in the ice and the politicians involved in them are not spoken by Sajith Premadasa.
-
-Due to the government's actions, the racket involving the racket of ice is being exposed and the opposition is expected to close them today.
-
-◼️
-
-[Data](articles/d7d9db76.json)
-
-[Extended Data](ext_articles/d7d9db76.ext.json)
-
----
 
 ### Sri Lanka strengthens trade, investment, and tourism ties at World Expo 2025 in Osaka
 
@@ -125,8 +47,6 @@ Opening the session, EDB Chairman/CEO Mangala Wijesinghe described the event as 
 
 [Data](articles/e2879f2b.json)
 
-[Extended Data](ext_articles/e2879f2b.ext.json)
-
 ---
 
 ### Hayleys Leisure appoints Rajitha Amarasinghe as Director of Operations – Amaya Resorts & Spas
@@ -140,8 +60,6 @@ In his new role, Amarasinghe will oversee the operations of Amaya Resorts & Spas
 ...
 
 [Data](articles/7a4fb9fc.json)
-
-[Extended Data](ext_articles/7a4fb9fc.ext.json)
 
 ---
 
@@ -161,8 +79,6 @@ Karunarathna holds a BSc in Accountancy and Financial Management with First Clas
 
 [Data](articles/810f7862.json)
 
-[Extended Data](ext_articles/810f7862.ext.json)
-
 ---
 
 ### ComBank’s sustainability leadership inspires UN Global Compact annual sessions in New York
@@ -178,30 +94,6 @@ Munasinghe who also serves as a trustee of the bank’s CSR Trust, is a member o
 ...
 
 [Data](articles/526dce9e.json)
-
-[Extended Data](ext_articles/526dce9e.ext.json)
-
----
-
-### The hearing of Manusha Nanayakkara's precedent petition on the 08th!
-
-*2025-10-03 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226780) · `ta`
-
-The Colombo Magistrate's Court has ordered that a petition filed by former minister Manusha Nanayakkara will be taken up for hearing on the 8th of this month, demanding the arrest of the Commission of Bribery and Corruption.
-
-Officials of the Bribery and Corruption Investigation Commission are conducting investigations into the fraud of fraud while sending employees to Israel for agricultural work during his tenure as a foreign employment minister.
-
-Former Minister Manusha Nanayakkara filed a petition in court demanding that the bribery and corruption inquiry commission officials be arrested in connection with these investigations.
-
-The order was issued when the petition was summoned in the presence of Colombo Chief Magistrate Asanga S Potarakama today (03).
-
-Officials of the Bribery and Corruption Investigation Commission appeared in court and submitted a report to the court in protest against the petition of Manusha Nanayakkara.
-
-...
-
-[Data](articles/3b4dc93a.json)
-
-[Extended Data](ext_articles/3b4dc93a.ext.json)
 
 ---
 
@@ -219,351 +111,77 @@ She is pursuing a Bachelor of Business Degree and is passionate about leadership
 
 [Data](articles/e1ee27af.json)
 
-[Extended Data](ext_articles/e1ee27af.ext.json)
-
 ---
 
-### දිනකට අලුත් පිළිකා රෝගීන් සියයක්, වසරකට 35000ක්
-
-*2025-10-03 13:36:47* · [`adalk`](https://www.ada.lk/breaking_news/දිනකට-අලුත්-පිළිකා-රෝගීන්-සියයක්--වසරකට-35000ක්/11-418895) · `si`
-
-මෙරට ජීවත්වන ජනතාවට ගෞරවයෙන් හා අභිමානයෙන් යුතුව ‌සෞඛ්‍ය  සේවා රැකවරණ පද්ධතියේ ප්‍රශස්ත ප්‍රතිලාභ වඩාත් සමීපව භුක්ති විදීමේ අයිතිය තහවුරු කිරීම උදෙසා නව රජයේ සෞඛ්‍ය ප්‍රතිපත්තිය යටතේ දිවයින පුරා ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන දහසක්  පළමු අදියර යටතේ පිහිටුවීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ උපදෙස් හා මඟපෙන්වීම  අනුව එම අමාත්‍යාංශය මේ වන විට සැලසුම් කර ඇත.
-
-ජනතාවට වඩාත් සමීප, පහසුවෙන් ප්‍රවේශවිය හැකි  ස්ථානයක ස්ථාපිත කරන මෙම  ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථානය ආරෝග්‍යා සුවතා මධ්‍යස්ථාන ලෙස නම් කර ඇති අතර නව රජයේ “සුවපත් රටක් උදෙසා” (HEALTHY SRI LANKA) නව්‍ය වැඩසටහන යටතේ ක්‍රියාත්මකවන මෙම ව්‍යාපෘතිය යටතේ මෙම වර්ෂය තුළ දී ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන සියයක් ජනගත කිරීමට ද නියමිත ය.
-
-ඒ අනුව ක්‍රියාත්මකවන නියමු ව්‍යාපෘතියේ  සිවිවන  ආරෝග්‍යා සුවතා මධ්‍යස්ථානය මහනුවර  දිස්ත්‍රික්කයේ පෝල්ගොල්ලවත්ත ආරෝග්‍යා සුවතා මධ්‍යස්ථානය  ඊයේ පස්වරුවේ (02) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් ජනතා අයිතියට පත් කෙරිණි.
-
-...
-
-[Data](articles/6e3abb81.json)
-
----
-
-### Innovation of large sums of rifles in the cavity in Jaffna
-
-*2025-10-03 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226774) · `ta`
-
-A large number of rifles have been discovered from the tooth of a land in Jaffna.
-
-Nawali was working on cleaning a land that had long been found in the North North and its owner yesterday (02).
-
-At the same time, the top of the cavity of the sewage in the land was found in the cavity.
-
-After informing the Manipay police, the police went to the scene and visited the gunmen.
-
-The police said that action will be taken to recover the rifles for the Mallakam court and the court permission is obtained.
-
-◼️
-
-[Data](articles/6e70f07b.json)
-
-[Extended Data](ext_articles/6e70f07b.ext.json)
-
----
-
-### The death of a drinker in the money purchased by pooja products
+### பூஜை பொருட்கள் வாங்கிய பணத்தில் குடித்த தொழிலாளி மரணம்
 
 *2025-10-03 13:31:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூஜை-பொருட்கள்-வாங்கிய-பணத்தில்-குடித்த-தொழிலாளி-மரணம்/175-365694) · `ta`
 
-A drinker who died after buying the necessary items for the arms pooja in the village of Kuruvankuppam next to Virthasalam in Cuddalore district.
+கடலூர் மாவட்டம் விருத்தாசலம் அடுத்த குருவன்குப்பம் கிராமத்தில் ஆயுத பூஜைக்கு தேவையான பொருட்களை வாங்கிய பின் மீதம் இருந்த பணத்தில் மது குடித்தவர் உயிரிழந்துள்ளார்.
 
-Velmurugan (36), his wife Valli. The couple has 2 sons, Ayyanar (11) and Vijayvel (5). Velmurugan had the habit of drinking alcohol. Whenever there is a husband and wife, there is a dispute between the husband and wife.
+குறித்த பகுதியில் வேல்முருகன்(36), இவரது மனைவி வள்ளி. இந்த தம்பதிக்கு அய்யனார்(11), வெற்றிவேல்(5) ஆகிய 2 மகன்கள் உள்ளனர். வேல்முருகனுக்கு மது குடிக்கும் பழக்கம் இருந்தது. அவ்வாறு மதுகுடித்துவிட்டு வீட்டிற்கு வரும்போதெல்லாம் கணவன், மனைவி இடையே தகராறு ஏற்பட்டு வந்துள்ளது.
 
-In this case, Valli gave Vallmurugan Rs.. Velmurugan went to the store and bought pooja items. For the remaining money, he bought wine at the task force.
+இந்த நிலையில் நேற்று முன்தினம் ஆயுத பூஜைக்கு தேவையான பொருட்களை வாங்குவதற்காக வேல்முருகனிடம் ரூ.1,000-ஐ வள்ளி கொடுத்தார். வேல்முருகனும் கடைக்கு சென்று பூஜை பொருட்களை வாங்கினார். அதில் மீதம் இருந்த பணத்துக்கு அவர், டாஸ்மாக் கடையில் மது வாங்கி குடித்தார்.
 
-Velmurugan then went to the house at Madhubhu and gave his wife pooja items. Valli asked to give the rest of the money to go. He said he had cost. It was in that money that Valli got into an argument with her, knowing that her husband had left alcohol.
-
-Valli fell asleep at night, locking the door inwardly with Velmurugan, without giving me a meal.. Velmurugan slept in front of the house.
+பின்னர் மதுபோதையில் வீட்டுக்கு சென்ற வேல்முருகன், தனது மனைவியிடம் பூஜை பொருட்களை கொடுத்தார். பொருட்கள் வாங்கியது போக மீதமுள்ள பணத்தை தருமாறு வள்ளி கேட்டார். அதற்கு அவர் செலவாகி விட்டதாக கூறினார். அந்த பணத்தில்தான், தனது கணவர் மதுகுடித்து விட்டு வந்ததை அறிந்து கொண்ட வள்ளி அவருடன் வாக்குவாதம் செய்தார்.
 
 ...
 
 [Data](articles/0088342d.json)
 
-[Extended Data](ext_articles/0088342d.ext.json)
-
 ---
 
-### Arms Pooja: Wife who was killed by a pitcher
-
-*2025-10-03 13:31:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுத-பூஜை-குடித்த-கணவனை-குடத்தால்-அடித்துக்-கொன்ற-மனைவி/175-365694) · `ta`
-
-A drinker who died after buying the necessary items for the arms pooja in the village of Kuruvankuppam next to Virthasalam in Cuddalore district.
-
-Velmurugan (36), his wife Valli. The couple has 2 sons, Ayyanar (11) and Vijayvel (5). Velmurugan had the habit of drinking alcohol. Whenever there is a husband and wife, there is a dispute between the husband and wife.
-
-In this case, Valli gave Vallmurugan Rs.. Velmurugan went to the store and bought pooja items. For the remaining money, he bought wine at the task force.
-
-Velmurugan then went home at Madhubodi and gave his wife pooja items. Valli asked to give the rest of the money to go. He said he had cost it. It was in that money that Valli got into an argument with her, knowing that her husband had left alcohol.
-
-Valli fell asleep at night, locking the door inwardly with Velmurugan, without giving me a meal.. Velmurugan slept in front of the house.
-
-...
-
-[Data](articles/4813d9dc.json)
-
-[Extended Data](ext_articles/4813d9dc.ext.json)
-
----
-
-### Bribery is against Manusha's bail
-
-*2025-10-03 13:30:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනෂග-ඇප-ඉලලමට-අලලස-වරදධ-වය/1-680687) · `si`
-
-If the Bribery Commission was arrested on the Israeli employment agreement, Colombo Chief Magistrate Asanka Nanayakara, who was appointed to obtain bail on the 8th, was appointed as the petition to be bail.
-
-After considering the Bribery Commission, the Bribery Commission filed the complaint after the Bribery Commission had filed opposition to the suspect.
-
-When the complaint was taken up today, the Bribery Commission presented the written assertion by expressing his opposition to the bail.
-
-The Magistrate ordered to refer to the written lectures on the 6th at the eight days following the written facts submitted by the respondents.
-
-Bribery Commission has commenced this inquiry into the activities of the Sri Lanka Bureau and the Sri Lanka Bureau of Foreign Employment and the Israeli State Government to provide foreign employment to the youth of the country.. Mr. Nanayakkara filed the petition on the 26th of the last day.
-
-...
-
-[Data](articles/6c1aa70b.json)
-
-[Extended Data](ext_articles/6c1aa70b.ext.json)
-
----
-
-### Great tragedy in Ethiopia: 36 killed in church
-
-*2025-10-03 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226778) · `ta`
-
-When a religious event was held in a church located in the Ethiopia region of the East Africa country of Ethiopia, a temporary tree for reconstruction suddenly collapsed and more than 200 people were injured.
-
-The famous Mejar Shenkora Arteri Mariam Church is located in the city of Artedi, the Umhara region, about 70 kilometers from the Ethiopian capital, Adisa Ababa.
-
-The annual religious event, held in this church, was held. A large number of devotees from the area gathered to attend.
-
-The essence of the tree for the restoration of the church premises suddenly collapsed with a loud noise. A large number of devotees were trapped in the wreckage.
-
-36 people were tragically killed in this accident. Also, more than 200 people were injured. The injured have been rescued and admitted to nearby hospitals for treatment.
-
-...
-
-[Data](articles/2d5e78d2.json)
-
-[Extended Data](ext_articles/2d5e78d2.ext.json)
-
----
-
-### Cancer cell counting nutrients from Colombo University
+### පිළිකා සෛල නසන පෝෂක ඖෂධයක් කොළඹ සරසවියෙන්
 
 *2025-10-03 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215290) · `si`
 
-Cancer is a serious illness that threats a serious threat to the existence of human life.
+පිළිකාව යනු මිනිස් ජීවිතයේ පැවැත්මට දැඩි තර්ජනයක් එක්කර තිබෙන රෝගී තත්ත්වයකි.
 
-As a result, the world is now focused in the world to search for it.
+එම නිසාම ඊට එරෙහිව ප්‍රතිකාර සෙවීමට මේ වනවිට ලෝකයේම අවධානය යොමුවී තිබේ.
 
-In such a backdrop, the Biochechology and Biocular Biological Institute and Biochology has been able to find a nutrient of cancer.
+එවැනි පසුබිමක පිළිකා සෛල නසන පෝෂක ඖෂධයක් සොයාගැනීමට කොළඹ සරසවියේ ජෛව රසායන, අණුක ජීවවිද්‍යා සහ ජෛව තාක්ෂණ ආයතනය සමත්වී තිබේ.
 
-In a part of the human body, unusual cells are known as cancer, and may even be even death if it is not recognized at the first instance.
+මිනිස් ශරීරයේ කොටසක අසාමාන්‍ය සෛල පාලනයකින් තොරව වර්ධනයවීම පිළිකාවක් ලෙස හැඳින්වෙන අතර එය මුල් අවස්ථාවේ හඳුනාගෙන ප්‍රතිකාර නොකළහොත් මරණය පවා ගෙනදිය හැකිය.
 
-Globishingly, nearly Rs.
+ගෝලීය වශයෙන් ගත්කළ වසරකට මිලියන 10කට ආසන්න පුද්ගලයින් සංඛ්‍යාවක් පිළිකාව හේතුවෙන් මරණයට පත්වන අතර ශ්‍රී ලංකාවේ වසරකට පිළිකාව හේතුවෙන් මියයන පුද්ගලයින් සංඛ්‍යාව 15,000 ත් - 20,000ත් අතර වෙයි.
 
-In the face of this situation, cancer grew rapid growth in the sides of cancer, in parallel, and in parallel, the world is focused on the need to act against cancer.
-
-Accordingly, Russia recently announced that he was able to manufacture an important cancer in the fight against cancer.
-
-As a result of the research conducted by nearly 17 years since 2008, a research performing in 2008 has been able to find a nutrient, molecular biology and biotechnology.
+මෙම තත්ත්වය හමුවේ ගෝලීය වශයෙන් මෙන්ම දේශියවද දිනෙන් දින පිළිකාව පැතිරයාමේ සීඝ්‍ර වර්ධනයක් පෙන්නුම් කර ඇති අතර ඊට සමගාමීව පිළිකාවට එරෙහිව කටයුතු කිරීමේ අවශ්‍යතාවය කෙරෙහිද ලෝකයේම අවධානය යොමුවී තිබේ.
 
 ...
 
 [Data](articles/79236c78.json)
 
-[Extended Data](ext_articles/79236c78.ext.json)
-
 ---
 
-### Russia's plan to strengthen trade with India amid US taxation
-
-*2025-10-03 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226776) · `ta`
-
-President Vladimir Putin has said that Russia is planning to compensate for the loss of heavy taxation measures imposed on India from the Ukraine -Russia war, India, and to increase the trade between the two countries.
-
-Speaking at the International Woldy Seminar in Sochi, Russia, Russian President Putin shared important comments on relations and trade with India.
-
-“The losses of India by the US 50 per cent taxation measures on India due to the importation of lubricant from Russia will be equated with lubricant imports with Russia. With this, India will receive its dignity as a sovereign country.
-
-Also, we are planning to buy more agricultural products and medicines from India to eliminate trade inequalities. I have advised the Russian government departments to think about the methods. "
-
-...
-
-[Data](articles/098e5a7b.json)
-
-[Extended Data](ext_articles/098e5a7b.ext.json)
-
----
-
-### Manusha’s anticipatory bail application fixed for consideration
-
-*2025-10-03 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/113182/manushas-anticipatory-bail-application-fixed-for-consideration) · `en`
-
-The Colombo Magistrate’s Court has ordered that the anticipatory bail application filed by former Minister Manusha Nanayakkara, seeking his release on anticipatory bail before he is arrested by the Bribery Commission, be taken up for consideration on October 08.
-
-The application was called before Colombo Chief Magistrate Asanka S. Bodaragama today (03), said Ada Derana reporter.
-
-Assistant Director General of the Bribery Commission Anusha Sammandapperuma submitted written objections to the appeal, when the case was taken up today.
-
-In response, President’s Counsel Saliya Peiris, representing former minister Nanayakkara, requested a date to file written replies to the objections.
-
-Accordingly, the Magistrate directed the defense counsel to submit written responses by next Tuesday and fixed the consideration of the application on October 8.
-
-...
-
-[Data](articles/9f96573f.json)
-
-[Extended Data](ext_articles/9f96573f.ext.json)
-
----
-
-### Government financial assistance for housing to 100 families in Trincomalee district
-
-*2025-10-03 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226771) · `ta`
-
-State funding for housing for 100 beneficiaries selected in the Trincomalee district on Friday (3) was held at the Trincomalee District Secretariat.
-
-Deputy Minister of Urban Development and Housing Department RB Sarath presented documents to beneficiaries during the event.
-
-Rs.. The fund was provided as 15 lakhs.
-
-These beneficiaries were selected from the Tamil, Sinhala and Muslim communities who had lost their homes due to past war conditions from the 11 Divisional Secretariat Divisions of the district to build houses.
-
-District Parliamentarian Roshan Akmeemana, District Government Agent, District Planning Director, Divisional Secretaries and Families of Beneficiaries were also present at the event.
-
-◼️
-
-[Data](articles/d62e292f.json)
-
-[Extended Data](ext_articles/d62e292f.ext.json)
-
----
-
-### David Peiris Group strengthened the contribution of the Sri Lankan military
-
-*2025-10-03 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226769) · `ta`
-
-The David Peiris Group has once again given its support to the Abhimansala Health Hostel, which is maintaining the transgender warriors in Anuradhapura, conducted by the Sri Lankan military through its Social Welfare Committee.
-
-Rehabilitated Villas David Peiris Motor Company (Sri Lanka) Deputy Chief Officer of Limited
-
-Mr. Sampath Weerakoon, Members of the Group's Social Welfare Committee, Deputy Regional Manager
-
-Vehicle Sales, Mr. Dasun Enemy, Chairman - Internal and External Communication - David Peiris Holdings (Private) Limited, Mr. Thuminda Ekanayake, Manager - Rescue, Essatline Finance Limited and Mr. Dias, Administrator - Manager - Manager - Manager - Manager - Administrator
-
-◼️
-
-[Data](articles/8fbe7e33.json)
-
-[Extended Data](ext_articles/8fbe7e33.ext.json)
-
----
-
-### DFCC Bank empowers iconnect 2.0 to empower business
+### ව්‍යාපාර සවිබල ගැන්වීමට DFCC බැංකුව iConnect 2.0 බලගන්වයි
 
 *2025-10-03 12:52:36* · [`adalk`](https://www.ada.lk/business/ව්‍යාපාර-සවිබල-ගැන්වීමට-DFCC-බැංකුව-iConnect-2-0-බලගන්වයි/7-418893) · `si`
 
-DFCC Bank's premier digital digital banking solution, DFCC iconnect 2.0, the way business agencies in Sri Lanka manages its financial operations.
+DFCC බැංකුවේ ප්‍රමුඛතම ආයතනික ඩිජිටල් බැංකුකරණ විසඳුම වන DFCC iConnect 2.0, මේ වන විටත් ශ්‍රී ලාංකාවේ ව්‍යාපාර ආයතන, සිය මූල්‍ය මෙහෙයුම් කළමනාකරණය කරන ආකාරය පරිවර්තනීය වෙනසකට ලක් කිරීමට සමත්වී ඇත.
 
-DFCC Bank's pioneer role in simplifying banking and trade from launching this banking solution to date. Companies and Small and Medium Scale Enterprises Early and Small and Medium Scale Propositions allow the management of trade, payments and supply chains through one digital banking solution.
-
-DFCC Iconnect 2.0 Provides money management, trading solutions, supplier financing, and API intecreations (API intension). The expedited connection is the convenience of banking from anywhere in the island, and with comparison to the banking, and allows you to improve their cash flows (cash flow) and maintain the product of the relationships, and to maintain the order of operational.
+මෙම බැංකුකරණ විසඳුම දියත්කිරීමේ සිට මේ දක්වා, බැංකුකරණ කටයුතු සහ වෙළඳාම සරල කිරීමෙහිලා DFCC බැංකුවේ පුරෝගාමී භූමිකාව තහවුරු කර ඇත. DFCC iConnect හරහා සමාගම්වලට සහ කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරවලට, ආරක්ෂිතව, එක් ඩිජිටල් බැංකුකරණ විසඳුමක් හරහා වෙළඳාම, ගෙවීම් සහ සැපයුම් දාම කළමනාකරණය කිරීමට අවස්ථාව සලසා දෙයි.
 
 ...
 
 [Data](articles/13ca4a59.json)
 
-[Extended Data](ext_articles/13ca4a59.ext.json)
-
 ---
 
-### Rape on a 16 -year -old girl in Trincomalee; 32 years in prison for the culprit!
-
-*2025-10-03 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226773) · `ta`
-
-The Trincomalee High Court has sentenced the accused to 32 years in prison after the crime of a man who was raped and raped by a 16 -year -old girl in the Trincomalee -Cherunuwara police division.
-
-The case was filed for sexually abusing a 16 -year -old girl in the period from November 1st to 31st of 2021 and February 2022.
-
-A five -year -old indictment was filed by the Attorney General in connection with the case.
-
-The Penal Code was filed against the person on the basis of 364 (02) sub -section and 436.
-
-Accordingly, five allegations were made during the trial, as the 26 -year -old suspect, who lives in the Cherunuwara -Dehiwatte area, has been charged with five charges.
-
-Darshika Thirukumaranathan appeared as the State Attorney of the Trincomalee High Court. Meanwhile, the Trincomalee High Court Judge NMM Abdullah read the verdict in the open court and that the victim would pay a total of Rs.
-
-The Trincomalee High Court judge ordered that the rinse will be passed for a long time.
-
-◼️
-
-[Data](articles/87475d73.json)
-
-[Extended Data](ext_articles/87475d73.ext.json)
-
----
-
-### The young man who fell from a height of 11 thousand feet: The miracle survived!
-
-*2025-10-03 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226772) · `ta`
-
-A 25 -year -old youth, who was involved in a parachute adventure in Los Vegas, USA, in the US, fell down from about 11 thousand feet from a sudden failure of parachute.. Fortunately he survived with minor injuries.
-
-Mitchell Deck (age 25), a young man, was involved in a parachute adventure in Los Vegas, famous for adventure games. He was accompanied by his instructor.
-
-When they were flying at the height of thousands of feet, unfortunately parachute suddenly crashed. As a result, Mitchell Deek and his instructor had a dangerous situation to fall down from about 11 thousand feet.
-
-In this accident, the young man, Mitchell Deek's fortunately survived with minor injuries. However, the trainee who went with him suffered injuries.
-
-Upon learning of the accident, the rescue crew rushed and rescued the two men who fell down. They were immediately taken to a nearby hospital and are currently being treated.
-
-...
-
-[Data](articles/7ef6f604.json)
-
-[Extended Data](ext_articles/7ef6f604.ext.json)
-
----
-
-### Two calls for the sky
-
-*2025-10-03 12:41:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමතල-දනනක-අහසන-බරට/1-680685) · `si`
-
-Domestic flights between Beverawe and Katunayake were commenced today as a measure of developing tourism.
-
-Deputy Minister of Ports and Civil Aviation Janitha Ruwan Kodituwakku and Traveling Minister Prof. Ruwan Ranasinghe and a group of officials of the Cinnamon Airlines arrived in Breesman Ranasinghe.
-
-Transport Minister Bimal Ratnayake, Secretary to the Ministry of Defense, Secretary to the Ministry of Defense and John Keells Group, was present at the request of the aircraft.
-
-Transport Minister landed on the plane and conversed with the pilot. Bimal Ratnayake said that airlines would invite airlines for internal airlines.
-
-◼️
-
-[Data](articles/f5a8aab2.json)
-
-[Extended Data](ext_articles/f5a8aab2.ext.json)
-
----
-
-### Two calls for the sky
+### ඇමතිලා දෙන්නෙක් අහසින් බේරෙට
 
 *2025-10-03 12:41:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමතල-දනනක-අහසන-බරට/101-680685) · `si`
 
-Domestic flights between Beverawe and Katunayake were commenced today as a measure of developing tourism.
+සංචාරක කර්මාන්තය වර්ධනය කිරීමේ පියවරක් ලෙස බේරේවැව සහ කටුනායක අතර ගෘහස්ථ ගුවන් ගමන් අද ආරම්භ කෙරිණ.
 
-Deputy Minister of Ports and Civil Aviation Janitha Ruwan Kodituwakku and Traveling Minister Prof. Ruwan Ranasinghe and a group of officials of the Cinnamon Airlines arrived in Breesman Ranasinghe.
+වරාය සහ සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය ජනිත රුවන් කොඩිතුවක්කු හා සංචාරක නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ යන මහත්වරු සහ නිලධාරීහු පිරිසක් සිනමන් ගුවන් සමාගමට කොළඹ බේරේ වැව දක්වා අද උදේ පැමිණියහ.
 
-Transport Minister Bimal Ratnayake, Secretary to the Ministry of Defense, Secretary to the Ministry of Defense and John Keells Group, was present at the request of the aircraft.
+ගුවනින්පැමිණි පිරිස පිළිගැනීමට ප්‍රවාහන අමාත්‍ය බිමල් රත්නායක ආරක්ෂක අමාත්‍යාංශයේ ලේකම් සම්පත් තුයියකොන්තා සහ ජෝන් කීල්ස් සමූහයේ සභාපති ක්‍රිෂාන් බාලේන්ද්‍රන් යන මහත්වරු එහි පැමිණ සිටියහ.
 
-Transport Minister landed on the plane and conversed with the pilot. Bimal Ratnayake said that airlines would invite airlines for internal airlines.
+ප්‍රවාහන අමාත්‍යවරයා එම ගුවන් යානයට ගොඩ වී ගුවන් නියමුවා සමගද කතාබහ කළේය. මෙහිදී අදහස් දැක්වූ බිමල් රත්නායක මහතා පැවසුවේ අභ්‍යන්තර ගුවන් සේවා සඳහා ගුවන් සමාගම් වලට ආරාධනා කරන බවයි.
 
 ◼️
 
 [Data](articles/641f74fb.json)
-
-[Extended Data](ext_articles/641f74fb.ext.json)
 
 ---
 
@@ -593,26 +211,6 @@ The Bribery Commission is conducting an investigation into an irregularity sayin
 
 ---
 
-### Four people arrested with more than Rs 1 crore in Maligawatta
-
-*2025-10-03 12:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226770) · `ta`
-
-Four suspects have been arrested by the Maligawatta police yesterday (02) with various items, including mobile phones and perfumes worth more than Rs 1 crore.
-
-The suspects have been arrested in a raid carried out at a house in the Colombo -Maligawatta area on information received by the Maligawatta police.
-
-26 mobile phones, 10 IBB, 10 Deb computers, 3 laptops and perfumes have been seized by the suspects.
-
-Police investigations revealed that the arrested suspects were illegally brought to the country without paying the customs when four of the arrested suspects went back to Dubai on September 30.
-
-◼️
-
-[Data](articles/52d5a55b.json)
-
-[Extended Data](ext_articles/52d5a55b.ext.json)
-
----
-
 ### LOLC's veterinary insurance promotes human -leopard peer
 
 *2025-10-03 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226768) · `ta`
@@ -628,44 +226,6 @@ Six active security zones have been established across the country as part of th
 [Data](articles/42f5d93e.json)
 
 [Extended Data](ext_articles/42f5d93e.ext.json)
-
----
-
-### Calls for PC polls aim to show public opinion on govt – Mahinda Deshapriya
-
-*2025-10-03 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113181/calls-for-pc-polls-aim-to-show-public-opinion-on-govt-mahinda-deshapriya) · `en`
-
-Former Election Commission Chairman Mahinda Deshapriya stated that the current calls for Provincial Council elections are being made merely to demonstrate that there is public opposition to the incumbent government.
-
-He pointed out that no Member of Parliament has raised the issue, either in Parliament or elsewhere, that Provincial Council elections are genuinely needed.
-
-Deshapriya further emphasized that the demand for such elections cannot be justified unless the people are made to understand why they are necessary.
-
-He expressed these views while participating in a seminar held in Colombo on the subject of Provincial Council elections.
-
-◼️
-
-[Data](articles/2382c250.json)
-
-[Extended Data](ext_articles/2382c250.ext.json)
-
----
-
-### Trying to cross the road
-
-*2025-10-03 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226767) · `ta`
-
-One person was killed in an accident in Harivattunna area on Habarana - Dambulla road, police said.
-
-The accident took place yesterday (02) at 07.10 pm, police said.
-
-Police said the accident occurred when a bus that was traveling at a high speed was crashed into a man who tried to cross the road.
-
-◼️
-
-[Data](articles/0ad50daa.json)
-
-[Extended Data](ext_articles/0ad50daa.ext.json)
 
 ---
 
@@ -771,26 +331,6 @@ After considering the facts, the magistrate set the date on December 5.
 
 ---
 
-### The 'Dambulla Thunder' owns the condolence
-
-*2025-10-03 12:00:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දඹලල-තනඩරස-හමකරට-අධචදන-ගනකරය/1-680684) · `si`
-
-L. P. The Attorney General Asanka Ace Bodaragama has decided to support the suspect in the L 2024 cricket match against the suspect, the British citizen.
-
-After he appeared in the court, the special investigation unit of the Sports Pollution Prevention Act was referred to the suspect under Section 5 and 8 of the Sports Pollpature Prevention Act.
-
-Accordingly, the case is to be filed in the High Court, as it is to be charged in the High Court.
-
-After considering the facts, the magistrate set the date on December 5.
-
-◼️
-
-[Data](articles/a9732c40.json)
-
-[Extended Data](ext_articles/a9732c40.ext.json)
-
----
-
 ### World Bank on Messical
 
 *2025-10-03 11:55:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-බකවත-මතසබය/101-680683) · `si`
@@ -808,26 +348,6 @@ World Bank officials said the need to accelerate reforms in the power sector in 
 [Data](articles/84bee390.json)
 
 [Extended Data](ext_articles/84bee390.ext.json)
-
----
-
-### World Bank on Messical
-
-*2025-10-03 11:55:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලක-බකවත-මතසබය/1-680683) · `si`
-
-The World Bank representatives of the country's manager Gevorg Sargsyan held a discussion with the Chairman of the Public Finance Committee on 25th on 25th.
-
-The team then then the Committee of the Committee of Committees Hon. Hon. And the Chairman of the Committee and Meeting
-
-The Committee Chairmen expressed his gratitude to the World Bank for the continued support for Sri Lanka for many years.
-
-World Bank officials said the need to accelerate reforms in the power sector in Sri Lanka. They also pointed out that Sri Lanka faces significantly higher energy costs than other countries in the region.. The need to improve the development work of the Ports and Supply Division.
-
-◼️
-
-[Data](articles/9942ac08.json)
-
-[Extended Data](ext_articles/9942ac08.ext.json)
 
 ---
 
@@ -889,32 +409,6 @@ If there are any inquiries in this regard, it has been further stated that you c
 
 ---
 
-### One killed, 5 injured as van crashes into tree in Thanamalwila
-
-*2025-10-03 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113179/one-killed-5-injured-as-van-crashes-into-tree-in-thanamalwila) · `en`
-
-A person was killed and five others injured in a fatal road accident that occurred in the Kithulkote area along the Thanamalwila–Wellawaya road this morning (October 3).
-
-Police said a van traveling from Thanamalwila towards Wellawaya veered off the road and crashed into a tree after the driver reportedly fell asleep on the wheel.
-
-Six people, including the driver, sustained injuries in the crash and were admitted to the Thanamalwila District Hospital.
-
-One of the victims later succumbed to injuries, said Ada Derana reporter.
-
-The group had been returning to Buttala after working at a garment factory in Avissawella.
-
-The deceased was identified as a 56-year-old resident of Dambulla, while the van driver is reportedly 18 years old.
-
-Three of the injured, aged 23, 35, and 49, were transferred from the Thanamalwila District Hospital to the Hambantota General Hospital for further treatment as their condition was critical.
-
-◼️
-
-[Data](articles/c4401ec0.json)
-
-[Extended Data](ext_articles/c4401ec0.ext.json)
-
----
-
 ### Two persons arrested for illegally holding gold
 
 *2025-10-03 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226765) · `ta`
@@ -967,23 +461,21 @@ Drivers have been arrested along with the five lorarges in the Bandaragama Polic
 
 ---
 
-### Five lorries transporting the duties arrested
+### හොරට කිරිමැටි ප්‍රවාහනය කළ ලොරි 5ක් අල්ලයි
 
 *2025-10-03 11:41:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරට-කරමට-පරවහනය-කළ-ලර-5ක-අලලය/101-680682) · `si`
 
-Bandaragama police say that the drivers were arrested with five tippers with illegally transported license conditions
+බලපත්‍ර කොන්දේසි උල්ලංඝණය කරමින් නීති විරෝධී ආකාරයෙන් කිරිමැටි ප්‍රවාහනයේ යෙදුණ ටිපර් රථ පහක් සමඟ එහි රියදුරන් අත්අඩංගුවට ගත් බව බණ්ඩාරගම පොලිසිය කියයි
 
-It is also the case with a neighbor of politician is also a license to the daughter's name.
+.ඒ අතර හිටපු ප්‍රබල දේශපාලනඥයකුගේ බෑණාට අයත් ලොරි රථයක් ද වන බවත් ඒ සඳහා කිරිමැටි ප්‍රවාහනයට යොදාගෙන ඇත්තේ දියණියගේ නමට යොදාගත් බලපත්‍රයක් බව ට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
 
-It has also been revealed that there is no definition of the lorry that was taken into police custody.
+පොලිස් භාරයට ගත් එක් ලොරි රථයකට කිරිමැටි ප්‍රවාහනය සඳහාබලපත්‍ර නොමැති බවට ද අනාවරණය වී ඇත.
 
-Drivers have been arrested along with the five lorarges in the Bandaragama Police Station, including the OIC of the Bandaragama Police.
+බස්නාහිර පළාත් බුද්ධිකොට්ඨාසයේ නිලධාරීන්ට ලද තොරතුරකට බණ්ඩාරගම පොලිසියේ පරිසර අංශයේ ස්ථානාධිපති ඇතුළු නිලධාරීන් බණ්ඩාරගම කළුතර මාර්ගයේ ගල්තුඩේ ප්‍රදේශයේදී අද අලුයම සිදු කළ මෙහෙයුමකදී මෙම ලොරිරථ පහ සමඟ රියදුරන් අත්අඩංගුවටට ගෙන ඇත.
 
 ◼️
 
 [Data](articles/53e12478.json)
-
-[Extended Data](ext_articles/53e12478.ext.json)
 
 ---
 
@@ -1022,48 +514,6 @@ A senior official of the Cultural Fund (Cultural Fund) said that the Eastern Pon
 [Data](articles/da12d298.json)
 
 [Extended Data](ext_articles/da12d298.ext.json)
-
----
-
-### Many rare minerals meet in Abhayagiriya excavations
-
-*2025-10-03 11:28:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අභයගරය-කණමවලන-දරලභ-ඛනජ-රසක-හමවය/1-680681) · `si`
-
-Central Cultural Fund says that a large number of minerals have been found in the east of the east of the Eastern Pond, which had not been renovated over a total of over ten centuries.
-
-The excavations carried out in the Abhayagiriya Chaitya have met with ancient areas and many other old Saraswathi coins, such as Knealian, asy and pessbleers.
-
-The officers of the officers have been handed over to the Central Cultural Fund Museum to protect those historical archeoes.. The staff officials point out that there is a staircase and tabernacle in the premises of this excavation.
-
-ක්‍රිස්තු වර්ෂ පස්වන සියවසේ පමණ ඉදි කරන්නට ඇතැයි අනුමාන කරන මෙම අභයගිරි චෛත්‍යයේ නැගෙනහිර  පොකුණ විවිධ ආක්‍රමණ වලින් හෝ  කාලයාගේ ඇවෑමෙන් වැසී ගොස් ඇතැයි පවසන මාධ්‍යම සංස්කෘතික අරමුදලේ ජ්‍යෙෂ්ඨ නිලධාරියෙකු සඳහන් කළේ 1982 වර්ෂයේදී මහාචාර්ය කරුණාසේන හෙට්ටිආරච්චි මහතා විසින් සොයා ගන්නා ලදයිි කියන මෙම පොකුණ පිළිසකර කිරීමට 2025 වර්ෂයේ මාර්තු 21 ක් මට දින එහි වැඩකටයුතු ආරම්භ කළ බවයි.
-
-...
-
-[Data](articles/d05a9347.json)
-
-[Extended Data](ext_articles/d05a9347.ext.json)
-
----
-
-### AG to file indictments against ‘Dambulla Thunders’ owner in LPL match-fixing case
-
-*2025-10-03 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113178/ag-to-file-indictments-against-dambulla-thunders-owner-in-lpl-match-fixing-case) · `en`
-
-The Police Unit for the Prevention of Sports-Related Offences Unit informed the Colombo Magistrate’s Court today (03) that the Attorney General has decided to file indictments against Tamim Rahman, owner of the ‘Dambulla Thunders’ team, who was previously arrested and released on bail in connection with a match-fixing incident during last year’s LPL cricket tournament.
-
-The case was taken up before Colombo Chief Magistrate Asanka S. Bodaragama today (03), said Ada Derana reporter.
-
-The accused, a British citizen of Bangladeshi origin currently out on bail, appeared before the court.
-
-Officers from the Police Unit informed the court that the Attorney General intends to file an indictment against Rahman with the High Court under the Prevention of Offences Relating to Sports Act. They requested that a shorter date be granted for summoning the case.
-
-Accordingly, the Magistrate accepted the request and ordered that the plaint be called on December 5, 2025.
-
-◼️
-
-[Data](articles/f88590fe.json)
-
-[Extended Data](ext_articles/f88590fe.ext.json)
 
 ---
 
@@ -1111,26 +561,6 @@ Police Chief Inspector of Maligawatta Police Chief Inspector Ti B S Krayakana Th
 
 ---
 
-### Four arrested with mobile telephone-perfume
-
-*2025-10-03 11:20:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටයක-ජගම-දරකථන-සවඳවලවන-සමඟ-4ක-දල/1-680680) · `si`
-
-Maligawatta Police say four persons were arrested with a stock of more than Rs.
-
-Police say two two two demands were among the suspects.
-
-With these suspects, 26 smoky mobile phones were taken into custody by various types of perfumes, a large number of perfumes and body coating.
-
-Police Chief Inspector of Maligawatta Police Chief Inspector Ti B S Krayakana Thirna Talyan Talyan Talyanathankana has recovered the property with suspects in the Maligawatta.
-
-◼️
-
-[Data](articles/b13e61b5.json)
-
-[Extended Data](ext_articles/b13e61b5.ext.json)
-
----
-
 ### Narry goes to school
 
 *2025-10-03 11:17:17* · [`adalk`](https://www.ada.lk/breaking_news/නරිත්-පාසල්-යයි/11-418892) · `si`
@@ -1146,42 +576,6 @@ The staff also calls for the Principal and the Principal of the Principal to sei
 [Data](articles/bb2cb7ca.json)
 
 [Extended Data](ext_articles/bb2cb7ca.ext.json)
-
----
-
-### ASPI crosses 22,000 for the first time
-
-*2025-10-03 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113177/aspi-crosses-22000-for-the-first-time) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) surpassed the 22,000-point mark for the first time in history, during this morning’s (03) trading session.
-
-At around 09.35 a.m. this morning (03), the index stood at 22,017.56 points.
-
-◼️
-
-[Data](articles/05429837.json)
-
-[Extended Data](ext_articles/05429837.ext.json)
-
----
-
-### Navy arrests two suspects with illegal gold stock in Kalpitiya
-
-*2025-10-03 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113176/navy-arrests-two-suspects-with-illegal-gold-stock-in-kalpitiya) · `en`
-
-The Sri Lanka Navy has arrested two individuals in possession of an illegal stock of gold during a special search operation in the Arachchal sea area of Kalpitiya.
-
-Authorities seized a total of 4 kilograms and 454 grams of gold from the suspects. In addition, a small boat used to transport the gold was also taken into custody.
-
-The Navy stated that the gold had been carefully concealed to appear as lead for fishing nets.
-
-The arrested suspects are reported to be residents of the Kalpitiya, Wendesi Waththa, and Anawasala areas.
-
-◼️
-
-[Data](articles/d3d1e595.json)
-
-[Extended Data](ext_articles/d3d1e595.ext.json)
 
 ---
 
@@ -1357,26 +751,6 @@ He said that the public should avoid the approaching monkeys to prevent the infe
 
 ### One killed and 5 injured in a van road
 
-*2025-10-03 10:49:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වන-රය-ගසක-වද-අයක-මරට-5කට-තවල/1-680679) · `si`
-
-One in a van, a van of van, was killed in a village in Kithulkotuwa area on Tanamalwila road.
-
-The accident had occurred from the pathway from the Thanamalwila and Wellawaya.
-
-The deceased has been identified as he was seriously injured and admitted to the Tanamalwila Divisional Hospital with serious injuries.
-
-The deceased has been identified as Ralahmilah's monastery (56), Dambulla, D Forest Residence (56). Three of the five injured are receiving treatment at the Thanamalwila Regional Hospital.
-
-◼️
-
-[Data](articles/cb6378f4.json)
-
-[Extended Data](ext_articles/cb6378f4.ext.json)
-
----
-
-### One killed and 5 injured in a van road
-
 *2025-10-03 10:49:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වන-රය-ගසක-වද-අයක-මරට-5කට-තවල/101-680679) · `si`
 
 One in a van, a van of van, was killed in a village in Kithulkotuwa area on Tanamalwila road.
@@ -1471,61 +845,17 @@ This information is included in the Audit Report which is included in the perfor
 
 ---
 
-### 8,429 crimes against children in the three last year
-
-*2025-10-03 10:29:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහගය-වසරතනද-ළමනට-එරහ-අපරධ-8-429ක/1-680678) · `si`
-
-The audit report issued by the National Audit Office, the National Audit Office has revealed that there were 8, 492 crimes of murder, murder, murder, murder and corruption.
-
-The Audit report states that crimes against children have increased significantly.
-
-During this period, sexual abuse of children was 4309. The Audit Report states that 54 children have been killed in the last three years.
-
-In the year 2021.2023, there were 2764 power crimes against children in the year, 2821.2023, according to the audit.
-
-This information is included in the Audit Report which is included in the performance report issued by the Police Department.
-
-◼️
-
-[Data](articles/beb4633f.json)
-
-[Extended Data](ext_articles/beb4633f.ext.json)
-
----
-
-### Highlights of agricultural export earnings in the first 8 months of the year
-
-*2025-10-03 10:27:56* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-මුල්-මාස-8දී-කෘෂිකර්ම-අපනයන-ආදායමේ-කැපී-පෙනෙන-වර්ධනයක්/11-418891) · `si`
-
-According to a report issued by the Central Bank of Sri Lanka, the agricultural export earnings of the country (2025) has increased 12.5 percent to 2,030.2 million in the first eight years.
-
-The Central Bank export earnings in the first eight year of 2024, coconut export earnings from 89 percent to $ 35 million from 89 million in the first eight year of 2024, coconut export earnings from 89 percent to $ 35 million from 35 percent to $ 282.6 million.
-
-However, seafood export earnings in this period was 1.6 percent to $ 161.9 million.
-
-◼️
-
-[Data](articles/0ff35698.json)
-
-[Extended Data](ext_articles/0ff35698.ext.json)
-
----
-
-### Thirteen tons of rice in 2024 increased to 131,000 tons of rice
+### 2024දී වී නිශ්පාදනය ඉහළ ගියත් හාල් ටොන් 131000ක් ආනයනය කරලා
 
 *2025-10-03 10:23:17* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-වී-නිශ්පාදනය-ඉහළ-ගියත්-හාල්-ටොන්-131000ක්-ආනයනය-කරලා/11-418890) · `si`
 
-The report on the last budget condition issued by the Ministry of Finance, Planning and Economic Development has been imported by the Sri Lanka Paddy in Sri Lanka last year (2024).
+මෙරට වී නිෂ්පාදනය ඉකුත් වර්ෂයේ දි (2024) සියයට 4.1කින් ඉහළ ගොස් තිබුනද  එම වර්ෂයේ දි සහල් මෙට්‍රික්ටොන්  එක්ලක්ෂ තිස්එක්දහස් ,තුන්සියතිස්අටක් (131,338)  ආනයනය කොට ඇති බැව්  මුදල්,ක්‍රමසම්පාදන සහ  ආර්ථික සංවර්ධන අමාත්‍යංශය විසින් 2024 වර්ෂයට අදාළව නිකුත්කොට ඇති  අවසාන  අයවැය  තත්ත්වය  පිළිබද වාර්තාවේ සදහන් වේ.
 
-The rice has been imported in the year 2023, according to the report, importing the rice in 2024 percent to 2023 compared to 2023.
+2023 වර්ෂයේ දි මෙරටට සහල් ආනයනය කොට ඇත්තේ සහල් මෙට්‍රික්ටොන්  විසිනමදහස්,හයසියපහක් (29,605)  වන අතර  ඒ අනුව 2023 වර්ෂයට සාපේක්ෂව 2024 වර්ෂයේ දි  සහල් ආනයනය කිරිම සියයට 343.6කින්  තියුණු ලෙස ඉහළ ගොස් ඇති බවද  මෙම වාර්තාවේ සදහන් වේ.
 
-The production of Paddy was up to 2024 compared to 2023, but the production of the rice supply, which is large, and the manufacture of rice manufacturers in the same year, rice manufacturers, and the manufacture of the rice manufacturers, and the manufacture of market manufacturers. The government had to import.  The government spent 36 billion rupees to provide fertilizer subsidy in 2024.
-
-◼️
+...
 
 [Data](articles/98ab2786.json)
-
-[Extended Data](ext_articles/98ab2786.ext.json)
 
 ---
 
@@ -1542,28 +872,6 @@ A woman from Meeravodai - 5 Mather Sangam Road, who was accidentally received tr
 [Data](articles/914571f7.json)
 
 [Extended Data](ext_articles/914571f7.ext.json)
-
----
-
-### Drone sightings disrupt Munich airport, halt flights and impact thousands
-
-*2025-10-03 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113175/drone-sightings-disrupt-munich-airport-halt-flights-and-impact-thousands) · `en`
-
-Germany’s Munich airport said early on Friday that drone sightings on Thursday evening had forced air traffic control to suspend operations, leading to the cancellation of 17 flights and disrupting travel for nearly 3,000 passengers.
-
-Another 15 arriving flights were diverted to Stuttgart, Nuremberg, Vienna and Frankfurt, the airport said in a statement, marking the latest drone disruption to European aviation after sightings temporarily shut airports in Denmark and Norway last week.
-
-German air traffic control officials restricted flight operations at Munich airport from 10:18 p.m. (2018 GMT) on Thursday and later suspended them altogether due to several drone sightings, the airport added.
-
-Flight tracking service Flightradar24 said the airport would remain closed until 0259 GMT, or 4:59 a.m. local time, on Friday.
-
-The first arriving flight on Friday is expected at 5:25 a.m., while the first departure is scheduled for 5:50 a.m., the airport’s website showed.
-
-...
-
-[Data](articles/2b8641be.json)
-
-[Extended Data](ext_articles/2b8641be.ext.json)
 
 ---
 
@@ -1901,24 +1209,6 @@ Tipper drivers have been admitted to the Pali Divisional Hospital with injuries.
 
 ---
 
-### Liquor shops to remain closed today for World Temperance Day
-
-*2025-10-03 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113174/liquor-shops-to-remain-closed-today-for-world-temperance-day) · `en`
-
-The Department of Excise in Sri Lanka has announced that all wine stores and liquor sales outlets across the island will remain closed today (October 3), in view of the World Temperance Day.
-
-World Temperance Day, observed annually on October 3, aims to raise public awareness about the temperance movement and to encourage moderation, or in many cases, complete abstinence from alcoholic beverages.
-
-Accordingly, the Commissioner General of Excise has stated that liquor retail outlets will remain closed from the closing time on October 2, 2025, until the opening time on October 4, 2025.
-
-◼️
-
-[Data](articles/b52f8f18.json)
-
-[Extended Data](ext_articles/b52f8f18.ext.json)
-
----
-
 ### Alcohol-Linked Deaths Hit 22,000 Annually
 
 *2025-10-03 08:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/alcohol-linked-deaths-hit-22-000-annually) · `en`
@@ -1953,23 +1243,21 @@ The suspect and the prosecuting will be handed over to the Katunayake Customs Of
 
 ---
 
-### Indian beadichola cannot be chased
+### ඉන්දියන් බීඩිකොළ පන්නන්න බැරිවෙයි
 
 *2025-10-03 08:53:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඉනදයන-බඩකළ-පනනනන-බරවය/1-680677) · `si`
 
-Kalpitiya Police say that 13 Indian BD leaves were transported to the country by violating the customs law from India.
+ඉන්දියාවේ සිට මුහුදු මගින් රේගු නීතී උල්ලංඝණය කරමින් නීතී විරෝධීව මෙරටට ගෙන්වන ලද,ඉන්දියන් බීඩී කොළ ඇසුරුම් 13 ක්,බොලෙරෝ කැබ් රියකින් ප්‍රවාහනය කරමින් සිටියදී එහි රියදුරු ද සමඟ කල්පිටිය ඒත්තාල ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බව  කල්පිටිය පොලිසිය කියයි.
 
-The gross value of the bd leaf is about 400,000. BD leaf packs had been safely packed, and 408 kg there were.
+මෙම බීඩී කොළ තොගයේ දළ වටිනාකම ලක්ෂ 400 ක් පමණ  බව කියයි. බීඩී කොළ ඇසුරුම් ජලය කාන්දු නොවන සේ ඉතා සුරක්ෂිතව අසුරා තිබුණු අතර,කිලෝ ග්‍රෑම් 408 ක් එහි තිබිණි.
 
-The suspect is a permanent resident of the Five, the fifth crosslash Puttalam and is a 28 year old resident of Talawila.
+සැකකරු පස් වන හරස් වීදීය පුත්තලම යන ලිපිනයේ ස්ථිර පදිංචිකරුවකු වන අතර, තලවිල ප්‍රදේශයේ තාවකාලිකව පදිංචි 28 හැවිරිදි අයෙකි.
 
-The suspect and the prosecuting will be handed over to the Katunayake Customs Office. The metest police are conducting further investigations.
+සැකකරු සහ නඩු භාණ්ඩ කටුනායක රේගු කාර්‍යාලය වෙත භාර දීමට නියමිත ය.කල්පිටිය පොලිසිය වැඩි දුර පරීක්ෂණ පවත්ව යි.
 
 ◼️
 
 [Data](articles/a3efacfe.json)
-
-[Extended Data](ext_articles/a3efacfe.ext.json)
 
 ---
 
@@ -1988,30 +1276,6 @@ The police say that the informants were found in the Criminal Investigation Divi
 [Data](articles/4d648b84.json)
 
 [Extended Data](ext_articles/4d648b84.ext.json)
-
----
-
-### 4 arrested for smuggling goods including mobile phones worth over Rs. 10 mln
-
-*2025-10-03 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113173/4-arrested-for-smuggling-goods-including-mobile-phones-worth-over-rs-10-mln) · `en`
-
-Maligawatta Police have arrested four individuals in connection with a consignment of mobile phones, perfumes, and accessories worth over Rs. 10 million, allegedly smuggled into the country through Bandaranaike International Airport (BIA), Katunayake, without paying customs duties.
-
-Police confirmed that two cousins were among the suspects arrested.
-
-The items seized included 26 smartphones, 10 iPads, 10 tablet computers, three laptops, various types of perfumes, and a stock of body lotions, said police.
-
-According to Maligawatta Police OIC, the goods were recovered during a raid on a residence in the Ramya area of Maligawatta.
-
-The suspects had reportedly travelled to Dubai on September 30 and brought the goods into the country illegally upon their return yesterday (02).
-
-The arrested individuals are residents of the Maligawatta and Kochchikade areas, said police.
-
-◼️
-
-[Data](articles/1cfa8b4d.json)
-
-[Extended Data](ext_articles/1cfa8b4d.ext.json)
 
 ---
 
@@ -2042,5 +1306,641 @@ Pakistani Prime Minister Shebash Sharif has set up a negotiating committee to br
 [Data](articles/5756a536.json)
 
 [Extended Data](ext_articles/5756a536.ext.json)
+
+---
+
+### Whose Dow, Whose Down, hearing at home
+
+*2025-10-03 08:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ම-බළඳ-කග-ද-නරස-ගදරන-ඇහලව/101-680675) · `si`
+
+Mahawa Headquarters Police say that the retired Family Health Work has been found in a bag of palaces in front of a bag.
+
+The infant was found in the house of Indrai Anula, a resident of the 166 Konwewa, Ipalogama, Mahawa.
+
+Mahawa Headquarters said that he was admitted to the Nikaweratiya Base Hospital immediately after the infant was found.
+
+Mahawa Headquarters Chief Inspector General of Police AAPA. A group of women's Inspector of Police Unit, along with Kulatunga, is conducting further investigations.
+
+...
+
+[Data](articles/dfdb7854.json)
+
+[Extended Data](ext_articles/dfdb7854.ext.json)
+
+---
+
+### Airlines between India and China after 5 years
+
+*2025-10-03 08:09:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-ஆண்டுகளுக்கு-பிறகு-இந்தியா-சீனா-இடையே-விமான-சேவை/175-365681) · `ta`
+
+After 5 male to India and China, the live air service will be launched from 26th of October.
+
+Corona period between India and China. (A)
+
+◼️
+
+[Data](articles/f9920bc7.json)
+
+[Extended Data](ext_articles/f9920bc7.ext.json)
+
+---
+
+### Moneragala, including mobile phones from smuggling road
+
+*2025-10-03 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215280) · `si`
+
+Four persons have been arrested by the Maligawatta Police with more than Rs.
+
+Two two-two two two two two delegates have been arrested.
+
+The suspects have 26 smoky mobile phones, 10 tabs, three tabs, three laptops, a large number of perfumes and body coating.
+
+Maligawatta Police OIC Chief Inspector TBS. According to information received by Mr. Kalynawatte, the consignment was found in a house during a raid conducted in the Maligawatta.
+
+The suspects were gone to Dubai on the 30th of the 30th of this month.
+
+The suspects are residents of Maligawatta and Kochchikade areas, and the Maligawatta Police are conducting further investigations.
+
+◼️
+
+[Data](articles/eea7096c.json)
+
+[Extended Data](ext_articles/eea7096c.ext.json)
+
+---
+
+### 7 arrested for Tangalle Ice and Heroin
+
+*2025-10-03 07:55:31* · [`adalk`](https://www.ada.lk/breaking_news/තංගල්ලේ-අයිස්-සහ-හෙරොයින්-සිද්ධියට-දැනට-7-ක්-අත්අඩංගුවට/11-418886) · `si`
+
+Seven suspects have been arrested in connection with the discovery of ice and heroin in Tangalle.
+
+The bodies of two persons were found in Tangalle, Tangalle, Tangalle yesterday.
+
+Two lorries were found in the land, which was in the land, and found ice and heroin.
+
+Accordingly, five suspects and a minor child were able to arrest the investigation from September 22 to 2 (02).
+
+The 16-year-old minor has been taken into custody and the other five suspects have been remanded, police said.
+
+In addition yesterday (02) a special investigation conducted at the sea, the owner of the sea was handed over to Tangalle Headquarters to the police.
+
+The suspect is a resident of Devinuwara, about 50 years of age. A 54 year old resident of Beliatta under the investigation of the Tangalle Divisional Investigation Bureau has been arrested.
+
+The two persons were produced before the Tangalle Magistrate's Court yesterday and the detention orders were taken to further investigations.
+
+◼️
+
+[Data](articles/2d3f6c60.json)
+
+[Extended Data](ext_articles/2d3f6c60.ext.json)
+
+---
+
+### The rice can't take medicine like salt
+
+*2025-10-03 07:48:24* · [`adalk`](https://www.ada.lk/breaking_news/හාල්--ළුණු-ගේනවා-වගේ-බෙහෙත්-ගේන්න-බෑ/11-418885) · `si`
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa says that when a shortage of a rice deficit occurs when there is a shortage of drugs.
+
+The Minister was emphasizing the matter in the face of yesterday (02), he said that it was not interested in welcome, but it was not interested in welcome.
+
+"Sometimes a shortage of drugs and equipment arise. We are not able to import it from just as lack of medicine. The tender is made after granting the tender, its production begins. The entire process is about nine months.
+
+If the orders were handed over to the right drugs last year, the drug is walking. But not happened. But this year has ended 80% to 85% of medicines and surgical equipment for this year. Accordingly, around November, the drug will come to Sri Lanka. Then the deficit is avoided at present.
+
+...
+
+[Data](articles/a21a9207.json)
+
+[Extended Data](ext_articles/a21a9207.ext.json)
+
+---
+
+### Suspect arrested with importance of illegal jeep
+
+*2025-10-03 07:43:38* · [`adalk`](https://www.ada.lk/breaking_news/නීති-විරෝධීව-ගෙන්වූ-ජීප්-රථයක්-සමග-සැකකරුවෙක්-අල්ලයි/11-418884) · `si`
+
+The Police Central Bureau says that a suspect has been arrested with a jeep with imported jeep.
+
+The arrests were made in Morottuwa, Morontuduwa yesterday morning.
+
+The arrested suspect has also been arrested in which 38 liters of the jeep, who were illegally imported to the country and entering forged data.. Morontuduwa Police are conducting further investigations.
+
+◼️
+
+[Data](articles/7ee5c12f.json)
+
+[Extended Data](ext_articles/7ee5c12f.ext.json)
+
+---
+
+### A person who tried to kill a police officer was imprisoned
+
+*2025-10-03 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215277) · `si`
+
+A person who was accused of accused of killing a police officer under a vehicle, the Colombo High Court sentenced a 15-year-old work.
+
+The man, a drug dealer, was also attempting to kill the Police Narcotics Bureau, who was in a drug raid in Nedimal, about 17 years ago.
+
+Accordingly, Miss Colombo High Court Judge Lanka Jayaratne has been sentenced yesterday (02).
+
+The High Court Judge has given the police a serious threat to the police officers who are engaged in illegal activities and the drug trafficking.
+
+During the 17th of January, 2008, the accused had been signaled to take him with a stock of drugs and traveling from the car.
+
+The police had filed charges against the accused by the Attorney General with serious injuries to kill the Police Narcotics Bureau.
+
+After an extended examination, the judge is convicted of the accusations.
+
+...
+
+[Data](articles/ef38c73c.json)
+
+[Extended Data](ext_articles/ef38c73c.ext.json)
+
+---
+
+### Oh. Notice to students who sit for the text examination
+
+*2025-10-03 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215276) · `si`
+
+The opportunity to call for online method for students who stand up to the Study General Certificate (Ordinary Level) Examination will end on October 9.
+
+The Department of Examin Examinations stated that the system will be closed after 12 midnight.
+
+The deadline does not extend the final day of accepting applications for any reason.
+
+The applications for the Ordinary Level examination will be held from the 18th of September.
+
+If any inquiry requires an inquiry in this regard, 0112-784208 / 0112-784537/102/012-785922.
+
+The Department of Examinations said that the fax number 0112-784422 could be inquired by email or GCEolexansl@gmail@gmail@gmail.com.
+
+◼️
+
+[Data](articles/a701ebd1.json)
+
+[Extended Data](ext_articles/a701ebd1.ext.json)
+
+---
+
+### A big rain falling to this evening
+
+*2025-10-03 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215275) · `si`
+
+The Meteorological Department says that at least the evening in many parts of the island today, the Meteorological Department says.
+
+The department was released on the latest weather forecast for today.
+
+Accordingly, around 1 pm there will be showers at several places in many parts of the country.
+
+In some places in the Northern, North Central and eastern provinces, there are rainy rain than 50 mm.
+
+The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
+
+◼️
+
+[Data](articles/4daf800f.json)
+
+[Extended Data](ext_articles/4daf800f.ext.json)
+
+---
+
+### ජගත් වෙළෙඳපොළට නිර්මාණශීලී රෙදිපිළි ගෙනයෑමේ වැඩපිළිවෙළ!
+
+*2025-10-03 06:12:43* · [`adalk`](https://www.ada.lk/business/ජගත්-වෙළෙඳපොළට-නිර්මාණශීලී-රෙදිපිළි-ගෙනයෑමේ-වැඩපිළිවෙළ-/7-418882) · `si`
+
+අපනයන සංවර්ධන මණ්ඩලය (EDB), කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය සමග එක්ව, ශ්‍රී ලංකාවේ නිර්මාණශීලී රෙදිපිළි අංශය ජාත්‍යන්තර වෙළෙඳපොළවලට සම්බන්ධ කිරීම අරමුණු කරගත් වැඩමුළුවක් පසුගියදා අපනයන සංවර්ධන මණ්ඩලයේදී සාර්ථකව සංවිධානය කෙරිණි.
+
+මෙම වැඩමුළුව කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ ක්‍රියාත්මක වන රජයේ සංස්ථා සහ ආයතන සඳහා දේශීය සහ ජාත්‍යන්තර වෙළඳපොළවල් සම්බන්ධයෙන් දැනුවත්භාවය ඇති කිරීම සහ වෙළදපල ප්‍රවේශය පහසු කිරීම අරමුණු කර ගනු ලැබීය.
+
+බුද්ධි බතික් (පුද්) සමාගමේ ප්‍රධාන විධායක නිලධාරිනී දර්ෂි කිරිතිසේන මහත්මිය "නවීන විලාසිතා වෙළඳපොළ සඳහා බතික් නිශ්පාදන ඉදිරිපත් කිරීම" සම්බන්ධයෙන් සහ තම ව්‍යාපාරයේ ගමන්මග පිළිබද අත්දැකීම් හුවමාරු කරමින් සම්ප්‍රදායික බතික් කලාවන් ගෝලීය පාරිභෝගිකයින් සඳහා යොමුකළ හැකි ආකාරය වැඩමුළුවේදී පෙන්වා දුන්නාය.
+
+...
+
+[Data](articles/c8706f51.json)
+
+---
+
+### CEAT is a double win by development of human resource development
+
+*2025-10-03 06:10:34* · [`adalk`](https://www.ada.lk/business/මානව-සම්පත්-සංවර්ධනය-තුළින්-සියැට්-කැලණි-ද්විත්ව-ජයක්-ලබයි-/7-418881) · `si`
+
+CEAT Kelani Holdings is awarded as' Employer Brand in 2025 in the awards ceremony of the World Human Resources Development Conference for Sri Lanka.
+
+Human Resources President Human Resources Thushara Hettinge was awarded by Sri Lanka Award at Sri Lanka's Best Human Resources Leader of Sri Lanka.
+
+The brand-strategies, employee values, recruitment and detention procedures, diversity and equipment and creativity, creativity, and effects were the criteria for Sri Lanka.
+
+The company's commitment to alignment of business and human resource strategies to ensure a genuinely happy workforce and maintain a culture of a common value. CEAT Kelani, who have over 150 employees, including more than 150 employees who have dedicated over 150 employees, have already achieved a higher performance in the company's employee attendance, detention and overall workplaces.
+
+...
+
+[Data](articles/17f5b96a.json)
+
+[Extended Data](ext_articles/17f5b96a.ext.json)
+
+---
+
+### Charges for Shoppin Bags: 'This is a good step and the government should encourage people to use a cloth bag'
+
+*2025-10-03 04:20:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0m42m1mrkgo) · `si`
+
+Charges for Shoppin Bags: 'This is a good step and the government should encourage people to use a cloth bag'
+
+Consumer Affairs Authority has issued a special gazette notification for banning container bags, or the free zilly bags used in general.
+
+The gazette notification has been issued on the day of the court's decision.
+
+In that command, a container bags made from low density polynings and linear-density pool and a trader made from raw materials are provided free.
+
+They should also be included in the bill and the prices of the prices should be displayed in the businessplace. This law is effective from November 1.
+
+The gazette notification explains that container bags that are commonly used as "zillyball bags".
+
+The Consumer Affairs Authority has enacted a command through a gazette notification by a gazettenda, a decision given by a fundamental rights petition filed by the Cultivation.
+
+...
+
+[Data](articles/158db4fe.json)
+
+[Extended Data](ext_articles/158db4fe.ext.json)
+
+---
+
+### The invention of the massive ammunition
+
+*2025-10-03 04:11:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெருமளவு-வெடிபொருட்கள்-கண்டுபிடிப்பு/175-365680) · `ta`
+
+Ammunition was found last night (02) from a land on Nawali North Nachimar Temple Road, which belongs to the Manipay Police Division.
+
+Following the information provided to the Manipay Police, Manipay Police are on duty on the land on the land on the land.. (A)
+
+◼️
+
+[Data](articles/7544681a.json)
+
+[Extended Data](ext_articles/7544681a.ext.json)
+
+---
+
+### Nayanthara starrer 'Mukkuthi Amman 2'
+
+*2025-10-03 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226739) · `ta`
+
+Actress Nayanthara, who is the Lady Super Star of Tamil Cinema, has released a photo of her role in 'Mukkuthi Amman 2' in the role of Amman.
+
+Nayanthara, Urvasi, Dunia Vijay, Regina Kasandra, Yogi Babu, Abhinaya, Ramachandra Raju, Ajay Ghosh, Ajay Ghosh, Lion Tiger, Inia, Maina Nandini, Nitin Satya. The film has been composed by Hip Hop Tamil. The film is being produced by Wales Film International on behalf of Wales Film International.
+
+The film, which is being prepared in the budget of Rs.. In this case, the film crew has released the look of the hero of the story, Mukkuthi Amman to highlight the Navratri festival.. Actress Nayanthara appears to be the mother.. Having impressed the fans.
+
+◼️
+
+[Data](articles/a0d4cb85.json)
+
+[Extended Data](ext_articles/a0d4cb85.ext.json)
+
+---
+
+### 'Stupid story' that expresses the anger of women on the community '
+
+*2025-10-03 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226742) · `ta`
+
+Karthi-Ba made his debut for Tamil fans through Bala's 'Paradesi'. The first appearance of the film 'Stupid Written', which is one of the heroes of the story of actress Ritvika, who is famous formed in the Ranjith Alliance 'Madras', has been released.
+
+Director Pa. Rithvika, Vinodhini Vaidyanathan, Risha Jagops, Madhu, Velu Prabhakaran, Nanjil Sampath, TSR. Balaji G. Johan has composed music for the film, which is being recorded by Ramaswamy. The film, focusing on women who are unable to resist sexual exploitation, has produced the producer Venugopal on behalf of the Edison Screen Temple.
+
+The first look of the film has been released as all the work of the film is completed and waiting for the release. The heroine of the story, Rithvika, has a meaningful view of the fans.
+
+◼️
+
+[Data](articles/a7d8daa4.json)
+
+[Extended Data](ext_articles/a7d8daa4.ext.json)
+
+---
+
+### First look release of 'Color' starring actor Mukhen Rao
+
+*2025-10-03 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226741) · `ta`
+
+The first look of the film 'Color', which plays one of the heroes of the story of Malaysia's actor Mukane Rao, who is the title of 'Big Poss' and 'Waylan' with 'Velan', has been released.
+
+Directed by director Krishna Balaram, Mukhene Rao, Preity Azrani, Tanya Hope, Nitin Satya, Sureka Vani, Suresh Chakraborty. T. Iman has composed the film, which has been recorded by Santanio Tergio. The film is being produced by the Hyper Link style to embrace the real events.
+
+Meanwhile, actor Mukhen Rao starred in 'Velan' and 'Jin-The Bed'.. Because it is not a commercial success.. It is noteworthy that his starring film 'Color' has no support among filmmakers.
+
+◼️
+
+[Data](articles/3abf275e.json)
+
+[Extended Data](ext_articles/3abf275e.ext.json)
+
+---
+
+### Telugu actor Balakrishna starrer 'Akanda 2 -Tandavam'
+
+*2025-10-03 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226740) · `ta`
+
+Balakrishna, the leading star actor in the Telugu film industry, will be released in the upcoming film 'Akanda 2 - Thandavam' in the role of a stunning excuse.
+
+Directed by Balakrishna, Samyukta, Adi, Harshali Malhotra, directed by director Poipatti Srinu, 'Akanda 2 -Nandavam'. C. Ram Prasad and Santosh are co -recorded by S.. Taman has composed the music. The film is being produced by Ram Ahantha and Gopi Achanda on behalf of the 14 Reels Plus Company. Nandamuri M.. Tejaswini offers.
+
+The release date of the film has already been announced. VF X scenes have not been completed on the scheduled date ... The film crew worked elegantly to give fans a surprising experience. So that the release date has been converted. It has been announced that the film will be released in Tamil, Telugu and Hindi on the fifth of December on the fifth of December.
+
+◼️
+
+[Data](articles/2be3edbd.json)
+
+[Extended Data](ext_articles/2be3edbd.ext.json)
+
+---
+
+### Sri Lanka slips 15 places in UN gender equality ranking
+
+*2025-10-03 02:01:57* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-slips-15-places-in-UN-gender-equality-ranking/56-782567) · `en`
+
+Sri Lanka has slipped sharply in global gender equality rankings, according to findings presented by UN Women to the Women Parliamentarians’ Caucus recently. The country, which ranked 18th out of 115 nations in 2006, has fallen to 130th among 148 countries in 2025.
+
+The study assessed women’s economic empowerment, participation in governance and decision-making, roles in peace and security, and efforts to prevent violence against women and girls. While acknowledging that some of the region’s most influential figures are women, the research highlighted persistent disparities between men and women across these areas.
+
+Chairing the session, Women and Child Affairs Minister Saroja Savithri Paulraj called for the final report to be shared with the caucus and proposed that, in addition to allocations for the Women and Child Affairs Ministry, each Ministry should set aside funds in the upcoming Budget to support women’s empowerment.
+
+...
+
+[Data](articles/2aef4259.json)
+
+[Extended Data](ext_articles/2aef4259.ext.json)
+
+---
+
+### Alston Koch appointed as Commonwealth Union Envoy to Australia and Pacific Region
+
+*2025-10-03 02:01:08* · [`dailyftlk`](https://www.ft.lk/news/Alston-Koch-appointed-as-Commonwealth-Union-Envoy-to-Australia-and-Pacific-Region/56-782566) · `en`
+
+The Commonwealth Union (CU) has announced the appointment of Alston Koch, internationally recognised artist, award-winning entertainer and global influencer, as its Envoy to Australia and the Pacific Region.
+
+Koch will represent the Commonwealth Union and promote its objectives in line with the People’s Charter of the Commonwealth. His work will focus on strengthening regional collaboration, advancing the Commonwealth Union’s mission of inclusivity and sustainability and fostering greater engagement with communities across Australia and the Pacific.
+
+Alongside his envoy responsibilities, Koch will also serve as a Consultant to the Commonwealth Union, providing advisory services and acting as a marketing consultant. He will support the Commonwealth Union’s Digital Platform by facilitating key introductions, attracting advertising partnerships and engaging in approved business negotiations that enhance the Union’s outreach and global presence.
+
+...
+
+[Data](articles/6aee6377.json)
+
+[Extended Data](ext_articles/6aee6377.ext.json)
+
+---
+
+### Fishing boat owner held over 700kg drug haul in Tangalle
+
+*2025-10-03 02:00:23* · [`dailyftlk`](https://www.ft.lk/news/Fishing-boat-owner-held-over-700kg-drug-haul-in-Tangalle/56-782565) · `en`
+
+Police have arrested the owner of a fishing boat in connection with the recent seizure of more than 700 kilograms of heroin and crystal methamphetamine (ICE) in Seenimodara, Tangalle.
+
+The Police Narcotics Bureau (PNB) said the drugs, discovered in three lorries in the area, had been smuggled into the country by sea. Investigations revealed that the narcotics were brought in aboard a toll boat before being transferred to a smaller fishing vessel for transport.
+
+The arrest was made during a raid linked to the wider probe into the drug trafficking operation.
+
+Authorities confirmed that further investigations are underway into the network responsible for the smuggling.
+
+◼️
+
+[Data](articles/8c906c2a.json)
+
+[Extended Data](ext_articles/8c906c2a.ext.json)
+
+---
+
+### Inspiring Sri Lanka’s children to dream big on World Children’s Day
+
+*2025-10-03 01:59:28* · [`dailyftlk`](https://www.ft.lk/news/Inspiring-Sri-Lanka-s-children-to-dream-big-on-World-Children-s-Day/56-782564) · `en`
+
+In celebration of World Children’s Day on 1 October, SriLankan Airlines facilitated the flight experience for a special program for children selected through a creative competition from every province across Sri Lanka.
+
+Through this unique initiative, 250 youngsters aged 12 to 15 were gifted the opportunity to enjoy a nearly two-hour flight aboard a SriLankan Airlines Airbus A330-300, with breath-taking views of Sri Lanka’s stunning landscapes from the sky. For many, it was their first flying experience.
+
+The children were warmly welcomed at Bandaranaike International Airport and taken on a guided tour by SriLankan Airlines’ Ground Handling team and Airport and Aviation Services (AASL), where they experienced the full international travel process, from check-in to boarding, before taking off to the skies with SriLankan Airlines.
+
+...
+
+[Data](articles/87c79e57.json)
+
+[Extended Data](ext_articles/87c79e57.ext.json)
+
+---
+
+### SLIC offers Rs. 1 m free life cover to parents of children born on World Children’s Day 2025
+
+*2025-10-03 01:58:19* · [`dailyftlk`](https://www.ft.lk/news/SLIC-offers-Rs-1-m-free-life-cover-to-parents-of-children-born-on-World-Children-s-Day-2025/56-782563) · `en`
+
+Senior Management of SLIC Life symbolically handing over a Free Life Cover of Rs. 1 m to a parent whose child was born on 1 October
+
+SLIC provides free life cover worth Rs. 1 m for parents of every child being born on 1 October island-wide
+
+The program was carried out island-wide, covering all hospitals on 1 October taking the message of Life insurance to everyone
+
+In celebration of World Children’s Day 2025, Sri Lanka Insurance Life (SLIC Life) has extended a Rs. 1 million free life insurance cover to the parents of every child born on 1 October, across the island. Now in its fourth consecutive year, the initiative reflects SLIC Life’s mission to provide financial protection to families at crucial moments while reinforcing the value of life insurance as a safety net.
+
+...
+
+[Data](articles/f8278965.json)
+
+[Extended Data](ext_articles/f8278965.ext.json)
+
+---
+
+### Colombo Chetty Association elects new Ex-Co
+
+*2025-10-03 01:57:36* · [`dailyftlk`](https://www.ft.lk/news/Colombo-Chetty-Association-elects-new-Ex-Co/56-782562) · `en`
+
+Seated from left: Vice President Ermina Muthupulle, Assistant Treasurer Lucien Fernandopulle, President Chris Corea, Secretary Viran Fernandopulle, Vice President Joe Saverymuthapulle, and Callistus Alles
+
+Standing from left: Marian Candappa, Indira Fernandopulle, Past Presidents Rinesh Fernandopulle, Nanda Corea, Colin Fernandopulle, Selva Perumal, Phyllis Corea, and Rishanka Fernandopulle
+
+Inset: Treasurer Christobel Saverimuttu, Royce Fernandopulle, Rohan Masillamani, Carlyle Alles, and Rishnie Fernandopulle
+
+The Colombo Chetty Association of Sri Lanka recently elected its Executive Committee for 2025.
+
+A separate ethnic group in Sri Lanka, living alongside the Malays, Moors, Tamils, Burghers and the Sinhalese, Colombo Chetties form an integral part of Sri Lankan Society. Today, this small educated and cultured community consists of around 150,000 individuals living in the Western and North Western Provinces of Sri Lanka.
+
+...
+
+[Data](articles/9ea9ef15.json)
+
+---
+
+### Gabriel’s Charity Auction in aid of Rescue Animals Sri Lanka
+
+*2025-10-03 01:56:56* · [`dailyftlk`](https://www.ft.lk/news/Gabriel-s-Charity-Auction-in-aid-of-Rescue-Animals-Sri-Lanka/56-782561) · `en`
+
+Front row (from left): Co-host Vrai Raymond, Designer and Choreographer Brian Kerkoven, Headlines PR and Events Chairman and RAS Founding Trustee Anusha David, Cinnamon Grand Director – Events/Sales Dini Isaacs,  Hi Magazine Editor Shyamalee Tudawe,  Designer Charini Suriyage, Cinnamon Grand General Manager Nazoomi Azhar, Cinnamon Hotels and Resorts Chief Operating Officer Kamal Munasinghe
+
+Second row (from left): Ashok Ferrey, Designer Dhammika Amarasekere, Julianne Ephraums (RAS), Upeckha Cumaratunga (Gravitas), Designer Jaishri Jayasinghe.
+
+Third row (from left):  Cinnamon Grand Executive Chef Kapila Jayasinghe, Hair and Make up Partner Chagall Chairman Gerald Solomons, Designer Kamil Hewavitharane, Presenting Partner of the Auction Aditi, Managing Director Mahika Weerakoon, Headlines/RAS Upul Wijenayake, and Akry Ameer (RAS)
+
+Gabriel’s Charity Auction in aid of Rescue Animals Sri Lanka (RAS) will take place on 31 October at the Mahogany, Cinnamon Grand, commencing 7.30 p.m.
+
+...
+
+[Data](articles/983faf2a.json)
+
+---
+
+### Telbedde Estate crowned Overall Gold Winner at Ceylon Specialty Estate Tea Awards 2025
+
+*2025-10-03 01:55:54* · [`dailyftlk`](https://www.ft.lk/business/Telbedde-Estate-crowned-Overall-Gold-Winner-at-Ceylon-Specialty-Estate-Tea-Awards-2025/34-782560) · `en`
+
+Telbedde Estate Superintendent Lakkhana Perera (left) receiving the award from Japan Tea Association Managing Director Kohei Akiba
+
+Telbedde Estate, managed by Balangoda Plantations PLC, has emerged as the Overall Gold Award Winner at the prestigious Ceylon Specialty Estate Tea of the Year 2025.
+
+The award, presented by the Sri Lanka Tea Board in collaboration with the Colombo Tea Traders Association and Colombo Brokers’ Association, celebrates excellence in single-origin Ceylon teas. Telbedde Estate’s Orange Pekoe 1 (OP1) tea stood out from a competitive field, judged for its exceptional quality, unique character and consistency.
+
+...
+
+[Data](articles/0ec217ab.json)
+
+---
+
+### SEVA project signals new trade and investment potential for Sri Lankan craft
+
+*2025-10-03 01:55:08* · [`dailyftlk`](https://www.ft.lk/business/SEVA-project-signals-new-trade-and-investment-potential-for-Sri-Lankan-craft/34-782559) · `en`
+
+Sri Lanka’s creative and craft sector has marked a landmark moment with the launch of SEVA, a transdisciplinary cultural diplomacy project uniting international artistry with Sri Lankan heritage. Beyond its artistic merit, SEVA showcases the untapped trade potential of Sri Lanka’s artisan economy, an area poised to grow into a high-value export sector and attract new investment.
+
+An outcome of the EU–Sri Lanka Matchmaking Program, delivered with the Sri Lanka Export Development Board (EDB), supported by the European Union to Sri Lanka and the Maldives, the Cultural Relations Platform (CRP), with the University of the Arts London (UAL) and the British Council as knowledge partners, and The Institute of Future Creations (TIFC) as program leader, SEVA has also received the backing of the Italian Embassy in Colombo.
+
+...
+
+[Data](articles/00533d82.json)
+
+---
+
+### Construction PMI increases in August
+
+*2025-10-03 01:52:27* · [`dailyftlk`](https://www.ft.lk/business/Construction-PMI-increases-in-August/34-782557) · `en`
+
+Sri Lanka Purchasing Managers’ Index for Construction (PMI–Construction) increased further in August 2025, as reflected by the total activity index which registered a value of 61.1 indicating a continuous expansion in construction activities.
+
+The Central Bank said most respondents highlighted the ongoing increase in project availability, along with the resumption of some temporarily suspended projects, has strengthened the confidence of the construction sector.
+
+The New Orders Index also increased in August. According to survey respondents, road development and water supply work were the most commonly awarded project types during the month.
+
+In August, both the Employment and Quantity of Purchases indices increased, indicating the optimism for continued growth in the construction work.
+
+Meanwhile, the suppliers’ delivery time further lengthened during the month, driven by the increase in demand for construction material.
+
+...
+
+[Data](articles/e1834100.json)
+
+---
+
+### ජනාධිපති වැය ශීර්ෂයේ තුන් ගුණයක ඉහළ යාමක්: මෙවර විසර්ජන පනත් කෙටුම්පතේ මුදල් බෙදී ගොස් ඇත්තේ කෙසේ ද?
+
+*2025-10-03 01:38:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgq4pqkz52qo) · `si`
+
+ජනාධිපති වැය ශීර්ෂයේ තුන් ගුණයක ඉහළ යාමක්: මෙවර විසර්ජන පනත් කෙටුම්පතේ මුදල් බෙදී ගොස් ඇත්තේ කෙසේ ද?
+
+වැඩ බලන මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍ය, ආචාර්ය අනිල් ජයන්ත විසින් 2026 මුදල් වර්ෂයේ සේවා වියදම් සඳහා විධිවිධාන සැලසීම සඳහා වූ විසර්ජන පනත් කෙටුම්පත පසුගිය සැප්තැම්බර් 26 වන දා පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
+
+අයවැය ඉදිරිපත් කිරීමේ පළමු පියවර වන මෙය, තුන්වරක් කියවීමෙන් පසුව පාර්ලිමේන්තුවේ සම්මත වීමට පෙර හඳුන්වන්නේ විසර්ජන පනත් කෙටුම්පත ලෙස යි.
+
+මුදල් අමාත්‍යවරයා වන ජනාධිපති අනුර කුමාර දිසානායක ඒ වන විට විදේශගතව සිටි බැවින් විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කළේ වැඩබලන මුදල් අමාත්‍යවරයා විසිනි.
+
+අනුර කුමාර දිසානායක ජනාධිපතිවරයාගේ පළමු අයවැය වූ 2025 අයවැයේදී ඔහු සිදු කළ ප්‍රමුඛ කාර්යයක් වූයේ 2024 වසරට සාපේක්ෂව ජනාධිපති වැය ශීර්ෂය හරි අඩකින් පමණ අඩු කිරීම ය.
+
+කෙසේවෙතත් 2025ට සාපේක්ෂව ආසන්න වශයෙන් තුන්ගුණයකින් පමණ ජනාධිපතිවරයාගේ වැය ශීර්ෂය ඉහළ ගොස් තිබේ. එය 2024 වසරේ රනිල් වික්‍රමසිංහ හිටපු ජනාධිපතිවරයාගේ වැය ශීර්ෂයට සාපේක්ෂව 72%ක පමණ වැඩි වීමකි.
+
+...
+
+[Data](articles/a7bcb99d.json)
+
+---
+
+### Beyond degrees: Creating future-ready workforce for Sri Lanka
+
+*2025-10-03 01:38:14* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-degrees-Creating-future-ready-workforce-for-Sri-Lanka/4-782547) · `en`
+
+The future of Sri Lanka’s economy depends not only on investment and policy but on how well the country prepares its people for the world of work. The Government is pushing forward with significant reforms to revamp the education system, from modernising curricula to expanding vocational training pathways. These initiatives deserve appreciation. They demonstrate a recognition that the nation cannot build a resilient future with outdated methods of teaching and learning.
+
+In an increasingly competitive world, equipping students and employees with modern skills is crucial for both social progress and economic stability. Yet, despite these promising efforts, fundamental questions remain about whether the country is truly preparing its people to be future-ready and whether the billions spent on free education are delivering an adequate return on investment.
+
+...
+
+[Data](articles/692d51f4.json)
+
+---
+
+### Growing the pool of billion-dollar companies in Sri Lanka
+
+*2025-10-03 01:33:02* · [`dailyftlk`](https://www.ft.lk/columns/Growing-the-pool-of-billion-dollar-companies-in-Sri-Lanka/4-782541) · `en`
+
+Today, Sri Lanka has just three listed companies valued at over a billion dollars: John Keells Holdings (JKH), Commercial Bank of Ceylon, and Ceylon Tobacco PLC. This is a sobering statistic for an economy with ambitions of becoming a South Asian hub for trade, services, and investment. A country of 22 million people, strategically positioned astride major maritime routes, and possessing a strong pool of talent in accounting, IT, and law, should be capable of nurturing multiple billion-dollar firms across diverse sectors. The fact that it has not points to deeper structural barriers inhibiting corporate growth.
+
+...
+
+[Data](articles/2ee2b76b.json)
+
+---
+
+### Financial institutions at crossroads: Redefining risk management in the age of climate change
+
+*2025-10-03 01:31:15* · [`dailyftlk`](https://www.ft.lk/columns/Financial-institutions-at-crossroads-Redefining-risk-management-in-the-age-of-climate-change/4-782540) · `en`
+
+In the end, banks become the ultimate receivers of climate shocks, bearing the financial fallout of environmental catastrophes
+
+The recent flash floods in Uttarakhand, India where over 100 people went missing, are just one among thousands of climate-related disasters in recent years. For banks, the impact is direct washed-out assets, loan defaults, and rising credit risk. This is not tomorrow’s threat; climate risk is already reshaping financial stability today. In the end, banks become the ultimate receivers of climate shocks, bearing the financial fallout of environmental catastrophes. Banking risk management is entering a new era. Traditional frameworks built around credit, market, liquidity, and operational risk are no longer sufficient to address the growing complexities of a changing world.
+
+...
+
+[Data](articles/b45f0f78.json)
+
+---
+
+### Energy diplomacy: How Sri Lanka can bridge trade gap with United States
+
+*2025-10-03 01:25:08* · [`dailyftlk`](https://www.ft.lk/columns/Energy-diplomacy-How-Sri-Lanka-can-bridge-trade-gap-with-United-States/4-782539) · `en`
+
+For Sri Lanka, the United States is more than just a trading partner. It is the single most important destination for Sri Lankan exports, particularly apparel, and a market that sustains hundreds of thousands of jobs and contributes significantly to national GDP. Yet, beneath this success story lies a structural imbalance. While Sri Lanka exports billions of dollars’ worth of goods to the United States each year, its imports from America remain comparatively small. This asymmetry leaves Sri Lanka exposed to tariff risks, particularly in the post-Trump era where US trade policy has become increasingly transactional.
+
+...
+
+[Data](articles/b492836c.json)
+
+---
+
+### 2025-10-02 (Thursday)
+
+### සද්ධන්තයාගේ ප්‍රහාරයෙන් තිදරු පියා මරුට
+
+*2025-10-02 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215272) · `si`
+
+අදාළ පුද්ගලයා අද (02) උදෑසන 6.30ට පමණ නිවසේ සිට තම සොහොයුරාගේ නිවස වෙත ගමන් කරමින් සිටියදී මෙසේ වනඅලි ප්‍රහාරයට ලක්ව ඇත.
+
+සියඹලගස්වැව ජනතාව චෝදනා කරන්නේ අලි ඇතුන්ගේ ප්‍රහාරයන්ට ලක්ව මීට පෙරද මෙම ප්‍රදේශයේ පුද්ගලයින් කිහිප දෙනෙකුම ජීවිතක්ෂයට පත් ව ඇති බවය.
+
+එමෙන්ම මෙම වනඅලි හා ඇතුන් සියඹලාගස්වැව ආසන්නයේ ගම්මානවලට කඩා වදින බවත් එලෙස කඩා වදින අලි ඇතුන් 20කට ආසන්න සංඛ්‍යාවක් දිවා රාත්‍රි මෙහි සැරිසැරිම හේතුවෙන් ජන ජීවිතයේ කටයුතු අඩාල වී ඇති බවත් ඔවුන් වැඩිදුරටත් සඳහන් කර සිටී.
+
+කෙසේ වෙතත් මෙම සිදුවීම දැනුම්දීමත් සමග ආණමඩුව ප්‍රාදේශිය ලේකම්වරයාද එම ස්ථානයට පැමිණ ඇති අතර එහිදී උණුසුම් තත්ත්වයක් හට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/07dbe66a.json)
+
+---
+
+### Trade Uncertainties Loom, But Sri Lanka’s Reform Drive Powers On : IMF
+
+*2025-10-02 21:39:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/trade-uncertainties-loom-but-sri-lanka%e2%80%99s-reform-drive-powers-on-imf) · `en`
+
+...
+
+[Data](articles/4e6f19d0.json)
+
+[Extended Data](ext_articles/4e6f19d0.ext.json)
 
 ---

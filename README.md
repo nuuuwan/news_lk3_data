@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 00:21:56**
+As of **2025-10-04 00:52:14**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,955 (100.0%) of 80,956 articles have been extended.
+80,956 (100.0%) of 80,956 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -672,6 +672,8 @@ The recent endorsement of LGBTIQ tourism in Sri Lanka raises questions of morali
 ...
 
 [Data](articles/a54081ed.json)
+
+[Extended Data](ext_articles/a54081ed.ext.json)
 
 ---
 

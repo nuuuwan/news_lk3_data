@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 21:38:35**
+As of **2025-10-03 22:10:40**
 
 ## Newspaper Stats
 
-*Scraped **80,941** Articles*
+*Scraped **80,947** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 576
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 736
+lankadeepalk | 740
 colombotelegraphcom | 806
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -21,17 +21,101 @@ adalk | 7,771
 adaderanalk | 10,416
 tamilmirrorlk | 12,035
 virakesarilk | 13,270
-adaderanasinhalalk | 13,926
+adaderanasinhalalk | 13,928
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,941 (100.0%) of 80,941 articles have been extended.
+80,946 (100.0%) of 80,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
+
+### හිටපු ආණ්ඩුකාර මහීපාල හේරත් බිරිඳගේ නමට ඉදිකළ හෝටලය කඩා ඉවත් කර ගනියි
+
+*2025-10-03 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215313) · `si`
+
+උතුරුමැද පළාත් හිටපු ආණ්ඩුකාර මහීපාල හේරත් මහතා සිය බිරිඳගේ නමට ඉදිකළ හෝටලය කඩා ඉවත් කරගෙන තිබේ.
+
+එම හෝටලය අනුරාධපුර පේරියම් කුලම වැව් රක්ෂිතයේ අනවසරයෙන් ඉදිකර තිබූ අතර ඒ අනුව එම හෝටලය මධ්‍යම නුවර ගම් පළාත් ප්‍රාදේශීය ලේකම් විසින් කඩා ඉවත් කරන ලෙස නියෝග කර තිබුණි.
+
+ඒ අනුව හිටපු ආණ්ඩුකාරවරයාගේම පිරිසක් පැමිණ එම හෝටලය කඩා ඉවත් කර ඇති බවද වාර්තා විය.
+
+අනුරාධපුර දිස්ත්‍රික්කයේ වැව් රක්ෂිතවල මායිම් සළකුණු කිරීම සඳහා මෑතකදි රජය විසින් දියත් කළ වැඩසටහනකදී මෙම ඉදි කිරීම සම්බන්ධයෙන් අනාවරණ වූ අතර ඒ අනුව එම ගොඩනැගිල්ල මසක් ඇතුළත ඉවත් කරගන්නා ලෙස දැනුම් දී තිබුණි.
+
+◼️
+
+[Data](articles/6a674ccb.json)
+
+---
+
+### A baps who had been put in a drain
+
+*2025-10-03 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215312) · `si`
+
+A newborn was found in a drain near the old tea factory of the Pitakanda estate.
+
+The baby was found on a tip off received by the Kandankapura police station.
+
+It has been reported to be handed over to the Matale General Hospital.
+
+The child's caretakers have not yet been revealed, and the Tadawatha Police are conducting further investigations.
+
+Meanwhile, a baby was found in a bag on a neighborhood of a retirement family health worker in the Estemo.
+
+The balwiya has been admitted to the Nikaweratiya Base Hospital and she is reportedly healthy.
+
+◼️
+
+[Data](articles/2d1859de.json)
+
+[Extended Data](ext_articles/2d1859de.ext.json)
+
+---
+
+### 33 suspended in Gampaha
+
+*2025-10-03 21:25:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගමපහ-වහන-33කට-තහනම-නයග/101-680717) · `si`
+
+The Gampaha District Office and the Police were conducting a special operation to check traffic bugs in the district with the objective of minimizing road accidents.
+
+The special operation was implemented in Balumamahara, Wattala, Mabala and Minuwangoda, who were randomized and the deficiencies of the 31 heavy vehicles including passenger buses.
+
+◼️
+
+[Data](articles/651612a0.json)
+
+[Extended Data](ext_articles/651612a0.ext.json)
+
+---
+
+### Uncle visited a flower to jail for 12 years to jail
+
+*2025-10-03 21:23:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මල-කකළක-පරකළ-මම-වසර-12ක-හරට/101-680716) · `si`
+
+The 36-year-old girl who was carrying out serious sexually abusing bike girl, Homaratic Judge Navaratne Marasinghe was sentenced to 12 years.
+
+The High Court judge was sentenced to Rs. 25,000.
+
+The 3-year-old, the 13-helical aggrieved girl has been sentenced to Rs.
+
+The High Court Judge issued a statement that the complaint had been proven beyond fair suspicions, but if the suspect was not fault with faults, it was imposed on a serious punishment of this serious sexual abuse.
+
+The case was filed by the Attorney General against July 09, 2010 at Hokandara.
+
+The punishment of the complaint was repeated beyond the evaluation of a complaint that the complaint has been made under Article No. 16 of 1995, No.
+
+Senior State Counseling Shayin Weerasuriya appeared for the Attorney General.
+
+◼️
+
+[Data](articles/11c0a29c.json)
+
+[Extended Data](ext_articles/11c0a29c.ext.json)
+
+---
 
 ### Trump releases final announcement to Hamas
 
@@ -335,6 +419,32 @@ Also, the USS Fitzgerald ship will depart from the island after meeting the deli
 
 ### 31000 crores were trapped in road
 
+*2025-10-03 18:53:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරග-හදනන-ගත-කට-31000ක-හරවල/101-680713) · `si`
+
+It is reported that the cost of Rs.
+
+As a result, the Ministry of Transport has informed the Parliamentary Select Committee of the Public Finance Committee to submit a supplementary estimate to approve parliament approval to pay the loans.
+
+This supplementary estimate was approved after considering in the committee
+
+Meanwhile, Sri Lanka has inquired from Public Debt Management Officers who have been called on the Cash Committee on foreign and locally already obtained loans.   Officials pointed out that foreign debt will pay 3700 million dollars and Rs.
+
+The Chairman of the Chairman was not aware of the officials of the Committee regarding the number of loans to pay this year, but the Chairman of the Chairperson did not discover the statistics.
+
+The Chairman of the Committees also recalled the importance of recruiting officers of the Public Debt Management Offices today.
+
+Ravi Karunanayake, MP Wickremesinghe and Sunil Rajapaksa and Nishantha Jayaweera were also present.
+
+◼️
+
+[Data](articles/c2d3c691.json)
+
+[Extended Data](ext_articles/c2d3c691.ext.json)
+
+---
+
+### 31000 crores were trapped in road
+
 *2025-10-03 18:53:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මරග-හදනන-ගත-කට-31000ක-හරවල/1-680713) · `si`
 
 It is reported that the cost of Rs.
@@ -408,6 +518,32 @@ He also said that Sri Lanka's cinnamon Sweden is so commonly consuming that the 
 [Data](articles/c7f8a621.json)
 
 [Extended Data](ext_articles/c7f8a621.ext.json)
+
+---
+
+### '' No action will be reversed '
+
+*2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/101-680712) · `si`
+
+President Anura Kumara Dissanayake said that the government has taken over the responsibility of recovering the country's collapsed economy and has taken over the responsibility of recovery.
+
+The President emphasized that the government has not taken steps to end the black governance wearing the black governance wearing the black management with drug trafficking and weapons.
+
+The President made this observation addressing the philanthropy of historical fedees in Kandy this afternoon.
+
+The President said that the Maha Sangha had a major role in the Maha Sangha was given a major role in the public.
+
+The President also pointed out that the Ananda Leader of Narawampana, who is known as Dadurgees and Scientists, the Language of Narawampana.
+
+The President also pointed out that the government's objectives to launch a national movement to eliminate the drug disaster.
+
+The government's policy is to do nothing to promote the tourism industry.
+
+...
+
+[Data](articles/9b87e305.json)
+
+[Extended Data](ext_articles/9b87e305.ext.json)
 
 ---
 
@@ -1946,119 +2082,5 @@ The highest number of tourist arrivals from India was 375 292. Thereafter, India
 [Data](articles/fca60ebd.json)
 
 [Extended Data](ext_articles/fca60ebd.ext.json)
-
----
-
-### Sri Lanka Launches Stakeholder Consultations for National Export Development Plan 2025-2029
-
-*2025-10-03 14:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/sri-lanka-launches-stakeholder-consultations-for-national-export-development-plan-2025-2029) · `en`
-
-COLOMBO(News 1st)- The Sri Lanka Export Development Board (EDB), in partnership with the Asian Development Bank (ADB), has commenced a series of stakeholder consultations aimed at formulating the National Export Development Plan (NEDP) 2025-2029, a strategic initiative to strengthen the country's export competitiveness and drive sustainable economic growth.The inaugural consultation session was held today (03) at the EDB in Colombo, bringing together representatives from government agencies, private sector organizations, industry associations, and development partners.
-
-The NEDP has been identified as a key priority in the Government's Budget 2025, with the EDB mandated to lead the initiative under the Policy-Based Lending program of the Ministry of Industry & Entrepreneurship Development. The plan is expected to be completed by November 2025.
-
-...
-
-[Data](articles/b748d906.json)
-
-[Extended Data](ext_articles/b748d906.ext.json)
-
----
-
-### An announcement of the weather
-
-*2025-10-03 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215293) · `si`
-
-The Meteorological Department has issued an announcement of strong lightning.
-
-Accordingly, strong lightning in the North Central, Eastern, Uva and Vavuniya and the Vavuniya of the Mullaitivu Districts have been reported.
-
-At times of thundershowers, temporary strong winds are also available in those areas.
-
-The Department of Meteorology also further informed the meteorological department to take measures to reduce lightning accidents.
-
-◼️
-
-[Data](articles/5f0e3339.json)
-
-[Extended Data](ext_articles/5f0e3339.ext.json)
-
----
-
-### Special Gazette Release on Plastic
-
-*2025-10-03 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226786) · `ta`
-
-The Consumer Affairs Authority (CAA) has announced that Sri Lanka's standards certificate must be compulsory from April 1, 2026, with all the lactating bottles based on Polymer-based children in Sri Lanka.
-
-According to the Excessive Gazette released on the first day, manufacturers, importers, distributors and traders, required SLS. It is also stated that the production, importing, saving or selling of such bottles is prohibited if the standards are not completed and the official certificate does not show the identity.
-
-Sri Lanka's standard specification for plastic bottles that carry the reusable drinking water liquids should contain SLS 1616 and the Sri Lanka standard specification for lactation bottles made of polymer products SLS 1306.
-
-...
-
-[Data](articles/520393f6.json)
-
-[Extended Data](ext_articles/520393f6.ext.json)
-
----
-
-### 35 drivers arrested for driving vehicles
-
-*2025-10-03 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226787) · `ta`
-
-35 drivers have been arrested in connection with the driver of liquor during a special roundup, which was carried out on Thursday (02) across the country, the Police Media Unit said.
-
-Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
-
-Meanwhile, 626 persons with evidence of various crimes, 13 on suspicion, 246 persons have been issued, 172 people who have been issued an opening order, 19 drivers and 4142 in violation of the transport regulations.
-
-◼️
-
-[Data](articles/0ad5e3c2.json)
-
-[Extended Data](ext_articles/0ad5e3c2.ext.json)
-
----
-
-### Dealer arrested for leakage in Batticaloa
-
-*2025-10-03 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226785) · `ta`
-
-A leak dealer was arrested on Wednesday (1) night when he surrounded the leaky business center in Kalladi area in Batticaloa.
-
-Following the information received by the Batticaloa Police Headquarters, the Headquarters Police Station Abolition Division surrounded a house on Nagathambiran Road, Kalladi.
-
-A male dealer who was involved in the business was arrested and 52 liters of leaks were seized, police said.
-
-In addition, the magistrate ordered the arrest to be presented to the Batticaloa Magistrate's Court on Thursday (2).
-
-◼️
-
-[Data](articles/19e2bba8.json)
-
-[Extended Data](ext_articles/19e2bba8.ext.json)
-
----
-
-### Fire breaks out at Chevron’s El Segundo refinery in Los Angeles
-
-*2025-10-03 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/113184/fire-breaks-out-at-chevrons-el-segundo-refinery-in-los-angeles) · `en`
-
-A fire broke out at Chevron’s El Segundo refinery, one of the largest on the U.S. west coast, California Governor Gavin Newsom’s press office said on Thursday, with a county official adding that the flames had been confined to one area.
-
-The cause of the blaze was not clear, the Los Angeles Times said, while broadcaster CBS said officers and firefighters rushed to the refinery in Los Angeles county after reports of an explosion.
-
-“Our office is coordinating with local and state agencies to ... ensure public safety,” Newsom’s press office said on X.
-
-CBS cited police as saying they were not aware of any immediate injuries or evacuations, adding that Los Angeles county supervisor Holly Mitchell had said crews contained the fire to one area of the refinery.
-
-In a regulatory filing, the U.S. energy major also reported emergency flaring at El Segundo.
-
-...
-
-[Data](articles/35ec2ace.json)
-
-[Extended Data](ext_articles/35ec2ace.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 15:06:24**
+As of **2025-10-03 14:55:41**
 
 ## Newspaper Stats
 
-*Scraped **80,833** Articles*
+*Scraped **80,825** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 569
+newsfirstlk | 568
 dbsjeyarajcom | 637
-lankadeepalk | 717
+lankadeepalk | 713
 bbccomsinhala | 723
 colombotelegraphcom | 805
 dailymirrorlk | 4,733
@@ -21,45 +21,17 @@ adalk | 7,764
 adaderanalk | 10,406
 tamilmirrorlk | 12,034
 virakesarilk | 13,226
-adaderanasinhalalk | 13,908
+adaderanasinhalalk | 13,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,721 (99.9%) of 80,833 articles have been extended.
+80,721 (99.9%) of 80,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
-
-### Sri Lanka Launches Stakeholder Consultations for National Export Development Plan 2025-2029
-
-*2025-10-03 14:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/sri-lanka-launches-stakeholder-consultations-for-national-export-development-plan-2025-2029) · `en`
-
-...
-
-[Data](articles/b748d906.json)
-
----
-
-### කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
-
-*2025-10-03 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215293) · `si`
-
-ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් නිකුත් කර තිබේ.
-
-ඒ අනුව උතුරුමැද, නැගෙනහිර, ඌව පළාත් සහ වවුනියාව, මුලතිව් දිස්ත්‍රික්කවලට ප්‍රබල අකුණු ඇති විය හැකි බවට දැනුම් දී තිබේ.
-
-ගිගුරුම් සහිත වැසි ඇති වනවිට එම ප්‍රදේශවල තාවකාලික තද සුළං ද ඇ.ති වේ.
-
-අකුණු අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම්දෙයි.
-
-◼️
-
-[Data](articles/5f0e3339.json)
-
----
 
 ### Doctors need to adjust the signature: Court
 
@@ -118,64 +90,6 @@ Now hold a fair investigation. It's justice to the soul of Thajudin.
 [Data](articles/994dd5d1.json)
 
 [Extended Data](ext_articles/994dd5d1.ext.json)
-
----
-
-### නාමල්  තාජුදීන්ගේ  ආත්මයට සාධාරණයක් ඉල්ලයි
-
-*2025-10-03 13:56:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නමල-තජදනග-ආතමයට-සධරණයක-ඉලලය/101-680695) · `si`
-
-සාධාරණ පරීක්ෂණයක් පවත්වා තාජුදින්ගේ ආත්මයට සාධාරණය ඉටු කරන්නැයි ශ්‍රී ලංකා පොදු ජනපෙරමුණේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ නාමල් රාජපක්ෂ මහතා රජයෙන් ඉල්ලීමක් කළේය.
-
-නාමල් රාජපක්ෂ මහතා මෙසේද පැවසීය ආණ්ඩුව පොලිසිය පාවිච්චි කරලා බොරු සාක්ෂි හදනවා.
-
-පොලිසිය කරන්න ඕන ආණ්ඩුවට කඩේ ගිහිල්ලා ප්‍රමෝෂන් ගන්න එක නොවෙයි. ගෞරවය ආරක්ෂා කර කරගන්න කියලා පොලිසියෙන් ඉල්ලීමක් කරනවා.
-
-තාජුදින් සිද්ධිය සම්බන්ධයෙන් බොරු සාක්ෂි හදන්න ගියා. පැය විසි හතරක් යන්න කලින් අධිකරණයට දක්වන්න ඕන කරුණු මාධ්‍යයට දක්වලා වැඩේ අනාගත්තා.
-
-දැන් වත් සාධාරණ පරීක්ෂණයක් පවත්වන්න. ඒක තාජුඩින්ගේ ආත්මයට කරන සාධාරණයක්.
-
-◼️
-
-[Data](articles/1646e313.json)
-
----
-
-### අමෙරිකාවේ විශාලම තෙල් පිරිපහදුවක ගින්නක්
-
-*2025-10-03 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215292) · `si`
-
-අමෙරිකාවේ බටහිර වෙරළ තීරයේ විශාලම තෙල් පිරිපහදුවක් වන ඇන්ජලීස් හි චෙව්රොන් පිරිපහදුවේ දැවැන්ත ගින්නක් හටගෙන තිබේ.
-
-විදෙස් මාධ්‍ය වාර්තා කර සිටියේ, තෙල්  පිරිපහදුවේ ගිනිදැල් සැතපුම් ගණනක් දුර ඉහළ අහසේ දර්ශනය වන බවය.
-
-ගින්නට හේතුව මෙතෙක් හෙළි වී නොමැති අතර, පිපිරීමක් පිළිබඳ වාර්තාවීමත් සමග ගිනිනිවන භටයින් පිරිපහදුවට කඩිනමින් පැමිණ ගිනිනිවීම් කටයුතු ආරම්භ කර තිබේ.
-
-කෙසේ වෙතත් මහජන ආරක්ෂාවට ක්ෂණික තර්ජනයක් නොමැති වුවත්, ජනතාවට ගෘහස්ථව රැඳී සිටින ලෙස දැනුම්දී ඇත.
-
-මෙම පිරිපහදුව දළ වශයෙන් වර්ග කිලෝමීටර් 3.9ක ප්‍රදේශයක් ආවරණය කරන අතර, එහි කිලෝමීටර් 1,770කට වඩා දිග නල මාර්ග පද්දතියක් තිබේ.
-
-1911 සිට ක්‍රියාත්මක මෙම පිරිපහදුවෙන් දිනකට බොරතෙල් බැරල් 290,000ක් පිරිපහදු කිරීමේ හැකියාවක් ඇත.
-
-◼️
-
-[Data](articles/edbc02c1.json)
-
----
-
-### පොහොට්ටුව රකින්න ගිහින් සජිත් පඹ ගාලක
-
-*2025-10-03 13:44:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහටටව-රකනන-ගහන-සජත-පඹ-ගලක/101-680691) · `si`
-
-පොහොට්ටුවේ නායකයන් රකින්න ගොස් සජිත් ප්‍රේමදාස මහතා අද පඹ ගාලක පැටලී ඇති බව අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-මෙපමණ අයිස් අහු වෙද්දි ඒවාට සම්බන්ධ වන දේශපාලනඥයන් නිරාවරණය වෙද්දී සජිත් ප්‍රේමදාස මහතා වචනයක් හෝ කතා නොකරන බවද ඔහු පෙන්වා දුන්නේය.
-
-ආණ්ඩුව ගෙන යන වැඩපිළිවෙල හේතුවෙන් කුඩු අයිස් සම්බන්ධ ජාවාරම් නිරාවරණය වෙමින් පවතින බවත් විපක්ෂයට අද ඕනෑ වී ඇත්තේ ඒවා වැසීමට බවත් ජයතිස්ස මහතා පැවසීය.
-
-◼️
-
-[Data](articles/cd46c8ce.json)
 
 ---
 
@@ -266,26 +180,6 @@ Munasinghe who also serves as a trustee of the bank’s CSR Trust, is a member o
 [Data](articles/526dce9e.json)
 
 [Extended Data](ext_articles/526dce9e.ext.json)
-
----
-
-### ළමයින්ට දඬුවම් කිරීම සම්බන්ධ පනත් කෙටුම්පත සංශෝධනය ගැන අධිකරණ ඇමතිගෙන් නිවේදනයක්
-
-*2025-10-03 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215291) · `si`
-
-ළමුන්ට ශාරීරිකව දඬුවම් කිරීම සම්බන්ධව (19 වන අධිකාරය වු) දණ්ඩ නීති සංග්‍රහය සංශෝධන කිරීම සම්බන්ධයෙන් අධිකරණ අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා නිවේදනයක් නිකුත් කර තිබේ.
-
-අධිකරණ අමාත්‍යවරයා එහි වැඩිදුරටත් සඳහන්ව ඇත්තේ, අදාළ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පාර්ලිමේන්තුවේ පැවැත්වුවා මිස එය පාර්ලිමේන්තුව මඟින් නීතියක් ලෙස සම්මත කර නොමැති බවය.
-
-ඉහත සඳහන් කළ දණ්ඩ නීති සංග්‍රහය සං‍ශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පසුගිය සැප්තැම්බර් 24 වනදා පැවැත් වුණි.
-
-එය විවාදයක් පමණක් මිස නීතියක් ලෙස සම්මත කර ගැනීමකින් තොරව කල්තැබූ බවත් අදාළ පනත් කෙටුම්පත සම්මත කරනු නොලැබුවේ එම සංශෝධනය බලාත්මක වීමට නම් ඊට සමානව අපරාධ නඩු විධිවිධාන සංග්‍රහයේද සංශෝධනයක් සිදුවිය යුතු බැවින් බව අදාළ නිවේදනයේ වැඩිදුරටත් සඳහන්ය.
-
-එමෙන්ම මෙම පනත් කෙටුම්පත මෙතෙක් නීතියක් ලෙස සම්මත කර නොමැති අතර, මේ සඳහා සංශෝධන ඉදිරිපත් කළ යුතු නම් අදාළ සංශෝධන පාර්ලිමේන්තු කාරක සභා අවස්ථාවේ ඉදිරිපත් කිරීමේ හැකියාව පවතින බව ද අධිකරණ අමාත්‍යවරයා අදාළ නිවේදනය මඟින් දැනුම් දී තිබේ.
-
-...
-
-[Data](articles/3d79c1f3.json)
 
 ---
 
@@ -430,24 +324,6 @@ Bribery Commission has commenced this inquiry into the activities of the Sri Lan
 [Data](articles/6c1aa70b.json)
 
 [Extended Data](ext_articles/6c1aa70b.ext.json)
-
----
-
-### මනුෂගේ ඇප ඉල්ලිමට අල්ලස විරුද්ධ වෙයි
-
-*2025-10-03 13:30:59* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනෂග-ඇප-ඉලලමට-අලලස-වරදධ-වය/101-680687) · `si`
-
-ඊශ්‍රායල් රැකියා ගිවිසුම සම්බන්ධයෙන් අල්ලස් කොමිසම සිදු කරන විමර්ශනයන්හිදී අත්අඩංගුවට පත් වුවහොත් ඇප ලබා ගත හැකිවන පරිදි පූර්ව ඇපයක් නියම කරන්නැයි ඉල්ලා හිටපු කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා ගොනු කළ පෙත්සම ලබන 08 දින විමසීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා අද දින නියම කළේය.
-
-සැකකරුට පූර්ව ඇපයක් නියම කිරීම සම්බන්ධයෙන් විරුද්ධත්වය ප්‍රකාශ කරන බවට අල්ලස් කොමිසම ගොනු කළ ලිඛිත කරුණු සලකා බැලීමෙන් පසුව මෙසේ පැමිණිල්ල විමසීමට දින නියම කළේය.
-
-අද මෙම පැමිණිල්ල කැඳවූ අවස්ථාවේදී අල්ලස් කොමිසම ඇප ලබාදීමට විරුද්ධත්වය ප්‍රකාශ කිරීමෙන් ලිඛිත කරුණු අධිකරණයට ඉදිරිපත් කළේය.
-
-වග උත්තරකරුවන් විසින් ඉදිරිපත් කරන ලිඛිත කරුණු සලකා බලා ලබන 06 වැනි දින ඊට අදාළ ලිඛිත දේශන යොමු කරන ලෙස නියෝග කළ මහේස්ත්‍රාත්වරයා පැමිණිලි විමසීම ලබන අට දිනට නියම කළේය.
-
-...
-
-[Data](articles/aa4a97e9.json)
 
 ---
 
@@ -2040,5 +1916,131 @@ Accordingly, the Commissioner General of Excise has stated that liquor retail ou
 [Data](articles/b52f8f18.json)
 
 [Extended Data](ext_articles/b52f8f18.ext.json)
+
+---
+
+### Alcohol-Linked Deaths Hit 22,000 Annually
+
+*2025-10-03 08:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/alcohol-linked-deaths-hit-22-000-annually) · `en`
+
+COLOMBO (News 1st); Sri Lanka marks World Temperance Day today, focusing on the health and social impacts of alcohol consumption. The observance aims to raise public awareness about the dangers of alcohol use and promote healthier lifestyles.A series of nationwide programs have been launched to educate communities on the risks associated with alcohol. According to Dr. Ananda Ratnayake, Chairman of the National Authority on Tobacco and Alcohol, 21% of Sri Lankans consume alcohol, a figure that continues to pose significant public health concerns.He further revealed that around 22,000 alcohol-related deaths are reported annually in the country.In line with the observance, all liquor outlets across the island remain closed today.
+
+◼️
+
+[Data](articles/8daeb322.json)
+
+[Extended Data](ext_articles/8daeb322.ext.json)
+
+---
+
+### Indian beadichola cannot be chased
+
+*2025-10-03 08:53:46* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉනදයන-බඩකළ-පනනනන-බරවය/101-680677) · `si`
+
+Kalpitiya Police say that 13 Indian BD leaves were transported to the country by violating the customs law from India.
+
+The gross value of the bd leaf is about 400,000. BD leaf packs had been safely packed, and 408 kg there were.
+
+The suspect is a permanent resident of the Five, the fifth crosslash Puttalam and is a 28 year old resident of Talawila.
+
+The suspect and the prosecuting will be handed over to the Katunayake Customs Office. The metest police are conducting further investigations.
+
+◼️
+
+[Data](articles/5a13ce92.json)
+
+[Extended Data](ext_articles/5a13ce92.ext.json)
+
+---
+
+### Indian beadichola cannot be chased
+
+*2025-10-03 08:53:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඉනදයන-බඩකළ-පනනනන-බරවය/1-680677) · `si`
+
+Kalpitiya Police say that 13 Indian BD leaves were transported to the country by violating the customs law from India.
+
+The gross value of the bd leaf is about 400,000. BD leaf packs had been safely packed, and 408 kg there were.
+
+The suspect is a permanent resident of the Five, the fifth crosslash Puttalam and is a 28 year old resident of Talawila.
+
+The suspect and the prosecuting will be handed over to the Katunayake Customs Office. The metest police are conducting further investigations.
+
+◼️
+
+[Data](articles/a3efacfe.json)
+
+[Extended Data](ext_articles/a3efacfe.ext.json)
+
+---
+
+### Another firearm of Padman's discovers a
+
+*2025-10-03 08:33:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදමග-තවත-ගනඅවයක-මගසනයක-සයගන/101-680676) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවාගෙන ප්‍රශ්න කරන මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු හා සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි පෙරේරා නොහොත් කෙහෙල් බද්දර පත්මෙ නැමැත්තාගෙන් අනාවරණය වූ තොරතුරු අනුව මයික්‍රෝ වර්ගේ ගිනි අවියක් හා මැගසිනයක් සොයාගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+Five were arrested during the Indonesian police and the Indonesian police and the Peliyagoda North Criminal Division of Indonesian Police and the Indonesian Police.
+
+The police say that the informants were found in the Criminal Investigation Division of the Criminal Investigation Division of the Criminal Investigation Department.
+
+◼️
+
+[Data](articles/4d648b84.json)
+
+[Extended Data](ext_articles/4d648b84.ext.json)
+
+---
+
+### 4 arrested for smuggling goods including mobile phones worth over Rs. 10 mln
+
+*2025-10-03 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113173/4-arrested-for-smuggling-goods-including-mobile-phones-worth-over-rs-10-mln) · `en`
+
+Maligawatta Police have arrested four individuals in connection with a consignment of mobile phones, perfumes, and accessories worth over Rs. 10 million, allegedly smuggled into the country through Bandaranaike International Airport (BIA), Katunayake, without paying customs duties.
+
+Police confirmed that two cousins were among the suspects arrested.
+
+The items seized included 26 smartphones, 10 iPads, 10 tablet computers, three laptops, various types of perfumes, and a stock of body lotions, said police.
+
+According to Maligawatta Police OIC, the goods were recovered during a raid on a residence in the Ramya area of Maligawatta.
+
+The suspects had reportedly travelled to Dubai on September 30 and brought the goods into the country illegally upon their return yesterday (02).
+
+The arrested individuals are residents of the Maligawatta and Kochchikade areas, said police.
+
+◼️
+
+[Data](articles/1cfa8b4d.json)
+
+[Extended Data](ext_articles/1cfa8b4d.ext.json)
+
+---
+
+### Shooting in demonstration: 12 killed in Pakistan
+
+*2025-10-03 08:25:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-துப்பாக்கிச்-சூடு-பாகிஸ்தானில்-12-பேர்-பலி/175-365682) · `ta`
+
+Pakistan is the one who carries the grievances of the Kashmir area of ​​the people of the 38 -year -old
+
+Soldiers firing to control the protesters. Of these, 12 were killed. More than 200 people were bombed. Three policemen were killed in an attack by protesters.
+
+Pakistani Prime Minister Shebash Sharif has set up a negotiating committee to bring peace in occupied Kashmir. (A)
+
+◼️
+
+[Data](articles/7100742a.json)
+
+[Extended Data](ext_articles/7100742a.ext.json)
+
+---
+
+### Probe Links DMT Officials to Fake Registrations
+
+*2025-10-03 08:23:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/probe-links-dmt-officials-to-fake-registrations) · `en`
+
+...
+
+[Data](articles/5756a536.json)
+
+[Extended Data](ext_articles/5756a536.ext.json)
 
 ---

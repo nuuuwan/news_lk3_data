@@ -1,37 +1,101 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 16:37:05**
+As of **2025-10-03 16:53:33**
 
 ## Newspaper Stats
 
-*Scraped **80,851** Articles*
+*Scraped **80,861** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 572
 dbsjeyarajcom | 637
-lankadeepalk | 721
+lankadeepalk | 723
 bbccomsinhala | 723
 colombotelegraphcom | 806
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,653
-adalk | 7,765
+adalk | 7,766
 adaderanalk | 10,408
 tamilmirrorlk | 12,035
 virakesarilk | 13,232
-adaderanasinhalalk | 13,908
+adaderanasinhalalk | 13,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,833 (100.0%) of 80,851 articles have been extended.
+80,833 (100.0%) of 80,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
+
+### ඊශ්‍රායල් ඉදිකිරීම් ක්ෂේත්‍රයේ රැකියා කාණ්ඩ 3ක් සඳහා ලියාපදිංචිය යළි ඇරඹේ
+
+*2025-10-03 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215300) · `si`
+
+ඊශ්‍රායල් රාජ්‍යයේ ඉදිකිරීම් ක්ෂේත්‍රය යටතේ ක්‍රියාත්මක වන ප්‍රතිසංස්කරණ උප ක්ෂේත්‍රයට අදාළව රැකියා සඳහා සුදුසුකම් ලත් ශ්‍රමිකයින් ලියාපදිංචි කරගැනීම සඳහා අමතර දින දෙකක් ලබාදීමට ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පියවර ගෙන තිබේ.
+
+පොදු ප්‍රතිසංස්කරණ කටයුතු සිදුකරන්නන් (General Renovation Work), සෙරමික් ටයිල් වැඩ (Ceramic Tiling Work), කපරාරු වැඩ (Plastering Work) යන රැකියා සඳහා අද දින (03) සිට 07 වැනිදා පෙ.ව 9.00 දක්වා කාර්යාංශ වෙබ් අඩවිය ඔස්සේ ශ්‍රමිකයින් ලියාපදිංචි කිරිම සිදු කෙරේ.
+
+වයස අවුරුදු 25-45 අතර පිරිමි පුද්ගලයින්ට මේ සඳහා අයදුම් කළ හැකි අතර, තෝරා ගන්නා රැකියා කාණ්ඩයට අදාළ මනා පළපුරුද්දක් තිබිය යුතුවේ.
+
+මීට පෙර ඊශ්‍රායලයේ සේවය කර නොමැති හා ඥාතීන් කිසිවෙකු ඊශ්‍රායලයේ සේවය කරන හෝ පදිංචි පුරවැසියන් නොවන පුද්ගලයින්ට අයදුම් කළ හැකි අතර, වසර 3ට වඩා වැඩි කාල සීමාවක් සහිත සියළුම රටවල් සඳහා වලංගු විදේශ ගමන් බලපත්‍රයක් තිබිම ද අනිවාර්යය වේ.
+
+...
+
+[Data](articles/10966f94.json)
+
+---
+
+### නීත්‍යානුකූල පාලනයේ සුරක්ෂිතභාවය උදෙසා කළු පාලනය අවසන් කළ යුතුයි
+
+*2025-10-03 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215299) · `si`
+
+නීත්‍යානුකූල ව්‍යවස්ථාපිත පාලනයේ සුරක්ෂාව උදෙසා තැබූ පියවර ආපසු නොහරවන බව ජනාධිපතිවරයා ශ්‍රී දළදා මාළිගාවේ ඓතිහාසික මඟුල් මඩුවේදී මහා සංඝරත්නය ඉදිරියේ පොරොන්දු වුණි.
+
+සියම් මහා නිකායේ අස්ගිරි පාර්ශ්වයේ අභිනව අනුනායක ධුරයට පත් වූ පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියන් හට සන්නස් පත්‍රය පිළිගැන්වීමේ පූජෝත්සවයට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+
+එමෙන්ම සමාජයට අලුත් හර පද්ධතියක් අවශ්‍යව ඇති බව ද පැවසු ජනාධිපති අනුර කුමාර දිසානායක මහතා, ධනය හෝ නිලතල වත්මන් සමාජයේ උස් පහත් බව මනින තත්ත්වයට පත්ව ඇතැයි ද කියා සිටියේය.
+
+...
+
+[Data](articles/e49f4792.json)
+
+---
+
+### ජනපති මල්වතු - අස්ගිරි මහා නා හිමිවරුන් බැහැ දකී
+
+*2025-10-03 16:05:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-මලවත-අසගර-මහ-න-හමවරන-බහ-දක/1-680708) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (03) දහවල් මල්වතු සහ අස්ගිරි මහා නා හිමිවරුන් බැහැදැක ආශිර්වාද ලබා ගත්තේය.
+
+පළමුව, මල්වතු මහා විහාරය වෙත පැමිණි ජනාධිපතිවරයා තිබ්බටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මල්වතු මහා නාහිමි බැහැදැක සුවදුක් විමසා කෙටි පිළිසඳරක නිරත වූ අතර අනතුරුව, අස්ගිරි මහා විහාරය වෙත ගොස්  වරකාගොඩ ශ්‍රී ඥානරතන අස්ගිරි මහා නා හිමි බැහැදැක සුව දුක් විමසමින් කෙටි පිළිසඳරක නිරත විය.
+
+◼️
+
+[Data](articles/fa49b5d3.json)
+
+---
+
+### බුවාලෝයි සුළි කුණාටුවෙන් හතක් මරුට
+
+*2025-10-03 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215298) · `si`
+
+තායිලන්තයට බලපා ඇති ‘බුවාලෝයි‘ සුළි කුණාටුවේ බලපෑමෙන් සිදුවු ආපදා හේතුවෙන් පුද්ගලයින් 07 දෙනෙකු මියගොස් තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ තවත් පුද්ගලයින් තිදෙනෙකු අතුරුදන්ව ඇති බවය.
+
+එමෙන්ම ආපදාවලින් පුද්ගලයින් 60,294 දෙනෙකු පීඩාවට පත්ව සිටින අතර නිවාස 16,740ටද හානි සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/3b348d6f.json)
+
+---
 
 ### All Share Price Index Reaches Record High
 
@@ -61,6 +125,38 @@ COLOMBO (News 1st); The International Civil Aviation Organization (ICAO) has agr
 
 ---
 
+### පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමිට  සන්නස් පත්‍රය පිළිගන්වයි
+
+*2025-10-03 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215297) · `si`
+
+සියම් මහා නිකායේ අස්ගිරි පාර්ශ්වයේ අභිනව අනුනායක ධුරයට පත් වූ පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියන් හට සන්නස් පත්‍රය පිළිගැන්වීම ජනාධිපති අනුර කුමාර දිසානායක මහතා අතින් සිදු විය.
+
+ඒ මහනුවර ශ්‍රී දළදා මාලිගා පරිශ්‍රයේ පිහිටි ඓතිහාසික මඟුල් මඩුවේදීය.
+
+අස්ගිරි පාර්ශ්වයේ කටයුතු කළ පූජ්‍ය ආනමඩුවේ ධම්මදස්ස හිමි අපවත්වීමෙන් පසු පුරප්පාඩු වු අනුනායක පදවිය සඳහා අස්ගිරි මහා සංඝ සභාවේ එකඟත්වයෙන් පූජ්‍ය නාරම්පනාවේ ආනන්ද නාහිමි පත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/a14bb4bd.json)
+
+---
+
+### ජනපති මල්වතු, අස්ගිරි  මහා නා හිමිවරුන් බැහැදකී
+
+*2025-10-03 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215296) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (03) දහවල් මල්වතු සහ අස්ගිරි පාර්ශ්වයේ මහා නා හිමිපාණන් වහන්සේලා බැහැදැක ආශිර්වාද ලබා ගත්තේය.
+
+පළමුව, මල්වතු මහා විහාරය වෙත පැමිණි ජනාධිපතිවරයා, මල්වතු මහා නායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නායක හිමිපාණන් වහන්සේ බැහැදැක සුවදුක් විමසා කෙටි පිළිසඳරක ද නිරත වී ඇත.
+
+එමෙන්ම ජනාධිපතිවරයා අස්ගිරි මහා විහාරය වෙත ගොස් අස්ගිරි පාර්ශ්වයේ මහා නායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නායක හිමිපාණන් වහන්සේ බැහැදැක සුව දුක් විමසමින් කෙටි පිළිසඳරක නිරත විය.
+
+◼️
+
+[Data](articles/217ec3b8.json)
+
+---
+
 ### New Process To Investigate Institutions Under Purview Of COPE
 
 *2025-10-03 15:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/new-process-to-investigate-institutions-under-purview-of-cope) · `en`
@@ -72,6 +168,48 @@ COLOMBO (News 1st); The introduction of a new process has been planned to invest
 [Data](articles/8c0c196e.json)
 
 [Extended Data](ext_articles/8c0c196e.ext.json)
+
+---
+
+### නිවාස කොල්ල කෑ අම්මයි පුතයි කොටුවෙයි
+
+*2025-10-03 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215295) · `si`
+
+නිවාසවලට සේවිකාවන් සපයන ආයතනයක සේවය කරමින් සිය පුතු සමගින් එක්ව එම නිවාස මංකොල්ලකෑමේ ජාවාරමක නිතරව සිටි මව්-පුතු දෙපළක් බෙම්මුල්ල පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+අදාළ කාන්තාව කලක සිට තම පුතු මෙහෙයවන කොල්ල කණ්ඩායමක් යොදවා නිවාස මංකොල්ලකෑමේ ජාවාරමේ නිරත වී තිබේ.
+
+අවසන්වරට ඔවුන් බෙම්මුල්ල ප්‍රදේශයේ නිවසක සිදුකළ කොල්ලයක් සම්බන්ධයෙන් සිදුකළ විමර්ශනයකින් අනතුරුව මෙම ජාවාරව හසුකරගැනීමට පොලීසියට හැකිව ඇත.
+
+මෙම කාන්තාව මීගමුවේ පිහිටි නිවාසවලට සේවිකාවන් සපයන ආයතනයක සේවය කර ඇති අතර, ඒ හරහා බෙම්මුල්ලේ නිවසේ ගෘහ සේවයට පැමිණ තිබේ.
+
+පසුව සිය පුතු මෙහෙයවනු කොල්ලකල්ලිය හා එක්ව රාත්‍රී කාරයේදී නිවැසියන් බැඳදමා රුපියල් ලක්ෂ 15කට අධික  ස්වර්ණාභරණ පැහැරගෙන ගොස් ඇත.
+
+අත්අඩංගුවට ගත් මව්-පුතු දෙපළ හඟුරන්කෙත ප්‍රදේශයේ පදිංචිකරුවන් වන අතර, ඔවුන් ඇතුළු කොල්ලකල්ලිය පැය 24ක් ගතවීමට පෙර අත්අඩංගුවට ගැනීමට බෙම්මුල්ල පොලීසිය සමත්විය.
+
+එහිදී ඔවුන් සතුව තිබී සොරකම්කරන ලද ස්වර්ණාභරන, හෙරොයින් ග්‍රෑම් 3ක් සිය භාරයට ගෙන ඇත.
+
+...
+
+[Data](articles/770cf7e1.json)
+
+---
+
+### දිවයින පුරා විශේෂ මෙහෙයුම්
+
+*2025-10-03 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215294) · `si`
+
+පොලිසිය විසින් දිවයින පුරා සිදුකරන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ විශේෂ මෙහෙයුම යටතේ විවිධ අපරාධ සිද්ධීන්වලට සෘජුව සම්බන්ධ තවත් පුද්ගලයින් 13දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එම මෙහෙයුමේදී පුද්ගලයින් 28,140 දෙනෙකු පරීක්ෂාවට ලක්කර ඇති බව පොලිස් මාධ්‍ය කොට්ඨාශය සඳහන් කළේය.
+
+පොලීසිය වැඩිදුරටත් පැවසුවේ විවිධ සිද්ධීන්වලට සැකපිට පුද්ගලයින් 626 දෙනෙකු සහ වරෙන්තුකරුවන් 246 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බවය.
+
+ඊට අමතරව බීමත් හා අපරික්ෂාකාරී රිය ධාවනය සම්බන්ධයෙන් තවත් පුද්ගලයින් 54 දෙනෙකු ද අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/0675137e.json)
 
 ---
 
@@ -94,6 +232,24 @@ The Minister further emphasizes that the Act to revise the pension code regardin
 [Data](articles/a1b9c405.json)
 
 [Extended Data](ext_articles/a1b9c405.ext.json)
+
+---
+
+### දරුවන්ට දඬුවම් කිරීම ගැන පනත නීතියක් ලෙස සම්මත කර නෑ
+
+*2025-10-03 15:02:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දරවනට-දඬවම-කරම-ගන-පනත-නතයක-ලස-සමමත-කර-න/1-680707) · `si`
+
+දරුවන්ට ශාරීරිකව දඬුවම් කිරීම සම්බන්ධව දණ්ඩ නීති සංග්‍රහය සංශෝධන කිරීමේ පනත් කෙටුම්පත පාර්ලිමේන්තුවේ නීතියක් ලෙස සම්මත කර නොමැති යැයි අධිකරණ අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+අධිකරණ අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා නිකුත් කළ නිවේදනය පහත දැක්වේ. “
+
+ඉහත සඳහන් කළ දණ්ඩ නීති සංග්‍රහය සංශෝධන පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය පසුගිය සැප්තැම්බර් 24 වැනිදා පවත්වන ලදී. එහෙත් අදාළ පනත් කෙටුම්පත පිළිබඳ දෙවැනි වර කියවීමේ විවාදයක් පැවැත්වුවා මිස එය නීතියක් ලෙස සම්මත කර ගැනීමකින් තොරව කල්තැබු අතර, අදාළ පනත් කෙටුම්පත සම්මත කරනු නොලැබුවේ එම සංශෝධනය බලාත්මකවීමට නම් ඊට සමානව අපරාධ නඩු විධිවිධාන සංග්‍රහයේ ද සංශෝධනයක් සිදු විය යුතු බැවිනි.
+
+මෙම පනත් කෙටුම්පත මෙතෙක් නීතියක් ලෙස සම්මත කර නොමැති අතර, මේ සඳහා සංශෝධන ඉදිරිපත් කළ යුතු නම් අදාළ සංශෝධන පාර්ලිමේන්තු කාරක සභා අවස්ථාවේ ඉදිරිපත් කිරීමේ හැකියාව පවතියි.
+
+...
+
+[Data](articles/5314523e.json)
 
 ---
 
@@ -156,6 +312,10 @@ Accordingly, the information released by the Central Bank of India today (03.10.
 ### Sri Lanka Launches Stakeholder Consultations for National Export Development Plan 2025-2029
 
 *2025-10-03 14:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/sri-lanka-launches-stakeholder-consultations-for-national-export-development-plan-2025-2029) · `en`
+
+COLOMBO(News 1st)- The Sri Lanka Export Development Board (EDB), in partnership with the Asian Development Bank (ADB), has commenced a series of stakeholder consultations aimed at formulating the National Export Development Plan (NEDP) 2025-2029, a strategic initiative to strengthen the country's export competitiveness and drive sustainable economic growth.The inaugural consultation session was held today (03) at the EDB in Colombo, bringing together representatives from government agencies, private sector organizations, industry associations, and development partners.
+
+The NEDP has been identified as a key priority in the Government's Budget 2025, with the EDB mandated to lead the initiative under the Policy-Based Lending program of the Ministry of Industry & Entrepreneurship Development. The plan is expected to be completed by November 2025.
 
 ...
 
@@ -300,6 +460,20 @@ The court recommended the inclusion of manuscripts in the medical school curricu
 [Data](articles/24e288f6.json)
 
 [Extended Data](ext_articles/24e288f6.ext.json)
+
+---
+
+### ඊශ්‍රායල් ලොතරැයියෙන් ඉවත්වූ 562 දෙනෙකුට යළි රැකියා අවස්ථා
+
+*2025-10-03 14:01:05* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-ලොතරැයියෙන්-ඉවත්වූ-562-දෙනෙකුට-යළි-රැකියා-අවස්ථා/11-418897) · `si`
+
+විදේශ කටයුතු හා විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර මහතා හා ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතා ඊශ්‍රායලයේ PIBA ආයතනය සමග සිදුකරන ලද සාකච්ඡාවක ප්‍රතිඵලයක් ලෙස, ඊශ්‍රායල් රැකියා සඳහා බඳවාගැනීමට පවත්වන ලොතරැයි ක්‍රමයෙන් නොතේරුණු පිරිසට යළි රැකියා අවස්ථා හිමිවී තිබෙන බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සදහන් කරයි.
+
+ඒ අනුව PIBA ආයතනයේ දත්ත පද්ධතියෙන් ඉවත් කරන ලද හෝටල් ගෘහපාලන හා පවිත්‍රතා ක්ෂේත්‍රයේ රැකියා අපේක්ෂිතයින් 969 දෙනෙකු නැවතත් ලොතරැයි ක්‍රමයට ඇතුළත් කරන ලදී. ඒ අනුව සිදුකරන ලද ලොතරැයි ක්‍රමය යටතේ එම 969 දෙනා අතුරින් 562 කු රැකියා සඳහා තෝරාගෙන ඇති බව ඊශ්‍රායල් PIBA ආයතනය විසින් කාර්යාංශයට දැනුම් දී තිබේ. එම 562 දෙනා අතුරින් 518 දෙනෙකු පිරිමි අපේක්ෂකයින් වන අතර, 44 දෙනෙකු කාන්තා අපේක්ෂිකාවන් වේ.
+
+...
+
+[Data](articles/09e1bcf4.json)
 
 ---
 
@@ -1840,205 +2014,5 @@ The central BJP government has done nothing to the issue of fishermen arrested b
 [Data](articles/ee509708.json)
 
 [Extended Data](ext_articles/ee509708.ext.json)
-
----
-
-### Accident at Tanamalwila - Wellawaya Road; One kills; 6 people injured!
-
-*2025-10-03 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226758) · `ta`
-
-Tanamalwila police said that one person was killed and six others were injured in an accident near the 288th milestone on the Tanamalwila -Wellawaya road.
-
-The accident occurred when a van crashed into a nearby tree, police said.
-
-A van who was traveling from the Tanamalwila area to Wellavai, the police said.
-
-◼️
-
-[Data](articles/825b8451.json)
-
-[Extended Data](ext_articles/825b8451.ext.json)
-
----
-
-### 8,429 crimes against children in the three last year
-
-*2025-10-03 10:29:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහගය-වසරතනද-ළමනට-එරහ-අපරධ-8-429ක/101-680678) · `si`
-
-The audit report issued by the National Audit Office, the National Audit Office has revealed that there were 8, 492 crimes of murder, murder, murder, murder and corruption.
-
-The Audit report states that crimes against children have increased significantly.
-
-During this period, sexual abuse of children was 4309. The Audit Report states that 54 children have been killed in the last three years.
-
-In the year 2021.2023, there were 2764 power crimes against children in the year, 2821.2023, according to the audit.
-
-This information is included in the Audit Report which is included in the performance report issued by the Police Department.
-
-◼️
-
-[Data](articles/2bcecd99.json)
-
-[Extended Data](ext_articles/2bcecd99.ext.json)
-
----
-
-### 8,429 crimes against children in the three last year
-
-*2025-10-03 10:29:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහගය-වසරතනද-ළමනට-එරහ-අපරධ-8-429ක/1-680678) · `si`
-
-The audit report issued by the National Audit Office, the National Audit Office has revealed that there were 8, 492 crimes of murder, murder, murder, murder and corruption.
-
-The Audit report states that crimes against children have increased significantly.
-
-During this period, sexual abuse of children was 4309. The Audit Report states that 54 children have been killed in the last three years.
-
-In the year 2021.2023, there were 2764 power crimes against children in the year, 2821.2023, according to the audit.
-
-This information is included in the Audit Report which is included in the performance report issued by the Police Department.
-
-◼️
-
-[Data](articles/beb4633f.json)
-
-[Extended Data](ext_articles/beb4633f.ext.json)
-
----
-
-### Highlights of agricultural export earnings in the first 8 months of the year
-
-*2025-10-03 10:27:56* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-මුල්-මාස-8දී-කෘෂිකර්ම-අපනයන-ආදායමේ-කැපී-පෙනෙන-වර්ධනයක්/11-418891) · `si`
-
-According to a report issued by the Central Bank of Sri Lanka, the agricultural export earnings of the country (2025) has increased 12.5 percent to 2,030.2 million in the first eight years.
-
-The Central Bank export earnings in the first eight year of 2024, coconut export earnings from 89 percent to $ 35 million from 89 million in the first eight year of 2024, coconut export earnings from 89 percent to $ 35 million from 35 percent to $ 282.6 million.
-
-However, seafood export earnings in this period was 1.6 percent to $ 161.9 million.
-
-◼️
-
-[Data](articles/0ff35698.json)
-
-[Extended Data](ext_articles/0ff35698.ext.json)
-
----
-
-### Thirteen tons of rice in 2024 increased to 131,000 tons of rice
-
-*2025-10-03 10:23:17* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-වී-නිශ්පාදනය-ඉහළ-ගියත්-හාල්-ටොන්-131000ක්-ආනයනය-කරලා/11-418890) · `si`
-
-The report on the last budget condition issued by the Ministry of Finance, Planning and Economic Development has been imported by the Sri Lanka Paddy in Sri Lanka last year (2024).
-
-The rice has been imported in the year 2023, according to the report, importing the rice in 2024 percent to 2023 compared to 2023.
-
-The production of Paddy was up to 2024 compared to 2023, but the production of the rice supply, which is large, and the manufacture of rice manufacturers in the same year, rice manufacturers, and the manufacture of the rice manufacturers, and the manufacture of market manufacturers. The government had to import.  The government spent 36 billion rupees to provide fertilizer subsidy in 2024.
-
-◼️
-
-[Data](articles/98ab2786.json)
-
-[Extended Data](ext_articles/98ab2786.ext.json)
-
----
-
-### மோட்டார் சைக்கிள் விபத்தில் காயமடைந்து சிகிச்சை பெற்றுவந்த பெண் உயிரிழப்பு
-
-*2025-10-03 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226752) · `ta`
-
-A woman who was injured in a motorcycle accident on the Meeravodai school road belonging to the Valaichenai police division has died on Friday (3).
-
-A woman from Meeravodai - 5 Mather Sangam Road, who was accidentally received treatment at the Batticaloa Teaching Hospital, died without treatment.
-
-◼️
-
-[Data](articles/914571f7.json)
-
-[Extended Data](ext_articles/914571f7.ext.json)
-
----
-
-### Drone sightings disrupt Munich airport, halt flights and impact thousands
-
-*2025-10-03 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113175/drone-sightings-disrupt-munich-airport-halt-flights-and-impact-thousands) · `en`
-
-Germany’s Munich airport said early on Friday that drone sightings on Thursday evening had forced air traffic control to suspend operations, leading to the cancellation of 17 flights and disrupting travel for nearly 3,000 passengers.
-
-Another 15 arriving flights were diverted to Stuttgart, Nuremberg, Vienna and Frankfurt, the airport said in a statement, marking the latest drone disruption to European aviation after sightings temporarily shut airports in Denmark and Norway last week.
-
-German air traffic control officials restricted flight operations at Munich airport from 10:18 p.m. (2018 GMT) on Thursday and later suspended them altogether due to several drone sightings, the airport added.
-
-Flight tracking service Flightradar24 said the airport would remain closed until 0259 GMT, or 4:59 a.m. local time, on Friday.
-
-The first arriving flight on Friday is expected at 5:25 a.m., while the first departure is scheduled for 5:50 a.m., the airport’s website showed.
-
-...
-
-[Data](articles/2b8641be.json)
-
-[Extended Data](ext_articles/2b8641be.ext.json)
-
----
-
-### Navy bear in custody
-
-*2025-10-03 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215282) · `si`
-
-The Navy has arrested two suspects with a stock of gold.
-
-The suspects and gold have been arrested during a special search operation conducted in the Kalpitiya area in Kalpitiya.
-
-Navy seized 454 kilograms of gold in possession of the suspects.
-
-The Navy has also taken into custody a small boat used for the respective gold.
-
-The Colombo Navy said that the stock of gold had been taken to carry the stock of gold as lead in a formatic manner.
-
-The suspects are residents of Kalpitiya, Auction Estate and Anawitha areas.
-
-◼️
-
-[Data](articles/a994e709.json)
-
-[Extended Data](ext_articles/a994e709.ext.json)
-
----
-
-### Government can confiscate illegal assets - Ranga Dissanayake
-
-*2025-10-03 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226755) · `ta`
-
-Director General of the Bribery and Corruption Commission, Ranga Dissanayake has said that investigations are underway into illegal luxury and housing, which has been illegally concentrated by politicians and state officials under the new law to confiscate illegal assets.
-
-According to this law, the government can confiscate them if the owners fail to justify their assets, if they are not.
-
-Accordingly, the owners of the property must demonstrate legitimate sources of their assets. Ranga Dissanayake, Director General of the Bribery or Corruption Commission, said that if not punished, the property would be lost.
-
-◼️
-
-[Data](articles/ac2ac264.json)
-
-[Extended Data](ext_articles/ac2ac264.ext.json)
-
----
-
-### Hollywood actor's name
-
-*2025-10-03 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/226756) · `ta`
-
-A 70 -year -old grandmother from Cambridgeshire, England, who introduced himself as Hollywood actor Jason Momoa, has been caught in a romantic fraud and has lost about Rs 6 crore.
-
-A 70 -year -old grandmother from Cambridge, England made his debut by online. The person used to call himself a famous American Hollywood actor Jason Momoa.
-
-Also, the grandmother has said that he needs a life companion and that we can live together on a house on the island of Hawaii.. The elderly believed that the person's words were completely true.
-
-In this case, the man has asked that all his money has been paralyzed in film production and that he needs money immediately.. The grandmother, who believed in his words, sent the money whenever he asked.
-
-Unaware of the scam fell on the trap, the grandmother also sold the house where he lived and sent the man about Rs 6 crore (worth of British pounds).
-
-...
-
-[Data](articles/a3a5f2ef.json)
-
-[Extended Data](ext_articles/a3a5f2ef.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 01:20:12**
+As of **2025-10-04 00:52:14**
 
 ## Newspaper Stats
 
-*Scraped **80,972** Articles*
+*Scraped **80,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 576
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 740
-colombotelegraphcom | 808
+colombotelegraphcom | 807
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
-dailyftlk | 5,664
+dailyftlk | 5,653
 adalk | 7,771
-adaderanalk | 10,420
+adaderanalk | 10,416
 tamilmirrorlk | 12,037
 virakesarilk | 13,275
 adaderanasinhalalk | 13,929
@@ -27,229 +27,11 @@ adaderanasinhalalk | 13,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,961 (100.0%) of 80,972 articles have been extended.
+80,956 (100.0%) of 80,956 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2025-10-04 (Saturday)
-
-### President urges Maha Sangha’s guidance to restore moral fabric
-
-*2025-10-04 01:00:56* · [`dailyftlk`](https://www.ft.lk/news/President-urges-Maha-Sangha-s-guidance-to-restore-moral-fabric/56-782601) · `en`
-
-Presents Scroll of Appointment to new Anunayake of Asgiri Chapter Most Ven. Naranpanawe Ananda Thero
-
-Says rebuilding collapsed economy is possible, but restoring society suffering from moral degradation is far more difficult
-
-Notes cultural heritage, natural beauty and hospitality are its true assets to boost tourism, than short-term trends
-
-President Anura Kumara Disanayake yesterday called on the Maha Sangha to play a greater role in guiding the society through a period of deep moral and social crisis, stressing that the Government is committed to restoring values and dismantling what he described as a “parallel dark regime” of crime, drugs and illicit power.
-
-He made these remarks at the historic Magul Maduwa in Kandy, during the presentation of the Śrī Sannas Pathra (Scroll of Appointment) to the newly appointed Anunayake of the Asgiri Chapter of the Siyam Maha Nikaya, Most Venerable Naranpanawe Ananda Thero.
-
-...
-
-[Data](articles/51409517.json)
-
----
-
-### Former North-Central Province Governor’s hotel removed from tank reservation
-
-*2025-10-04 01:00:13* · [`dailyftlk`](https://www.ft.lk/news/Former-North-Central-Province-Governor-s-hotel-removed-from-tank-reservation/56-782600) · `en`
-
-A hotel owned by former North-Central Province Governor Maheepala Herath, located on the Peramiyankulama tank reservation, was demolished on the instructions of the Divisional Secretary as part of an ongoing effort to clear encroachments in the Anuradhapura district.
-
-Nuwaragama Palatha Divisional Secretary Sudarashana Disanayake confirmed the action, noting that a notice had been issued on 18 September to Ajantha Herath, the former Governor’s wife, directing the removal of the unauthorised structure.
-
-The Irrigation Department, supported by the Survey Department, is carrying out the Government’s program to demarcate tank reservations in the district and eliminate illegal constructions. Disanayake added that the survey of the Peramiyankulama tank reservation has now been completed.
-
-◼️
-
-[Data](articles/e43d3a51.json)
-
----
-
-### Depositors of the On Max DT pyramid investment scheme
-
-*2025-10-04 00:59:18* · [`dailyftlk`](https://www.ft.lk/news/Depositors-of-the-On-Max-DT-pyramid-investment-scheme/56-782599) · `en`
-
-Depositors of the On Max DT pyramid investment scheme held a peaceful protest in front of the Police Headquarters yesterday, demanding the immediate release of the refund program for the depositors who have been aggrieved by their investments – Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/8a4396cf.json)
-
----
-
-### HWPL World Peace Summit highlights global cooperation for sustainable peace
-
-*2025-10-04 00:58:32* · [`dailyftlk`](https://www.ft.lk/news/HWPL-World-Peace-Summit-highlights-global-cooperation-for-sustainable-peace/56-782598) · `en`
-
-Heavenly Culture, World Peace, Restoration of Light (HWPL), an international peace NGO, hosted the 11th HWPL World Peace Summit in Cheongju, gathering over 800 global leaders.
-
-The summit served as a platform for governments, international organisations, and civil society to share achievements and discuss future strategies for realising lasting peace.
-
-This year’s summit highlighted significant progress in three key areas. In the field of international law, HWPL’s Declaration of Peace and Cessation of War (DPCW) gained further momentum, with the Latin American and Caribbean Parliament (PARLATINO) and 16 national parliaments and government institutions officially adopting resolutions in support of the declaration.
-
-...
-
-[Data](articles/f009f545.json)
-
----
-
 ### 2025-10-03 (Friday)
-
-### Hayleys Travels wins Gold at South Asian Travel Awards 2025 as Leading Outbound Travel Agency
-
-*2025-10-03 23:59:03* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Travels-wins-Gold-at-South-Asian-Travel-Awards-2025-as-Leading-Outbound-Travel-Agency/34-782597) · `en`
-
-From left: Outbound Manager Belinda De Silva, Director Chamil Udawatte, Director/CEO Gerard Victoria, Director Shareek Ahmed, and Key Account Manager Manisha Siriwardena
-
-Hayleys Travels, a fully owned subsidiary of the Advantis Group, the transportation and logistics arm of Hayleys PLC, was honoured with the prestigious Gold Award for “Leading Travel Agency - Outbound” at the 9th South Asian Travel Awards (SATA) 2025, held recently at the Cinnamon Grand Colombo.
-
-The South Asian Travel Awards, recognised as the region’s premier platform celebrating excellence in tourism and hospitality, brought together industry leaders, tourism authorities, and partners from across South Asia. This year’s gala honoured 53 Gold and 113 Silver Award winners for excellence, innovation, and resilience.
-
-...
-
-[Data](articles/053d790c.json)
-
----
-
-### Rotary SME conclave positions boutique hotel SMEs as tourism revival catalysts
-
-*2025-10-03 23:57:37* · [`dailyftlk`](https://www.ft.lk/business/Rotary-SME-conclave-positions-boutique-hotel-SMEs-as-tourism-revival-catalysts/34-782596) · `en`
-
-Rotary Governor Delvin Pereira (third from left) explaining how boutique SMEs can play a pivotal role in shaping the country’s tourism identity
-
-The Rotary Club of Colombo East, in collaboration with Boutiques in Sri Lanka, successfully hosted the SME Conclave Boutique Hotel Development Workshop at the 80 Club in Colombo recently. This unique initiative brought together boutique hotel owners, service providers, and tourism SME suppliers and producers to explore new strategies, tools, and opportunities to strengthen Sri Lanka’s boutique tourism sector.
-
-The workshop offered comprehensive insights into driving business growth and achieving long-term sustainability, covering strategic approaches and innovative practices, to strengthen their operations, enhance competitiveness, and create lasting value. Each session addressed a vital dimension of modern hospitality management.
-
-...
-
-[Data](articles/395bc596.json)
-
----
-
-### Constitutional dictatorships – OR: is the era and ethos of ‘strongman’  governments gone for good? (1/4)
-
-*2025-10-03 23:42:16* · [`dailyftlk`](https://www.ft.lk/columns/Constitutional-dictatorships-OR-is-the-era-and-ethos-of-strongman-governments-gone-for-good-1-4/4-782589) · `en`
-
-The citizenry vote for political leaders in the hope that ‘this time’ there will be change for the better
-
-The ethos of Sri Lankan politics is such that political party leaders prefer to nominate candidates who will sweep the polls even if their ethics are questionable. In doing so, it entrenches the patron-client system in which government and citizenry are both complicit in the model of transactional politics whereby “political parties have become election and patronage machines”
-
-It has been a year since a new government voted in by the people of Sri Lanka brought the issue of types of political leadership into the forefront of reflective civics.
-
-In the dark years preceding this unprecedented regime change, the Aragalaya (‘people’s struggle’) critically engaged with a ‘strongman administration’ that promised much but delivered little. It also ended in ignominy despite the hype and hoopla of its apologists.
-
-...
-
-[Data](articles/6805c11a.json)
-
----
-
-### Fools, knaves and narratives
-
-*2025-10-03 23:38:44* · [`dailyftlk`](https://www.ft.lk/columns/Fools-knaves-and-narratives/4-782587) · `en`
-
-While these countries were transforming their economies rapidly, our ruling elite led us from one crisis to another
-
-By our basic nature, as well as ideology, we cannot claim to be a warrior race. True, there have been violent conflicts in our history, however relative to wars fought by other nations, ours appear more skirmishes than full blown wars. Wars fought against your own racial type, enemies of similar strength and disposition, could distort one’s assessment of the actual fighting prowess of an army
-
-“People don’t want to hear the truth, because they don’t want their illusions destroyed”
-
-Nepal is in flames; murder, arson, rape, looting; the once idyllic Himalayan country is now the picture of every human atrocity. Nature has blessed that land, man had failed it: corruption and incompetence doomed the realm.
-
-A story with an eerily familiar ring to us Sri Lankans, simmering frustrations of a people with nowhere to turn but violence.
-
-...
-
-[Data](articles/b34f3325.json)
-
----
-
-### Russian envoy speaks out at Pathfinder Foundation’s ‘Ambassador’s Roundtable’
-
-*2025-10-03 23:34:46* · [`dailyftlk`](https://www.ft.lk/opinion/Russian-envoy-speaks-out-at-Pathfinder-Foundation-s-Ambassador-s-Roundtable/14-782586) · `en`
-
-At the Ambassador’s Roundtable hosted by Pathfinder Foundation, the Ambassador of the Russian Federation to Sri Lanka and the Maldives, Levan S. Dzhagaryan, provided a comprehensive overview of his Government’s position on the ongoing conflict in Ukraine, NATO expansion, international law, global energy scenario and security dynamics in the region.
-
-The event brought together think tank experts and media professionals for a candid discussion on current geopolitical challenges, with a special focus on the Russia-Ukraine conflict.
-
-...
-
-[Data](articles/6a77a12d.json)
-
----
-
-### Alcohol and tobacco usage in SL decline, reveal latest surveys
-
-*2025-10-03 23:29:27* · [`dailyftlk`](https://www.ft.lk/opinion/Alcohol-and-tobacco-usage-in-SL-decline-reveal-latest-surveys/14-782584) · `en`
-
-Despite the overall decline, the survey highlights that young people remain a vulnerable group
-
-Youth say drinking alcohol a purposeless behaviour and smoking a useless behaviour
-
-Despite the positive trend in quitting, the survey emphasises the powerful role of social influence in starting to drink as a significant 46.6% of current consumers reported that their first experience with alcohol was with friends. This finding reveals the critical importance of addressing peer pressure in prevention efforts, especially for young people. Among current drinkers, 18.0% were between the ages of 15 and 21, indicating that a substantial number of young people are still initiating alcohol use. ADIC recommends implementing a national prevention program aimed specifically at children and youth to discourage them from starting in the first place
-
-Alcohol consumption in Sri Lanka has shown a decade-long downward trend, with a new 2024 survey revealing that fewer than 30% of men are current drinkers.
-
-...
-
-[Data](articles/41f9f24e.json)
-
----
-
-### Sri Lanka-born strategist Prof. Patrick Mendis to meet corporate and national leaders
-
-*2025-10-03 23:27:05* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-born-strategist-Prof-Patrick-Mendis-to-meet-corporate-and-national-leaders/4-782583) · `en`
-
-While serving as the founding chairman of the Educate Lanka Foundation, Prof. Mendis also established scholarships for students in Sri Lanka and provided microloans to entrepreneurs in more than 50 countries. He also served as an advisor and contributor to “The Encyclopedia of the Sri Lankan Diaspora,” a multiyear project of the National University of Singapore. In recognition of his service to the motherland, the Sri Lanka Foundation in Los Angeles honoured him with its Lifetime Achievement Award
-
-Prof. Patrick Mendis, a distinguished alumnus of the University of Sri Jayewardenepura (USJ), has served in the US government, the World Bank, and the United Nations, as well as the Sri Lankan Government, corporate, and philanthropic sectors.
-
-...
-
-[Data](articles/08293da8.json)
-
----
-
-### Sri Lanka establishes diplomatic relations with Antigua and Barbuda
-
-*2025-10-03 23:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113197/sri-lanka-establishes-diplomatic-relations-with-antigua-and-barbuda) · `en`
-
-The Government of Sri Lanka and the Government of Antigua and Barbuda have established Diplomatic Relations between the two countries with immediate effect, upon the signing of the agreement on Friday (03).
-
-The relevant agreement was signed by Ambassador of Sri Lanka to the United States of America Mahinda Samarasinghe and Ambassador of Antigua and Barbuda to the United States of America Sir Ronald Sanders in Washington D.C.
-
-The establishment of diplomatic relations between Sri Lanka and Antigua and Barbuda will enhance the existing friendly relations and cooperation in the political, socio-economic and cultural spheres for the mutual benefit of the two countries, the two foreign ministries said in a joint formal announcement.
-
-◼️
-
-[Data](articles/e91e339c.json)
-
-[Extended Data](ext_articles/e91e339c.ext.json)
-
----
-
-### USS Fitzgerald makes port call in Colombo
-
-*2025-10-03 22:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113196/uss-fitzgerald-makes-port-call-in-colombo) · `en`
-
-USS Fitzgerald (DDG 62) of the United States Navy arrived at the port of Colombo on replenishment purposes this morning (03).
-
-The Sri Lanka Navy welcomed the visiting ship in compliance with naval traditions.
-
-The 154 m–long Destroyer is commanded by Commander Paul Richardson and following the fulfillment of replenishments, the ship will depart the island, the Sri Lanka Navy said.
-
-◼️
-
-[Data](articles/05ec4757.json)
-
-[Extended Data](ext_articles/05ec4757.ext.json)
-
----
 
 ### We are going to intensify the union struggle that works legally - the Ceylon Electricity Board Engineers Association
 
@@ -493,30 +275,6 @@ When the Chunnakam police were investigating the matter, the student said this i
 
 ---
 
-### Trump sets Sunday night deadline for Hamas to back Gaza plan
-
-*2025-10-03 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/113195/trump-sets-sunday-night-deadline-for-hamas-to-back-gaza-plan) · `en`
-
-U.S. President Donald Trump gave Hamas until Sunday evening to reach a last-chance agreement on his plan for Gaza’s future or have “all Hell” break out against the Palestinian militants.
-
-“An agreement must be reached with Hamas by Sunday Evening at SIX (6) P.M., Washington, D.C. time,” Trump wrote Friday on social media.
-
-“Every Country has signed on! If this LAST CHANCE agreement is not reached, all HELL, like no one has ever seen before, will break out against Hamas.”
-
-Asked whether his group had finalised its response to Trump’s Gaza plan, a Hamas official told Reuters late on Thursday: “Not yet, intensive discussion is under way.”
-
-The official said Hamas had held talks with Arab mediators, Turkey and Palestinian factions to shape “the Palestinian response.”
-
-Trump had said on Tuesday he would give Hamas three to four days to accept the 20-point document, which calls on the group to disarm -- a demand it has previously rejected.
-
-...
-
-[Data](articles/4ffd810d.json)
-
-[Extended Data](ext_articles/4ffd810d.ext.json)
-
----
-
 ### Nepal chosen New Virdu
 
 *2025-10-03 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215310) · `si`
@@ -598,24 +356,6 @@ I would like to express my long -term concern over the continued occupation of t
 [Data](articles/dbfe88ed.json)
 
 [Extended Data](ext_articles/dbfe88ed.ext.json)
-
----
-
-### New laws not intended for personal gain; focus is common good – President
-
-*2025-10-03 20:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113194/new-laws-not-intended-for-personal-gain-focus-is-common-good-president) · `en`
-
-President Anura Kumara Dissanayake today offered a response to the joint letter by the Chief Prelates of the three Buddhist Chapters warning that the proposed Penal Code amendment criminalizing corporal punishment and alleged initiatives promoting LGBTQ-related tourism could undermine cultural values and trigger serious social crises.
-
-Speaking during the ceremony held in Kandy, to mark the presentation of the Scroll of Appointment (Śrī Sannas Pathra) to the Most Venerable Naranpanawe Ananda Nayake Thero, newly appointed Anunayake of the Asgiri Chapter of the Siyam Maha Nikaya, the head of state outlined the government’s position on the matter.
-
-He stated that during discussions on the tourism industry, it was emphasized that Sri Lanka’s 2,500-year-old historical heritage offers significant potential to strengthen this sector. Additionally, Sri Lanka’s natural beauty, its wildlife, and the hospitality of its people are crucial assets in promoting tourism, he said.
-
-...
-
-[Data](articles/4a9d1cd8.json)
-
-[Extended Data](ext_articles/4a9d1cd8.ext.json)
 
 ---
 
@@ -868,24 +608,6 @@ Ravi Karunanayake, MP Wickremesinghe and Sunil Rajapaksa and Nishantha Jayaweera
 [Data](articles/adffd110.json)
 
 [Extended Data](ext_articles/adffd110.ext.json)
-
----
-
-### Fools, Knaves & Narratives
-
-*2025-10-03 18:46:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/fools-knaves-narratives/) · `en`
-
-“People don’t want to hear the truth, because they don’t want their illusions destroyed” – Friedrich Nietzsche
-
-Nepal is in flames; murder, arson, rape, looting; the once idyllic Himalayan country is now the picture of every human atrocity. Nature has blessed that land, man had failed it: corruption and incompetence doomed the realm.
-
-A story with an eerily familiar ring to us Sri Lankans, simmering frustrations of a people with nowhere to turn but violence.
-
-...
-
-[Data](articles/e32bbe69.json)
-
-[Extended Data](ext_articles/e32bbe69.ext.json)
 
 ---
 
@@ -2058,5 +1780,311 @@ Speaking at the event, the Prime Minister praised the importance of this joint v
 [Data](articles/1a086b4e.json)
 
 [Extended Data](ext_articles/1a086b4e.ext.json)
+
+---
+
+### Government's response to controversy
+
+*2025-10-03 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226779) · `ta`
+
+The government does not need to degrade the country's culture, lower the quality and increase the number of tourists. No action will be taken by the government to improve the summons of the country in any way. Foreign, Foreign Employment and Tourism Minister Vijitha Herath said it was not the government's policy.
+
+The International Tourism Leadership Conference was held on Thursday (02) at the Bandaranaike Memorial International Conference Hall in Colombo under the patronage of President Anura Kumara Dissanayake.
+
+Minister Vijitha Herath said this while addressing the event.. He continued to address the event,
+
+Massive cooperation is available through the tourism industry to achieve our economic goal. Tourism revenues have crossed 2.2 billion this year.
+
+At the same time, the arrival of tourists has increased greatly. For the first time in history in September, the attendance of the highest number of tourists in September.
+
+...
+
+[Data](articles/4cf124c3.json)
+
+[Extended Data](ext_articles/4cf124c3.ext.json)
+
+---
+
+### Body Punishment of Children: Law is not allowed in Parliament;  Harshana Nanayakkara
+
+*2025-10-03 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226777) · `ta`
+
+Although there was a debate on the second reading of the Bill to amend the Penal Code (19th Chapter) Penally Punishment of Children's Physically Punishment.. Minister of Justice and National Integration Harshana Nanayakkara said that those who wish to submit amendments can be submitted during the Parliamentary Committee.
+
+The debate on the second reading of the Penal Code of Consumer amendment was held in Parliament on the 24th of last month.
+
+However, there was a debate on the second reading on the bill and it was compatible with the law.
+
+If the amendments to the Bill are obtained, the bill is not allowed because the criminal case should be amended in the law.
+
+Since the bill has not yet been approved, there is an opportunity to submit amendments to the Parliamentary Committee.
+
+We would like to point out that the amendment bill in the sentence of the prosecution of the child's physical punishment has not yet been enacted.
+
+◼️
+
+[Data](articles/c7a99e06.json)
+
+[Extended Data](ext_articles/c7a99e06.ext.json)
+
+---
+
+### Air and China joins air
+
+*2025-10-03 15:45:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-චීනය-ගුවනින්-යළි-එක්වෙයි/11-418902) · `si`
+
+According to India and China, India and China will resume direct flights between countries in this month, the Indian Foreign Ministry said.
+
+After 2020, the deadly Chinese and Indian Army was suspended between 2020 and the two countries
+
+However, over the past year, about taking steps to rebuild ties, including taking steps to relieve tensions on Delhi and Beijing borders.
+
+India's largest low-cost airline, IndiGo Airlines, said that direct flights would be restarted between Kolkata and Guangzu cities.
+
+◼️
+
+[Data](articles/e5ba8313.json)
+
+[Extended Data](ext_articles/e5ba8313.ext.json)
+
+---
+
+### All Share Price Index Reaches Record High
+
+*2025-10-03 15:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/all-share-price-index-reaches-record-high) · `en`
+
+COLOMBO (News 1st);The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) surpassed the 22,000-point mark for the fisrt time in history today.Accordingly, as of 12:00 PM today, the All Share Price Index stood at 22,057.58 points.This represents a gain of 108.39 units.
+
+◼️
+
+[Data](articles/c0deca43.json)
+
+[Extended Data](ext_articles/c0deca43.ext.json)
+
+---
+
+### National Diwali events at Attan;  Arrangement
+
+*2025-10-03 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226800) · `ta`
+
+Deputy Minister of Buddhist Society and Cultural Affairs Kamagedea Dissanayake said that this year's National Diwali events are being made to take place in the city of Attan and invite all parties to attend the national event.
+
+Speaking on Friday at the Attan Sri Manikkapillai Devasthanam Charitable Hall, he continued to address the National Events under the theme of ethnic, language, religious and religious Sri Lankans.
+
+Our government is making arrangements to observe the event called Sri Lanka's Day. There are probably the opportunity to celebrate the upcoming December.
+
+We observed National Poson Day in Nuwara Eliya.   It must be said that the Tamil and Muslim community participated in the event and express their unity. Similarly, we chose Hatton City to celebrate the Tamil festival of Diwali as an international festival.
+
+...
+
+[Data](articles/a891193f.json)
+
+[Extended Data](ext_articles/a891193f.ext.json)
+
+---
+
+### ICAO Agrees To Support Local Airports
+
+*2025-10-03 15:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/icao-agrees-to-support-local-airports) · `en`
+
+COLOMBO (News 1st); The International Civil Aviation Organization (ICAO) has agreed to provide support for the development of local airports in the country.This agreement was reached during discussions between the Sri Lankan delegation and the ICAO Secretary-General, held on the sidelines of the organization's 42nd Triennial Assembly.The assembly is currently taking place in Montreal, Canada, with the participation of representatives from 183 countries.Sri Lanka is being represented at the assembly by a delegation that includes Deputy Minister of Ports and Civil Aviation Ruwan Kodithuwakku.The Deputy Minister stated that the International Civil Aviation Organization also agreed to provide solutions to wildlife issues at the Mattala Airport.
+
+◼️
+
+[Data](articles/701d9866.json)
+
+[Extended Data](ext_articles/701d9866.ext.json)
+
+---
+
+### Ananda Harvana of Ven. Narampana presents SLAF
+
+*2025-10-03 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215297) · `si`
+
+President Anura Kumara Dissanayake presented the communication to Anunanda Thero, who was appointed as the new Syam Maha Nikaya.
+
+It was at the historical wedge in the Sri Dalada Maliga premises in Kandy.
+
+Rev. Anamaduwa Dhammandawasawessa Thero, Vacant Anamaduwa Dhamma Dhammadavasa Thero, was agreed to the Vacant Analai Sangamadiya.
+
+◼️
+
+[Data](articles/a14bb4bd.json)
+
+[Extended Data](ext_articles/a14bb4bd.ext.json)
+
+---
+
+### President visits Malwath and Asgiriya Teen
+
+*2025-10-03 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215296) · `si`
+
+President Anura Kumara Dissanayake visited the Galwatte and Asgiri Party of the Asgiriya Chapter today (03).
+
+First, the President arrived at the Malwathu Maha Viharaya, Malwathu Maha Vidyalaya, Vitabuwe Sri Sumangala Leader of the Sri Sumangala Thero.
+
+The President also visited the Asgiriya Maha Viharaya and the Sri Gnanarathana captain of the Asgiriya Chapter.
+
+◼️
+
+[Data](articles/217ec3b8.json)
+
+[Extended Data](ext_articles/217ec3b8.ext.json)
+
+---
+
+### Advisory issued for severe lightning
+
+*2025-10-03 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113187/advisory-issued-for-severe-lightning) · `en`
+
+An ‘Amber’ advisory has been issued by the Department of Meteorology for severe lightning in several provinces and districts.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in the North-central, Eastern, and Uva provinces and in Vavuniya and Mullaittivu districts, the department stated.
+
+There may be temporary localized strong winds during thundershowers, it added.
+
+Accordingly, the general public has been requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public has also been requested to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, and also to refrain from using wired telephones and connected electric appliances during thunderstorms.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/496cd1a5.json)
+
+[Extended Data](ext_articles/496cd1a5.ext.json)
+
+---
+
+### Stock market overall Price Index exceeds of 22000 units
+
+*2025-10-03 15:22:41* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-සමස්ත-මිල-දර්ශකය-ඒකක-22000-ඉක්මවයි/11-418901) · `si`
+
+The overall price index in the Colombo Stock Exchange won a significant milestone, reporting a value of 22000 units.
+
+Accordingly the overall price index rose 0.6 percent to this day. The market turnover was reportedly a tremendous value of Rs. 9.7 billion.
+
+◼️
+
+[Data](articles/ceb5973e.json)
+
+[Extended Data](ext_articles/ceb5973e.ext.json)
+
+---
+
+### Mother imprisoned 16 -year -old daughter with an iron rod  - Batticaloa High Court verdict
+
+*2025-10-03 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226796) · `ta`
+
+Batticaloa High Court Judge TJ Prabhakaran has sentenced a 45 -year -old mother tortured torture tortured by an iron rod in Batticaloa.
+
+Accordingly, the victim was sentenced to 2 years of imprisonment for a 2 -year prison sentence for a crime of a man who was proven to be a criminal, and the victim was sentenced to 10 years of imprisonment for a five -year sentence for three crimes and 30 years of imprisonment for 30 years and 15 thousand rupees.
+
+On November 21, 2009, the girl's mother was arrested, jailed, and later released on bail on charges of being attacked and tortured by an iron river in the hands of her daughter on November 21, 2009.
+
+The case has been revealed against him and the case has been revealed on July 12, 2017, with the case of the Magistrate's Court and the case is being held on July 12, 2017.
+
+...
+
+[Data](articles/9179a657.json)
+
+[Extended Data](ext_articles/9179a657.ext.json)
+
+---
+
+### Tipper vehicle - van collision accident; 5 people injured!
+
+*2025-10-03 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226795) · `ta`
+
+Five people were injured in an accident near the Minneriya police station on the Polonnaruwa - Habarana road, police said.
+
+The accident occurred when a tipper vehicle and van collided with each other, police said.
+
+Five people were injured in the accident during the accident, police said.
+
+◼️
+
+[Data](articles/eacd3902.json)
+
+[Extended Data](ext_articles/eacd3902.ext.json)
+
+---
+
+### President Anura Kumara presents ‘Sannas Pathra’ to new Asgiri Anunayake Thero
+
+*2025-10-03 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/113186/president-anura-kumara-presents-sannas-pathra-to-new-asgiri-anunayake-thero-) · `en`
+
+President Anura Kumara Dissanayake has officially presented the Sannas Pathra (letter of appointment) to the newly appointed Anunayake Thero of the Asgiri Chapter of the Siam Maha Nikaya, Most Venerable Narampanawe Ananda Thero, at the historic ‘Magul Maduwa’ on the premises of the Temple of the Sacred Tooth Relic in Kandy.
+
+President Dissanayake presented the ‘Sannas Pathra’ during the ceremony to officially confer ‘Sri Sannas Patra’ to Most Ven. Narampanawe Ananda Thero.
+
+◼️
+
+[Data](articles/3fd50e4c.json)
+
+[Extended Data](ext_articles/3fd50e4c.ext.json)
+
+---
+
+### 3,264 people arrested with drugs in the last 7 days
+
+*2025-10-03 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226791) · `ta`
+
+According to the police media unit, 3,264 people have been arrested during a special roundup of the country from September 26 to October 02.
+
+Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
+
+During the special surrounding operation, 1045 people were arrested with heroin, 1149 with ice drugs, 35 with hash drug, 910 with cannabis, 32 with cannabis plants, 76 with drugs and 17 illegal cigarettes.
+
+Meanwhile, 01 kg 836 g 082 milligrams of heroin, 02 kg 074 g 786 milligram of ice, 33 kg 38 g 581 milligram hash and 12 kg 314 g 148 mg of cannabis during this special circulation operation, and 98 g (148 gm 148 ml) 7881 drug pills and 2221 illegal cigarettes have been seized, the Police Media Unit said.
+
+◼️
+
+[Data](articles/044edf01.json)
+
+[Extended Data](ext_articles/044edf01.ext.json)
+
+---
+
+### New Process To Investigate Institutions Under Purview Of COPE
+
+*2025-10-03 15:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/new-process-to-investigate-institutions-under-purview-of-cope) · `en`
+
+COLOMBO (News 1st); The introduction of a new process has been planned to investigate state institutions that come under the purview of the Committee on Public Enterprises.COPE Committee Chairman, MP Dr. Nishantha Samaraweera, says future action on these institutions will be taken based on the answers provided to a questionnaire that will be sent to the relevant institutions, in line with recommendations in the audit reports.The number of state institutions investigated by the COPE Committee is 457.Currently, the committee summons these institutions for investigations on a random basis.
+
+◼️
+
+[Data](articles/8c0c196e.json)
+
+[Extended Data](ext_articles/8c0c196e.ext.json)
+
+---
+
+### Mom and son, the home plundered
+
+*2025-10-03 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215295) · `si`
+
+Along with his son, the Bemmulla Police has arrested two persons who were engaged in a racket of the home robbery.
+
+The woman has used a robbery team that leads his son to his son and engaged in racket.
+
+The police will be able to capture these rackets following a robbery conducted by a robbery in the Bmmulla area.
+
+The woman had served at the institution providing employment to the houses in Negombo and has come to the Bemmulla house.
+
+The robbery is then joined in the night car together with the robbery and has been abducted in jewelery over Rs.
+
+The arrested mother-second residents of Hanguranketha area, while the Bummulla Police were arrested for 24 hours.
+
+The jewelery that they had stolen and 3 grams of heroin were taken into custody.
+
+It has been revealed that the robbery had committed about 10 robbers of the country, and the woman's son was a person who was released on bail.
+
+◼️
+
+[Data](articles/770cf7e1.json)
+
+[Extended Data](ext_articles/770cf7e1.ext.json)
 
 ---

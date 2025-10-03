@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 22:37:06**
+As of **2025-10-03 22:54:22**
 
 ## Newspaper Stats
 
@@ -27,45 +27,49 @@ adaderanasinhalalk | 13,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,948 (100.0%) of 80,950 articles have been extended.
+80,950 (100.0%) of 80,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
 
-### இலங்கை மக்களுக்கு அவசர செய்தி
+### Emergency news to the people of Sri Lanka
 
 *2025-10-03 22:16:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மக்களுக்கு-அவசர-செய்தி/175-365698) · `ta`
 
-விஷ போதைப்பொருள் தொடர்பான தகவல்களை வழங்க பொதுமக்களுக்கு புதிய தொலைபேசி இலக்கங்களை பொலிஸார் அறிமுகப்படுத்தியுள்ளன.
+Police have introduced new telephone numbers to the public to provide information on poisonous drugs.
 
-அதன்படி, நாட்டின் பல்வேறு பகுதிகளில் பரவலாக காணப்படும் ஹெரோயின், ஐஸ், கோக்கேன் மற்றும் கஞ்சா உள்ளிட்ட போதைப்பொருள் தொடர்பான தகவல்களை, பொதுமக்கள் இந்த இலக்கங்கள் மூலம் நேரடியாக அறிவிக்கலாம்.
+Accordingly, the public can directly announce drug information, including heroin, ice, cocaine and cannabis, which are widely found in different parts of the country.
 
-இன்று (03) முதல், சிரேஷ்ட பொலிஸ்மா அதிபர்களின் கீழ் உள்ள மாவட்டங்களுக்குப் பொறுப்பான பிரதி பொலிஸ் மா அதிபர்கள் மற்றும் பிரிவுகளுக்குப் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களின் பின்வரும் தொலைபேசி இலக்கங்களுக்கு அத்தகைய தகவல்களை வழங்கலாம் என பொலிஸ் தெரிவித்துள்ளது.
+From today, the following telephone numbers of the Senior Superintendent of Police in charge of the districts of the districts under the Senior Police Principals can provide such information to the following telephone numbers.
 
 ◼️
 
 [Data](articles/61e88d1a.json)
 
+[Extended Data](ext_articles/61e88d1a.ext.json)
+
 ---
 
-### யாழில் மாடியில் இருந்து குதித்த மாணவி
+### Student
 
 *2025-10-03 22:08:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மாடியில்-இருந்து-குதித்த-மாணவி/71-365697) · `ta`
 
-யாழ்ப்பாணம் - உடுவில் மகளிர் கல்லூரியில் கல்வி பயிலும் மாணவி ஒருவர் நேற்று 2வது மாடியில் இருந்து குதித்து படுகாயமடைந்துள்ளார்.
+A student from Uduvil Women's College, Jaffna, was injured from the 2nd floor yesterday.
 
-விளையாட்டு ஒன்றில் முதலிடம் பெற்றதால் அவரது வகுப்பு மாணவிகள் அவரிமிருந்து விலகி இருந்துள்ளனர்.
+His class students have been away from her.
 
-முல்லைத்தீவை சேர்ந்த 14 வயதுடைய குறித்த மாணவி உடுவில் மகளிர் கல்லூரியின் மாணவிகள் விடுதியில் கடந்த ஒரு வருட காலமாக தங்கி நின்று கற்றல் நடவடிக்கைகளில் ஈடுபட்டு வருகின்றார்.
+A 14 -year -old student from Mullaitivu has been staying at the Uduvil Ladies College and has been staying at the hostel for the past one year.
 
-இந்நிலையில் அவர் விளையாட்டு ஒன்றில் பங்குபற்றி முதலிடம் பெற்றுள்ளார். இதனால் அவரது வகுப்பு மாணவிகள் அவரிடம் இருந்து விலகி இருந்தனர். இதன் காரணமாக மனமுடைந்த மாணவி விடுதியின் இரண்டாவது மாடியில் இருந்து கீழே குதித்ததால் காலில் படுகாயம் ஏற்பட்டுள்ளது.
+In this case, he has participated in a game. Thus his classmates were away from him. As a result of this, the student jumped down the second floor of the hostel and was injured.
 
-இது தொடர்பாக சுன்னாகம் பொலிஸார் விசாரணைகளை மேற்கொண்ட போது தனது வாக்குமூலத்தில் குறித்த மாணவி இதனை தெரிவித்துள்ளார்.
+When the Chunnakam police were investigating the matter, the student said this in her affidavit.
 
 ◼️
 
 [Data](articles/2249fc62.json)
+
+[Extended Data](ext_articles/2249fc62.ext.json)
 
 ---
 

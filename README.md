@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 15:20:04**
+As of **2025-10-03 14:55:41**
 
 ## Newspaper Stats
 
-*Scraped **80,842** Articles*
+*Scraped **80,825** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 569
+newsfirstlk | 568
 dbsjeyarajcom | 637
-lankadeepalk | 717
+lankadeepalk | 713
 bbccomsinhala | 723
 colombotelegraphcom | 805
 dailymirrorlk | 4,733
@@ -18,186 +18,20 @@ economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,653
 adalk | 7,764
-adaderanalk | 10,408
-tamilmirrorlk | 12,035
-virakesarilk | 13,232
-adaderanasinhalalk | 13,908
+adaderanalk | 10,406
+tamilmirrorlk | 12,034
+virakesarilk | 13,226
+adaderanasinhalalk | 13,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,744 (99.9%) of 80,842 articles have been extended.
+80,721 (99.9%) of 80,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
-
-### மூதூரில் நாளை நீர் வெட்டு!
-
-*2025-10-03 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226790) · `ta`
-
-நீர் பாசன வடிகாலமைப்பு சபை  சில பகுதிகளில் அவசர திருத்த வேலை மேற்கொள்ளவிருப்பதால் நாளை சனிக்கிழமை (4) காலை 8 மணி முதல் மாலை 4 மணி வரை மூதூர் மற்றும் அதைச் சூழ்ந்துள்ள பல பகுதிகளில் குடிநீர் விநியோகம் தற்காலிகமாக நிறுத்தப்படும் என அறிவிக்கப்பட்டுள்ளது.
-
-இந்த காலப்பகுதியில் மக்கள் தேவையான அளவு தண்ணீரை முன்கூட்டியே சேமித்து வைத்துக்கொள்ளுமாறு நீர் பாசன வடிகாலமைப்பு சபை கேட்டுக்கொண்டுள்ளது.
-
-மேலும், திருத்தப் பணிகள் முடிவடைந்தவுடன் உடனடியாக நீர் விநியோகம் வழமைக்கு திரும்பும் என்றும் அறிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/098d21b2.json)
-
----
-
-### பாடசாலைக்கு படை எடுக்கும் நரிகள்
-
-*2025-10-03 14:51:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலைக்கு-படை-எடுக்கும்-நரிகள்/76-365696) · `ta`
-
-ஹட்டன் வலயக் கல்வி அலுவலகத்தின் கட்டுப்பாட்டில் உள்ள ஹட்டன் ஹைலண்ட்ஸ் ஆரம்ப பாடசாலையின்   விளையாட்டு மைதானத்திற்கு அருகில் அதிக எண்ணிக்கையிலான நரிகள் சுற்றித் திரிவதால் மாணவர்களும் ஆசிரியர்களும் கடும் சிரமத்தை எதிர்கொண்டுள்ளனர்.
-
-நரிகள்  காலையில் விளையாட்டு மைதானத்திற்கு அருகில் வருவதாகவும், தற்போதைய சூழ்நிலை காரணமாக, குழந்தைகள் விளையாட்டு மைதானத்தில் விளையாடக்கூட முடியாத நிலை இருப்பதாகவும் கூறுகின்றனர்.
-
-பாடசாலைக்கு அருகில் சுற்றித் திரியும் நரிகளின் கூட்டத்தைப் பிடித்து, வேறு பொருத்தமான இடத்திற்கு கொண்டு சென்று விடுவிக்குமாறு சம்பந்தப்பட்ட அதிகாரிகளிடம் பாடசாலை நிர்வாகத்தினர் கோரிக்கை விடுத்துள்ளனர். R
-
-◼️
-
-[Data](articles/61ba830e.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2025-10-03 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226789) · `ta`
-
-இலங்கை மத்திய வங்கி இன்றைய தினம் வெள்ளிக்கிழமை (3) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 306.2675  ரூபாயாகவும் கொள்வனவு விலை 298.7693 ரூபாயாகவும் பதிவாகியுள்ளது.
-
-அதைப்போன்று ஸ்ரேலிங் பவுண்ட் ஒன்றின் விற்பனை விலை 412.8560  ரூபாய் மற்றும் கொள்வனவு விலை 400.2464  ரூபாயாகும்.
-
-யூரோ ஒன்றின் விற்பனை விலை 360.4209  ரூபாய் எனவும் கொள்வனவு விலை 348.9376  ரூபாய் எனவும் குறிப்பிடப்பட்டுள்ளது.
-
-அதன்படி, ஏனைய வெளிநாட்டு நாணய மாற்று விகிதங்கள் தொடர்பாக இன்று (03.10.2025) மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள தகவல்கள் கீழே தரப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/ca93cb80.json)
-
----
-
-### Sri Lanka Launches Stakeholder Consultations for National Export Development Plan 2025-2029
-
-*2025-10-03 14:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/sri-lanka-launches-stakeholder-consultations-for-national-export-development-plan-2025-2029) · `en`
-
-...
-
-[Data](articles/b748d906.json)
-
-[Extended Data](ext_articles/b748d906.ext.json)
-
----
-
-### An announcement of the weather
-
-*2025-10-03 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215293) · `si`
-
-The Meteorological Department has issued an announcement of strong lightning.
-
-Accordingly, strong lightning in the North Central, Eastern, Uva and Vavuniya and the Vavuniya of the Mullaitivu Districts have been reported.
-
-At times of thundershowers, temporary strong winds are also available in those areas.
-
-The Department of Meteorology also further informed the meteorological department to take measures to reduce lightning accidents.
-
-◼️
-
-[Data](articles/5f0e3339.json)
-
-[Extended Data](ext_articles/5f0e3339.ext.json)
-
----
-
-### பிளாஸ்டிக், குழந்தைகளுக்கு பாலூட்டும் போத்தல்கள் குறித்து விசேட வர்த்தமானி வெளியீடு
-
-*2025-10-03 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226786) · `ta`
-
-இலங்கையில் மீண்டும் பயன்படுத்தக்கூடிய பிளாஸ்டிக் போத்தல்கள் மற்றும் பொலிமர் (polymer-based) அடிப்படையிலான குழந்தைகளுக்கு பாலூட்டும் போத்தல்கள் அனைத்தும் 2026 ஏப்ரல் 1 முதல் இலங்கை தர நிர்ணயச் சான்றிதழை கட்டாயம் கொண்டிருக்க வேண்டும் என்று நுகர்வோர் அலுவல்கள் அதிகார சபை அறிவித்துள்ளது.
-
-கடந்த முதலாம் திகதி வெளியிடப்பட்ட அதிவிசேட வர்த்தமானியின்படி, உற்பத்தியாளர்கள், இறக்குமதியாளர்கள், விநியோகத்தர்கள் மற்றும் வர்த்தகர்கள், தேவையான எஸ்.எல்.எஸ். தரநிலைகளை பூர்த்தி செய்து, உத்தியோகபூர்வ சான்றிதழ் அடையாளத்தைக் காண்பிக்காத பட்சத்தில், அத்தகைய போத்தல்களை உற்பத்தி செய்தல், இறக்குமதி செய்தல், கொண்டு செல்லுதல், சேமித்து வைத்தல் அல்லது விற்பனை செய்தல் ஆகியவை தடை செய்யப்பட்டுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
-
-...
-
-[Data](articles/520393f6.json)
-
----
-
-### மதுபோதையில் வாகனங்களை செலுத்திய 35 சாரதிகள் கைது!
-
-*2025-10-03 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226787) · `ta`
-
-நாடளாவிய ரீதியில் நேற்று வியாழக்கிழமை (02) மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது மதுபோதையில் வாகனங்களை செலுத்தியமை தொடர்பில் 35 சாரதிகள் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-பொலிஸ் அதிகாரிகள், இராணுவ வீரர்கள், பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் கடற்படையினர் ஆகியோர் இணைந்து இந்த சுற்றிவளைப்பு நடவடிக்கையை மேற்கொண்டுள்ளனர்.
-
-இதேவேளை, இந்த விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது, பல்வேறு குற்றச் செயல்கள் தொடர்பில் ஆதாரங்களுடன் 626 பேரும், சந்தேகத்தின் பேரில் 13 பேரும், பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 246 பேரும், திறந்த பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 172 பேரும், கவனக்குறைவாக வாகனங்களை செலுத்தியமை தொடர்பில் 19 சாரதிகளும், ஏனைய போக்குவரத்து விதிமுறைகளை மீறியமை தொடர்பில் 4142 பேரும் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/0ad5e3c2.json)
-
----
-
-### மட்டக்களப்பு கல்லடியில் கசிப்புடன் வியாபாரி கைது!
-
-*2025-10-03 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226785) · `ta`
-
-மட்டக்களப்பு கல்லடி பிரதேசத்தில் இயங்கிவந்த கசிப்பு வியாபார நிலையத்தை சுற்றிவளைத்தபோது, புதன்கிழமை (1) இரவு கசிப்பு வியாபாரி ஒருவர் 52 லீற்றர் கசிப்புடன் கைது செய்யப்பட்டுள்ளார்.
-
-மட்டக்களப்பு தலைமையக பொலிஸாருக்கு கிடைத்த தகவலையடுத்து இரவு தலைமையக பொலிஸ் நிலைய போதை ஒழிப்புப் பிரிவு பொலிஸார் கல்லடி நாகதம்பிரான் வீதியில் வீடொன்றினை சுற்றிவளைத்து முற்றுகையிட்டனர்.
-
-இதன்போது அங்கு வியாபாரத்தில் ஈடுபட்டுக்கொண்டிருந்த ஆண் வியாபாரி ஒருவரை கைது செய்ததுடன் 52 லீற்றர் கசிப்பு கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மேலும், கைது செய்யப்பட்டவரை நேற்று வியாழக்கிழமை (2) மட்டக்களப்பு நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தியதையடுத்து அவரை 14 நாட்கள் விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
-
-◼️
-
-[Data](articles/19e2bba8.json)
-
----
-
-### Fire breaks out at Chevron’s El Segundo refinery in Los Angeles
-
-*2025-10-03 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/113184/fire-breaks-out-at-chevrons-el-segundo-refinery-in-los-angeles) · `en`
-
-A fire broke out at Chevron’s El Segundo refinery, one of the largest on the U.S. west coast, California Governor Gavin Newsom’s press office said on Thursday, with a county official adding that the flames had been confined to one area.
-
-The cause of the blaze was not clear, the Los Angeles Times said, while broadcaster CBS said officers and firefighters rushed to the refinery in Los Angeles county after reports of an explosion.
-
-“Our office is coordinating with local and state agencies to ... ensure public safety,” Newsom’s press office said on X.
-
-CBS cited police as saying they were not aware of any immediate injuries or evacuations, adding that Los Angeles county supervisor Holly Mitchell had said crews contained the fire to one area of the refinery.
-
-In a regulatory filing, the U.S. energy major also reported emergency flaring at El Segundo.
-
-...
-
-[Data](articles/35ec2ace.json)
-
----
-
-### “கெஹெல்பத்தர பத்மே”வுக்கு சொந்தமான பொருட்கள் கைப்பற்றல்!
-
-*2025-10-03 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226783) · `ta`
-
-தற்போது பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ள பாதாள உலக கும்பலைச் சேர்ந்த “கெஹெல்பத்தர பத்மே” என்பவருக்குச் சொந்தமான மய்கோ ரக துப்பாக்கி மற்றும் மகசீன் கைப்பற்றப்பட்டுள்ளதாக குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-இந்தோனேசியாவில் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் மற்றும் இந்தோனேசியா பொலிஸாரால் 7 நாட்களாக மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது “கெஹெல்பத்தர பத்மே”, “கொமாண்டோ சலிந்த” மற்றும் “பாணந்துறை நிலங்க” உள்ளிட்ட 6 பேர் அடங்கிய பாதாள உலக கும்பல் ஆகஸ்ட் மாதம் 27 ஆம் திகதி கைதுசெய்யப்பட்டது.
-
-இவ்வாறு கைதுசெய்யப்பட்ட  பாதாள உலக கும்பலில் இருந்த “பக்கோ சமனின்” மனைவி ஆகஸ்ட் 29 ஆம் திகதி கட்டுநாயக்க விமான நிலையத்திற்கு அனுப்பி வைக்கப்பட்ட நிலையில் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைதுசெய்யப்பட்டு பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டதையடுத்து தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-...
-
-[Data](articles/e7df3c69.json)
-
----
 
 ### Doctors need to adjust the signature: Court
 
@@ -256,92 +90,6 @@ Now hold a fair investigation. It's justice to the soul of Thajudin.
 [Data](articles/994dd5d1.json)
 
 [Extended Data](ext_articles/994dd5d1.ext.json)
-
----
-
-### Namal asks for the Spirit's soul
-
-*2025-10-03 13:56:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නමල-තජදනග-ආතමයට-සධරණයක-ඉලලය/101-680695) · `si`
-
-Namal Rajapaksa requested the government to hold a fair investigation and justice to the cosmetic soul.
-
-Namal Rajapaksa said, "The government is using false evidence.
-
-It is not the key to the government to go to the government. The police requested to protect the dignity.
-
-The cosmetry went to make false evidence. Twenty-four hours, the media staged the media.
-
-Now hold a fair investigation. ඒක තාජුඩින්ගේ ආත්මයට කරන සාධාරණයක්.
-
-◼️
-
-[Data](articles/1646e313.json)
-
-[Extended Data](ext_articles/1646e313.ext.json)
-
----
-
-### America's largest oil refinery fire
-
-*2025-10-03 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215292) · `si`
-
-A large fire in the Chevring Refinery of Angeles, a largest oil refinery in the US western coast, has broken the largest oil refinery.
-
-Foreign media reports that the flames of the oil refinery appear in the sky.
-
-The cause of the fire is yet to be revealed, and the report on an explosion has come to the refrigency and commences fire to the refrigency.
-
-However, the public security has no immediate threat, but the people have been informed to stay indoors.
-
-The refinery covers approximately 3.9 square kilometers and there is more than 1,770 km long roads.
-
-Since 1911, the refinement of 290,000 barrels of crude daily can be refined.
-
-◼️
-
-[Data](articles/edbc02c1.json)
-
-[Extended Data](ext_articles/edbc02c1.ext.json)
-
----
-
-### Wild elephant killed in train collision in Habarana
-
-*2025-10-03 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113183/wild-elephant-killed-in-train-collision-in-habarana) · `en`
-
-A wild elephant was struck and killed by a fuel train near the 137 ½ Mile Post on the Eastern Railway Line, between Habarana and Hatares Kotuwa stations, today (03).
-
-Officials from Kaudulla National Park reported that the train, travelling from Colombo to Batticaloa, hit the elephant at around 12.55 a.m.
-
-The deceased elephant was around 12 years old and stood five feet seven inches tall, said Ada Derana reporter.
-
-The elephant had collided with the train and was dragged on for nearly 100 meters before coming to a stop.
-
-Wildlife officials and local residents suggested that the accident may have been caused by careless operation of the train, despite the visibility of the track from a distance.
-
-Investigations indicate that the wild elephant was crossing from Hurulu Forest Reserve to Gal Oya National Park when the collision occurred.
-
-...
-
-[Data](articles/682160b8.json)
-
----
-
-### Sajith is in a journey to protect the hoof
-
-*2025-10-03 13:44:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහටටව-රකනන-ගහන-සජත-පඹ-ගලක/101-680691) · `si`
-
-Minister Dr. Nalinda Jayatissa said that Sajith Premadasa has gone on a joint today.
-
-He pointed out that when the politicians who are involved in the ice and the politicians involved in them are not spoken by Sajith Premadasa.
-
-Due to the government's actions, the racket involving the racket of ice is being exposed and the opposition is expected to close them today.
-
-◼️
-
-[Data](articles/cd46c8ce.json)
-
-[Extended Data](ext_articles/cd46c8ce.ext.json)
 
 ---
 
@@ -435,30 +183,6 @@ Munasinghe who also serves as a trustee of the bank’s CSR Trust, is a member o
 
 ---
 
-### Minister of Justice amendment to the issue of punishment
-
-*2025-10-03 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215291) · `si`
-
-Minister of Justice Herara Nanayakkara has issued a statement regarding the amendments to the children's punishment (19th auti loss).
-
-The Minister further stated that the Second Reading Debate is held in Parliament, but the second reading debate has not been passed as a law by Parliament.
-
-The Second Reading Debate on the 5th Amendment Bill was held on 24 September.
-
-The following statement further stated that if it is a debate only, not passing the amendment, the amendment was to be passed away.
-
-The Minister also informed the Minister of Justice that the bill has not been passed as a law so far.
-
-The Minister further emphasizes that this bill has not become a law up to now.
-
-◼️
-
-[Data](articles/3d79c1f3.json)
-
-[Extended Data](ext_articles/3d79c1f3.ext.json)
-
----
-
 ### The hearing of Manusha Nanayakkara's precedent petition on the 08th!
 
 *2025-10-03 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226780) · `ta`
@@ -499,25 +223,19 @@ She is pursuing a Bachelor of Business Degree and is passionate about leadership
 
 ---
 
-### A hundred new cancer patients a day, 35,000 per year
+### දිනකට අලුත් පිළිකා රෝගීන් සියයක්, වසරකට 35000ක්
 
 *2025-10-03 13:36:47* · [`adalk`](https://www.ada.lk/breaking_news/දිනකට-අලුත්-පිළිකා-රෝගීන්-සියයක්--වසරකට-35000ක්/11-418895) · `si`
 
-According to the new health care centers of Health and Mass Media, Dr. Nalinda Jayatissa has planned to establish the right to close the health care centers in the health care care of the health care care of the health care centers island wide with respect to the people living in the health care care system.
+මෙරට ජීවත්වන ජනතාවට ගෞරවයෙන් හා අභිමානයෙන් යුතුව ‌සෞඛ්‍ය  සේවා රැකවරණ පද්ධතියේ ප්‍රශස්ත ප්‍රතිලාභ වඩාත් සමීපව භුක්ති විදීමේ අයිතිය තහවුරු කිරීම උදෙසා නව රජයේ සෞඛ්‍ය ප්‍රතිපත්තිය යටතේ දිවයින පුරා ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන දහසක්  පළමු අදියර යටතේ පිහිටුවීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ උපදෙස් හා මඟපෙන්වීම  අනුව එම අමාත්‍යාංශය මේ වන විට සැලසුම් කර ඇත.
 
-The primary health care center, which is closer to the people, is designated as Hospital Care Centers, which are operated under the Neo-Sri Lanka innovative program.
+ජනතාවට වඩාත් සමීප, පහසුවෙන් ප්‍රවේශවිය හැකි  ස්ථානයක ස්ථාපිත කරන මෙම  ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථානය ආරෝග්‍යා සුවතා මධ්‍යස්ථාන ලෙස නම් කර ඇති අතර නව රජයේ “සුවපත් රටක් උදෙසා” (HEALTHY SRI LANKA) නව්‍ය වැඩසටහන යටතේ ක්‍රියාත්මකවන මෙම ව්‍යාපෘතිය යටතේ මෙම වර්ෂය තුළ දී ප්‍රාථමික සෞඛ්‍ය සත්කාර මධ්‍යස්ථාන සියයක් ජනගත කිරීමට ද නියමිත ය.
 
-The Pilot Project Sivwana Hospital in the Pilot Project was held under the patronage of the Palagollawatta Hospital Development Center in Kandy yesterday under the patronage of Hon. Nalinda Jayatissa.
-
-The Minister was able to register the first client registration and to provide the card.
-
-Minister Dr. Nalinda Jayatissa, Minister Dr. Nalinda Jayatissa commenced the program as a new concept, which was held in the hospital.
+ඒ අනුව ක්‍රියාත්මකවන නියමු ව්‍යාපෘතියේ  සිවිවන  ආරෝග්‍යා සුවතා මධ්‍යස්ථානය මහනුවර  දිස්ත්‍රික්කයේ පෝල්ගොල්ලවත්ත ආරෝග්‍යා සුවතා මධ්‍යස්ථානය  ඊයේ පස්වරුවේ (02) සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් ජනතා අයිතියට පත් කෙරිණි.
 
 ...
 
 [Data](articles/6e3abb81.json)
-
-[Extended Data](ext_articles/6e3abb81.ext.json)
 
 ---
 
@@ -606,28 +324,6 @@ Bribery Commission has commenced this inquiry into the activities of the Sri Lan
 [Data](articles/6c1aa70b.json)
 
 [Extended Data](ext_articles/6c1aa70b.ext.json)
-
----
-
-### Bribery is against Manusha's bail
-
-*2025-10-03 13:30:59* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනෂග-ඇප-ඉලලමට-අලලස-වරදධ-වය/101-680687) · `si`
-
-If the Bribery Commission was arrested on the Israeli employment agreement, Colombo Chief Magistrate Asanka Nanayakara, who was appointed to obtain bail on the 8th, was appointed as the petition to be bail.
-
-After considering the Bribery Commission, the Bribery Commission filed the complaint after the Bribery Commission had filed opposition to the suspect.
-
-When the complaint was taken up today, the Bribery Commission presented the written assertion by expressing his opposition to the bail.
-
-The Magistrate ordered to refer to the written lectures on the 6th at the eight days following the written facts submitted by the respondents.
-
-Bribery Commission has commenced this inquiry into the activities of the Sri Lanka Bureau and the Sri Lanka Bureau of Foreign Employment and the Israeli State Government to provide foreign employment to the youth of the country.. Mr. Nanayakkara filed the petition on the 26th of the last day.
-
-...
-
-[Data](articles/aa4a97e9.json)
-
-[Extended Data](ext_articles/aa4a97e9.ext.json)
 
 ---
 
@@ -2044,5 +1740,307 @@ According to information received from the school, they were arrested and the fo
 [Data](articles/d7ba959e.json)
 
 [Extended Data](ext_articles/d7ba959e.ext.json)
+
+---
+
+### Rain after 1 evening
+
+*2025-10-03 09:51:52* · [`adalk`](https://www.ada.lk/breaking_news/හවස-1න්-පස්සේ-වැස්ස/11-418887) · `si`
+
+The Meteorological Department says that there is a protesting atmosphical situation in the evening in most parts of the island.
+
+According to the Department, there will be showers at several places in many parts of the island.
+
+The Met Department forecasts that there could be 100 millimeters in some places in the Northern, North Central and Eastern Provinces.
+
+The Department has requested the public to take necessary steps to take necessary steps to reduce the hazardous winds and the damages caused by thunderstorms.
+
+◼️
+
+[Data](articles/31a04943.json)
+
+[Extended Data](ext_articles/31a04943.ext.json)
+
+---
+
+### Like you can not escape ....
+
+*2025-10-03 09:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/எங்க-ஓடினாலும்-தப்பிக்கவே-முடியாது-போல/62-365686) · `ta`
+
+◼️
+
+[Data](articles/ee63dd0b.json)
+
+[Extended Data](ext_articles/ee63dd0b.ext.json)
+
+---
+
+### An unidentified drone in Europe
+
+*2025-10-03 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215281) · `si`
+
+Munich airport in Germany has been temporarily closed due to unidentified drones.
+
+The German time had to be canceled yesterday (2), reports say that nearly 3,000 passengers were affected.
+
+15 aircrafts arriving at Munich had to be sent to several Australian airports, including Viene in Austria.
+
+However, the airport has been reopened around 5 am, however.
+
+Denmark also suffered as unidentified drones.
+
+As a result, all the civil drones in the Danish Aircraft banned.
+
+The drones were also traveled by Poland and Romania.
+
+Russia accused Russia. However, Russia declined the allegations.
+
+◼️
+
+[Data](articles/9a54f2b9.json)
+
+[Extended Data](ext_articles/9a54f2b9.ext.json)
+
+---
+
+### Cyber ​​Violence as a new form of preventing women's equality -Ambika Sakkunathan
+
+*2025-10-03 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226699) · `ta`
+
+The progresses of gender equality are back down globally. Women are destroyed from public life; Their rights and voices are obviously and indirectly controlled. Laws, policies, programs make women silent. Tools like social media are used to uphold violence against women, and to persuade women to prevent public life, career, home, and to prevent public preferences. Former Commissioner of Human Rights Commission, Ambika Sakthunanathan said.
+
+The 16th anniversary of the South Asian Women's Media Organization in Sri Lanka was held on Wednesday (01) at the Mandarina Hotel in Colombo.
+
+Former Commissioner of the Human Rights Commission, Ambika Sakthunanathan, addressing the event, addressing the event.
+
+...
+
+[Data](articles/0d6b2c7a.json)
+
+[Extended Data](ext_articles/0d6b2c7a.ext.json)
+
+---
+
+### Abandoned one -month -old baby rescue
+
+*2025-10-03 09:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைவிடப்பட்டிருந்த-ஒருமாத-பெண்-குழந்தை-மீட்பு/175-365685) · `ta`
+
+A monthly girl who was abandoned by her mother in Konveva, Iblogama, was found from a bag.
+
+The child was left in a chair in front of the house of retired family health officer Indrani Anula.
+
+He said that when he opened his front door at 6.00 am on November (02), he said.
+
+When it unleashed it, he saw the baby inside and a medical chart showing the baby was born a month ago.
+
+The baby was handed over to the Nikaveli Source Hospital where doctors confirmed that she was in good condition.
+
+The police have begun an investigation into the incident. “I have an experienced family health officer who retired about three years ago. I felt the baby was underweight.
+
+I checked the bag to find out all the needs of the child, including milk bottle, clothes and milk powder pocket. However, the mother's name and the birthplace were destroyed in the chart. Then I informed the police,
+
+...
+
+[Data](articles/eb1764c9.json)
+
+[Extended Data](ext_articles/eb1764c9.ext.json)
+
+---
+
+### A man arrested with jeep cake illegally brought to the country in Aryagama
+
+*2025-10-03 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226750) · `ta`
+
+The suspect has been arrested with a jeep, which is illegally brought to the country in the Ariyagama, Teltuwa area of ​​the Moronuduwa police division.
+
+The arrest took place on Thursday (02) based on information received by officials of the Central Criminal Investigation Division.
+
+The suspect has been identified as 38 years old from Teltuwa.
+
+◼️
+
+[Data](articles/219d3db3.json)
+
+[Extended Data](ext_articles/219d3db3.ext.json)
+
+---
+
+### பிளாஸ்டிக் போத்தல்கள் பால் போத்தல்கள் குறித்து அதிரடி அறிவிப்பு
+
+*2025-10-03 09:31:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிளாஸ்டிக்-போத்தல்கள்-பால்-போத்தல்கள்-குறித்து-அதிரடி-அறிவிப்பு/175-365684) · `ta`
+
+Since April 1, 2026, the Consumer Affairs Authority has made it mandatory for reusable plastic bottles and children's milk bottles for the Sri Lanka Standards (SLS) certificate.
+
+According to the Gazette released on October 1, 2025, manufacturers, importers, distributors and traders do not meet the SLS standards and if the official certificate is not shown, the manufacture, import, carry, save or sell such bottles. Remble
+
+◼️
+
+[Data](articles/6ac884dd.json)
+
+[Extended Data](ext_articles/6ac884dd.ext.json)
+
+---
+
+### Tipper vehicles face -to -face in Kilinochchi
+
+*2025-10-03 09:16:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-நேருக்கு-நேர்-மோதிய-டிப்பர்-வாகனங்கள்/175-365683) · `ta`
+
+Two tipper vehicles collided head -on last night near the railway crossing at the Vembadugeni area of ​​Kilinochchi, police said.
+
+The tipper vehicle and another tipper from Kilinochchi collided head -on.
+
+The incident took place when a bus traveling from Jaffna to Vavuniya was hit by a tipper vehicle when it tried to overtake the people.
+
+Tipper drivers have been admitted to the Pali Divisional Hospital with injuries.
+
+◼️
+
+[Data](articles/b901113b.json)
+
+[Extended Data](ext_articles/b901113b.ext.json)
+
+---
+
+### Liquor shops to remain closed today for World Temperance Day
+
+*2025-10-03 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113174/liquor-shops-to-remain-closed-today-for-world-temperance-day) · `en`
+
+The Department of Excise in Sri Lanka has announced that all wine stores and liquor sales outlets across the island will remain closed today (October 3), in view of the World Temperance Day.
+
+World Temperance Day, observed annually on October 3, aims to raise public awareness about the temperance movement and to encourage moderation, or in many cases, complete abstinence from alcoholic beverages.
+
+Accordingly, the Commissioner General of Excise has stated that liquor retail outlets will remain closed from the closing time on October 2, 2025, until the opening time on October 4, 2025.
+
+◼️
+
+[Data](articles/b52f8f18.json)
+
+[Extended Data](ext_articles/b52f8f18.ext.json)
+
+---
+
+### Alcohol-Linked Deaths Hit 22,000 Annually
+
+*2025-10-03 08:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/alcohol-linked-deaths-hit-22-000-annually) · `en`
+
+COLOMBO (News 1st); Sri Lanka marks World Temperance Day today, focusing on the health and social impacts of alcohol consumption. The observance aims to raise public awareness about the dangers of alcohol use and promote healthier lifestyles.A series of nationwide programs have been launched to educate communities on the risks associated with alcohol. According to Dr. Ananda Ratnayake, Chairman of the National Authority on Tobacco and Alcohol, 21% of Sri Lankans consume alcohol, a figure that continues to pose significant public health concerns.He further revealed that around 22,000 alcohol-related deaths are reported annually in the country.In line with the observance, all liquor outlets across the island remain closed today.
+
+◼️
+
+[Data](articles/8daeb322.json)
+
+[Extended Data](ext_articles/8daeb322.ext.json)
+
+---
+
+### Indian beadichola cannot be chased
+
+*2025-10-03 08:53:46* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉනදයන-බඩකළ-පනනනන-බරවය/101-680677) · `si`
+
+Kalpitiya Police say that 13 Indian BD leaves were transported to the country by violating the customs law from India.
+
+The gross value of the bd leaf is about 400,000. BD leaf packs had been safely packed, and 408 kg there were.
+
+The suspect is a permanent resident of the Five, the fifth crosslash Puttalam and is a 28 year old resident of Talawila.
+
+The suspect and the prosecuting will be handed over to the Katunayake Customs Office. The metest police are conducting further investigations.
+
+◼️
+
+[Data](articles/5a13ce92.json)
+
+[Extended Data](ext_articles/5a13ce92.ext.json)
+
+---
+
+### Indian beadichola cannot be chased
+
+*2025-10-03 08:53:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඉනදයන-බඩකළ-පනනනන-බරවය/1-680677) · `si`
+
+Kalpitiya Police say that 13 Indian BD leaves were transported to the country by violating the customs law from India.
+
+The gross value of the bd leaf is about 400,000. BD leaf packs had been safely packed, and 408 kg there were.
+
+The suspect is a permanent resident of the Five, the fifth crosslash Puttalam and is a 28 year old resident of Talawila.
+
+The suspect and the prosecuting will be handed over to the Katunayake Customs Office. The metest police are conducting further investigations.
+
+◼️
+
+[Data](articles/a3efacfe.json)
+
+[Extended Data](ext_articles/a3efacfe.ext.json)
+
+---
+
+### Another firearm of Padman's discovers a
+
+*2025-10-03 08:33:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදමග-තවත-ගනඅවයක-මගසනයක-සයගන/101-680676) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රඳවාගෙන ප්‍රශ්න කරන මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු හා සංවිධානාත්මක අපරාධකරුවෙකු වන මන්දිනු පද්මසිරි පෙරේරා නොහොත් කෙහෙල් බද්දර පත්මෙ නැමැත්තාගෙන් අනාවරණය වූ තොරතුරු අනුව මයික්‍රෝ වර්ගේ ගිනි අවියක් හා මැගසිනයක් සොයාගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+Five were arrested during the Indonesian police and the Indonesian police and the Peliyagoda North Criminal Division of Indonesian Police and the Indonesian Police.
+
+The police say that the informants were found in the Criminal Investigation Division of the Criminal Investigation Division of the Criminal Investigation Department.
+
+◼️
+
+[Data](articles/4d648b84.json)
+
+[Extended Data](ext_articles/4d648b84.ext.json)
+
+---
+
+### 4 arrested for smuggling goods including mobile phones worth over Rs. 10 mln
+
+*2025-10-03 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113173/4-arrested-for-smuggling-goods-including-mobile-phones-worth-over-rs-10-mln) · `en`
+
+Maligawatta Police have arrested four individuals in connection with a consignment of mobile phones, perfumes, and accessories worth over Rs. 10 million, allegedly smuggled into the country through Bandaranaike International Airport (BIA), Katunayake, without paying customs duties.
+
+Police confirmed that two cousins were among the suspects arrested.
+
+The items seized included 26 smartphones, 10 iPads, 10 tablet computers, three laptops, various types of perfumes, and a stock of body lotions, said police.
+
+According to Maligawatta Police OIC, the goods were recovered during a raid on a residence in the Ramya area of Maligawatta.
+
+The suspects had reportedly travelled to Dubai on September 30 and brought the goods into the country illegally upon their return yesterday (02).
+
+The arrested individuals are residents of the Maligawatta and Kochchikade areas, said police.
+
+◼️
+
+[Data](articles/1cfa8b4d.json)
+
+[Extended Data](ext_articles/1cfa8b4d.ext.json)
+
+---
+
+### Shooting in demonstration: 12 killed in Pakistan
+
+*2025-10-03 08:25:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-துப்பாக்கிச்-சூடு-பாகிஸ்தானில்-12-பேர்-பலி/175-365682) · `ta`
+
+Pakistan is the one who carries the grievances of the Kashmir area of ​​the people of the 38 -year -old
+
+Soldiers firing to control the protesters. Of these, 12 were killed. More than 200 people were bombed. Three policemen were killed in an attack by protesters.
+
+Pakistani Prime Minister Shebash Sharif has set up a negotiating committee to bring peace in occupied Kashmir. (A)
+
+◼️
+
+[Data](articles/7100742a.json)
+
+[Extended Data](ext_articles/7100742a.ext.json)
+
+---
+
+### Probe Links DMT Officials to Fake Registrations
+
+*2025-10-03 08:23:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/probe-links-dmt-officials-to-fake-registrations) · `en`
+
+...
+
+[Data](articles/5756a536.json)
+
+[Extended Data](ext_articles/5756a536.ext.json)
 
 ---

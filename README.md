@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 13:57:05**
+As of **2025-10-03 14:22:03**
 
 ## Newspaper Stats
 
-*Scraped **80,766** Articles*
+*Scraped **80,785** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 568
 dbsjeyarajcom | 637
-lankadeepalk | 699
-bbccomsinhala | 722
+lankadeepalk | 712
+bbccomsinhala | 723
 colombotelegraphcom | 805
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
-dailyftlk | 5,648
+dailyftlk | 5,653
 adalk | 7,762
 adaderanalk | 10,382
 tamilmirrorlk | 12,032
@@ -27,69 +27,217 @@ adaderanasinhalalk | 13,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,662 (99.9%) of 80,766 articles have been extended.
+80,677 (99.9%) of 80,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
 
-### பூஜை பொருட்கள் வாங்கிய பணத்தில் குடித்த தொழிலாளி மரணம்
+### නාමල්  තාජුදීන්ගේ  ආත්මයට සාධාරණයක් ඉල්ලයි
+
+*2025-10-03 13:56:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නමල-තජදනග-ආතමයට-සධරණයක-ඉලලය/1-680695) · `si`
+
+සාධාරණ පරීක්ෂණයක් පවත්වා තාජුදින්ගේ ආත්මයට සාධාරණය ඉටු කරන්නැයි ශ්‍රී ලංකා පොදු ජනපෙරමුණේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ නාමල් රාජපක්ෂ මහතා රජයෙන් ඉල්ලීමක් කළේය.
+
+නාමල් රාජපක්ෂ මහතා මෙසේද පැවසීය ආණ්ඩුව පොලිසිය පාවිච්චි කරලා බොරු සාක්ෂි හදනවා.
+
+පොලිසිය කරන්න ඕන ආණ්ඩුවට කඩේ ගිහිල්ලා ප්‍රමෝෂන් ගන්න එක නොවෙයි. ගෞරවය ආරක්ෂා කර කරගන්න කියලා පොලිසියෙන් ඉල්ලීමක් කරනවා.
+
+තාජුදින් සිද්ධිය සම්බන්ධයෙන් බොරු සාක්ෂි හදන්න ගියා. පැය විසි හතරක් යන්න කලින් අධිකරණයට දක්වන්න ඕන කරුණු මාධ්‍යයට දක්වලා වැඩේ අනාගත්තා.
+
+දැන් වත් සාධාරණ පරීක්ෂණයක් පවත්වන්න. ඒක තාජුඩින්ගේ ආත්මයට කරන සාධාරණයක්.
+
+◼️
+
+[Data](articles/994dd5d1.json)
+
+---
+
+### පොහොට්ටුව රකින්න ගිහින් සජිත් පඹ ගාලක
+
+*2025-10-03 13:44:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහටටව-රකනන-ගහන-සජත-පඹ-ගලක/1-680691) · `si`
+
+පොහොට්ටුවේ නායකයන් රකින්න ගොස් සජිත් ප්‍රේමදාස මහතා අද පඹ ගාලක පැටලී ඇති බව අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+මෙපමණ අයිස් අහු වෙද්දි ඒවාට සම්බන්ධ වන දේශපාලනඥයන් නිරාවරණය වෙද්දී සජිත් ප්‍රේමදාස මහතා වචනයක් හෝ කතා නොකරන බවද ඔහු පෙන්වා දුන්නේය.
+
+ආණ්ඩුව ගෙන යන වැඩපිළිවෙල හේතුවෙන් කුඩු අයිස් සම්බන්ධ ජාවාරම් නිරාවරණය වෙමින් පවතින බවත් විපක්ෂයට අද ඕනෑ වී ඇත්තේ ඒවා වැසීමට බවත් ජයතිස්ස මහතා පැවසීය.
+
+◼️
+
+[Data](articles/d7d9db76.json)
+
+---
+
+### Sri Lanka strengthens trade, investment, and tourism ties at World Expo 2025 in Osaka
+
+*2025-10-03 13:42:55* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-strengthens-trade-investment-and-tourism-ties-at-World-Expo-2025-in-Osaka/34-782581) · `en`
+
+Sri Lanka showcased its export potential, investment opportunities, and tourism offerings at the Sri Lanka Business Forum and Networking Session held on 26 September during the World Expo 2025 in Osaka.
+
+Organised by the Sri Lanka Export Development Board (EDB) in collaboration with the Embassy of Sri Lanka in Japan, and supported by the Japan External Trade Organisation (JETRO) and the Sri Lanka Business Council of Japan (SLBCJ), the landmark event brought together around 20 leading Sri Lankan exporters from key sectors including apparel, tea, spices, gems and jewellery, food and beverages, handicrafts, and IT services. The Forum served as a dynamic platform to promote Sri Lanka’s authentic, high-quality, and globally trusted products to Japanese investors, importers, and industry leaders.
+
+Opening the session, EDB Chairman/CEO Mangala Wijesinghe described the event as a milestone in strengthening the longstanding partnership between Sri Lanka and Japan.
+
+...
+
+[Data](articles/e2879f2b.json)
+
+---
+
+### Hayleys Leisure appoints Rajitha Amarasinghe as Director of Operations – Amaya Resorts & Spas
+
+*2025-10-03 13:41:33* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Leisure-appoints-Rajitha-Amarasinghe-as-Director-of-Operations-Amaya-Resorts-Spas/34-782580) · `en`
+
+Hayleys Leisure has announced the appointment of Rajitha Amarasinghe as Director of Operations – Amaya Resorts & Spas.
+
+In his new role, Amarasinghe will oversee the operations of Amaya Resorts & Spas and the Boutique Collection by Amaya, with a focus on driving operational excellence, elevating service standards, enhancing guest experiences and strengthening financial and business performance. His responsibilities will also encompass people development and compliance, ensuring alignment with Amaya’s vision of becoming the most preferred hotel brand in Sri Lanka.
+
+...
+
+[Data](articles/7a4fb9fc.json)
+
+---
+
+### Hayleys Fibre appoints Ajith Karunarathna to Board
+
+*2025-10-03 13:40:44* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fibre-appoints-Ajith-Karunarathna-to-Board/34-782579) · `en`
+
+Hayleys Fibre PLC yesterday said it has appointed Ajith Karunarathna to its Board as an Executive Director.
+
+He served as CFO of the eco solution sector at Hayleys Fibre PLC overseeing financial reporting, taxation, IT and related functions.
+
+With over 20 years of experience in finance, he possesses expertise in strategic financial management, operational oversight and corporate governance across a range of industries including healthcare, manufacturing, technology and retail.
+
+Karunarathna holds a BSc in Accountancy and Financial Management with First Class Honours from the University of Sri Jayewardenepura. He is a Fellow of the Institute of Chartered Accountants of Sri Lanka, the Association of Chartered Certified Accountants (UK), and the Institute of Certified Management Accountants of Sri Lanka.
+
+◼️
+
+[Data](articles/810f7862.json)
+
+---
+
+### ComBank’s sustainability leadership inspires UN Global Compact annual sessions in New York
+
+*2025-10-03 13:38:56* · [`dailyftlk`](https://www.ft.lk/business/ComBank-s-sustainability-leadership-inspires-UN-Global-Compact-annual-sessions-in-New-York/34-782578) · `en`
+
+Commercial Bank Deputy General Manager – Corporate Banking Hasrath Munasinghe (left) with UNGC Assistant Secretary General and CEO Sanda Ojiambo
+
+The sustainability leadership of the Commercial Bank of Ceylon was brought into focus on the global stage when Commercial Bank of Ceylon PLC Deputy General Manager – Corporate Banking Hasrath Munasinghe shared insights at United Nations Global Compact (UNGC) annual sessions held in conjunction with United Nations General Assembly (UNGA) annual sessions in New York. The forum was attended by over 500 delegates from 69 countries across the world.
+
+Munasinghe who also serves as a trustee of the bank’s CSR Trust, is a member of the executive sustainability committee of the bank and a board director of the UNGC network in Sri Lanka spoke on Sri Lanka’s sustainability landscape at the Asia and Oceania Leadership Round Table where representatives from 14 countries presented.
+
+...
+
+[Data](articles/526dce9e.json)
+
+---
+
+### Samara Perera joins The Kingsbury, Horana Plantations Boards
+
+*2025-10-03 13:36:50* · [`dailyftlk`](https://www.ft.lk/business/Samara-Perera-joins-The-Kingsbury-Horana-Plantations-Boards/34-782577) · `en`
+
+Samara Perera has joined the Boards of The Kingsbury PLC and Horana Plantations PLC as Non-Executive Director.
+
+Perera has been actively involved in business projects and initiatives at both Hayleys PLC and Vallibel One PLC where she gained valuable experience, the companies said.
+
+She is pursuing a Bachelor of Business Degree and is passionate about leadership, entrepreneurship and innovation.
+
+◼️
+
+[Data](articles/e1ee27af.json)
+
+---
+
+### The death of a drinker in the money purchased by pooja products
 
 *2025-10-03 13:31:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூஜை-பொருட்கள்-வாங்கிய-பணத்தில்-குடித்த-தொழிலாளி-மரணம்/175-365694) · `ta`
 
-கடலூர் மாவட்டம் விருத்தாசலம் அடுத்த குருவன்குப்பம் கிராமத்தில் ஆயுத பூஜைக்கு தேவையான பொருட்களை வாங்கிய பின் மீதம் இருந்த பணத்தில் மது குடித்தவர் உயிரிழந்துள்ளார்.
+A drinker who died after buying the necessary items for the arms pooja in the village of Kuruvankuppam next to Virthasalam in Cuddalore district.
 
-குறித்த பகுதியில் வேல்முருகன்(36), இவரது மனைவி வள்ளி. இந்த தம்பதிக்கு அய்யனார்(11), வெற்றிவேல்(5) ஆகிய 2 மகன்கள் உள்ளனர். வேல்முருகனுக்கு மது குடிக்கும் பழக்கம் இருந்தது. அவ்வாறு மதுகுடித்துவிட்டு வீட்டிற்கு வரும்போதெல்லாம் கணவன், மனைவி இடையே தகராறு ஏற்பட்டு வந்துள்ளது.
+Velmurugan (36), his wife Valli. The couple has 2 sons, Ayyanar (11) and Vijayvel (5). Velmurugan had the habit of drinking alcohol. Whenever there is a husband and wife, there is a dispute between the husband and wife.
 
-இந்த நிலையில் நேற்று முன்தினம் ஆயுத பூஜைக்கு தேவையான பொருட்களை வாங்குவதற்காக வேல்முருகனிடம் ரூ.1,000-ஐ வள்ளி கொடுத்தார். வேல்முருகனும் கடைக்கு சென்று பூஜை பொருட்களை வாங்கினார். அதில் மீதம் இருந்த பணத்துக்கு அவர், டாஸ்மாக் கடையில் மது வாங்கி குடித்தார்.
+In this case, Valli gave Vallmurugan Rs.. Velmurugan went to the store and bought pooja items. For the remaining money, he bought wine at the task force.
 
-பின்னர் மதுபோதையில் வீட்டுக்கு சென்ற வேல்முருகன், தனது மனைவியிடம் பூஜை பொருட்களை கொடுத்தார். பொருட்கள் வாங்கியது போக மீதமுள்ள பணத்தை தருமாறு வள்ளி கேட்டார். அதற்கு அவர் செலவாகி விட்டதாக கூறினார். அந்த பணத்தில்தான், தனது கணவர் மதுகுடித்து விட்டு வந்ததை அறிந்து கொண்ட வள்ளி அவருடன் வாக்குவாதம் செய்தார்.
+Velmurugan then went to the house at Madhubhu and gave his wife pooja items. Valli asked to give the rest of the money to go. He said he had cost. It was in that money that Valli got into an argument with her, knowing that her husband had left alcohol.
+
+Valli fell asleep at night, locking the door inwardly with Velmurugan, without giving me a meal.. Velmurugan slept in front of the house.
 
 ...
 
 [Data](articles/0088342d.json)
 
+[Extended Data](ext_articles/0088342d.ext.json)
+
 ---
 
-### පිළිකා සෛල නසන පෝෂක ඖෂධයක් කොළඹ සරසවියෙන්
+### මනුෂගේ ඇප ඉල්ලිමට අල්ලස විරුද්ධ වෙයි
+
+*2025-10-03 13:30:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනෂග-ඇප-ඉලලමට-අලලස-වරදධ-වය/1-680687) · `si`
+
+ඊශ්‍රායල් රැකියා ගිවිසුම සම්බන්ධයෙන් අල්ලස් කොමිසම සිදු කරන විමර්ශනයන්හිදී අත්අඩංගුවට පත් වුවහොත් ඇප ලබා ගත හැකිවන පරිදි පූර්ව ඇපයක් නියම කරන්නැයි ඉල්ලා හිටපු කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා ගොනු කළ පෙත්සම ලබන 08 දින විමසීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස් බෝදරගම මහතා අද දින නියම කළේය.
+
+සැකකරුට පූර්ව ඇපයක් නියම කිරීම සම්බන්ධයෙන් විරුද්ධත්වය ප්‍රකාශ කරන බවට අල්ලස් කොමිසම ගොනු කළ ලිඛිත කරුණු සලකා බැලීමෙන් පසුව මෙසේ පැමිණිල්ල විමසීමට දින නියම කළේය.
+
+අද මෙම පැමිණිල්ල කැඳවූ අවස්ථාවේදී අල්ලස් කොමිසම ඇප ලබාදීමට විරුද්ධත්වය ප්‍රකාශ කිරීමෙන් ලිඛිත කරුණු අධිකරණයට ඉදිරිපත් කළේය.
+
+වග උත්තරකරුවන් විසින් ඉදිරිපත් කරන ලිඛිත කරුණු සලකා බලා ලබන 06 වැනි දින ඊට අදාළ ලිඛිත දේශන යොමු කරන ලෙස නියෝග කළ මහේස්ත්‍රාත්වරයා පැමිණිලි විමසීම ලබන අට දිනට නියම කළේය.
+
+...
+
+[Data](articles/6c1aa70b.json)
+
+---
+
+### Cancer cell counting nutrients from Colombo University
 
 *2025-10-03 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215290) · `si`
 
-පිළිකාව යනු මිනිස් ජීවිතයේ පැවැත්මට දැඩි තර්ජනයක් එක්කර තිබෙන රෝගී තත්ත්වයකි.
+Cancer is a serious illness that threats a serious threat to the existence of human life.
 
-එම නිසාම ඊට එරෙහිව ප්‍රතිකාර සෙවීමට මේ වනවිට ලෝකයේම අවධානය යොමුවී තිබේ.
+As a result, the world is now focused in the world to search for it.
 
-එවැනි පසුබිමක පිළිකා සෛල නසන පෝෂක ඖෂධයක් සොයාගැනීමට කොළඹ සරසවියේ ජෛව රසායන, අණුක ජීවවිද්‍යා සහ ජෛව තාක්ෂණ ආයතනය සමත්වී තිබේ.
+In such a backdrop, the Biochechology and Biocular Biological Institute and Biochology has been able to find a nutrient of cancer.
 
-මිනිස් ශරීරයේ කොටසක අසාමාන්‍ය සෛල පාලනයකින් තොරව වර්ධනයවීම පිළිකාවක් ලෙස හැඳින්වෙන අතර එය මුල් අවස්ථාවේ හඳුනාගෙන ප්‍රතිකාර නොකළහොත් මරණය පවා ගෙනදිය හැකිය.
+In a part of the human body, unusual cells are known as cancer, and may even be even death if it is not recognized at the first instance.
 
-ගෝලීය වශයෙන් ගත්කළ වසරකට මිලියන 10කට ආසන්න පුද්ගලයින් සංඛ්‍යාවක් පිළිකාව හේතුවෙන් මරණයට පත්වන අතර ශ්‍රී ලංකාවේ වසරකට පිළිකාව හේතුවෙන් මියයන පුද්ගලයින් සංඛ්‍යාව 15,000 ත් - 20,000ත් අතර වෙයි.
+Globishingly, nearly Rs.
 
-මෙම තත්ත්වය හමුවේ ගෝලීය වශයෙන් මෙන්ම දේශියවද දිනෙන් දින පිළිකාව පැතිරයාමේ සීඝ්‍ර වර්ධනයක් පෙන්නුම් කර ඇති අතර ඊට සමගාමීව පිළිකාවට එරෙහිව කටයුතු කිරීමේ අවශ්‍යතාවය කෙරෙහිද ලෝකයේම අවධානය යොමුවී තිබේ.
+In the face of this situation, cancer grew rapid growth in the sides of cancer, in parallel, and in parallel, the world is focused on the need to act against cancer.
+
+Accordingly, Russia recently announced that he was able to manufacture an important cancer in the fight against cancer.
+
+As a result of the research conducted by nearly 17 years since 2008, a research performing in 2008 has been able to find a nutrient, molecular biology and biotechnology.
 
 ...
 
 [Data](articles/79236c78.json)
 
+[Extended Data](ext_articles/79236c78.ext.json)
+
 ---
 
-### ව්‍යාපාර සවිබල ගැන්වීමට DFCC බැංකුව iConnect 2.0 බලගන්වයි
+### DFCC Bank empowers iconnect 2.0 to empower business
 
 *2025-10-03 12:52:36* · [`adalk`](https://www.ada.lk/business/ව්‍යාපාර-සවිබල-ගැන්වීමට-DFCC-බැංකුව-iConnect-2-0-බලගන්වයි/7-418893) · `si`
 
-DFCC බැංකුවේ ප්‍රමුඛතම ආයතනික ඩිජිටල් බැංකුකරණ විසඳුම වන DFCC iConnect 2.0, මේ වන විටත් ශ්‍රී ලාංකාවේ ව්‍යාපාර ආයතන, සිය මූල්‍ය මෙහෙයුම් කළමනාකරණය කරන ආකාරය පරිවර්තනීය වෙනසකට ලක් කිරීමට සමත්වී ඇත.
+DFCC Bank's premier digital digital banking solution, DFCC iconnect 2.0, the way business agencies in Sri Lanka manages its financial operations.
 
-මෙම බැංකුකරණ විසඳුම දියත්කිරීමේ සිට මේ දක්වා, බැංකුකරණ කටයුතු සහ වෙළඳාම සරල කිරීමෙහිලා DFCC බැංකුවේ පුරෝගාමී භූමිකාව තහවුරු කර ඇත. DFCC iConnect හරහා සමාගම්වලට සහ කුඩා හා මධ්‍ය පරිමාණ ව්‍යාපාරවලට, ආරක්ෂිතව, එක් ඩිජිටල් බැංකුකරණ විසඳුමක් හරහා වෙළඳාම, ගෙවීම් සහ සැපයුම් දාම කළමනාකරණය කිරීමට අවස්ථාව සලසා දෙයි.
+DFCC Bank's pioneer role in simplifying banking and trade from launching this banking solution to date. Companies and Small and Medium Scale Enterprises Early and Small and Medium Scale Propositions allow the management of trade, payments and supply chains through one digital banking solution.
+
+DFCC Iconnect 2.0 Provides money management, trading solutions, supplier financing, and API intecreations (API intension). The expedited connection is the convenience of banking from anywhere in the island, and with comparison to the banking, and allows you to improve their cash flows (cash flow) and maintain the product of the relationships, and to maintain the order of operational.
 
 ...
 
 [Data](articles/13ca4a59.json)
 
+[Extended Data](ext_articles/13ca4a59.ext.json)
+
 ---
 
 ### ඇමතිලා දෙන්නෙක් අහසින් බේරෙට
 
-*2025-10-03 12:41:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමතල-දනනක-අහසන-බරට/101-680685) · `si`
+*2025-10-03 12:41:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමතල-දනනක-අහසන-බරට/1-680685) · `si`
 
 සංචාරක කර්මාන්තය වර්ධනය කිරීමේ පියවරක් ලෙස බේරේවැව සහ කටුනායක අතර ගෘහස්ථ ගුවන් ගමන් අද ආරම්භ කෙරිණ.
 
@@ -101,7 +249,27 @@ DFCC බැංකුවේ ප්‍රමුඛතම ආයතනික ඩි
 
 ◼️
 
+[Data](articles/f5a8aab2.json)
+
+---
+
+### Two calls for the sky
+
+*2025-10-03 12:41:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමතල-දනනක-අහසන-බරට/101-680685) · `si`
+
+Domestic flights between Beverawe and Katunayake were commenced today as a measure of developing tourism.
+
+Deputy Minister of Ports and Civil Aviation Janitha Ruwan Kodituwakku and Traveling Minister Prof. Ruwan Ranasinghe and a group of officials of the Cinnamon Airlines arrived in Breesman Ranasinghe.
+
+Transport Minister Bimal Ratnayake, Secretary to the Ministry of Defense, Secretary to the Ministry of Defense and John Keells Group, was present at the request of the aircraft.
+
+Transport Minister landed on the plane and conversed with the pilot. Bimal Ratnayake said that airlines would invite airlines for internal airlines.
+
+◼️
+
 [Data](articles/641f74fb.json)
+
+[Extended Data](ext_articles/641f74fb.ext.json)
 
 ---
 
@@ -251,6 +419,24 @@ After considering the facts, the magistrate set the date on December 5.
 
 ---
 
+### ‘දඹුල්ල තන්ඩර්ස්‘ හිමිකරුට අධිචෝදනා ගොනුකරයි
+
+*2025-10-03 12:00:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දඹලල-තනඩරස-හමකරට-අධචදන-ගනකරය/1-680684) · `si`
+
+එල්. පී. එල් 2024 ක්‍රිකට් තරගාවලියේදී මුදලට තරග පාවාදීමට බලපෑම් කලේ යැයි කියන  දඹුල්ල තන්ඩර්ස් ක්‍රිකට් කණ්ඩායමේ හිමිකරු, බ්‍රිතාන්‍ය පුරවැසි   බංග්ලාදේශ ජාතික තමීම් රහ්මාන් සැකකරුට එරෙහිව අධි චෝදනා ගොනු කිරීමට නීතිපතිවරයා තීරණය කර ඇති බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක ඒස් බෝදරගම මහතා හමුවේ කරුණු දැක්වූ ක්‍රීඩා දූෂණ වැළැක්වීමේ ඒකකය අද පැවසීය.
+
+සැකකාර තමීම් රවුමන්  අධිකරණයේ පෙනී සිටි සිටීමෙන් අනතුරුව  ක්‍රීඩා දූෂණ වැළැක්වීමේ විශේෂ විමර්ශන ඒකකය කරුණු දක්වමින් කියා සිටියේ  ක්‍රීඩා දූෂණ වැළැක්වීමේ පනතේ 05 සහ 06 සහ 8 වගන්තිය යටතේ මෙම සැකකරු සම්බන්ධයෙන් විමර්ශන සිදු කර අදාළ වාර්තා නීතිපතිවරයාට යොමු කර ඇති බවය.
+
+ඒ අනුව සැකකරුට එරෙහිව නොබෝ දිනකින්  මහාධිකරණය හමුවේ අධි චෝදනා ගොනු කිරීමට නියමිත බැවින් නඩුව වෙනත් දිනක කැඳවීමට දින නියම කරන ලෙසද ඉල්ලා සිටියේය.
+
+කරුණු සලකා බැලූ මහේස්ත්‍රාත්වරයා පැමිණිල්ල දෙසැම්බර් 5 දින කැඳවීමට දින නියම කළේය .
+
+◼️
+
+[Data](articles/a9732c40.json)
+
+---
+
 ### World Bank on Messical
 
 *2025-10-03 11:55:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-බකවත-මතසබය/101-680683) · `si`
@@ -268,6 +454,22 @@ World Bank officials said the need to accelerate reforms in the power sector in 
 [Data](articles/84bee390.json)
 
 [Extended Data](ext_articles/84bee390.ext.json)
+
+---
+
+### ලෝක බැංකුවත්  මැතිසබයේ
+
+*2025-10-03 11:55:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලක-බකවත-මතසබය/1-680683) · `si`
+
+ලෝක බැංකුවේ මෙරට  කළමනාකරු ගෙවෝර්ග් සාර්ගසියාන් (Gevorg Sargsyan) මහතාගේ නායකත්වයෙන් යුත් ලෝක බැංකු නියෝජිතයෝ  කණ්ඩායමක් 25 වන දින රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා සහ එහි සාමාජිකයින් හමුවී සාකච්ඡාවක් පැවැත්වූහ.
+
+අනතුරුව  කණ්ඩායම පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (COPE) සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නිශාන්ත සමරවීර රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ (COPA) සභාපති ගරු පාර්ලිමේන්තු මන්ත්‍රී කබීර් හෂීම්; සහ ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේ සභාපති  පාර්ලිමේන්තු මන්ත්‍රී විජේසිරි බස්නායක යන මහත්වරුන්  සහ  අදාළ කාරක සභා සාමාජිකයින් අතර පැවති සාකච්ඡාවකට ද සහභාගිවිය.
+
+මෙහිදී කාරක සභා සභාපතිවරු වසර ගණනාවක් පුරා ශ්‍රී ලංකාවේ සංවර්ධනයට දක්වන අඛණ්ඩ සහයෝගය පිළිබඳව ලෝක බැංකුවට සිය කෘතඥතාව පළ කළහ.
+
+...
+
+[Data](articles/9942ac08.json)
 
 ---
 
@@ -381,21 +583,23 @@ Drivers have been arrested along with the five lorarges in the Bandaragama Polic
 
 ---
 
-### හොරට කිරිමැටි ප්‍රවාහනය කළ ලොරි 5ක් අල්ලයි
+### Five lorries transporting the duties arrested
 
 *2025-10-03 11:41:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරට-කරමට-පරවහනය-කළ-ලර-5ක-අලලය/101-680682) · `si`
 
-බලපත්‍ර කොන්දේසි උල්ලංඝණය කරමින් නීති විරෝධී ආකාරයෙන් කිරිමැටි ප්‍රවාහනයේ යෙදුණ ටිපර් රථ පහක් සමඟ එහි රියදුරන් අත්අඩංගුවට ගත් බව බණ්ඩාරගම පොලිසිය කියයි
+Bandaragama police say that the drivers were arrested with five tippers with illegally transported license conditions
 
-.ඒ අතර හිටපු ප්‍රබල දේශපාලනඥයකුගේ බෑණාට අයත් ලොරි රථයක් ද වන බවත් ඒ සඳහා කිරිමැටි ප්‍රවාහනයට යොදාගෙන ඇත්තේ දියණියගේ නමට යොදාගත් බලපත්‍රයක් බව ට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+It is also the case with a neighbor of politician is also a license to the daughter's name.
 
-පොලිස් භාරයට ගත් එක් ලොරි රථයකට කිරිමැටි ප්‍රවාහනය සඳහාබලපත්‍ර නොමැති බවට ද අනාවරණය වී ඇත.
+It has also been revealed that there is no definition of the lorry that was taken into police custody.
 
-බස්නාහිර පළාත් බුද්ධිකොට්ඨාසයේ නිලධාරීන්ට ලද තොරතුරකට බණ්ඩාරගම පොලිසියේ පරිසර අංශයේ ස්ථානාධිපති ඇතුළු නිලධාරීන් බණ්ඩාරගම කළුතර මාර්ගයේ ගල්තුඩේ ප්‍රදේශයේදී අද අලුයම සිදු කළ මෙහෙයුමකදී මෙම ලොරිරථ පහ සමඟ රියදුරන් අත්අඩංගුවටට ගෙන ඇත.
+Drivers have been arrested along with the five lorarges in the Bandaragama Police Station, including the OIC of the Bandaragama Police.
 
 ◼️
 
 [Data](articles/53e12478.json)
+
+[Extended Data](ext_articles/53e12478.ext.json)
 
 ---
 
@@ -434,6 +638,22 @@ A senior official of the Cultural Fund (Cultural Fund) said that the Eastern Pon
 [Data](articles/da12d298.json)
 
 [Extended Data](ext_articles/da12d298.ext.json)
+
+---
+
+### අභයගිරියේ කැණිම්වලින් දුර්ලභ ඛනිජ රැසක් හමුවෙයි
+
+*2025-10-03 11:28:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අභයගරය-කණමවලන-දරලභ-ඛනජ-රසක-හමවය/1-680681) · `si`
+
+සියවස් දහයකට අධික කාලයක් මුළුල්ලේ පිළිසකර නොකර තිබූ අභයගිරිය චෛත්‍යයේ නැගෙනහිර පොකුණෙහි  සිදු කරන  කැණීම්වලින් ඉතාමත්ම දුර්ලභ ගණයේ  ඛනිජ වර්ග රැසක් හමුවී ඇතැයි මධ්‍යම සංස්කෘතික අරමුදල කියයි.
+
+අභයගිරිය චෛත්‍යයේ සිදු කරන මෙම  කැණීම් වලින් කනේලියන්,ඇගේටි,අගස්ථි ,පලිඟු,වැනි දුර්ලභ ගණයේ කණිජ සම්පත් හා ඉතාමත්ම පැරණි සරස්වතී කාසි, හා පබළු විශේෂ රැසක් හමුවී ඇති බව එහි කාර්ය මණ්ඩලය කියයි.
+
+එම ඓතිහාසික පුරාවස්තූන් ආරක්ෂා කර ගැනීම සඳහා මධ්‍යම සංස්කෘතික අරමුදලේ කෞතුකාගාරයට භාරදී ඇති බව එම නිලධාරි මණ්ඩලය කියා සිටියේය. මෙම කැණීම් සිදු කරන පරිශ්‍රය තුළ පියගැට පෙළක් හා මණ්ඩපයක් පිහිටා තිබීම ද විශේෂත්වයක් බව එම කාර්ය මණ්ඩලයේ නිලධාරීහු පෙන්වා දෙති.
+
+...
+
+[Data](articles/d05a9347.json)
 
 ---
 
@@ -478,6 +698,24 @@ Police Chief Inspector of Maligawatta Police Chief Inspector Ti B S Krayakana Th
 [Data](articles/bd40181e.json)
 
 [Extended Data](ext_articles/bd40181e.ext.json)
+
+---
+
+### කෝටියක ජංගම දුරකථන-සුවඳවිලවුන් සමඟ 4ක් දැලේ
+
+*2025-10-03 11:20:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටයක-ජගම-දරකථන-සවඳවලවන-සමඟ-4ක-දල/1-680680) · `si`
+
+රේගු බදු නොගෙවා කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ හරහා හොර රහසේ රැගෙන ආ බව කියන රුපියල් කෝටියකට අධික වටිනා ජංගම දුරකථන, සුවඳ විලවුන් ඇතුළු උපකරණ තොගයක් සමඟ පුද්ගලයන් සිව් දෙනෙකු අත්අඩංගුවට ගත් බව මාලිගාවත්ත පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අතර දෙමස්සිනාලා  දෙදෙනෙකුද සිටින බව පොලිසිය කියයි.
+
+එම සැකකරුවන් සමඟ    ස්මාට්   වර්ගයේ ජංගම දුරකථන 26 ක් ,අයි පෑඩ් 10 ක් ටැබ්  10  ක් වටිනා ලැප්ටොප් පරිගණක 3 ක් ,     විවිධ වර්ගයේ සුවඳ විලවුන් තොගයක් සහ  ශරීර ආලේපන තොගයක්ද පොලිස් භාරයටට ගෙන ඇත.
+
+මාලිගාවත්ත පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ටි බි එස් කල්‍යාණ තුංග මහතාට ලද තොරතුරකට අනුව මාලිගාවත්ත රම්‍යා  ප්‍රදේශයේ    නිවසක් පටලා සැකකරුවන් සමග මෙම දේපළ සොයාගත් බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/b13e61b5.json)
 
 ---
 
@@ -669,6 +907,24 @@ He said that the public should avoid the approaching monkeys to prevent the infe
 
 ---
 
+### වෑන් රිය ගසක වැදී අයෙක් මරුට :5කට තුවාල
+
+*2025-10-03 10:49:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වන-රය-ගසක-වද-අයක-මරට-5කට-තවල/1-680679) · `si`
+
+තණමල්විල වැල්ලවාය මාර්ගයේ කිතුල්කොටේ ප්‍රදේශයේ දෙසීය අසූඅට කණුව අසලදී අද (03) අලුයම වෑන් රියක් ගසක හැපි සිදු වූ අනතුරකින්  වෑන් රථයේ සිටි පුද්ගලයෙකු මිය ගොස් පස් දෙනෙකු තුවාල ලබා ඇතැයි පොලීසිය කියයි.
+
+තණමල්විල දෙස සිට වැල්ලවායට දෙසට ධාවනය වෙමින් තිබූ වෑන් රථය වේගය පාලනය කර ගැනීමට නොහැකිව පාරෙන් ඉවතට ගොස් අඹ ගසක සහ තේක්ක ගසක ගැටී  අනතුර සිදුවී ඇත.
+
+වෑන් රථයේ රියදුරු අසුනට පිටුපස අසුනේ සිටි අයෙකු බරපතළ තුවාල ලබා තණමල්විල ප්‍රාදේශීය රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව මෙලෙස මියගොස් ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ දඹුල්ල,ඩී හතර ඇල පදිංචි කුලවර්ධන රාළහාමිලාගේ වංශතිලක (56) නැමති අයෙකි. තුවාල කරුවන් පස් දෙනාගෙන් තිදෙනෙකු හම්බන්තොට දිස්ත්‍රික් මහ රෝහලේද දෙදෙනෙකු තණමල්විල ප්‍රාදේශීය රෝහලේද ප්‍රතිකාර ලබමින් පසු වේ.
+
+◼️
+
+[Data](articles/cb6378f4.json)
+
+---
+
 ### One killed and 5 injured in a van road
 
 *2025-10-03 10:49:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වන-රය-ගසක-වද-අයක-මරට-5කට-තවල/101-680679) · `si`
@@ -765,17 +1021,41 @@ This information is included in the Audit Report which is included in the perfor
 
 ---
 
-### 2024දී වී නිශ්පාදනය ඉහළ ගියත් හාල් ටොන් 131000ක් ආනයනය කරලා
+### පහුගිය වසරතුනේදී  ළමුන්ට එරෙහි අපරාධ  8,429ක්
+
+*2025-10-03 10:29:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහගය-වසරතනද-ළමනට-එරහ-අපරධ-8-429ක/1-680678) · `si`
+
+ළමුන්ට එරෙහිව  පසුගිය  වසර තුන තුළදී ලිංගික අතවර, මිනීමැරුම්,  දූෂණ ආදී බාල අපරාධ  8, 492ක්  සිදුවී ඇති බැව්  ජාතික විගණන කාර්යාලය මගින් නිකුත් කොට ඇති විගණන වාර්තාවක් මගින් අනාවරණය වී ඇත.
+
+ළමුන්ට එරෙහිව සිදුවන අපරාධ ප්‍රමාණාත්මකව  වැඩි වී ඇති බවද  විගණන වාර්තාවේ සඳහන්වේ.
+
+මෙම කාලය තුළ ළමුන්ට එරෙහිව සිදු වීඇති ලිංගික අතවර සංඛ්‍යාව  4309 කි. ළමුන් 54 දෙනෙකු  පසුගිය වසර තුන තුළදී   ඝාතනයට ලක්වී ඇති බවද  විගණන වාර්තාවේ සඳහන් වෙයි.
+
+2022 වර්ෂයේදී ළමුන්ට එරෙහිව බල අපරාධ 2821.2023 වර්ෂයේදී ළමුන්ට එරෙහිව බල අපරාධ 2764 ක් සිදුවී ඇත.2024 වර්ෂයේදී  ළමුන්ට එරෙහිව  බල අපරාධ 2907 ක් සිදු වී ඇතිබවද විගණනය මගින් අනාවරණය කොට ඇත.
+
+පොලිස් දෙපාර්තමේන්තුව සම්බන්ධයෙන් 2024 වර්ෂයට අදාළව නිකුත් කොට ඇති කාර්යසාධන වාර්තාවට ඇතුළත් කොට ඇති විගණන වාර්තාවේ මෙම තොරතුරු ඇතුළත්ව ඇත.
+
+◼️
+
+[Data](articles/beb4633f.json)
+
+---
+
+### Thirteen tons of rice in 2024 increased to 131,000 tons of rice
 
 *2025-10-03 10:23:17* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-වී-නිශ්පාදනය-ඉහළ-ගියත්-හාල්-ටොන්-131000ක්-ආනයනය-කරලා/11-418890) · `si`
 
-මෙරට වී නිෂ්පාදනය ඉකුත් වර්ෂයේ දි (2024) සියයට 4.1කින් ඉහළ ගොස් තිබුනද  එම වර්ෂයේ දි සහල් මෙට්‍රික්ටොන්  එක්ලක්ෂ තිස්එක්දහස් ,තුන්සියතිස්අටක් (131,338)  ආනයනය කොට ඇති බැව්  මුදල්,ක්‍රමසම්පාදන සහ  ආර්ථික සංවර්ධන අමාත්‍යංශය විසින් 2024 වර්ෂයට අදාළව නිකුත්කොට ඇති  අවසාන  අයවැය  තත්ත්වය  පිළිබද වාර්තාවේ සදහන් වේ.
+The report on the last budget condition issued by the Ministry of Finance, Planning and Economic Development has been imported by the Sri Lanka Paddy in Sri Lanka last year (2024).
 
-2023 වර්ෂයේ දි මෙරටට සහල් ආනයනය කොට ඇත්තේ සහල් මෙට්‍රික්ටොන්  විසිනමදහස්,හයසියපහක් (29,605)  වන අතර  ඒ අනුව 2023 වර්ෂයට සාපේක්ෂව 2024 වර්ෂයේ දි  සහල් ආනයනය කිරිම සියයට 343.6කින්  තියුණු ලෙස ඉහළ ගොස් ඇති බවද  මෙම වාර්තාවේ සදහන් වේ.
+The rice has been imported in the year 2023, according to the report, importing the rice in 2024 percent to 2023 compared to 2023.
 
-...
+The production of Paddy was up to 2024 compared to 2023, but the production of the rice supply, which is large, and the manufacture of rice manufacturers in the same year, rice manufacturers, and the manufacture of the rice manufacturers, and the manufacture of market manufacturers. The government had to import.  The government spent 36 billion rupees to provide fertilizer subsidy in 2024.
+
+◼️
 
 [Data](articles/98ab2786.json)
+
+[Extended Data](ext_articles/98ab2786.ext.json)
 
 ---
 
@@ -1163,21 +1443,23 @@ The suspect and the prosecuting will be handed over to the Katunayake Customs Of
 
 ---
 
-### ඉන්දියන් බීඩිකොළ පන්නන්න බැරිවෙයි
+### Indian beadichola cannot be chased
 
 *2025-10-03 08:53:46* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඉනදයන-බඩකළ-පනනනන-බරවය/1-680677) · `si`
 
-ඉන්දියාවේ සිට මුහුදු මගින් රේගු නීතී උල්ලංඝණය කරමින් නීතී විරෝධීව මෙරටට ගෙන්වන ලද,ඉන්දියන් බීඩී කොළ ඇසුරුම් 13 ක්,බොලෙරෝ කැබ් රියකින් ප්‍රවාහනය කරමින් සිටියදී එහි රියදුරු ද සමඟ කල්පිටිය ඒත්තාල ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බව  කල්පිටිය පොලිසිය කියයි.
+Kalpitiya Police say that 13 Indian BD leaves were transported to the country by violating the customs law from India.
 
-මෙම බීඩී කොළ තොගයේ දළ වටිනාකම ලක්ෂ 400 ක් පමණ  බව කියයි. බීඩී කොළ ඇසුරුම් ජලය කාන්දු නොවන සේ ඉතා සුරක්ෂිතව අසුරා තිබුණු අතර,කිලෝ ග්‍රෑම් 408 ක් එහි තිබිණි.
+The gross value of the bd leaf is about 400,000. BD leaf packs had been safely packed, and 408 kg there were.
 
-සැකකරු පස් වන හරස් වීදීය පුත්තලම යන ලිපිනයේ ස්ථිර පදිංචිකරුවකු වන අතර, තලවිල ප්‍රදේශයේ තාවකාලිකව පදිංචි 28 හැවිරිදි අයෙකි.
+The suspect is a permanent resident of the Five, the fifth crosslash Puttalam and is a 28 year old resident of Talawila.
 
-සැකකරු සහ නඩු භාණ්ඩ කටුනායක රේගු කාර්‍යාලය වෙත භාර දීමට නියමිත ය.කල්පිටිය පොලිසිය වැඩි දුර පරීක්ෂණ පවත්ව යි.
+The suspect and the prosecuting will be handed over to the Katunayake Customs Office. The metest police are conducting further investigations.
 
 ◼️
 
 [Data](articles/a3efacfe.json)
+
+[Extended Data](ext_articles/a3efacfe.ext.json)
 
 ---
 
@@ -1249,6 +1531,24 @@ Mahawa Headquarters Chief Inspector General of Police AAPA. A group of women's I
 
 ---
 
+### මේ බිළිඳා කාගෙ දෝ : නර්ස් ගෙදරින් ඇහුලුවෝ
+
+*2025-10-03 08:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ම-බළඳ-කග-ද-නරස-ගදරන-ඇහලව/1-680675) · `si`
+
+විශ්‍රාමික පවුල් සෞඛ්‍ය සේවිකාවගේ නිවස ඉදිරි පස බෑගයක අසුරා දමා ගොස් තිබූ දිනක් පමණ වයසක  බිළිදියක් හමු වී ඇතැයි මහව මූලස්ථාන පොලිසිය කියයි.
+
+මෙසේ දමා ගිය බිළිඳිය 166 කෝන්වැව, ඉපලෝගම , මහව ලිපිනයේ පදිංචි ඉන්ද්‍රාණි අනුලා මහත්මියගේ නිවසේ තිබියදී සොයා ගන්නා ලද බව පොලිසිය සඳහන් කරයි.
+
+‎බිළිඳිය සොයා ගන්නා විට නිරෝගීව සිටි බවත් වහාම නිකවැරටිය මූලික රෝහලට ඇතුළත් කිරීමට කටයුතු කළ බවත් මහව මුලස්ථාන පොලිසිය සඳහන් කරයි.
+
+‎සිද්ධිය සම්බන්ධයෙන් මහව මූලස්ථාන ප්‍රධාන පොලිස් පරික්ෂක ඒ.ඒ.පි.ඒ. කුලතුංග මහතාගේ ප්‍රධානත්වයෙන් කාන්තාව පොලිස් ඒකකයේ ස්ථානාධිපති කාන්තා පොලිස් පරීක්ෂක අපේක්ෂා ඇතුළු කණ්ඩායමක් විසින් වැඩිදුර විමර්ශන සිදු කරති.
+
+...
+
+[Data](articles/a7e5ab23.json)
+
+---
+
 ### Airlines between India and China after 5 years
 
 *2025-10-03 08:09:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-ஆண்டுகளுக்கு-பிறகு-இந்தியா-சீனா-இடையே-விமான-சேவை/175-365681) · `ta`
@@ -1314,6 +1614,26 @@ The two persons were produced before the Tangalle Magistrate's Court yesterday a
 [Data](articles/2d3f6c60.json)
 
 [Extended Data](ext_articles/2d3f6c60.ext.json)
+
+---
+
+### ලු. කර්නල් නෙවිල් වන්නිආරච්චි අත්අඩංගුවට ගත්තේ ඇයි? මහින්ද රාජපක්ෂ සමග ඔහුට තිබූ සම්බන්ධය කුමක් ද?
+
+*2025-10-03 07:50:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cly1r1d6213o) · `si`
+
+ලු. කර්නල් නෙවිල් වන්නිආරච්චි අත්අඩංගුවට ගත්තේ ඇයි? මහින්ද රාජපක්ෂ සමග ඔහුට තිබූ සම්බන්ධය කුමක් ද?
+
+රුපියල් මිලියන 28ක වත්කම් සහ දේපළ අයථා ලෙස උපයා ගත් බවට සැකපිට අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත් හිටපු ජනාධිපති මහින්ද රාජපක්ෂගේ ආරක්ෂකයා වන නෙවිල් වන්නිආරච්චි ඔක්තෝබර් මස 17 වන දා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියෝග කළේ ය.
+
+අල්ලස් කොමිසමේ නිලධාරීන් හා සැකකරුගේ නීතිඥවරුන් විසින් ඉදිරිපත් කරන ලද කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංක එස්. බෝදරගම මෙම නියෝගය නිකුත් කළේ, ඊයේ (ඔක්: 02) දිනයේදී ය.
+
+ඔක්තෝබර් 02 වන දා ප්‍රකාශයක් සටහන් කර ගැනීමෙන් අනතුරුව අත්අඩංගුවට ගනු ලැබූ නෙවිල් වන්නිආරච්චි අල්ලස් කොමිසමේ නිලධාරීන් විසින් කොළඹ ප්‍රධාන මහේස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කරනු ලැබීය.
+
+සැකකරු අධිකරණයට ඉදිරිපත් කරමින් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම වෙනුවෙන් පෙනී සිටි නිලධාරිනිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙසේ පැවසීය,
+
+...
+
+[Data](articles/e49a8099.json)
 
 ---
 
@@ -1427,19 +1747,25 @@ The public requests the public to take necessary steps to reduce the damages cau
 
 ---
 
-### ජගත් වෙළෙඳපොළට නිර්මාණශීලී රෙදිපිළි ගෙනයෑමේ වැඩපිළිවෙළ!
+### Creative Textile to the global market
 
 *2025-10-03 06:12:43* · [`adalk`](https://www.ada.lk/business/ජගත්-වෙළෙඳපොළට-නිර්මාණශීලී-රෙදිපිළි-ගෙනයෑමේ-වැඩපිළිවෙළ-/7-418882) · `si`
 
-අපනයන සංවර්ධන මණ්ඩලය (EDB), කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය සමග එක්ව, ශ්‍රී ලංකාවේ නිර්මාණශීලී රෙදිපිළි අංශය ජාත්‍යන්තර වෙළෙඳපොළවලට සම්බන්ධ කිරීම අරමුණු කරගත් වැඩමුළුවක් පසුගියදා අපනයන සංවර්ධන මණ්ඩලයේදී සාර්ථකව සංවිධානය කෙරිණි.
+The Export Development Board was successfully organized in the Export Development Board (EDB), the Export Development Board (EDB), Industry and Entrepreneurship Development.
 
-මෙම වැඩමුළුව කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ ක්‍රියාත්මක වන රජයේ සංස්ථා සහ ආයතන සඳහා දේශීය සහ ජාත්‍යන්තර වෙළඳපොළවල් සම්බන්ධයෙන් දැනුවත්භාවය ඇති කිරීම සහ වෙළදපල ප්‍රවේශය පහසු කිරීම අරමුණු කර ගනු ලැබීය.
+The workshop aims to facilitate awareness and facilitating the market access to government corporations and international markets for government corporations and institutions functioning under the Ministry of Industry and Entrepreneurship Development.
 
-බුද්ධි බතික් (පුද්) සමාගමේ ප්‍රධාන විධායක නිලධාරිනී දර්ෂි කිරිතිසේන මහත්මිය "නවීන විලාසිතා වෙළඳපොළ සඳහා බතික් නිශ්පාදන ඉදිරිපත් කිරීම" සම්බන්ධයෙන් සහ තම ව්‍යාපාරයේ ගමන්මග පිළිබද අත්දැකීම් හුවමාරු කරමින් සම්ප්‍රදායික බතික් කලාවන් ගෝලීය පාරිභෝගිකයින් සඳහා යොමුකළ හැකි ආකාරය වැඩමුළුවේදී පෙන්වා දුන්නාය.
+The CEO of Buddhi Batik (Pvt) Ltd. Soli Kirithainna (Pvt) Ltd pointed out how to meet the traditional bastics of the modern fashion market and sharing the traditional bothtuals for "modern fashion marketing".
+
+Senior Lecturer of the Marketing Management of the University of Kelaniya Dr. G. Mr. Nilantha Roshan Perera was made aware of the "development of a global textile development". There was an understanding of the importance of laying the background and the playground story in international competitive textile buildings.
+
+The Co-Founder (Pvt) Ltd.
 
 ...
 
 [Data](articles/c8706f51.json)
+
+[Extended Data](ext_articles/c8706f51.ext.json)
 
 ---
 
@@ -1668,293 +1994,5 @@ In celebration of World Children’s Day 2025, Sri Lanka Insurance Life (SLIC Li
 [Data](articles/f8278965.json)
 
 [Extended Data](ext_articles/f8278965.ext.json)
-
----
-
-### Colombo Chetty Association elects new Ex-Co
-
-*2025-10-03 01:57:36* · [`dailyftlk`](https://www.ft.lk/news/Colombo-Chetty-Association-elects-new-Ex-Co/56-782562) · `en`
-
-Seated from left: Vice President Ermina Muthupulle, Assistant Treasurer Lucien Fernandopulle, President Chris Corea, Secretary Viran Fernandopulle, Vice President Joe Saverymuthapulle, and Callistus Alles
-
-Standing from left: Marian Candappa, Indira Fernandopulle, Past Presidents Rinesh Fernandopulle, Nanda Corea, Colin Fernandopulle, Selva Perumal, Phyllis Corea, and Rishanka Fernandopulle
-
-Inset: Treasurer Christobel Saverimuttu, Royce Fernandopulle, Rohan Masillamani, Carlyle Alles, and Rishnie Fernandopulle
-
-The Colombo Chetty Association of Sri Lanka recently elected its Executive Committee for 2025.
-
-A separate ethnic group in Sri Lanka, living alongside the Malays, Moors, Tamils, Burghers and the Sinhalese, Colombo Chetties form an integral part of Sri Lankan Society. Today, this small educated and cultured community consists of around 150,000 individuals living in the Western and North Western Provinces of Sri Lanka.
-
-...
-
-[Data](articles/9ea9ef15.json)
-
----
-
-### Gabriel’s Charity Auction in aid of Rescue Animals Sri Lanka
-
-*2025-10-03 01:56:56* · [`dailyftlk`](https://www.ft.lk/news/Gabriel-s-Charity-Auction-in-aid-of-Rescue-Animals-Sri-Lanka/56-782561) · `en`
-
-Front row (from left): Co-host Vrai Raymond, Designer and Choreographer Brian Kerkoven, Headlines PR and Events Chairman and RAS Founding Trustee Anusha David, Cinnamon Grand Director – Events/Sales Dini Isaacs,  Hi Magazine Editor Shyamalee Tudawe,  Designer Charini Suriyage, Cinnamon Grand General Manager Nazoomi Azhar, Cinnamon Hotels and Resorts Chief Operating Officer Kamal Munasinghe
-
-Second row (from left): Ashok Ferrey, Designer Dhammika Amarasekere, Julianne Ephraums (RAS), Upeckha Cumaratunga (Gravitas), Designer Jaishri Jayasinghe.
-
-Third row (from left):  Cinnamon Grand Executive Chef Kapila Jayasinghe, Hair and Make up Partner Chagall Chairman Gerald Solomons, Designer Kamil Hewavitharane, Presenting Partner of the Auction Aditi, Managing Director Mahika Weerakoon, Headlines/RAS Upul Wijenayake, and Akry Ameer (RAS)
-
-Gabriel’s Charity Auction in aid of Rescue Animals Sri Lanka (RAS) will take place on 31 October at the Mahogany, Cinnamon Grand, commencing 7.30 p.m.
-
-...
-
-[Data](articles/983faf2a.json)
-
----
-
-### Telbedde Estate crowned Overall Gold Winner at Ceylon Specialty Estate Tea Awards 2025
-
-*2025-10-03 01:55:54* · [`dailyftlk`](https://www.ft.lk/business/Telbedde-Estate-crowned-Overall-Gold-Winner-at-Ceylon-Specialty-Estate-Tea-Awards-2025/34-782560) · `en`
-
-Telbedde Estate Superintendent Lakkhana Perera (left) receiving the award from Japan Tea Association Managing Director Kohei Akiba
-
-Telbedde Estate, managed by Balangoda Plantations PLC, has emerged as the Overall Gold Award Winner at the prestigious Ceylon Specialty Estate Tea of the Year 2025.
-
-The award, presented by the Sri Lanka Tea Board in collaboration with the Colombo Tea Traders Association and Colombo Brokers’ Association, celebrates excellence in single-origin Ceylon teas. Telbedde Estate’s Orange Pekoe 1 (OP1) tea stood out from a competitive field, judged for its exceptional quality, unique character and consistency.
-
-...
-
-[Data](articles/0ec217ab.json)
-
----
-
-### SEVA project signals new trade and investment potential for Sri Lankan craft
-
-*2025-10-03 01:55:08* · [`dailyftlk`](https://www.ft.lk/business/SEVA-project-signals-new-trade-and-investment-potential-for-Sri-Lankan-craft/34-782559) · `en`
-
-Sri Lanka’s creative and craft sector has marked a landmark moment with the launch of SEVA, a transdisciplinary cultural diplomacy project uniting international artistry with Sri Lankan heritage. Beyond its artistic merit, SEVA showcases the untapped trade potential of Sri Lanka’s artisan economy, an area poised to grow into a high-value export sector and attract new investment.
-
-An outcome of the EU–Sri Lanka Matchmaking Program, delivered with the Sri Lanka Export Development Board (EDB), supported by the European Union to Sri Lanka and the Maldives, the Cultural Relations Platform (CRP), with the University of the Arts London (UAL) and the British Council as knowledge partners, and The Institute of Future Creations (TIFC) as program leader, SEVA has also received the backing of the Italian Embassy in Colombo.
-
-...
-
-[Data](articles/00533d82.json)
-
----
-
-### Construction PMI increases in August
-
-*2025-10-03 01:52:27* · [`dailyftlk`](https://www.ft.lk/business/Construction-PMI-increases-in-August/34-782557) · `en`
-
-Sri Lanka Purchasing Managers’ Index for Construction (PMI–Construction) increased further in August 2025, as reflected by the total activity index which registered a value of 61.1 indicating a continuous expansion in construction activities.
-
-The Central Bank said most respondents highlighted the ongoing increase in project availability, along with the resumption of some temporarily suspended projects, has strengthened the confidence of the construction sector.
-
-The New Orders Index also increased in August. According to survey respondents, road development and water supply work were the most commonly awarded project types during the month.
-
-In August, both the Employment and Quantity of Purchases indices increased, indicating the optimism for continued growth in the construction work.
-
-Meanwhile, the suppliers’ delivery time further lengthened during the month, driven by the increase in demand for construction material.
-
-...
-
-[Data](articles/e1834100.json)
-
----
-
-### ජනාධිපති වැය ශීර්ෂයේ තුන් ගුණයක ඉහළ යාමක්: මෙවර විසර්ජන පනත් කෙටුම්පතේ මුදල් බෙදී ගොස් ඇත්තේ කෙසේ ද?
-
-*2025-10-03 01:38:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgq4pqkz52qo) · `si`
-
-ජනාධිපති වැය ශීර්ෂයේ තුන් ගුණයක ඉහළ යාමක්: මෙවර විසර්ජන පනත් කෙටුම්පතේ මුදල් බෙදී ගොස් ඇත්තේ කෙසේ ද?
-
-වැඩ බලන මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍ය, ආචාර්ය අනිල් ජයන්ත විසින් 2026 මුදල් වර්ෂයේ සේවා වියදම් සඳහා විධිවිධාන සැලසීම සඳහා වූ විසර්ජන පනත් කෙටුම්පත පසුගිය සැප්තැම්බර් 26 වන දා පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
-
-අයවැය ඉදිරිපත් කිරීමේ පළමු පියවර වන මෙය, තුන්වරක් කියවීමෙන් පසුව පාර්ලිමේන්තුවේ සම්මත වීමට පෙර හඳුන්වන්නේ විසර්ජන පනත් කෙටුම්පත ලෙස යි.
-
-මුදල් අමාත්‍යවරයා වන ජනාධිපති අනුර කුමාර දිසානායක ඒ වන විට විදේශගතව සිටි බැවින් විසර්ජන පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කළේ වැඩබලන මුදල් අමාත්‍යවරයා විසිනි.
-
-අනුර කුමාර දිසානායක ජනාධිපතිවරයාගේ පළමු අයවැය වූ 2025 අයවැයේදී ඔහු සිදු කළ ප්‍රමුඛ කාර්යයක් වූයේ 2024 වසරට සාපේක්ෂව ජනාධිපති වැය ශීර්ෂය හරි අඩකින් පමණ අඩු කිරීම ය.
-
-කෙසේවෙතත් 2025ට සාපේක්ෂව ආසන්න වශයෙන් තුන්ගුණයකින් පමණ ජනාධිපතිවරයාගේ වැය ශීර්ෂය ඉහළ ගොස් තිබේ. එය 2024 වසරේ රනිල් වික්‍රමසිංහ හිටපු ජනාධිපතිවරයාගේ වැය ශීර්ෂයට සාපේක්ෂව 72%ක පමණ වැඩි වීමකි.
-
-...
-
-[Data](articles/a7bcb99d.json)
-
----
-
-### Beyond degrees: Creating future-ready workforce for Sri Lanka
-
-*2025-10-03 01:38:14* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-degrees-Creating-future-ready-workforce-for-Sri-Lanka/4-782547) · `en`
-
-The future of Sri Lanka’s economy depends not only on investment and policy but on how well the country prepares its people for the world of work. The Government is pushing forward with significant reforms to revamp the education system, from modernising curricula to expanding vocational training pathways. These initiatives deserve appreciation. They demonstrate a recognition that the nation cannot build a resilient future with outdated methods of teaching and learning.
-
-In an increasingly competitive world, equipping students and employees with modern skills is crucial for both social progress and economic stability. Yet, despite these promising efforts, fundamental questions remain about whether the country is truly preparing its people to be future-ready and whether the billions spent on free education are delivering an adequate return on investment.
-
-...
-
-[Data](articles/692d51f4.json)
-
----
-
-### Growing the pool of billion-dollar companies in Sri Lanka
-
-*2025-10-03 01:33:02* · [`dailyftlk`](https://www.ft.lk/columns/Growing-the-pool-of-billion-dollar-companies-in-Sri-Lanka/4-782541) · `en`
-
-Today, Sri Lanka has just three listed companies valued at over a billion dollars: John Keells Holdings (JKH), Commercial Bank of Ceylon, and Ceylon Tobacco PLC. This is a sobering statistic for an economy with ambitions of becoming a South Asian hub for trade, services, and investment. A country of 22 million people, strategically positioned astride major maritime routes, and possessing a strong pool of talent in accounting, IT, and law, should be capable of nurturing multiple billion-dollar firms across diverse sectors. The fact that it has not points to deeper structural barriers inhibiting corporate growth.
-
-...
-
-[Data](articles/2ee2b76b.json)
-
----
-
-### Financial institutions at crossroads: Redefining risk management in the age of climate change
-
-*2025-10-03 01:31:15* · [`dailyftlk`](https://www.ft.lk/columns/Financial-institutions-at-crossroads-Redefining-risk-management-in-the-age-of-climate-change/4-782540) · `en`
-
-In the end, banks become the ultimate receivers of climate shocks, bearing the financial fallout of environmental catastrophes
-
-The recent flash floods in Uttarakhand, India where over 100 people went missing, are just one among thousands of climate-related disasters in recent years. For banks, the impact is direct washed-out assets, loan defaults, and rising credit risk. This is not tomorrow’s threat; climate risk is already reshaping financial stability today. In the end, banks become the ultimate receivers of climate shocks, bearing the financial fallout of environmental catastrophes. Banking risk management is entering a new era. Traditional frameworks built around credit, market, liquidity, and operational risk are no longer sufficient to address the growing complexities of a changing world.
-
-...
-
-[Data](articles/b45f0f78.json)
-
----
-
-### Energy diplomacy: How Sri Lanka can bridge trade gap with United States
-
-*2025-10-03 01:25:08* · [`dailyftlk`](https://www.ft.lk/columns/Energy-diplomacy-How-Sri-Lanka-can-bridge-trade-gap-with-United-States/4-782539) · `en`
-
-For Sri Lanka, the United States is more than just a trading partner. It is the single most important destination for Sri Lankan exports, particularly apparel, and a market that sustains hundreds of thousands of jobs and contributes significantly to national GDP. Yet, beneath this success story lies a structural imbalance. While Sri Lanka exports billions of dollars’ worth of goods to the United States each year, its imports from America remain comparatively small. This asymmetry leaves Sri Lanka exposed to tariff risks, particularly in the post-Trump era where US trade policy has become increasingly transactional.
-
-...
-
-[Data](articles/b492836c.json)
-
----
-
-### 2025-10-02 (Thursday)
-
-### සද්ධන්තයාගේ ප්‍රහාරයෙන් තිදරු පියා මරුට
-
-*2025-10-02 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215272) · `si`
-
-අදාළ පුද්ගලයා අද (02) උදෑසන 6.30ට පමණ නිවසේ සිට තම සොහොයුරාගේ නිවස වෙත ගමන් කරමින් සිටියදී මෙසේ වනඅලි ප්‍රහාරයට ලක්ව ඇත.
-
-සියඹලගස්වැව ජනතාව චෝදනා කරන්නේ අලි ඇතුන්ගේ ප්‍රහාරයන්ට ලක්ව මීට පෙරද මෙම ප්‍රදේශයේ පුද්ගලයින් කිහිප දෙනෙකුම ජීවිතක්ෂයට පත් ව ඇති බවය.
-
-එමෙන්ම මෙම වනඅලි හා ඇතුන් සියඹලාගස්වැව ආසන්නයේ ගම්මානවලට කඩා වදින බවත් එලෙස කඩා වදින අලි ඇතුන් 20කට ආසන්න සංඛ්‍යාවක් දිවා රාත්‍රි මෙහි සැරිසැරිම හේතුවෙන් ජන ජීවිතයේ කටයුතු අඩාල වී ඇති බවත් ඔවුන් වැඩිදුරටත් සඳහන් කර සිටී.
-
-කෙසේ වෙතත් මෙම සිදුවීම දැනුම්දීමත් සමග ආණමඩුව ප්‍රාදේශිය ලේකම්වරයාද එම ස්ථානයට පැමිණ ඇති අතර එහිදී උණුසුම් තත්ත්වයක් හට ගෙන තිබුණි.
-
-◼️
-
-[Data](articles/07dbe66a.json)
-
----
-
-### Trade Uncertainties Loom, But Sri Lanka’s Reform Drive Powers On : IMF
-
-*2025-10-02 21:39:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/trade-uncertainties-loom-but-sri-lanka%e2%80%99s-reform-drive-powers-on-imf) · `en`
-
-...
-
-[Data](articles/4e6f19d0.json)
-
-[Extended Data](ext_articles/4e6f19d0.ext.json)
-
----
-
-### පොලිස් නිලධාරියා යට කරන්න හැදූ මත් ජාවාරමා වසර 15 හිරගෙට
-
-*2025-10-02 20:30:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පලස-නලධරය-යට-කරනන-හද-මත-ජවරම-වසර-15-හරගට/1-680665) · `si`
-
-මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සහ අපරාධකරුවන් අත්අඩංගුවට ගැනීමට කටයුතු කරන පොලිස් නිලධාරීන්ට හානි කරන අපරාධකරුවන්ට උසාවියෙන් කිසිඳු සමාවක් නැතැයි සඳහන් කළ කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය මත්ද්‍රව්‍ය වැටලීමක නිරතව සිටි පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශයේ නිලධාරියකු කාරයට යටකර මරා දැමීමට තැත් කළ මත් ජාවාරම්කරුවකුට වසර 15ක බරපතල වැඩ සහිත සිරදඬුවම් නියම කරමින්  පැවසුවාය.
-
-වසර 17කට පෙර දෙහිවල නැදිමාල ප්‍රදේශයේදී මත්ද්‍රව්‍ය වැටලීමක නිරතව සිටි පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශයේ පොලිස් සැරයන් වීරසිංහ බණ්ඩාර මහතා මත්ද්‍රව්‍ය තොගයක්ද සමඟ විත්තිකරු පැමිණී කාර් රථය නතර කරන ලෙස සංඥා කළ අවස්ථාවේදී ඔහු යටකර බරපතල තුවාල කිරීම සඟ මරා දැමීමට තැත් කිරීම යන චෝදනාවන්ට වරදකරු කළ විත්තිකරුවකුට එලෙෂ දඬුවම් නියම කළ විනිසුරුවරිය රුපියල් 10 000/-ක දඩයකටද විත්තිකරු යටත් කළාය.
-
-...
-
-[Data](articles/7e67b946.json)
-
----
-
-### කොළඹ පොත් දැක්මට ජනගගක්: දැනටම ලක්ෂ 2කට කිට්ටුයි
-
-*2025-10-02 20:27:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කළඹ-පත-දකමට-ජනගගක-දනටම-ලකෂ-2කට-කටටය/101-680664) · `si`
-
-ශ්‍රී ලංකා පොත් ප්‍රකාශකයන්ගේ සංගමය 26 වැනි වරටත් සංවිධානය කරන කොළඹ ජාත්‍යන්තර පොත් ප්‍රදර්ශනය ඉතාමත් සාර්ථකව පැවැත්වෙන බව පොත් ප්‍රකාශකයන්ගේ සංගමයේ සභාපති දිනේෂ් කුලතුංග මහතා පැවැසීය.
-
-මේ දින කිහිපයේ පමණක් ජනතාව ලක්ෂ එකහමාරකට වැඩි පිරිසක් පොත් ප්‍රදර්ශනය නැරඹීමට හා පොත්පත් මිලදී ගැනීමට පැමිණ ඇති බව ද ඔහු සඳහන් කළේය.
-
-පසුගිය වසර වලට වඩා බොහෝ සාර්ථක ලෙස පොත් ප්‍රදර්ශනය මෙවර පැවැත්වෙන බවත් පොතපත හොඳින් අලෙවි වන බවට කුටි සංවිධායකයන් ප්‍රකාශ කරන බවත් ඔහු කීය.
-
-මෙවර ප්‍රදර්ශනය ආරම්භයේ සිටම සති අන්ත හෝ සතියේ දින යැයි නොසලකා ජනතාව ඇදෙමින් සිටින බව ද වෙන වසරවල එවැනි තත්වයක් නොතිබූ බව ද ඔහු කීය.
-
-මෙවර පොත් ප්‍රදර්ශනයට වැස්සෙන් කිසිම බාධාවක් ඇති නොවූ බව ද සමහර නවකතා ඇතුළු පොත් මිලදී ගැනීම සඳහා පෝලිම් නිර්මාණය වී ඇති බව ද ඔහු සඳහන් කළේය. මෙවර ප්‍රදර්ශනය සදහා පොත් ප්‍රකාශකයන් 450 කගේ කුටි ඇතුළත්ව තිබෙන බව ද ඔහු කීය.
-
-◼️
-
-[Data](articles/844b1652.json)
-
----
-
-### කොළඹ පොත් දැක්මට ජනගගක්: දැනටම ලක්ෂ 2කට කිට්ටුයි
-
-*2025-10-02 20:27:20* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කළඹ-පත-දකමට-ජනගගක-දනටම-ලකෂ-2කට-කටටය/222-680664) · `si`
-
-ශ්‍රී ලංකා පොත් ප්‍රකාශකයන්ගේ සංගමය 26 වැනි වරටත් සංවිධානය කරන කොළඹ ජාත්‍යන්තර පොත් ප්‍රදර්ශනය ඉතාමත් සාර්ථකව පැවැත්වෙන බව පොත් ප්‍රකාශකයන්ගේ සංගමයේ සභාපති දිනේෂ් කුලතුංග මහතා පැවැසීය.
-
-මේ දින කිහිපයේ පමණක් ජනතාව ලක්ෂ එකහමාරකට වැඩි පිරිසක් පොත් ප්‍රදර්ශනය නැරඹීමට හා පොත්පත් මිලදී ගැනීමට පැමිණ ඇති බව ද ඔහු සඳහන් කළේය.
-
-පසුගිය වසර වලට වඩා බොහෝ සාර්ථක ලෙස පොත් ප්‍රදර්ශනය මෙවර පැවැත්වෙන බවත් පොතපත හොඳින් අලෙවි වන බවට කුටි සංවිධායකයන් ප්‍රකාශ කරන බවත් ඔහු කීය.
-
-මෙවර ප්‍රදර්ශනය ආරම්භයේ සිටම සති අන්ත හෝ සතියේ දින යැයි නොසලකා ජනතාව ඇදෙමින් සිටින බව ද වෙන වසරවල එවැනි තත්වයක් නොතිබූ බව ද ඔහු කීය.
-
-මෙවර පොත් ප්‍රදර්ශනයට වැස්සෙන් කිසිම බාධාවක් ඇති නොවූ බව ද සමහර නවකතා ඇතුළු පොත් මිලදී ගැනීම සඳහා පෝලිම් නිර්මාණය වී ඇති බව ද ඔහු සඳහන් කළේය. මෙවර ප්‍රදර්ශනය සදහා පොත් ප්‍රකාශකයන් 450 කගේ කුටි ඇතුළත්ව තිබෙන බව ද ඔහු කීය.
-
-◼️
-
-[Data](articles/71bffd05.json)
-
----
-
-### ළමා දිනය සමරන්න සිසුවෝ 4ක් පාසලට අරක්කු ගෙනත්
-
-*2025-10-02 20:22:02* · [`lankadeepalk`](https://www.lankadeepa.lk/test/ළම-දනය-සමරනන-සසව-4ක-පසලට-අරකක-ගනත/222-680663) · `si`
-
-ලෝක ළමා දිනය සැමරීමට සිය විදුහලට මත්වතුර බෝතලයක් රැගෙන පැමිණි අම්බලන්ගොඩ පාසලක සිසුන් සිවු දෙනකු  අත්අඩංගුවට ගත් බව මීටියාගොඩ පොලීසිය කියයි.
-
-මෙසේ බාරයට ගත් සිසුහු සිව් දෙනා මෙවර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට නියමිත සිටින අය වෙති.
-
-ඔවුන්ට දැඩි ලෙස අවවාද කර ඔවුන්ගේ මවුපියන්ට පෙරේදා (1) පස්වරුවේම බාර දුන් බව ද පොලීසිය කියයි.
-
-අනතුරුව මෙම සිව් දෙනා මවුපියන්ගේ කැමැත්ත සහිතව එම පාසලෙන් ඉවත් කර ගෙන ඇතැයි විදුහල් ආරංචි මාර්ග කියයි.
-
-ලෝක ළමා දිනය පැවැති පෙරේදා (1) සිසුන් සිව්දෙනා වතුර බෝතලයකට මත්පැන් පුරවා පාසලට රැගෙන පැමිණ ඇති බවත් පොලිසිය කියයි.
-
-මත් වතුර රැගෙන ආ බවට විදුහලෙන් ලැබුණු තොරතුරකට අනුව ඔවුන් සිව්දෙනාම සිය බාරයට ගෙන ප්‍රශ්න කිරීමේ දී ඔවුන් හික්කඩුවේ මත්පැන්හලකින් මත්පැන් මිලට ගෙන වතුර බෝතලයකට දමාගෙන පැමිණ ඇති බව අනාවරණය වීයැයි පොලීසිය කියයි.
-
-◼️
-
-[Data](articles/9635977e.json)
-
----
-
-### ආර්එම්වී කනතෝරුව කියන්නේ වංචා දූෂණ පිරුණ යෝධ කැලෑවක්
-
-*2025-10-02 20:18:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආරඑමව-කනතරව-කයනන-වච-දෂණ-පරණ-යධ-කලවක/1-680662) · `si`
-
-මොටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව විශාල වංචා හා දුෂණ සහිත කැලයක් බවත් ඒවා ක්‍රමානුකූලව නිරවුල් කරගෙන ඉදිරියට යාමට පියවර ගන්නා බවත් ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පැවැසීය.
-
-ඔහු මෙසේ පැවැසුවේ අනුරධපුර දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේ අනුරාධපුර දිස්ත්‍රික් විශේෂ සම්බන්ධීකරණ කමිටු රැස්වීමේදීය.
-
-අනුරාධපුර දිස්ත්‍රික්කයේ පවතින ප්‍රවාහන කේෂත්‍රයේ ගැටලු සහ ඉදිරියේදී සංවර්ධනය විය යුතු කටයුතු පිළිබදව මෙහි දී සාකච්ජාවට ලක්විය.
-
-ප්‍රවාහන හා මාර්ග කටයුතු සම්බන්ධයෙන් සංවර්ධන කටයුතු පහසු කිරීම හා නිසියාකාර කිරීම උදෙසා වන දිස්ත්‍රික් කමිටුවක් පිහිටුවීම ද මෙහිදී සිදු කෙරිණි. එහි සභාපතිවරයා ලෙස ජාතික ජනබල වේගය අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී සුසන්ත කුමාර නවරත්න මහතා පත් කෙරිණි.
-
-...
-
-[Data](articles/d9419188.json)
 
 ---

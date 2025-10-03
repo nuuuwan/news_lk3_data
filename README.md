@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 14:10:10**
+As of **2025-10-03 13:57:05**
 
 ## Newspaper Stats
 
-*Scraped **80,771** Articles*
+*Scraped **80,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ colombotelegraphcom | 805
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
-dailyftlk | 5,653
+dailyftlk | 5,648
 adalk | 7,762
 adaderanalk | 10,382
 tamilmirrorlk | 12,032
@@ -27,91 +27,11 @@ adaderanasinhalalk | 13,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,662 (99.9%) of 80,771 articles have been extended.
+80,662 (99.9%) of 80,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
-
-### Sri Lanka strengthens trade, investment, and tourism ties at World Expo 2025 in Osaka
-
-*2025-10-03 13:42:55* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-strengthens-trade-investment-and-tourism-ties-at-World-Expo-2025-in-Osaka/34-782581) · `en`
-
-Sri Lanka showcased its export potential, investment opportunities, and tourism offerings at the Sri Lanka Business Forum and Networking Session held on 26 September during the World Expo 2025 in Osaka.
-
-Organised by the Sri Lanka Export Development Board (EDB) in collaboration with the Embassy of Sri Lanka in Japan, and supported by the Japan External Trade Organisation (JETRO) and the Sri Lanka Business Council of Japan (SLBCJ), the landmark event brought together around 20 leading Sri Lankan exporters from key sectors including apparel, tea, spices, gems and jewellery, food and beverages, handicrafts, and IT services. The Forum served as a dynamic platform to promote Sri Lanka’s authentic, high-quality, and globally trusted products to Japanese investors, importers, and industry leaders.
-
-Opening the session, EDB Chairman/CEO Mangala Wijesinghe described the event as a milestone in strengthening the longstanding partnership between Sri Lanka and Japan.
-
-...
-
-[Data](articles/e2879f2b.json)
-
----
-
-### Hayleys Leisure appoints Rajitha Amarasinghe as Director of Operations – Amaya Resorts & Spas
-
-*2025-10-03 13:41:33* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Leisure-appoints-Rajitha-Amarasinghe-as-Director-of-Operations-Amaya-Resorts-Spas/34-782580) · `en`
-
-Hayleys Leisure has announced the appointment of Rajitha Amarasinghe as Director of Operations – Amaya Resorts & Spas.
-
-In his new role, Amarasinghe will oversee the operations of Amaya Resorts & Spas and the Boutique Collection by Amaya, with a focus on driving operational excellence, elevating service standards, enhancing guest experiences and strengthening financial and business performance. His responsibilities will also encompass people development and compliance, ensuring alignment with Amaya’s vision of becoming the most preferred hotel brand in Sri Lanka.
-
-...
-
-[Data](articles/7a4fb9fc.json)
-
----
-
-### Hayleys Fibre appoints Ajith Karunarathna to Board
-
-*2025-10-03 13:40:44* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fibre-appoints-Ajith-Karunarathna-to-Board/34-782579) · `en`
-
-Hayleys Fibre PLC yesterday said it has appointed Ajith Karunarathna to its Board as an Executive Director.
-
-He served as CFO of the eco solution sector at Hayleys Fibre PLC overseeing financial reporting, taxation, IT and related functions.
-
-With over 20 years of experience in finance, he possesses expertise in strategic financial management, operational oversight and corporate governance across a range of industries including healthcare, manufacturing, technology and retail.
-
-Karunarathna holds a BSc in Accountancy and Financial Management with First Class Honours from the University of Sri Jayewardenepura. He is a Fellow of the Institute of Chartered Accountants of Sri Lanka, the Association of Chartered Certified Accountants (UK), and the Institute of Certified Management Accountants of Sri Lanka.
-
-◼️
-
-[Data](articles/810f7862.json)
-
----
-
-### ComBank’s sustainability leadership inspires UN Global Compact annual sessions in New York
-
-*2025-10-03 13:38:56* · [`dailyftlk`](https://www.ft.lk/business/ComBank-s-sustainability-leadership-inspires-UN-Global-Compact-annual-sessions-in-New-York/34-782578) · `en`
-
-Commercial Bank Deputy General Manager – Corporate Banking Hasrath Munasinghe (left) with UNGC Assistant Secretary General and CEO Sanda Ojiambo
-
-The sustainability leadership of the Commercial Bank of Ceylon was brought into focus on the global stage when Commercial Bank of Ceylon PLC Deputy General Manager – Corporate Banking Hasrath Munasinghe shared insights at United Nations Global Compact (UNGC) annual sessions held in conjunction with United Nations General Assembly (UNGA) annual sessions in New York. The forum was attended by over 500 delegates from 69 countries across the world.
-
-Munasinghe who also serves as a trustee of the bank’s CSR Trust, is a member of the executive sustainability committee of the bank and a board director of the UNGC network in Sri Lanka spoke on Sri Lanka’s sustainability landscape at the Asia and Oceania Leadership Round Table where representatives from 14 countries presented.
-
-...
-
-[Data](articles/526dce9e.json)
-
----
-
-### Samara Perera joins The Kingsbury, Horana Plantations Boards
-
-*2025-10-03 13:36:50* · [`dailyftlk`](https://www.ft.lk/business/Samara-Perera-joins-The-Kingsbury-Horana-Plantations-Boards/34-782577) · `en`
-
-Samara Perera has joined the Boards of The Kingsbury PLC and Horana Plantations PLC as Non-Executive Director.
-
-Perera has been actively involved in business projects and initiatives at both Hayleys PLC and Vallibel One PLC where she gained valuable experience, the companies said.
-
-She is pursuing a Bachelor of Business Degree and is passionate about leadership, entrepreneurship and innovation.
-
-◼️
-
-[Data](articles/e1ee27af.json)
-
----
 
 ### பூஜை பொருட்கள் வாங்கிய பணத்தில் குடித்த தொழிலாளி மரணம்
 
@@ -1942,5 +1862,99 @@ For Sri Lanka, the United States is more than just a trading partner. It is the 
 [Data](articles/4e6f19d0.json)
 
 [Extended Data](ext_articles/4e6f19d0.ext.json)
+
+---
+
+### පොලිස් නිලධාරියා යට කරන්න හැදූ මත් ජාවාරමා වසර 15 හිරගෙට
+
+*2025-10-02 20:30:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පලස-නලධරය-යට-කරනන-හද-මත-ජවරම-වසර-15-හරගට/1-680665) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සහ අපරාධකරුවන් අත්අඩංගුවට ගැනීමට කටයුතු කරන පොලිස් නිලධාරීන්ට හානි කරන අපරාධකරුවන්ට උසාවියෙන් කිසිඳු සමාවක් නැතැයි සඳහන් කළ කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනවිය මත්ද්‍රව්‍ය වැටලීමක නිරතව සිටි පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශයේ නිලධාරියකු කාරයට යටකර මරා දැමීමට තැත් කළ මත් ජාවාරම්කරුවකුට වසර 15ක බරපතල වැඩ සහිත සිරදඬුවම් නියම කරමින්  පැවසුවාය.
+
+වසර 17කට පෙර දෙහිවල නැදිමාල ප්‍රදේශයේදී මත්ද්‍රව්‍ය වැටලීමක නිරතව සිටි පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශයේ පොලිස් සැරයන් වීරසිංහ බණ්ඩාර මහතා මත්ද්‍රව්‍ය තොගයක්ද සමඟ විත්තිකරු පැමිණී කාර් රථය නතර කරන ලෙස සංඥා කළ අවස්ථාවේදී ඔහු යටකර බරපතල තුවාල කිරීම සඟ මරා දැමීමට තැත් කිරීම යන චෝදනාවන්ට වරදකරු කළ විත්තිකරුවකුට එලෙෂ දඬුවම් නියම කළ විනිසුරුවරිය රුපියල් 10 000/-ක දඩයකටද විත්තිකරු යටත් කළාය.
+
+...
+
+[Data](articles/7e67b946.json)
+
+---
+
+### කොළඹ පොත් දැක්මට ජනගගක්: දැනටම ලක්ෂ 2කට කිට්ටුයි
+
+*2025-10-02 20:27:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කළඹ-පත-දකමට-ජනගගක-දනටම-ලකෂ-2කට-කටටය/101-680664) · `si`
+
+ශ්‍රී ලංකා පොත් ප්‍රකාශකයන්ගේ සංගමය 26 වැනි වරටත් සංවිධානය කරන කොළඹ ජාත්‍යන්තර පොත් ප්‍රදර්ශනය ඉතාමත් සාර්ථකව පැවැත්වෙන බව පොත් ප්‍රකාශකයන්ගේ සංගමයේ සභාපති දිනේෂ් කුලතුංග මහතා පැවැසීය.
+
+මේ දින කිහිපයේ පමණක් ජනතාව ලක්ෂ එකහමාරකට වැඩි පිරිසක් පොත් ප්‍රදර්ශනය නැරඹීමට හා පොත්පත් මිලදී ගැනීමට පැමිණ ඇති බව ද ඔහු සඳහන් කළේය.
+
+පසුගිය වසර වලට වඩා බොහෝ සාර්ථක ලෙස පොත් ප්‍රදර්ශනය මෙවර පැවැත්වෙන බවත් පොතපත හොඳින් අලෙවි වන බවට කුටි සංවිධායකයන් ප්‍රකාශ කරන බවත් ඔහු කීය.
+
+මෙවර ප්‍රදර්ශනය ආරම්භයේ සිටම සති අන්ත හෝ සතියේ දින යැයි නොසලකා ජනතාව ඇදෙමින් සිටින බව ද වෙන වසරවල එවැනි තත්වයක් නොතිබූ බව ද ඔහු කීය.
+
+මෙවර පොත් ප්‍රදර්ශනයට වැස්සෙන් කිසිම බාධාවක් ඇති නොවූ බව ද සමහර නවකතා ඇතුළු පොත් මිලදී ගැනීම සඳහා පෝලිම් නිර්මාණය වී ඇති බව ද ඔහු සඳහන් කළේය. මෙවර ප්‍රදර්ශනය සදහා පොත් ප්‍රකාශකයන් 450 කගේ කුටි ඇතුළත්ව තිබෙන බව ද ඔහු කීය.
+
+◼️
+
+[Data](articles/844b1652.json)
+
+---
+
+### කොළඹ පොත් දැක්මට ජනගගක්: දැනටම ලක්ෂ 2කට කිට්ටුයි
+
+*2025-10-02 20:27:20* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කළඹ-පත-දකමට-ජනගගක-දනටම-ලකෂ-2කට-කටටය/222-680664) · `si`
+
+ශ්‍රී ලංකා පොත් ප්‍රකාශකයන්ගේ සංගමය 26 වැනි වරටත් සංවිධානය කරන කොළඹ ජාත්‍යන්තර පොත් ප්‍රදර්ශනය ඉතාමත් සාර්ථකව පැවැත්වෙන බව පොත් ප්‍රකාශකයන්ගේ සංගමයේ සභාපති දිනේෂ් කුලතුංග මහතා පැවැසීය.
+
+මේ දින කිහිපයේ පමණක් ජනතාව ලක්ෂ එකහමාරකට වැඩි පිරිසක් පොත් ප්‍රදර්ශනය නැරඹීමට හා පොත්පත් මිලදී ගැනීමට පැමිණ ඇති බව ද ඔහු සඳහන් කළේය.
+
+පසුගිය වසර වලට වඩා බොහෝ සාර්ථක ලෙස පොත් ප්‍රදර්ශනය මෙවර පැවැත්වෙන බවත් පොතපත හොඳින් අලෙවි වන බවට කුටි සංවිධායකයන් ප්‍රකාශ කරන බවත් ඔහු කීය.
+
+මෙවර ප්‍රදර්ශනය ආරම්භයේ සිටම සති අන්ත හෝ සතියේ දින යැයි නොසලකා ජනතාව ඇදෙමින් සිටින බව ද වෙන වසරවල එවැනි තත්වයක් නොතිබූ බව ද ඔහු කීය.
+
+මෙවර පොත් ප්‍රදර්ශනයට වැස්සෙන් කිසිම බාධාවක් ඇති නොවූ බව ද සමහර නවකතා ඇතුළු පොත් මිලදී ගැනීම සඳහා පෝලිම් නිර්මාණය වී ඇති බව ද ඔහු සඳහන් කළේය. මෙවර ප්‍රදර්ශනය සදහා පොත් ප්‍රකාශකයන් 450 කගේ කුටි ඇතුළත්ව තිබෙන බව ද ඔහු කීය.
+
+◼️
+
+[Data](articles/71bffd05.json)
+
+---
+
+### ළමා දිනය සමරන්න සිසුවෝ 4ක් පාසලට අරක්කු ගෙනත්
+
+*2025-10-02 20:22:02* · [`lankadeepalk`](https://www.lankadeepa.lk/test/ළම-දනය-සමරනන-සසව-4ක-පසලට-අරකක-ගනත/222-680663) · `si`
+
+ලෝක ළමා දිනය සැමරීමට සිය විදුහලට මත්වතුර බෝතලයක් රැගෙන පැමිණි අම්බලන්ගොඩ පාසලක සිසුන් සිවු දෙනකු  අත්අඩංගුවට ගත් බව මීටියාගොඩ පොලීසිය කියයි.
+
+මෙසේ බාරයට ගත් සිසුහු සිව් දෙනා මෙවර සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට නියමිත සිටින අය වෙති.
+
+ඔවුන්ට දැඩි ලෙස අවවාද කර ඔවුන්ගේ මවුපියන්ට පෙරේදා (1) පස්වරුවේම බාර දුන් බව ද පොලීසිය කියයි.
+
+අනතුරුව මෙම සිව් දෙනා මවුපියන්ගේ කැමැත්ත සහිතව එම පාසලෙන් ඉවත් කර ගෙන ඇතැයි විදුහල් ආරංචි මාර්ග කියයි.
+
+ලෝක ළමා දිනය පැවැති පෙරේදා (1) සිසුන් සිව්දෙනා වතුර බෝතලයකට මත්පැන් පුරවා පාසලට රැගෙන පැමිණ ඇති බවත් පොලිසිය කියයි.
+
+මත් වතුර රැගෙන ආ බවට විදුහලෙන් ලැබුණු තොරතුරකට අනුව ඔවුන් සිව්දෙනාම සිය බාරයට ගෙන ප්‍රශ්න කිරීමේ දී ඔවුන් හික්කඩුවේ මත්පැන්හලකින් මත්පැන් මිලට ගෙන වතුර බෝතලයකට දමාගෙන පැමිණ ඇති බව අනාවරණය වීයැයි පොලීසිය කියයි.
+
+◼️
+
+[Data](articles/9635977e.json)
+
+---
+
+### ආර්එම්වී කනතෝරුව කියන්නේ වංචා දූෂණ පිරුණ යෝධ කැලෑවක්
+
+*2025-10-02 20:18:16* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආරඑමව-කනතරව-කයනන-වච-දෂණ-පරණ-යධ-කලවක/1-680662) · `si`
+
+මොටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව විශාල වංචා හා දුෂණ සහිත කැලයක් බවත් ඒවා ක්‍රමානුකූලව නිරවුල් කරගෙන ඉදිරියට යාමට පියවර ගන්නා බවත් ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පැවැසීය.
+
+ඔහු මෙසේ පැවැසුවේ අනුරධපුර දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේ අනුරාධපුර දිස්ත්‍රික් විශේෂ සම්බන්ධීකරණ කමිටු රැස්වීමේදීය.
+
+අනුරාධපුර දිස්ත්‍රික්කයේ පවතින ප්‍රවාහන කේෂත්‍රයේ ගැටලු සහ ඉදිරියේදී සංවර්ධනය විය යුතු කටයුතු පිළිබදව මෙහි දී සාකච්ජාවට ලක්විය.
+
+ප්‍රවාහන හා මාර්ග කටයුතු සම්බන්ධයෙන් සංවර්ධන කටයුතු පහසු කිරීම හා නිසියාකාර කිරීම උදෙසා වන දිස්ත්‍රික් කමිටුවක් පිහිටුවීම ද මෙහිදී සිදු කෙරිණි. එහි සභාපතිවරයා ලෙස ජාතික ජනබල වේගය අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී සුසන්ත කුමාර නවරත්න මහතා පත් කෙරිණි.
+
+...
+
+[Data](articles/d9419188.json)
 
 ---

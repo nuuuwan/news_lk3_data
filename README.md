@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-02 15:07:21**
+As of **2025-10-03 10:48:46**
 
 ## Newspaper Stats
 
-*Scraped **80,580** Articles*
+*Scraped **80,584** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 559
+newsfirstlk | 560
 dbsjeyarajcom | 637
-lankadeepalk | 646
+lankadeepalk | 649
 bbccomsinhala | 719
 colombotelegraphcom | 803
 dailymirrorlk | 4,733
@@ -27,11 +27,31 @@ adaderanasinhalalk | 13,883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,573 (100.0%) of 80,580 articles have been extended.
+80,573 (100.0%) of 80,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-02 (Thursday)
+
+### IMF Reforms Paying Off? Fitch Keeps Sri Lanka at ‘CCC+’ Amid Recovery Signs
+
+*2025-10-02 14:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/imf-reforms-paying-off-fitch-keeps-sri-lanka-at-%e2%80%98ccc-%e2%80%99-amid-recovery-signs) · `en`
+
+COLOMBO (News 1st); GGlobal credit rating agency Fitch Ratings has affirmed Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) at ‘CCC+’, citing continued fiscal and economic vulnerabilities despite notable progress under the country’s IMF-supported reform programme.
+
+Fitch does not assign outlooks to sovereigns rated ‘CCC+’ or below, but the affirmation reflects a cautiously optimistic view of Sri Lanka’s post-debt restructuring trajectory, following the completion of its sovereign debt overhaul in 2024.
+
+The rating remains constrained by elevated public debt, a high interest-to-revenue ratio, and structural fiscal weaknesses, even as the country demonstrates signs of recovery.
+
+Fitch forecasts gross general government debt to reach 96% of GDP by 2027, well above the ‘CCC’ median of 74%.
+
+However, the agency acknowledged substantial progress under the 48-month IMF programme, including:
+
+...
+
+[Data](articles/fc3ce7ee.json)
+
+---
 
 ### යාල් දේවී ප්‍රමාද වී ධාවනය කිරීම ගැන දැනුම්දීමක්
 
@@ -141,21 +161,17 @@ The official added that the train traffic in the Puttalam road could be interrup
 
 ---
 
-### SC sets date to hear FR petition filed by ex-Minister Rishad Bathiudeen
+### දුම්රියක් රාගමදී පිලී පනියි
 
-*2025-10-02 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113157/sc-sets-date-to-hear-fr-petition-filed-by-ex-minister-rishad-bathiudeen) · `en`
+*2025-10-02 14:11:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දමරයක-රගමද-පල-පනය/101-680640) · `si`
 
-The Supreme Court has ordered that the Fundamental Rights petition filed by former Minister Rishad Bathiudeen — challenging his arrest and detention under a detention order in 2021 without any justifiable reason — be taken up for hearing on March 25, 2026.
+ප්‍රීමා පිටි ප්‍රවාහන කරන දුම්රියක් රාගම දුම්රිය ස්ථානයේ රාගම සහ ජාඇල අන්තයේ අද (2) දහවල් පිලී පැනීමකට ලක්ව ඇති බව දුම්රිය දෙපාර්තමේන්තුවේ උසස් නිලධාරියෙක් පැවසීය.
 
-The petition was called today before a three-judge bench of the Supreme Court comprising Justices Shiran Gunaratne, Achala Wengappuli, and Priyantha Fernando, Ada Derana reporter said.
-
-During the proceeding, the bench ordered that the petition be scheduled for hearing on March 25, 2026.
-
-Former Minister Rishad Bathiudeen filed the fundamental rights petition seeking a declaration that his fundamental human rights had been violated due to his unlawful arrest and detention by the Criminal Investigation Department (CID) during the tenure of former President Gotabaya Rajapaksa, without any justifiable cause.
+මේ හේතුවෙන් අද දින පුත්තලම් මාර්ගයේ දුම්රිය ගමනාගමනයට බාධා ඇතිවිය හැකි බවද එම නිලධාරියා වැඩිදුරටත් සඳහන් කළේය.
 
 ◼️
 
-[Data](articles/90a722e9.json)
+[Data](articles/df57a1f9.json)
 
 ---
 
@@ -174,6 +190,24 @@ Former Minister Rishad Bathiudeen filed the fundamental rights petition seeking 
 ◼️
 
 [Data](articles/e1a351e7.json)
+
+---
+
+### SC sets date to hear FR petition filed by ex-Minister Rishad Bathiudeen
+
+*2025-10-02 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113157/sc-sets-date-to-hear-fr-petition-filed-by-ex-minister-rishad-bathiudeen) · `en`
+
+The Supreme Court has ordered that the Fundamental Rights petition filed by former Minister Rishad Bathiudeen — challenging his arrest and detention under a detention order in 2021 without any justifiable reason — be taken up for hearing on March 25, 2026.
+
+The petition was called today before a three-judge bench of the Supreme Court comprising Justices Shiran Gunaratne, Achala Wengappuli, and Priyantha Fernando, Ada Derana reporter said.
+
+During the proceeding, the bench ordered that the petition be scheduled for hearing on March 25, 2026.
+
+Former Minister Rishad Bathiudeen filed the fundamental rights petition seeking a declaration that his fundamental human rights had been violated due to his unlawful arrest and detention by the Criminal Investigation Department (CID) during the tenure of former President Gotabaya Rajapaksa, without any justifiable cause.
+
+◼️
+
+[Data](articles/90a722e9.json)
 
 ---
 
@@ -219,22 +253,6 @@ According to police sources, the suspect had altered vehicle registration record
 
 ---
 
-### හිටපු ජනපති මහින්දගේ ප්‍රධාන ආරක්ෂක නෙවිල් අත්අඩංගුවට
-
-*2025-10-02 14:01:00* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-මහින්දගේ-ප්‍රධාන-ආරක්ෂක-නෙවිල්-අත්අඩංගුවට/11-418870) · `si`
-
-The Chief Defense Officer of former President Mahinda Rajapaksa, the Chief Defense Officer of former President Mahinda Rajapaksa, has been arrested by the Commission of Investigation Commission.
-
-The Bribery Commission had arrested this after arriving at the Bribery Commission today (02).
-
-◼️
-
-[Data](articles/5455b483.json)
-
-[Extended Data](ext_articles/5455b483.ext.json)
-
----
-
 ### 14 DIGs Transferred in Major Police Overhaul
 
 *2025-10-02 14:01:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/14-digs-transferred-in-major-police-overhaul) · `en`
@@ -263,6 +281,36 @@ DIG A. I. Hapugoda has been transferred from Traffic Management and Road Safety 
 
 ---
 
+### හිටපු ජනපති මහින්දගේ ප්‍රධාන ආරක්ෂක නෙවිල් අත්අඩංගුවට
+
+*2025-10-02 14:01:00* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-මහින්දගේ-ප්‍රධාන-ආරක්ෂක-නෙවිල්-අත්අඩංගුවට/11-418870) · `si`
+
+The Chief Defense Officer of former President Mahinda Rajapaksa, the Chief Defense Officer of former President Mahinda Rajapaksa, has been arrested by the Commission of Investigation Commission.
+
+The Bribery Commission had arrested this after arriving at the Bribery Commission today (02).
+
+◼️
+
+[Data](articles/5455b483.json)
+
+[Extended Data](ext_articles/5455b483.ext.json)
+
+---
+
+### මහින්දගේ ප්‍රධාන ආරක්ෂක නිලධාරියා අත්අඩංගුවට
+
+*2025-10-02 13:57:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-පරධන-ආරකෂක-නලධරය-අතඅඩගවට/101-680639) · `si`
+
+හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධාන ආරක්ෂ නිලධාරී මේජර් නෙවිල් වන්නිආරච්චි මහතා මීට සුළු මොහොතකට පෙර අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+ඒ අල්ලස් සහ දූෂණ චෝදනාවක් සම්බන්ධයෙන් අල්ලස් කොමිෂන් සභාව හමුවේ අද පෙනී සිටි අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/abed8002.json)
+
+---
+
 ### Mahinda's chief security officer arrested
 
 *2025-10-02 13:57:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනදග-පරධන-ආරකෂක-නලධරය-අතඅඩගවට/1-680639) · `si`
@@ -279,18 +327,6 @@ It was when he appeared before the Bribery Commission regarding a bribery and co
 
 ---
 
-### Tajuddin goal blocking Namal Baby
-
-*2025-10-02 13:52:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தாஜுதீன்-கோலை-தடுப்பாரா-நாமல்-பேபி/62-365642) · `ta`
-
-◼️
-
-[Data](articles/64cedc9d.json)
-
-[Extended Data](ext_articles/64cedc9d.ext.json)
-
----
-
 ### Tajuddin goal
 
 *2025-10-02 13:52:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தாஜுதீன்-கோலை-பிடிப்பாரா-நாமல்-பேபி/62-365642) · `ta`
@@ -300,6 +336,18 @@ It was when he appeared before the Bribery Commission regarding a bribery and co
 [Data](articles/bfd1c0cd.json)
 
 [Extended Data](ext_articles/bfd1c0cd.ext.json)
+
+---
+
+### Tajuddin goal blocking Namal Baby
+
+*2025-10-02 13:52:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தாஜுதீன்-கோலை-தடுப்பாரா-நாமல்-பேபி/62-365642) · `ta`
+
+◼️
+
+[Data](articles/64cedc9d.json)
+
+[Extended Data](ext_articles/64cedc9d.ext.json)
 
 ---
 
@@ -587,6 +635,20 @@ The Minister of Health was held as a new concept of the Ministry of Health and t
 
 ---
 
+### Ex-President Mahinda’s Chief Security Officer Neville Wanniarachchi arrested
+
+*2025-10-02 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113155/ex-president-mahindas-chief-security-officer-neville-wanniarachchi-arrested) · `en`
+
+The Chief Security Officer of former President Mahinda Rajapaksa, Neville Wanniarachchi has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Earlier, he was brought to the Bribery Commission for questioning.
+
+◼️
+
+[Data](articles/2775de8a.json)
+
+---
+
 ### Ex-President Mahinda’s Chief Security Officer Neville Wanniarachchi brought to Bribery Commission
 
 *2025-10-02 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113155/chief-security-officer-of-ex-president-mahinda-rajapaksa-neville-wanniarachchi-arrested-) · `en`
@@ -600,20 +662,6 @@ He is currently being questioned by officers attached to the Bribery Commission.
 [Data](articles/0794c15f.json)
 
 [Extended Data](ext_articles/0794c15f.ext.json)
-
----
-
-### Ex-President Mahinda’s Chief Security Officer Neville Wanniarachchi arrested
-
-*2025-10-02 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113155/ex-president-mahindas-chief-security-officer-neville-wanniarachchi-arrested) · `en`
-
-The Chief Security Officer of former President Mahinda Rajapaksa, Neville Wanniarachchi has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Earlier, he was brought to the Bribery Commission for questioning.
-
-◼️
-
-[Data](articles/2775de8a.json)
 
 ---
 
@@ -652,6 +700,22 @@ Extended by the company to check the woman, no police report has not received an
 ...
 
 [Data](articles/d81971a9.json)
+
+---
+
+### කොල්ල කල්ලි ජාලයක නායිකාවක්-ඇගේ පුත්‍රයා ඇතුළු තිදෙනකු අල්ලයි
+
+*2025-10-02 13:19:14* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කලල-කලල-ජලයක-නයකවක-ඇග-පතරය-ඇතළ-තදනක-අලලය/222-680636) · `si`
+
+නිවාසවලට සේවිකාවන් සපයන ආයතනයක සේවය කරමින් එම නිවාසවල සේවා කටයුතු ආදියේ නිරත වෙමින්  කොල්ල කණ්ඩායමක් යොදවා නිවාස කොල්ලකෑමේ නිරත සංවිධානාත්මක ජාලයක නායිකාව වන කාන්තාවක ඇගේ පුත්‍රයා ඇතුලු තිදෙනෛකු සමඟ අත්අඩංගුවට ගත් බව බෙම්මුල්ල පොලිසියට කියයි.
+
+මෙසේ අත්අඩංගුවට ගත් පිරිස හඟුරන් කෙත ප්‍රදේශයේ පදිංචිකරුවන් බව පොලිසිය කියයි.
+
+මෙම කාන්තාව සිය පුතුගේ කල්ලිය සමඟ එක්ව කරන මෙම කොල්ලකෑම් හෙළි කර ගැනීමට හැකි වී ඇත්තේ  බෙම්මුල්ල සපුගස්තැන්න ප්‍රදේශයේ නිවසක සිදුවූ කොල්ලයක් සම්බන්ධ පරීක්ෂණ පැවැත්වීමේදීය.වයස අවුරුදු හතක් වූ මුනුබුරා සමඟ   දෙමහල් නිවසේ ජීවත් වෙන වයස අවුරුදු පනස් හතරක් පමණ වන කාන්තාවක නිවසේ අත පය බැඳ දමා  තිබූ අතර   එදින රාත්‍රියේ එකට පමණ දෙදෙනෙක් පැමිණ ඇය ගැටගසා නිවසේ තිබූ රන් ආභරණ සහ දුරකථන දෙකක් රැගෙන ගොස් තිබිණි.
+
+...
+
+[Data](articles/8efa341c.json)
 
 ---
 
@@ -821,22 +885,6 @@ The teacher has been investigated and released on bail by the Vavuniya police an
 
 ---
 
-### Sri Lanka's criminal suspects punishment 10%
-
-*2025-10-02 12:51:48* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-අපරධ-සකකරවන-දඬවම-ලබනන-10-අඩ-පරමණයක/26-680635) · `si`
-
-Advice - Director, Attorney Sanjeewani Abeykoon on the laws of the National Child Protection Authority
-
-The law is a recognized principle that the law is not excuse. Law knows or do not know or do not know the children and women in the country. The Dhampeasure of the Hangara Scenario has been noted daily.. To prevent such tragic events, the children should be given to the children to protect children from child abuse. At any sexual abuse, the elderly and child child knows about the elders and children.
-
-...
-
-[Data](articles/adb62db2.json)
-
-[Extended Data](ext_articles/adb62db2.ext.json)
-
----
-
 ### Sri Lanka's criminal suspect is punished 10%
 
 *2025-10-02 12:51:48* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-අපරධ-සකකරව-දඬවම-ලබනන-10-අඩ-පරමණයක/26-680635) · `si`
@@ -850,6 +898,22 @@ The law is a recognized principle that the law is not excuse. Law knows or do no
 [Data](articles/ea1e5e2e.json)
 
 [Extended Data](ext_articles/ea1e5e2e.ext.json)
+
+---
+
+### Sri Lanka's criminal suspects punishment 10%
+
+*2025-10-02 12:51:48* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මරට-අපරධ-සකකරවන-දඬවම-ලබනන-10-අඩ-පරමණයක/26-680635) · `si`
+
+Advice - Director, Attorney Sanjeewani Abeykoon on the laws of the National Child Protection Authority
+
+The law is a recognized principle that the law is not excuse. Law knows or do not know or do not know the children and women in the country. The Dhampeasure of the Hangara Scenario has been noted daily.. To prevent such tragic events, the children should be given to the children to protect children from child abuse. At any sexual abuse, the elderly and child child knows about the elders and children.
+
+...
+
+[Data](articles/adb62db2.json)
+
+[Extended Data](ext_articles/adb62db2.ext.json)
 
 ---
 
@@ -991,24 +1055,6 @@ President’s Counsel Faiszer Musthapha further stated in court that if such a s
 
 ### The father father goes on the end of the elephant
 
-*2025-10-02 12:37:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇතග-පහරන-තදර-පය-අවසන-ගමන-යය/101-680634) · `si`
-
-Anamaduwa, a father of a father, has been killed in a resident of Siyambalagaswewa areas, said Anamaduwa Police.
-
-The deceased has been identified as a 65 year old farmanna, a 65-year-old farmanna.
-
-Police say they had broken back from the house at around 6.30 am and was attacked and killed in that place.. Siyambalagaswewa says that the elephant has already been killed in the Anamaduwa, Thonigala area and Kajahoda.
-
-◼️
-
-[Data](articles/97d5e1b9.json)
-
-[Extended Data](ext_articles/97d5e1b9.ext.json)
-
----
-
-### The father father goes on the end of the elephant
-
 *2025-10-02 12:37:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇතග-පහරන-තදර-පය-අවසන-ගමන-යය/1-680634) · `si`
 
 Anamaduwa, a father of a father, has been killed in a resident of Siyambalagaswewa areas, said Anamaduwa Police.
@@ -1022,6 +1068,24 @@ Police say they had broken back from the house at around 6.30 am and was attacke
 [Data](articles/a6ad267a.json)
 
 [Extended Data](ext_articles/a6ad267a.ext.json)
+
+---
+
+### The father father goes on the end of the elephant
+
+*2025-10-02 12:37:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇතග-පහරන-තදර-පය-අවසන-ගමන-යය/101-680634) · `si`
+
+Anamaduwa, a father of a father, has been killed in a resident of Siyambalagaswewa areas, said Anamaduwa Police.
+
+The deceased has been identified as a 65 year old farmanna, a 65-year-old farmanna.
+
+Police say they had broken back from the house at around 6.30 am and was attacked and killed in that place.. Siyambalagaswewa says that the elephant has already been killed in the Anamaduwa, Thonigala area and Kajahoda.
+
+◼️
+
+[Data](articles/97d5e1b9.json)
+
+[Extended Data](ext_articles/97d5e1b9.ext.json)
 
 ---
 
@@ -1255,24 +1319,6 @@ The accident occurred when the tipper lorry was rear from the work yard on Wedne
 
 ---
 
-### අවුරුද්දකට ලංකාවෙන් පියයුරු පිළිකා රෝගීහු 5500ක්
-
-*2025-10-02 12:19:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අවරදදකට-ලකවන-පයයර-පළක-රගහ-5500ක/1-680632) · `si`
-
-Sri Lanka's surgeon's scientists say that the breast cancer patients identify a hundred thousand five
-
-Meanwhile, it has been revealed that fifteen pawned cancer patients are identified and three breast cancer patients die.
-
-This information was revealed at the workshop for breast cancer organized by the Institute of Sciences of Sri Lanka Surgeons
-
-◼️
-
-[Data](articles/120ae9b6.json)
-
-[Extended Data](ext_articles/120ae9b6.ext.json)
-
----
-
 ### 5500 breast cancer patients from Sri Lanka a year
 
 *2025-10-02 12:19:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අවරදදකට-ලකවන-පයයර-පළක-රගහ-5500ක/101-680632) · `si`
@@ -1288,6 +1334,24 @@ This information was revealed at the workshop for breast cancer organized by the
 [Data](articles/c9d82cb1.json)
 
 [Extended Data](ext_articles/c9d82cb1.ext.json)
+
+---
+
+### අවුරුද්දකට ලංකාවෙන් පියයුරු පිළිකා රෝගීහු 5500ක්
+
+*2025-10-02 12:19:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අවරදදකට-ලකවන-පයයර-පළක-රගහ-5500ක/1-680632) · `si`
+
+Sri Lanka's surgeon's scientists say that the breast cancer patients identify a hundred thousand five
+
+Meanwhile, it has been revealed that fifteen pawned cancer patients are identified and three breast cancer patients die.
+
+This information was revealed at the workshop for breast cancer organized by the Institute of Sciences of Sri Lanka Surgeons
+
+◼️
+
+[Data](articles/120ae9b6.json)
+
+[Extended Data](ext_articles/120ae9b6.ext.json)
 
 ---
 
@@ -1327,26 +1391,6 @@ The Excise Department announced that liquor shops will be closed tomorrow due to
 
 ### Explosives found in Pudukudirippu land
 
-*2025-10-02 12:14:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදකඩරපප-ඉඩමකන-පපරණ-දරවය-හමවය/1-680629) · `si`
-
-Police said that the land was located in Muhamalai, Muhamalai and Mullaittivu Pudukudirippu and Mullaittivu, RPG ammunition and a flag of the LTTE and the LTTE was found yesterday.
-
-Palai Police said that 31 mm 81mm mortar bullets found at a cost of information received by the Pallai Police.
-
-Pudukudirippu Devapuram Devatas was found in the clevition of a land of providing a RPG bullet, a 60mm mortar bullet, the LTTE's flag in the LTTE.
-
-Police said the LTTE would have found out that the delegated explosives were taken by the LTTE to attack security forces during the war.
-
-◼️
-
-[Data](articles/c7e52f00.json)
-
-[Extended Data](ext_articles/c7e52f00.ext.json)
-
----
-
-### Explosives found in Pudukudirippu land
-
 *2025-10-02 12:14:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පදකඩරපප-ඉඩමකන-පපරණ-දරවය-හමවය/101-680629) · `si`
 
 Police said that the land was located in Muhamalai, Muhamalai and Mullaittivu Pudukudirippu and Mullaittivu, RPG ammunition and a flag of the LTTE and the LTTE was found yesterday.
@@ -1362,6 +1406,26 @@ Police said the LTTE would have found out that the delegated explosives were tak
 [Data](articles/ff1c7a85.json)
 
 [Extended Data](ext_articles/ff1c7a85.ext.json)
+
+---
+
+### Explosives found in Pudukudirippu land
+
+*2025-10-02 12:14:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පදකඩරපප-ඉඩමකන-පපරණ-දරවය-හමවය/1-680629) · `si`
+
+Police said that the land was located in Muhamalai, Muhamalai and Mullaittivu Pudukudirippu and Mullaittivu, RPG ammunition and a flag of the LTTE and the LTTE was found yesterday.
+
+Palai Police said that 31 mm 81mm mortar bullets found at a cost of information received by the Pallai Police.
+
+Pudukudirippu Devapuram Devatas was found in the clevition of a land of providing a RPG bullet, a 60mm mortar bullet, the LTTE's flag in the LTTE.
+
+Police said the LTTE would have found out that the delegated explosives were taken by the LTTE to attack security forces during the war.
+
+◼️
+
+[Data](articles/c7e52f00.json)
+
+[Extended Data](ext_articles/c7e52f00.ext.json)
 
 ---
 
@@ -1553,28 +1617,6 @@ The duo and the confiscated items had been subsequently handed over to the Custo
 
 ---
 
-### Bribery Commission is worried about misleading statements
-
-*2025-10-02 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215252) · `si`
-
-The Commission also informs that some persons and institutions have worked hard to deal with bribery or corruption complaints regarding the bribery or corruption Commission.
-
-The Commission has informed the Commission that the Commission will not hesitate to take necessary legal legal action to propagate the wrong propaganda of the Commission or the Corruption Act to the Commission.
-
-The Commission is worried that there is anxious and misleading electronic media, print and social media regarding the bribery or corruption commissions.
-
-Such actions also cause a distorted opinion on the pretext of the commission of the Commission and the activities of the Commission as well as the activities of the Commission are lacking.
-
-The Bribery or Corruption Commission has once again commemorated that the Commission has had constitutional authority to ensure the power of the Commission.
-
-...
-
-[Data](articles/19458878.json)
-
-[Extended Data](ext_articles/19458878.ext.json)
-
----
-
 ### Shah Rukh Khan is the world's richest actor
 
 *2025-10-02 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226659) · `ta`
@@ -1594,6 +1636,28 @@ Actor Shah Rukh Khan is the co -owner of Kolkata Knight Riders, one of the IPL t
 [Data](articles/58c223a9.json)
 
 [Extended Data](ext_articles/58c223a9.ext.json)
+
+---
+
+### Bribery Commission is worried about misleading statements
+
+*2025-10-02 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215252) · `si`
+
+The Commission also informs that some persons and institutions have worked hard to deal with bribery or corruption complaints regarding the bribery or corruption Commission.
+
+The Commission has informed the Commission that the Commission will not hesitate to take necessary legal legal action to propagate the wrong propaganda of the Commission or the Corruption Act to the Commission.
+
+The Commission is worried that there is anxious and misleading electronic media, print and social media regarding the bribery or corruption commissions.
+
+Such actions also cause a distorted opinion on the pretext of the commission of the Commission and the activities of the Commission as well as the activities of the Commission are lacking.
+
+The Bribery or Corruption Commission has once again commemorated that the Commission has had constitutional authority to ensure the power of the Commission.
+
+...
+
+[Data](articles/19458878.json)
+
+[Extended Data](ext_articles/19458878.ext.json)
 
 ---
 
@@ -1863,26 +1927,6 @@ About 3 million people die prematurely due to alcohol use annually. Of the 10 de
 
 ### "Our hands in our hands on the killing of the Thajayan
 
-*2025-10-02 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තජදන-ඝතනය-තරතර-රසක-අප-අත/101-680611) · `si`
-
-Minister Bim Ratnayake said there was the latest information about the killing of the Thajauth
-
-He said that these crimes were not crimes or Gnanaratne said that the country who ruled the country was closed
-
-He said this government had 60 months and that only twelve months
-
-Dimal Ratnayake said that everyone will be in accordance with the law by the end of the last 48 months.
-
-◼️
-
-[Data](articles/3e67d135.json)
-
-[Extended Data](ext_articles/3e67d135.ext.json)
-
----
-
-### "Our hands in our hands on the killing of the Thajayan
-
 *2025-10-02 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-ඝතනය-තරතර-රසක-අප-අත/1-680611) · `si`
 
 Minister Bim Ratnayake said there was the latest information about the killing of the Thajauth
@@ -1898,67 +1942,5 @@ He said this government had 60 months and that only twelve months
 [Data](articles/a12d6645.json)
 
 [Extended Data](ext_articles/a12d6645.ext.json)
-
----
-
-### 3 Buildings of Thottalanga Botti A sister freeze
-
-*2025-10-02 10:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொட்டலங்க-பொட்டி-அக்காவின்-3-கட்டடங்கள்-முடக்கம்/175-365625) · `ta`
-
-'தொட்டலங்க பொட்டி அக்கா' எனப்படும் விந்தனி பிரியதர்ஷிகாவுக்கு சொந்தமான கிரேண்ட்பாஸ் பர்குயூஷன் பகுதியிலுள்ள 03 கட்டடங்கள் முடக்கப்பட்டுள்ளன.
-
-The action has been taken by the illegal assets investigation unit, claiming that these buildings have been paid for drug trafficking.
-
-◼️
-
-[Data](articles/53eada24.json)
-
-[Extended Data](ext_articles/53eada24.ext.json)
-
----
-
-### Explanation for "Buma"!
-
-*2025-10-02 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226650) · `ta`
-
-The Colombo Fort Magistrate's Court on Wednesday (02) ordered that Pumi Hastika, the so -called "puma" of the underworld gang, has been remanded until the 15th of this month.
-
-The order was issued when the "Puma", which was placed in the interpretation, was produced in court yesterday amid heavy security.
-
-The police, appearing in court, said that there are continuing inquiries into the "Puma".
-
-Considering this, the magistrate has ordered "Puma" to be remanded until the 15th of this month.
-
-One of the main assistants of Salinda Malshika, the so -called "Gudu Salinda", the head of the underworld and the head of the underworld gang.
-
-It is noteworthy that the underworld gang was arrested in Dubai in Dubai and was taken to Sri Lanka on February 15, 2024 and was interrogated by police detention and subsequently under court order.
-
-◼️
-
-[Data](articles/01d15061.json)
-
-[Extended Data](ext_articles/01d15061.ext.json)
-
----
-
-### First Look release of the movie 'Chairman Thambi led by Jeeva'
-
-*2025-10-02 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226646) · `ta`
-
-The new film, starring Jeeva, the famous actor of the Tamil film industry, has been named as 'Chairman Thambi -led' and has been released by its first look.
-
-Directed by Nitish Sahadev, directed by director Nitish Sahadev, the upcoming film 'Chairman Thambi' starring Jeeva, Prathana Nathan, Meenakshi Dinesh, Thambi Ramaiah, Princess and Jenson Divakar.
-
-Vishnu Vijay has composed the film, which has been recorded by Pablu Aju. The film is being produced by KR Group Company, produced by Kannan Ravi.
-
-The shooting of the film is nearing completion and the post -shooting technical work has been going on and the final stage is reached.. In this case, the film's title and first look have been released by the film crew.
-
-It has impressed the fans.  The teaser of the film is expected to be released soon.
-
-◼️
-
-[Data](articles/afc7f466.json)
-
-[Extended Data](ext_articles/afc7f466.ext.json)
 
 ---

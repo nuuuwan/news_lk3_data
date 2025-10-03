@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 21:20:21**
+As of **2025-10-03 21:38:35**
 
 ## Newspaper Stats
 
@@ -27,23 +27,25 @@ adaderanasinhalalk | 13,926
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,940 (100.0%) of 80,941 articles have been extended.
+80,941 (100.0%) of 80,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
 
-### ට්‍රම්ප් හමාස් සංවිධානයට අවසාන නිවේදනය නිකුත් කරයි
+### Trump releases final announcement to Hamas
 
 *2025-10-03 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215311) · `si`
 
-ගාසා තීරය සඳහා ඇමරිකානු සාම සැලැස්ම පිළිගැනීමට එක්සත් ජනපද ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් හමාස් සංවිධානයට අවසාන දිනයක් ලබා දී තිබේ.
+US president Donald Trump has given the Hamas to accept the American peace plan for Gaza.
 
-සිය Truth සමාජ මාධ්‍ය වේදිකාවේ සටහනක් තබමින් එළඹෙන ඉරිදා ග්‍රිනිජ් මධ්‍ය වේලාවෙන් 22.00 පැයට, එනම් වොෂින්ටන් වේලාවෙන් 18.00 පැය වන විට එකඟතාවයකට පැමිණිය යුතු බව ඔහු අවධාරණය කර සිටී.
+He emphasizes that a note of its Truth Social Media Status should be agreed at 22.00 at 18.00 at 18.00 at Washington Time.
 
 ◼️
 
 [Data](articles/0c63af98.json)
+
+[Extended Data](ext_articles/0c63af98.ext.json)
 
 ---
 

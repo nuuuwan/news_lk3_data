@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 23:20:35**
+As of **2025-10-03 23:40:04**
 
 ## Newspaper Stats
 
-*Scraped **80,950** Articles*
+*Scraped **80,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,34 @@ dailyftlk | 5,653
 adalk | 7,771
 adaderanalk | 10,416
 tamilmirrorlk | 12,037
-virakesarilk | 13,270
+virakesarilk | 13,275
 adaderanasinhalalk | 13,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,950 (100.0%) of 80,950 articles have been extended.
+80,950 (100.0%) of 80,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
+
+### சட்டப்படி வேலை செய்யும் தொழிற்சங்க போராட்டத்தை தீவிரப்படுத்தவுள்ளோம் - இலங்கை மின்சாரசபை பொறியியலாளர் சங்கம்
+
+*2025-10-03 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226837) · `ta`
+
+இலங்கை மின்சாரசபை ஊழியர்கள் இதுவரை கடைப்பிடித்துவரும் சட்டப்படி வேலை செய்யும் தொழிற்சங்க போராட்டத்தை தீவிரப்படுத்தி திங்கட்கிழமை முதல் உயர் அதிகாரிகளுடன் தொடர்புகளை மேற்கொள்வதில் இருந்து தவிர்ந்திருப்பதாகவும் அந்த அதிகாரிகள் யார் என்பது தொடர்பான தீர்மானத்தை இன்றைய தினத்துக்குள் மேற்கொள்வதாகவும் இலங்கை மின்சாரசபை பொறியியலாளர் சங்கத்தின் நிறைவேற்று குழு உறுப்பினர் தனுஷ்க பராக்கிரமசிங்க தெரிவித்தார்.
+
+இலங்கை மின்சாரசபை  ஊழியர்கள் கடந்த மாதம் 4ஆம் திகதிமுதல் முன்னெடுத்துவரும் சட்டப்படி  வேலை செய்யும்  போராட்டத்தின் அடுத்த கட்ட நடவடிக்கை தொடர்பில் வெள்ளிக்கிழமை (3) ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இலங்கை  மின்சாரசபையை மறுசீரமைப்பு செய்வதற்கு அரசாங்கம் எடுத்திருக்கும் நடவடிக்கையை முறையாக மேற்கொள்ள வேண்டும்  என தெரிவித்து, 24 கோரிக்கைகளைை அடிப்படையாகக்கொண்டு எமது தொழிற்சங்கங்கள் போராட்டம் மேற்கொண்டு வருகிறது. ஆரம்பமாக நாங்கள் இரண்டுநாள் சுகயீன விடுமுறை அறிவித்து ஊழியர்கள் அனைவரையும் கொழும்புக்கு அழைத்துவந்து ஆர்ப்பாட்டம் ஒன்றை மேற்கொண்டிருந்தோம்.
+
+...
+
+[Data](articles/7ef89e87.json)
+
+---
 
 ### Emergency news to the people of Sri Lanka
 
@@ -48,6 +64,22 @@ From today, the following telephone numbers of the Senior Superintendent of Poli
 [Data](articles/61e88d1a.json)
 
 [Extended Data](ext_articles/61e88d1a.ext.json)
+
+---
+
+### இலங்கை வங்கி ஊழியர் சங்கத்தினால் மட்டக்களப்பில்  "தீப்பந்த எதிர்ப்பு" ஆர்ப்பாட்டம்!!
+
+*2025-10-03 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226836) · `ta`
+
+அரச வங்கிகள் அனைத்திலும் தீர்க்கப்படாதுள்ள பிரச்சினைகளுக்கு எதிராக மட்டக்களப்பில் 03ஆம் திகதி வெள்ளிக்கிழமை மாலை "தீப்பந்த எதிர்ப்பு" ஆர்ப்பாட்டமொன்று முன்னெடுக்கப்பட்டது.
+
+அரச வங்கிகள் அனைத்திலும் தீர்க்கப்படாதுள்ள பிரச்சினைகள் காணப்பட்டு வரும் நிலையில் தொழிற்சங்க நடவடிக்கைகளை தீவிரப்படுத்தும் முகமாக மாவட்ட மட்டத்தில் வெள்ளிக்கிழமை (03) திகதி மாலை மட்டக்களப்பு காந்தி பூங்கா முன்பாக "தீப்பந்த எதிர்ப்பு" ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+
+நாடளாவிய ரீதியில் இன்றைய தினம் யாழ்ப்பாணம், மட்டக்களப்பு, திருகோணமலை, இரத்தினபுரி மற்றும் மாத்தளை மாவட்டம் உள்ளிட்ட நகரங்களில் மாலை 6.00 மணி முதல் இலங்கை வங்கி ஊழியர் சங்கத்தினால் "தீப்பந்த எதிர்ப்பு" ஆர்ப்பாட்டங்கள் முன்னெடுக்கப்பட்டமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0299f5f3.json)
 
 ---
 
@@ -70,6 +102,26 @@ When the Chunnakam police were investigating the matter, the student said this i
 [Data](articles/2249fc62.json)
 
 [Extended Data](ext_articles/2249fc62.ext.json)
+
+---
+
+### காசா போர்நிறுத்த ஒப்பந்தம்: ஹமாஸுக்கு டிரம்ப் இறுதி எச்சரிக்கை! "நரகமாகும்" என மிரட்டல்!
+
+*2025-10-03 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226835) · `ta`
+
+அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப், காசா போரை முடிவுக்குக் கொண்டு வருவதற்கான போர்நிறுத்த ஒப்பந்தத்தை ஏற்க ஹமாஸ் அமைப்புக்கு காலக்கெடு விதித்துள்ளார்.
+
+வெளிநாட்டு ஊடகச் செய்திகளின்படி, ஹமாஸ் அமைப்பு இந்த ஒப்பந்தத்தை ஏற்க ஞாயிற்றுக்கிழமை, கிரீன்விச் நேரம் (GMT) இரவு 10 மணி (2200) வரை மட்டுமே அவகாசம் அளிக்கப்பட்டுள்ளது.
+
+டிரம்ப் தனது சமூக ஊடகப் பதிவில், "இந்த கடைசி வாய்ப்பு ஒப்பந்தம் எட்டப்படாவிட்டால், வேறு யாரும் இதுவரை கண்டிராத வகையில், ஹமாஸுக்கு எதிராக 'அனைத்து நரகமும் (All Hell)' வெடிக்கும்" என்று கடுமையாக எச்சரித்துள்ளார்.
+
+இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகுவுடன் இணைந்து டிரம்ப் வெளியிட்ட இந்த அமைதித் திட்டத்திற்கு அரபு மற்றும் முஸ்லிம் நாடுகள் உட்படப் பல உலக நாடுகள் ஆதரவு தெரிவித்துள்ளன.
+
+திட்டத்தின் முக்கிய அம்சங்களில் உடனடி போர் நிறுத்தம், பிணைக் கைதிகள் விடுவிப்பு, ஹமாஸ் ஆயுதங்களைக் கைவிடுதல் மற்றும் படிப்படியாக இஸ்ரேல் படைகள் காசாவிலிருந்து வெளியேறுதல் ஆகியவை அடங்கும்.
+
+...
+
+[Data](articles/594b82d5.json)
 
 ---
 
@@ -192,6 +244,24 @@ He emphasizes that a note of its Truth Social Media Status should be agreed at 2
 [Data](articles/0c63af98.json)
 
 [Extended Data](ext_articles/0c63af98.ext.json)
+
+---
+
+### யாழில் விளையாட்டில் முதலிடம் பெற்ற மாணவி மாடியில் இருந்து குதித்தால் பாடுகாயம்!
+
+*2025-10-03 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226834) · `ta`
+
+யாழ்ப்பாணம் - உடுவில் மகளிர் கல்லூரியில் கல்வி பயிலும் மாணவி ஒருவர் விளையாட்டு ஒன்றில் முதலிடம் பெற்றதால் அவரது வகுப்பு மாணவிகள் அவரிமிருந்து விலகி இருந்ததால் குறித்த மாணவி 2வது மாடியில் இருந்து குதித்ததால் படுகாயமடைந்துள்ளார். இந்த சம்பவமானது வியாழக்கிழமை (02) இடம்பெற்றுள்ளது.
+
+முல்லைத்தீவை சேர்ந்த 14 வயதுடைய குறித்த மாணவி உடுவில் மகளிர் கல்லூரியின் மாணவிகள் விடுதியில் கடந்த ஒரு வருட காலமாக தங்கி நின்று கற்றல் நடவடிக்கைகளில் ஈடுபட்டு வருகின்றார்.
+
+இந்நிலையில் அவர் விளையாட்டு ஒன்றில் பங்குபற்றி முதலிடம் பெற்றுள்ளார். இதனால் அவரது வகுப்பு மாணவிகள் அவரிடம் இருந்து விலகி இருந்தனர். இதன் காரணமாக மனமுடைந்த மாணவி விடுதியின் இரண்டாவது மாடியில் இருந்து கீழே குதித்ததால் காலில் படுகாயம் ஏற்பட்டுள்ளது.
+
+இது தொடர்பாக சுன்னாகம் பொலிசார் விசாரணைகளை மேற்கொண்ட போது தனது வாக்குமூலத்தில் குறித்த மாணவி இதனை தெரிவித்துள்ளார். படுகாயம்டைந்த மாணவி வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றார்.
+
+◼️
+
+[Data](articles/b6e97c8e.json)
 
 ---
 
@@ -1225,6 +1295,26 @@ Police investigations revealed that these tipper vehicles belong to the nephew o
 
 ---
 
+### சிறுவர்களுக்கு எதிரான உடல் ரீதியான தண்டனை விவகார சர்ச்சைக்கு நீதி அமைச்சர் விளக்கம்
+
+*2025-10-03 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226809) · `ta`
+
+சிறுவர்களுக்கு எதிரான உடல் ரீதியான தண்டனை தொடர்பான தண்டனைச் சட்டக்கோவையின் (பிரிவு 19) முன்மொழியப்பட்ட திருத்தம் சட்டமாக இயற்றப்படவில்லை என்று நீதி அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்துள்ளார்.
+
+கடந்த செப்டம்பர் 24ஆம் திகதி தண்டனைச் சட்டக்கோவை திருத்த மசோதா மீதான இரண்டாம் வாசிப்பு விவாதம் பாராளுமன்றத்தில் நடைபெற்றாலும், அது ஒரு விவாதமே தவிர, சட்டமாக நிறைவேற்றப்படவில்லை என்று அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+மேலும், அத்தகைய ஒரு திருத்தம் நடைமுறைக்கு வர வேண்டுமானால், குற்றவியல் நடைமுறைச் சட்டத்திலும் அதற்குரிய மாற்றம் செய்யப்பட வேண்டும் என்றும் அவர் சுட்டிக்காட்டியுள்ளார். அந்த மாற்றம் இன்னும் செய்யப்படாததால், இந்த மசோதா நிலுவையில் உள்ளது.
+
+மசோதாவில் திருத்தங்கள் கொண்டுவரக்கூடிய பாராளுமன்றத்தின் குழு நிலையின்போது  குறித்த மாற்றங்கள் இன்னமும் பரிசீலனைக்கு எடுத்துக்கொள்ளப்படலாம் என்றும் அமைச்சர் மேலும் தெரிவித்துள்ளார்.
+
+உடல் ரீதியான தண்டனை தொடர்பான திருத்தம் விவாத நிலையில் உள்ளது என்றும், அது சட்டமாக நிறைவேற்றப்படவில்லை என்றும் நீதி அமைச்சர் தனது அறிக்கையில் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b7f36967.json)
+
+---
+
 ### Former politicians behind the struggle against the Mannar windmill project! - Minister Chandrasekhar
 
 *2025-10-03 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226807) · `ta`
@@ -1990,105 +2080,5 @@ In addition, 54 others have been arrested in connection with drunk and unrespons
 [Data](articles/0675137e.json)
 
 [Extended Data](ext_articles/0675137e.ext.json)
-
----
-
-### Foreign laborars sent $ 5.1 billion
-
-*2025-10-03 15:05:22* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ගත-ශ්‍රමිකයෝ-ඩොලර්-බිලියන-5-1ක්-එවති/11-418900) · `si`
-
-Sri Lanka's US $ 5 116 million has been remitted to Sri Lanka US $ 5 116 million in the first eight months of this year.
-
-It is a 19.3 percent increase in the duration of 2024 in the foreign sector operation of the Central Bank of Sri Lanka.. The remittances received in 2024 was $ 4 288 million.
-
-In August alone, US $ 680 million was remitted to Sri Lanka to Sri Lanka in August 2024.
-
-◼️
-
-[Data](articles/ff0f4f10.json)
-
-[Extended Data](ext_articles/ff0f4f10.ext.json)
-
----
-
-### The Act has not been passed as a law for punishing children
-
-*2025-10-03 15:02:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවනට-දඬවම-කරම-ගන-පනත-නතයක-ලස-සමමත-කර-න/101-680707) · `si`
-
-Minister of Justice Herara Nanayakkara has issued a statement that the Penal Code Amendment Bill has not been passed as a law of Parliament.
-
-Following is the announcement issued by Minister of Justice Attorney at Law. "
-
-The Code of Code Amendment Bill was held on September 24, September 24. But the second reading debate on the bill was held as a law, and the relevant bill should not be passed, so the criminal proceedings should also be amended.
-
-The bill has not been passed as a law so far, and if the ame should submit amendments, the relevant amendments can be submitted at the Parliamentary Select Committee.
-
-The Minister further emphasizes that the Act to revise the pension code regarding physically punishing children has not become a law.
-
-◼️
-
-[Data](articles/a1b9c405.json)
-
-[Extended Data](ext_articles/a1b9c405.ext.json)
-
----
-
-### The Act has not been passed as a law for punishing children
-
-*2025-10-03 15:02:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දරවනට-දඬවම-කරම-ගන-පනත-නතයක-ලස-සමමත-කර-න/1-680707) · `si`
-
-Minister of Justice Herara Nanayakkara has issued a statement that the Penal Code Amendment Bill has not been passed as a law of Parliament.
-
-Following is the announcement issued by Minister of Justice Attorney at Law. "
-
-The Code of Code Amendment Bill was held on September 24, September 24. But the second reading debate on the bill was held as a law, and the relevant bill should not be passed, so the criminal proceedings should also be amended.
-
-The bill has not been passed as a law so far, and if the ame should submit amendments, the relevant amendments can be submitted at the Parliamentary Select Committee.
-
-The Minister further emphasizes that the Act to revise the pension code regarding physically punishing children has not become a law.
-
-◼️
-
-[Data](articles/5314523e.json)
-
-[Extended Data](ext_articles/5314523e.ext.json)
-
----
-
-### Tomorrow's water cut in Mutt!
-
-*2025-10-03 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226790) · `ta`
-
-It has been announced that the supply of drinking water will be suspended in many areas surrounding Muttur and many other areas from 8 am to 4 pm on Saturday (4).
-
-The Irrigation Drainage Board has requested that people store the necessary water in advance during this period.
-
-It has also been announced that the water supply will return to normal once the revision work is completed.
-
-◼️
-
-[Data](articles/098d21b2.json)
-
-[Extended Data](ext_articles/098d21b2.ext.json)
-
----
-
-### UK names Mullally as first female Archbishop to lead Church of England
-
-*2025-10-03 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113185/uk-names-mullally-as-first-female-archbishop-to-lead-church-of-england) · `en`
-
-Britain appointed Sarah Mullally as the new Archbishop of Canterbury on Friday, the first time a woman has been named leader of the Church of England in the 1,400 year history of the role.
-
-Mullally also becomes the ceromonial head of some 85 million Anglicans worldwide, with the appointment of a woman risking deeper theological divides with some of the more conservative branches of the church in African nations.
-
-Reforms introduced 11 years ago made it possible for a woman to hold the office, and by being named as the 106th Archbishop of Canterbury, Mullally becomes the female leader of one of last areas of British public life to have been led by men.
-
-But for Anglicans globally, about two-thirds of whom live in countries like Nigeria, Kenya and Uganda, the appointment of the first female Archbishop could further highlight their difference with the mother church in England.
-
-...
-
-[Data](articles/a756cd65.json)
-
-[Extended Data](ext_articles/a756cd65.ext.json)
 
 ---

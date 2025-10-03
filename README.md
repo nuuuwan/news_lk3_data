@@ -1,131 +1,37 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 17:06:11**
+As of **2025-10-03 16:53:33**
 
 ## Newspaper Stats
 
-*Scraped **80,884** Articles*
+*Scraped **80,861** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 572
 dbsjeyarajcom | 637
+lankadeepalk | 723
 bbccomsinhala | 723
-lankadeepalk | 724
 colombotelegraphcom | 806
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,653
-adalk | 7,767
-adaderanalk | 10,413
+adalk | 7,766
+adaderanalk | 10,408
 tamilmirrorlk | 12,035
-virakesarilk | 13,248
+virakesarilk | 13,232
 adaderanasinhalalk | 13,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,833 (99.9%) of 80,884 articles have been extended.
+80,833 (100.0%) of 80,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
-
-### பொலன்னறுவை - ஹபரணை வீதியில் விபத்து ; இருவர் காயம்!
-
-*2025-10-03 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226818) · `ta`
-
-பொலன்னறுவை - ஹபரணை வீதியில் மின்னேரியா புராண தேவாலத்திற்கு அருகில் இடம்பெற்ற விபத்தில் இரண்டு பேர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-டிப்பர் வாகனமும் முச்சக்கரவண்டியும் ஒன்றுடன் ஒன்று மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-விபத்தின் போது முச்சக்கரவண்டியில் பயணித்த விபத்தில் இரண்டு பேர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/cced220d.json)
-
----
-
-### මහින්ද - උපතිස්ස - ගුණසේන වාද්‍යාභිමානී සම්මාන ලබති
-
-*2025-10-03 16:47:02* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-උපතසස-ගණසන-වදයභමන-සමමන-ලබත/1-680709) · `si`
-
-ප්‍රවීණ සංගීත වාද්‍ය ශිල්පීන් වන මහින්ද බණ්ඩාර, උපතිස්ස පෙරේරා සහ ඩී.ඩී. ගුණසේන යන මහත්වරු අගයමින් ‘වාද්‍යාභිමානී‘ ප්‍රණාම සම්මාන පිරිනැමීය.
-
-බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍ය ආචාර්ය හිනිදුම සුනිල් සෙනෙවි මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල සුහුරුපාය මහජන ආරක්ෂක අමාත්‍යංශ ශ්‍රවණාගාරයේදී පැවැති ‘තුඩු‘ ප්‍රසංගයේදී ඔවුන්ට ‘වාද්‍යාභිමානී‘ ප්‍රණාම සම්මානය පිරිනැමීය.
-
-ලීඩ් ගිටාර් වාදන ශිල්පී මහින්ද බණ්ඩාර, බටනලා වාදන ශිල්පී උපතිස්ස පෙරේරා සහ වයලින් වාදන ශිල්පී ඩී.ඩී ගුණසේන යන ජ්‍යෙෂ්ඨ සංගීතඥයන් තිදෙනා මෙහිදී ‘වාද්‍යාභිමානී‘ ප්‍රණාම සම්මානයෙන් පිදුම් ලැබූහ.
-
-එහිදී එම සම්මානලාභී වාද්‍යවේදීන්ගේ නිර්මාණ සජීව ලෙස රසවිඳ ගැනීමේ අවස්ථාව ද හිමිවිය.
-
-ශ්‍රී ලංකා කලා මණ්ඩලය, රාජ්‍ය සාහිත්‍ය අනුමණ්ඩලය සහ සංස්කෘතික කටයුතු දෙපාර්තමේන්තුව සහ බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය එක්ව මෙම ප්‍රණාම උළෙල සංවිධාන කළේය.
-
-...
-
-[Data](articles/4e778606.json)
-
----
-
-### மன்னார் காற்றாலை திட்டத்திற்கு எதிரான போராட்டத்தின் பின்னணியில் முன்னாள் அரசியல்வாதிகள்! – அமைச்சர் சந்திரசேகர்
-
-*2025-10-03 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226807) · `ta`
-
-மன்னார் காற்றாலைக்கு எதிரான போராட்டத்தின் பின்னணியில் முன்னாள் அரசியல்வாதிகள் உள்ளதாக கடற்றொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகர் தெரிவித்துள்ளார்.
-
-இன்றைய தினம் வெள்ளிக்கிழமை (3)  யாழ்ப்பாணம் - சங்கானையில் வட பிரதேச நல்லொழுக்க சம்மேளனத்தின் நிகழ்வொன்றில் கலந்துகொண்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இதனை தெரிவித்துள்ளார்.
-
-மன்னார் காற்றாலை அமைப்பதற்கு திறப்பு விழா நடாத்தியவர்கள், காற்றாலைகளுக்கு பின்னால் ஓடியவர்கள், அந்த காற்றாலை கம்பனிகளிடம் கொடுக்கல் வாங்கல் மேற்கொண்டவர்கள் முன்னைய அரசியல்வாதிகள். அந்த அரசியல்வாதிகளே இந்த போராட்டத்தின் பின்னால் இருக்கின்றனர்.
-
-நாங்கள் கூறுவது யாதெனில், இது மக்களது பிரச்சினையாக இருக்குமானால், இது மன்னாருடைய பிரச்சினையாக இருக்குமானால், இந்த பிரச்சினையால் மன்னார் மூழ்குமாக இருந்தால் அது பற்றி வேதனை அடைபவர்கள், அதனை தடுத்து நிறுத்துபவர்கள் வேறு யாருமல்ல... நாங்கள்தான்.
-
-அதனால் இந்த காற்றாலை சம்பந்தமான பிரச்சினைக்கு உரிய மக்களுடன் பேசி கூடிய சீக்கிரத்தில் தீர்வுகளை பெற்றுக் கொடுப்போம் என்றார்.
-
-◼️
-
-[Data](articles/0b5c8ffd.json)
-
----
-
-### மதுசார பாவனையினால் ஏற்படும் சுகாதார, பொருளாதார பிரச்சினைகளைக் குறைக்க அரசாங்கத்தின் திட்டமொன்று தேவை - ADIC
-
-*2025-10-03 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226593) · `ta`
-
-“எதிர்வரும் 2026ஆம் ஆண்டு வரவு செலவுத் திட்டத்தில் சரியான முறையில் மதுசாரத்திற்கான வரியை அதிகரித்து எதிர்கால சந்ததியினர் மதுசாரத்திற்கு ஆளாகும் வீதத்தை குறைப்பதற்கும், மதுசார பாவனையினால் ஏற்படுகின்ற சுகாதார மற்றும் பொருளாதார பிரச்சினைகளைக் குறைப்பதற்கும் அரசாங்கத்தின் விரைவான திட்டமொன்று தேவை.”
-
-வருடாந்தம் மதுசார பாவனையினால் சுமார் 03 மில்லியன் பேர் அகால மரணமடைகின்றனர். உலகளாவிய ரீதியில் ஏற்படுகின்ற தடுக்கக்கூடிய 10 மரணங்களுள் 08 மரணங்கள் தொற்றா நோய்களால் ஏற்படுகின்றன.
-
-மேலும் தொற்றா நோய்கள் ஏற்படுவதற்கான நான்கு பிரதான காரணங்களில் மதுசார பாவனை முன்னணி காரணியாகும்.
-
-இலங்கையில் ஏற்படும் மரணங்களில் 83 வீதமான மரணங்கள் தொற்றா நோய்களால் ஏற்படுகின்றன, மதுசார பாவனையினால் தினமும் சுமார் 50 இலங்கையர்கள் அகால மரணமடைகிறார்கள். மேலும் ஒவ்வொரு ஆண்டும் சுமார் 20,000 இலங்கையர்கள் அகால மரணமடைகிறார்கள். இருதய நோய் மற்றும் புற்றுநோய் போன்ற நோய்களுக்கு மதுசார பாவனை ஒரு முக்கிய காரணியாக இருப்பது உறுதிப்படுத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/3af921c4.json)
-
----
-
-### International Alcohol Abolition Day: Social and Psychology of Sri Lanka
-
-*2025-10-03 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226721) · `ta`
-
-International Day Against Alcohol Abuse and Illicit Traffic on October 3rd every year. It is an important day to raise awareness of the disadvantages of alcohol, its social and psychological effects, and eradication activities. In Sri Lanka, the use of alcohol and its consequences has created various challenges in the community.
-
-In this article, the need for alcoholism in the social and psychological view of Sri Lanka is exploring in detail on the awareness, social status and current conditions.
-
-In Sri Lanka, alcohol use is increasing. In 2023, the use of the wine of Sri Lanka was about 5,000 metric tons. It is expected to increase to about 5,240 metric tonnes by 2028. Sri Lanka ranks 95th worldwide.
-
-More 29.1% of people have been consumed in the past 12 months. This information shows that alcohol use is widespread in society.
-
-...
-
-[Data](articles/3602159f.json)
-
-[Extended Data](ext_articles/3602159f.ext.json)
-
----
 
 ### ඊශ්‍රායල් ඉදිකිරීම් ක්ෂේත්‍රයේ රැකියා කාණ්ඩ 3ක් සඳහා ලියාපදිංචිය යළි ඇරඹේ
 
@@ -145,54 +51,6 @@ More 29.1% of people have been consumed in the past 12 months. This information 
 
 ---
 
-### President meets Chief Prelates of Malwathu and Asgiri Chapters
-
-*2025-10-03 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/113189/president-meets-chief-prelates-of-malwathu-and-asgiri-chapters) · `en`
-
-President Anura Kumara Dissanayake called on the Chief Prelates of the Malwathu and Asgiri Chapters today (03) and received their blessings.
-
-Upon arriving at the Malwathu Vihara, the President paid his respects to the Most Venerable Thibbatuwawe Sri Sumangala Thero, the Mahanayake of the Malwathu Chapter and engaged in a brief discussion and received blessings, the President’s Media Division (PMD) said.
-
-Subsequently, the President visited the Asgiri Vihara and called on the Most Venerable Warakagoda Sri Gnanarathana Thero, the Mahanayake of the Asgiri Chapter, inquiring after his wellbeing engaged in a brief conversation, the statement added.
-
-◼️
-
-[Data](articles/0f7ac64b.json)
-
----
-
-### கிழக்கு மாகாண சபைக்கு 1800 மில்லியனுக்கும் அதிகமான நிதி ஒதுக்கீடு – கந்தசாமி பிரபு
-
-*2025-10-03 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226798) · `ta`
-
-எமது அரசாங்கம் வரவு செலவுத் திட்டத்தில் கிழக்கு மாகாண சபைக்கு 1800 மில்லியனுக்கு மேற்பட்ட நிதியை ஒதுக்கீடு செய்துள்ளோம். கிழக்கு மாகாண சபையில் இருக்கின்ற திணைக்களங்களுக்கு அந்த நிதி பகிர்ந்தளிக்கப்பட்டு, தேவைகள் முன்னுரிமைப்படுத்தப்பட்டு அபிவிருத்தித் திட்டங்கள் இடம்பெற்று வருகின்றன என தேசிய மக்கள் சக்தியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினரும், பிரதேச ஒருங்கிணைப்புக் குழு தலைவருமான கந்தசாமி பிரபு தெரிவித்தார்.
-
-மாகாண விசேட நிதி ஒதுக்கீட்டு வேலைத்திட்டத்தின் கீழ் மட்டக்களப்பு மாவட்டம் போரதீவு பற்று பிரதேச செயலக பிரிவிற்குட்பட்ட தும்பங்கேணி அரச கால்நடை வைத்தியசாலையின் புனரமைப்புத் திட்டத்திற்கான ஆரம்ப வேலைகள் வெள்ளிக்கிழமை (3) ஆரம்பித்து வைக்கப்பட்டன.
-
-இந்த நிகழ்வில் பிரதம அதிதியாக கந்தசாமி பிரபு கலந்துகொண்டு உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். அவர் மேலும் கூறுகையில்,
-
-...
-
-[Data](articles/9c803a8f.json)
-
----
-
-### துருவ் விக்ரம் நடிக்கும் 'பைசன்- காளமாடன் ' படத்தின் அப்டேட்ஸ்
-
-*2025-10-03 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226814) · `ta`
-
-நடிகர் துருவ் விக்ரம் கதையின் நாயகனாக - தமிழகத்தின் தெற்கத்தி மண்ணின் மைந்தனாக - நடித்திருக்கும் 'பைசன் காளமாடன்' திரைப்படத்தில் இடம்பெற்ற 'தென்னாட்டு..' எனும் நான்காவது பாடலும், பாடலுக்கான லிரிக்கல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-இயக்குநர் மாரி செல்வராஜ் இயக்கத்தில் உருவாகியுள்ள 'பைசன் காளமாடன்' எனும் திரைப்படத்தில் துருவ் விக்ரம், பசுபதி, அமீர், லால், அனுபமா பரமேஸ்வரன், ரஜீஷா விஜயன்,  அழகம் பெருமாள், 'அருவி ' மதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கே. எழில் அரசு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு நிவாஸ் கே. பிரசன்னா இசையமைத்திருக்கிறார்.
-
-ஒடுக்கப்பட்ட இனத்தை சார்ந்த கபடி விளையாட்டு வீரரின் வாழ்வியலை மையப்படுத்திய இந்த திரைப்படத்தை அப்ளாஸ் என்டர்டெய்ன்மென்ட் மற்றும் நீலம் ஸ்டுடியோஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
-
-...
-
-[Data](articles/cd387ba1.json)
-
----
-
 ### නීත්‍යානුකූල පාලනයේ සුරක්ෂිතභාවය උදෙසා කළු පාලනය අවසන් කළ යුතුයි
 
 *2025-10-03 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215299) · `si`
@@ -209,72 +67,6 @@ Subsequently, the President visited the Asgiri Vihara and called on the Most Ven
 
 ---
 
-### மல்வத்து, அஸ்கிரிய மகா நாயக்க தேரர்களை ஜனாதிபதி சந்தித்தார்
-
-*2025-10-03 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226812) · `ta`
-
-அஸ்கிரிய மற்றும் மல்வத்து தரப்பு மகாநாயக்க தேரர்களை இன்று (03) பிற்பகல் சந்தித்த ஜனாதிபதி அநுர குமார திசாநாயக்க, அவர்களிடம் ஆசி பெற்றார்.
-
-முதலில், மல்வத்து மகா விஹாரைக்கு சென்ற  ஜனாதிபதி, மல்வத்து  மகா நாயக்க தேரர் அதி வணக்கத்திற்குரிய திப்பட்டுவாவே ஸ்ரீ சுமங்கல   தேரரை சந்தித்து ஆசி பெற்றதோடு அவருடன் சிறிது நேரம் உரையாடலில் ஈடுபட்டார்.
-
-பின்னர், அஸ்கிரிய மகா விஹாரைக்கு  சென்ற ஜனாதிபதி அநுரகுமார திஸாநாயக்க, அஸ்கிரிய மகா நாயக்க தேரர் அதி வணக்கத்திற்குரிய வரகாகொட ஸ்ரீ ஞானரத்ன தேரரின் நலம் குறித்து கேட்டறிந்ததோடு அவருடனும் சிறு உரையாடலில் ஈடுபட்டார்.
-
-◼️
-
-[Data](articles/757b7ebf.json)
-
----
-
-### New program to monitor performance of each state institution for one year: COPE Chairman
-
-*2025-10-03 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113188/new-program-to-monitor-performance-of-each-state-institution-for-one-year-cope-chairman-) · `en`
-
-A special awareness workshop was held in Parliament for the heads of 457 state institutions that fall under the oversight of the Committee on Public Enterprises (COPE).
-
-Around 700 individuals, including chairpersons, director generals, chief executive officers, or other senior officials from these institutions, were invited in three groups to participate in the workshop, the Parliament Secretariat said.
-
-This program was held on Thursday (02) under the patronage of Dr. Nishantha Samaraweera, Member of Parliament and Chairman of the COPE. Key speakers included Acting Auditor General G.H.D. Dharmapala; Director of the Department of Public Enterprises, K.V.C. Dilrukshi; Director of the National Budget Department, K.S.M. de Silva; Director of the Department of Management Services, M.A. Karunaratne; and R.K. Jayalath.
-
-...
-
-[Data](articles/76650fd7.json)
-
----
-
-### வடகிழக்கில் மக்களை பாதிக்கும் அபிவிருத்தித் திட்டங்களுக்கு எதிராக மட்டக்களப்பில் போராட்டம்
-
-*2025-10-03 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226799) · `ta`
-
-மன்னார் காற்றாலை திட்டம் உட்பட கிழக்கு மாகாணத்திலும் அபிவிருத்தி என்ற பெயரில் மக்களுக்கு பாதிப்பினை ஏற்படுத்துவதாக தெரிவிக்கப்படும் திட்டங்களை நடைமுறைப்படுத்துவதற்கு எதிராக மட்டக்களப்பில் இன்று (3) கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
-
-கிழக்கு மாகாண சிவில் சமூக அமைப்புகள் மற்றும் பொது அமைப்புகள் இணைந்து இந்த போராட்டத்தினை காந்தி பூங்காவில் உள்ள ஊடகவியலாளர்கள் நினைவுத்தூபிக்கு முன்பாக முன்னெடுத்தனர்.
-
-“மக்களின் வாழ்வாதாரத்தினையும் இயற்கை சமநிலையினையும் பாதிக்கும் அபிவிருத்தி திட்டங்களை நிறுத்துக” என்ற தொனிப்பொருளிலேயே இந்த போராட்டம் முன்னெடுக்கப்பட்டது.
-
-இந்த போராட்டத்தில் மட்டக்களப்பு மற்றும் திருகோணமலை மாவட்டங்களிலிருந்து சிவில் சமூக செயற்பாட்டாளர்கள், பொது அமைப்புகளின் பிரதிநிதிகள், பொதுமக்கள் கலந்துகொண்டனர்.
-
-...
-
-[Data](articles/e71a46e3.json)
-
----
-
-### நடிகர் சசிகுமார் வெளியிட்ட 'அமரம்' படத்தின் ஃபர்ஸ்ட் லுக்
-
-*2025-10-03 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226808) · `ta`
-
-அறிமுக நடிகர் ராஜன் தேஜஸ்வர் கதையின் நாயகனாக நடிக்கும் 'அமரம்' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டுள்ளது. இதனை நடிகர்- இயக்குநர் -தயாரிப்பாளர் -என தமிழ் திரையுலகில் பன்முக ஆளுமை மிக்க சசிகுமார் அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
-
-இயக்குநர் திருவருள் கிருஷ்ணன் இயக்கத்தில் உருவாகி வரும் 'அமரம் ' எனும் திரைப்படத்தில் ராஜன் தேஜஸ்வர், ஐரா அகர்வால், சாய் தீனா, ஜார்ஜ் மரியான் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பரத்குமார் கோபிநாத் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு மிக்கி ஜே மேயர் இசையமைத்திருக்கிறார்.
-
-திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை திவ்ய ஷேத்ரா ஃபிலிம்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சி. ஆர். ராஜன் தயாரிக்கிறார். இந்த திரைப்படத்தை நிர்மலா ராஜன் வழங்குகிறார்.
-
-...
-
-[Data](articles/9cfef64c.json)
-
----
-
 ### ජනපති මල්වතු - අස්ගිරි මහා නා හිමිවරුන් බැහැ දකී
 
 *2025-10-03 16:05:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-මලවත-අසගර-මහ-න-හමවරන-බහ-දක/1-680708) · `si`
@@ -286,24 +78,6 @@ This program was held on Thursday (02) under the patronage of Dr. Nishantha Sama
 ◼️
 
 [Data](articles/fa49b5d3.json)
-
----
-
-### மதுபாவனையால் தினமும்  சுமார் 50  பேர் அகால மரணம் -  மதுசாரம் மற்றும் போதைப்பொருள் தகவல் நிலையம்
-
-*2025-10-03 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226804) · `ta`
-
-நாட்டில் பதிவாகும் 83 சதவீதமான மரணங்கள் தொற்றா நோய்களால் ஏற்படுகின்றன. மதுபாவனையால் தினமும் சுமார் 50 பேர் அகால மரணமடைகின்றனர். மேலும் ஒவ்வொரு ஆண்டும் 20 ஆயிரம் பேர்  உயிரிழப்பதாக மதுசாரம் மற்றும் போதைப்பொருள் தகவல் நிலையம் தெரிவித்துள்ளது.
-
-சர்வதேச மதுசார தடுப்பு தினத்தை முன்னிட்டு (ஒக்டோபர் 3) மதுசாரம் மற்றும் போதைப்பொருள் தகவல் நிலையத்தினால் வெளியிடப்பட்டிருந்த அறிக்கையில் மேலும் குறிப்பிடப்பட்டிருப்பதாவது.
-
-உலகளாவிய ரீதியில் வருடாந்தம் மதுபாவனையால் சுமார் 3 மில்லியன் பேர் உயிரிழக்கின்றனர். பதிவாகும் 10 மரணங்களில் 8 மரணங்களுக்கு தொற்றா நோய்களே பிரதானக் காரணமாக உள்ளது.  தொற்றா நோய்கள் ஏற்படுவதற்கு மதுபாவனையும்  முக்கிய காரணியாக உள்ளது. அந்தவகையில் நாட்டில் பதிவாகும் 83 சதவீதமான மரணங்கள் தொற்றா நோய்களால் ஏற்படுகின்றன. மதுபாவனையால் தினமும் சுமார் 50  பேர் அகால மரணமடைகின்றனர்.
-
-ஒவ்வொரு ஆண்டும் 20  ஆயிரம் பேர்  உயிரிழப்பதாகவும்  தரவுகள் சுட்டிக்காட்டுகின்றன. இருதய நோய் மற்றும் புற்றுநோய் ஆகியன சமூகத்தில் அதிகரிப்பதற்கு மதுபாவனையே முதன்மை காரணியாக  உள்ளமை உறுதிப்படுத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/cae892cc.json)
 
 ---
 
@@ -323,70 +97,6 @@ This program was held on Thursday (02) under the patronage of Dr. Nishantha Sama
 
 ---
 
-### கொழும்பு பங்குச் சந்தை வரலாற்று சாதனை: ASPI முதன்முறையாக 22,000 புள்ளிகளைக் கடந்தது!
-
-*2025-10-03 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226794) · `ta`
-
-கொழும்புப் பங்குச் சந்தையின் அனைத்து பங்கு விலைச் சுட்டெண் (All Share Price Index - ASPI) வரலாற்றில் முதன்முறையாக வெள்ளிக்கிழமை (ஒக்டோபர் 03, 2025) 22,000 புள்ளிகள் என்ற மைல்கல்லைத் தாண்டியது.
-
-இன்றைய வர்த்தக அமர்வின்போது, காலை 9.35 மணியளவில் அனைத்து பங்கு விலைச் சுட்டெண் ( ASPI ) 22,017.56 புள்ளிகளை எட்டி இந்தச் சாதனையைப் படைத்தது.
-
-இந்த வரலாற்றுச் சாதனை, இலங்கையின் பங்குச் சந்தையின் வலுவான வளர்ச்சிப் போக்கையும், முதலீட்டாளர்களின் நம்பிக்கையையும் பிரதிபலிக்கிறது. நடப்பு ஆண்டில் கொழும்புப் பங்குச் சந்தை அபாரமான வளர்ச்சியைப் பதிவு செய்து வருவது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/1fd02547.json)
-
----
-
-### எரிபொருள் தாங்கி  ரயிலிலுடன் காட்டு யானை மோதி பலி
-
-*2025-10-03 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226792) · `ta`
-
-கொழும்பிலிருந்து மட்டக்களப்பு நோக்கிச் சென்ற  எரிபொருள் தாங்கி  ரயிலுடன் காட்டு யானை மோதி உயிரிழந்துள்ளதாக வனவிலங்கு அதிகாரிகள் தெரிவித்தனர்.
-
-உயிரிழந்த  காட்டு யானை ஹுருலு வனப்பகுதியிலிருந்து கல் ஓயா தேசிய பூங்காவிற்குச் சென்றதாக விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/c15ed949.json)
-
----
-
-### கொழும்பில் கொரிய தேசிய தினக் கொண்டாட்டம் : அமைச்சர் சரோஜா சாவேத்திரி போல்ராஜ் பங்கேற்பு!
-
-*2025-10-03 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226805) · `ta`
-
-மகளிர் மற்றும் சிறுவர் விவகாரங்கள் அமைச்சர் சரோஜா சாவேத்திரி போல்ராஜ் வியாழக்கிழமை (02) கொழும்பில் உள்ள Cinnamon Life at City of Dreams ஹோட்டலில் நடைபெற்ற கொரிய குடியரசின் தேசிய தினக் கொண்டாட்டத்தில் கலந்து கொண்டார்.
-
-இலங்கையின் கொரிய குடியரசின் தூதுவர் Miyon Lee இன் அழைப்பின் பேரில், இலங்கை அரசாங்கத்தைப் பிரதிநிதித்துவப்படுத்தி அமைச்சர் இந்தக் கொண்டாட்டத்தில் பங்கேற்றார்.
-
-இந்த நிகழ்வில் சபாநாயகர் உட்படப் பாராளுமன்ற உறுப்பினர்கள், அரசியல் பிரமுகர்கள், இராஜதந்திரப் பிரதிநிதிகள், முப்படைத் தளபதிகள் உள்ளிட்ட பல பிரமுகர்கள் கலந்து கொண்டனர்.
-
-இலங்கைக்கும் கொரியக் குடியரசுக்கும் இடையிலான வலுவான இருதரப்பு உறவுகளை எடுத்துரைக்கும் ஒரு சிறந்த உதாரணமாக இந்தக் கொண்டாட்டம் அமைந்தது.
-
-◼️
-
-[Data](articles/42e908e5.json)
-
----
-
-### பிரதமர் ஹரிணியின் பங்கேற்பில் ஆர்.எம்.ஐ.டி,  பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் கூட்டு ஆய்வுத் திட்ட ஆரம்ப விழா
-
-*2025-10-03 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226782) · `ta`
-
-கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் வியாழக்கிழமை (03) நடைபெற்ற ஆர்.எம்.ஐ.டி மற்றும் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் கூட்டு ஆய்வுத் திட்டத்தின் உத்தியோகபூர்வ ஆரம்ப விழாவில் கல்வி, உயர் கல்வி மற்றும் தொழிற்கல்வி அமைச்சர், பிரதமர்  ஹரிணி அமரசூரிய பங்கேற்றார்.
-
-இலங்கையின் இளம் கல்வியாளர்களின் அறிவைப் பாலப்படுத்துதல், ஆராய்ச்சி மற்றும் புத்தாக்கங்களை மேம்படுத்துதல் மற்றும் எதிர்காலத் தலைவர்களை உருவாக்குதல் ஆகிய துறைகளில் கலாநிதி பட்டப் படிப்பிற்கான பயிற்சிகளை வழங்குவதை நோக்கமாகக் கொண்டு, ஆஸ்திரேலியாவின் ஆர்.எம்.ஐ.டி (RMIT) பல்கலைக்கழகத்திற்கும் இலங்கை பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவிற்கும் (UGC) இடையேயான கூட்டு மதிப்பு வடிவமைப்பாக இந்த உத்தியோகபூர்வ விழா அமைந்தது.
-
-இத்திட்டம் பேராதனைப் பல்கலைக்கழகம், மொரட்டுவப் பல்கலைக்கழகம், ருஹுணுப் பல்கலைக்கழகம் மற்றும் ஶ்ரீ ஜயவர்தனபுரப் பல்கலைக்கழகம் ஆகியவற்றின் பங்களிப்புடன் முன்னெடுக்கப்பட்டது. இந்நிகழ்வில், கலாநிதிப் பயிற்சிக்காக 30 மாணவர்களுக்கு புலமைப்பரிசில்கள் வழங்கப்பட்டன.
-
-...
-
-[Data](articles/1a086b4e.json)
-
----
-
 ### All Share Price Index Reaches Record High
 
 *2025-10-03 15:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/all-share-price-index-reaches-record-high) · `en`
@@ -398,22 +108,6 @@ COLOMBO (News 1st);The All Share Price Index (ASPI) of the Colombo Stock Exchang
 [Data](articles/c0deca43.json)
 
 [Extended Data](ext_articles/c0deca43.ext.json)
-
----
-
-### தேசிய தீபாவளி நிகழ்வுகள் அட்டனில் ;  நினைவு முத்திரை வெளியிடுவதற்கும் ஏற்பாடு
-
-*2025-10-03 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226800) · `ta`
-
-இம்முறை தேசிய தீபாவளி நிகழ்வுகள் அட்டன் மாநகரில் எதிர்வரும் 19 ஆம் திகதி இடம்பெறுவதற்கான ஏற்பாடுகள் செய்யப்பட்டு வருவதாகவும் தேசிய நிகழ்வில் அனைத்து தரப்பினரும் கலந்து கொண்டு சிறப்பிக்க அழைப்பு விடுப்பதாகவும்  பெளத்த சாசன மத மற்றும் கலாசார விவகாரங்கள் பிரதி அமைச்சர் கமகெதர திசாநாயக்க தேரிவித்தார்.
-
-தேசிய தீபாவளி தின நிகழ்வுகள் தொடர்பான கலந்துரையாடல் நிகழ்வு  வெள்ளிக்கிழமை அட்டன் ஸ்ரீ மாணிக்கப்பிள்ளையார் தேவஸ்தான அறநெறி மண்டபத்தில் அவர் தலைமையில் இடம்பெற்ற போது  அவர் தொடர்ந்து உரையாற்றுகையில், இன, மொழி , மத, பேதமற்ற  இலங்கையர்கள் என்ற கருப்பொருளின் கீழ் எமது அரசாங்கம் தேசிய நிகழ்வுகளை முன்னெடுத்து வருகின்றது.
-
-இலங்கையர் தினம் என்ற நிகழ்வை அனுஷ்டிப்பதற்கு எமது அரசாங்கம் ஏற்பாடுகளை செய்து வருகின்றது. அநேகமாக எதிர்வரும் டிசம்பர் மாதம் அத்தினத்தை கொண்டாடுவதற்கு சந்தர்ப்பங்கள் உள்ளன.
-
-...
-
-[Data](articles/a891193f.json)
 
 ---
 
@@ -460,90 +154,6 @@ COLOMBO (News 1st); The International Civil Aviation Organization (ICAO) has agr
 ◼️
 
 [Data](articles/217ec3b8.json)
-
----
-
-### Advisory issued for severe lightning
-
-*2025-10-03 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113187/advisory-issued-for-severe-lightning) · `en`
-
-An ‘Amber’ advisory has been issued by the Department of Meteorology for severe lightning in several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in the North-central, Eastern, and Uva provinces and in Vavuniya and Mullaittivu districts, the department stated.
-
-There may be temporary localized strong winds during thundershowers, it added.
-
-Accordingly, the general public has been requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public has also been requested to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, and also to refrain from using wired telephones and connected electric appliances during thunderstorms.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/496cd1a5.json)
-
----
-
-### இரும்புக் கம்பியால் 16 வயது மகளைத் தாக்கிய தாய்க்கு சிறைத்தண்டனை!  - மட்டக்களப்பு மேல் நீதிமன்றம் தீர்ப்பு
-
-*2025-10-03 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226796) · `ta`
-
-மட்டக்களப்பில் தனது 16 வயது மகளின் கையினை இரும்புக் கம்பியால் தாக்கி காயப்படுத்தி சித்திரவதை செய்த 45 வயது தாயாருக்கு சிறைத்தண்டனை விதித்து மட்டக்களப்பு மேல் நீதிமன்ற நீதிபதி ரி.ஜே.பிரபாகரன் தீர்ப்பளித்தார்.
-
-அதன்படி, குற்றவாளியென நிரூபனமாக்கப்பட்ட அந்தத் தாயின் ஒரு குற்றத்துக்கு 2 வருட கடூழிய சிறைத்தண்டனை 10 வருடத்துக்கு ஒத்திவைக்கப்பட்ட சிறைத் தண்டனையும் 5 ஆயிரம் ரூபாய் தண்டப்பணமும் அவ்வாறே 3 குற்றங்களுக்கும்  6 வருட கடூழிய சிறைத்தண்டனை 30 வருடங்களுக்கு ஒத்திவைக்கப்பட்ட சிறைத் தண்டனையும் 15 ஆயிரம் ரூபாய் தண்டப்பணமும் செலுத்துமாறும் பாதிக்கப்பட்ட சிறுமிக்கு 50 ஆயிரம் ரூபாய் நஷ்டஈடாக வழங்குமாறும் நீதவான் கடந்த 25ஆம் திகதி வியாழக்கிழமை உத்தரவு பிறப்பித்தார்.
-
-ஏறாவூர் பொலிஸ் பிரிவிலுள்ள பிரதேசம் ஒன்றில் கடந்த 2009 நவம்பர் 21ஆம் திகதி 16 வயதுடைய தனது மகளின் கையில் இரும்புக்கம்பியால் தாக்கி காயப்படுத்தி சித்திரவதை செய்த குற்றச்சாட்டில் சிறுமியின் தாய் கைது செய்யப்பட்டு, சிறையில் அடைக்கப்பட்டு, பின்னர் நீதிமன்ற பிணையில் வெளிவந்துள்ளார்.
-
-...
-
-[Data](articles/9179a657.json)
-
----
-
-### டிப்பர் வாகனம் - வேன் மோதி விபத்து ; 5 பேர் காயம்!
-
-*2025-10-03 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226795) · `ta`
-
-பொலன்னறுவை - ஹபரணை வீதியில் மின்னேரியா பொலிஸ் நிலையத்திற்கு அருகில் இடம்பெற்ற விபத்தில் 5 பேர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-டிப்பர் வாகனமும் வேனும் ஒன்றுடன் ஒன்று மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-விபத்தின் போது வேனில் பயணித்த விபத்தில் 5 பேர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/eacd3902.json)
-
----
-
-### President Anura Kumara presents ‘Sannas Pathra’ to new Asgiri Anunayake Thero
-
-*2025-10-03 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/113186/president-anura-kumara-presents-sannas-pathra-to-new-asgiri-anunayake-thero-) · `en`
-
-President Anura Kumara Dissanayake has officially presented the Sannas Pathra (letter of appointment) to the newly appointed Anunayake Thero of the Asgiri Chapter of the Siam Maha Nikaya, Most Venerable Narampanawe Ananda Thero, at the historic ‘Magul Maduwa’ on the premises of the Temple of the Sacred Tooth Relic in Kandy.
-
-President Dissanayake presented the ‘Sannas Pathra’ during the ceremony to officially confer ‘Sri Sannas Patra’ to Most Ven. Narampanawe Ananda Thero.
-
-◼️
-
-[Data](articles/3fd50e4c.json)
-
----
-
-### கடந்த 7 நாட்களில் போதைப்பொருட்களுடன் 3,264 பேர் கைது!
-
-*2025-10-03 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226791) · `ta`
-
-நாடளாவிய ரீதியில் செப்டெம்பர் 26 ஆம் திகதி முதல் ஒக்டோபர் 02 ஆம் திகதி வரையான காலப்பகுதிக்குள் மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது போதைப்பொருட்களுடன் 3,264 பேர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-பொலிஸ் அதிகாரிகள், இராணுவ வீரர்கள், பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் கடற்படையினர் ஆகியோர் இணைந்து இந்த சுற்றிவளைப்பு நடவடிக்கையை மேற்கொண்டுள்ளனர்.
-
-இந்த விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது, ஹெரோயின் போதைப்பொருளுடன் 1045 பேரும், ஐஸ் போதைப்பொருளுடன் 1149 பேரும், ஹேஷ் போதைப்பொருளுடன்  35பேரும், கஞ்சா போதைப்பொருளுடன்  910 பேரும், கஞ்சா செடிகளுடன் 32 பேரும், போதை மாத்திரைகளுடன் 76 பேரும், சட்டவிரோத சிகரட்டுகளுடன் 17 பேரும் கைது செய்யப்பட்டுள்ளனர்.
-
-...
-
-[Data](articles/044edf01.json)
 
 ---
 
@@ -658,24 +268,6 @@ It has also been announced that the water supply will return to normal once the 
 [Data](articles/098d21b2.json)
 
 [Extended Data](ext_articles/098d21b2.ext.json)
-
----
-
-### UK names Mullally as first female Archbishop to lead Church of England
-
-*2025-10-03 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113185/uk-names-mullally-as-first-female-archbishop-to-lead-church-of-england) · `en`
-
-Britain appointed Sarah Mullally as the new Archbishop of Canterbury on Friday, the first time a woman has been named leader of the Church of England in the 1,400 year history of the role.
-
-Mullally also becomes the ceromonial head of some 85 million Anglicans worldwide, with the appointment of a woman risking deeper theological divides with some of the more conservative branches of the church in African nations.
-
-Reforms introduced 11 years ago made it possible for a woman to hold the office, and by being named as the 106th Archbishop of Canterbury, Mullally becomes the female leader of one of last areas of British public life to have been led by men.
-
-But for Anglicans globally, about two-thirds of whom live in countries like Nigeria, Kenya and Uganda, the appointment of the first female Archbishop could further highlight their difference with the mother church in England.
-
-...
-
-[Data](articles/a756cd65.json)
 
 ---
 
@@ -850,24 +442,6 @@ Based on the confession made by "Kehelbattara Padme" during the trial, the gun a
 [Data](articles/e7df3c69.json)
 
 [Extended Data](ext_articles/e7df3c69.ext.json)
-
----
-
-### කිතුල්කොටේ අනතුරින් තුවාල ලබා සිටි 18 හැවැරිදි රියදුරුත් මිය යයි
-
-*2025-10-03 14:15:06* · [`adalk`](https://www.ada.lk/breaking_news/කිතුල්කොටේ-අනතුරින්-තුවාල-ලබා-සිටි-18-හැවැරිදි-රියදුරුත්-මිය-යයි/11-418898) · `si`
-
-තණමල්විල පොලිස් වසමට අයත් තණමල්විල වැල්ලවාය මාර්ගයේ කිතුල්කොටේ ප්‍රදේශයේ දෙසීය අසූඅට කණුව අසලදී අද (03) වෙනිදා අලුයම සිදුවූ රිය අනතුරින් තුවාල ලබා සිටි වෑන් රථ රියදුරුද මිය ගොස් තිබේ. ඒ අනුව මෙම අනතුරින් මිය ගිය සංඛ්‍යාව දෙදෙනෙක් බවට පත්විය.
-
-තණමල්විල දෙස සිට වැල්ලවායට දෙසට ධාවනය වෙමින් තිබූ 250 - 2292 දරණ වෑල් රථය වේගය පාලනය කර ගැනීමට නොහැකිව පාරෙන් ඉවතට ගොස් අඹ ගසක සහ තේක්ක ගසක ගැටී තිබේ.
-
-එම අනතුරෙන් තුවාල ලැබූවන් තණමල්විල ප්‍රාදේශීය රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව වෑන් රථයේ රියදුරු අසුනට පිටුපස අසුනේ සිටි අයෙකු බරපතළ තුවාල ලබා තණමල්විල ප්‍රාදේශීය රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
-
-මෙලෙස මියගොස් ඇත්තේ දඹුල්ල,ඩී හතර ඇල පදිංචි කුලවර්ධන රාළහාමිලාගේ වංශතිලක (56) නැමති අයෙකි. වැඩිදුර ප්‍රතිකාර සඳහා හම්බන්තොට දිස්ත්‍රික් මහ රෝහලට මාරු කරන ලද වෑන් රථයේ රියදුරු වන මැදගම කොටබෝව පදිංචි ජයසිංහගේ සසංක උදුල චින්තන (18 ) නැමති තරුණයාද ප්‍රතිකාර ලබමින් සිටියදී පසුව මියගොස් ඇත.
-
-...
-
-[Data](articles/b276884c.json)
 
 ---
 
@@ -1944,5 +1518,501 @@ The two suspects were residents of Kalpitiya - Ventasi Watata and Anavasala.
 [Data](articles/e80fcbb3.json)
 
 [Extended Data](ext_articles/e80fcbb3.ext.json)
+
+---
+
+### Namala vs. Watagala: Legal Battle Brews
+
+*2025-10-03 11:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/namala-vs-watagala-legal-battle-brews) · `en`
+
+...
+
+[Data](articles/68aba234.json)
+
+[Extended Data](ext_articles/68aba234.ext.json)
+
+---
+
+### Five lorries transporting the duties arrested
+
+*2025-10-03 11:41:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හරට-කරමට-පරවහනය-කළ-ලර-5ක-අලලය/1-680682) · `si`
+
+Bandaragama police say that the drivers were arrested with five tippers with illegally transported license conditions
+
+It is also the case with a neighbor of politician is also a license to the daughter's name.
+
+It has also been revealed that there is no definition of the lorry that was taken into police custody.
+
+Drivers have been arrested along with the five lorarges in the Bandaragama Police Station, including the OIC of the Bandaragama Police.
+
+◼️
+
+[Data](articles/2108fd2f.json)
+
+[Extended Data](ext_articles/2108fd2f.ext.json)
+
+---
+
+### Five lorries transporting the duties arrested
+
+*2025-10-03 11:41:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරට-කරමට-පරවහනය-කළ-ලර-5ක-අලලය/101-680682) · `si`
+
+Bandaragama police say that the drivers were arrested with five tippers with illegally transported license conditions
+
+It is also the case with a neighbor of politician is also a license to the daughter's name.
+
+It has also been revealed that there is no definition of the lorry that was taken into police custody.
+
+Drivers have been arrested along with the five lorarges in the Bandaragama Police Station, including the OIC of the Bandaragama Police.
+
+◼️
+
+[Data](articles/53e12478.json)
+
+[Extended Data](ext_articles/53e12478.ext.json)
+
+---
+
+### The first time in history overtes 22,000 ASPI units
+
+*2025-10-03 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215285) · `si`
+
+This is the first time all the stock price index reached the 22,000 unit limits between a daily transaction session.
+
+At around 9:300 am today, all the stock price index was achieved.
+
+At that time, all stock price index was recorded as 22,017.56 points.
+
+◼️
+
+[Data](articles/259dbd51.json)
+
+[Extended Data](ext_articles/259dbd51.ext.json)
+
+---
+
+### Many rare minerals meet in Abhayagiriya excavations
+
+*2025-10-03 11:28:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අභයගරය-කණමවලන-දරලභ-ඛනජ-රසක-හමවය/101-680681) · `si`
+
+Central Cultural Fund says that a large number of minerals have been found in the east of the east of the Eastern Pond, which had not been renovated over a total of over ten centuries.
+
+The excavations carried out in the Abhayagiriya Chaitya have met with ancient areas and many other old Saraswathi coins, such as Knealian, asy and pessbleers.
+
+The officers of the officers have been handed over to the Central Cultural Fund Museum to protect those historical archeoes.. The staff officials point out that there is a staircase and tabernacle in the premises of this excavation.
+
+A senior official of the Cultural Fund (Cultural Fund) said that the Eastern Pond of the Abhayagiri Charathi was found in the agricasury of this Abhayagiri Charathi, which was invented by various pond in the 1982 and was found in various invasions.
+
+...
+
+[Data](articles/da12d298.json)
+
+[Extended Data](ext_articles/da12d298.ext.json)
+
+---
+
+### Many rare minerals meet in Abhayagiriya excavations
+
+*2025-10-03 11:28:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අභයගරය-කණමවලන-දරලභ-ඛනජ-රසක-හමවය/1-680681) · `si`
+
+Central Cultural Fund says that a large number of minerals have been found in the east of the east of the Eastern Pond, which had not been renovated over a total of over ten centuries.
+
+The excavations carried out in the Abhayagiriya Chaitya have met with ancient areas and many other old Saraswathi coins, such as Knealian, asy and pessbleers.
+
+The officers of the officers have been handed over to the Central Cultural Fund Museum to protect those historical archeoes.. The staff officials point out that there is a staircase and tabernacle in the premises of this excavation.
+
+ක්‍රිස්තු වර්ෂ පස්වන සියවසේ පමණ ඉදි කරන්නට ඇතැයි අනුමාන කරන මෙම අභයගිරි චෛත්‍යයේ නැගෙනහිර  පොකුණ විවිධ ආක්‍රමණ වලින් හෝ  කාලයාගේ ඇවෑමෙන් වැසී ගොස් ඇතැයි පවසන මාධ්‍යම සංස්කෘතික අරමුදලේ ජ්‍යෙෂ්ඨ නිලධාරියෙකු සඳහන් කළේ 1982 වර්ෂයේදී මහාචාර්ය කරුණාසේන හෙට්ටිආරච්චි මහතා විසින් සොයා ගන්නා ලදයිි කියන මෙම පොකුණ පිළිසකර කිරීමට 2025 වර්ෂයේ මාර්තු 21 ක් මට දින එහි වැඩකටයුතු ආරම්භ කළ බවයි.
+
+...
+
+[Data](articles/d05a9347.json)
+
+[Extended Data](ext_articles/d05a9347.ext.json)
+
+---
+
+### AG to file indictments against ‘Dambulla Thunders’ owner in LPL match-fixing case
+
+*2025-10-03 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113178/ag-to-file-indictments-against-dambulla-thunders-owner-in-lpl-match-fixing-case) · `en`
+
+The Police Unit for the Prevention of Sports-Related Offences Unit informed the Colombo Magistrate’s Court today (03) that the Attorney General has decided to file indictments against Tamim Rahman, owner of the ‘Dambulla Thunders’ team, who was previously arrested and released on bail in connection with a match-fixing incident during last year’s LPL cricket tournament.
+
+The case was taken up before Colombo Chief Magistrate Asanka S. Bodaragama today (03), said Ada Derana reporter.
+
+The accused, a British citizen of Bangladeshi origin currently out on bail, appeared before the court.
+
+Officers from the Police Unit informed the court that the Attorney General intends to file an indictment against Rahman with the High Court under the Prevention of Offences Relating to Sports Act. They requested that a shorter date be granted for summoning the case.
+
+Accordingly, the Magistrate accepted the request and ordered that the plaint be called on December 5, 2025.
+
+◼️
+
+[Data](articles/f88590fe.json)
+
+[Extended Data](ext_articles/f88590fe.ext.json)
+
+---
+
+### Muthathi lost 6 crores of Hollywood actor
+
+*2025-10-03 11:22:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹாலிவுட்-நடிகரை-நம்பி-6-கோடியை-இழந்த-மூதாட்டி/50-365689) · `ta`
+
+A 70 -year -old grandmother from Cambridgeshire, England was introduced online.
+
+The person has called himself Hollywood actor Jason Momoa.
+
+Also, the person has thrown the words of his desire that he needs a life companion and that we can live together on a house on the island of Hawaii.
+
+Moreover, the elderly believed that the man had said that all his money had been paralyzed in film production.
+
+And the person has sent money whenever the person asks. The elder has sent about Rs 6 crore to sell the house where he lived.
+
+But, in the end, the grandmother realized that this was a fraud web, and complained to the police about this. Cambridge police have filed a case and are searching for a man involved in the fraud.. Remble
+
+◼️
+
+[Data](articles/ea4291bc.json)
+
+[Extended Data](ext_articles/ea4291bc.ext.json)
+
+---
+
+### Four arrested with mobile telephone-perfume
+
+*2025-10-03 11:20:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කටයක-ජගම-දරකථන-සවඳවලවන-සමඟ-4ක-දල/101-680680) · `si`
+
+Maligawatta Police say four persons were arrested with a stock of more than Rs.
+
+Police say two two two demands were among the suspects.
+
+With these suspects, 26 smoky mobile phones were taken into custody by various types of perfumes, a large number of perfumes and body coating.
+
+Police Chief Inspector of Maligawatta Police Chief Inspector Ti B S Krayakana Thirna Talyan Talyan Talyanathankana has recovered the property with suspects in the Maligawatta.
+
+◼️
+
+[Data](articles/bd40181e.json)
+
+[Extended Data](ext_articles/bd40181e.ext.json)
+
+---
+
+### Four arrested with mobile telephone-perfume
+
+*2025-10-03 11:20:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටයක-ජගම-දරකථන-සවඳවලවන-සමඟ-4ක-දල/1-680680) · `si`
+
+Maligawatta Police say four persons were arrested with a stock of more than Rs.
+
+Police say two two two demands were among the suspects.
+
+With these suspects, 26 smoky mobile phones were taken into custody by various types of perfumes, a large number of perfumes and body coating.
+
+Police Chief Inspector of Maligawatta Police Chief Inspector Ti B S Krayakana Thirna Talyan Talyan Talyanathankana has recovered the property with suspects in the Maligawatta.
+
+◼️
+
+[Data](articles/b13e61b5.json)
+
+[Extended Data](ext_articles/b13e61b5.ext.json)
+
+---
+
+### Narry goes to school
+
+*2025-10-03 11:17:17* · [`adalk`](https://www.ada.lk/breaking_news/නරිත්-පාසල්-යයි/11-418892) · `si`
+
+The students of the school have been severely damaged due to the Hatton Hylandus Primary School, which is being governed by the Hatton Hylandus Primary School, which is being governed by the Grounds of Hatton Hylandus Primary School.
+
+The Principal and the Specialists say that the playground is coming in the morning and in the current situation.
+
+The staff also calls for the Principal and the Principal of the Principal to seize the catching of the catching a surcharge of the catching the skin.
+
+◼️
+
+[Data](articles/bb2cb7ca.json)
+
+[Extended Data](ext_articles/bb2cb7ca.ext.json)
+
+---
+
+### ASPI crosses 22,000 for the first time
+
+*2025-10-03 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113177/aspi-crosses-22000-for-the-first-time) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) surpassed the 22,000-point mark for the first time in history, during this morning’s (03) trading session.
+
+At around 09.35 a.m. this morning (03), the index stood at 22,017.56 points.
+
+◼️
+
+[Data](articles/05429837.json)
+
+[Extended Data](ext_articles/05429837.ext.json)
+
+---
+
+### Navy arrests two suspects with illegal gold stock in Kalpitiya
+
+*2025-10-03 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113176/navy-arrests-two-suspects-with-illegal-gold-stock-in-kalpitiya) · `en`
+
+The Sri Lanka Navy has arrested two individuals in possession of an illegal stock of gold during a special search operation in the Arachchal sea area of Kalpitiya.
+
+Authorities seized a total of 4 kilograms and 454 grams of gold from the suspects. In addition, a small boat used to transport the gold was also taken into custody.
+
+The Navy stated that the gold had been carefully concealed to appear as lead for fishing nets.
+
+The arrested suspects are reported to be residents of the Kalpitiya, Wendesi Waththa, and Anawasala areas.
+
+◼️
+
+[Data](articles/d3d1e595.json)
+
+[Extended Data](ext_articles/d3d1e595.ext.json)
+
+---
+
+### Sri Lanka Unveils First National Export Strategy in Decades
+
+*2025-10-03 11:06:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/sri-lanka-unveils-first-national-export-strategy-in-decades) · `en`
+
+...
+
+[Data](articles/eff65b6d.json)
+
+[Extended Data](ext_articles/eff65b6d.ext.json)
+
+---
+
+### Four students arrested for pouring liquor in water bottles
+
+*2025-10-03 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226762) · `ta`
+
+Four students who poured liquor in a water bottle in a school in Galle, Galle, have been arrested by the Meediyagoda police on Wednesday (01).
+
+Four students have been arrested on the basis of investigations carried out by the Meediyagoda police.
+
+The arrested are students in the same school in 11th grade.
+
+Four students have poured liquor in water bottles to celebrate the Children's Day and took them to the school.
+
+The four students have confessed to the police that they had purchased a bottle of liquor from the liquor bar in Hikkaduwa.
+
+◼️
+
+[Data](articles/1fb39efb.json)
+
+[Extended Data](ext_articles/1fb39efb.ext.json)
+
+---
+
+### The owner who betrayed the LPL matches is determined to file indicator
+
+*2025-10-03 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215284) · `si`
+
+The Attorney General has decided to file an announcement to the Gambulla Thumba and the Gambulla Grounds who have been arrested on bail against the owner of the 2024 LPL cricket team today (3).
+
+Such charges are to be filed by the British citizenship with British citizenship.
+
+The case was summoned before Colombo High Court Judge Asanka S. Bodaragama today (3), and Thamm Rhiman was also present at the court.
+
+The Attorney General has informed the Attorney General that the High Court meeting has been decided to file the charges against the suspect in the Sports Pollution Prevention Act.
+
+Accordingly, the officers called on the court to give a short date for the summit.
+
+The Magistrate accepted the request on December 5.
+
+◼️
+
+[Data](articles/469ce93e.json)
+
+[Extended Data](ext_articles/469ce93e.ext.json)
+
+---
+
+### Five hospitalized - 5 hospitalized
+
+*2025-10-03 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215283) · `si`
+
+A woman was killed and 5 others were wounded in Kithulkotuwa area on Tanamalwila road.
+
+A van traveling to Wellawaya to Wellawaya towards Wellawaya and the driver had accidentally collided with a tree.
+
+One person was killed after six persons including the van driver and six others who were injured in the accident.
+
+The victim was a group of people in a garment company in Avissawella and returned to Buttala.
+
+The driver of the van is 18 year old and the victim is 56 year old resident of Dambulla.
+
+The injured were admitted to the Thanamalwila Regional Hospital and three others in serious condition have been transferred to the Hambantota General Hospital for further treatment.
+
+The injured persons are the aged 23, 35 and 49 years.
+
+◼️
+
+[Data](articles/52b806b2.json)
+
+[Extended Data](ext_articles/52b806b2.ext.json)
+
+---
+
+### World Travel Day Celebration Complete Conference
+
+*2025-10-03 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226760) · `ta`
+
+The conference was organized by President Anura Kumara Dissanayake to mark the conclusion of a series of events held from September, including school competitions, research forums and industrial exhibitions, from National Level to School level.
+
+The International Tourism Leadership Conference (ITLS) was held yesterday (2) afternoon at the Bandaranaike Memorial International Conference Hall in Colombo.
+
+Foreign Ambassadors, High Commissioners, tourism and domestic and foreign scholars participated in the event.
+
+Under the guidance of the Ministry of Tourism, the University of Tourism Economics and Hospitality Management Alumni Association (AATHM) and its sustainable tourism unit (STU) and the University of the University, Sri Lanka Tourism Development Authority (SLTDA), Sri Lanka Conference Bureau (SLCB), Sri Lanka Tourism Operations Association (SLCB) Has been done.
+
+The aim is to increase the participation of young people in small and medium businesses for the future of the tourism industry.
+
+...
+
+[Data](articles/b2a8726c.json)
+
+[Extended Data](ext_articles/b2a8726c.ext.json)
+
+---
+
+### Law Enforcement Is Not Political Revenge
+
+*2025-10-03 10:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/law-enforcement-is-not-political-revenge) · `en`
+
+...
+
+[Data](articles/0b6677aa.json)
+
+[Extended Data](ext_articles/0b6677aa.ext.json)
+
+---
+
+### The body of a retired teacher who died in an accident in Samanthurai handed over to relatives
+
+*2025-10-03 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226759) · `ta`
+
+The body of the deceased has been handed over to the relatives after the death of two motorcycles, who were injured in a collision with two motorcycles.
+
+The deceased is a 61 -year -old retired English teacher from Samanthurai.
+
+Two motorcycles collided with two motorcycles near the Guasi Court on the main road of Kalmunai Ampara, which belongs to the Samanthurai police division of the Ampara district on Monday (29).
+
+One person was admitted to the Samanthurai Base Hospital for treatment and the two others were arrested and admitted to the Samanthurai Base Hospital for injuries.
+
+The man who was injured in the accident died on Thursday (02).
+
+Subsequently, on the orders of the Samanthurai Magistrate's Court Judge, the police officer in charge of the police station, Sakitham, went to the scene of the incident and carried out investigations.
+
+He also said that the body was handed over to relatives after death investigations, claiming that the death was caused by a brain bleeding in the accident.
+
+...
+
+[Data](articles/d6dc9887.json)
+
+[Extended Data](ext_articles/d6dc9887.ext.json)
+
+---
+
+### "Syphilis" bacterial infection spreading among monkeys! ; Warning to the public!
+
+*2025-10-03 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226757) · `ta`
+
+Wildlife Protection Department and animal health officials said that the spread of bacterial infections such as Syphilis, such as Syphilis, in Polonnaruwa and Giritale.
+
+A study conducted by the Department of Wildlife Conservation and Animal Health Officers found the infection.
+
+Wildlife veterinarian Nihal Pushpakumara said the infection was confirmed by blood and PCR tests carried out among the monkeys.
+
+The infection can spread from organs such as the genitals, skin and anus of the monkeys.
+
+The infection can spread more due to the presence of monkeys in contaminated areas.
+
+Importantly, these bacteria are in danger of spreading from monkeys to human beings in religious places where monkeys are most likely.
+
+He said that the public should avoid the approaching monkeys to prevent the infection of humans.
+
+◼️
+
+[Data](articles/8ef3fa0b.json)
+
+[Extended Data](ext_articles/8ef3fa0b.ext.json)
+
+---
+
+### One killed and 5 injured in a van road
+
+*2025-10-03 10:49:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වන-රය-ගසක-වද-අයක-මරට-5කට-තවල/1-680679) · `si`
+
+One in a van, a van of van, was killed in a village in Kithulkotuwa area on Tanamalwila road.
+
+The accident had occurred from the pathway from the Thanamalwila and Wellawaya.
+
+The deceased has been identified as he was seriously injured and admitted to the Tanamalwila Divisional Hospital with serious injuries.
+
+The deceased has been identified as Ralahmilah's monastery (56), Dambulla, D Forest Residence (56). Three of the five injured are receiving treatment at the Thanamalwila Regional Hospital.
+
+◼️
+
+[Data](articles/cb6378f4.json)
+
+[Extended Data](ext_articles/cb6378f4.ext.json)
+
+---
+
+### One killed and 5 injured in a van road
+
+*2025-10-03 10:49:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වන-රය-ගසක-වද-අයක-මරට-5කට-තවල/101-680679) · `si`
+
+One in a van, a van of van, was killed in a village in Kithulkotuwa area on Tanamalwila road.
+
+The accident had occurred from the pathway from the Thanamalwila and Wellawaya.
+
+The deceased has been identified as he was seriously injured and admitted to the Tanamalwila Divisional Hospital with serious injuries.
+
+The deceased has been identified as Ralahmilah's monastery (56), Dambulla, D Forest Residence (56). Three of the five injured are receiving treatment at the Thanamalwila Regional Hospital.
+
+◼️
+
+[Data](articles/d42db406.json)
+
+[Extended Data](ext_articles/d42db406.ext.json)
+
+---
+
+### Baby in a bag of pockets on the doorstep; Incident in Anuradhapura!
+
+*2025-10-03 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226761) · `ta`
+
+Mahawa police said that a child has been rescued alive from a bag of a retired family health woman officer.
+
+A bag is found on the doorstep of a retired family health woman who lives in the Mahawa area of ​​the Balogama Mahawa area.
+
+A child who observed this was searched by a retired family health woman officer and a child was alive in the bag.
+
+Subsequently, a retired family health woman officer has been admitted to the Nikaweratiya Resource Hospital.
+
+Police are investigating who left the baby on the doorstep.
+
+◼️
+
+[Data](articles/1eec75de.json)
+
+[Extended Data](ext_articles/1eec75de.ext.json)
+
+---
+
+### Recovery of Kachchativu; Stalin
+
+*2025-10-03 10:34:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சத்தீவை-மீட்கணும்-ஸ்டாலின்/175-365688) · `ta`
+
+The central BJP government has done nothing to the issue of fishermen arrested by the Sri Lankan army. Why is Tamil Nadu and Tamils ​​for the central government. Kachchativu to resolve the Tamil Nadu fisherman's problem. Thus, Chief Minister Stalin spoke.
+
+◼️
+
+[Data](articles/ee509708.json)
+
+[Extended Data](ext_articles/ee509708.ext.json)
 
 ---

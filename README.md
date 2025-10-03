@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 18:42:46**
+As of **2025-10-03 18:58:00**
 
 ## Newspaper Stats
 
-*Scraped **80,906** Articles*
+*Scraped **80,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,653
-adalk | 7,768
+adalk | 7,769
 adaderanalk | 10,415
 tamilmirrorlk | 12,035
 virakesarilk | 13,257
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,902 (100.0%) of 80,906 articles have been extended.
+80,902 (100.0%) of 80,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1111,6 +1111,22 @@ In addition, 54 others have been arrested in connection with drunk and unrespons
 
 ---
 
+### විදෙස් ගත ශ්‍රමිකයෝ ඩොලර් බිලියන 5.1ක් එවති
+
+*2025-10-03 15:05:22* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ගත-ශ්‍රමිකයෝ-ඩොලර්-බිලියන-5-1ක්-එවති/11-418900) · `si`
+
+මේ වසරේ මුල් මාස 8 තුළදී පමණක් විදෙස් ගත ශ්‍රී ලංකා ශ්‍රමිකයන් ඇමෙරිකානු ඩොලර් මිලියන 5 116ක් ශ්‍රී ලංකාවට ප්‍රේෂණය කර ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+ශ්‍රී ලංකා මහ බැංකුවේ විදේශීය අංශයේ ක්‍රියාකාරිත්ව සටහන අනුව එය 2024 වසරේ එම කාලසීමාව හා සසදා බැලීමේදී සියයට 19.3ක වර්ධනයකි. 2024 වසරේදී ලැබී තිබුණ ප්‍රේෂණ ප්‍රමාණය ඩොලර් මිලියන 4 288කි.
+
+එසේම අගෝස්තු මාසයේදී පමණක් ඇමෙරිකානු ඩොලර් මිලියන 680ක් විදෙස් ගත ශ්‍රමිකයන් ලංකාවට ‍ප්‍රේෂණය කර තිබුණ අතර 2024 වසරේ අගෝස්තු මාසයේදී අම අගය ඇමෙරිකානු ඩොලර් මිලියන 577.5ක් විය.
+
+◼️
+
+[Data](articles/ff0f4f10.json)
+
+---
+
 ### The Act has not been passed as a law for punishing children
 
 *2025-10-03 15:02:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරවනට-දඬවම-කරම-ගන-පනත-නතයක-ලස-සමමත-කර-න/101-680707) · `si`
@@ -2026,31 +2042,5 @@ DFCC Iconnect 2.0 Provides money management, trading solutions, supplier financi
 [Data](articles/13ca4a59.json)
 
 [Extended Data](ext_articles/13ca4a59.ext.json)
-
----
-
-### Rape on a 16 -year -old girl in Trincomalee; 32 years in prison for the culprit!
-
-*2025-10-03 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226773) · `ta`
-
-The Trincomalee High Court has sentenced the accused to 32 years in prison after the crime of a man who was raped and raped by a 16 -year -old girl in the Trincomalee -Cherunuwara police division.
-
-The case was filed for sexually abusing a 16 -year -old girl in the period from November 1st to 31st of 2021 and February 2022.
-
-A five -year -old indictment was filed by the Attorney General in connection with the case.
-
-The Penal Code was filed against the person on the basis of 364 (02) sub -section and 436.
-
-Accordingly, five allegations were made during the trial, as the 26 -year -old suspect, who lives in the Cherunuwara -Dehiwatte area, has been charged with five charges.
-
-Darshika Thirukumaranathan appeared as the State Attorney of the Trincomalee High Court. Meanwhile, the Trincomalee High Court Judge NMM Abdullah read the verdict in the open court and that the victim would pay a total of Rs.
-
-The Trincomalee High Court judge ordered that the rinse will be passed for a long time.
-
-◼️
-
-[Data](articles/87475d73.json)
-
-[Extended Data](ext_articles/87475d73.ext.json)
 
 ---

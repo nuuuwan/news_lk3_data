@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 00:11:55**
+As of **2025-10-04 00:21:56**
 
 ## Newspaper Stats
 
-*Scraped **80,955** Articles*
+*Scraped **80,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 576
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 740
-colombotelegraphcom | 806
+colombotelegraphcom | 807
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,955 (100.0%) of 80,955 articles have been extended.
+80,955 (100.0%) of 80,956 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -660,6 +660,18 @@ He also said that Sri Lanka's cinnamon Sweden is so commonly consuming that the 
 [Data](articles/c7f8a621.json)
 
 [Extended Data](ext_articles/c7f8a621.ext.json)
+
+---
+
+### Hospitality, Holiness & Human Flourishing: A Christian Response To LGBTIQ Tourism
+
+*2025-10-03 18:32:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/hospitality-holiness-human-flourishing-a-christian-response-to-lgbtiq-tourism/) · `en`
+
+The recent endorsement of LGBTIQ tourism in Sri Lanka raises questions of morality, economics, and cultural identity. This article offers a Christian response through three themes: hospitality, holiness, and human flourishing. It affirms the dignity of all people created in God’s image, while upholding God’s original design for life, marriage, and family. True flourishing cannot be reduced to economics or inclusivity alone but is found in spiritual, intellectual, social, emotional, and moral  development of the nation and the new life offered in Jesus Christ through repentance and transformation.
+
+...
+
+[Data](articles/a54081ed.json)
 
 ---
 
@@ -2072,25 +2084,5 @@ It has been revealed that the robbery had committed about 10 robbers of the coun
 [Data](articles/770cf7e1.json)
 
 [Extended Data](ext_articles/770cf7e1.ext.json)
-
----
-
-### Special operations island wide
-
-*2025-10-03 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215294) · `si`
-
-Police have arrested 13 other people directly involved in various criminal incidents under the criminal and narcotics of the drug across the country.
-
-28,140 persons have been inspected at the operation, the Police Media Division said.
-
-Police further stated that 626 persons have been arrested on suspicion of incidents and 246 warners.
-
-In addition, 54 others have been arrested in connection with drunk and unresponsive driving.
-
-◼️
-
-[Data](articles/0675137e.json)
-
-[Extended Data](ext_articles/0675137e.ext.json)
 
 ---

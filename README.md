@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 22:10:40**
+As of **2025-10-03 22:37:06**
 
 ## Newspaper Stats
 
-*Scraped **80,947** Articles*
+*Scraped **80,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,35 +19,93 @@ islandlk | 4,884
 dailyftlk | 5,653
 adalk | 7,771
 adaderanalk | 10,416
-tamilmirrorlk | 12,035
+tamilmirrorlk | 12,037
 virakesarilk | 13,270
-adaderanasinhalalk | 13,928
+adaderanasinhalalk | 13,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,946 (100.0%) of 80,947 articles have been extended.
+80,948 (100.0%) of 80,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
 
-### හිටපු ආණ්ඩුකාර මහීපාල හේරත් බිරිඳගේ නමට ඉදිකළ හෝටලය කඩා ඉවත් කර ගනියි
+### இலங்கை மக்களுக்கு அவசர செய்தி
+
+*2025-10-03 22:16:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மக்களுக்கு-அவசர-செய்தி/175-365698) · `ta`
+
+விஷ போதைப்பொருள் தொடர்பான தகவல்களை வழங்க பொதுமக்களுக்கு புதிய தொலைபேசி இலக்கங்களை பொலிஸார் அறிமுகப்படுத்தியுள்ளன.
+
+அதன்படி, நாட்டின் பல்வேறு பகுதிகளில் பரவலாக காணப்படும் ஹெரோயின், ஐஸ், கோக்கேன் மற்றும் கஞ்சா உள்ளிட்ட போதைப்பொருள் தொடர்பான தகவல்களை, பொதுமக்கள் இந்த இலக்கங்கள் மூலம் நேரடியாக அறிவிக்கலாம்.
+
+இன்று (03) முதல், சிரேஷ்ட பொலிஸ்மா அதிபர்களின் கீழ் உள்ள மாவட்டங்களுக்குப் பொறுப்பான பிரதி பொலிஸ் மா அதிபர்கள் மற்றும் பிரிவுகளுக்குப் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களின் பின்வரும் தொலைபேசி இலக்கங்களுக்கு அத்தகைய தகவல்களை வழங்கலாம் என பொலிஸ் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/61e88d1a.json)
+
+---
+
+### யாழில் மாடியில் இருந்து குதித்த மாணவி
+
+*2025-10-03 22:08:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மாடியில்-இருந்து-குதித்த-மாணவி/71-365697) · `ta`
+
+யாழ்ப்பாணம் - உடுவில் மகளிர் கல்லூரியில் கல்வி பயிலும் மாணவி ஒருவர் நேற்று 2வது மாடியில் இருந்து குதித்து படுகாயமடைந்துள்ளார்.
+
+விளையாட்டு ஒன்றில் முதலிடம் பெற்றதால் அவரது வகுப்பு மாணவிகள் அவரிமிருந்து விலகி இருந்துள்ளனர்.
+
+முல்லைத்தீவை சேர்ந்த 14 வயதுடைய குறித்த மாணவி உடுவில் மகளிர் கல்லூரியின் மாணவிகள் விடுதியில் கடந்த ஒரு வருட காலமாக தங்கி நின்று கற்றல் நடவடிக்கைகளில் ஈடுபட்டு வருகின்றார்.
+
+இந்நிலையில் அவர் விளையாட்டு ஒன்றில் பங்குபற்றி முதலிடம் பெற்றுள்ளார். இதனால் அவரது வகுப்பு மாணவிகள் அவரிடம் இருந்து விலகி இருந்தனர். இதன் காரணமாக மனமுடைந்த மாணவி விடுதியின் இரண்டாவது மாடியில் இருந்து கீழே குதித்ததால் காலில் படுகாயம் ஏற்பட்டுள்ளது.
+
+இது தொடர்பாக சுன்னாகம் பொலிஸார் விசாரணைகளை மேற்கொண்ட போது தனது வாக்குமூலத்தில் குறித்த மாணவி இதனை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2249fc62.json)
+
+---
+
+### Cantobury Archbishop for first time for women
+
+*2025-10-03 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215314) · `si`
+
+The postal post of Canonbara is responsible for the first time in the history of Canonbar.
+
+The first woman qualified to the position after 1, 400 years, Bishop was a 63-year-old Sara.
+
+The archbishop of Cantobury performs to a woman, such as the crown of a British root, is considered a historic opportunity.
+
+The spiritual leader of the Global Anglican Catholics is also the Archbisor of Canonbar.
+
+◼️
+
+[Data](articles/22ff80c9.json)
+
+[Extended Data](ext_articles/22ff80c9.ext.json)
+
+---
+
+### The hotel built by the wife of former Governor Maheepala Herath, the wife of the wife
 
 *2025-10-03 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215313) · `si`
 
-උතුරුමැද පළාත් හිටපු ආණ්ඩුකාර මහීපාල හේරත් මහතා සිය බිරිඳගේ නමට ඉදිකළ හෝටලය කඩා ඉවත් කරගෙන තිබේ.
+Former Governor Governor, Governor, Maheepala Herath, was built in the name of his wife.
 
-එම හෝටලය අනුරාධපුර පේරියම් කුලම වැව් රක්ෂිතයේ අනවසරයෙන් ඉදිකර තිබූ අතර ඒ අනුව එම හෝටලය මධ්‍යම නුවර ගම් පළාත් ප්‍රාදේශීය ලේකම් විසින් කඩා ඉවත් කරන ලෙස නියෝග කර තිබුණි.
+The hotel was unauthorized in the Peraium Kukura Tank Reserve in Anuradhapura and the hotel was ordered to demolish the hotel.
 
-ඒ අනුව හිටපු ආණ්ඩුකාරවරයාගේම පිරිසක් පැමිණ එම හෝටලය කඩා ඉවත් කර ඇති බවද වාර්තා විය.
+Accordingly, a group of former Governor had come to the hotel and demolished the hotel.
 
-අනුරාධපුර දිස්ත්‍රික්කයේ වැව් රක්ෂිතවල මායිම් සළකුණු කිරීම සඳහා මෑතකදි රජය විසින් දියත් කළ වැඩසටහනකදී මෙම ඉදි කිරීම සම්බන්ධයෙන් අනාවරණ වූ අතර ඒ අනුව එම ගොඩනැගිල්ල මසක් ඇතුළත ඉවත් කරගන්නා ලෙස දැනුම් දී තිබුණි.
+Recently, the construction of the government was recently launched in a program recently launched to mark the boundaries of tanks in Anuradhapura district.
 
 ◼️
 
 [Data](articles/6a674ccb.json)
+
+[Extended Data](ext_articles/6a674ccb.ext.json)
 
 ---
 
@@ -2028,59 +2086,5 @@ But for Anglicans globally, about two-thirds of whom live in countries like Nige
 [Data](articles/a756cd65.json)
 
 [Extended Data](ext_articles/a756cd65.ext.json)
-
----
-
-### Foxes
-
-*2025-10-03 14:51:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலைக்கு-படை-எடுக்கும்-நரிகள்/76-365696) · `ta`
-
-Students and teachers are facing great difficulty as a large number of foxes roam near the playground of the Hatton Hills Primary School, which is under the control of the Hatton Zonal Education Office.
-
-The foxes say that the fox is coming near the playground in the morning and that due to the current situation, children are unable to play at the playground.
-
-School administrators have requested the relevant authorities to hold a crowd of foxes around the school and take it to a different place.. Remble
-
-◼️
-
-[Data](articles/61ba830e.json)
-
-[Extended Data](ext_articles/61ba830e.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2025-10-03 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226789) · `ta`
-
-The Central Bank of Sri Lanka (Central Bank of Sri Lanka) today (3), the US dollar sales price was Rs 306.2675 and the purchase price was Rs 298.7693.
-
-The sales price of a Srealing pound is Rs 412.8560 and the purchase price is Rs 400.2464.
-
-The sales price of the euro is Rs 360.4209 and the purchase price is Rs 348.9376.
-
-Accordingly, the information released by the Central Bank of India today (03.10.2025) on other foreign currency exchange rates has been issued.
-
-◼️
-
-[Data](articles/ca93cb80.json)
-
-[Extended Data](ext_articles/ca93cb80.ext.json)
-
----
-
-### Tourist arrivals exceed 17 lakhs
-
-*2025-10-03 14:50:27* · [`adalk`](https://www.ada.lk/breaking_news/සංචාරක-පැමිණීම-ලක්ෂ-17-ඉක්මවයි/11-418899) · `si`
-
-Sri Lanka Tourism Development Authority says that the number of tourist arrivals to April 1 this year is 1 725 494. In September, 158 971 tourists have arrived in September.
-
-The highest number of tourist arrivals from India was 375 292. Thereafter, India (161 893), Russia (122 144) are the highest number of tourists.
-
-◼️
-
-[Data](articles/fca60ebd.json)
-
-[Extended Data](ext_articles/fca60ebd.ext.json)
 
 ---

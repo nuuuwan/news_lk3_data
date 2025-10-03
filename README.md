@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 19:10:51**
+As of **2025-10-03 19:55:50**
 
 ## Newspaper Stats
 
-*Scraped **80,911** Articles*
+*Scraped **80,925** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 572
+newsfirstlk | 576
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 732
@@ -20,54 +20,278 @@ dailyftlk | 5,653
 adalk | 7,769
 adaderanalk | 10,415
 tamilmirrorlk | 12,035
-virakesarilk | 13,257
-adaderanasinhalalk | 13,920
+virakesarilk | 13,265
+adaderanasinhalalk | 13,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,907 (100.0%) of 80,911 articles have been extended.
+80,925 (100.0%) of 80,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
 
-### මාර්ග හදන්න ගත් කෝටි 31000ක් හිරවෙලා
+### Dr. Harini Amarasuriya Pledges Major Reforms to Strengthen Education System
 
-*2025-10-03 18:53:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මරග-හදනන-ගත-කට-31000ක-හරවල/1-680713) · `si`
+*2025-10-03 19:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/dr-harini-amarasuriya-pledges-major-reforms-to-strengthen-education-system) · `en`
 
-මාර්ග සංවර්ධන අධිකාරිය මාර්ග ඉදිකිරීම සඳහා දේශීය බැංකුවලින් ලබාගෙන ඇති රුපියල් කෝටි 31000ක පමණ  අධික ණය මුදල් ප්‍රමාණය ගෙවීම ලොකු අර්බුදයක්  බවට පත්ව ඇතැයි වාර්තාවේ.
+COLOMBO (News 1st);The Guru Prathibha Prabha 2025 awards ceremony in Colombo recognized 173 principals for their exceptional dedication to education. Prime Minister Dr. Harini Amaraseuriya emphasized that improving education quality requires addressing systemic weaknesses and supporting principals professionally, including fair salaries and career development.She highlighted plans to enhance teacher training, fill long-standing vacancies, digitize administration, and improve school infrastructure, ensuring all secondary schools have proper digital connections and facilities by year-end. While acknowledging that not all changes can happen immediately, the Prime Minister assured that these initiatives will be implemented swiftly to strengthen the education system.
 
-මේ හේතුවෙන් එම ණය මුදල් ගෙවීමට  අයවැයෙන් වෙන් කර ඇති රුපියල් කෝටි 3600 ගැනීම සදහා පාර්ලිමේන්තුවේ අනුමැතිය  ගැනීමට පරිපූරක ඇස්තමේන්තුවක් ඉදිරිපත් කරන බව ප්‍රවාහන අමාත්‍යාංශයේ නිලධාරීහු රජයේ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවට දැනුම් දුන්හ.
+◼️
 
-මෙම පරිපූරක ඇස්තමේන්තුව  එම කාරක සභාවේදී  සලකා බැලීමෙන් පසුව  අනුමත  කෙරිණ
+[Data](articles/163f9c57.json)
 
-මේ අතර ශ්‍රී ලංකාව විදේශයන්ගෙන් හා දේශීයව දැනට  ලබාගෙන ඇති ණය  ප්‍රමාණ පිළිබඳව මුදල්  කාරක සභාවට කැඳවා සිටි රාජ්‍ය ණය කළමනාකරණ කාර්යාල නිලධාරීන්ගෙන් විමසා සිටියේය.   විදේශ ණය ඩොලර් කෝටි 3700  ක්ද  රුපියල්වලින් ගත්  ණය කෝටි 19 ලක්ෂයක්ද  ගෙවීමට  පවතින බව  එම නිලධාරීහු  පෙන්වා දුන්හ.
-
-මෙහිදී  මේ වසරේ ගෙවීමට ඇති ණය වාරික ප්‍රමාණය පිළිබඳව කාරක සභාභාපතිවරයා  නිලධාරීන්ගෙන් විමසා සිටි නමුත් අදාළ  සංඛ්‍යා දත්ත ඔවුන් සතුව ඒ මොහොතේ නොතිබීම පිළිබඳව සභාපතිවරයා නොසතුට පළකළේය.
-
-...
-
-[Data](articles/adffd110.json)
+[Extended Data](ext_articles/163f9c57.ext.json)
 
 ---
 
-### ’’කළු පාලනය අවසන් කරන පියවර ආපසු හරවන්නේ නෑ’’
+### CID Arrests Suspect Over Rs. 6 Billion Government Project Fraud
+
+*2025-10-03 19:19:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/cid-arrests-suspect-over-rs-6-billion-government-project-fraud) · `en`
+
+COLOMBO (News 1st);The Criminal Investigation Department (CID) has arrested a 44-year-old resident of Panadura for defrauding Rs. 6 Billion from a government project.Police said the suspect obtained the funds in 2019 for a fish feed production project under the Ministry of Agriculture. This amount represents 40 percent of the total project value.Investigations revealed that the suspect failed to implement any part of the project. Authorities are also probing the involvement of others who may have aided and abetted the fraud.
+
+◼️
+
+[Data](articles/a8be641a.json)
+
+[Extended Data](ext_articles/a8be641a.ext.json)
+
+---
+
+### President Receives Blessings From Maha Nayake Theros Of Malwathu And Asgiri Chapters
+
+*2025-10-03 19:15:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/president-receives-blessings-from-maha-nayake-theros-of-malwathu-and-asgiri-chapters) · `en`
+
+COLOMBO (News 1st);President Anura Kumara Dissanayake met with the Maha Nayake theros of the Malwathu and Asgiri Chapters this afternoon and received their blessings.The President first visited the Malwatu Maha Viharaya, where he held a brief discussion with the Maha Nayake of the Malwatu Chapter, Most Venerable Thibbatuwawe Sri Sumangala Thero. He then visited the Asgiri Maha Viharaya and met with the Maha Nayake of the Asgiri Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero.Meanwhile, the state ceremony to present credentials to the newly appointed Anunayake of the Asgiri Chapter of the Siam Sect, Most Venerable Narampanawe Ananda Thero, was held today at the Sri Dalada Maligawa under the patronage of President Dissanayake.At the ceremony, the President presented the Sannas Patra to Most Venerable Narampanawe Ananda Thero, officially appointing him as the new Anunayake of the Asgiri Chapter of the Siam Sect.
+
+◼️
+
+[Data](articles/4422faae.json)
+
+[Extended Data](ext_articles/4422faae.ext.json)
+
+---
+
+### Bombs not exploded in the driveway!
+
+*2025-10-03 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226831) · `ta`
+
+The bombs were found on Friday, the 3rd of this month as they did not explode in a private land in Kilinochchi.
+
+இயக்கச்சி பகுதியை சேர்ந்த ஒருவர் தன்னுடைய காணியில் துப்புரவு பணியை மேற்கொண்டிருந்த நிலையில் குறித்த காணிக்குள் குண்டுகள் காணப்படுவதை அவதானித்தார்.
+
+When the police were immediately informed about the incident, Maruthankeni police rushed to the scene and strengthened the security of the area.
+
+◼️
+
+[Data](articles/c719923d.json)
+
+[Extended Data](ext_articles/c719923d.ext.json)
+
+---
+
+### US Navy Ship
+
+*2025-10-03 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226830) · `ta`
+
+The US Navy's USS Fitzgerald arrived at the port of Colombo to meet the shipment and service requirements.
+
+The US Navy's USS Fitzgerald (DDG 62) came to meet the supply and service requirements to the Colombo port this morning (October 03, 2025), and the ship was welcomed by Sri Lankan navy traditions.
+
+Thus the destroyer vessel of the port of Colombo, the USS Fitzgerald (DDG 62) ship, is 154 meters long and is the command officer of the ship.
+
+Also, the USS Fitzgerald ship will depart from the island after meeting the delivery and service requirements.
+
+◼️
+
+[Data](articles/7b07d84a.json)
+
+[Extended Data](ext_articles/7b07d84a.ext.json)
+
+---
+
+### 31000 crores were trapped in road
+
+*2025-10-03 18:53:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මරග-හදනන-ගත-කට-31000ක-හරවල/1-680713) · `si`
+
+It is reported that the cost of Rs.
+
+As a result, the Ministry of Transport has informed the Parliamentary Select Committee of the Public Finance Committee to submit a supplementary estimate to approve parliament approval to pay the loans.
+
+This supplementary estimate was approved after considering in the committee
+
+Meanwhile, Sri Lanka has inquired from Public Debt Management Officers who have been called on the Cash Committee on foreign and locally already obtained loans.   Officials pointed out that foreign debt will pay 3700 million dollars and Rs.
+
+The Chairman of the Chairman was not aware of the officials of the Committee regarding the number of loans to pay this year, but the Chairman of the Chairperson did not discover the statistics.
+
+The Chairman of the Committees also recalled the importance of recruiting officers of the Public Debt Management Offices today.
+
+Ravi Karunanayake, MP Wickremesinghe and Sunil Rajapaksa and Nishantha Jayaweera were also present.
+
+◼️
+
+[Data](articles/adffd110.json)
+
+[Extended Data](ext_articles/adffd110.ext.json)
+
+---
+
+### Petition to the Court of Kehelbadara Padkera
+
+*2025-10-03 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215307) · `si`
+
+The mother of the organization of organized criminal Kehelbadara Padma has filed a film of organized criminadara.
+
+The detention order issued against his son is illegal.
+
+Accordingly, she has filed the writ petition for the order by Habayas Corpus and Rit jurisdiction.
+
+An interim relief has been requested to prevent the Inmate Inspector General out of the Criminal Inspection Department until the final decision.
+
+Accordingly, the lawyer who appeared for the Attorney General's Department was assured of the Attorney General's Department that the inmate would not be transferred elsewhere until the case was examined in the case.
+
+The lawyer also said that all the investigations conducted by the Criminal Inspector during the department's premises were held in the court.
+
+The petition is aimed at the President's Counsel Associated Attorney-at-Arms, Nalaka Samaragena, Rajulra, Kandaweera, appearing on the petitioner with the advice of Chameera Haputhara.
+
+◼️
+
+[Data](articles/48ade8c4.json)
+
+[Extended Data](ext_articles/48ade8c4.ext.json)
+
+---
+
+### Meeting with Minister Vijitha and Swedish Ambassador
+
+*2025-10-03 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215306) · `si`
+
+Sri Lanka's Sweden Ambassador in Sri Lanka, Sri Lanka, Ambassador of Sweden and Foreign Affairs, Foreign Employment and Tourism Vijitha Herath was held today (03).
+
+The Minister explained to the Ambassador to the Ambassador of the Government of Sri Lanka within the years of the past year.
+
+Sweden also appreciated the services and investment in the business sector for the advancement of Sri Lanka.
+
+He also requested the Support of the Government of Sweden to improve tourism and bringing new investment opportunities by Swedish businessmen.
+
+Speaking further the Minister has said that there are many investments in the apparel industry and mineral and mineral and minerals and minerals and pills.
+
+The Ambassador has also been asked that Sweden is looking for Sri Lankan government's Sweden and determined measures.
+
+He also said that Sri Lanka's cinnamon Sweden is so commonly consuming that the importation of cinnamon Sweden in Sri Lanka can increase the importation of cinnamon Sweden.
+
+...
+
+[Data](articles/c7f8a621.json)
+
+[Extended Data](ext_articles/c7f8a621.ext.json)
+
+---
+
+### '' No action will be reversed '
 
 *2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/1-680712) · `si`
 
-රටේ බිඳ වැටුණු ආර්ථිකය යළි ගොඩනඟන අතරම, සියලු අතින් පිරිහී ගිය සමාජය යළි සුවපත් කිරීමේ වගකීමද රජය භාරගෙන තිබෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+President Anura Kumara Dissanayake said that the government has taken over the responsibility of recovering the country's collapsed economy and has taken over the responsibility of recovery.
 
-මත්ද්‍රව්‍ය ජාවාරම සහ අවි බලය සමඟ සමාජය දැවැන්ත විනාශයකට ඇඳ දමා තිබෙන කළු පාලනය අවසන් කිරීමට රජය තැබූ පියවර කිසිසේත් ආපසු  හැරවීමට කටයුතු නොකරන බවද ජනාධිපති ජනාධිපතිවරයා අවධාරණය කළේය.
+The President emphasized that the government has not taken steps to end the black governance wearing the black governance wearing the black management with drug trafficking and weapons.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ නාරම්පනාවේ ආනන්ද අස්ගිරි අභිනව අනුනාහිමියන් වෙත ශ්‍රී සන්නස් පත්‍ර පිළිගැන්වීම වෙනුවෙන් අද (03) පස්වරුවේ මහනුවර ඓතිහාසික මඟුල් මඬුවේ පැවති පූජෝත්සවය අමතමිනි.
+The President made this observation addressing the philanthropy of historical fedees in Kandy this afternoon.
 
-සමාජ පුනරුදය ඇති කිරීමේදී මහා සංඝරත්නයට විශාල කාර්යභාරයක් පැවරී තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා, අතීතයේදී රාජ්‍යය අභියෝගයට පත් වූ සෑම අවස්ථාවකම ඒ වෙනුවෙන් ඉදිරියට පැමිණියේ මහා සංඝරත්නය බවද සඳහන් කළේය.
+The President said that the Maha Sangha had a major role in the Maha Sangha was given a major role in the public.
+
+The President also pointed out that the Ananda Leader of Narawampana, who is known as Dadurgees and Scientists, the Language of Narawampana.
+
+The President also pointed out that the government's objectives to launch a national movement to eliminate the drug disaster.
+
+The government's policy is to do nothing to promote the tourism industry.
 
 ...
 
 [Data](articles/19f1fa01.json)
+
+[Extended Data](ext_articles/19f1fa01.ext.json)
+
+---
+
+### Aditya Madhavan's 'Aders' will be released in November
+
+*2025-10-03 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226829) · `ta`
+
+The film crew has released a special photo of the film 'Adars', starring the hero of the new actor Aditya Madhavan - the classic police officer - will be released in November.
+
+Aditya Madhavan, Gauri Kishan, Anju Kurien, 'Mundasupatti' Ramadas, Jagan, Harish Peradi, Vinod Sagar, R. Many people including Sundarrajan have played.
+
+Jibran Vaiboda has composed the film, which is being recorded by Aravind Singh. The film is being produced as a medical crime thriller and produced by Grand Pictures.
+
+All the tasks of the film are completed and waiting for the release. In this case, the film's burst look was attracted to great attention.. The film will be released worldwide on the seventh of November, the film crew said.
+
+◼️
+
+[Data](articles/5ee59083.json)
+
+[Extended Data](ext_articles/5ee59083.ext.json)
+
+---
+
+### A review of the Government Fund Committee on Construction of Central Highway Kadawatha - Mirigama
+
+*2025-10-03 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226820) · `ta`
+
+The Government Fund Committee was investigated on the amount of debt expected to be obtained for the construction of the Kadawatha-Meerigama area of ​​the central highway.
+
+The matter was taken up for a discussion at a meeting of the Government Funds Committee on the 30th of last month under the leadership of MP Harsha de Silva.
+
+Officials of the Ministry of Transport, Highways, Port and Civil Services said that the length of the Central Highway is 36.475 kilometers of the Central Highway, which is being carried out, and to obtain US $ 500 million from China's Exim Bank to fulfill its construction.
+
+Accordingly, the committee had a long discussion on the interest rate on obtained at Exim Bank, China. The chairman of the committee, who commented here, questioned the authorities as to why the loan received at China's Exim Bank was 2.5% of the interest rate on the interest rate of 3.5%.
+
+...
+
+[Data](articles/4fa848f6.json)
+
+[Extended Data](ext_articles/4fa848f6.ext.json)
+
+---
+
+### Gigi & Coco 'Surprising Fans ..!?
+
+*2025-10-03 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226828) · `ta`
+
+Animated film 'Maha Avatar Narasimha' in India has been a huge success and expanded the business and audience for animated films. At this moment, an animated film 'Kiki & Coco' is being made to encourage the audience.
+
+Introducing Director B. The animated creation describes the relationship between a pet and a female child named Cocoa in the movie 'Kiki & Cocoa. It was produced by Inika Pudodoxans.
+
+Commenting on this animated work, the director said, “Children are essential for education -related films. In this way, we have mentioned the friendship between the children in this movie 'Kiki & Koko'. It is easy for children to learn through storytelling. We have created this animated work with it. ”
+
+◼️
+
+[Data](articles/66abd92d.json)
+
+[Extended Data](ext_articles/66abd92d.ext.json)
+
+---
+
+### The government is currently planning to sell economic centers - Sajith Premadasa
+
+*2025-10-03 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226824) · `ta`
+
+When in the opposition said they would not import anything from abroad. Now everything is imported from abroad and cheating farmers. Opposition leader Sajith Premadasa said the government is now planning to sell even economic centers.
+
+Moreover, he is currently in a severe setback in the education sector. 16,200 development officers who worked as teachers have been abandoned at the time of school facilities and shortage of teachers.
+
+There is great lack of human resources and physical resources. Sajith Premadasa said that the current ruling parties who criticized and mocked me when I was offering a smart screen for schools, and today they are unable to carry out a similar project.
+
+Another phase of the Opposition Leader Mobile Service Service and the Incorporation of New Members to the United People's Power was held today (3).
+
+...
+
+[Data](articles/451b7a21.json)
+
+[Extended Data](ext_articles/451b7a21.ext.json)
 
 ---
 
@@ -88,6 +312,28 @@ Provide information about poisonous drugs
 [Data](articles/63bcdfa8.json)
 
 [Extended Data](ext_articles/63bcdfa8.ext.json)
+
+---
+
+### Special Event in Jaffna
+
+*2025-10-03 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226827) · `ta`
+
+Ramalingam Chandrasekaran, Minister of Fisheries and Marine Resources and Chairman of the Jaffna District Coordinating Committee, presented certificates to their homes and the beneficiaries.
+
+The event was held at the District Secretariat auditorium headed by Jaffna District Government Agent Marudalingam Pradeepan.
+
+Special guests were the Members of Parliament Shanmuganathan Siripavanandarajah, Karunanathan Ilangumaran and Director of the Ministry of City Development, Construction and Housing. Debani Priyanka and Deputy Planning Director Priyanka Seneviratne were also present.
+
+The District Secretariat is conducting the event in collaboration with the Ministry of Urban Development, Construction and Housing on the occasion of the World Residential Day to be celebrated on the 6th of October.
+
+The government has allocated Rs.
+
+...
+
+[Data](articles/0bb5e369.json)
+
+[Extended Data](ext_articles/0bb5e369.ext.json)
 
 ---
 
@@ -169,21 +415,23 @@ The event was held at the Hilton Hotel in Colombo, with diplomats, politicians a
 
 ---
 
-### විදුලි සේවකයන්ගෙන් විශේෂ ප්‍රකාශයක්
+### Special statement from electrical workers
 
 *2025-10-03 17:43:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදල-සවකයනගන-වශෂ-පරකශයක/1-680711) · `si`
 
 ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය නිවැරදිව කරන ලෙස ඉල්ලමින් ලංකා විදුලිබල මණ්ඩලයේ වෘත්තිය සමිති රැසක් ක්‍රියාත්මක කරන ‘අකුරට වැඩකිරීම’ ක්‍රියාමාර්ගය පිළිබඳව විශේෂ ප්‍රකාශයක් ලබන අඟහරුවාදා කරන බව ලංකා විදුලිබල මණ්ඩලයේ නිදහස් සේවක සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් ප්‍රියන්ත මහතා අද (3) පැවසීය.
 
-‘අකුරට වැඩකිරීම’ වෘත්තීය ක්‍රියාමාර්ගය තව දුරටත් ක්‍රියාත්මක වන බවත් කම්කරු දෙපාර්තමේන්තුව සහ ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ කරන සාකච්ඡාවල ප්‍රතිඵලය මත ඉදිරි ක්‍රියාමාර්ග තීරණය වන බවත් ඒ මහතා කීය.
+The 'Monotal Working' is further implemented and that the outcome of the Department of Labor and the International Monetary Fund will be decided.
 
-ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියට එරෙහිව එහි වෘත්තීය සමිති 25 ක් පසුගිය සැප්තැම්බර් මස 4 වැනිදා අකුරට වැඩකිරීමේ වෘත්තිය ක්‍රියාමාර්ගයක් ආරම්භ කළ අතර එම වෘත්තිය ක්‍රියාමාර්ගය වර්ජනයක් දක්වා දැඩි කරන බව පැවසුව ද එම මණ්ඩලයේ සියලුම සේවකයන්ගේ නිවාඩු අවලංගු කිරීමට බලධාරීහූ පියවර ගත්හ.
+25 of its trade unions have commenced a professional career course against the Ceylon Electricity Board's Restructuring Program on 4th September.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විදුලිබල සැපයීම සම්බන්ධ සියලු සේවා අත්‍යාවශ්‍ය සේවාවන් බවට පත්කරමින් අති විශේෂ ගැසට් නිවේදනයක් පසුගිය මස 21 වැනිදා නිකුත් කළේය.
+President Anura Kumara Dissanayake issued a special gazette notification on the 21st of the 21st of the 21st of the 21st of the 21st of this month.
 
 ◼️
 
 [Data](articles/215d1cd9.json)
+
+[Extended Data](ext_articles/215d1cd9.ext.json)
 
 ---
 
@@ -325,21 +573,31 @@ The suspect was produced before the Tissa Magistrate's Court and receive detenti
 
 ---
 
-### දෙහිවල වෙඩි තැබීමේ පැදිකරු අත්අඩංගුවට
+### Coast arrested in Dehiwala
 
 *2025-10-03 17:11:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දහවල-වඩ-තබම-පදකර-අතඅඩගවට/1-680710) · `si`
 
-දෙහිවල  දුම්රිය පොල පාර අසල සුපිරි වෙළඳසැලක් ඉදිරිපිටදී මෝටර් රථයක සිටි පුද්ගලයෙකුට යතුරු පැදියකින් පැමිණ වෙඩි තබා බරපතල තුවාල සිදුකිරීමේ සිද්ධියේ පැදිකරු ලෙස කටයුතු කළ පුද්ගලයා තියුණු ආයුධ සහ මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් බව ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය කියයි
+Mt.
 
-එම සැකකරු සමග කඩු පහක්, කිනිස්සක් හා රුපියල් ලක්ෂ පනහකට අධික වටිනා අයිස්  මත්ද්‍රව්‍ය ගෑම් 50ක් පොලිස් භාරයට ගෙන ඇත
+Five swords with the suspect, 50 ice drugs worth over Rs.
 
-වෙඩි තැබීමට සම්බන්ධ යතුරු පැදිය පැදවූ පුද්ගලයා ගල්කිස්ස සුමනාරාම පාරේ නිවසක සැඟව සිටින බවට ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ගමගේ නිලන්ත  මහතාට ලද තොරතුරකට අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත.
+The Mt. Mt. Mt. Mailpa Minespid OIC Chief Inspector Gamage, Chief Inspector of Police, has been arrested following a motorbhabage.
 
-අත්අඩංගුවට ගත් පැදිකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී  බස් අසිත නැමැත්තාට වෙඩි තබා ඝාතනය කිරීම සඳහා  සංවිධානාත්මක අපරාධකරුක සහ මත් ජාවාරම්කරුවෙකු වන කොස් මල්ලි නැමැත්තා තමන් වෙත රුපියල් ලක්ෂ 7කට ආසන්න මුදලක්ද ලබා දුන් බවත් එම මුදලින් එකවර රුපියල් තුන් ලක්ෂ පනස්දහසක් තම ගිණුමට බැරකල බවත් අනතුරුව වරින් වර ඉතිරි මුදල් ලබා දුන් බවත් සැකකරු  අනාවරණය කර ඇත
+The suspect, who was a member of the organized criminal and drug dealer, had been given Rs.
 
-...
+The police say that five swords were found in the house while checking the residence home, police said.
+
+Police investigations have revealed that the suspect had abandoned the residence after the shooting incident.
+
+The suspect was produced before the Tissa Magistrate's Court and receive detention orders
+
+ගල්කිස්ස කොට්ඨාස අපරාධ භාර ජේෂ්ඨ පොලිස් අධිකාරි අශෝක ගුණසේකර මහතාගේ උපදෙස් මත ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ගමගේ නිලන්ත මහතාගේ මෙහි වීමෙන් උප පොලිස් පරීක්ෂකවරුන් වන කවි සංඛ හා රන්දිම  පොලිස් කොස්තාපල් වරුන් වන 78865 මේනක 30178 සංජීව 102021  බණ්ඩාර 80965 ඉදිරි සිංහ මහත්වරුන් පරීක්ෂණපවත්වයි
+
+◼️
 
 [Data](articles/6e3e2165.json)
+
+[Extended Data](ext_articles/6e3e2165.ext.json)
 
 ---
 
@@ -950,6 +1208,30 @@ Speaking at the event, the Prime Minister praised the importance of this joint v
 [Data](articles/1a086b4e.json)
 
 [Extended Data](ext_articles/1a086b4e.ext.json)
+
+---
+
+### Body Punishment of Children: Law is not allowed in Parliament;  Harshana Nanayakkara
+
+*2025-10-03 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/226777) · `ta`
+
+Although there was a debate on the second reading of the Bill to amend the Penal Code (19th Chapter) Penally Punishment of Children's Physically Punishment.. Minister of Justice and National Integration Harshana Nanayakkara said that those who wish to submit amendments can be submitted during the Parliamentary Committee.
+
+The debate on the second reading of the Penal Code of Consumer amendment was held in Parliament on the 24th of last month.
+
+However, there was a debate on the second reading on the bill and it was compatible with the law.
+
+If the amendments to the Bill are obtained, the bill is not allowed because the criminal case should be amended in the law.
+
+Since the bill has not yet been approved, there is an opportunity to submit amendments to the Parliamentary Committee.
+
+We would like to point out that the amendment bill in the sentence of the prosecution of the child's physical punishment has not yet been enacted.
+
+◼️
+
+[Data](articles/c7a99e06.json)
+
+[Extended Data](ext_articles/c7a99e06.ext.json)
 
 ---
 
@@ -1764,289 +2046,5 @@ Karunarathna holds a BSc in Accountancy and Financial Management with First Clas
 [Data](articles/810f7862.json)
 
 [Extended Data](ext_articles/810f7862.ext.json)
-
----
-
-### ComBank’s sustainability leadership inspires UN Global Compact annual sessions in New York
-
-*2025-10-03 13:38:56* · [`dailyftlk`](https://www.ft.lk/business/ComBank-s-sustainability-leadership-inspires-UN-Global-Compact-annual-sessions-in-New-York/34-782578) · `en`
-
-Commercial Bank Deputy General Manager – Corporate Banking Hasrath Munasinghe (left) with UNGC Assistant Secretary General and CEO Sanda Ojiambo
-
-The sustainability leadership of the Commercial Bank of Ceylon was brought into focus on the global stage when Commercial Bank of Ceylon PLC Deputy General Manager – Corporate Banking Hasrath Munasinghe shared insights at United Nations Global Compact (UNGC) annual sessions held in conjunction with United Nations General Assembly (UNGA) annual sessions in New York. The forum was attended by over 500 delegates from 69 countries across the world.
-
-Munasinghe who also serves as a trustee of the bank’s CSR Trust, is a member of the executive sustainability committee of the bank and a board director of the UNGC network in Sri Lanka spoke on Sri Lanka’s sustainability landscape at the Asia and Oceania Leadership Round Table where representatives from 14 countries presented.
-
-...
-
-[Data](articles/526dce9e.json)
-
-[Extended Data](ext_articles/526dce9e.ext.json)
-
----
-
-### Minister of Justice amendment to the issue of punishment
-
-*2025-10-03 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215291) · `si`
-
-Minister of Justice Herara Nanayakkara has issued a statement regarding the amendments to the children's punishment (19th auti loss).
-
-The Minister further stated that the Second Reading Debate is held in Parliament, but the second reading debate has not been passed as a law by Parliament.
-
-The Second Reading Debate on the 5th Amendment Bill was held on 24 September.
-
-The following statement further stated that if it is a debate only, not passing the amendment, the amendment was to be passed away.
-
-The Minister also informed the Minister of Justice that the bill has not been passed as a law so far.
-
-The Minister further emphasizes that this bill has not become a law up to now.
-
-◼️
-
-[Data](articles/3d79c1f3.json)
-
-[Extended Data](ext_articles/3d79c1f3.ext.json)
-
----
-
-### The hearing of Manusha Nanayakkara's precedent petition on the 08th!
-
-*2025-10-03 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/226780) · `ta`
-
-The Colombo Magistrate's Court has ordered that a petition filed by former minister Manusha Nanayakkara will be taken up for hearing on the 8th of this month, demanding the arrest of the Commission of Bribery and Corruption.
-
-Officials of the Bribery and Corruption Investigation Commission are conducting investigations into the fraud of fraud while sending employees to Israel for agricultural work during his tenure as a foreign employment minister.
-
-Former Minister Manusha Nanayakkara filed a petition in court demanding that the bribery and corruption inquiry commission officials be arrested in connection with these investigations.
-
-The order was issued when the petition was summoned in the presence of Colombo Chief Magistrate Asanga S Potarakama today (03).
-
-Officials of the Bribery and Corruption Investigation Commission appeared in court and submitted a report to the court in protest against the petition of Manusha Nanayakkara.
-
-...
-
-[Data](articles/3b4dc93a.json)
-
-[Extended Data](ext_articles/3b4dc93a.ext.json)
-
----
-
-### Samara Perera joins The Kingsbury, Horana Plantations Boards
-
-*2025-10-03 13:36:50* · [`dailyftlk`](https://www.ft.lk/business/Samara-Perera-joins-The-Kingsbury-Horana-Plantations-Boards/34-782577) · `en`
-
-Samara Perera has joined the Boards of The Kingsbury PLC and Horana Plantations PLC as Non-Executive Director.
-
-Perera has been actively involved in business projects and initiatives at both Hayleys PLC and Vallibel One PLC where she gained valuable experience, the companies said.
-
-She is pursuing a Bachelor of Business Degree and is passionate about leadership, entrepreneurship and innovation.
-
-◼️
-
-[Data](articles/e1ee27af.json)
-
-[Extended Data](ext_articles/e1ee27af.ext.json)
-
----
-
-### A hundred new cancer patients a day, 35,000 per year
-
-*2025-10-03 13:36:47* · [`adalk`](https://www.ada.lk/breaking_news/දිනකට-අලුත්-පිළිකා-රෝගීන්-සියයක්--වසරකට-35000ක්/11-418895) · `si`
-
-According to the new health care centers of Health and Mass Media, Dr. Nalinda Jayatissa has planned to establish the right to close the health care centers in the health care care of the health care care of the health care centers island wide with respect to the people living in the health care care system.
-
-The primary health care center, which is closer to the people, is designated as Hospital Care Centers, which are operated under the Neo-Sri Lanka innovative program.
-
-The Pilot Project Sivwana Hospital in the Pilot Project was held under the patronage of the Palagollawatta Hospital Development Center in Kandy yesterday under the patronage of Hon. Nalinda Jayatissa.
-
-The Minister was able to register the first client registration and to provide the card.
-
-Minister Dr. Nalinda Jayatissa, Minister Dr. Nalinda Jayatissa commenced the program as a new concept, which was held in the hospital.
-
-...
-
-[Data](articles/6e3abb81.json)
-
-[Extended Data](ext_articles/6e3abb81.ext.json)
-
----
-
-### Innovation of large sums of rifles in the cavity in Jaffna
-
-*2025-10-03 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226774) · `ta`
-
-A large number of rifles have been discovered from the tooth of a land in Jaffna.
-
-Nawali was working on cleaning a land that had long been found in the North North and its owner yesterday (02).
-
-At the same time, the top of the cavity of the sewage in the land was found in the cavity.
-
-After informing the Manipay police, the police went to the scene and visited the gunmen.
-
-The police said that action will be taken to recover the rifles for the Mallakam court and the court permission is obtained.
-
-◼️
-
-[Data](articles/6e70f07b.json)
-
-[Extended Data](ext_articles/6e70f07b.ext.json)
-
----
-
-### The death of a drinker in the money purchased by pooja products
-
-*2025-10-03 13:31:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூஜை-பொருட்கள்-வாங்கிய-பணத்தில்-குடித்த-தொழிலாளி-மரணம்/175-365694) · `ta`
-
-A drinker who died after buying the necessary items for the arms pooja in the village of Kuruvankuppam next to Virthasalam in Cuddalore district.
-
-Velmurugan (36), his wife Valli. The couple has 2 sons, Ayyanar (11) and Vijayvel (5). Velmurugan had the habit of drinking alcohol. Whenever there is a husband and wife, there is a dispute between the husband and wife.
-
-In this case, Valli gave Vallmurugan Rs.. Velmurugan went to the store and bought pooja items. For the remaining money, he bought wine at the task force.
-
-Velmurugan then went to the house at Madhubhu and gave his wife pooja items. Valli asked to give the rest of the money to go. He said he had cost. It was in that money that Valli got into an argument with her, knowing that her husband had left alcohol.
-
-Valli fell asleep at night, locking the door inwardly with Velmurugan, without giving me a meal.. Velmurugan slept in front of the house.
-
-...
-
-[Data](articles/0088342d.json)
-
-[Extended Data](ext_articles/0088342d.ext.json)
-
----
-
-### Arms Pooja: Wife who was killed by a pitcher
-
-*2025-10-03 13:31:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுத-பூஜை-குடித்த-கணவனை-குடத்தால்-அடித்துக்-கொன்ற-மனைவி/175-365694) · `ta`
-
-A drinker who died after buying the necessary items for the arms pooja in the village of Kuruvankuppam next to Virthasalam in Cuddalore district.
-
-Velmurugan (36), his wife Valli. The couple has 2 sons, Ayyanar (11) and Vijayvel (5). Velmurugan had the habit of drinking alcohol. Whenever there is a husband and wife, there is a dispute between the husband and wife.
-
-In this case, Valli gave Vallmurugan Rs.. Velmurugan went to the store and bought pooja items. For the remaining money, he bought wine at the task force.
-
-Velmurugan then went home at Madhubodi and gave his wife pooja items. Valli asked to give the rest of the money to go. He said he had cost it. It was in that money that Valli got into an argument with her, knowing that her husband had left alcohol.
-
-Valli fell asleep at night, locking the door inwardly with Velmurugan, without giving me a meal.. Velmurugan slept in front of the house.
-
-...
-
-[Data](articles/4813d9dc.json)
-
-[Extended Data](ext_articles/4813d9dc.ext.json)
-
----
-
-### Bribery is against Manusha's bail
-
-*2025-10-03 13:30:59* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනෂග-ඇප-ඉලලමට-අලලස-වරදධ-වය/1-680687) · `si`
-
-If the Bribery Commission was arrested on the Israeli employment agreement, Colombo Chief Magistrate Asanka Nanayakara, who was appointed to obtain bail on the 8th, was appointed as the petition to be bail.
-
-After considering the Bribery Commission, the Bribery Commission filed the complaint after the Bribery Commission had filed opposition to the suspect.
-
-When the complaint was taken up today, the Bribery Commission presented the written assertion by expressing his opposition to the bail.
-
-The Magistrate ordered to refer to the written lectures on the 6th at the eight days following the written facts submitted by the respondents.
-
-Bribery Commission has commenced this inquiry into the activities of the Sri Lanka Bureau and the Sri Lanka Bureau of Foreign Employment and the Israeli State Government to provide foreign employment to the youth of the country.. Mr. Nanayakkara filed the petition on the 26th of the last day.
-
-...
-
-[Data](articles/6c1aa70b.json)
-
-[Extended Data](ext_articles/6c1aa70b.ext.json)
-
----
-
-### Bribery is against Manusha's bail
-
-*2025-10-03 13:30:59* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනෂග-ඇප-ඉලලමට-අලලස-වරදධ-වය/101-680687) · `si`
-
-If the Bribery Commission was arrested on the Israeli employment agreement, Colombo Chief Magistrate Asanka Nanayakara, who was appointed to obtain bail on the 8th, was appointed as the petition to be bail.
-
-After considering the Bribery Commission, the Bribery Commission filed the complaint after the Bribery Commission had filed opposition to the suspect.
-
-When the complaint was taken up today, the Bribery Commission presented the written assertion by expressing his opposition to the bail.
-
-The Magistrate ordered to refer to the written lectures on the 6th at the eight days following the written facts submitted by the respondents.
-
-Bribery Commission has commenced this inquiry into the activities of the Sri Lanka Bureau and the Sri Lanka Bureau of Foreign Employment and the Israeli State Government to provide foreign employment to the youth of the country.. Mr. Nanayakkara filed the petition on the 26th of the last day.
-
-...
-
-[Data](articles/aa4a97e9.json)
-
-[Extended Data](ext_articles/aa4a97e9.ext.json)
-
----
-
-### Great tragedy in Ethiopia: 36 killed in church
-
-*2025-10-03 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226778) · `ta`
-
-When a religious event was held in a church located in the Ethiopia region of the East Africa country of Ethiopia, a temporary tree for reconstruction suddenly collapsed and more than 200 people were injured.
-
-The famous Mejar Shenkora Arteri Mariam Church is located in the city of Artedi, the Umhara region, about 70 kilometers from the Ethiopian capital, Adisa Ababa.
-
-The annual religious event, held in this church, was held. A large number of devotees from the area gathered to attend.
-
-The essence of the tree for the restoration of the church premises suddenly collapsed with a loud noise. A large number of devotees were trapped in the wreckage.
-
-36 people were tragically killed in this accident. Also, more than 200 people were injured. The injured have been rescued and admitted to nearby hospitals for treatment.
-
-...
-
-[Data](articles/2d5e78d2.json)
-
-[Extended Data](ext_articles/2d5e78d2.ext.json)
-
----
-
-### Cancer cell counting nutrients from Colombo University
-
-*2025-10-03 13:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215290) · `si`
-
-Cancer is a serious illness that threats a serious threat to the existence of human life.
-
-As a result, the world is now focused in the world to search for it.
-
-In such a backdrop, the Biochechology and Biocular Biological Institute and Biochology has been able to find a nutrient of cancer.
-
-In a part of the human body, unusual cells are known as cancer, and may even be even death if it is not recognized at the first instance.
-
-Globishingly, nearly Rs.
-
-In the face of this situation, cancer grew rapid growth in the sides of cancer, in parallel, and in parallel, the world is focused on the need to act against cancer.
-
-Accordingly, Russia recently announced that he was able to manufacture an important cancer in the fight against cancer.
-
-As a result of the research conducted by nearly 17 years since 2008, a research performing in 2008 has been able to find a nutrient, molecular biology and biotechnology.
-
-...
-
-[Data](articles/79236c78.json)
-
-[Extended Data](ext_articles/79236c78.ext.json)
-
----
-
-### Russia's plan to strengthen trade with India amid US taxation
-
-*2025-10-03 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/226776) · `ta`
-
-President Vladimir Putin has said that Russia is planning to compensate for the loss of heavy taxation measures imposed on India from the Ukraine -Russia war, India, and to increase the trade between the two countries.
-
-Speaking at the International Woldy Seminar in Sochi, Russia, Russian President Putin shared important comments on relations and trade with India.
-
-“The losses of India by the US 50 per cent taxation measures on India due to the importation of lubricant from Russia will be equated with lubricant imports with Russia. With this, India will receive its dignity as a sovereign country.
-
-Also, we are planning to buy more agricultural products and medicines from India to eliminate trade inequalities. I have advised the Russian government departments to think about the methods. "
-
-...
-
-[Data](articles/098e5a7b.json)
-
-[Extended Data](ext_articles/098e5a7b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 10:48:46**
+As of **2025-10-03 11:07:52**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,573 (100.0%) of 80,584 articles have been extended.
+80,584 (100.0%) of 80,584 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,23 +51,29 @@ However, the agency acknowledged substantial progress under the 48-month IMF pro
 
 [Data](articles/fc3ce7ee.json)
 
+[Extended Data](ext_articles/fc3ce7ee.ext.json)
+
 ---
 
-### යාල් දේවී ප්‍රමාද වී ධාවනය කිරීම ගැන දැනුම්දීමක්
+### Notice of Running Yal Delay Delay
 
 *2025-10-02 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215259) · `si`
 
-උතුරු දුම්රිය මාර්ගයේ වව්නියාව ඕමන්ත අතර දුම්රිය මාර්ග කොටසෙහි සිදු කරන අත්‍යාවශ්‍ය නඩන්තු කටයුත්තක් හේතුවෙන් යාල්දේවී දුම්රිය ප්‍රමාද වී ධාවනය කිරීම සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Railways has issued an announcement to run the delay in the railway measures carried out in the Northern Railway Line.
 
-මෙම මස 07 වැනිදා සිට 18 වැනිදා දක්වා කාලය තුළ දුම්රිය ප්‍රමාද වී ධාවනය වන බව එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+The rail will be opened from the 7th to the 18th of this month.
 
-ඒ හේතුවෙන් කොළඹ කොටුවේ සිට කන්කසන්තුරය බලා ධාවනය වන යාල් දේවී ශිඝ්‍රගාමී දුම්රිය කොළඹ කොටුවෙන් නියමිත වෙලාවට (පෙ.ව.06.40 ට) ගමන ආරම්භ කර වව්නියාව (වව්නියාවට ලඟා වීම - පෙ.ව. 11.35) දක්වා නියමිත පරිදි ධාවනය වී පැය 02යි මිනිත්තු 40ක කාලයක් වව්නියාව දුම්රිය ස්ථානයේ නවත්වා තබා වව්නියාව දුම්රිය ස්ථානයෙන් ප.ව.02.15ට කන්කසන්තුරය දක්වා ධාවනය කිරීමට නියමිතය.
+Due to this, the Yal Devi pradeshiya .... 11.35) The due date for the due date and a sum of two hours were stopped at Vavuniya station for 40 minutes and will be operated from the Vavuniya Railway Station to Kankasurai.
 
-මීට අමතරව කන්කසන්තුරය සිට කොළඹ කොටුව දක්වා ධාවනය කරන යාල් දේවී ශිඝ්‍රගාමී දුම්රිය කන්කසන්තුරය දුම්රිය ස්ථානයෙන් මිනිත්තු 30ක කාලයක් ප්‍රමාද වී පෙව.11.00ට ගමන් ආරම්භ කිරීමට නියමිත වේ.
+In addition, the Yal Devi Prize Trains of the Kankasanthurai to Colombo Fort is due to start journing from 1.00 in the railway station.
 
-...
+If you want to cancel their reserved seat at the Vavuniya Railway to the Kancanthurai train (No. 4077 train from the Vavuniya train, which is located from the Vavuniya area.
+
+◼️
 
 [Data](articles/9745612e.json)
+
+[Extended Data](ext_articles/9745612e.ext.json)
 
 ---
 
@@ -161,35 +167,39 @@ The official added that the train traffic in the Puttalam road could be interrup
 
 ---
 
-### දුම්රියක් රාගමදී පිලී පනියි
+### A train opens in Ragama
 
 *2025-10-02 14:11:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දමරයක-රගමද-පල-පනය/101-680640) · `si`
 
-ප්‍රීමා පිටි ප්‍රවාහන කරන දුම්රියක් රාගම දුම්රිය ස්ථානයේ රාගම සහ ජාඇල අන්තයේ අද (2) දහවල් පිලී පැනීමකට ලක්ව ඇති බව දුම්රිය දෙපාර්තමේන්තුවේ උසස් නිලධාරියෙක් පැවසීය.
+A train from Ragama Railway Station has been appointed as the rag of Ragama Railway Station today (2).
 
-මේ හේතුවෙන් අද දින පුත්තලම් මාර්ගයේ දුම්රිය ගමනාගමනයට බාධා ඇතිවිය හැකි බවද එම නිලධාරියා වැඩිදුරටත් සඳහන් කළේය.
+The official added that the train traffic in the Puttalam road could be interrupted today.
 
 ◼️
 
 [Data](articles/df57a1f9.json)
 
+[Extended Data](ext_articles/df57a1f9.ext.json)
+
 ---
 
-### රිෂාඩ්ගේ මූලික අයිතිවාසිකම් පෙත්සම විභාගයට දින දෙයි
+### Rishad's fundamental rights petition dnds
 
 *2025-10-02 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215258) · `si`
 
-2021 වසරේ කිසිදු සාධාරණ හේතුවක් නොමැතිව තමන්ව අත්අඩංගුවට ගෙන රැඳවුම් නියෝග මත රඳවා ගැනීමට එරෙහිව හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් මහතා විසින් ඉදිරිපත් කර තිබූ මූලික අයිතිවාසිකම් පෙත්සම විභාගය සඳහා ලබන වසරේ මාර්තු මස 25 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+The Supreme Court has set the fundamental rights petition filed by former Minister Rishad Bathiudeen, who has been arrested and detained by former Minister Rishad Bathiudeen, who has been arrested and detention orders.
 
-මෙම පෙත්සම අද (02) ශිරාන් ගුණරත්න, අචල වෙංගප්පුලි සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ත්‍රි පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The petition was called before Shiran Gunaratne, Achala Windsu Fernando and Priyantha Fernando and Priyantha Fernando.
 
-එහිදී විනිසුරු මඩුල්ල නියම කළේ මෙම පෙත්සම විභාගය සඳහා ලබන වසරේ මාර්තු මස 25 වනදා කැඳවන බවය.
+The panel of judges was sentenced to the examination on March 25, next year.
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ පාලන සමයේ කිසිදු සාධාරණ හේතුවක් නොමැතිව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් තමන්ව අත්අඩංගුවට ගෙන අනීතික ලෙස රඳවා ගැනීම තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් මහතා විසින් මෙම මූලික අයිතිවාසිකම් පෙත්සම ඉදිරිපත් කර තිබුණි.
+Former Minister Rishad Bathiudeen, former Criminal Investigations Department (CID) was handed over to the Criminal Investigation Department without any reasonable residents without any reasonable residents of former President Gotabhaya Rajapaksa.
 
 ◼️
 
 [Data](articles/e1a351e7.json)
+
+[Extended Data](ext_articles/e1a351e7.ext.json)
 
 ---
 
@@ -208,6 +218,8 @@ Former Minister Rishad Bathiudeen filed the fundamental rights petition seeking 
 ◼️
 
 [Data](articles/90a722e9.json)
+
+[Extended Data](ext_articles/90a722e9.ext.json)
 
 ---
 
@@ -297,17 +309,19 @@ The Bribery Commission had arrested this after arriving at the Bribery Commissio
 
 ---
 
-### මහින්දගේ ප්‍රධාන ආරක්ෂක නිලධාරියා අත්අඩංගුවට
+### Mahinda's chief security officer arrested
 
 *2025-10-02 13:57:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-පරධන-ආරකෂක-නලධරය-අතඅඩගවට/101-680639) · `si`
 
-හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධාන ආරක්ෂ නිලධාරී මේජර් නෙවිල් වන්නිආරච්චි මහතා මීට සුළු මොහොතකට පෙර අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගනු ලැබීය.
+Former President Mahinda Rajapaksa's Chief Security Officer Major Neville Wanniarachchi was arrested by the Investigation Commission for Bribery or Corruption.
 
 ඒ අල්ලස් සහ දූෂණ චෝදනාවක් සම්බන්ධයෙන් අල්ලස් කොමිෂන් සභාව හමුවේ අද පෙනී සිටි අවස්ථාවේදීය.
 
 ◼️
 
 [Data](articles/abed8002.json)
+
+[Extended Data](ext_articles/abed8002.ext.json)
 
 ---
 
@@ -398,6 +412,8 @@ A total of 13 other DIGs and 10 Senior Superintendents of Police have also been 
 ◼️
 
 [Data](articles/56cc63e1.json)
+
+[Extended Data](ext_articles/56cc63e1.ext.json)
 
 ---
 
@@ -601,19 +617,21 @@ It is reported that Major Neville Wanniarachchi has arrived at the Bribery Commi
 
 ---
 
-### සුව ඇමති මල්වතු - අස්ගිරි මහ නාහිමිවරුන් බැහැ දකී
+### Head of Health Minister Malwatte and Asgiriya North Nayaka
 
 *2025-10-02 13:24:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සව-ඇමත-මලවත-අසගර-මහ-නහමවරන-බහ-දක/1-680637) · `si`
 
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මහනුවරදී අද මල්වතු - අස්ගිරි මහා නාහිමිවරුන් බැහැ දුටුවේය.
+Health and Mass Media Minister Dr. Nalinda Jayatissa saw the Malwathu and Asgiriya Maha N'hawathu and Asgiriya Maha N'havir.
 
-පළමුව අමාත්‍යවරයා තිබ්බටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මල්වතු මහා නාහිමි බැහැදුටු අතර අනතුරුව වරකාගොඩ ශ්‍රී ඥානරතන අස්ගිරි මහා නාහිමි බැහැ දුටුවේය.
+The Minister of Siddhartha Sumanathana Ven.
 
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය මගින් සිදුකරන අනාගත සෞඛ්‍ය වැඩපිළිවෙළ පිළිබදව ද,  වත්මන් රජයේ නව්‍ය සංකල්පයක් ලෙස මෙරට දීප ව්‍යාප්තව ක්‍රියාත්මක කෙරෙන “ආරෝග්‍යා සුවතා මධ්‍යස්ථාන” ව්‍යාපෘතිය පිළිබදව මෙහි දී අමාත්‍යවරයා  මහනායක හිමිවරුන් දැනුවත් කළේය.
+The Minister of Health was held as a new concept of the Ministry of Health and the Ministry of Health and the Minister of Hoogya Health Centers "The Chief Secretary of the Ministry of Sports was conducting the island wide.
 
 ◼️
 
 [Data](articles/4878f6db.json)
+
+[Extended Data](ext_articles/4878f6db.ext.json)
 
 ---
 
@@ -646,6 +664,8 @@ Earlier, he was brought to the Bribery Commission for questioning.
 ◼️
 
 [Data](articles/2775de8a.json)
+
+[Extended Data](ext_articles/2775de8a.ext.json)
 
 ---
 
@@ -687,35 +707,47 @@ Extended by the company to check the woman, no police report has not received an
 
 ---
 
-### කොල්ල කල්ලි ජාලයක නායිකාවක්-ඇගේ පුත්‍රයා ඇතුළු තිදෙනකු අල්ලයි
+### A leader of a robbery and three others arrested
 
 *2025-10-02 13:19:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කලල-කලල-ජලයක-නයකවක-ඇග-පතරය-ඇතළ-තදනක-අලලය/1-680636) · `si`
 
-නිවාසවලට සේවිකාවන් සපයන ආයතනයක සේවය කරමින් එම නිවාසවල සේවා කටයුතු ආදියේ නිරත වෙමින්  කොල්ල කණ්ඩායමක් යොදවා නිවාස කොල්ලකෑමේ නිරත සංවිධානාත්මක ජාලයක නායිකාව වන කාන්තාවක ඇගේ පුත්‍රයා ඇතුලු තිදෙනෛකු සමඟ අත්අඩංගුවට ගත් බව බෙම්මුල්ල පොලිසියට කියයි.
+The Bemmulla Police tells the police that a woman named a woman, a woman, who is a woman who is engaged in an organized network of the houses, engaged in working with employees of the houses.
 
 මෙසේ අත්අඩංගුවට ගත් පිරිස හඟුරන් කෙත ප්‍රදේශයේ පදිංචිකරුවන් බව පොලිසිය කියයි.
 
-මෙම කාන්තාව සිය පුතුගේ කල්ලිය සමඟ එක්ව කරන මෙම කොල්ලකෑම් හෙළි කර ගැනීමට හැකි වී ඇත්තේ  බෙම්මුල්ල සපුගස්තැන්න ප්‍රදේශයේ නිවසක සිදුවූ කොල්ලයක් සම්බන්ධ පරීක්ෂණ පැවැත්වීමේදීය.වයස අවුරුදු හතක් වූ මුනුබුරා සමඟ   දෙමහල් නිවසේ ජීවත් වෙන වයස අවුරුදු පනස් හතරක් පමණ වන කාන්තාවක නිවසේ අත පය බැඳ දමා  තිබූ අතර   එදින රාත්‍රියේ එකට පමණ දෙදෙනෙක් පැමිණ ඇය ගැටගසා නිවසේ තිබූ රන් ආභරණ සහ දුරකථන දෙකක් රැගෙන ගොස් තිබිණි.
+The lack of investigating the robberies that the woman join his son's gang had been investigated in a two-year-old woman who lived at a two-year-old house with a two-year-old woman.
+
+The complainant had been recruited by a Man Power of Colombo in Negombo and that the woman had disappeared from the house of Negombo.
+
+මෙම කාන්තාව පිළිබඳව කරුණු පරික්ෂා කිරීමේදී ආයතනය මෙම කාන්තාව සම්බන්ධව කිසිදු පොලිස් වාර්තාවක්වත් ලබාගෙන නොමැති බව අනාවරණය විය. It has been revealed that the woman in search of information on the woman by the Hanguran police, that the woman is 10 warrants for any mistakes and that there is currently not missing in the area.
 
 ...
 
 [Data](articles/d81971a9.json)
 
+[Extended Data](ext_articles/d81971a9.ext.json)
+
 ---
 
-### කොල්ල කල්ලි ජාලයක නායිකාවක්-ඇගේ පුත්‍රයා ඇතුළු තිදෙනකු අල්ලයි
+### A leader of a robbery and three others arrested
 
 *2025-10-02 13:19:14* · [`lankadeepalk`](https://www.lankadeepa.lk/test/කලල-කලල-ජලයක-නයකවක-ඇග-පතරය-ඇතළ-තදනක-අලලය/222-680636) · `si`
 
-නිවාසවලට සේවිකාවන් සපයන ආයතනයක සේවය කරමින් එම නිවාසවල සේවා කටයුතු ආදියේ නිරත වෙමින්  කොල්ල කණ්ඩායමක් යොදවා නිවාස කොල්ලකෑමේ නිරත සංවිධානාත්මක ජාලයක නායිකාව වන කාන්තාවක ඇගේ පුත්‍රයා ඇතුලු තිදෙනෛකු සමඟ අත්අඩංගුවට ගත් බව බෙම්මුල්ල පොලිසියට කියයි.
+The Bemmulla Police tells the police that a woman named a woman, a woman, who is a woman who is engaged in an organized network of the houses, engaged in working with employees of the houses.
 
-මෙසේ අත්අඩංගුවට ගත් පිරිස හඟුරන් කෙත ප්‍රදේශයේ පදිංචිකරුවන් බව පොලිසිය කියයි.
+The arrested persons are residents of the Hanguran field, police said.
 
-මෙම කාන්තාව සිය පුතුගේ කල්ලිය සමඟ එක්ව කරන මෙම කොල්ලකෑම් හෙළි කර ගැනීමට හැකි වී ඇත්තේ  බෙම්මුල්ල සපුගස්තැන්න ප්‍රදේශයේ නිවසක සිදුවූ කොල්ලයක් සම්බන්ධ පරීක්ෂණ පැවැත්වීමේදීය.වයස අවුරුදු හතක් වූ මුනුබුරා සමඟ   දෙමහල් නිවසේ ජීවත් වෙන වයස අවුරුදු පනස් හතරක් පමණ වන කාන්තාවක නිවසේ අත පය බැඳ දමා  තිබූ අතර   එදින රාත්‍රියේ එකට පමණ දෙදෙනෙක් පැමිණ ඇය ගැටගසා නිවසේ තිබූ රන් ආභරණ සහ දුරකථන දෙකක් රැගෙන ගොස් තිබිණි.
+The lack of investigating the robberies that the woman join his son's gang had been investigated in a two-year-old woman who lived at a two-year-old house with a two-year-old woman.
+
+The complainant had been recruited by a Man Power of Colombo in Negombo and that the woman had disappeared from the house of Negombo.
+
+Extended by the company to check the woman, no police report has not received any police record in this woman.   හඟුරන් කෙත පොලිසිය මගින්  කාන්තාව සම්බන්ධව තොරතුරු සොයා බැලීමේදී  මෙම කාන්තාවට යම් වැරදි වෙනුවෙන් වරෙන්තු 10 පවතින බවත් දැනට ප්‍රදේශයෙන් අතුරුදහන් නැති බවත් අනාවරණය වී ඇත.
 
 ...
 
 [Data](articles/8efa341c.json)
+
+[Extended Data](ext_articles/8efa341c.ext.json)
 
 ---
 

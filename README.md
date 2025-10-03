@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 01:06:08**
+As of **2025-10-04 00:52:14**
 
 ## Newspaper Stats
 
-*Scraped **80,961** Articles*
+*Scraped **80,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 576
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 740
-colombotelegraphcom | 808
+colombotelegraphcom | 807
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,653
 adalk | 7,771
-adaderanalk | 10,420
+adaderanalk | 10,416
 tamilmirrorlk | 12,037
 virakesarilk | 13,275
 adaderanasinhalalk | 13,929
@@ -27,43 +27,11 @@ adaderanasinhalalk | 13,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,956 (100.0%) of 80,961 articles have been extended.
+80,956 (100.0%) of 80,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
-
-### Sri Lanka establishes diplomatic relations with Antigua and Barbuda
-
-*2025-10-03 23:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113197/sri-lanka-establishes-diplomatic-relations-with-antigua-and-barbuda) · `en`
-
-The Government of Sri Lanka and the Government of Antigua and Barbuda have established Diplomatic Relations between the two countries with immediate effect, upon the signing of the agreement on Friday (03).
-
-The relevant agreement was signed by Ambassador of Sri Lanka to the United States of America Mahinda Samarasinghe and Ambassador of Antigua and Barbuda to the United States of America Sir Ronald Sanders in Washington D.C.
-
-The establishment of diplomatic relations between Sri Lanka and Antigua and Barbuda will enhance the existing friendly relations and cooperation in the political, socio-economic and cultural spheres for the mutual benefit of the two countries, the two foreign ministries said in a joint formal announcement.
-
-◼️
-
-[Data](articles/e91e339c.json)
-
----
-
-### USS Fitzgerald makes port call in Colombo
-
-*2025-10-03 22:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113196/uss-fitzgerald-makes-port-call-in-colombo) · `en`
-
-USS Fitzgerald (DDG 62) of the United States Navy arrived at the port of Colombo on replenishment purposes this morning (03).
-
-The Sri Lanka Navy welcomed the visiting ship in compliance with naval traditions.
-
-The 154 m–long Destroyer is commanded by Commander Paul Richardson and following the fulfillment of replenishments, the ship will depart the island, the Sri Lanka Navy said.
-
-◼️
-
-[Data](articles/05ec4757.json)
-
----
 
 ### We are going to intensify the union struggle that works legally - the Ceylon Electricity Board Engineers Association
 
@@ -307,28 +275,6 @@ When the Chunnakam police were investigating the matter, the student said this i
 
 ---
 
-### Trump sets Sunday night deadline for Hamas to back Gaza plan
-
-*2025-10-03 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/113195/trump-sets-sunday-night-deadline-for-hamas-to-back-gaza-plan) · `en`
-
-U.S. President Donald Trump gave Hamas until Sunday evening to reach a last-chance agreement on his plan for Gaza’s future or have “all Hell” break out against the Palestinian militants.
-
-“An agreement must be reached with Hamas by Sunday Evening at SIX (6) P.M., Washington, D.C. time,” Trump wrote Friday on social media.
-
-“Every Country has signed on! If this LAST CHANCE agreement is not reached, all HELL, like no one has ever seen before, will break out against Hamas.”
-
-Asked whether his group had finalised its response to Trump’s Gaza plan, a Hamas official told Reuters late on Thursday: “Not yet, intensive discussion is under way.”
-
-The official said Hamas had held talks with Arab mediators, Turkey and Palestinian factions to shape “the Palestinian response.”
-
-Trump had said on Tuesday he would give Hamas three to four days to accept the 20-point document, which calls on the group to disarm -- a demand it has previously rejected.
-
-...
-
-[Data](articles/4ffd810d.json)
-
----
-
 ### Nepal chosen New Virdu
 
 *2025-10-03 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215310) · `si`
@@ -410,22 +356,6 @@ I would like to express my long -term concern over the continued occupation of t
 [Data](articles/dbfe88ed.json)
 
 [Extended Data](ext_articles/dbfe88ed.ext.json)
-
----
-
-### New laws not intended for personal gain; focus is common good – President
-
-*2025-10-03 20:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113194/new-laws-not-intended-for-personal-gain-focus-is-common-good-president) · `en`
-
-President Anura Kumara Dissanayake today offered a response to the joint letter by the Chief Prelates of the three Buddhist Chapters warning that the proposed Penal Code amendment criminalizing corporal punishment and alleged initiatives promoting LGBTQ-related tourism could undermine cultural values and trigger serious social crises.
-
-Speaking during the ceremony held in Kandy, to mark the presentation of the Scroll of Appointment (Śrī Sannas Pathra) to the Most Venerable Naranpanawe Ananda Nayake Thero, newly appointed Anunayake of the Asgiri Chapter of the Siyam Maha Nikaya, the head of state outlined the government’s position on the matter.
-
-He stated that during discussions on the tourism industry, it was emphasized that Sri Lanka’s 2,500-year-old historical heritage offers significant potential to strengthen this sector. Additionally, Sri Lanka’s natural beauty, its wildlife, and the hospitality of its people are crucial assets in promoting tourism, he said.
-
-...
-
-[Data](articles/4a9d1cd8.json)
 
 ---
 
@@ -678,22 +608,6 @@ Ravi Karunanayake, MP Wickremesinghe and Sunil Rajapaksa and Nishantha Jayaweera
 [Data](articles/adffd110.json)
 
 [Extended Data](ext_articles/adffd110.ext.json)
-
----
-
-### Fools, Knaves & Narratives
-
-*2025-10-03 18:46:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/fools-knaves-narratives/) · `en`
-
-“People don’t want to hear the truth, because they don’t want their illusions destroyed” – Friedrich Nietzsche
-
-Nepal is in flames; murder, arson, rape, looting; the once idyllic Himalayan country is now the picture of every human atrocity. Nature has blessed that land, man had failed it: corruption and incompetence doomed the realm.
-
-A story with an eerily familiar ring to us Sri Lankans, simmering frustrations of a people with nowhere to turn but violence.
-
-...
-
-[Data](articles/e32bbe69.json)
 
 ---
 
@@ -2076,5 +1990,101 @@ The case has been revealed against him and the case has been revealed on July 12
 [Data](articles/9179a657.json)
 
 [Extended Data](ext_articles/9179a657.ext.json)
+
+---
+
+### Tipper vehicle - van collision accident; 5 people injured!
+
+*2025-10-03 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226795) · `ta`
+
+Five people were injured in an accident near the Minneriya police station on the Polonnaruwa - Habarana road, police said.
+
+The accident occurred when a tipper vehicle and van collided with each other, police said.
+
+Five people were injured in the accident during the accident, police said.
+
+◼️
+
+[Data](articles/eacd3902.json)
+
+[Extended Data](ext_articles/eacd3902.ext.json)
+
+---
+
+### President Anura Kumara presents ‘Sannas Pathra’ to new Asgiri Anunayake Thero
+
+*2025-10-03 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/113186/president-anura-kumara-presents-sannas-pathra-to-new-asgiri-anunayake-thero-) · `en`
+
+President Anura Kumara Dissanayake has officially presented the Sannas Pathra (letter of appointment) to the newly appointed Anunayake Thero of the Asgiri Chapter of the Siam Maha Nikaya, Most Venerable Narampanawe Ananda Thero, at the historic ‘Magul Maduwa’ on the premises of the Temple of the Sacred Tooth Relic in Kandy.
+
+President Dissanayake presented the ‘Sannas Pathra’ during the ceremony to officially confer ‘Sri Sannas Patra’ to Most Ven. Narampanawe Ananda Thero.
+
+◼️
+
+[Data](articles/3fd50e4c.json)
+
+[Extended Data](ext_articles/3fd50e4c.ext.json)
+
+---
+
+### 3,264 people arrested with drugs in the last 7 days
+
+*2025-10-03 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226791) · `ta`
+
+According to the police media unit, 3,264 people have been arrested during a special roundup of the country from September 26 to October 02.
+
+Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
+
+During the special surrounding operation, 1045 people were arrested with heroin, 1149 with ice drugs, 35 with hash drug, 910 with cannabis, 32 with cannabis plants, 76 with drugs and 17 illegal cigarettes.
+
+Meanwhile, 01 kg 836 g 082 milligrams of heroin, 02 kg 074 g 786 milligram of ice, 33 kg 38 g 581 milligram hash and 12 kg 314 g 148 mg of cannabis during this special circulation operation, and 98 g (148 gm 148 ml) 7881 drug pills and 2221 illegal cigarettes have been seized, the Police Media Unit said.
+
+◼️
+
+[Data](articles/044edf01.json)
+
+[Extended Data](ext_articles/044edf01.ext.json)
+
+---
+
+### New Process To Investigate Institutions Under Purview Of COPE
+
+*2025-10-03 15:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/new-process-to-investigate-institutions-under-purview-of-cope) · `en`
+
+COLOMBO (News 1st); The introduction of a new process has been planned to investigate state institutions that come under the purview of the Committee on Public Enterprises.COPE Committee Chairman, MP Dr. Nishantha Samaraweera, says future action on these institutions will be taken based on the answers provided to a questionnaire that will be sent to the relevant institutions, in line with recommendations in the audit reports.The number of state institutions investigated by the COPE Committee is 457.Currently, the committee summons these institutions for investigations on a random basis.
+
+◼️
+
+[Data](articles/8c0c196e.json)
+
+[Extended Data](ext_articles/8c0c196e.ext.json)
+
+---
+
+### Mom and son, the home plundered
+
+*2025-10-03 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215295) · `si`
+
+Along with his son, the Bemmulla Police has arrested two persons who were engaged in a racket of the home robbery.
+
+The woman has used a robbery team that leads his son to his son and engaged in racket.
+
+The police will be able to capture these rackets following a robbery conducted by a robbery in the Bmmulla area.
+
+The woman had served at the institution providing employment to the houses in Negombo and has come to the Bemmulla house.
+
+The robbery is then joined in the night car together with the robbery and has been abducted in jewelery over Rs.
+
+The arrested mother-second residents of Hanguranketha area, while the Bummulla Police were arrested for 24 hours.
+
+The jewelery that they had stolen and 3 grams of heroin were taken into custody.
+
+It has been revealed that the robbery had committed about 10 robbers of the country, and the woman's son was a person who was released on bail.
+
+◼️
+
+[Data](articles/770cf7e1.json)
+
+[Extended Data](ext_articles/770cf7e1.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 15:56:04**
+As of **2025-10-03 16:20:34**
 
 ## Newspaper Stats
 
-*Scraped **80,849** Articles*
+*Scraped **80,851** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 570
+newsfirstlk | 572
 dbsjeyarajcom | 637
 lankadeepalk | 721
 bbccomsinhala | 723
@@ -27,11 +27,39 @@ adaderanasinhalalk | 13,908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,776 (99.9%) of 80,849 articles have been extended.
+80,817 (100.0%) of 80,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-03 (Friday)
+
+### All Share Price Index Reaches Record High
+
+*2025-10-03 15:42:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/all-share-price-index-reaches-record-high) · `en`
+
+COLOMBO (News 1st);The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) surpassed the 22,000-point mark for the fisrt time in history today.Accordingly, as of 12:00 PM today, the All Share Price Index stood at 22,057.58 points.This represents a gain of 108.39 units.
+
+◼️
+
+[Data](articles/c0deca43.json)
+
+[Extended Data](ext_articles/c0deca43.ext.json)
+
+---
+
+### ICAO Agrees To Support Local Airports
+
+*2025-10-03 15:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/icao-agrees-to-support-local-airports) · `en`
+
+COLOMBO (News 1st); The International Civil Aviation Organization (ICAO) has agreed to provide support for the development of local airports in the country.This agreement was reached during discussions between the Sri Lankan delegation and the ICAO Secretary-General, held on the sidelines of the organization's 42nd Triennial Assembly.The assembly is currently taking place in Montreal, Canada, with the participation of representatives from 183 countries.Sri Lanka is being represented at the assembly by a delegation that includes Deputy Minister of Ports and Civil Aviation Ruwan Kodithuwakku.The Deputy Minister stated that the International Civil Aviation Organization also agreed to provide solutions to wildlife issues at the Mattala Airport.
+
+◼️
+
+[Data](articles/701d9866.json)
+
+[Extended Data](ext_articles/701d9866.ext.json)
+
+---
 
 ### New Process To Investigate Institutions Under Purview Of COPE
 
@@ -42,6 +70,8 @@ COLOMBO (News 1st); The introduction of a new process has been planned to invest
 ◼️
 
 [Data](articles/8c0c196e.json)
+
+[Extended Data](ext_articles/8c0c196e.ext.json)
 
 ---
 
@@ -2010,51 +2040,5 @@ Unaware of the scam fell on the trap, the grandmother also sold the house where 
 [Data](articles/a3a5f2ef.json)
 
 [Extended Data](ext_articles/a3a5f2ef.ext.json)
-
----
-
-### The existing drug deficiency will be resolved within one or two months - the nervous Jayatissa
-
-*2025-10-03 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226753) · `ta`
-
-Minister of Health and Media Nalinda Jayatissa said that there is a shortage of drugs due to the lack of questioning for drugs last year.
-
-The Minister made this statement while participating in the inauguration of the Cancer Treatment Unit of the Kandy National Hospital.
-
-Question application procedures for drugs last year have not been carried out on a proper basis. Due to this, there is currently a shortage of drugs.
-
-Therefore, there is a shortage of medicines on the state -run roads via it. The government has allocated 3500 lakhs of rupees to buy such pharmaceutical products from the private sector.
-
-If there is a shortage of rice and flour in the country, it can be brought in two to three weeks to demand immediately question petitions.
-
-But not to do so for drugs. The companies will start producing them only after the price of the drug is filed.
-
-...
-
-[Data](articles/e25e012f.json)
-
-[Extended Data](ext_articles/e25e012f.ext.json)
-
----
-
-### Man dies, 5 injured in Kithultuwa accident
-
-*2025-10-03 10:03:51* · [`adalk`](https://www.ada.lk/picture_story/කිතුල්කොටේ-අනතුරකින්-අයෙකු-මරුට--05කට-තුවාල/10-418889) · `si`
-
-One person has been killed and another injured in a tree and injuring five other people in the Tanamalwila road in the Thanamalwila road.
-
-The victims were a van, which was returning from a gardens in Avissawella.
-
-D 04, Canal Athuphara, a 56-year-old resident of Dambindu, has been identified as a resident of Dambum.
-
-Five persons were injured and admitted to Tanamalwila Regional Hospital, who was traveling in the van, was admitted to the Tanamalwila Director of Sasanwaluwa.
-
-Initial police investigations have revealed that the driver had accidentally jumped from the van due to sleep.
-
-◼️
-
-[Data](articles/6d925e15.json)
-
-[Extended Data](ext_articles/6d925e15.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-03 11:57:45**
+As of **2025-10-03 12:12:47**
 
 ## Newspaper Stats
 
-*Scraped **80,584** Articles*
+*Scraped **80,592** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 560
+newsfirstlk | 568
 dbsjeyarajcom | 637
 lankadeepalk | 649
 bbccomsinhala | 719
@@ -27,11 +27,99 @@ adaderanasinhalalk | 13,883
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,584 (100.0%) of 80,584 articles have been extended.
+80,584 (100.0%) of 80,592 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2025-10-03 (Friday)
+
+### Namala vs. Watagala: Legal Battle Brews
+
+*2025-10-03 11:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/namala-vs-watagala-legal-battle-brews) · `en`
+
+...
+
+[Data](articles/68aba234.json)
+
+---
+
+### Sri Lanka Unveils First National Export Strategy in Decades
+
+*2025-10-03 11:06:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/sri-lanka-unveils-first-national-export-strategy-in-decades) · `en`
+
+...
+
+[Data](articles/eff65b6d.json)
+
+---
+
+### Law Enforcement Is Not Political Revenge
+
+*2025-10-03 10:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/law-enforcement-is-not-political-revenge) · `en`
+
+...
+
+[Data](articles/0b6677aa.json)
+
+---
+
+### Alcohol-Linked Deaths Hit 22,000 Annually
+
+*2025-10-03 08:54:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/alcohol-linked-deaths-hit-22-000-annually) · `en`
+
+COLOMBO (News 1st); Sri Lanka marks World Temperance Day today, focusing on the health and social impacts of alcohol consumption. The observance aims to raise public awareness about the dangers of alcohol use and promote healthier lifestyles.A series of nationwide programs have been launched to educate communities on the risks associated with alcohol. According to Dr. Ananda Ratnayake, Chairman of the National Authority on Tobacco and Alcohol, 21% of Sri Lankans consume alcohol, a figure that continues to pose significant public health concerns.He further revealed that around 22,000 alcohol-related deaths are reported annually in the country.In line with the observance, all liquor outlets across the island remain closed today.
+
+◼️
+
+[Data](articles/8daeb322.json)
+
+---
+
+### Probe Links DMT Officials to Fake Registrations
+
+*2025-10-03 08:23:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/probe-links-dmt-officials-to-fake-registrations) · `en`
+
+...
+
+[Data](articles/5756a536.json)
+
+---
+
 ### 2025-10-02 (Thursday)
+
+### Trade Uncertainties Loom, But Sri Lanka’s Reform Drive Powers On : IMF
+
+*2025-10-02 21:39:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/trade-uncertainties-loom-but-sri-lanka%e2%80%99s-reform-drive-powers-on-imf) · `en`
+
+...
+
+[Data](articles/4e6f19d0.json)
+
+---
+
+### MR's Ex-Chief Security Officer Neville Wanniarachchi Remanded Until 17th Over Bribery Probe
+
+*2025-10-02 19:20:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/mr-s-ex-chief-security-officer-neville-wanniarachchi-remanded-until-17th-over-bribery-probe) · `en`
+
+COLOMBO (News 1st); Former President Mahinda Rajapaksa’s chief security officer, Neville Wanniarachchi, has been remanded until the 17th of this month. This is followed his appearance before the Colombo Magistrate’s Court a short while ago.He appeared before the Commission to Investigate Allegations of Bribery or Corruption this morning to provide a statement.Following lengthy questioning, officials of the Bribery Commission took him into custody on charges of failing to cooperate with an investigation into his assets.
+
+◼️
+
+[Data](articles/ff3f4766.json)
+
+---
+
+### Nine SSPs Transferred in Strategic Reshuffle
+
+*2025-10-02 15:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/nine-ssps-transferred-in-strategic-reshuffle) · `en`
+
+COLOMBO (News1st); Nine Senior Superintendents Of Police have been transferred with immediate effect, following the approval of the National Police Commission. In addition to the reshuffle, Superintendent Of Police R.P.P.P.A.R. Perera has been appointed as the Director of the Police Information Technology Division.
+
+◼️
+
+[Data](articles/601d100c.json)
+
+---
 
 ### IMF Reforms Paying Off? Fitch Keeps Sri Lanka at ‘CCC+’ Amid Recovery Signs
 
@@ -1830,149 +1918,5 @@ The Colombo High Court today (02) ordered the release of the Revision Petition f
 [Data](articles/56f26857.json)
 
 [Extended Data](ext_articles/56f26857.ext.json)
-
----
-
-### 156th birthday and memories of Gandhi's visit to Sri Lanka
-
-*2025-10-02 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226653) · `ta`
-
-As we recall Mahatma Gandhi's 156th birthday (October 2), the historical traces he posted on Sri Lankan soil and the non -violent ideas he sowed are still a deepest figure between the two countries.
-
-◼️
-
-[Data](articles/ef7dcc55.json)
-
-[Extended Data](ext_articles/ef7dcc55.ext.json)
-
----
-
-### 156th birthday of Mahatma Gandhi
-
-*2025-10-02 11:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாத்மா-காந்தியின்-156-வது-பிறந்த-நாள்/175-365629) · `ta`
-
-Mahatma Gandhi's 156th Birthday Celebrations were held in Jaffna on Thursday morning.
-
-The event was organized by the Indian Embassy in Jaffna and was honored with the statue of Mahatma Gandhi at the Jaffna Hospital Road.
-
-Indian Ambassador Sai Murali, Northern Province Chief Secretary M. Danuja, Jaffna District Secretary Marudalingam Pradeepan, Jaffna Municipal Deputy Chief Minister E. Thayalan, Jaffna Municipal Commissioner Krishnasandran and Religious Social Representatives, Indian Messenger Officers, All Ceylon Gandhi Seva Sangha Representatives.
-
-During this time, the Gandhian paper was published and its copy was presented to all.
-
-At the same time, a bicycle was carried out by the Indian consulate officials.
-
-◼️
-
-[Data](articles/41d73eb5.json)
-
-[Extended Data](ext_articles/41d73eb5.ext.json)
-
----
-
-### Western Province Tops List of Student Drug Cases: 67% Risk of Repeat Use
-
-*2025-10-02 11:07:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/02/western-province-tops-list-of-student-drug-cases-67-risk-of-repeat-use) · `en`
-
-...
-
-[Data](articles/3e75c6ed.json)
-
-[Extended Data](ext_articles/3e75c6ed.ext.json)
-
----
-
-### The prices of lime priced
-
-*2025-10-02 11:06:29* · [`adalk`](https://www.ada.lk/breaking_news/දෙහි-මිල-ගිය-උඩ/11-418863) · `si`
-
-Customers say that the retail price of a kilogram of the local market has risen to Rs.
-
-The Wholesalers have said that the fether is very low, and the demand of the market is said.
-
-◼️
-
-[Data](articles/608e868f.json)
-
-[Extended Data](ext_articles/608e868f.ext.json)
-
----
-
-### Introduced in Sri Lanka
-
-*2025-10-02 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226655) · `ta`
-
-Asus, the pioneer in the global electronic device, has introduced its new Asus Gaming V16 (V3607) laptop in Sri Lanka.
-
-Designed with the minds of camers, creators, students and professional experts, this new laptop comes with modern technology, thin and lighter design, high -reprisc Rate screen and strong performance features.
-
-The highlight is that the release is being carried out in cooperation with Singer Sri Lanka PLC.  'We always think of gaming and creator wrapped by Asus.
-
-We have incorporated performance, design and AI progress through Asus Gaming V16 (V3607). It was created to be appropriate for the needs of the consumers of Sri Lanka.
-
-This will be a great solution for young camers and creators who love fast, flexible and ready for the future.
-
-We are proud to bring this to the Sri Lankan market in conjunction with Singer. This product will set a new standard on gaming and creativity, ”said Asus South Asia Regional President Eric Oh.
-
-◼️
-
-[Data](articles/75eb658f.json)
-
-[Extended Data](ext_articles/75eb658f.ext.json)
-
----
-
-### Respect for all religions should be socialized by the education system - PM
-
-*2025-10-02 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215250) · `si`
-
-Prime Minister, Education, Higher Education and Vocational Education Minister Dr. Harini Amarasuriya, Minister of Education, Education and Vocational Education should be fulfilled in the education Ministry and the education system.
-
-"The beautiful and song sacrifices and grief, such as sharing, unity, should focus more on sharing, unity, such as shares."
-
-The ceremony was organized by the Ministry of Tamil School Affairs, Nalaka Kabuwewa, and other officials, as well as the staff of the Ministry.
-
-◼️
-
-[Data](articles/0195ff68.json)
-
-[Extended Data](ext_articles/0195ff68.ext.json)
-
----
-
-### 50 people die every day by alcohol in Sri Lankans
-
-*2025-10-02 10:50:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களில்-மதுவால்-தினமும்-50-பேர்-அகால-மரணம்/175-365626) · `ta`
-
-"The government needs a rapid plan to increase the tax on liquor in the upcoming 2026 budget and reduce the percentage of the future generation and reduce the health and economic problems caused by the use of alcohol," the Liquor and Drug Information Center said.
-
-About 3 million people die prematurely due to alcohol use annually. Of the 10 deaths that can occur globally, 08 deaths are caused by infectious diseases. It also noted that alcohol use is the leading cause of the four main causes of infectious diseases.
-
-83 % of deaths in Sri Lanka are caused by infectious diseases, about 50 Sri Lankans die every day due to alcohol use, and about 20,000 Sri Lankans die prematurely every year.. Alcohol use is an important factor for diseases such as cardiovascular disease and cancer.
-
-◼️
-
-[Data](articles/b161f90a.json)
-
-[Extended Data](ext_articles/b161f90a.ext.json)
-
----
-
-### "Our hands in our hands on the killing of the Thajayan
-
-*2025-10-02 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තජදන-ඝතනය-තරතර-රසක-අප-අත/1-680611) · `si`
-
-Minister Bim Ratnayake said there was the latest information about the killing of the Thajauth
-
-He said that these crimes were not crimes or Gnanaratne said that the country who ruled the country was closed
-
-He said this government had 60 months and that only twelve months
-
-මාස 48 ඉවර වෙනකොට සියලු දෙනා නීතිය අනුව ඇතුළේ ඉඳීවි යැයිද බිමල් රත්නායක මහතා ප්‍රකාශ කළේය.
-
-◼️
-
-[Data](articles/a12d6645.json)
-
-[Extended Data](ext_articles/a12d6645.ext.json)
 
 ---

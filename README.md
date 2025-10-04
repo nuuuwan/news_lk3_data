@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 13:05:48**
+As of **2025-10-04 13:20:22**
 
 ## Newspaper Stats
 
-*Scraped **81,043** Articles*
+*Scraped **81,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,39 @@ adalk | 7,774
 adaderanalk | 10,428
 tamilmirrorlk | 12,042
 virakesarilk | 13,294
-adaderanasinhalalk | 13,938
+adaderanasinhalalk | 13,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,042 (100.0%) of 81,043 articles have been extended.
+81,043 (100.0%) of 81,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### ශ්‍රී ලංකාවේ ප්‍රතිසංස්කරණ වැඩසටහන ජයග්‍රාහී මාවතක
+
+*2025-10-04 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215328) · `si`
+
+ආර්ථික අර්බුදයෙන් පසු මෙරට ආර්ථික වර්ධනය මේ වනවිට 5%ක් දක්වා ඉහළ ගොස් ඇතැයි ජාත්‍යන්තර මූල්‍ය අරමුදලේ සන්නිවේදන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජූලි කොසැක් මහත්මිය පැවසීය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඇය මේ බව පැවසුවාය.
+
+එහිදී කොසැක් මහත්මය වැඩිදුරටත් සඳහන් කළේ ශ්‍රී ලංකාවේ පුළුල් ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහන ආකර්ෂණීය ප්‍රගතියක් අත්කරගෙන තිබෙන බවය.
+
+"ශ්‍රී ලංකාවේ පුළුල් ප්‍රතිසංස්කරණ වැඩසටහන සම්බන්ධයෙන් මට කිව හැකි දේනම් එය අඛණ්ඩව ආකර්ෂණීය ප්‍රගතියක් අත්කර ගෙන තිබෙනවා. උද්ධමනය තවමත් අඩු මට්ටමක පවතින අතර, රජයෙන් ආදායම් රැස්කිරීම වැඩිදියුණු වෙමින් පවතිනවා.
+
+ඒ වගේම ජාත්‍යන්තර සංචිත එකතු වෙමින් පවතිනවා. 2024 වසරෙන් පසු ශ්‍රී ලංකාවේ ආර්ථික වර්ධනය 5%ක් දක්වා ඉහළ ගොස් තිබෙනවා. එය කැපී පෙනෙන ජයග්‍රහණයක්.
+
+අයවැයේ ආදායම්-දළ දේශීය නිෂ්පාදිත අනුපාතය 2022 පැවති 8.2% සිට 13.5% දක්වා වැඩිදියුණු වෙලා තිබෙනවා. එය සැලකිය යුතු වැඩිවීමක්. ඒ වගේම ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලිය බොහෝදුරට සම්පූර්ණ වෙලා තිබෙනවා.
+
+...
+
+[Data](articles/735f49d2.json)
+
+---
 
 ### A pronouncement of strong lightning
 
@@ -121,23 +143,25 @@ The lorry was sitting out on the front seat and lived out and the driver was stu
 
 ---
 
-### මැතිසබා  කැන්ටිමේ ’’සලාද’’  නවතී
+### Mathisaba Cantima 'salad' stay
 
 *2025-10-04 11:35:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතසබ-කනටම-සලද-නවත/1-680723) · `si`
 
-පාර්ලිමේන්තුවේ ආහාර වේලට සලාද කොළ එකතු කිරීම තාවකාලිකව  නතර වී ඇතැයි වාර්තා වේ
+The collection of lettuces have been temporarily halted in parliament
 
-පාර්ලිමේන්තු මුළුතැන්ගෙයි අපිරිසුදුතාව හේතුවෙන් සලාද කොළ අනුභව කිරීම නතර කළ බවට කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා කළ ප්‍රකාශයෙන් පසුව සලාද සකස් කිරීම මෙසේ නතර කර ඇත
+Dr. Jagath Wickramaratne has stopped eating lettuce as a result of the death of salad due to the debit treatment due to deaths
 
-මේ සම්බන්ධයෙන් අදහස් දක්වන පාර්ලිමේන්තු සේවකයන් පවසන්නේ එම ප්‍රකාශය කළ දිනෙන් පසු දින සිට සලාද කොළ සැපයීම නතර කෙරුණු බවයි
+Commenting in this regard says Parliament servants say that the supply of lettuce has been suspended from the day
 
-මේ අතර පාර්ලිමේන්තුවේ මුළුතැන්ගේ අඩුපාඩු නිවැරදි කිරීම සඳහා නිර්දේශ ඉදිරිපත් කිරීමට කතානායකවරයා විසින් විශේෂ කමිටුවක් පත් කරනු ලැබ ඇත. මෙම කමිටුවට එම මුළුතැන් ගේ භාර ප්‍රධානීන්ම පත්කිරීම සම්බන්ධයෙන් බොහෝ දෙනා නොසතුට පළ කරති.
+Meanwhile, the Speaker has appointed a special committee to submit the recommendations of the correction of the kitchen flames of Parliament. Most people are displeased with the appointment of the committee's heads of the same kitchen.
 
-කතානායකවරයා  පසුගියදා පොළොන්නරුවේ පැවිදි රැස්වීමකදී ප්‍රකාශයක් කරමින් පැවසුවේ පාර්ලිමේන්තු මුළුතැන්ගේ ඉතාම අපිරිසුදු ස්ථානයක් බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ වාර්තාවෙන් පැහැදිලි වන බවයි.
+The Hon.
 
 ◼️
 
 [Data](articles/5019bbe6.json)
+
+[Extended Data](ext_articles/5019bbe6.ext.json)
 
 ---
 
@@ -2062,35 +2086,5 @@ The President praised the national, religious, social and educational services b
 [Data](articles/6033d820.json)
 
 [Extended Data](ext_articles/6033d820.ext.json)
-
----
-
-### Another fireman in Kehelbaradara Padma meets Uragasmanathan
-
-*2025-10-03 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215308) · `si`
-
-Another firearm was found in Kehelbaram from the Uraugas Junction this morning (03).
-
-The firearm was found while hiding on the Uragasmanhandiya police division.
-
-Accordingly, the police have taken the micro pistol and the Foremost house.
-
-Meanwhile, the mother of Kehelbhadara Padma's mother has filed a film to the Court of Appeal.
-
-The detention order issued against his son is illegal.
-
-Accordingly, she has filed the writ petition for the order by Habayas Corpus and Rit jurisdiction.
-
-An interim relief has been requested to prevent the Inmate Inspector General out of the Criminal Inspection Department until the final decision.
-
-Accordingly, the lawyer who appeared for the Attorney General's Department was assured of the Attorney General's Department that the inmate would not be transferred elsewhere until the case was examined in the case.
-
-The lawyer also said that all the investigations conducted by the Criminal Inspector during the department's premises were held in the court.
-
-...
-
-[Data](articles/43fd4608.json)
-
-[Extended Data](ext_articles/43fd4608.ext.json)
 
 ---

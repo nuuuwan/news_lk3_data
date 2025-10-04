@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 23:56:50**
+As of **2025-10-05 00:21:13**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,169 (100.0%) of 81,172 articles have been extended.
+81,172 (100.0%) of 81,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -881,21 +881,27 @@ COLOMBO (News 1st); The Ministry of Public Administration, Provincial Councils, 
 
 ---
 
-### மன்னார் காற்றாலை விடயம் நீண்டு கொண்டு செல்கிறது - மக்களின் அரசாங்கம் என்ற வகையில் அரசு விட்டுக் கொடுப்பிற்கு வரவேண்டும் ;  என்.எம்.ஆலம்
+### The Mannar windmill stretches - as the government of the people, the government should come to the contribution;  NM Alam
 
 *2025-10-04 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226896) · `ta`
 
-மன்னாரில்  காற்றாலை விடையம் நீண்டு கொண்டு செல்கிற நிலையில் மன்னார் மாவட்டம் போராட்டத்தினால் முடக்கப்பட்ட நிலையில் காணப்படுகின்றது. இப் போராட்ட த்தினால்  அரசு பாரிய இடர்களை சந்திக்கின்ற நிலையில் மன்னார் மக்கள் தமது போராட்டம் நியாயமானது, அதற்கான தீர்வு கிடைக்க வேண்டும் என்ற கோரிக்கையில் போராடி வருகின்றனர். எனவே மக்களின் அரசாங்கம் என்ற வகையில் அரசு விட்டுக் கொடுப்பிற்கு வரவேண்டும் என  மன்னார் மாவட்ட மீனவ கூட்டுறவு சங்கத்தின் செயலாளர் என்.எம்.ஆலம் தெரிவித்துள்ளார்.
+The Mannar district is disabled due to the protests in Mannar. As the government is facing massive risks due to this struggle, the Mannar people are fighting for their struggle and the solution to the solution. The Secretary of the Mannar District Fisheries Co -operative Society NM Alam said that the government should come to the government as a government government.
 
-மன்னாரில் உள்ள அலுவலகத்தில் சனிக்கிழமை (4) மதியம் இடம்பெற்ற ஊடக சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+He was speaking at a media briefing held at the office in Mannar on Saturday (4) afternoon.
 
-மன்னார் மாவட்ட மக்கள் எதிர்நோக்கும் பிரச்சினைகளில் தற்போது காற்றாலை மின் உற்பத்தி செயல் திட்டத்திற்கான காற்றாலை கோபுரங்கள் அமைக்கின்றமை முதன்மை பெறுகிறது.
+The problems faced by the people of Mannar district are now the mainstay of the construction of wind power towers for the wind power generation project.
 
-குறித்த விடயம் மன்னார் மாவட்டம் மட்டும் இன்றி உள்நாட்டிலும், சர்வதேச ரீதியாகவும் ஒரு பேசும் பொருளாக காணப்படுகின்றது.
+The issue is a speech object at home and internationally, not just the Mannar district.
+
+The windmill project has been clearly illustrated by the people who have been democratically voicing the people in the Mannar Island area.
+
+Protests were carried out by the people in front of the Presidential Secretariat in Mannar District and Colombo against the windmill.
 
 ...
 
 [Data](articles/9784c088.json)
+
+[Extended Data](ext_articles/9784c088.ext.json)
 
 ---
 
@@ -1639,21 +1645,25 @@ Residents of the area hospitalized after the accident and the injured couple wer
 
 ---
 
-### ஆசிரியர்கள் மீதான தாக்குதல்களுக்கு அரசாங்கம் நடவடிக்கை எடுக்கவில்லை - இலங்கை ஆசிரியர் சங்கம் குற்றச்சாட்டு
+### The government does not take action for attacks on teachers - Sri Lanka Teachers Union
 
 *2025-10-04 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226879) · `ta`
 
-அம்பாறை மாவட்டத்தின் கல்முனை பிரதேசத்திற்குட்பட்ட திருக்கோயில் கல்வி வலயத்திற்குட்பட்ட பாடசாலைகளில் கடமையாற்றும் அதிபர் ஆசிரியர்கள் அண்மைக்காலமாக வெளிநபர்களினால் தாக்குதலுக்கு உள்ளாகும் சம்பவங்கள் அதிகரித்து வருகின்றதாக இலங்கை ஆசிரியர் சங்கத்தின் உப தலைவர் தீபன் திலீசன் தெரிவித்துள்ளார்.
+Vice President of the Sri Lanka Teachers Association, Deepan Dileysen, said that the recent attacks by foreign teachers in the schools under the Kalmunai area of ​​Kalmunai in the Ampara District are on the rise.
 
-அவர் வெளியிட்ட ஊடக அறிக்கையிலேயே இந்த விடயத்தை தெரிவித்துள்ளார். இது குறித்து அவர் மேலும் தெரிவிக்கையில்,
+He made this statement in a media statement. He further stated that
 
-இவ்வாறான சம்பவங்களைக் கட்டுப்படுத்துவதற்கு சிறிலங்கா காவல்துறையினரோ, அரசாங்கமோ ஆக்கபூர்வமான தொடர் நடவடிக்கைகளை மேற்கொள்ளாமல் இருப்பதன் பின்னணி பாரிய சந்தேகங்களை ஏற்படுத்துகின்றன.
+The background of the Sri Lankan police or the government has not taken any constructive measures to curb such incidents.
 
-2025.05.23 ம் திகதியன்று திருக்கோவில் கல்வி வலயத்துக்குட்பட்ட ஆலயடிவேம்பு திருநாவுக்கரசு வித்தியாலயத்தின் அதிபர் மற்றும் ஆசிரியரும் வாள் வெட்டுக்கு உள்ளாகியுள்ளனர்.
+The Chancellor and Teacher of the Alayadivembu Thirunavukkarasu Vidyalaya, which belongs to the Educational Zone in Tirukovil on 23.05.2012, has been subjected to a sword cut.
+
+When the teacher responsible for the compulsory budget set up to control the student's interruption, the teacher was searched for the student's home, on the instructions of the school principal, to ensure the arrival of a student who did not have a continuous workshop by the Educational Zone in Tirukovil.
 
 ...
 
 [Data](articles/92bea6a1.json)
+
+[Extended Data](ext_articles/92bea6a1.ext.json)
 
 ---
 

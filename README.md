@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 03:37:10**
+As of **2025-10-05 04:06:23**
 
 ## Newspaper Stats
 
-*Scraped **81,174** Articles*
+*Scraped **81,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 594
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 781
-colombotelegraphcom | 808
+colombotelegraphcom | 809
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,959
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,174 (100.0%) of 81,174 articles have been extended.
+81,175 (100.0%) of 81,175 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,6 +234,22 @@ Following this, CID investigations have verified that the individual seen in the
 [Data](articles/a62c649a.json)
 
 [Extended Data](ext_articles/a62c649a.ext.json)
+
+---
+
+### Reclaiming The Nation We Deserve, From The Shackles Of A Hollow Democracy: A Response
+
+*2025-10-04 20:55:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reclaiming-the-nation-we-deserve-from-the-shackles-of-a-hollow-democracy-a-response/) · `en`
+
+I refer to the above headed article by Mr. Anura K.T. De Silva (AKTDS) in the Colombo Telegraph of 17th September 2025, and wish to add more with my views as follows:
+
+1. The transition from British Colonial rule to Sri Lanka’s Independence came in stages. The Donoughmore Constitution of 1931 paved the way for the grant of Universal Adult Francise and for elections to the State Council. This gave rise to Political Parties amongst which Ceylon National Congress, the precursor of the United National Party, was in the vanguard for the struggle for Independence from colonial rule. There were other left wing Political Parties as Sama Samaja Party, and the Communist Party, Tamil Congress.
+
+...
+
+[Data](articles/36a31cbb.json)
+
+[Extended Data](ext_articles/36a31cbb.ext.json)
 
 ---
 
@@ -1986,25 +2002,5 @@ COLOMBO (News 1st); Acting Police Spokesperson, Assistant Super of Police Minura
 [Data](articles/1293e214.json)
 
 [Extended Data](ext_articles/1293e214.ext.json)
-
----
-
-### Chandrika left the bungalow
-
-*2025-10-04 13:44:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/චනදරකත-බගලවන-ඉවතවය/1-680726) · `si`
-
-Former President Chandrika Bandaranaike Kumaratunga and other two three three weeks will be removed from the bank of Colombo and reside in a rented house in the city
-
-The former President's secretary told Lankadeepa that Mrs. Chandrika Bandaranaike Kumaratunga was in illustrations.
-
-Former Presidential Facilities Removal Bill was passed in Parliament recently. Thus, all the facilities were lost other than the pension of former presidents.
-
-The pension of former President Ranasinghe Premadasa and all other facilities have lost all other facilities after the passage of other facilities.
-
-◼️
-
-[Data](articles/6df01cf1.json)
-
-[Extended Data](ext_articles/6df01cf1.ext.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 20:54:59**
+As of **2025-10-04 21:05:42**
 
 ## Newspaper Stats
 
-*Scraped **81,140** Articles*
+*Scraped **81,145** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 594
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 769
+lankadeepalk | 774
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,11 +27,53 @@ adaderanasinhalalk | 13,955
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,140 (100.0%) of 81,140 articles have been extended.
+81,140 (100.0%) of 81,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### විෂ සතෙකු සපා කෑමෙන් සිව් හැවිරිදි දරුවා මරුට
+
+*2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/101-680740) · `si`
+
+රාත්‍රී කාළයේදී  පා ගමනින් යමින් සිටි සිව් හැවිරිදි පෙර පාසල් දරුවෙකු විෂ සහිත සත්වයෙකු හෝ කෘමියෙකුගේ සපා කෑමට ලක්ව රෝහල් ගත කිරීමෙන් පසු මියගොස් ඇතැයි මීගොඩ පොලිසිය පවසයි
+
+මිය ගිය දරුවා හෝමගම ලෙනගල ප්‍රදේශයේ තිබූ සැණකෙළියක් නැරඹීම සදහා තම සීයා සහ ආච්චි සමගින් පා ගමනින් යන අතරතුර කඩියෙකු තම කකුල සපා කෑ බවට පවසමින් හඩා ඇති බවත් පසුව සැණකෙළිය නරඹන අතරතුර උදරාබාධයක් ඇති වීමෙන් පසු දරුවා නිවසට රැගෙන ගොස් ඇත.
+
+අනතුරුට නිවසේ දී දරුවාට වමනය ගොස් දැඩි ලෙස රෝගාතුර වීම නිසාවෙන් හෝමගම මූලික රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇතැයි ද පොලිසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ දැඩිගමුව ලෙනගල සුහද මාවත පදිංචිව සිටි හපුතන්ත්‍රීගේ උවිදු නිම්සර නමැති සිව් හැවිරිදි පෙර පාසල් සිසුවෙකි.
+
+එම මරණය පිලිබදව හදිසි මරණ පරීක්ෂණය හෝමගම හදිසි මරණ පරීක්ෂක සාමවිනිසුරු චින්තක උදය කුමාර මහතා විසින් සිදු කිරීමෙන් පසු ශරීර කොටස් රස පරීක්ෂක වෙත යැවීමට නියෝග කර විවෘත තීන්දුවක් ලබා දීමට කටයුතු කර ඇත.
+
+මීගොඩ පොලිසියේ පොලිස් කොස්තාපල් රන්දික ලක්මාල් මහතා පරීක්ෂණ කටයුතු මොහයවීය.
+
+◼️
+
+[Data](articles/1116ebbb.json)
+
+---
+
+### බදුල්ලේ පැත්තකට අයිස් වැසි
+
+*2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බදලල-පතතකට-අයස-වස/101-680739) · `si`
+
+දිවුලපැලැස්ස තෙල්දෙණියාය ප්‍රදේශයට ඇද ඇළුණු අයිස් වැස්සක් සමග හමාගිය දැඩි සුළගින් නිවාස තිහකට පමන අලාභහානි වී ඇතැයි බදුලල ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි .
+
+ගස් කොලන් කඩා වැටී මාර්ග අවහිර වී විදුලි රැහැන් ද කඩා වැටීමෙන් ප්‍රදේශයේ විදුලි සැපයුම ද ඇණහිට තිබෙන බවත් දිවුලපැලැස්ස පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක එම් .ඩී.දේශප්‍රිය මහතා පැවසීය .
+
+මාස කීපයක් තිස්සේ පැවති දැඩි නියගය නිමා කරමින් අද පස්වරුවේ පැය දෙකකට ආසන්න කාලයක් පුරා මෙසේ අයිස් වැස්සක් පතිත වෙමින් දැඩි සුළගක් දිවුලපැලැස්ස තෙල්දෙණියාය ප්‍රදේශය හරහා හමාගිය බවත් ,
+
+මේනිසාවෙන් ප්‍රදේශයේ නිවාස රැසක වහල සෙවිලි කර තිබු සෙවිලි තහඩ, උලු ගැලවී වහලවල් සුලගේ ගසා ගෙන ගොස් ගස්කොළන් කඩා වැටී නිවාස රැසකට අලාභහානි වූ බවද හෙතෙම සදහන් කලේය .
+
+මීට අමතරව සුලං සමග ගස්කොළන් කඩා වැටීමෙන් දිවුලපැලැස්ස තෙල්දෙණියාය මාර්ගයේ රථවාහන ධාවනය ට බාධා සිදුව ඇති අතර , වලස්ගල ප්‍රදේශයේ දී වෝල්ට් 33000 අධි බලැති විදුලි රැහැන් පද්ධතියක් මතට ගස් කඩා වැටී ප්‍රදේශයේ විදුලි බලයද ඇන හිට ඇතයි පොලිස් පරීක්ෂක එම්.ඩී.දේශප්‍රිය මහතා වැඩ්දුරටත් සදහන් කර සිටියේය .
+
+◼️
+
+[Data](articles/1b918964.json)
+
+---
 
 ### It is confirmed that the car was previously the car of the Thajadeen's car - CID says CID
 
@@ -109,6 +151,22 @@ Meanwhile, the Disaster Management Center (DMC) stated that two cows were killed
 
 ---
 
+### දිස්ත්‍රික්ක පහකට නාය අනතුරු
+
+*2025-10-04 19:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දසතරකක-පහකට-නය-අනතර/101-680738) · `si`
+
+පවතින අධික වර්ෂාවත් සමඟ ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනය මගින් අද (4) පස්වරු 6.00 සිට හෙට (5) පස්වරු 6.00 දක්වා දිස්ත්‍රික්ක පහක ප්‍රාදේශීය ලේකම් කොට්ඨාස 10කට නායයාමේ පුර්ව අනතුරු හැගවීමේ පනිවිඩ නිකුත් කර ඇත .
+
+බදුල්ල දිස්ත්‍රික්කයේ බදුල්ල, ඇල්ල ,හාලිඇල , පස්සර, මොණරාගල දිස්ත්‍රික්කයේ බිබිළ , බඩල්කුබුර , නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ , කුරුණෑගල දිස්ත්‍රික්කයේ නාරම්මල , සහ මාතලේ දිස්ත්‍රික්කයේ උකුවෙල, රත්තොට යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන් සදහා මෙසේ නායයාමේ පුණ අනතුරු පනිවිඩ අද 4 පස්වරුවේ නිකුත් කරනු ලැබූහ.
+
+මේ අතර අද (4) පස්වරුවේ පතිත වූ ධාරානිපාත වර්ෂාවත් සමග අකුණු සැර වැදීමෙන්  හාලිඇල උඩුගම ප්‍රදේශයේ ගවයින් දෙදෙනකු මිය ගිය බවත් ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+◼️
+
+[Data](articles/741e3c87.json)
+
+---
+
 ### Issuing landslide warnings
 
 *2025-10-04 19:07:41* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-ඇඟවීම්-නිකුත්-කරයි/11-418910) · `si`
@@ -180,6 +238,26 @@ Family Relatives say that he had no other non-communicable diseases and the deat
 [Data](articles/01692a79.json)
 
 [Extended Data](ext_articles/01692a79.ext.json)
+
+---
+
+### පෙරහරේ කාවඩි නටමින් සිටි තරුණයා ඇද වැටී මරුට
+
+*2025-10-04 18:58:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පරහර-කවඩ-නටමන-සට-තරණය-ඇද-වට-මරට/101-680737) · `si`
+
+අම්බලන්ගොඩ විහාරස්ථානයක් සංවිධානය කර තිබූ පෙරහරක කාවාඩි නටමින් සිටි 20 හැවිරිදි තරුණයකු හදිසියේම අසනීපවී මරුමුවට පත්වී ඇති බව අම්බලන්ගොඩ පොලීසිය කියයි.
+
+මරුමුවට පත්වී ඇත්තේ ඇත්කඳුර තණබද්දෙගම පදිංචි පී.එම්.මහීෂ පභාෂණ නමැති 20 හැවිරිදි තරුණයෙකි.
+
+අම්බලන්ගොඩ මාදම්පේ නගරය හරහා වීථි සංචාරය කරමින් සිටියදී කාවාඩි සංදර්ශණයේ යෙදී සිටි මේ තරුණයා නැටීමට නොහැකිව රෝගාතුර වීමෙන් පසු බලපිටිය රෝහලට රැගෙන ගෙනගිය බවද පොලීසිය කියයි.
+
+පෙරහරේ  කාවාඩි නටමින් සිටියදී රෝගාතුරවූ මේ තරුණයා රෝහලට ඇතුලත් කරනවිටත් මිය ගොස් ඇති බවද පොලීසිය කියයි.
+
+ඔහුට වෙනත් කිසිදු බෝනොවන රෝගයක් නොතිබූ බවත් මෙසේ මේ තරුණයා මිය යාම අදහා ගැනීමටවත් බැරි කියාවක් බව පවුලේ ඥාතීහු කියති.
+
+◼️
+
+[Data](articles/aee9c48e.json)
 
 ---
 
@@ -1928,73 +2006,5 @@ The Hon.
 [Data](articles/5019bbe6.json)
 
 [Extended Data](ext_articles/5019bbe6.ext.json)
-
----
-
-### Mathisaba Cantima 'salad' stay
-
-*2025-10-04 11:35:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මතසබ-කනටම-සලද-නවත/101-680723) · `si`
-
-The collection of lettuces have been temporarily halted in parliament
-
-Dr. Jagath Wickramaratne has stopped eating lettuce as a result of the death of salad due to the debit treatment due to deaths
-
-Commenting in this regard says Parliament servants say that the supply of lettuce has been suspended from the day
-
-Meanwhile, the Speaker has appointed a special committee to submit the recommendations of the correction of the kitchen flames of Parliament. Most people are displeased with the appointment of the committee's heads of the same kitchen.
-
-The Hon.
-
-◼️
-
-[Data](articles/e5513988.json)
-
-[Extended Data](ext_articles/e5513988.ext.json)
-
----
-
-### Two children who set fire to the straw
-
-*2025-10-04 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226862) · `ta`
-
-Hingurakoda police said that a two -year -old father of the Varahahena area of ​​the Polonnaruwa - Hingurakoda area had died in a fire in his field.
-
-He went to his field yesterday to set fire to hay. When he set fire to the hay, police investigated the fire in the area and the fire was killed on the spot.
-
-◼️
-
-[Data](articles/c5403041.json)
-
-[Extended Data](ext_articles/c5403041.ext.json)
-
----
-
-### Maithri demands
-
-*2025-10-04 11:33:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතර-කල-ඉලලය/1-680722) · `si`
-
-Former President Maithripala Sirisena has requested the resignation from the house in Keppetipola Mawatha, Colombo.
-
-◼️
-
-[Data](articles/fc283b0a.json)
-
-[Extended Data](ext_articles/fc283b0a.ext.json)
-
----
-
-### Man arrested for shooting in Dehiwala
-
-*2025-10-04 11:33:38* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවල-වෙඩි-තැබීමේ-සිද්ධියට-පුද්ගලයෙකු-අත්අඩංගුවට/11-418905) · `si`
-
-The police said that a person was arrested on suspicion of attempting to kill a shot in Dehiwala and Railway Station.
-
-The shooting at the Dehiwala Railway Station was severely injured on July 18.
-
-◼️
-
-[Data](articles/0b78851e.json)
-
-[Extended Data](ext_articles/0b78851e.ext.json)
 
 ---

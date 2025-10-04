@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 13:05:48**
+As of **2025-10-04 13:38:56**
 
 ## Newspaper Stats
 
-*Scraped **81,043** Articles*
+*Scraped **81,045** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 579
+newsfirstlk | 580
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 756
@@ -21,17 +21,55 @@ adalk | 7,774
 adaderanalk | 10,428
 tamilmirrorlk | 12,042
 virakesarilk | 13,294
-adaderanasinhalalk | 13,938
+adaderanasinhalalk | 13,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,042 (100.0%) of 81,043 articles have been extended.
+81,044 (100.0%) of 81,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### Draft Amendments on Corporal Punishment of Children Not Yet Law – Says Minister of Justice
+
+*2025-10-04 13:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/draft-amendments-on-corporal-punishment-of-children-not-yet-law-says-minister-of-justice) · `en`
+
+COLOMBO (News 1st); Minister of Justice and National Cohesion, Attorney Harshana Nanayakkara, said that the draft amendments to the Penal Code regarding corporal punishment of children have not been enacted into law.The Minister added that any amendments can be added at the Committee Stage. The Minister added that for the amendments to be implemented, corresponding changes should also be made to the Code of Criminal Procedure, which is why the bill was not formally passed.
+
+◼️
+
+[Data](articles/021edd81.json)
+
+---
+
+### Reconstruction program in Sri Lanka
+
+*2025-10-04 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215328) · `si`
+
+The International Monetary Fund Department's Director of Communication Department said that the economic growth of the country has increased to 5% after the economic crisis.
+
+She said this at a press conference held at the IMF.
+
+Mr. Kosak added that the broad economic reform program in Sri Lanka has made attractive progress.
+
+"What I can tell about the broad reform program in Sri Lanka has made continuous impressive progress. Inflation is still low and the raising of the government is improving.
+
+Also, international reserves are being collected. Sri Lanka has increased to 5% after the year 2024. It is a prominent achievement.
+
+Budget Income - GDP ratio has improved from 8.2% to 13.5% of the year. It's a significant increase. The process of restructuring the loan has been very large.
+
+Overall, the program performance is strong. The government is committed to the objectives of the comprehensive funding program.
+
+...
+
+[Data](articles/735f49d2.json)
+
+[Extended Data](ext_articles/735f49d2.ext.json)
+
+---
 
 ### A pronouncement of strong lightning
 
@@ -121,23 +159,25 @@ The lorry was sitting out on the front seat and lived out and the driver was stu
 
 ---
 
-### මැතිසබා  කැන්ටිමේ ’’සලාද’’  නවතී
+### Mathisaba Cantima 'salad' stay
 
 *2025-10-04 11:35:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතසබ-කනටම-සලද-නවත/1-680723) · `si`
 
-පාර්ලිමේන්තුවේ ආහාර වේලට සලාද කොළ එකතු කිරීම තාවකාලිකව  නතර වී ඇතැයි වාර්තා වේ
+The collection of lettuces have been temporarily halted in parliament
 
-පාර්ලිමේන්තු මුළුතැන්ගෙයි අපිරිසුදුතාව හේතුවෙන් සලාද කොළ අනුභව කිරීම නතර කළ බවට කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා කළ ප්‍රකාශයෙන් පසුව සලාද සකස් කිරීම මෙසේ නතර කර ඇත
+Dr. Jagath Wickramaratne has stopped eating lettuce as a result of the death of salad due to the debit treatment due to deaths
 
-මේ සම්බන්ධයෙන් අදහස් දක්වන පාර්ලිමේන්තු සේවකයන් පවසන්නේ එම ප්‍රකාශය කළ දිනෙන් පසු දින සිට සලාද කොළ සැපයීම නතර කෙරුණු බවයි
+Commenting in this regard says Parliament servants say that the supply of lettuce has been suspended from the day
 
-මේ අතර පාර්ලිමේන්තුවේ මුළුතැන්ගේ අඩුපාඩු නිවැරදි කිරීම සඳහා නිර්දේශ ඉදිරිපත් කිරීමට කතානායකවරයා විසින් විශේෂ කමිටුවක් පත් කරනු ලැබ ඇත. මෙම කමිටුවට එම මුළුතැන් ගේ භාර ප්‍රධානීන්ම පත්කිරීම සම්බන්ධයෙන් බොහෝ දෙනා නොසතුට පළ කරති.
+Meanwhile, the Speaker has appointed a special committee to submit the recommendations of the correction of the kitchen flames of Parliament. Most people are displeased with the appointment of the committee's heads of the same kitchen.
 
-කතානායකවරයා  පසුගියදා පොළොන්නරුවේ පැවිදි රැස්වීමකදී ප්‍රකාශයක් කරමින් පැවසුවේ පාර්ලිමේන්තු මුළුතැන්ගේ ඉතාම අපිරිසුදු ස්ථානයක් බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ වාර්තාවෙන් පැහැදිලි වන බවයි.
+The Hon.
 
 ◼️
 
 [Data](articles/5019bbe6.json)
+
+[Extended Data](ext_articles/5019bbe6.ext.json)
 
 ---
 
@@ -2042,55 +2082,5 @@ Minister Bimal Ratnayake, who was launched on the plane, was in a friendly conve
 [Data](articles/9b887b69.json)
 
 [Extended Data](ext_articles/9b887b69.ext.json)
-
----
-
-### President Anurakumara Dissanayake pledged to defeat the underworld
-
-*2025-10-03 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226832) · `ta`
-
-President Anuragumara Dissanayake stressed that the government has taken the responsibility of rebuilding the economy of the country and rejuvenating the society that has collapsed in all respects and that the government will never change the action taken by the government to end the underworld by drug trafficking and gun violence.
-
-Pointing out that the Maha Sangha has an important role in bringing that social revival, the President said that in the past, whenever the government was challenged, it was the Maha Sangam.
-
-The President said this while addressing the Sri Sannaz bond in the historic Magul Maduwa in Kandy on Friday afternoon (03).
-
-The President praised the national, religious, social and educational services by Ananda Nayaka Thera, a devotee, decent and most talented, highly -talented, highly -talented, and pointed out that this age is a need for thousands of spiritual leaders such as Ananda Anunayaka Thera.
-
-...
-
-[Data](articles/6033d820.json)
-
-[Extended Data](ext_articles/6033d820.ext.json)
-
----
-
-### Another fireman in Kehelbaradara Padma meets Uragasmanathan
-
-*2025-10-03 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215308) · `si`
-
-Another firearm was found in Kehelbaram from the Uraugas Junction this morning (03).
-
-The firearm was found while hiding on the Uragasmanhandiya police division.
-
-Accordingly, the police have taken the micro pistol and the Foremost house.
-
-Meanwhile, the mother of Kehelbhadara Padma's mother has filed a film to the Court of Appeal.
-
-The detention order issued against his son is illegal.
-
-Accordingly, she has filed the writ petition for the order by Habayas Corpus and Rit jurisdiction.
-
-An interim relief has been requested to prevent the Inmate Inspector General out of the Criminal Inspection Department until the final decision.
-
-Accordingly, the lawyer who appeared for the Attorney General's Department was assured of the Attorney General's Department that the inmate would not be transferred elsewhere until the case was examined in the case.
-
-The lawyer also said that all the investigations conducted by the Criminal Inspector during the department's premises were held in the court.
-
-...
-
-[Data](articles/43fd4608.json)
-
-[Extended Data](ext_articles/43fd4608.ext.json)
 
 ---

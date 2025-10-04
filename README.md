@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 19:06:23**
+As of **2025-10-04 19:20:22**
 
 ## Newspaper Stats
 
-*Scraped **81,125** Articles*
+*Scraped **81,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,35 @@ adalk | 7,776
 adaderanalk | 10,436
 tamilmirrorlk | 12,046
 virakesarilk | 13,326
-adaderanasinhalalk | 13,952
+adaderanasinhalalk | 13,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,121 (100.0%) of 81,125 articles have been extended.
+81,121 (100.0%) of 81,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### සම්පත් මනම්පේරිගේ මස්සිනා අත්අඩංගුවට
+
+*2025-10-04 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215343) · `si`
+
+අත්අඩංගුවට ගෙන ර﻿ඳවා ප්‍රශ්න කරනු ලබන සම්පත් මනම්පේරිගේ මස්සිනා අද (04) අත්අඩංගුවට ගෙන තිබේ.
+
+බස්නාහිර උතුර අපරාධ කොට්ඨාසය විසින් සැකකරු අද පස්වරුවේ බියගම ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබුණි.
+
+ඔහු විසින් බැකෝ සමන්ගේ සියලු මූල්‍ය කටයුතු පාලනය කර ඇති අතර ඔහු  සතුව තිබී අලෙවි කිරීමට සූදානම් කර තිබූ හෙරොයින් ග්‍රෑම් 555ක්, පිස්තෝලයක් සහ මැගසිනයක් සොයාගෙන තිබේ
+
+සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන බස්නාහිර උතුර අපරාධ කොට්ඨාසයේ අධ්‍යක්ෂ සහකාර පොලිස් අධිකාරී රොහාන් ඕලුගල මහතාගේ උපදෙස් මහත එහි ස්ථානාධිපති ලින්ටන් සිල්වා මහතා විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/7e0eccea.json)
+
+---
 
 ### Wimal Weerawansa To Appear Before The Tangalle Police
 
@@ -1984,33 +2002,5 @@ Many officials involved in these corruption and irregularities have not yet impl
 [Data](articles/86fd8715.json)
 
 [Extended Data](ext_articles/86fd8715.ext.json)
-
----
-
-### 500 crores in SLTB destroyed
-
-*2025-10-04 10:19:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හර-මගඩ-ලගමය-කට-500ක-වනසල/101-680721) · `si`
-
-The National Audit Office has issued a financial loss of Rs.
-
-According to the report, the purchase of goods had to pay Rs.
-
-The National Purchasiser has been summoned to buy the required requirements for the purchase of Rs. The Audit office says.
-
-Meanwhile, the cylinder boxes supplied to the Sri Lanka Transport Board a financial loss for nearly 100 million cylinder boxes in one hundred cylinders
-
-Meanwhile, it is said that the audit report to run from the Ruhuna Regional Office, the panel lost to over Rs.
-
-The audit report points out that 2023 to buy grease and lubricant to the board.
-
-This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
-
-Many officials involved in these corruption and irregularities have not yet implemented the law.
-
-◼️
-
-[Data](articles/50aac0aa.json)
-
-[Extended Data](ext_articles/50aac0aa.ext.json)
 
 ---

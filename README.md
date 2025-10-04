@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 11:39:53**
+As of **2025-10-04 11:20:06**
 
 ## Newspaper Stats
 
-*Scraped **81,017** Articles*
+*Scraped **81,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,772
-adaderanalk | 10,425
+adaderanalk | 10,422
 tamilmirrorlk | 12,042
 virakesarilk | 13,285
 adaderanasinhalalk | 13,935
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,010 (100.0%) of 81,017 articles have been extended.
+81,010 (100.0%) of 81,014 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -273,28 +273,6 @@ No one can distort data. They need to provide the maximum security. There should
 
 ---
 
-### Pavement trading prohibited in Hatton during Diwali festival
-
-*2025-10-04 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113203/pavement-trading-prohibited-in-hatton-during-diwali-festival) · `en`
-
-The Hatton-Dickoya Urban Council has generated an income of over Rs. 3.6 million by tendering 146 plots of land temporarily allocated for business activities during the upcoming Diwali (Deepavali) festival season.
-
-Hatton-Dickoya Urban Council Chairman Asoka Karunaratne made this announcement yesterday (03).
-
-During the Diwali festival period, pavement trading is prohibited in Hatton town. Instead, areas near Hatton Star Square and Shakthi Hall have been designated for business operations.
-
-A report was obtained from the Government Valuation Department, following which tenders were called for the allocation of the plots.
-
-The tenders were opened yesterday by the Secretary of the Urban Council, Shyamali Rupasinghe, under the supervision of the members of the Finance Committee.
-
-In addition to the tender amount, a garbage tax and business tax have also been collected from those who acquired plots to conduct temporary trade.
-
-...
-
-[Data](articles/2561dbc8.json)
-
----
-
 ### Sri Lanka’s Foreign Debt at USD 37 Billion
 
 *2025-10-04 08:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sri-lanka%e2%80%99s-foreign-debt-at-usd-37-billion) · `en`
@@ -350,46 +328,6 @@ The protesters accused the bank of going to privatization through the amendments
 [Data](articles/008437de.json)
 
 [Extended Data](ext_articles/008437de.ext.json)
-
----
-
-### Tunisian sentenced to death for Facebook posts criticising president
-
-*2025-10-04 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/113202/tunisian-sentenced-to-death-for-facebook-posts-criticising-president) · `en`
-
-A Tunisian man has been sentenced to death on charges of insulting the president and assaulting state security through posts on social media, the head of the Tunisian League for Human Rights and his lawyer said on Friday.
-
-The ruling is unprecedented in Tunisia, where restrictions on free speech have been tightened since President Kais Saied seized almost all powers in 2021.
-
-The man sentenced, 56-year-old day labourer Saber Chouchane, is a regular citizen with limited education who was simply writing posts critical of the president before his arrest last year, his lawyer, Oussama Bouthalja, told Reuters.
-
-“The judge in the Nabeul court sentenced the man to death over Facebook posts. It is a shocking and unprecedented ruling,” Bouthalja said.
-
-The judgement has been appealed, he added. The justice ministry was not immediately available to comment.
-
-Though courts have occasionally handed down death sentences in Tunisia, none have been carried out for more than three decades.
-
-...
-
-[Data](articles/933c7f6d.json)
-
----
-
-### World Bank stresses urgent energy sector reforms in Sri Lanka
-
-*2025-10-04 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113201/world-bank-stresses-urgent-energy-sector-reforms-in-sri-lanka) · `en`
-
-The World Bank has emphasized the urgent need for energy sector reforms in Sri Lanka, warning that the country continues to bear significantly higher energy costs than others in the region.
-
-This was highlighted during consultation meetings held between a World Bank delegation led by Country Manager Gevorg Sargsyan and key parliamentary finance oversight committees.
-
-The delegation first met with Dr. Harsha de Silva, Chair of the Committee on Public Finance (CoPF), and its members, followed by a combined consultation session with Dr. Nishantha Samaraweera, Chair of the Committee on Public Enterprises (COPE); Kabir Hashim, Chair of the Committee on Public Accounts (COPA); and Wijesiri Basnayake, Chair of the Committee on Ways and Means, along with members of their respective committees.
-
-Committee Chairs expressed their appreciation to the World Bank for its continued support to Sri Lanka’s development over the years, the Department of Communication of Parliament stated.
-
-...
-
-[Data](articles/ec7cd4fc.json)
 
 ---
 
@@ -2068,5 +2006,63 @@ The event was held at the Hilton Hotel in Colombo, with diplomats, politicians a
 [Data](articles/925a4ee6.json)
 
 [Extended Data](ext_articles/925a4ee6.ext.json)
+
+---
+
+### Special statement from electrical workers
+
+*2025-10-03 17:43:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදල-සවකයනගන-වශෂ-පරකශයක/1-680711) · `si`
+
+ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය නිවැරදිව කරන ලෙස ඉල්ලමින් ලංකා විදුලිබල මණ්ඩලයේ වෘත්තිය සමිති රැසක් ක්‍රියාත්මක කරන ‘අකුරට වැඩකිරීම’ ක්‍රියාමාර්ගය පිළිබඳව විශේෂ ප්‍රකාශයක් ලබන අඟහරුවාදා කරන බව ලංකා විදුලිබල මණ්ඩලයේ නිදහස් සේවක සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් ප්‍රියන්ත මහතා අද (3) පැවසීය.
+
+The 'Monotal Working' is further implemented and that the outcome of the Department of Labor and the International Monetary Fund will be decided.
+
+25 of its trade unions have commenced a professional career course against the Ceylon Electricity Board's Restructuring Program on 4th September.
+
+President Anura Kumara Dissanayake issued a special gazette notification on the 21st of the 21st of the 21st of the 21st of the 21st of this month.
+
+◼️
+
+[Data](articles/215d1cd9.json)
+
+[Extended Data](ext_articles/215d1cd9.ext.json)
+
+---
+
+### Special statement from electrical workers
+
+*2025-10-03 17:43:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදල-සවකයනගන-වශෂ-පරකශයක/101-680711) · `si`
+
+The Ceylon Electricity Board General Secretary Prabhantha today (Ceylon Electricity Union's Chief Secretary of the Ceylon Electricity Board) Prabhakantha said that a special statement will be implemented on the 'Order of Ceylon Electricity Board'.
+
+The 'Monotal Working' is further implemented and that the outcome of the Department of Labor and the International Monetary Fund will be decided.
+
+25 of its trade unions have commenced a professional career course against the Ceylon Electricity Board's Restructuring Program on 4th September.
+
+President Anura Kumara Dissanayake issued a special gazette notification on the 21st of the 21st of the 21st of the 21st of the 21st of this month.
+
+◼️
+
+[Data](articles/f6ccf26b.json)
+
+[Extended Data](ext_articles/f6ccf26b.ext.json)
+
+---
+
+### Permission to interfere in Beliatta
+
+*2025-10-03 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215303) · `si`
+
+The court has granted permission to interfere with the drug case of the drug case in Tangalle Sanath.
+
+Accordingly, Tangalle Acting Magistrate Viduru Weerakoon has been given permission to the suspect until the 9th.
+
+The criminal of the Tangalle Divisional Criminal Investigation Unit was arrested by the Tangalle Division Criminal Investigation Unit.
+
+◼️
+
+[Data](articles/4071cca1.json)
+
+[Extended Data](ext_articles/4071cca1.ext.json)
 
 ---

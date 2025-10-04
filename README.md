@@ -1,53 +1,125 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 11:20:06**
+As of **2025-10-04 11:57:05**
 
 ## Newspaper Stats
 
-*Scraped **81,014** Articles*
+*Scraped **81,026** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 579
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 747
+lankadeepalk | 748
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,772
-adaderanalk | 10,422
+adaderanalk | 10,425
 tamilmirrorlk | 12,042
-virakesarilk | 13,285
+virakesarilk | 13,293
 adaderanasinhalalk | 13,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,010 (100.0%) of 81,014 articles have been extended.
+81,017 (100.0%) of 81,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### දෙහිවල වෙඩිතැබීමේ යතුරුපැදිකරු අත්අඩංගුවට
+### சிறுவர்களை ஆபாச செயற்பாடுகளுக்குள் தள்ளும் டிக்டொக் : ஆய்வில் வெளியான அதிர்ச்சித் தகவல் !
+
+*2025-10-04 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226861) · `ta`
+
+டிக்டொக் (TikTok) செயலியானது அதன் பரிந்துரைக்கப்பட்ட தேடல் சொற்கள் மூலம் இளம் பயனாளர்களை பாலியல் ரீதியான உள்ளடக்கத்தை நோக்கித் திசை திருப்புவதாக, பிரித்தானியாவைச் சேர்ந்த குளோபல் விட்னஸ் (Global Witness) என்ற இலாப நோக்கற்ற கண்காணிப்புக் குழு நடத்திய புதிய ஆய்வறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+இணையத் தளங்களில் வயதுச் சரிபார்ப்பை (Age Verification) கடுமையாக்க வேண்டும் என்ற அழுத்தம் தொழில்நுட்ப நிறுவனங்கள் மீது அதிகரித்து வரும் நிலையில் இந்த அறிக்கை வெளியாகி உள்ளது.
+
+ஒக்டோபர் 3 ஆம் திகதி வெளியிடப்பட்ட இந்த அறிக்கையின் ஒரு பகுதியாக, குளோபல் விட்னஸ் நிறுவனம், ஏற்கனவே தேடல் வரலாறுகள் நீக்கப்பட்ட புதிய தொலைபேசிகளில், 13 வயதுடையவர்களைப் போல உருவகிக்கும் 7 புதிய டிக் டொக் கணக்குகளை இங்கிலாந்தில் உருவாக்கியது. டிக்டொக் கணக்கை ஆரம்பிக்க குறைந்தபட்ச வயதெல்லை 13 ஆகும்.
+
+...
+
+[Data](articles/cbcfbecc.json)
+
+---
+
+### யாழ் மாவட்ட பண்பாட்டுப் பெருவிழா
+
+*2025-10-04 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226859) · `ta`
+
+யாழ் மாவட்ட  பண்பாட்டுப்பேரவையும், மாவட்ட செயலகமும் இணைந்து வடக்கு மாகாண பண்பாட்டலுவல்கள் திணைக்களத்தின் அனுசரணையுடன் இணைந்து கொண்டாடிய யாழ்ப்பாண மாவட்ட  பண்பாட்டுப் பெருவிழா வெள்ளிக்கிழமை (03) இடம்பெற்றது.
+
+யாழ். புனித யுவானியர் தேவாலய முன்றலில் இருந்து கலாசார ஊர்வலம் ஆரம்பமாகி மாவட்டச் செயலகத்தினை வந்தடைந்ததனைத் தொடர்ந்து மாவட்டச் செயலகம் கேட்போர் கூடத்தில் பண்பாட்டுப் பெருவிழா  நடைபெற்றது.
+
+குழந்தை  ம.சண்முகலிங்கம் அரங்கில் இடம்பெற்ற இவ்வாண்டிற்கான பண்பாட்டுப் பெரு விழாவில், 15 பிரதேச செயலகங்களை உள்ளடக்கிய வகையில்  - பிரதேசங்களுக்குரிய கலைஞர்களாலும், மாணவர்களாலும் கலை நிகழ்ச்சிகள் சிறப்பாக நடைபெற்றது.
+
+மேலும், "யாழ்ப்பாணம் - 4" (மரபுகளும் நம்பிக்கைகளும்) நூல் வெளியீட்டு விழாவும்  நடைபெற்றது.
+
+தொடர்ந்து  நிகழ்வில் "யாழ் முத்து" விருது 15 கலைஞர்களுக்கும், இளங்கலைஞர் விருது 15 கலைஞர்களுக்கும் வழங்கி கௌரவிக்கப்பட்டனர்.
+
+...
+
+[Data](articles/35421759.json)
+
+---
+
+### அமெரிக்க ஜனாதிபதி டிரம்பின் தலைமைத்துவத்தை வரவேற்கிறோம் - இந்தியப் பிரதமர் மோடி
+
+*2025-10-04 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226860) · `ta`
+
+காசா முனையை நிர்வகித்து வரும் ஹமாஸ் ஆயுதக்குழுவினர் கடந்த 2023 ஆம் ஆண்டு ஒக்டோபர் 7 ஆம் திகதி இஸ்ரேலுக்குள் புகுந்து நடத்திய பயங்கரவாத தாக்குதலில் 1,139 இஸ்ரேலியர்கள் கொல்லப்பட்டனர். மேலும், 251 பேரை ஹமாஸ் பணயக் கைதிகளாக காசா முனைக்கு கடத்திச் சென்றது.
+
+இதையடுத்து, ஹமாஸ் மீது இஸ்ரேல் போர் அறிவித்து காசா முனையில் தீவிர தாக்குதல் நடத்தி வருகிறது. இந்த தாக்குதலில் பெண்கள் மற்றும் குழந்தைகள் உட்பட 66 ஆயிரத்திற்கும் மேற்பட்ட பாலஸ்தீன மக்கள் கொல்லப்பட்டு உள்ளனர். ஹமாஸிடம் உள்ள பணயக் கைதிகளில் பலரை இஸ்ரேல் ஒப்பந்த அடிப்படையிலும், இராணுவ நடவடிக்கை மூலமும் மீட்டுள்ளது.
+
+பணயக் கைதிகள் அனைவரையும் மீட்டு, ஹமாஸ் அமைப்பை முழுவதுமாக அழிக்கும் வரை போர்நிறுத்தம் ஏற்படாது என இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு சூளுரைத்தார். இந்த சூழலில், காசா போரை முடிவுக்கு கொண்டு வரும் வகையில், அமெரிக்க ஜனாதிபதி டிரம்ப் தலைமையில் மத்தியஸ்தம் செய்யும் முயற்சிகள் தொடர்ந்து மேற்கொள்ளப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/d1aebe8e.json)
+
+---
+
+### Dehiwala shooting motorcyclist arrested
 
 *2025-10-04 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215323) · `si`
 
-දෙහිවල, දුම්රියපොළ අසලදී වෙඩිතබා පුද්ගලයෙකු ඝාතනයට තැත්කිරීමට සම්බන්ධයෙන් සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A person has been arrested on suspicion of attempting to kill a person who shot at Dehiwala and Railway Station.
 
-පසුගිය ජුලි 18 වනදා දෙහිවල දුම්රියපොළ අසලදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් කළ වෙඩිතැබීමකින් පුද්ගලයෙකු බරපතළ තුවාල ලබා රෝහල් ගතකෙරුණි.
+On July 18, a shooting of two unidentified people from the Dehiwala Railway Station was taken seriously injured.
 
-ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය කල විමර්ශනයකින් අනතුරුව අදාළ වෙඩිතැබීම සඳහා පැමිණි යතුරුපැදියේ පැදිකරු වශයෙන් කටයුතු කළ සැකකරු අතුඅඩංගුවට ගෙන තිබේ.
+The motorcycle joint vehicles came after the Mount Lavinia Division Criminal Investigation (Mightl)
 
-එහිදි සැකකරු සන්තකයේ තිබි අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 50ක්, කඩු 05ක් සහ කිනිස්සක් සොයාගෙන ඇති අතර, ඔහු 34  හැවිරිදි ගල්කිස්ස සීවලි පාර ප්‍රදේශයේ පදිංචිකරුවෙක් බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේය.
+The Police Media Division stated that he was found in the possession of the suspect's possession of 50 ice drugs, five swords and a crisis.
 
 ◼️
 
 [Data](articles/b4f9db3a.json)
+
+[Extended Data](ext_articles/b4f9db3a.ext.json)
+
+---
+
+### பிரான்சில் கடும் பொருளாதார நெருக்கடி: நாடு தழுவிய வேலைநிறுத்தம் - ஈபிள் கோபுரம் மூடல்!
+
+*2025-10-04 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226857) · `ta`
+
+பொருளாதார நெருக்கடியைச் சமாளிக்கும் விதமாக பிரான்ஸ் அரசாங்கம் வரவு செலவுத் திட்ட செலவினங்களைக் குறைத்தது. சுகாதாரம் மற்றும் கல்வி போன்ற அத்தியாவசியத் துறைகளுக்குக் குறைவான நிதி ஒதுக்கப்பட்டதால், இதற்கு எதிர்ப்பு தெரிவித்து மக்கள் போராட்டத்தில் குதித்தனர்.
+
+இந்தப் போராட்டங்கள் தீவிரமடைந்த சூழலில், நாட்டின் புதிய பிரதமராக செபாஸ்டியன் லெகோர்னு நியமிக்கப்பட்டார். எனினும், இவரது நியமனம் போராட்டக்காரர்களை மேலும் தூண்டியது. இதன் விளைவாக, போராட்டக்காரர்கள் 'அனைத்தையும் தடுப்போம்' (Block Everything) என்ற இயக்கத்தைத் தொடங்கி, நாடு தழுவிய வேலைநிறுத்தப் போராட்டத்துக்கு அழைப்பு விடுத்தனர்.
+
+அழைப்பை ஏற்று, தலைநகர் பாரீஸ் உள்ளிட்ட பிரான்ஸின் முக்கிய நகரங்களில் 85 ஆயிரத்துக்கும் மேற்பட்ட போராட்டக்காரர்கள் திரண்டனர். இந்த வேலைநிறுத்தம் காரணமாக ரயில் மற்றும் பொதுப் போக்குவரத்துச் சேவைகள் பாதிக்கப்பட்டன.
+
+போராட்டத்தின் எதிரொலியாக, உலகப் புகழ்பெற்ற சுற்றுலாத் தலமான ஈபிள் கோபுரம் மூடப்பட்டது. கோபுர நிர்வாகத்தின் பணியாளர்களும் வேலைநிறுத்தத்தில் பங்கேற்றதால், கோபுரம் திறக்கப்படவில்லை.
+
+...
+
+[Data](articles/58fb649b.json)
 
 ---
 
@@ -55,13 +127,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-10-04 10:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-6-8-சதவீதத்தால்-உயர்வு/175-365703) · `ta`
 
-மின்சாரக் கட்டணத்தை 6.8 சதவீதத்தால் உயர்த்துவது தொடர்பாக இலங்கை மின்சார சபையினால் முன்வைக்கப்பட்ட முன்மொழிவு குறித்து, பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் முடிவு இந்த மாதம் 15 ஆம் திகதி அல்லது அதற்கு முன்னதாக வெளியிடப்படும் என்று பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+The Public Utilities Commission's decision on the proposal by the Ceylon Electricity Board (CEB) will be released on the 15th of this month, the Media Spokesperson of the Public Utilities Commission said.
 
-இந்த மாதம் 8 ஆம் திகதி மேல் மாகாண ஆலோசனையின் இறுதி அமர்வு நடைபெற்ற பின்னர், கட்டணங்களைத் திருத்துவது குறித்த இறுதி முடிவு எடுக்கப்படும் என அவர் தெரிவித்தார். R
+He said that after the final session of the Western Provincial Advisory on the 8th of this month, the final decision on the amendment of the fees would be taken. R
 
 ◼️
 
 [Data](articles/0be2b96b.json)
+
+[Extended Data](ext_articles/0be2b96b.ext.json)
 
 ---
 
@@ -90,6 +164,78 @@ Many officials involved in these corruption and irregularities have not yet impl
 [Data](articles/50aac0aa.json)
 
 [Extended Data](ext_articles/50aac0aa.ext.json)
+
+---
+
+### போதைப்பொருள் தொடர்பான தகவல்களை வழங்க புதிய தொலைபேசி இலக்கங்கள் அறிமுகம் - பொலிஸ்
+
+*2025-10-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226852) · `ta`
+
+நாட்டின் பல பகுதிகளிலும் ஹெரோயின், ஐஸ், கொக்கேயின் மற்றும் கஞ்சா உள்ளிட்ட போதைப்பொருட்களின் பரவல் குறித்து பொலிஸாருக்கு நேரடி தகவல்களை வழங்குவதற்காக புதிய தொலைபேசி இலக்கங்கள் அறிமுகப்படுத்தப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+ஒவ்வொரு மாகாணங்களுக்கும் பொறுப்பான சிரேஸ்ட பொலிஸ்மா அதிபர்களின் தொலைபேசி இலக்கங்கள் முன்னதாக, ஊடகங்களுக்கு வெளியிடப்பட்டன.
+
+சிரேஸ்ட பொலிஸ்மா அதிபர்களின் கீழ் உள்ள மாவட்ட பொலிஸ்மா அதிபர்கள் மற்றும் சிரேஸ்ட பொலிஸ் கண்காணிப்பாளர்களின் தொலைபேசி இலக்கங்களும் நேற்று வெள்ளிக்கிழமை (03) வெளியிடப்பட்டுள்ளன.
+
+அவற்றிற்கு தொடர்பினை ஏற்படுத்தி, போதைப்பொருள் தொடர்பான தகவல்களை பொதுமக்கள் வழங்கலாம் என பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+போதைப்பொருள் அச்சுறுத்தலை ஒழிப்பதில் பொதுமக்களின் ஆதரவு பெரிதும் பாராட்டப்படுவதாகவும், பொதுமக்களால் வழங்கப்படும் தகவல்களின் ரகசியத்தன்மையைப் பாதுகாக்க இலங்கை பொலிஸ் பாடுபடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/31bef03d.json)
+
+---
+
+### யாழ்ப்பாணப் பல்கலைக்கழக கலைப்பீடத்தின் ஐந்தாவது இளங்கலைமாணி ஆய்வு மாநாடு
+
+*2025-10-04 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226849) · `ta`
+
+யாழ்ப்பாணப் பல்கலைக்கழக கலைப்பீடத்தின் ஐந்தாவது இளங்கலைமாணி ஆய்வு மாநாடு எதிர்வரும் 08.10.2025 புதன்கிழமை நடைபெறவிருக்கின்றது.
+
+பல்கலைக்கழக கைலாசபதி கலையரங்கில் காலை 9 மணிக்கு ஆரம்பமாகவிருக்கும் இந்த ஆய்வுமாநாட்டின் முதன்மை விருந்தினராக பல்கலைக்கழகத் துணைவேந்தர் பேராசிரியர் சி.சிறிசற்குணராஜா கலந்து சிறப்பிக்கவுள்ளார்.
+
+இலங்கை திறந்த பல்கலைக்கழகத்தின் சமூக விஞ்ஞானத்துறை ஓய்வுநிலைப் பேராசிரியர் எஸ். சந்திரபோஸ் திறப்புரையினை ஆற்றவுள்ளார்.
+
+பல்கலைக்கழகங்களின் பிரதான பணிகளில் ஒன்றாக இருப்பது ஆய்வுச் செயன்முறையாகும். பல்கலைக்கழக ஆசிரியர்கள் மட்டுமின்றி மாணவர்களும் கல்விசார் ஆய்வுகளில் சிரத்தையுடன் ஈடுபட வேண்டும் எனும் எதிர்பார்ப்பு அண்மைக்காலமாக அதிகரித்து வருகின்றது.
+
+அதற்கமைய, பல்கலைக்கழக மாணவர்களும் பல்வேறு தடங்களில்  தமது ஆய்வு நாட்டத்தைக் காண்பித்து வருகிறார்கள்.
+
+அந்தவகையில், கலைப்பீடத்தின் இளம் கலைமாணி ஆய்வு மாநாடு கடந்த நான்கு வருடங்களாக மிகச் சிறப்பாக நடைபெற்றுவந்தது.
+
+...
+
+[Data](articles/8df1187e.json)
+
+---
+
+### அரச வங்கிகளில் நிலவும் பிரச்சனைகளுக்கு எதிராக யாழ்ப்பாணத்தில் தீப்பந்த போராட்டம்!
+
+*2025-10-04 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226851) · `ta`
+
+யாழ்ப்பாணம் வைத்தியசாலை வீதியில் உள்ள இலங்கை வங்கி வடபிராந்திய காரியாலத்துக்கு முன்பாக குறித்த போராட்டம் நேற்று வெள்ளிக்கிழமை(03) இரவு 7 மணியளவில் இலங்கை வங்கி ஊழியர் சங்கத்தின் ஏற்பாட்டில் இடம்பெற்றது.
+
+அரச வங்கிகளின் சட்டத் திருத்தங்களினூடாக, வங்கி தனியார் மயப்படுத்தலை நோக்கி செல்லவுள்ளதாக போராட்டக்காரர்கள் இதன்போது குற்றஞ்சாட்டியுள்ளனர்.
+
+◼️
+
+[Data](articles/6e4a04b3.json)
+
+---
+
+### புத்தளத்தில் இடம்பெற்ற வாகன விபத்தில் இளைஞன் பலி!
+
+*2025-10-04 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226848) · `ta`
+
+புத்தளம் பொலிஸ் பிரிவுக்குட்பட்ட புத்தளம் - ஒக்கம்பிட்டிய பிரதான வீதியில் இடம்பெற்ற வாகன விபத்தில் இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
+
+ஒக்கம்பிட்டியவிலிருந்து புத்தளம் நோக்கிச் சென்ற மோட்டார் சைக்கிள், கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி ஒரு பாறையில் மோதியதில் இந்த விபத்து நேர்ந்துள்ளது.
+
+இந்த விபத்தில் மோட்டார் சைக்கிளின் செலுத்துனரும் பின்புறத்தில் பயணித்த ஒருவரும் பலத்த காயமடைந்து புத்தளம் வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+◼️
+
+[Data](articles/cc60edbb.json)
 
 ---
 
@@ -133,27 +279,29 @@ Meanwhile, the Government of Sri Lanka and Civil Association are continuously ma
 
 ---
 
-### තම කුඹුරේ පිදුරුවලට ගිනිතැබූ ගොවි මහතෙකු එම ගින්නටම හසුවෙයි
+### Fired farmer falls into the fire
 
 *2025-10-04 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215322) · `si`
 
-හිඟුරක්ගොඩ, වරාහේන ප්‍රදේශයේ ගොවි මහතෙකු විසින් තම කුඹුරේ පිදුරුවලට තබන ලද ගින්නක් පැතිර ගොස් එම ගින්නට හසුවීමෙන් කුඹුරු තුළ ඊයේ (3) දහවල් අවාසනාවන්ත ලෙස මියගොස් ඇත.
+A fire was spreading a fire to the fire in the Waraherakgoda, Varahena, has died in the paddy fields yesterday (3).
 
-මෙලෙස ගින්නට හසුව ඇත්තේ හිඟුරක්ගොඩ, බෝගස් හංදිය ප්‍රදේශයේ පදිංචි තෙදරු පුද්ගලයෙක්ය.
+The fire was a resident of Bogiriya, Hingurakgoda, Hingurakgoda.
 
-ගොවි මහතා ඊළඟ කන්නයට සිය කුඹුරු බිම සූදානම් කිරීම සඳහා තම කුඹුරේ අස්වැන්න නෙලීමෙන් පසු කුඹුර තුළ ඉතිරිව තිබූ පිදුරුවලට හා ඉපනැල්ලට ගිනිතබා තිබේ.
+The next season the next season is the harvest of the paddy fields to prepare their paddy fields and burnt the remaining inflammation and the country.
 
-එහිදී මේ දිනවල පවත්නා අධික උණුසුම් කාලගුණික තත්ත්වය හා සුළග හේතුවෙන් ගින්න පැතිර ගොස් ඔහු ඊට හසුව තිබේ.
+There he spread the fire and the heavy warm weather conditions and the winds.
 
-මෙම පුද්ගලයා ගින්නට හසුව සිටින අයුරු ප්‍රදේශවාසියෙකු දැක ඒ පිළිබදව අනෙකුත් අය දැනුම්වත් කළද ඒ වනවිටත් ඔහු ගින්නට හසුව දරුණු ලෙස තුවාල ලබා මිය ගොස් සිට ඇත.
+The man saw a resident of the area, but the others had been severely injured and he had been severely injured.
 
-මියගිය පුද්ගලයාගේ පශ්චාත් මරණ පරීක්ෂණ කටයුතු සඳහා දේහය පොලොන්නරුව මහ රෝහල වෙත රැගෙන යනු ලැබීය.
+The body was taken to Polonnaruwa General Hospital for the post mortem examination of the deceased.
 
-මේ පිළිබද වැඩිදුර පරීක්ෂණ කටයුතු හිඟුරක්ගොඩ පොලීසිය විසින් සිදු කරනු ලැබීය.
+The Hingurakgoda Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/687b4efc.json)
+
+[Extended Data](ext_articles/687b4efc.ext.json)
 
 ---
 
@@ -273,6 +421,30 @@ No one can distort data. They need to provide the maximum security. There should
 
 ---
 
+### Pavement trading prohibited in Hatton during Diwali festival
+
+*2025-10-04 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113203/pavement-trading-prohibited-in-hatton-during-diwali-festival) · `en`
+
+The Hatton-Dickoya Urban Council has generated an income of over Rs. 3.6 million by tendering 146 plots of land temporarily allocated for business activities during the upcoming Diwali (Deepavali) festival season.
+
+Hatton-Dickoya Urban Council Chairman Asoka Karunaratne made this announcement yesterday (03).
+
+During the Diwali festival period, pavement trading is prohibited in Hatton town. Instead, areas near Hatton Star Square and Shakthi Hall have been designated for business operations.
+
+A report was obtained from the Government Valuation Department, following which tenders were called for the allocation of the plots.
+
+The tenders were opened yesterday by the Secretary of the Urban Council, Shyamali Rupasinghe, under the supervision of the members of the Finance Committee.
+
+In addition to the tender amount, a garbage tax and business tax have also been collected from those who acquired plots to conduct temporary trade.
+
+...
+
+[Data](articles/2561dbc8.json)
+
+[Extended Data](ext_articles/2561dbc8.ext.json)
+
+---
+
 ### Sri Lanka’s Foreign Debt at USD 37 Billion
 
 *2025-10-04 08:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sri-lanka%e2%80%99s-foreign-debt-at-usd-37-billion) · `en`
@@ -328,6 +500,50 @@ The protesters accused the bank of going to privatization through the amendments
 [Data](articles/008437de.json)
 
 [Extended Data](ext_articles/008437de.ext.json)
+
+---
+
+### Tunisian sentenced to death for Facebook posts criticising president
+
+*2025-10-04 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/113202/tunisian-sentenced-to-death-for-facebook-posts-criticising-president) · `en`
+
+A Tunisian man has been sentenced to death on charges of insulting the president and assaulting state security through posts on social media, the head of the Tunisian League for Human Rights and his lawyer said on Friday.
+
+The ruling is unprecedented in Tunisia, where restrictions on free speech have been tightened since President Kais Saied seized almost all powers in 2021.
+
+The man sentenced, 56-year-old day labourer Saber Chouchane, is a regular citizen with limited education who was simply writing posts critical of the president before his arrest last year, his lawyer, Oussama Bouthalja, told Reuters.
+
+“The judge in the Nabeul court sentenced the man to death over Facebook posts. It is a shocking and unprecedented ruling,” Bouthalja said.
+
+The judgement has been appealed, he added. The justice ministry was not immediately available to comment.
+
+Though courts have occasionally handed down death sentences in Tunisia, none have been carried out for more than three decades.
+
+...
+
+[Data](articles/933c7f6d.json)
+
+[Extended Data](ext_articles/933c7f6d.ext.json)
+
+---
+
+### World Bank stresses urgent energy sector reforms in Sri Lanka
+
+*2025-10-04 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113201/world-bank-stresses-urgent-energy-sector-reforms-in-sri-lanka) · `en`
+
+The World Bank has emphasized the urgent need for energy sector reforms in Sri Lanka, warning that the country continues to bear significantly higher energy costs than others in the region.
+
+This was highlighted during consultation meetings held between a World Bank delegation led by Country Manager Gevorg Sargsyan and key parliamentary finance oversight committees.
+
+The delegation first met with Dr. Harsha de Silva, Chair of the Committee on Public Finance (CoPF), and its members, followed by a combined consultation session with Dr. Nishantha Samaraweera, Chair of the Committee on Public Enterprises (COPE); Kabir Hashim, Chair of the Committee on Public Accounts (COPA); and Wijesiri Basnayake, Chair of the Committee on Ways and Means, along with members of their respective committees.
+
+Committee Chairs expressed their appreciation to the World Bank for its continued support to Sri Lanka’s development over the years, the Department of Communication of Parliament stated.
+
+...
+
+[Data](articles/ec7cd4fc.json)
+
+[Extended Data](ext_articles/ec7cd4fc.ext.json)
 
 ---
 
@@ -1848,221 +2064,5 @@ The suspect was arrested on October 1 by the Tangalle Divisional Crime Investiga
 [Data](articles/411ec493.json)
 
 [Extended Data](ext_articles/411ec493.ext.json)
-
----
-
-### Gigi & Coco 'Surprising Fans ..!?
-
-*2025-10-03 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226828) · `ta`
-
-Animated film 'Maha Avatar Narasimha' in India has been a huge success and expanded the business and audience for animated films. At this moment, an animated film 'Kiki & Coco' is being made to encourage the audience.
-
-Introducing Director B. The animated creation describes the relationship between a pet and a female child named Cocoa in the movie 'Kiki & Cocoa. It was produced by Inika Pudodoxans.
-
-Commenting on this animated work, the director said, “Children are essential for education -related films. In this way, we have mentioned the friendship between the children in this movie 'Kiki & Koko'. It is easy for children to learn through storytelling. We have created this animated work with it. ”
-
-◼️
-
-[Data](articles/66abd92d.json)
-
-[Extended Data](ext_articles/66abd92d.ext.json)
-
----
-
-### The government is currently planning to sell economic centers - Sajith Premadasa
-
-*2025-10-03 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226824) · `ta`
-
-When in the opposition said they would not import anything from abroad. Now everything is imported from abroad and cheating farmers. Opposition leader Sajith Premadasa said the government is now planning to sell even economic centers.
-
-Moreover, he is currently in a severe setback in the education sector. 16,200 development officers who worked as teachers have been abandoned at the time of school facilities and shortage of teachers.
-
-There is great lack of human resources and physical resources. Sajith Premadasa said that the current ruling parties who criticized and mocked me when I was offering a smart screen for schools, and today they are unable to carry out a similar project.
-
-Another phase of the Opposition Leader Mobile Service Service and the Incorporation of New Members to the United People's Power was held today (3).
-
-...
-
-[Data](articles/451b7a21.json)
-
-[Extended Data](ext_articles/451b7a21.ext.json)
-
----
-
-### Provide information about poisonous drugs
-
-*2025-10-03 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215305) · `si`
-
-The police have introduced several new telephone numbers to the public to provide information on the unique drug.
-
-Accordingly, the public is directly informed directly in the public drugs including heroin, ice, cocaine and cannabis, which is spread in different parts of the island.
-
-Police said that the information is available to the following telephone numbers of the DIGs in charge of the Senior Deputy Inspector General of Police and the Senior Deputy Inspector General of Police.
-
-Provide information about poisonous drugs
-
-◼️
-
-[Data](articles/63bcdfa8.json)
-
-[Extended Data](ext_articles/63bcdfa8.ext.json)
-
----
-
-### Special Event in Jaffna
-
-*2025-10-03 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226827) · `ta`
-
-Ramalingam Chandrasekaran, Minister of Fisheries and Marine Resources and Chairman of the Jaffna District Coordinating Committee, presented certificates to their homes and the beneficiaries.
-
-The event was held at the District Secretariat auditorium headed by Jaffna District Government Agent Marudalingam Pradeepan.
-
-Special guests were the Members of Parliament Shanmuganathan Siripavanandarajah, Karunanathan Ilangumaran and Director of the Ministry of City Development, Construction and Housing. Debani Priyanka and Deputy Planning Director Priyanka Seneviratne were also present.
-
-The District Secretariat is conducting the event in collaboration with the Ministry of Urban Development, Construction and Housing on the occasion of the World Residential Day to be celebrated on the 6th of October.
-
-The government has allocated Rs.
-
-...
-
-[Data](articles/0bb5e369.json)
-
-[Extended Data](ext_articles/0bb5e369.ext.json)
-
----
-
-### The World Health Organization is a special revelation
-
-*2025-10-03 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215304) · `si`
-
-The World Health Organization says that more than 42,000 people have been severely circumstances in the Gaza.
-
-The organization points out that there are about one-fourth of them.
-
-It is also said that the limbs of more than 5,000 people have been cut off due to stylize.
-
-According to foreign media, the courses have been carried out due to brain injuries and other burns due to spine injuries, explosions and other burns.
-
-◼️
-
-[Data](articles/60e4f612.json)
-
-[Extended Data](ext_articles/60e4f612.ext.json)
-
----
-
-### Reunted Thambi Ramaiah- Umapati Ramaiah Alliance
-
-*2025-10-03 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226826) · `ta`
-
-The shooting of the unnamed film, which played the lead role in the film, Nati Natraj, the star and actor of the small investment filmmakers.
-
-Natraj, Thambi Ramaiah, Shrita Rao, Santini Thamilarasan, Viji Chandrasekhar, Vadivavarasi, MS. Bhaskar, Redin Kingsley, John Vijay, 'Aadukalam' Narain, Sathyan, Java Sundaresan and many others.
-
-B.. G. Darbuka Siva is composed by Muttiah. The film is being produced by KR Group and Gandhara Studios.
-
-Following the film 'Raja Kili', director Umapati Ramaiah's film, Thambi Ramaiah, directed by his father and actor.. For the first time in this coalition, the joining of Natraj has also increased the expectation of the film.
-
-◼️
-
-[Data](articles/3616ca53.json)
-
-[Extended Data](ext_articles/3616ca53.ext.json)
-
----
-
-### Maria - Movie Review
-
-*2025-10-03 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226825) · `ta`
-
-Actors: Pavel Navagithan, Sai Sri Prabhakaran, Sidhu Kumarasan, Vignesh Ravi, Sudha Pushpa and many others.
-
-Because the film crew advertised on social networks as an award -winning creation at international film festivals.. Believe in the truth ... Some fans went into the picture. What kind of experience did the film crew gave them? We will continue to see.
-
-Maria (Sai ​​Sri Prabhakaran), a nun who has been serving for over fifteen years in a Christian church in the south of Tamil Nadu, wants to live like ordinary women.
-
-But this refuses to allow the community and the attributes of the nun. For this he joins the anti -Christian system. What happened to Maria after that? The story of the film is to describe.
-
-Some of the nuns who have their lifetime ambition to embrace Christianity and do the church in the church.. In some moments ... Like other natural women would like to live worldly life. This is the nature of the world.
-
-...
-
-[Data](articles/9f3a9d74.json)
-
-[Extended Data](ext_articles/9f3a9d74.ext.json)
-
----
-
-### Sajith Premadasa participating in the German Unity Day reception
-
-*2025-10-03 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/226823) · `ta`
-
-Opposition Leader Sajith Premadasa attended a reception organized by Felix Neumann and Christine Webrunuman, the Ambassador of the German Federal Republic of Sri Lanka, on the eve of German Unity Day.
-
-The event was held at the Hilton Hotel in Colombo, with diplomats, politicians and representatives of civil society organizations from many countries.
-
-◼️
-
-[Data](articles/925a4ee6.json)
-
-[Extended Data](ext_articles/925a4ee6.ext.json)
-
----
-
-### Special statement from electrical workers
-
-*2025-10-03 17:43:20* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදල-සවකයනගන-වශෂ-පරකශයක/1-680711) · `si`
-
-ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය නිවැරදිව කරන ලෙස ඉල්ලමින් ලංකා විදුලිබල මණ්ඩලයේ වෘත්තිය සමිති රැසක් ක්‍රියාත්මක කරන ‘අකුරට වැඩකිරීම’ ක්‍රියාමාර්ගය පිළිබඳව විශේෂ ප්‍රකාශයක් ලබන අඟහරුවාදා කරන බව ලංකා විදුලිබල මණ්ඩලයේ නිදහස් සේවක සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් ප්‍රියන්ත මහතා අද (3) පැවසීය.
-
-The 'Monotal Working' is further implemented and that the outcome of the Department of Labor and the International Monetary Fund will be decided.
-
-25 of its trade unions have commenced a professional career course against the Ceylon Electricity Board's Restructuring Program on 4th September.
-
-President Anura Kumara Dissanayake issued a special gazette notification on the 21st of the 21st of the 21st of the 21st of the 21st of this month.
-
-◼️
-
-[Data](articles/215d1cd9.json)
-
-[Extended Data](ext_articles/215d1cd9.ext.json)
-
----
-
-### Special statement from electrical workers
-
-*2025-10-03 17:43:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදල-සවකයනගන-වශෂ-පරකශයක/101-680711) · `si`
-
-The Ceylon Electricity Board General Secretary Prabhantha today (Ceylon Electricity Union's Chief Secretary of the Ceylon Electricity Board) Prabhakantha said that a special statement will be implemented on the 'Order of Ceylon Electricity Board'.
-
-The 'Monotal Working' is further implemented and that the outcome of the Department of Labor and the International Monetary Fund will be decided.
-
-25 of its trade unions have commenced a professional career course against the Ceylon Electricity Board's Restructuring Program on 4th September.
-
-President Anura Kumara Dissanayake issued a special gazette notification on the 21st of the 21st of the 21st of the 21st of the 21st of this month.
-
-◼️
-
-[Data](articles/f6ccf26b.json)
-
-[Extended Data](ext_articles/f6ccf26b.ext.json)
-
----
-
-### Permission to interfere in Beliatta
-
-*2025-10-03 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215303) · `si`
-
-The court has granted permission to interfere with the drug case of the drug case in Tangalle Sanath.
-
-Accordingly, Tangalle Acting Magistrate Viduru Weerakoon has been given permission to the suspect until the 9th.
-
-The criminal of the Tangalle Divisional Criminal Investigation Unit was arrested by the Tangalle Division Criminal Investigation Unit.
-
-◼️
-
-[Data](articles/4071cca1.json)
-
-[Extended Data](ext_articles/4071cca1.ext.json)
 
 ---

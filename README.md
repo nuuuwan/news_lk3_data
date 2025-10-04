@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 05:20:27**
+As of **2025-10-04 05:55:27**
 
 ## Newspaper Stats
 
-*Scraped **80,972** Articles*
+*Scraped **80,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,100 @@ dailyftlk | 5,664
 adalk | 7,771
 adaderanalk | 10,420
 tamilmirrorlk | 12,037
-virakesarilk | 13,275
+virakesarilk | 13,280
 adaderanasinhalalk | 13,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,972 (100.0%) of 80,972 articles have been extended.
+80,972 (100.0%) of 80,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### இங்கிலாந்து திருச்சபையை வழிநடத்தும் பொறுப்பான கேன்டர்பரி பேராயராக முதல் பெண்மணி
+
+*2025-10-04 04:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226842) · `ta`
+
+இங்கிலாந்து திருச்சபையை வழிநடத்தும் பொறுப்பான கேன்டர்பரி பேராயர் பதவி, வரலாற்றில் முதல் முறையாக ஒரு பெண்ணுக்கு ஒதுக்கப்பட்டுள்ளது.
+
+1,400 ஆண்டுகளில் இந்தப் பதவிக்கு தகுதி பெற்ற முதல் பெண் 63 வயதான பிஷப் சாரா முலாலே ஆவார்.
+
+பிரிட்டிஷ் மன்னருக்கு முடிசூட்டுவது போன்ற முக்கியமான கடமைகளைச் செய்யும் கேன்டர்பரி பேராயராக ஒரு பெண் நியமிக்கப்பட்டது ஒரு வரலாற்றுச் சிறப்புமிக்க தருணமாகக் கருதப்படுகிறது.
+
+◼️
+
+[Data](articles/f6270f33.json)
+
+---
+
+### மன்னார் பேசாலை பொலிஸ் நிலைய தடுப்பு காவலிருந்த 34 வயது நபர் உயிரிழப்பு; பொலிஸார் அடித்ததால் மகன் மரணம் தாய் குற்றச்சாட்டு
+
+*2025-10-04 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226841) · `ta`
+
+மன்னார் பேசாலை பொலிஸ் பிரிவில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு பேசாலை பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த  34 வயதுடைய  நபர் ஒருவர் வெள்ளிக்கிழமை (3) காலை பொலிஸ் நிலைய தடுப்பு காவலில் இறந்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+உயிரிழந்தவர் வவுனியா மாங்குளத்தைச் சேர்ந்த ராஜேந்திரன் கபிலன் (வயது-34) என அடையாளம் காணப்பட்டுள்ளார்.
+
+பேசாலை பொலிஸ்  பிரிவுக்குட்பட்ட கட்டாஸ்பத்திரி பகுதியில் வியாழக்கிழமை (2) மாலை  போதை பொருள்  தொடர்பாக சந்தேகத்தின் பெயரில் குறித்த நபர் கைது செய்யப்பட்டார்.
+
+குறித்த நபரை பேசாலை பொலிஸார் துரத்தி பிடித்ததோடு, இவருடன் இருந்த மற்றொரு நபர் தப்பி ஓடியதாக  தெரிவிக்கப்படுகின்றது.
+
+பொலிஸாரினால் கைது செய்யப்பட்ட குறித்த நபரை பொலிஸார் பேசாலை பொலிஸ் நிலையத்திற்கு அழைத்துச் சென்று பொலிஸ் நிலைய தடுப்பு காவலில் வைத்து விசாரணைகளை முன்னெடுத்தனர்.
+
+பின்னர் குறித்த நபர் பொலிஸ் நிலைய கூண்டில் தடுத்து வைக்கப்பட்ட நிலையில் வெள்ளிக்கிழமை (3) காலை குறித்த சந்தேக நபர் இறந்த நிலையில் காணப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/fdece35d.json)
+
+---
+
+### ரணில் விக்ரமசிங்க வைத்துச் சென்ற கடன் பொறிக்குள் தற்போதைய அரசு சிக்கியுள்ளது - புபுது ஜயகொட
+
+*2025-10-04 04:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226840) · `ta`
+
+அதிகாரத்துக்கு வரும் எந்த அரசாங்கமும் கடன் தவணைகளை மீள செலுத்த முடியாமல் ஒருசில வருடங்களில் வீழ்ச்சியடையும் வகையில் ரணில் விக்ரமசிங்க வைத்துச்சென்ற  பொறிக்குள் தற்போதைய அரசாங்கம் சிக்கிக்கொண்டுள்ளது என முன்னிலை சோசலிச கட்சியின்  கல்விச் செயலாளர் புபுது ஜயகொட தெரிவித்தார்.
+
+சர்வதேச நாணய நிதியத்தினால் உலகில் ஆகக்குறைவான கடன் குறைப்பு செய்த நாடு இலங்கை என ஐக்கிய நாடுகளின் மனித உரிமை பேரவை தெரிவித்திருக்கிறது. இலங்கைக்கு இதுதொடர்பில் ஆலாேசனை வழங்கிய அரசாங்கமும் கடன் மறுசீரமைப்பு நடவடிக்கையை சர்வதேச நாணய நிதியம் சொல்வதால் அதனை செய்ய வேண்டி இருப்பதாக தெரிவித்திருந்து. ஆனால்  இந்த நடவடிக்கையில் தலையிட்டிருந்த நாணய நிதியம் தற்போது, இலங்கையின் கடன் மறுசீரமைப்பு தொடர்பில் மிகவும் மோசமான முறையில் விமர்சித்திருக்கிறது.
+
+...
+
+[Data](articles/ac944c5d.json)
+
+---
+
+### சுற்றுலாத்துறையை மேம்படுத்த றுஹுணு ரிங் இணையத்தளம் அறிமுகம்
+
+*2025-10-04 04:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226839) · `ta`
+
+இலங்கையின் பிரதான சுற்றுலாத் தலங்களான தெற்கு, ஊவா மற்றும் கிழக்கு ஆகிய மூன்று மாகாணங்களையும் இணைத்து சேவை வழங்குநர்களை இணைக்கும் நோக்கத்துடன் உருவாக்கப்பட்ட 'றுஹூணு ரிங்' இணையத்தளம் ஜனாதிபதியால் அறிமுகப்படுத்தப்பட்டது.
+
+சர்வதேச சுற்றுலா தலைமைத்துவ மாநாடு வியாழக்கிழமை (02) பிற்பகல் கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஜனாதிபதி அநுர குமார திசாநாயக்க தலைமையில் நடைபெற்றது.
+
+உலக சுற்றுலா தின கொண்டாட்டங்களுடன் இணைந்ததாக, தேசிய மட்டம் முதல் பாடசாலை மட்டம் வரை பாடசாலை போட்டிகள், ஆராய்ச்சி மன்றங்கள் மற்றும் கைத்தொழில்  கண்காட்சிகள் உட்பட, செப்டம்பர்  முதல்  நடைபெற்ற தொடர்ச்சியான நிகழ்ச்சிகளின்  நிறைவைக் குறிக்கும் வகையில் இந்த மாநாடு ஏற்பாடு செய்யப்பட்டது. வெளிநாட்டு தூதுவர்கள், உயர் ஸ்தானிகர்கள், சுற்றுலாத் துறையில் ஈடுபட்டுள்ளோர்  மற்றும் உள்நாட்டு மற்றும் வெளிநாட்டு அறிஞர்கள் இந்த நிகழ்வில் பங்கேற்றனர்.
+
+...
+
+[Data](articles/a646fbe0.json)
+
+---
+
+### விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டம் குறித்த 5 ஆம் கட்ட மீளாய்வு முன்னெடுக்கப்பட்டுவருகிறது - சர்வதேச நாணய நிதியம் அறிவிப்பு
+
+*2025-10-04 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226838) · `ta`
+
+தற்போது இலங்கையில் உள்ள சர்வதேச நாணய நிதியத்தின் அதிகாரிகள் குழுவொன்று விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டம் தொடர்பான 5 ஆம் கட்ட மீளாய்வை முன்னெடுத்துவருவதாக  சர்வதேச நாணய நிதியத்தின் தொடர்பாடல் பிரிவின் பணிப்பாளர் ஜுலி கொஸாக் தெரிவித்துள்ளார்.
+
+வொஷிங்கடனில் நடைபெற்ற சர்வதேச நாணய நிதியத்தின் மாதாந்த செய்தியாளர் சந்திப்பின்போது இலங்கை தொடர்பான மீளாய்வுக்கான கால எல்லை என்னவென்றும், 2026 ஆம் ஆண்டுக்கான வரவு, செலவுத்திட்டம் சமர்ப்பிக்கப்படவுள்ள நிலையில், அதுசார்ந்த சர்வதேச நாணய நிதியத்தின் எதிர்பார்ப்புக்கள் எவை என்றும் எழுப்பப்பட்ட கேள்விக்குப் பதிலளிக்கையிலேயே ஜுலி கொஸாக் மேற்கண்டவாறு தெரிவித்தார். இதுகுறித்து அவர் மேலும் கூறியதாவது:
+
+...
+
+[Data](articles/ac6b1388.json)
+
+---
 
 ### President urges Maha Sangha’s guidance to restore moral fabric
 
@@ -1988,97 +2070,5 @@ Therefore, liquor companies are carrying out various activities aimed at boys an
 [Data](articles/cae892cc.json)
 
 [Extended Data](ext_articles/cae892cc.ext.json)
-
----
-
-### Seven dead of Bueloi
-
-*2025-10-03 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215298) · `si`
-
-Seven persons were killed due to the impact of the 'Biloo' affected by Thailand.
-
-Foreign media reports that three others have disappeared.
-
-Also, 60,294 persons have been affected and 16,740 houses have been damaged and 16,740 houses have been damaged.
-
-◼️
-
-[Data](articles/3b348d6f.json)
-
-[Extended Data](ext_articles/3b348d6f.ext.json)
-
----
-
-### Colombo Stock Exchange Historical Record: ASPI reached 22,000 points for the first time!
-
-*2025-10-03 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226794) · `ta`
-
-All Share Price Index - ASPI on the Colombo Stock Exchange (ASPI) exceeded 22,000 points on Friday (October 03, 2025).
-
-During today's trading session, the ASPI reached 22,017.56 marks at 9.35 am.
-
-This historical achievement reflects the strong growth of Sri Lanka's stock market and the confidence of investors. It is noteworthy that the Colombo Stock Exchange is recorded in the current year.
-
-◼️
-
-[Data](articles/1fd02547.json)
-
-[Extended Data](ext_articles/1fd02547.ext.json)
-
----
-
-### Wild elephant collides with fuel -bearing train
-
-*2025-10-03 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226792) · `ta`
-
-Wildlife officials said that a wild elephant collided with a fuel carrying train from Colombo to Batticaloa.
-
-Investigations have revealed that the deceased wild elephant went to Kal Oya National Park from Hurulu forest.
-
-◼️
-
-[Data](articles/c15ed949.json)
-
-[Extended Data](ext_articles/c15ed949.ext.json)
-
----
-
-### Korean National Day Celebration in Colombo: Minister Saroja Chavetri Bolraj participates
-
-*2025-10-03 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226805) · `ta`
-
-Women and Child Affairs Minister Saroja Chavetri Bolraj attended the National Day of the Republic of Korean at the Cinnamon Life of City of Dreams Hotel in Colombo on Thursday (02).
-
-At the invitation of the Ambassador of the Republic of Sri Lanka Miyon Lee, the Minister represented the Sri Lankan government and participated in the celebration.
-
-The event was attended by a number of dignitaries, including the Speaker, including the Speaker, and the political dignitaries, diplomatic representatives and the army commanders.
-
-The celebration was a great example of the strong bilateral relations between Sri Lanka and the Korean Republic.
-
-◼️
-
-[Data](articles/42e908e5.json)
-
-[Extended Data](ext_articles/42e908e5.ext.json)
-
----
-
-### RMIT, University Grants Commission's Joint Research Project inauguration
-
-*2025-10-03 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226782) · `ta`
-
-Prime Minister Harini Amarasuriya participated in the official opening ceremony of the Joint Research Program of the RMIT and University Grants Commission held at the Taj Samudra Hotel in Colombo on Thursday (03).
-
-This official ceremony was set up as a joint version of the RMIT University of Australia and the Sri Lanka University Grants Commission (UGC), aimed at providing training for the degree course in the fields of educators, research and innovations of Sri Lanka's young academics.
-
-The project was carried out with the contribution of Peradeniya University, Moratuwa University, Ruhunu University and Sri Jayawardenapura University.. At the event, 30 students were given scholarships for doctoral training.
-
-Speaking at the event, the Prime Minister praised the importance of this joint venture with the RMID in strengthening the ability of academics and researchers.
-
-...
-
-[Data](articles/1a086b4e.json)
-
-[Extended Data](ext_articles/1a086b4e.ext.json)
 
 ---

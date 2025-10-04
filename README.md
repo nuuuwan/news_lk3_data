@@ -1,77 +1,179 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 21:20:30**
+As of **2025-10-04 21:56:13**
 
 ## Newspaper Stats
 
-*Scraped **81,145** Articles*
+*Scraped **81,153** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 594
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 774
+lankadeepalk | 776
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
-adalk | 7,780
+adalk | 7,782
 adaderanalk | 10,437
-tamilmirrorlk | 12,046
+tamilmirrorlk | 12,049
 virakesarilk | 13,327
-adaderanasinhalalk | 13,955
+adaderanasinhalalk | 13,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,140 (100.0%) of 81,145 articles have been extended.
+81,146 (100.0%) of 81,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### විෂ සතෙකු සපා කෑමෙන් සිව් හැවිරිදි දරුවා මරුට
+### උඩුනුවර සමූපාකාර ඡන්දය 9-0ක් ලෙස පොදු විපක්ෂය ජය ගනියි
+
+*2025-10-04 21:31:41* · [`adalk`](https://www.ada.lk/breaking_news/උඩුනුවර-සමූපාකාර-ඡන්දය-9-0ක්-ලෙස-පොදු-විපක්ෂය-ජය-ගනියි/11-418914) · `si`
+
+උඩුනුවර සමූපාකාර සමිතියේ සභාපතිවරයා ඇතුළු අධ්‍යක්ෂක මණ්ඩලය තෝරාපත්කර ගැනීම සඳහා වු ඡන්දයේදී පොදු විපක්ෂ නියෝජනය කළ කණ්ඩායම ඡන්ද 09-00 ක් වශයෙන් ජයග්‍රහණය කොට තිබේ.
+
+මෙම ඡන්දය සම්බන්ධයෙන් පසුගිය සති කිහිපයක සිට මහත් ආන්දෝලනාත්මක ප්‍රවෘත්ති මැවු අතර එය වත්මන් ආණ්ඩු බලය හිමි කණ්ඩායම් සහ විපක්ෂ කණ්ඩායම් අතර විවිධ මතභේදාත්මක ගැටලු මතුව තිබියදී ජනාධිපතිවරයා මහනුවර සංචාරයක නිරතව ගොස් පසුදින පැවති මෙම ඡන්දයේදී පොදු විපක්ෂය මේ ආකාරයට ජයග්‍රහණයක් ලබා ගැනීම දේශපාලන කරළියේ ආන්දෝලනාත්මක සිදුවීමක් බව බොහෝ දෙනකුගේ අදහසයි.
+
+◼️
+
+[Data](articles/3c558c20.json)
+
+---
+
+### පොළොන්නරු බීජ ගොවිපලේ දී විදුලි සැර වැදී අලියකු මියයයි
+
+*2025-10-04 21:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පළනනර-බජ-ගවපල-ද-වදල-සර-වද-අලයක-මයයය/101-680742) · `si`
+
+පොලොන්නරුව කෘෂිකර්ම දෙපාර්තමේන්තුවේ බීජ ගොවිපල තුළ විදුලිසර වැදී වන අලියෙකු අද (4) මියගොස් ඇති බව පොළොන්නරුව පොලිසිය කියයි.
+
+පුද්ගලයෙකුගෙන් ලද තොරතුරක් අනුව ඒ පිළිබඳ පොළොන්නරුව වනජීවී නිලධාරීන් දැනුවත් කිරීමට පියවර ගත් බව පොළොන්නරුව මූලස්ථාන පොලිස් පරීක්‍ෂක පී.පී.කේ පතිරන මහතා අප කළ විමසීමේදී පැවසීය.
+
+පොළොන්නරුව කෘෂිකර්ම දෙපාර්තමේන්තුවේ නව නගරය මාර්ගයේ බීජ ගොවිපලට අයත් නිල නිවස වටා භූමියට යොදා ඇති අනාරක්ෂිත විදුලි වැටකින් විදුලිය වැදීම හේතුවෙන් මෙම වන අලියා මිය යන්නට ඇති බවට වනජීවිය සැක පළ කරයි.
+
+මෙලෙස විදුලි සැර වැදීමෙන් මියගොස් ඇති වන අලියා අවුරුදු තිස්පහක් පමණ වයසති අලියකු බව ඒ පිළිබඳ පරීක්‍ෂණ සිදු කරන පොළොන්නරුව වනජීවී කාර්‍යාලයේ නිලධාරීන් සඳහන් කරයි.
+
+පොළොන්නරුව වනජීවී නිලධාරීන් සහ පොලිසිය එක්ව මේ පිළිබඳව වැඩිදුර විමර්ශන කටයුතු සිදුකරයි.
+
+◼️
+
+[Data](articles/5aebbf38.json)
+
+---
+
+### නාරංගල කන්දේ අතරමං වූ පිරිසක් බේරා ගැනීමේ මෙහෙයුමක්
+
+*2025-10-04 21:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නරගල-කනද-අතරම-ව-පරසක-බර-ගනම-මහයමක/101-680741) · `si`
+
+බදුල්ල නාරංගල කන්ද  තරණය කළ 22 දෙනකු පමණ වන සංචාරක කණ්ඩායම් තුනක් අද (04) සවස අධික වර්ෂාව හා දැඩි සුළඟ මධ්‍යයේ දැඩි  අවදානමකට ලක්වී ඇතැයි බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්‍ෂ ඊ එම් එල් උදය කුමාර මහතා පැවසීය.
+
+මෙම පිරිස මුදවා ගැනීම සඳහා යුද හමුදා කණ්ඩායමක් එම ස්ථානයට ළඟාවී ඇති බවද එම මධ්‍යස්ථානය පැවසීය.
+
+වර්ෂාව දැඩි සුළඟ හා දැඩි ශීතල ඔවුන් දැඩි අපහසුතාවයට පත්කර ඇති බවද ඔවුන් සමග මේ වනවිට දුරකථන සම්බන්ධතා පවත්වා ගනිමින් සිටින බවද කණ්ඩායම් තුන මේ වන විට තනි කණ්ඩායමකට ගොනුකර සම්බන්ධතා පවත්වා ගනිමින් සිටින බවද බදුල්ල  ආපදා කළමනාකරන මධ්‍යස්ථානය පැවසීය.
+
+දිවයිනේ විවිධ ප්‍රදේශවලින් පැමිණි තරුණ හා වැඩිහිටි කණ්ඩායම් මේ අතර සිටින බවද ඔවුන් කූඩාරම් ගසා (කෑම්පින්) විනෝද වීම සඳහා කඳු මුදුනට නැග ඇති බවද එම මධ්‍යස්ථානය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/800608ec.json)
+
+---
+
+### Fourth year kills four-year-old child
 
 *2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/101-680740) · `si`
 
-රාත්‍රී කාළයේදී  පා ගමනින් යමින් සිටි සිව් හැවිරිදි පෙර පාසල් දරුවෙකු විෂ සහිත සත්වයෙකු හෝ කෘමියෙකුගේ සපා කෑමට ලක්ව රෝහල් ගත කිරීමෙන් පසු මියගොස් ඇතැයි මීගොඩ පොලිසිය පවසයි
+A four-year-old pre-school child died on the night school
 
-මිය ගිය දරුවා හෝමගම ලෙනගල ප්‍රදේශයේ තිබූ සැණකෙළියක් නැරඹීම සදහා තම සීයා සහ ආච්චි සමගින් පා ගමනින් යන අතරතුර කඩියෙකු තම කකුල සපා කෑ බවට පවසමින් හඩා ඇති බවත් පසුව සැණකෙළිය නරඹන අතරතුර උදරාබාධයක් ඇති වීමෙන් පසු දරුවා නිවසට රැගෙන ගොස් ඇත.
+The deceased is the child's league with his grandfather and grandmother with his grandfather, while he was leaving a carnival in the Neguma area.
 
-අනතුරුට නිවසේ දී දරුවාට වමනය ගොස් දැඩි ලෙස රෝගාතුර වීම නිසාවෙන් හෝමගම මූලික රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇතැයි ද පොලිසිය පවසයි.
+The police said that due to the death of the child to vomit at home and severely ill in the house.
 
-මෙලෙස මියගොස් ඇත්තේ දැඩිගමුව ලෙනගල සුහද මාවත පදිංචිව සිටි හපුතන්ත්‍රීගේ උවිදු නිම්සර නමැති සිව් හැවිරිදි පෙර පාසල් සිසුවෙකි.
+The deceased has been identified as a four year old pre-school student, Haputhante, who was residing in Lenegala Saurada Mawatha.
 
-එම මරණය පිලිබදව හදිසි මරණ පරීක්ෂණය හෝමගම හදිසි මරණ පරීක්ෂක සාමවිනිසුරු චින්තක උදය කුමාර මහතා විසින් සිදු කිරීමෙන් පසු ශරීර කොටස් රස පරීක්ෂක වෙත යැවීමට නියෝග කර විවෘත තීන්දුවක් ලබා දීමට කටයුතු කර ඇත.
+The death touguration of Homagama Sudden Death Inspector has ordered the bodies to send a bodic shares to the Tasquet after he was conducted by peacekeraq.
 
-මීගොඩ පොලිසියේ පොලිස් කොස්තාපල් රන්දික ලක්මාල් මහතා පරීක්ෂණ කටයුතු මොහයවීය.
+Meegoda Police Constable Randikal Lakmalal was investigated.
 
 ◼️
 
 [Data](articles/1116ebbb.json)
 
+[Extended Data](ext_articles/1116ebbb.ext.json)
+
 ---
 
-### බදුල්ලේ පැත්තකට අයිස් වැසි
+### Ice rain to side in Badulla
 
 *2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බදලල-පතතකට-අයස-වස/101-680739) · `si`
 
-දිවුලපැලැස්ස තෙල්දෙණියාය ප්‍රදේශයට ඇද ඇළුණු අයිස් වැස්සක් සමග හමාගිය දැඩි සුළගින් නිවාස තිහකට පමන අලාභහානි වී ඇතැයි බදුලල ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි .
+Wednesday, the Dasadalawala Disaster Management Center (DMC) says that about thirty houses have been damaged in the Divulaphalawela Region.
 
-ගස් කොලන් කඩා වැටී මාර්ග අවහිර වී විදුලි රැහැන් ද කඩා වැටීමෙන් ප්‍රදේශයේ විදුලි සැපයුම ද ඇණහිට තිබෙන බවත් දිවුලපැලැස්ස පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක එම් .ඩී.දේශප්‍රිය මහතා පැවසීය .
+The OIC of the Divulapalessa Police Inspector MDDA said that the trees blocked by road collas.
 
-මාස කීපයක් තිස්සේ පැවති දැඩි නියගය නිමා කරමින් අද පස්වරුවේ පැය දෙකකට ආසන්න කාලයක් පුරා මෙසේ අයිස් වැස්සක් පතිත වෙමින් දැඩි සුළගක් දිවුලපැලැස්ස තෙල්දෙණියාය ප්‍රදේශය හරහා හමාගිය බවත් ,
+The ice rained across the area for nearly a few months, the ice rained across the area nearly two hours this afternoon.
 
-මේනිසාවෙන් ප්‍රදේශයේ නිවාස රැසක වහල සෙවිලි කර තිබු සෙවිලි තහඩ, උලු ගැලවී වහලවල් සුලගේ ගසා ගෙන ගොස් ගස්කොළන් කඩා වැටී නිවාස රැසකට අලාභහානි වූ බවද හෙතෙම සදහන් කලේය .
+He said that a number of houses were roofed roofed roofing, the roofs of the roofs of the houses, and the trees were damaged.
 
-මීට අමතරව සුලං සමග ගස්කොළන් කඩා වැටීමෙන් දිවුලපැලැස්ස තෙල්දෙණියාය මාර්ගයේ රථවාහන ධාවනය ට බාධා සිදුව ඇති අතර , වලස්ගල ප්‍රදේශයේ දී වෝල්ට් 33000 අධි බලැති විදුලි රැහැන් පද්ධතියක් මතට ගස් කඩා වැටී ප්‍රදේශයේ විදුලි බලයද ඇන හිට ඇතයි පොලිස් පරීක්ෂක එම්.ඩී.දේශප්‍රිය මහතා වැඩ්දුරටත් සදහන් කර සිටියේය .
+Police have also interrupted the traffic on the Divulapurass Tharasa Teldeniya road in the Divulapurale Waltiya area on the Wallt 33000 Vallt in the Walasgala area.
 
 ◼️
 
 [Data](articles/1b918964.json)
+
+[Extended Data](ext_articles/1b918964.ext.json)
+
+---
+
+### Baca Saman's confessigence
+
+*2025-10-04 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215346) · `si`
+
+Bako Saman has said that after another group of criminals were prepared to take responsibility after the killing of the Kirajah assassination, but they had not accepted the responsibility of their two children.
+
+That was during interrogation in the Western Province North Criminal Division.
+
+The suspect had said that the cafe is killed due to revealing his drug network.
+
+Backwo Saman has been recognized that he has credited a sum of Rs.
+
+He has said that he was trying to have a relationship with the Kjgina family.
+
+It is reported that Baka Saman has said that he had no need to kill the kjja children.
+
+In the meantime, Sampath Manampara has said that he was aware of the killing of the Kibhara.
+
+The suspect said that he had given firearms for a murder on the instructions of Beaka Saman's advice, police said.
+
+Investigations have been conducted further investigations to ensure resource Manamparai statements.
+
+...
+
+[Data](articles/5bcf346c.json)
+
+[Extended Data](ext_articles/5bcf346c.ext.json)
+
+---
+
+### சம்பத் மனம்பேரியின் மைத்துனர் கைது
+
+*2025-10-04 19:48:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரியின்-மைத்துனர்-கைது/175-365710) · `ta`
+
+சம்பத் மனம்பேரியின் மைத்துனர் இன்று மதியம் மேல் மாகாண வடக்கு குற்ற விசாரணை பிரிவால் பியகம பகுதியில் வைத்து கைது செய்யப்பட்டார்.
+
+இந்த நிலையில் சந்தேகநபரிடம் இருந்து விற்பனைக்காக தயாராக இருந்த 555 கிராம் ஹெரோயின், கைத்துப்பாக்கி மற்றும் மெஹசின் என்பனவும் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மேல் மாகாண உதவி பொலிஸ் அத்தியட்சகர் ரொஹான் ஒலுகலவின் அறிவுறுத்தலின் பேரில் அதன் பொறுப்பதிகாரி லிண்டன் சில்வா முன்னெடுத்து வருகிறார். R
+
+◼️
+
+[Data](articles/1103f0f6.json)
 
 ---
 
@@ -96,6 +198,56 @@ The Department added that investigations are conducted to further confirm this.
 [Data](articles/d42943a9.json)
 
 [Extended Data](ext_articles/d42943a9.ext.json)
+
+---
+
+### விஜய்யின் பிரச்சார பேருந்தை பறிமுதல் செய்ய உத்தரவு
+
+*2025-10-04 19:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்யின்-பிரச்சார-பேருந்தை-பறிமுதல்-செய்ய-உத்தரவு/54-365709) · `ta`
+
+விஜய் தலைமையில் கரூரில் நடந்த பொதுக்கூட்டத்தின் போது ஏற்பட்ட நெரிசலில் 41 பேர் உயிரிழந்தனர்.
+
+இந்த கூட்டத்தை கட்டுப்படுத்துவதில் ஏற்பட்ட குறைப்பாடுகளே இந்த அசம்பாவிதத்திற்குக் காரணம் என்று முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+கரூர் மாவட்ட சம்பவம் குறித்து விசாரிக்க, சிறப்புப் புலனாய்வுக் குழுவை சென்னை உயர் நீதிமன்றம் அமைத்தது. இது தொடர்பான அனைத்து ஆவணங்களையும் உடனடியாக சிறப்புப் புலனாய்வுக் குழுவிடம் ஒப்படைக்குமாறு கரூர் பொலிஸ் துறைக்கு நீதிமன்றம் உத்தரவிட்டது.
+
+மேலும், நிலையான செயல்பாட்டு நடைமுறைகள் வகுக்கப்படும் வரை, மாநில மற்றும் தேசிய நெடுஞ்சாலைகளில் அரசியல் பேரணிகள், வாகனப் பேரணிகள் மற்றும் அதுபோன்ற பொது நிகழ்வுகளை நடத்தவும் நீதிமன்றம் தடை விதித்துள்ளது.
+
+சமீபத்திய கரூர் நெரிசல் போன்ற சம்பவங்களைத் தடுக்க, பெருந்திரளான கூட்டங்களுக்கான நிலையான செயல்பாட்டு நடைமுறைகளை வகுக்கக் கோரிய நான்கு பொதுநல மனுக்களை விசாரித்தபோது இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+
+...
+
+[Data](articles/9fb9f87f.json)
+
+---
+
+### விபத்தில் இளம் தம்பதி பலி
+
+*2025-10-04 19:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இளம்-தம்பதி-பலி/175-365708) · `ta`
+
+ஹொரணை-மொரகஹஹேன வீதியில் கனன்வில பகுதியில் இன்று பிற்பகல் மோட்டார் சைக்கிள் ஒன்று லொறியுடன் மோதியதில் இளம் தம்பதியினர் உயிரிழந்தனர்.
+
+◼️
+
+[Data](articles/5d20f932.json)
+
+---
+
+### කාවඩි නටමින් සිටි තරුණයා හදිසියේ මරුට
+
+*2025-10-04 19:22:36* · [`adalk`](https://www.ada.lk/breaking_news/කාවඩි-නටමින්-සිටි-තරුණයා-හදිසියේ-මරුට/11-418912) · `si`
+
+අම්බලන්ගොඩ මාදම්පේ ඉඩම්තොට සුවිසුද්ධාරාම විහාරස්ථානය විසින් සංවිධාන කර ඊයේ (3) රාත්‍රී සංචාරය කෙරුණු පෙරහරක කාවාඩි නටමින් සිටි විසි හැවිරිදි තරුණයකු හදිසියේම අසනීපවී මරුමුවට පත්වී ඇති බව අම්බලන්ගොඩ පොලීසිය කියයි.
+
+මරුමුවට පත්ව ඇත්තේ ඇත්කඳුර තණබද්දෙගම පදිංචි පී.එම්.මහීෂ ප්‍රභාෂණ නමැති විසි හැවිරිදි තරුණයෙකි.
+
+පෙරහර මාදම්පේ නගරය හරහා වීථි සංචාරය කරමින් සිටියදී කාවාඩි  නර්තනයේ යෙදී සිටි තරුණයා රෝගාතුර වීමෙන් පසු බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ.
+
+ක්‍රිකට් ක්‍රීඩකයෙක් වන මිය ගිය තරුණයාට කිසිදු බෝනොවන රෝගයක් නොතිබූ බවත් තරුණයා මිය යාම අදහා ගැනීමට බැරි බව පවුලේ ඥාතීහු කියති. අම්බලන්ගොඩ පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/382fdbf7.json)
 
 ---
 
@@ -151,19 +303,21 @@ Meanwhile, the Disaster Management Center (DMC) stated that two cows were killed
 
 ---
 
-### දිස්ත්‍රික්ක පහකට නාය අනතුරු
+### Lands accident to five districts
 
 *2025-10-04 19:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දසතරකක-පහකට-නය-අනතර/101-680738) · `si`
 
-පවතින අධික වර්ෂාවත් සමඟ ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනය මගින් අද (4) පස්වරු 6.00 සිට හෙට (5) පස්වරු 6.00 දක්වා දිස්ත්‍රික්ක පහක ප්‍රාදේශීය ලේකම් කොට්ඨාස 10කට නායයාමේ පුර්ව අනතුරු හැගවීමේ පනිවිඩ නිකුත් කර ඇත .
+With the excessive heavy rains, the National Building Research Institute has issued a landslide warning to 10 Divisional Secretariats in five districts tomorrow (4) at 6.00 pm.
 
-බදුල්ල දිස්ත්‍රික්කයේ බදුල්ල, ඇල්ල ,හාලිඇල , පස්සර, මොණරාගල දිස්ත්‍රික්කයේ බිබිළ , බඩල්කුබුර , නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ , කුරුණෑගල දිස්ත්‍රික්කයේ නාරම්මල , සහ මාතලේ දිස්ත්‍රික්කයේ උකුවෙල, රත්තොට යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන් සදහා මෙසේ නායයාමේ පුණ අනතුරු පනිවිඩ අද 4 පස්වරුවේ නිකුත් කරනු ලැබූහ.
+The landslides were issued today 4 pm on the Badulla, Ella, Hali-Ela, Passara, Kurunegala District, Kotmale, Kurunegala District, Kothuwela, and Matale District.
 
-මේ අතර අද (4) පස්වරුවේ පතිත වූ ධාරානිපාත වර්ෂාවත් සමග අකුණු සැර වැදීමෙන්  හාලිඇල උඩුගම ප්‍රදේශයේ ගවයින් දෙදෙනකු මිය ගිය බවත් ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+Meanwhile, the Disaster Management Center (DMC) stated that two cows were killed in the Lightning Rahara, Hali, Hali, Hali, Haliela.
 
 ◼️
 
 [Data](articles/741e3c87.json)
+
+[Extended Data](ext_articles/741e3c87.ext.json)
 
 ---
 
@@ -241,23 +395,25 @@ Family Relatives say that he had no other non-communicable diseases and the deat
 
 ---
 
-### පෙරහරේ කාවඩි නටමින් සිටි තරුණයා ඇද වැටී මරුට
+### Youth dances falling down by Kavadi at Perahera
 
 *2025-10-04 18:58:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පරහර-කවඩ-නටමන-සට-තරණය-ඇද-වට-මරට/101-680737) · `si`
 
-අම්බලන්ගොඩ විහාරස්ථානයක් සංවිධානය කර තිබූ පෙරහරක කාවාඩි නටමින් සිටි 20 හැවිරිදි තරුණයකු හදිසියේම අසනීපවී මරුමුවට පත්වී ඇති බව අම්බලන්ගොඩ පොලීසිය කියයි.
+A 20-year-old youth who had been identified as a Ambalangoda temple, was suddenly being sick and said.
 
-මරුමුවට පත්වී ඇත්තේ ඇත්කඳුර තණබද්දෙගම පදිංචි පී.එම්.මහීෂ පභාෂණ නමැති 20 හැවිරිදි තරුණයෙකි.
+The victim was a 20 year old youth, a 20 year old residents of Tanabaddiygama.
 
-අම්බලන්ගොඩ මාදම්පේ නගරය හරහා වීථි සංචාරය කරමින් සිටියදී කාවාඩි සංදර්ශණයේ යෙදී සිටි මේ තරුණයා නැටීමට නොහැකිව රෝගාතුර වීමෙන් පසු බලපිටිය රෝහලට රැගෙන ගෙනගිය බවද පොලීසිය කියයි.
+The young man who was engaged in the Madampe city of Ambalangoda was not taken to the Balapitiya Hospital after illnesses were unable to dance.
 
-පෙරහරේ  කාවාඩි නටමින් සිටියදී රෝගාතුරවූ මේ තරුණයා රෝහලට ඇතුලත් කරනවිටත් මිය ගොස් ඇති බවද පොලීසිය කියයි.
+The victim was admitted to the hospital when he was admitted to the hospital while he was rushed to the hospital.
 
-ඔහුට වෙනත් කිසිදු බෝනොවන රෝගයක් නොතිබූ බවත් මෙසේ මේ තරුණයා මිය යාම අදහා ගැනීමටවත් බැරි කියාවක් බව පවුලේ ඥාතීහු කියති.
+Family Relatives say that he had no other non-communicable diseases and the death of the young man is an expression.
 
 ◼️
 
 [Data](articles/aee9c48e.json)
+
+[Extended Data](ext_articles/aee9c48e.ext.json)
 
 ---
 
@@ -1828,183 +1984,5 @@ During the trial, the judge who strongly warned the owner after the owner accept
 [Data](articles/33d3a9db.json)
 
 [Extended Data](ext_articles/33d3a9db.ext.json)
-
----
-
-### Mahinda's bullet proof vehicle is handed over by the Secretary to the President
-
-*2025-10-04 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215326) · `si`
-
-The bullet proof was handed over to the safety of former President Mahinda Rajapaksa.
-
-Mr. President Mahinda Rajapaksa said a special statement in this connection, Mr. Manojj Gamage said that the vehicle was handed over by the company yesterday (3).
-
-The Secretary to the President said that after the operation of the Clearing (Removal of the Rights Act), the Secretary to the President said.
-
-He added that the security officer's travel vehicle was also handed over to the safety of Mr. Mahinda Rajapaksa.
-
-Accordingly, Manoj Gamage points out that the life of Mahinda Rajapaksa has been at risk.
-
-"We hope to restore the necessary vendor to the security of the government and the security heads of the Defense Secretary and the Defense Secretary," Manoj Gamage said.
-
-◼️
-
-[Data](articles/428cf9c8.json)
-
-[Extended Data](ext_articles/428cf9c8.ext.json)
-
----
-
-### Two traders sold at a higher price
-
-*2025-10-04 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215325) · `si`
-
-The Kalutara and Panadura Magistrate Judicial have been ordered to pay a fine of Rs.
-
-Horana Magistrate also ordered to cast a fine of 5 kilograms of Rs.
-
-It is reported that these orders were issued by the Magistrate Court in the area yesterday (03).
-
-The Kalutara Magistrate's Court yesterday (03) was fined by a shop in the Nagoda area.
-
-Meanwhile, Panadura Magistrate's Court has ordered a kilo of Kratha Samba rice at Rs. 300.
-
-The Panadura Magistrate's Court has made this order on the 2st.
-
-◼️
-
-[Data](articles/cee49108.json)
-
-[Extended Data](ext_articles/cee49108.ext.json)
-
----
-
-### Driver hospitalized after a lorry collided with train
-
-*2025-10-04 11:43:58* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලර-රථයක-දමරය-ගට-රයදර-රහලට/101-680725) · `si`
-
-A small lorry train operated from the Train by the Ahangama cultivation was rushed to the Karapitiya hospital with the injuries of the train.
-
-The lorry kiper to Beliatta from Maradana to Beliatta has hit the train to travel to Beliatta to Beliatta to Beliatta.
-
-The lorry was sitting out on the front seat and lived out and the driver was stuck in lorry. Later, along with the residents of the area, the driver had been sent to the Karapitiya Hospital.
-
-◼️
-
-[Data](articles/b66cd454.json)
-
-[Extended Data](ext_articles/b66cd454.ext.json)
-
----
-
-### Driver hospitalized after a lorry collided with train
-
-*2025-10-04 11:43:58* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලර-රථයක-දමරය-ගට-රයදර-රහලට/1-680725) · `si`
-
-A small lorry train operated from the Train by the Ahangama cultivation was rushed to the Karapitiya hospital with the injuries of the train.
-
-The lorry kiper to Beliatta from Maradana to Beliatta has hit the train to travel to Beliatta to Beliatta to Beliatta.
-
-The lorry was sitting out on the front seat and lived out and the driver was stuck in lorry. Later, along with the residents of the area, the driver had been sent to the Karapitiya Hospital.
-
-◼️
-
-[Data](articles/63bd0f16.json)
-
-[Extended Data](ext_articles/63bd0f16.ext.json)
-
----
-
-### Easy Disappearance in Little Counsels: Some of them were released
-
-*2025-10-04 11:38:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පච-සභවල-වහන-දහක-අතරදන-සමහර-ඒව-මස-කරල/1-680724) · `si`
-
-More than a thousand vehicles in the local government councils including the Provincial Councils and Urban Council Pradeshiya Sabha said that more than a thousand vehicles were reported missing.
-
-Sources say that many vehicles are not able to find any vehicles, there is a strong suspicion that some vehicles have been sold.
-
-When we inquired from Minister of Public Administration and Local Government, Dr. Chandana Abeyratne, said that he was carrying out any secret investigation into the following vehicles.
-
-The Ministry requests that if these vehicles are detained in any or in any place, the Ministry requests them to take immediate action.
-
-The ministry says that the law is being implemented against the persons who are arrested without his hand without handed place.
-
-Audit sections also conduct a separate investigation into the disappearance of vehicles of local authorities.
-
-...
-
-[Data](articles/b48debba.json)
-
-[Extended Data](ext_articles/b48debba.ext.json)
-
----
-
-### Easy Disappearance in Little Counsels: Some of them were released
-
-*2025-10-04 11:38:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පච-සභවල-වහන-දහක-අතරදන-සමහර-ඒව-මස-කරල/101-680724) · `si`
-
-More than a thousand vehicles in the local government councils including the Provincial Councils and Urban Council Pradeshiya Sabha said that more than a thousand vehicles were reported missing.
-
-Sources say that many vehicles are not able to find any vehicles, there is a strong suspicion that some vehicles have been sold.
-
-When we inquired from Minister of Public Administration and Local Government, Dr. Chandana Abeyratne, said that he was carrying out any secret investigation into the following vehicles.
-
-The Ministry requests that if these vehicles are detained in any or in any place, the Ministry requests them to take immediate action.
-
-වාහන බාර නොදී කිසියම් ස්ථානයක තිබී අත්අඩංගුවට ගැනුණහොත් ඒවා ළඟ තබාගෙන සිටින පුද්ගලයන්ට එරෙහිව   නීතිය ඉතා දැඩිව   ක්‍රියාත්මක කරන බව  අමාත්‍යාංශය පවසයි.
-
-Audit sections also conduct a separate investigation into the disappearance of vehicles of local authorities.
-
-...
-
-[Data](articles/c36ecc39.json)
-
-[Extended Data](ext_articles/c36ecc39.ext.json)
-
----
-
-### Yall. We have a responsibility to bring young people into honesty and disciplined condition; Sri Bhavanandarajah
-
-*2025-10-04 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226863) · `ta`
-
-The people of Jaffna were once named for education, discipline, honesty, dignity and labor. But in the past regimes, the use of drugs and telephone use is deteriorating. So we have a responsibility to bring them into a good situation.
-
-He was speaking at the Virtue Day event held on Friday (03) organized by the Jaffna - Sanganai North Pradeshiya Society.. There he further stated,
-
-Everyone knows how social changes are taking place. Lack of morality is the reason for all this. The discipline started in the family and then spread to the village, and it should move towards the country. They are headed by the activities of old governments.
-
-In the past government, politicians have obtained liquor sanctions in Kilinochchi and Jaffna. Brewery are more than dining shops.
-
-The source of a large political party has brought drugs to the south to create a drug factory.
-
-This was overlooked by the last governments.  But our president has taken appropriate action and arrested everyone.
-
-...
-
-[Data](articles/2556f6f7.json)
-
-[Extended Data](ext_articles/2556f6f7.ext.json)
-
----
-
-### Mathisaba Cantima 'salad' stay
-
-*2025-10-04 11:35:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතසබ-කනටම-සලද-නවත/1-680723) · `si`
-
-The collection of lettuces have been temporarily halted in parliament
-
-Dr. Jagath Wickramaratne has stopped eating lettuce as a result of the death of salad due to the debit treatment due to deaths
-
-Commenting in this regard says Parliament servants say that the supply of lettuce has been suspended from the day
-
-Meanwhile, the Speaker has appointed a special committee to submit the recommendations of the correction of the kitchen flames of Parliament. Most people are displeased with the appointment of the committee's heads of the same kitchen.
-
-The Hon.
-
-◼️
-
-[Data](articles/5019bbe6.json)
-
-[Extended Data](ext_articles/5019bbe6.ext.json)
 
 ---

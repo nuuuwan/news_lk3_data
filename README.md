@@ -1,85 +1,297 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 15:55:40**
+As of **2025-10-04 16:20:35**
 
 ## Newspaper Stats
 
-*Scraped **81,063** Articles*
+*Scraped **81,089** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 587
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 758
+lankadeepalk | 761
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,775
-adaderanalk | 10,428
+adaderanalk | 10,434
 tamilmirrorlk | 12,044
-virakesarilk | 13,294
-adaderanasinhalalk | 13,945
+virakesarilk | 13,310
+adaderanasinhalalk | 13,946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,060 (100.0%) of 81,063 articles have been extended.
+81,084 (100.0%) of 81,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### ඉන්දීය එක්දින නායකත්වයත් ශුබ්මන් ගිල්ට
+### A heavy rain over 100 mm
+
+*2025-10-04 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215336) · `si`
+
+Thundershowers will develop at several places in the island this afternoon, the Met Department said.
+
+The Department said in some locations in the North-Central, Sabaragamuwa, Central, Uva and Eastern Provinces. Heavy showers can occur at more than 100.
+
+Showers or thundershowers will occur at several places in the island in many parts of the island.
+
+The Meteorological Department urges the public to take necessary steps to reduce the calamity of strong winds, strong winds and strong lightning.
+
+◼️
+
+[Data](articles/0a207b04.json)
+
+[Extended Data](ext_articles/0a207b04.ext.json)
+
+---
+
+### The struggle of pearl peasants that continue for the 18th day
+
+*2025-10-04 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226885) · `ta`
+
+Muthu Nagar farmers in Trincomalee have been engaged in a continuous planetary struggle for the 18th days of Saturday (04) in the pouring rain in front of the Trincomalee District Secretariat.
+
+They are demanding the recovery of the agricultural land that has been farming for 53 years as the land of the Sri Lanka Department of Sri Lanka for solar power to produce solar power.
+
+About 800 acres of land grabbing on the pearl land of Muthu Nagar has been cleaned up for more than two hundred acres and has been acquired for solar power.
+
+As a result of this, they have said that they have been affected by the life -threatening agriculture.
+
+Today, the Women's Movement for Independence has joined the Sathiyak Planet struggle and showed the banner such as "We will unite for the struggle of pearls of pearls".
+
+In this case, many struggles to obtain the agricultural land have been reported to the farmers who fought from the Presidential Secretariat to the Prime Minister's Office.
+
+...
+
+[Data](articles/2c225862.json)
+
+[Extended Data](ext_articles/2c225862.ext.json)
+
+---
+
+### Zoubman Gill
 
 *2025-10-04 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215335) · `si`
 
-ඉන්දීය කණ්ඩායමේ එළැඹෙන ඔස්ට්‍රේලියානු තරග සංචාරයේ එක්දින කණ්ඩායමේ නායකත්වයට ශුබ්මන් ගිල් පත්කර ඇත.
+The Leader of the ODI leader Rohman Gil has been named with the leadership of the ODI team.
 
-එක්දින (තරග 3) හා විස්සයි20 (තරග 5) තරගාවලියක් සඳහා ඉන්දීය කණ්ඩායම මෙම මස දී ඔස්ට්‍රේලියාවේ තරග සංචාරයක නිතර වේ.
+The Indian team is scheduled to commence the tour of Australia for a tournament with three ODIs and 5 Twenty20s.
 
-ඒ අනුව ටෙස්ට් සහ විස්සයි20 කණ්ඩායම්වල ද නායකත්වය දරා ඇති ගිල් එක්දින කණ්ඩායමේ නායකයා ලෙස කටයුතු කරන පළමු තරගාවලිය මෙය වනු ඇත.
+The ODI squad was named today (4), and the Sugubeman is the leader of the Sanga.
+
+However, he has been removed from the leadership, but he has been named to the ODI squad. In addition, Vierage Callers have been named.
+
+The cup of the championships held in March this year is not the case with Rohit and Kohli representing India.
+
+Twenty20 World Cup wickets in 2024, Virat Kohmy and Rohith Sharma were working to the T20 and then Tests.
 
 ◼️
 
 [Data](articles/9790b7a4.json)
 
+[Extended Data](ext_articles/9790b7a4.ext.json)
+
 ---
 
-### තුන් ගුණයකින් ඉහළ දැමූ බව කියන ජනාධිපතිවරයාගේ වැය ශීර්ෂය ගැන ඇමති අනිල් ජයන්ත කළ පැහැදිලි කිරීම
+### Explain to Minister Anil Jayantha about the header of the president of the president who allegedly increased
 
 *2025-10-04 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215334) · `si`
 
-2026 වසර සඳහා වූ ජනාධිපතිවරයාගේ වැය ශීර්ෂය තුන් ගුණයකින් ඉහළ දමා ඇතැයි සමාජ මාධ්‍ය හරහා පළවන පුවත් සම්බන්ධව කම්කරු සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත මහතා විසින් කරුණු පැහැදිලි කිරීමක් සිදුකර තිබේ.
+Deputy Minister of Labor and Economic Development Dr. Anil Jayantha has explained the President's spending head for 2026.
 
-ඒ අනුව අමාත්‍යවරයා පෙන්වා දෙන්නේ අදාළ තොරතුරු වැරදි සහගත බවත් එය සමාජය නොමග යවන සුළු බවත්ය.
+Accordingly, the Minister pointed out that the information is wrong and that it is misleading.
 
-මේ සම්බන්ධව වැඩිදුරටත් කරුණු පැහැදිළි කළ  කම්කරු සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත මහතා,
+Deputy Minister of Labor and Economic Development Dr. Anil Jayantha, who explained further facts on this matter.
 
 ...
 
 [Data](articles/11d899a1.json)
 
+[Extended Data](ext_articles/11d899a1.ext.json)
+
 ---
 
-### අඹුසැමි යුවළකට දිවි අහිමි කළ මාරක අනතුර
+### The fatal accident who lost his lives for a couple
 
 *2025-10-04 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215333) · `si`
 
-හොරණ මොරගහහේන මාර්ගයේ, මොරගහහේන කනන්විල ප්‍රදේශයේ අද (04) දහවල් සිදුවූ රිය අනතුරකින් අඹු සැමි යුවළක් මියගොස් තිබේ.
+A couple has died in an accident in Moragahahena Junction, Horana Moragahahena.
 
-මොරගහහේන දෙස සිට හොරණ දෙසට ගමන් කළ ලොරි රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරු පැදියක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+The accident had occurred when a lorry traveled to Horana from Moragahahena towards Horana.
 
-අධික වේගයෙන් ධාවනය වූ යතුරුපැදිය පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයේ ලිස්සා ගොස් අනෙක් මංතීරුවේ ධාවනය වූ ලොරි රථයේ ගැටී තිබේ.
+The bouting of the high speed motorcycle slips cannot be controlled and slipped in the lorry, which was running in the other lane.
 
-ඉන් බරපතළ තුවාල ලැබූ යතුරුපැදියේ ගමන් කළ අඹුසැමි යුවළ රෝහල්ගත කරන විටත් මියගොස් සිටි බව පොලිසිය පැවසුවේය.
+Police said that the couple died in hospital at the hospital.
 
 ◼️
 
 [Data](articles/30b67107.json)
+
+[Extended Data](ext_articles/30b67107.ext.json)
+
+---
+
+### PUCSL to decide on CEB’s proposed electricity tariff hike by Mid-October
+
+*2025-10-04 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/113213/pucsl-to-decide-on-cebs-proposed-electricity-tariff-hike-by-mid-october) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) has announced that it will issue its decision on the Ceylon Electricity Board’s (CEB) proposal to increase electricity tariffs by the end of the second week of this month.
+
+The CEB submitted the proposal to the PUCSL on 10 September 2025, requesting a 6.8% increase in electricity tariffs.
+
+Accordingly, the PUCSL commenced obtaining the public opinions through public consultations in the Eastern Province on the 18 September, 2025.
+
+The PUCSL has received public comments from eight provinces across the island, with participation exceeding 500 people, PUCSL’s Director of Communications, Jayanath Herath, stated.
+
+He further stated that the final session for public consultations will be held on 8 October 2025, focusing on the Western Province.
+
+...
+
+[Data](articles/a0ba2d60.json)
+
+[Extended Data](ext_articles/a0ba2d60.ext.json)
+
+---
+
+### Redemption after Sri Lanka's economic crisis is strong: debt restoration will be completed -IMF
+
+*2025-10-04 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226881) · `ta`
+
+The International Monetary Fund (IMF) said Sri Lanka's economic reform program continues to make interesting improvement.
+
+The expanded financial facility is reported to have reached a strong position for the retrieval of the IMF by the International Monetary Fund.
+
+Speaking at a press conference held in Washington on October 2, the IMF Director Julie Kozak said Sri Lanka's inflation is low and the government's revenue has improved.
+
+Budget Revenue - GDP has improved from 8.2 per cent in 2022 to 13.5 per cent, but it is still a significant increase, but the IMF director Julie Kozak said.
+
+At the same time, he noted that the country's debt restructuring process is “almost completed”.
+
+On July 1, the International Monetary Fund has completed its fourth value of Sri Lanka's EFF arrangement.
+
+Gossak has confirmed that the IMF is currently working in Sri Lanka to conduct the Fifth Value of EFF.
+
+◼️
+
+[Data](articles/6189c731.json)
+
+[Extended Data](ext_articles/6189c731.ext.json)
+
+---
+
+### Afghan Taliban foreign minister to visit India for first time
+
+*2025-10-04 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/113212/afghan-taliban-foreign-minister-to-visit-india-for-first-time) · `en`
+
+Afghanistan’s Taliban foreign minister will visit India this month after the UN Security Council Committee temporarily lifted a travel ban, Kabul’s foreign ministry confirmed to AFP on Saturday (Oct 4).
+
+Amir Khan Muttaqi will become the first senior Taliban leader to visit India since they returned to power in 2021 following the withdrawal of the US military.
+
+The foreign ministry told AFP the minister would go to India “after the Moscow summit” on Oct 7, which includes representatives from China, India, Iran and Central Asian nations.
+
+The UN Security Council Committee has granted an exemption to the travel ban on Muttaqi, who is under UN sanctions, to allow him to visit New Delhi between Oct 9 and 16.
+
+India’s point-person on Afghanistan Anand Prakash visited Kabul in April to discuss political and trade relations.
+
+Russia is the only country so far to have officially recognised the Taliban government, which has imposed a strict version of Islamic law.
+
+...
+
+[Data](articles/3b7c7d3e.json)
+
+[Extended Data](ext_articles/3b7c7d3e.ext.json)
+
+---
+
+### Student admitted to hospital in Jaffna
+
+*2025-10-04 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226876) · `ta`
+
+The student has been admitted to the Jaffna Hospital in a face and head injury when a teacher at the same school at the same school at the same school in a school in Jaffna.
+
+The teacher has said that the GCE Ordinary Level examination is not allowed because the student has not come to school for a few days.
+
+The student then left the knee and hit the head and face.. He has been admitted to the teaching hospital.
+
+◼️
+
+[Data](articles/de027e9a.json)
+
+[Extended Data](ext_articles/de027e9a.ext.json)
+
+---
+
+### Case against those who fought for justice in Punguduthivu
+
+*2025-10-04 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/226877) · `ta`
+
+In the first circle of Punguduthivu, on 10-08-2025, the brutal attack of the sword gang was killed by a private bus owner on 15-10-2025 on 15-10-2025.
+
+From the day the bus owner was killed to the fifth day of the burial, the murderers were not found and the murderers were not found.
+
+Volunteer organizations such as the Diwakam Civil Society, the Punguduthivu World Center and the Punguduthivu Private Bus Service Association supported the struggle for the struggle.. On that day, the Punguduthivu Private Bus Service Association was also working on the workforce.
+
+2- Legal action should be taken against the two other persons who have been bribed to visit the house of the man who has been killed with him and the victim of the police officer.
+
+4- The Punguduthivu Madathuveli and Mandi Island Junction Police checkpoints, which have already been in effect until last year, should be re-implemented.
+
+...
+
+[Data](articles/42c6ec5f.json)
+
+[Extended Data](ext_articles/42c6ec5f.ext.json)
+
+---
+
+### Two killed in a lorry in lorry
+
+*2025-10-04 14:44:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/යතරපදයක-ලරයක-ගට-දදනක-මරට/101-680729) · `si`
+
+Horana, a couple, has died in the Moragahawila Temple in Horana Moragahawila temple today, a lorry couple.
+
+The deceased is a couple named Manushka and Chathurika Apsra, aged 21 and 24, a resident of Moragahahena.
+
+The motorbike, which was traveling from Moragahahena main road from Moragahahena main road from Moragahahena, Horana towards Horana.
+
+Residents of the area hospitalized after the accident and the injured couple were killed in admission to the hospital.
+
+◼️
+
+[Data](articles/290e2b51.json)
+
+[Extended Data](ext_articles/290e2b51.ext.json)
+
+---
+
+### Mahinda Rajapaksa handed over his security vehicle
+
+*2025-10-04 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226878) · `ta`
+
+Former President Mahinda Rajapaksa has re -handed over his security vehicle to the government, said Mahinda Rajapaksa's media spokesman Manoj Kamage.
+
+Mahinda Rajapaksa's media spokesman Manoj Kamage said that the operation to hand over the security vehicle was taken on Friday (03).
+
+This security vehicle was used to be safe from shooting and other dangers.
+
+Manoj Kamage has said that Mahinda Rajapaksa's security has caused the security vehicle to be handed over to the government.
+
+Following the government's bill to cancel the presence of former presidents, the government passed away from the State Residence in the Colombo Wijerama Mawatha, where former President Mahinda Rajapaksa was passed away in Parliament on September 10 and moved to Calton's residence in Hambantota - Thangal.
+
+It is noteworthy that many politicians, parliamentarian and family members visited the Calton House to meet Mahinda Rajapakse after he moved to the Calton residence in Tangalle.
+
+◼️
+
+[Data](articles/4112e89e.json)
+
+[Extended Data](ext_articles/4112e89e.ext.json)
 
 ---
 
@@ -100,6 +312,28 @@ The Department of Meteorology asks the public to take necessary steps to reduce 
 [Data](articles/c9106b8a.json)
 
 [Extended Data](ext_articles/c9106b8a.ext.json)
+
+---
+
+### Chance to appoint Sane Takachi as Japan's first woman prime minister!
+
+*2025-10-04 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226875) · `ta`
+
+International media reports that Japan's ruling conservative party, the Liberal Democratic Party (LDP), has chosen Sanae Takaichi as its new leader.
+
+International media reports that 64 -year -old Sane Takichi is likely to be appointed as the first female prime minister in Japan.
+
+A referendum to elect a new prime minister will be held in Parliament in the country on October 15.
+
+In a country that is worse in gender equality internationally, Takachi has made history as the first female leader of the ruling conservative Liberal Democratic Party in Japan.
+
+Takachi, a former Prime Minister of British Prime Minister Margaret Thatcher, is the disciple of the radical conservative perspective of former Japanese Prime Minister Shinzo Abe and is a regular attendant at the Yasukuni Temple, which is considered to be a symbol of Japan's war militarism.
+
+...
+
+[Data](articles/2aa5337b.json)
+
+[Extended Data](ext_articles/2aa5337b.ext.json)
 
 ---
 
@@ -124,6 +358,26 @@ The belief in the country and foreign investors have increased in the face of po
 [Data](articles/8932886b.json)
 
 [Extended Data](ext_articles/8932886b.ext.json)
+
+---
+
+### Lorry traveled at high speed; A schoolgirl who died miserably
+
+*2025-10-04 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226873) · `ta`
+
+A school student was killed in an accident at the road at the Gampaha - Minuwangodai road, Gampaha police said.
+
+The accident occurred when a lorry collided with a schoolgirl who was traveling on the road and crashed into a car and a three -wheeler, police said.
+
+Gampaha police said that a schoolgirl who was injured in the accident died on the spot.
+
+The driver of the lorry has escaped after the accident.
+
+◼️
+
+[Data](articles/60116934.json)
+
+[Extended Data](ext_articles/60116934.ext.json)
 
 ---
 
@@ -275,6 +529,50 @@ Accordingly, the final report on the revision of the electricity tariff is due t
 
 ---
 
+### Fines for merchants who sold Keishamba rice at high prices
+
+*2025-10-04 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226868) · `ta`
+
+The Kalutara and Panadura Magistrate's Courts have ordered two traders accused of selling Girisamba rice at high prices.
+
+At the same time, the Horana Magistrate has ordered a fines of Rs 20,000 for covering up the reserves of Kirisamba rice for a businessman in the Horana - Imported area.
+
+The magistrate has also ordered the confiscation of 25 kilograms of Keesamba rice packs in the possession of the businessman.
+
+Meanwhile, the Kalutara - Nagoda shop owner has been fined Rs.
+
+In addition, the Panadura Magistrate's Court has fined Rs.
+
+◼️
+
+[Data](articles/df12fa08.json)
+
+[Extended Data](ext_articles/df12fa08.ext.json)
+
+---
+
+### Sri Lanka’s post-crisis recovery strong, debt restructuring nearly complete – IMF
+
+*2025-10-04 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113211/sri-lankas-post-crisis-recovery-strong-debt-restructuring-nearly-complete-imf) · `en`
+
+The International Monetary Fund (IMF) says Sri Lanka’s economic reform program continues to make “impressive progress,” with the country showing strong signs of recovery under the Extended Fund Facility (EFF) arrangement.
+
+Speaking at a press briefing in Washington on October 2, IMF Communications Director Julie Kozack said Sri Lanka’s inflation remains low, government revenue collection has improved, and international reserves continue to rise.
+
+She noted that the post-crisis economic rebound has been significant, with growth reaching 5 percent in 2024.
+
+“The revenue-to-GDP ratio in the budget improved to 13.5 percent of GDP from 8.2 percent in 2022, which is also a significant increase, although still work to be done,” Kozack stated, adding that the country’s debt restructuring process is “nearly complete.”
+
+The IMF Board completed the Fourth Review of Sri Lanka’s EFF arrangement on July 1, releasing US$350 million in support and bringing total disbursements to US$1.74 billion.
+
+...
+
+[Data](articles/3572d6f8.json)
+
+[Extended Data](ext_articles/3572d6f8.ext.json)
+
+---
+
 ### Draft Amendments on Corporal Punishment of Children Not Yet Law – Says Minister of Justice
 
 *2025-10-04 13:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/draft-amendments-on-corporal-punishment-of-children-not-yet-law-says-minister-of-justice) · `en`
@@ -333,6 +631,92 @@ Overall, the program performance is strong. The government is committed to the o
 
 ---
 
+### Japan’s Takaichi set to become country’s first female PM
+
+*2025-10-04 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113210/japans-takaichi-set-to-become-countrys-first-female-pm) · `en`
+
+Japan’s ruling party picked conservative nationalist Sanae Takaichi as its new head on Saturday, putting her on course to become the country’s first female prime minister.
+
+The Liberal Democratic Party elected Takaichi, 64, to regain trust from a public angered by rising prices and drawn to opposition groups promising big stimulus and clampdowns on foreigners.
+
+A vote in parliament to choose a prime minister to replace Shigeru Ishiba is expected to be held on October 15.
+
+The new LDP president is likely to succeed Shigeru Ishiba as leader of the world’s fourth-biggest economy because the party, which has governed Japan for almost all the postwar period, is the biggest in parliament. But this is not assured as the party and its coalition partner lost their majorities in both houses under Ishiba in the past year.
+
+...
+
+[Data](articles/488a940b.json)
+
+[Extended Data](ext_articles/488a940b.ext.json)
+
+---
+
+### Bulletproof vehicle provided for Mahinda Rajapaksa’s security returned
+
+*2025-10-04 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113209/bulletproof-vehicle-provided-for-mahinda-rajapaksas-security-returned) · `en`
+
+The bulletproof vehicle provided for the security of former President Mahinda Rajapaksa has been returned.
+
+Issuing a special statement, Mahinda Rajapaksa’s media spokesperson, Attorney-at-Law Manoj Gamage, stated that the vehicle was returned yesterday (3) through the relevant company.
+
+Gamage further noted that following the enactment of the Presidents’ Entitlements (Repeal) Act, the Presidential Secretary had informed on September 24 that all official vehicles and the official residence of the fifth Executive President, Mahinda Rajapaksa, need to be handed over.
+
+He added that the passenger vehicle assigned for the use of the security officers attached to the former President was also returned.
+
+According to Gamage, this situation has placed Mahinda Rajapaksa’s life at risk.
+
+“We hope to meet with the IGP, the Defence Secretary, and the heads of security forces next week to request the necessary vehicles required for Mahinda Rajapaksa’s security,” Gamage stated.
+
+◼️
+
+[Data](articles/81394219.json)
+
+[Extended Data](ext_articles/81394219.ext.json)
+
+---
+
+### Two vendors fined for selling ‘Keeri Samba’ at inflated prices
+
+*2025-10-04 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113208/two-vendors-fined-for-selling-keeri-samba-at-inflated-prices) · `en`
+
+Two traders found guilty of selling Keeri Samba rice at inflated prices have each been fined Rs. 100,000, in orders issued by the Kalutara and Panadura Magistrate’s Courts.
+
+Meanwhile, the Horana Magistrate has ordered a fine of Rs. 20,000 on a trader in Poruwadanda, Horana, for concealing stocks of Keeri Samba rice, along with the confiscation of the 25-kilogram packs in the trader’s possession.
+
+The Kalutara Magistrate’s Court yesterday (03) imposed a fine of Rs. 100,000 on a shop owner in Nagoda, Kalutara, after admitting the selling of Keeri Samba rice at Rs. 310 per kilogram, Ada Derana reporter said.
+
+Additionally, the Panadura Magistrate’s Court has imposed a fine of Rs. 100,000 on a shop in the Sarikkamulla area of Panadura for selling Keeri Samba rice at Rs. 300 per kilogram.
+
+The Magistrate’s Courts in the respective areas has issued these orders on 02 October, 2025 and yesterday (03), Ada Derana reporter said.
+
+◼️
+
+[Data](articles/5ae57e14.json)
+
+[Extended Data](ext_articles/5ae57e14.ext.json)
+
+---
+
+### The work of removing illegal land and buildings is the beginning of Kinniya
+
+*2025-10-04 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226864) · `ta`
+
+In many areas under the Kinniya Divisional Secretariat, the removal of illegal lands and buildings and the state -owned event was held on Friday (03) in the presence of the Kinniya Divisional Secretary MH MH MH MM.
+
+Lands and buildings illegally obtained in the Kinniya Kachakkodu Island area were taken by the Kinniya Divisional Secretary under the Land Excellence Act in 1979 and the registrar Biskal Oder was issued by the Registrar Biscal Oder.
+
+The buildings are being carried out with the help of the police, even though the illegal land builders were involved in the event.
+
+A stadium that the youth has been playing on the island of Kodakkodu has been nationalized from the illegal seizure. During this event, a large number of young people gathered.  This illegal building is ongoing.
+
+◼️
+
+[Data](articles/c8db1245.json)
+
+[Extended Data](ext_articles/c8db1245.ext.json)
+
+---
+
 ### Another match participating in the Women's World Cup today
 
 *2025-10-04 12:20:01* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-ලෝක-කුසලානයේ-ශ්‍රී-ලංකාව-සහභාගී-වන-තවත්-තරගයක්-අද/11-418906) · `si`
@@ -344,6 +728,28 @@ Another match will be held in the Women's ODI World Cup today (04).
 [Data](articles/60eb6d72.json)
 
 [Extended Data](ext_articles/60eb6d72.ext.json)
+
+---
+
+### World Animals Day Today
+
+*2025-10-04 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226865) · `ta`
+
+World Animal Day is celebrated on the 04th of October every year.
+
+Francis Azizi's commemoration day is celebrated as a natural enthusiast and deity of animals.
+
+World Animal Day was declared on 04 October 1925.
+
+This day is celebrated with the aim of raising awareness of the importance of animals and protecting them.
+
+It is the duty of humans to protect the extinct animal species in the world. So we will protect and maintain animals.
+
+◼️
+
+[Data](articles/657281b9.json)
+
+[Extended Data](ext_articles/657281b9.ext.json)
 
 ---
 
@@ -366,6 +772,26 @@ The Meteorological Department urges the public to take necessary steps to minimi
 [Data](articles/f069492e.json)
 
 [Extended Data](ext_articles/f069492e.ext.json)
+
+---
+
+### The owner of selling food with rat residues in Jaffna
+
+*2025-10-04 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226855) · `ta`
+
+The owner of the supermarket has been fined 60 thousand rupees on charges of selling food items with rat residues in Point Pedro.
+
+The action was taken during a raid carried out by the Public Health Inspector at the food manipulation and supermarkets in the area under the rule of the Point Pedro Urban Council.
+
+A suit was filed against the owner of the supermarket in the case of selling beetle foods, outdated foods, foods with rat residues and fungi foods.
+
+During the trial, the judge who strongly warned the owner after the owner accepted the allegation against him, sentenced the owner to a fine of Rs 60,000.
+
+◼️
+
+[Data](articles/33d3a9db.json)
+
+[Extended Data](ext_articles/33d3a9db.ext.json)
 
 ---
 
@@ -419,6 +845,24 @@ The Panadura Magistrate's Court has made this order on the 2st.
 
 ### Driver hospitalized after a lorry collided with train
 
+*2025-10-04 11:43:58* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලර-රථයක-දමරය-ගට-රයදර-රහලට/101-680725) · `si`
+
+A small lorry train operated from the Train by the Ahangama cultivation was rushed to the Karapitiya hospital with the injuries of the train.
+
+The lorry kiper to Beliatta from Maradana to Beliatta has hit the train to travel to Beliatta to Beliatta to Beliatta.
+
+The lorry was sitting out on the front seat and lived out and the driver was stuck in lorry. Later, along with the residents of the area, the driver had been sent to the Karapitiya Hospital.
+
+◼️
+
+[Data](articles/b66cd454.json)
+
+[Extended Data](ext_articles/b66cd454.ext.json)
+
+---
+
+### Driver hospitalized after a lorry collided with train
+
 *2025-10-04 11:43:58* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලර-රථයක-දමරය-ගට-රයදර-රහලට/1-680725) · `si`
 
 A small lorry train operated from the Train by the Ahangama cultivation was rushed to the Karapitiya hospital with the injuries of the train.
@@ -459,6 +903,30 @@ Audit sections also conduct a separate investigation into the disappearance of v
 
 ---
 
+### Yall. We have a responsibility to bring young people into honesty and disciplined condition; Sri Bhavanandarajah
+
+*2025-10-04 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226863) · `ta`
+
+The people of Jaffna were once named for education, discipline, honesty, dignity and labor. But in the past regimes, the use of drugs and telephone use is deteriorating. So we have a responsibility to bring them into a good situation.
+
+He was speaking at the Virtue Day event held on Friday (03) organized by the Jaffna - Sanganai North Pradeshiya Society.. There he further stated,
+
+Everyone knows how social changes are taking place. Lack of morality is the reason for all this. The discipline started in the family and then spread to the village, and it should move towards the country. They are headed by the activities of old governments.
+
+In the past government, politicians have obtained liquor sanctions in Kilinochchi and Jaffna. Brewery are more than dining shops.
+
+The source of a large political party has brought drugs to the south to create a drug factory.
+
+This was overlooked by the last governments.  But our president has taken appropriate action and arrested everyone.
+
+...
+
+[Data](articles/2556f6f7.json)
+
+[Extended Data](ext_articles/2556f6f7.ext.json)
+
+---
+
 ### Mathisaba Cantima 'salad' stay
 
 *2025-10-04 11:35:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතසබ-කනටම-සලද-නවත/1-680723) · `si`
@@ -478,6 +946,40 @@ The Hon.
 [Data](articles/5019bbe6.json)
 
 [Extended Data](ext_articles/5019bbe6.ext.json)
+
+---
+
+### මැතිසබා  කැන්ටිමේ ’’සලාද’’  නවතී
+
+*2025-10-04 11:35:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මතසබ-කනටම-සලද-නවත/101-680723) · `si`
+
+පාර්ලිමේන්තුවේ ආහාර වේලට සලාද කොළ එකතු කිරීම තාවකාලිකව  නතර වී ඇතැයි වාර්තා වේ
+
+පාර්ලිමේන්තු මුළුතැන්ගෙයි අපිරිසුදුතාව හේතුවෙන් සලාද කොළ අනුභව කිරීම නතර කළ බවට කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා කළ ප්‍රකාශයෙන් පසුව සලාද සකස් කිරීම මෙසේ නතර කර ඇත
+
+මේ සම්බන්ධයෙන් අදහස් දක්වන පාර්ලිමේන්තු සේවකයන් පවසන්නේ එම ප්‍රකාශය කළ දිනෙන් පසු දින සිට සලාද කොළ සැපයීම නතර කෙරුණු බවයි
+
+මේ අතර පාර්ලිමේන්තුවේ මුළුතැන්ගේ අඩුපාඩු නිවැරදි කිරීම සඳහා නිර්දේශ ඉදිරිපත් කිරීමට කතානායකවරයා විසින් විශේෂ කමිටුවක් පත් කරනු ලැබ ඇත. මෙම කමිටුවට එම මුළුතැන් ගේ භාර ප්‍රධානීන්ම පත්කිරීම සම්බන්ධයෙන් බොහෝ දෙනා නොසතුට පළ කරති.
+
+කතානායකවරයා  පසුගියදා පොළොන්නරුවේ පැවිදි රැස්වීමකදී ප්‍රකාශයක් කරමින් පැවසුවේ පාර්ලිමේන්තු මුළුතැන්ගේ ඉතාම අපිරිසුදු ස්ථානයක් බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ වාර්තාවෙන් පැහැදිලි වන බවයි.
+
+◼️
+
+[Data](articles/e5513988.json)
+
+---
+
+### வைக்கோலுக்கு தீ வைக்கச் சென்ற இரண்டு பிள்ளைகனின் தந்தை தீயில் கருகி உயிரிழப்பு!
+
+*2025-10-04 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226862) · `ta`
+
+பொலன்னறுவை - ஹிங்குரக்கொட, வராஹேன பிரதேசத்தில் வசிக்கும் இரண்டு பிள்ளைகனின் தந்தை ஒருவர் தனது வயலில் வைக்கோலுக்கு தீ வைக்கச் சென்ற போது தீயில் கருகி உயிரிழந்துள்ளதாக ஹிங்குரக்கொட பொலிஸார் தெரிவித்தனர்.
+
+இவர் வைக்கோலுக்குத் தீ வைப்பதற்காக தனது வயலுக்கு நேற்று சென்றுள்ளார். பின்னர் இவர் வைக்கோலுக்குத் தீ வைத்த போது அப்பகுதியில் தீ பரவல் ஏற்பட்டு அந்த இடத்திலேயே தீயில் கருகி உயிரிழந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/c5403041.json)
 
 ---
 
@@ -508,6 +1010,24 @@ The shooting at the Dehiwala Railway Station was severely injured on July 18.
 [Data](articles/0b78851e.json)
 
 [Extended Data](ext_articles/0b78851e.ext.json)
+
+---
+
+### வல்வெட்டித்துறையில் சுகாதார விதிமுறைகளை பேணாத உரிமையாளர்களுக்கு  தண்டம்
+
+*2025-10-04 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226858) · `ta`
+
+யாழ் வல்வெட்டித்துறை நகர சபையின் ஆளுகைக்கு உட்பட்ட சுகாதார விதிமுறைகளை பேணாத உணவகம் மற்றும் பல்பொருள் அங்காடிகள் ஆகியவற்றுக்கு ஒரு இலட்சத்து 60 ஆயிரம் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது.
+
+வல்வெட்டித்துறை நகர சபையின் ஆளுகைக்கு உட்பட்ட பகுதியில் உள்ள உணவகங்கள் மற்றும் பல்பொருள் அங்காடிகள் என்பவற்றில் பொது சுகாதார பரிசோதகர்கள் சோதனை நடவடிக்கையில் ஈடுபட்டனர்.
+
+அதன்போது, மனித நுகர்வுக்கு ஏற்றதல்லாத உணவு பொருட்களை விற்பனைக்கு வைத்திருந்தமை போன்ற குற்றச்சாட்டுக்களின் அடிப்படையில் மூன்று பல்பொருள் அங்காடிகளுக்கு  எதிராக பொது சுகாதார பரிசோதகரால் பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு தொடரப்பட்டது.
+
+வழக்கு விசாரணைகளின் போது உரிமையாளர்கள் தம் மீதான குற்றச்சாட்டுக்களை ஏற்றுக்கொண்டதை அடுத்து, உரிமையாளர்களை கடுமையாக எச்சரித்த நீதிமன்று, உணவக உரிமையாளருக்கு 50 ஆயிரம் ரூபாயும்,  பல்பொருள் அங்காடிகளில் உரிமையாளர்களுக்கு 40 ஆயிரம், 10 ஆயிரம் மற்றும் 60 ஆயிரம் ரூபாய் தண்டம் விதித்தது தீர்ப்பளித்தது.
+
+◼️
+
+[Data](articles/80be9dc0.json)
 
 ---
 
@@ -639,6 +1159,20 @@ Meanwhile, Trump presented a 20 -feature plan to end the Gaza War. It is said th
 
 ---
 
+### தீபாவளி வணிக நில குத்தகையால் அட்டன்-டிக்கோயா  நகர  சபைக்கு ரூ. 3.6 மில்லியன் வருமானம்
+
+*2025-10-04 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226853) · `ta`
+
+தீபாவளி பண்டிகையை முன்னிட்டு  வணிக நடவடிக்கைகளுக்காக 146 நிலங்களை குத்தகைக்கு விட்டதன் மூலம் அட்டன்- டிக்கோயா நகர சபை ரூபாய் 3.6 மில்லியனுக்கும் அதிகமாக வருமானம் ஈட்டியுள்ளது.
+
+இதன் காரணமாக ஸ்டார் சதுக்கம் மற்றும் சக்தி மண்டபத்திற்கு அருகிலுள்ள நியமிக்கப்பட்ட பகுதிகள் விதிமுறைகளின் கீழ் வர்த்தக நடவடிக்கைகளுக்காக  ஒதுக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/8911da5f.json)
+
+---
+
 ### Dehiwala shooting motorcyclist arrested
 
 *2025-10-04 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215323) · `si`
@@ -692,6 +1226,22 @@ He said that after the final session of the Western Provincial Advisory on the 8
 [Data](articles/0be2b96b.json)
 
 [Extended Data](ext_articles/0be2b96b.ext.json)
+
+---
+
+### கஜேந்திரகுமார் எம்.பிக்கும் கலாநிதி ஆறுதிருமுருகனுக்கும் இடையில் கலந்துரையாடல்
+
+*2025-10-04 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226854) · `ta`
+
+பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம், தெல்லிப்பளை துர்க்காதேவி தேவஸ்தானத்தின் தலைவரும், அகில இலங்கை இந்து மாமன்றத்தின் உப தலைவரும், ஆன்மீகத் தலைவருமான கலாநிதி ஆறு திருமுருகனை வெள்ளிக்கிழமை (03) சந்தித்து கலந்துரையாடினார்.
+
+தெல்லிப்பளை துர்க்கையம்மன் வளாகத்தில் இந்த கலந்துரையாடல் நடைபெற்றது. இச்சந்திப்பில் முன்னாள் பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரனும் கலந்துகொண்டார்.
+
+இதன்போது, அநுர அரசாங்கம் மிகவிரைவில் கொண்டுவரவுள்ள ஏக்கிய இராச்சிய (ஒற்றையாட்சி) அரசியல் யாப்பினுடைய ஆபத்துக்கள் தொடர்பில் பாராளுமன்ற உறுப்பினரால் தெளிவுபடுத்தப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/349c67cf.json)
 
 ---
 
@@ -1538,495 +2088,5 @@ Following this, he went to the Basal police station and visited the police stati
 [Data](articles/fdece35d.json)
 
 [Extended Data](ext_articles/fdece35d.ext.json)
-
----
-
-### Ranil Wickremesinghe's current government is trapped in the debt trap
-
-*2025-10-04 04:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226840) · `ta`
-
-Ranil Wickremesinghe is trapped in the trap of Ranil Wickremesinghe in a few years that any government that comes to power is unable to repay the debt installments.
-
-The United Nations Human Rights Council (UNHRC) has said that Sri Lanka is the country that has reduced debt in the world by the IMF. The government, which has issued a statement to Sri Lanka, has said that the International Monetary Fund has to do this as the International Monetary Fund. But the Monetary Fund, which has intervened in the move, has now criticized Sri Lanka's debt restructuring.
-
-That means we will have to face massive problems at 2028 and we have to pay a massive amount in 2028. At the same time decreasing debt restructuring. If we are not able to repay the debt in 2028, we will not get any relief. Calculation and interest rate will be a three -year average of 2025, 2026 and 2027, the Monetary Fund said.
-
-...
-
-[Data](articles/ac944c5d.json)
-
-[Extended Data](ext_articles/ac944c5d.ext.json)
-
----
-
-### Introduction to Ruhunu Ring website to improve tourism
-
-*2025-10-04 04:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226839) · `ta`
-
-The 'Ruhunu Ring' website was introduced by the President with the aim of connecting service providers to all the major tourist destinations of Sri Lanka, South, Uva and East.
-
-The International Tourism Leadership Conference was held on Thursday afternoon at the Bandaranaike Memorial International Conference Hall in Colombo under the patronage of President Anura Kumara Dissanayake.
-
-The conference was organized to mark the conclusion of a series of events held since September, including school competitions, research forums and industrial exhibitions, from national level to school level.. Foreign ambassadors, high -ranking, tourists and domestic and foreign scholars participated in the event.
-
-...
-
-[Data](articles/a646fbe0.json)
-
-[Extended Data](ext_articles/a646fbe0.ext.json)
-
----
-
-### The 5th phase of review on the expanded funding project is being carried out - the International Monetary Fund Notification
-
-*2025-10-04 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226838) · `ta`
-
-The Director of the International Monetary Fund Communication Division, Juli Kozak, said that a group of International Monetary Fund in Sri Lanka is currently launching a fifth phase of the expanded financial process.
-
-In response to a question raised by Julie Kossak, he said in a question raised by the IMF at a monthly press conference in Washingatan and what is the time limit for the review of Sri Lanka. He added:
-
-The Board of Directors of the Monetary Fund on the 4th Stage Monetary Fund on the Extended Finance Project with Sri Lanka was concluded on the first day of July last year.. Sri Lanka has been awarded $ 350 million to contribute to economic policies and restructuring.. The value of the funds provided to Sri Lanka by the International Monetary Fund so far increased to $ 1.74 billion.
-
-...
-
-[Data](articles/ac6b1388.json)
-
-[Extended Data](ext_articles/ac6b1388.ext.json)
-
----
-
-### President urges Maha Sangha’s guidance to restore moral fabric
-
-*2025-10-04 01:00:56* · [`dailyftlk`](https://www.ft.lk/news/President-urges-Maha-Sangha-s-guidance-to-restore-moral-fabric/56-782601) · `en`
-
-Presents Scroll of Appointment to new Anunayake of Asgiri Chapter Most Ven. Naranpanawe Ananda Thero
-
-Says rebuilding collapsed economy is possible, but restoring society suffering from moral degradation is far more difficult
-
-Notes cultural heritage, natural beauty and hospitality are its true assets to boost tourism, than short-term trends
-
-President Anura Kumara Disanayake yesterday called on the Maha Sangha to play a greater role in guiding the society through a period of deep moral and social crisis, stressing that the Government is committed to restoring values and dismantling what he described as a “parallel dark regime” of crime, drugs and illicit power.
-
-He made these remarks at the historic Magul Maduwa in Kandy, during the presentation of the Śrī Sannas Pathra (Scroll of Appointment) to the newly appointed Anunayake of the Asgiri Chapter of the Siyam Maha Nikaya, Most Venerable Naranpanawe Ananda Thero.
-
-...
-
-[Data](articles/51409517.json)
-
-[Extended Data](ext_articles/51409517.ext.json)
-
----
-
-### Former North-Central Province Governor’s hotel removed from tank reservation
-
-*2025-10-04 01:00:13* · [`dailyftlk`](https://www.ft.lk/news/Former-North-Central-Province-Governor-s-hotel-removed-from-tank-reservation/56-782600) · `en`
-
-A hotel owned by former North-Central Province Governor Maheepala Herath, located on the Peramiyankulama tank reservation, was demolished on the instructions of the Divisional Secretary as part of an ongoing effort to clear encroachments in the Anuradhapura district.
-
-Nuwaragama Palatha Divisional Secretary Sudarashana Disanayake confirmed the action, noting that a notice had been issued on 18 September to Ajantha Herath, the former Governor’s wife, directing the removal of the unauthorised structure.
-
-The Irrigation Department, supported by the Survey Department, is carrying out the Government’s program to demarcate tank reservations in the district and eliminate illegal constructions. Disanayake added that the survey of the Peramiyankulama tank reservation has now been completed.
-
-◼️
-
-[Data](articles/e43d3a51.json)
-
-[Extended Data](ext_articles/e43d3a51.ext.json)
-
----
-
-### Depositors of the On Max DT pyramid investment scheme
-
-*2025-10-04 00:59:18* · [`dailyftlk`](https://www.ft.lk/news/Depositors-of-the-On-Max-DT-pyramid-investment-scheme/56-782599) · `en`
-
-Depositors of the On Max DT pyramid investment scheme held a peaceful protest in front of the Police Headquarters yesterday, demanding the immediate release of the refund program for the depositors who have been aggrieved by their investments – Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/8a4396cf.json)
-
-[Extended Data](ext_articles/8a4396cf.ext.json)
-
----
-
-### HWPL World Peace Summit highlights global cooperation for sustainable peace
-
-*2025-10-04 00:58:32* · [`dailyftlk`](https://www.ft.lk/news/HWPL-World-Peace-Summit-highlights-global-cooperation-for-sustainable-peace/56-782598) · `en`
-
-Heavenly Culture, World Peace, Restoration of Light (HWPL), an international peace NGO, hosted the 11th HWPL World Peace Summit in Cheongju, gathering over 800 global leaders.
-
-The summit served as a platform for governments, international organisations, and civil society to share achievements and discuss future strategies for realising lasting peace.
-
-This year’s summit highlighted significant progress in three key areas. In the field of international law, HWPL’s Declaration of Peace and Cessation of War (DPCW) gained further momentum, with the Latin American and Caribbean Parliament (PARLATINO) and 16 national parliaments and government institutions officially adopting resolutions in support of the declaration.
-
-...
-
-[Data](articles/f009f545.json)
-
-[Extended Data](ext_articles/f009f545.ext.json)
-
----
-
-### 2025-10-03 (Friday)
-
-### Hayleys Travels wins Gold at South Asian Travel Awards 2025 as Leading Outbound Travel Agency
-
-*2025-10-03 23:59:03* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Travels-wins-Gold-at-South-Asian-Travel-Awards-2025-as-Leading-Outbound-Travel-Agency/34-782597) · `en`
-
-From left: Outbound Manager Belinda De Silva, Director Chamil Udawatte, Director/CEO Gerard Victoria, Director Shareek Ahmed, and Key Account Manager Manisha Siriwardena
-
-Hayleys Travels, a fully owned subsidiary of the Advantis Group, the transportation and logistics arm of Hayleys PLC, was honoured with the prestigious Gold Award for “Leading Travel Agency - Outbound” at the 9th South Asian Travel Awards (SATA) 2025, held recently at the Cinnamon Grand Colombo.
-
-The South Asian Travel Awards, recognised as the region’s premier platform celebrating excellence in tourism and hospitality, brought together industry leaders, tourism authorities, and partners from across South Asia. This year’s gala honoured 53 Gold and 113 Silver Award winners for excellence, innovation, and resilience.
-
-...
-
-[Data](articles/053d790c.json)
-
-[Extended Data](ext_articles/053d790c.ext.json)
-
----
-
-### Rotary SME conclave positions boutique hotel SMEs as tourism revival catalysts
-
-*2025-10-03 23:57:37* · [`dailyftlk`](https://www.ft.lk/business/Rotary-SME-conclave-positions-boutique-hotel-SMEs-as-tourism-revival-catalysts/34-782596) · `en`
-
-Rotary Governor Delvin Pereira (third from left) explaining how boutique SMEs can play a pivotal role in shaping the country’s tourism identity
-
-The Rotary Club of Colombo East, in collaboration with Boutiques in Sri Lanka, successfully hosted the SME Conclave Boutique Hotel Development Workshop at the 80 Club in Colombo recently. This unique initiative brought together boutique hotel owners, service providers, and tourism SME suppliers and producers to explore new strategies, tools, and opportunities to strengthen Sri Lanka’s boutique tourism sector.
-
-The workshop offered comprehensive insights into driving business growth and achieving long-term sustainability, covering strategic approaches and innovative practices, to strengthen their operations, enhance competitiveness, and create lasting value. Each session addressed a vital dimension of modern hospitality management.
-
-...
-
-[Data](articles/395bc596.json)
-
-[Extended Data](ext_articles/395bc596.ext.json)
-
----
-
-### Constitutional dictatorships – OR: is the era and ethos of ‘strongman’  governments gone for good? (1/4)
-
-*2025-10-03 23:42:16* · [`dailyftlk`](https://www.ft.lk/columns/Constitutional-dictatorships-OR-is-the-era-and-ethos-of-strongman-governments-gone-for-good-1-4/4-782589) · `en`
-
-The citizenry vote for political leaders in the hope that ‘this time’ there will be change for the better
-
-The ethos of Sri Lankan politics is such that political party leaders prefer to nominate candidates who will sweep the polls even if their ethics are questionable. In doing so, it entrenches the patron-client system in which government and citizenry are both complicit in the model of transactional politics whereby “political parties have become election and patronage machines”
-
-It has been a year since a new government voted in by the people of Sri Lanka brought the issue of types of political leadership into the forefront of reflective civics.
-
-In the dark years preceding this unprecedented regime change, the Aragalaya (‘people’s struggle’) critically engaged with a ‘strongman administration’ that promised much but delivered little. It also ended in ignominy despite the hype and hoopla of its apologists.
-
-...
-
-[Data](articles/6805c11a.json)
-
-[Extended Data](ext_articles/6805c11a.ext.json)
-
----
-
-### Fools, knaves and narratives
-
-*2025-10-03 23:38:44* · [`dailyftlk`](https://www.ft.lk/columns/Fools-knaves-and-narratives/4-782587) · `en`
-
-While these countries were transforming their economies rapidly, our ruling elite led us from one crisis to another
-
-By our basic nature, as well as ideology, we cannot claim to be a warrior race. True, there have been violent conflicts in our history, however relative to wars fought by other nations, ours appear more skirmishes than full blown wars. Wars fought against your own racial type, enemies of similar strength and disposition, could distort one’s assessment of the actual fighting prowess of an army
-
-“People don’t want to hear the truth, because they don’t want their illusions destroyed”
-
-Nepal is in flames; murder, arson, rape, looting; the once idyllic Himalayan country is now the picture of every human atrocity. Nature has blessed that land, man had failed it: corruption and incompetence doomed the realm.
-
-A story with an eerily familiar ring to us Sri Lankans, simmering frustrations of a people with nowhere to turn but violence.
-
-...
-
-[Data](articles/b34f3325.json)
-
-[Extended Data](ext_articles/b34f3325.ext.json)
-
----
-
-### Russian envoy speaks out at Pathfinder Foundation’s ‘Ambassador’s Roundtable’
-
-*2025-10-03 23:34:46* · [`dailyftlk`](https://www.ft.lk/opinion/Russian-envoy-speaks-out-at-Pathfinder-Foundation-s-Ambassador-s-Roundtable/14-782586) · `en`
-
-At the Ambassador’s Roundtable hosted by Pathfinder Foundation, the Ambassador of the Russian Federation to Sri Lanka and the Maldives, Levan S. Dzhagaryan, provided a comprehensive overview of his Government’s position on the ongoing conflict in Ukraine, NATO expansion, international law, global energy scenario and security dynamics in the region.
-
-The event brought together think tank experts and media professionals for a candid discussion on current geopolitical challenges, with a special focus on the Russia-Ukraine conflict.
-
-...
-
-[Data](articles/6a77a12d.json)
-
-[Extended Data](ext_articles/6a77a12d.ext.json)
-
----
-
-### Alcohol and tobacco usage in SL decline, reveal latest surveys
-
-*2025-10-03 23:29:27* · [`dailyftlk`](https://www.ft.lk/opinion/Alcohol-and-tobacco-usage-in-SL-decline-reveal-latest-surveys/14-782584) · `en`
-
-Despite the overall decline, the survey highlights that young people remain a vulnerable group
-
-Youth say drinking alcohol a purposeless behaviour and smoking a useless behaviour
-
-Despite the positive trend in quitting, the survey emphasises the powerful role of social influence in starting to drink as a significant 46.6% of current consumers reported that their first experience with alcohol was with friends. This finding reveals the critical importance of addressing peer pressure in prevention efforts, especially for young people. Among current drinkers, 18.0% were between the ages of 15 and 21, indicating that a substantial number of young people are still initiating alcohol use. ADIC recommends implementing a national prevention program aimed specifically at children and youth to discourage them from starting in the first place
-
-Alcohol consumption in Sri Lanka has shown a decade-long downward trend, with a new 2024 survey revealing that fewer than 30% of men are current drinkers.
-
-...
-
-[Data](articles/41f9f24e.json)
-
-[Extended Data](ext_articles/41f9f24e.ext.json)
-
----
-
-### Sri Lanka-born strategist Prof. Patrick Mendis to meet corporate and national leaders
-
-*2025-10-03 23:27:05* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-born-strategist-Prof-Patrick-Mendis-to-meet-corporate-and-national-leaders/4-782583) · `en`
-
-While serving as the founding chairman of the Educate Lanka Foundation, Prof. Mendis also established scholarships for students in Sri Lanka and provided microloans to entrepreneurs in more than 50 countries. He also served as an advisor and contributor to “The Encyclopedia of the Sri Lankan Diaspora,” a multiyear project of the National University of Singapore. In recognition of his service to the motherland, the Sri Lanka Foundation in Los Angeles honoured him with its Lifetime Achievement Award
-
-Prof. Patrick Mendis, a distinguished alumnus of the University of Sri Jayewardenepura (USJ), has served in the US government, the World Bank, and the United Nations, as well as the Sri Lankan Government, corporate, and philanthropic sectors.
-
-...
-
-[Data](articles/08293da8.json)
-
-[Extended Data](ext_articles/08293da8.ext.json)
-
----
-
-### Sri Lanka establishes diplomatic relations with Antigua and Barbuda
-
-*2025-10-03 23:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113197/sri-lanka-establishes-diplomatic-relations-with-antigua-and-barbuda) · `en`
-
-The Government of Sri Lanka and the Government of Antigua and Barbuda have established Diplomatic Relations between the two countries with immediate effect, upon the signing of the agreement on Friday (03).
-
-The relevant agreement was signed by Ambassador of Sri Lanka to the United States of America Mahinda Samarasinghe and Ambassador of Antigua and Barbuda to the United States of America Sir Ronald Sanders in Washington D.C.
-
-The establishment of diplomatic relations between Sri Lanka and Antigua and Barbuda will enhance the existing friendly relations and cooperation in the political, socio-economic and cultural spheres for the mutual benefit of the two countries, the two foreign ministries said in a joint formal announcement.
-
-◼️
-
-[Data](articles/e91e339c.json)
-
-[Extended Data](ext_articles/e91e339c.ext.json)
-
----
-
-### USS Fitzgerald makes port call in Colombo
-
-*2025-10-03 22:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113196/uss-fitzgerald-makes-port-call-in-colombo) · `en`
-
-USS Fitzgerald (DDG 62) of the United States Navy arrived at the port of Colombo on replenishment purposes this morning (03).
-
-The Sri Lanka Navy welcomed the visiting ship in compliance with naval traditions.
-
-The 154 m–long Destroyer is commanded by Commander Paul Richardson and following the fulfillment of replenishments, the ship will depart the island, the Sri Lanka Navy said.
-
-◼️
-
-[Data](articles/05ec4757.json)
-
-[Extended Data](ext_articles/05ec4757.ext.json)
-
----
-
-### We are going to intensify the union struggle that works legally - the Ceylon Electricity Board Engineers Association
-
-*2025-10-03 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/226837) · `ta`
-
-The Executive Committee of the Ceylon Electricity Board (CEB Engineers' Association, Dhanushka Parakramasinghe said that the Ceylon Electricity Board (CEB) employees have been able to intensify the trade union struggle, which is practiced by the Ceylon Electricity Board (CEB).
-
-He was speaking to the media on Friday (3) regarding the next phase of the strike by the Ceylon Electricity Board (CEB) employees on the 4th of last month.
-
-Our trade unions are struggling based on 24 demands, demanding that the government take steps to rehabilitate the Ceylon Electricity Board.. In the beginning, we had to announce a two -day sick holiday and brought all the employees to Colombo and staged a demonstration.
-
-...
-
-[Data](articles/7ef89e87.json)
-
-[Extended Data](ext_articles/7ef89e87.ext.json)
-
----
-
-### Emergency news to the people of Sri Lanka
-
-*2025-10-03 22:16:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மக்களுக்கு-அவசர-செய்தி/175-365698) · `ta`
-
-Police have introduced new telephone numbers to the public to provide information on poisonous drugs.
-
-Accordingly, the public can directly announce drug information, including heroin, ice, cocaine and cannabis, which are widely found in different parts of the country.
-
-From today, the following telephone numbers of the Senior Superintendent of Police in charge of the districts of the districts under the Senior Police Principals can provide such information to the following telephone numbers.
-
-◼️
-
-[Data](articles/61e88d1a.json)
-
-[Extended Data](ext_articles/61e88d1a.ext.json)
-
----
-
-### "Anti -fire" demonstration in Batticaloa by Ceylon Bank Employees Union
-
-*2025-10-03 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/226836) · `ta`
-
-A “anti -fireball” demonstration was staged in Batticaloa on Friday evening in Batticaloa against issues that have not been resolved in all state banks.
-
-The "anti -fireball" demonstration has been staged in front of the Gandhi Park in Batticaloa on Friday evening (03) at the district level to intensify trade union activities as all state banks have not been resolved.
-
-It is noteworthy that the "anti -fireball" demonstrations were staged by the Ceylon Bank Employees Union from 6.00 pm in the cities of Jaffna, Batticaloa, Trincomalee, Ratnapura and Matale district today.
-
-◼️
-
-[Data](articles/0299f5f3.json)
-
-[Extended Data](ext_articles/0299f5f3.ext.json)
-
----
-
-### Student
-
-*2025-10-03 22:08:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மாடியில்-இருந்து-குதித்த-மாணவி/71-365697) · `ta`
-
-A student from Uduvil Women's College, Jaffna, was injured from the 2nd floor yesterday.
-
-His class students have been away from her.
-
-A 14 -year -old student from Mullaitivu has been staying at the Uduvil Ladies College and has been staying at the hostel for the past one year.
-
-In this case, he has participated in a game. Thus his classmates were away from him. As a result of this, the student jumped down the second floor of the hostel and was injured.
-
-When the Chunnakam police were investigating the matter, the student said this in her affidavit.
-
-◼️
-
-[Data](articles/2249fc62.json)
-
-[Extended Data](ext_articles/2249fc62.ext.json)
-
----
-
-### Gaza ceasefire agreement: Trump final warning to Hamas! Threaten as "hell"!
-
-*2025-10-03 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226835) · `ta`
-
-US President Donald Trump has set a deadline for Hamas to accept the ceasefire agreement to end the Gaza War.
-
-According to foreign media reports, the Hamas Organization has been granted time to accept the agreement on Sunday, GMT time (GMT) at 10 pm (2200).
-
-In his social media record, Trump has strongly warned that if this last chance is not reached, no one else has ever seen, and that all hell will be 'exploding' against Hamas.
-
-Many world countries, including the Arab and Muslim countries, have supported the peace scheme released by Israeli Prime Minister Benjamin Netanyahu.
-
-The main features of the project include immediate ceasefire, the release of hostages, the abandonment of Hamas weapons, and the gradual exit of Israeli forces from Gaza.
-
-A member of the Hamas Organization's political office said he was still investigating the project and announced that their decision would be announced soon.
-
-...
-
-[Data](articles/594b82d5.json)
-
-[Extended Data](ext_articles/594b82d5.ext.json)
-
----
-
-### Cantobury Archbishop for first time for women
-
-*2025-10-03 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215314) · `si`
-
-The postal post of Canonbara is responsible for the first time in the history of Canonbar.
-
-The first woman qualified to the position after 1, 400 years, Bishop was a 63-year-old Sara.
-
-The archbishop of Cantobury performs to a woman, such as the crown of a British root, is considered a historic opportunity.
-
-The spiritual leader of the Global Anglican Catholics is also the Archbisor of Canonbar.
-
-◼️
-
-[Data](articles/22ff80c9.json)
-
-[Extended Data](ext_articles/22ff80c9.ext.json)
-
----
-
-### The hotel built by the wife of former Governor Maheepala Herath, the wife of the wife
-
-*2025-10-03 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215313) · `si`
-
-Former Governor Governor, Governor, Maheepala Herath, was built in the name of his wife.
-
-The hotel was unauthorized in the Peraium Kukura Tank Reserve in Anuradhapura and the hotel was ordered to demolish the hotel.
-
-Accordingly, a group of former Governor had come to the hotel and demolished the hotel.
-
-Recently, the construction of the government was recently launched in a program recently launched to mark the boundaries of tanks in Anuradhapura district.
-
-◼️
-
-[Data](articles/6a674ccb.json)
-
-[Extended Data](ext_articles/6a674ccb.ext.json)
-
----
-
-### A baps who had been put in a drain
-
-*2025-10-03 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215312) · `si`
-
-A newborn was found in a drain near the old tea factory of the Pitakanda estate.
-
-The baby was found on a tip off received by the Kandankapura police station.
-
-It has been reported to be handed over to the Matale General Hospital.
-
-The child's caretakers have not yet been revealed, and the Tadawatha Police are conducting further investigations.
-
-Meanwhile, a baby was found in a bag on a neighborhood of a retirement family health worker in the Estemo.
-
-The balwiya has been admitted to the Nikaweratiya Base Hospital and she is reportedly healthy.
-
-◼️
-
-[Data](articles/2d1859de.json)
-
-[Extended Data](ext_articles/2d1859de.ext.json)
-
----
-
-### 33 suspended in Gampaha
-
-*2025-10-03 21:25:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගමපහ-වහන-33කට-තහනම-නයග/101-680717) · `si`
-
-The Gampaha District Office and the Police were conducting a special operation to check traffic bugs in the district with the objective of minimizing road accidents.
-
-The special operation was implemented in Balumamahara, Wattala, Mabala and Minuwangoda, who were randomized and the deficiencies of the 31 heavy vehicles including passenger buses.
-
-◼️
-
-[Data](articles/651612a0.json)
-
-[Extended Data](ext_articles/651612a0.ext.json)
-
----
-
-### 33 suspended in Gampaha
-
-*2025-10-03 21:25:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගමපහ-වහන-33කට-තහනම-නයග/1-680717) · `si`
-
-The Gampaha District Office and the Police were conducting a special operation to check traffic bugs in the district with the objective of minimizing road accidents.
-
-The special operation was implemented in Balumamahara, Wattala, Mabala and Minuwangoda, who were randomized and the deficiencies of the 31 heavy vehicles including passenger buses.
-
-◼️
-
-[Data](articles/2177beef.json)
-
-[Extended Data](ext_articles/2177beef.ext.json)
 
 ---

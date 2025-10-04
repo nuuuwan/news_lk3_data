@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 10:20:25**
+As of **2025-10-04 10:37:43**
 
 ## Newspaper Stats
 
-*Scraped **81,006** Articles*
+*Scraped **81,010** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 579
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 743
+lankadeepalk | 746
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -19,7 +19,7 @@ islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,772
 adaderanalk | 10,422
-tamilmirrorlk | 12,040
+tamilmirrorlk | 12,041
 virakesarilk | 13,285
 adaderanasinhalalk | 13,933
 
@@ -27,11 +27,63 @@ adaderanasinhalalk | 13,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,006 (100.0%) of 81,006 articles have been extended.
+81,006 (100.0%) of 81,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### ’’හොර මගඩි’’ ලංගමයේ කෝටි 500ක් වනසලා
+
+*2025-10-04 10:19:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හර-මගඩ-ලගමය-කට-500ක-වනසල/101-680721) · `si`
+
+ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ බස් රථ ඇණිය සඳහා   පිරවූ  ටයර් සහ ටයර් පෙර සවිකිරීම  ටෙන්ඩරය  පිරිනැමීමෙන් තොරව අමාත්‍ය මණ්ඩලයේ තීරණයට ඒවා මිලදී ගැනීම හේතුවෙන් එම  මණ්ඩලයට රුපියල් තිස් පන්කෝටි හැට ලක්ෂයකට  වැඩි මූල්‍යමය පාඩුවක් සිදුව ඇති බව ජාතික විගණන කාර්යාලය නිකුත් කළ අලුත්ම  වාර්තාවක සඳහන් වේ.
+
+අමාත්‍ය මණ්ඩල තීරණය පරිදි මෙම භාණ්ඩ මිලදී ගැනීම හේතුවෙන් මණ්ඩලයට රුපියල් කෝටි284ක මුදලක් ගෙවීමට සිදුවූ  බවද එම වාර්තාවේ දැක්වේ.
+
+පසුගිය 2023 වර්ෂය සඳහා අවශ්‍ය මුළු ටයර් ප්‍රමාණය මිලදී ගැනීම සඳහා ප්‍රතිපාදන සලසා තිබියදී එම වර්ෂය සඳහා මාස හතරකට ටයර් අවශ්‍යතාව පෙන්වා නැවත පිරවූ ටයර් 8849ක් සහ පෙරසවි ටයර් 34859ක් මිලදී ගැනීම සඳහා ලංසු  කැඳවා තිබූ අතර ඉදිරිපත් වූ ලංසුකරුවන් 17 දෙනකුගෙන් 14 දෙනකු සාරානුකූල ලංසුකරුවන් ලෙස තෝරාගෙන තිබූ බවත්  අමාත්‍ය මණ්ඩලය විසින් පත් කෙරුණු ප්‍රසම්පාදන කමිටුව  ලංසු  කැඳවීමට පෙර සලකා බැලිය යුතු කරුණු සහ සාධක සලකා බැලීමට යටත්ව අනුමැතිය ලබාදීම කල් දමා තිබූ බවත් ජාතික විගණන කාර්යාලය පවසයි.
+
+...
+
+[Data](articles/50aac0aa.json)
+
+---
+
+### புதிதாக பிறந்த குழந்தை வடிகாணில் வீசப்பட்ட கொடூரம்
+
+*2025-10-04 09:52:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிதாக-பிறந்த-குழந்தை-வடிகாணில்-வீசப்பட்ட-கொடூரம்/175-365702) · `ta`
+
+மாத்தளை, பிடகந்த தோட்டத்தில் உள்ள பழைய தேயிலைத் தொழிற்சாலைக்கு அருகிலுள்ள வடிகாணில், பிறந்த சிசு ஒன்று வீசப்பட்ட நிலையில் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2033bce2.json)
+
+---
+
+### පළාත්  ඡන්දය අප්‍රේල්  මැද: පක්ෂ රැසක් බරටම වැඩ
+
+*2025-10-04 09:37:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පළත-ඡනදය-අපරල-මද-පකෂ-රසක-බරටම-වඩ/101-680720) · `si`
+
+පළාත් සභා මැතිවරණය ලබන වසරේ අප්‍රේල් මාසයට  ප්‍රථම පැවැත්වීමට රජය අපේක්ෂා කරයි.
+
+මෙම මැතිවරණය සඳහා සමගි  ජන බලවේගය ඇතුළු දේශපාලන පක්ෂ  රැසක් දැනටමත් අපේක්ෂකයන් තේරීම ඇතුළු  වැඩකටයුතු  ආරම්භ කර ඇත.
+
+සමගි ජන බලවේගය පළාත් සභා මැතිවරණය සඳහා අපේක්ෂකයන් තෝරා ගැනීම සඳහා දැන්වීම් ප්‍රචාරය කිරීමට පසුගිය සතියේ පැවති   එහි නායක  රැස්වීමකදී තීරණය  කෙරිණ
+
+මේ සම්බන්ධයෙන් අප රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන නියෝජ්‍ය අමාත්‍ය රුවන් සෙනරත් මහතාගෙන් කළ විමසුමකදී ඔහු පැවසුවේ පළාත් සභා මැතිවරණය ප්‍රමාද කිරීමට රජයට කිසිදු අවශ්‍යතාවක් නැති බවයි.
+
+එම මතිවරණය පැවැත්වීමට නීතිමය බාධාවන් කිහිපයක් පැන නැගී ඇති බවත් එම බාධාවන් නිරවුල් කිරීමට මේ දිනවල සාකච්ඡා ආරම්භ වී ඇති බවත් ඔහු සඳහන් කළේය.
+
+පළාත් සභා නවයේම නිල කාලය අවසන් වීම හේතුවෙන් වසර දහයකට ආසන්න කාලයක් තිස්සේ ඒවා  පවතින්නේ ආණ්ඩුකාරවරුන්ගේ පාලනය යටතේය.
+
+මේ අතර පළාත් සභා මැතිවරණය ඉක්මනින්ම පවත්වන්නැයි  දේශපාලන පක්ෂ සහ සිවිල් සංවිධාන රජයෙන් දිගින් දිගටම ඉල්ලීම් කරමින් සිටී.
+
+...
+
+[Data](articles/48635200.json)
+
+---
 
 ### Death of suspect in detention
 
@@ -68,6 +120,26 @@ COLOMBO (News 1st); A suspect has been taken into custody in connection with an 
 [Data](articles/a13032bf.json)
 
 [Extended Data](ext_articles/a13032bf.ext.json)
+
+---
+
+### මහින්දගේ බංගලාවට කඹ ඇදිල්ලක්
+
+*2025-10-04 08:48:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනදග-බගලවට-කඹ-ඇදලලක/1-680719) · `si`
+
+බඩු බාහිරාදිය භාර ගැනීම සම්බන්ධයෙන් දෙපාර්ශවය අතර ඇති වී තිබෙන කඹ ඇදීමක් හේතුවෙන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පදිංචිව සිටි කොළඹ විජේරාම මාවතේ බංගලාව රජයේ භාරයට ගැනීම තවදුරටත් ප්‍රමාද වෙමින් තිබෙන බව වාර්තාවේ.
+
+එම බංගලාවේ ඇති හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ බඩු භාණ්ඩ ඉවත් කරගන්නා ලෙස ජනාධිපති ලේකම් කාර්යාලය කිහිප වතාවක්ම හිටපු දැනුම්දී ඇත. එහෙත් හිටපු ජනාධිපතිවරයා ප්‍රකාශ කර ඇත්තේ ආණ්ඩුව බංගලාවේ බඩු භාණ්ඩ ලැයිස්තුව පරීක්ෂා කර ඒවා ඉවත් කර ගත් පසු තමාගේ බඩු භාණ්ඩ ඉවත් කරගන්නා බවයි.
+
+මුලින්ම බඩු ඉවත් කරගත්තහොත් යම් විදිහකින් හෝ රජයේ බඩු ගෙන ගියා යයි චෝදනාවක් එල්ල කිරීමට ඇති ඉඩකඩ වැළැක්වීමේ පියවරක් ලෙස හිටපු ජනාධිපතිවරයා එම තීරණය ගෙන බව ආරංචි මාර්ග සඳහන් කරයි.
+
+කෙසේ වෙතත් රජය පවසන්නේ හිටපු ජනාධිපතිවරයා තමාගේ බඩු භාණ්ඩ මුලින්ම ඉවත් කර ගතයුතු බවයි.
+
+විජේරාම මාවතේ නිවසේ ඇත්තේ හිටපු ජනාධිපතිවරයාගේ මෙන්ම අගමැති කාර්යාලයට සහ රාජ්‍ය පරිපාලන අමාත්‍යාංශයට අයත් බඩු භාණ්ඩය.
+
+◼️
+
+[Data](articles/7033f34c.json)
 
 ---
 
@@ -1990,99 +2062,5 @@ Until the results of the study are published, the public interest has been order
 [Data](articles/954f4d6f.json)
 
 [Extended Data](ext_articles/954f4d6f.ext.json)
-
----
-
-### Coast arrested in Dehiwala
-
-*2025-10-03 17:11:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දහවල-වඩ-තබම-පදකර-අතඅඩගවට/101-680710) · `si`
-
-Mt.
-
-Five swords with the suspect, 50 ice drugs worth over Rs.
-
-The Mt. Mt. Mt. Mailpa Minespid OIC Chief Inspector Gamage, Chief Inspector of Police, has been arrested following a motorbhabage.
-
-The suspect, who was a member of the organized criminal and drug dealer, had been given Rs.
-
-The police say that five swords were found in the house while checking the residence home, police said.
-
-Police investigations have revealed that the suspect had abandoned the residence after the shooting incident.
-
-The suspect was produced before the Tissa Magistrate's Court and receive detention orders
-
-ගල්කිස්ස කොට්ඨාස අපරාධ භාර ජේෂ්ඨ පොලිස් අධිකාරි අශෝක ගුණසේකර මහතාගේ උපදෙස් මත ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ගමගේ නිලන්ත මහතාගේ මෙහි වීමෙන් උප පොලිස් පරීක්ෂකවරුන් වන කවි සංඛ හා රන්දිම  පොලිස් කොස්තාපල් වරුන් වන 78865 මේනක 30178 සංජීව 102021  බණ්ඩාර 80965 ඉදිරි සිංහ මහත්වරුන් පරීක්ෂණපවත්වයි
-
-◼️
-
-[Data](articles/ee2e7ae3.json)
-
-[Extended Data](ext_articles/ee2e7ae3.ext.json)
-
----
-
-### Coast arrested in Dehiwala
-
-*2025-10-03 17:11:01* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දහවල-වඩ-තබම-පදකර-අතඅඩගවට/1-680710) · `si`
-
-Mt.
-
-Five swords with the suspect, 50 ice drugs worth over Rs.
-
-The Mt. Mt. Mt. Mailpa Minespid OIC Chief Inspector Gamage, Chief Inspector of Police, has been arrested following a motorbhabage.
-
-The suspect, who was a member of the organized criminal and drug dealer, had been given Rs.
-
-The police say that five swords were found in the house while checking the residence home, police said.
-
-Police investigations have revealed that the suspect had abandoned the residence after the shooting incident.
-
-The suspect was produced before the Tissa Magistrate's Court and receive detention orders
-
-ගල්කිස්ස කොට්ඨාස අපරාධ භාර ජේෂ්ඨ පොලිස් අධිකාරි අශෝක ගුණසේකර මහතාගේ උපදෙස් මත ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ගමගේ නිලන්ත මහතාගේ මෙහි වීමෙන් උප පොලිස් පරීක්ෂකවරුන් වන කවි සංඛ හා රන්දිම  පොලිස් කොස්තාපල් වරුන් වන 78865 මේනක 30178 සංජීව 102021  බණ්ඩාර 80965 ඉදිරි සිංහ මහත්වරුන් පරීක්ෂණපවත්වයි
-
-◼️
-
-[Data](articles/6e3e2165.json)
-
-[Extended Data](ext_articles/6e3e2165.ext.json)
-
----
-
-### Airline from Colombo to Katunayake Airport
-
-*2025-10-03 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226819) · `ta`
-
-We have taken appropriate steps to develop the Internal Airlines. Politics and economy in the country are now stabilized. Transport, Highways Development, Port and Civil Aviation Minister Bimal Ratnayake said the private sector should invest in the internal airline.
-
-Plan to launch a water airline using the Colombo grandson. Minister Bimal Ratnayake, Defense Secretary Sampath Duayakonda, Jones Keells Group and Chairman of the Sinaman Hotel Group welcomed the small water plane arriving from the Katunayake airport yesterday.
-
-Minister Bimal Ratnayake said the media had said that there were many problems in the past, based on security factors in the opening of an internal airline in Colombo.
-
-This internal airline has been launched with the full watch of the Ministry of Defense as a result of the 12 -year effort. We have taken appropriate measures to develop the internal airline.
-
-...
-
-[Data](articles/78a67cf4.json)
-
-[Extended Data](ext_articles/78a67cf4.ext.json)
-
----
-
-### 5G technology will serve as key pathway for Sri Lanka’s economic growth - Deputy Minister
-
-*2025-10-03 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113191/5g-technology-will-serve-as-key-pathway-for-sri-lankas-economic-growth-deputy-minister) · `en`
-
-At a special media briefing held today (03) at the Information and Communication Technology Agency, the Notice of Assignment (NoA) required for the 2025 frequency auction of 5G was officially announced.
-
-The event was attended by Eng. Eranga Weeraratne, Deputy Minister of Digital Economy; Mr. Waruna Sri Dhanapala, Acting Secretary of the Ministry of Digital Economy and Chairman of the Telecommunications Regulatory Commission of Sri Lanka (TRCSL); Air Vice Marshal (Rtd.) Bandula Herath, Director General of the TRCSL; Dr. Sulakshana Jayawardena, Chairman of the 5G Auction Committee; and Mr. Shantha Gunanananda, Director of the TRCSL.
-
-Expressing his views at the event, the Deputy Minister of Digital Economy stated that the final assignment will provide a strong foundation to expand next-generation telecommunication and information communication services.
-
-...
-
-[Data](articles/6409a0ea.json)
-
-[Extended Data](ext_articles/6409a0ea.ext.json)
 
 ---

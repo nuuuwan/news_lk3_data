@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 16:20:35**
+As of **2025-10-04 16:36:50**
 
 ## Newspaper Stats
 
-*Scraped **81,089** Articles*
+*Scraped **81,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,59 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
-adalk | 7,775
+adalk | 7,776
 adaderanalk | 10,434
-tamilmirrorlk | 12,044
+tamilmirrorlk | 12,046
 virakesarilk | 13,310
-adaderanasinhalalk | 13,946
+adaderanasinhalalk | 13,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,084 (100.0%) of 81,089 articles have been extended.
+81,084 (100.0%) of 81,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### இலங்கை குறித்து மகிழ்ச்சி வெளியிட்ட IMF
+
+*2025-10-04 16:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-குறித்து-மகிழ்ச்சி-வெளியிட்ட-IMF/175-365707) · `ta`
+
+பொருளாதார நெருக்கடிக்குப் பிறகு, இலங்கையின் பொருளாதார வளர்ச்சி 2024இல் 5% ஆக அதிகரித்துள்ளதாக சர்வதேச நாணய நிதியத்தின் (IMF) தகவல் தொடர்பாடல் திணைக்களப் பணிப்பாளர் ஜூலி கொசெக் தெரிவித்தார்.
+
+அதே நேரத்தில், இலங்கையின் விரிவான பொருளாதார சீர்திருத்தத் திட்டம் குறிப்பிடத்தக்க முன்னேற்றத்தை அடைந்துள்ளதாக கொசெக் மேலும் கூறினார்.
+
+சர்வதேச இருப்புகளும் அதிகரித்து வருகின்றன. 2024க்குப் பிறகு இலங்கையின் பொருளாதார வளர்ச்சி 5% ஆக அதிகரித்துள்ளது. இது ஒரு குறிப்பிடத்தக்க சாதனையாகும்.
+
+வரவு-செலவுத் திட்டத்தின் வருவாய்-மொத்த உள்நாட்டு உற்பத்தி வீதம் 2022இல் 8.2%இலிருந்து 13.5% ஆக மேம்பட்டுள்ள நிலையில், இது ஒரு குறிப்பிடத்தக்க அதிகரிப்பாகும். மேலும், கடன் மறுசீரமைப்பு செயல்முறை அநேகமாகப் பூரணமாகியுள்ளது.
+
+ஒட்டுமொத்தமாக, திட்டத்தின் செயல்திறன் மிகவும் வலுவாக உள்ளதாகக் கூற முடியும். விரிவான நிதித் திட்டத்தின் நோக்கங்களுக்கு அரசாங்கம் உறுதிபூண்டுள்ளதாகவும் கூற முடியும்.
+
+...
+
+[Data](articles/c495423c.json)
+
+---
+
+### පාසල් දරුවන් ඉලක්ක කරගනිමින් ඊ සිගරට් අලෙවි කළ ස්ථානයක් වටලයි
+
+*2025-10-04 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215337) · `si`
+
+මොණරාගල මූලස්ථාන පොලිස් ස්ථානයේ නිලධාරීන් පිරිසක් විසින් මොණරාගල නගරයේ සිදු කළ වැටලීමකදී පාසල් දරුවන් ඉල්ලක කරගෙන සිදු කරගන ගිය ඊ සිගරට් ජාවාරමක් වටලා සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු විසින් විවිධ මුදල් ප්‍රමාණයන්වලට දරුවන් හට ඊ සිගරට් අලෙවි කර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකරු සන්තකයේ තිබී ඊ සිගරට් සහ මුදල් ද පොලිසිය සිය භාරයට ගෙන තිබේ.
+
+සැකකරු මොණරාගල ප්‍රදේශයේම පදිංචි පුද්ගලයකු වන අතර ඔහුව මොණරාගල මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/42d1d311.json)
+
+---
 
 ### A heavy rain over 100 mm
 
@@ -50,6 +88,16 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/0a207b04.json)
 
 [Extended Data](ext_articles/0a207b04.ext.json)
+
+---
+
+### எல்லாத்துக்கும் குறட்டை அதை கண்டதும் எதிர்ப்போம்
+
+*2025-10-04 15:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லாத்துக்கும்-குறட்டை-அதை-கண்டதும்-எதிர்ப்போம்/175-365706) · `ta`
+
+◼️
+
+[Data](articles/bcad0c0a.json)
 
 ---
 
@@ -184,6 +232,18 @@ Gossak has confirmed that the IMF is currently working in Sri Lanka to conduct t
 [Data](articles/6189c731.json)
 
 [Extended Data](ext_articles/6189c731.ext.json)
+
+---
+
+### ජපානයේ ඉතිහාසය වෙනස් කරමින් අග්‍රාමාත්‍ය ධුරයට කාන්තාවක්
+
+*2025-10-04 15:01:38* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයේ-ඉතිහාසය-වෙනස්-කරමින්-අග්‍රාමාත්‍ය-ධුරයට-කාන්තාවක්/11-418907) · `si`
+
+පාලක කොන්සර්වේටිව් පක්ෂය එහි නව නායිකාව ලෙස සනේ ටකයිචි තෝරා පත් කර ගෙන ඇති අතර, 64 හැවිරිදි ඇය ජපානයේ පළමු කාන්තා අගමැතිනිය බවට පත් වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/226060e2.json)
 
 ---
 
@@ -1992,101 +2052,5 @@ Hamas said it was willing to release the hostages and hand over power to other P
 [Data](articles/925f4ba5.json)
 
 [Extended Data](ext_articles/925f4ba5.ext.json)
-
----
-
-### Hamas acknowledges part of Trump's final announcement
-
-*2025-10-04 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215318) · `si`
-
-The Hamas has agreed to partially recognize the American peace plan for the Hamas's final announcement by the President of Hamas.
-
-Accordingly, the Tampura President has ordered Israel to stop the bombing of Gaza.
-
-In response, Israeli Prime Minister Benjamin Netanyahu has issued a brief announcement with his country with the US 'plan' for peace.
-
-Hamas warned the US note yesterday (3).. By 6am, his peace plan should agree.
-
-The plan stopped immediately and proposed to hand over 72 Israeli hostages, which are considered to be released as well as the Hamas detention.
-
-It was to share hundreds of Gaza in the custody of Israel.
-
-Trump had further stated that action would be taken against Hamas if they could not come to the agreement.
-
-Accordingly, the Hamas has accepted the rest of the hostages of October 7, 2023, after the year 2 years of war.
-
-...
-
-[Data](articles/461fb1ce.json)
-
-[Extended Data](ext_articles/461fb1ce.ext.json)
-
----
-
-### Heavy rains exceeding 100 mm present this afternoon
-
-*2025-10-04 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215317) · `si`
-
-The Meteorological Department states that there is a positive atmospheric conditions for thundershowers during the evening today (04).
-
-The Department says that the latest weather forecast for today's day.
-
-Therefore, people are notable to take necessary steps to reduce the damages caused by strong winds, strong winds and strong lightning.
-
-Showers or thundershowers will occur at several places in many parts of the island.
-
-In some places in the North Central, East, Central and Uva provinces, there will be heavy showers over 100 mm.
-
-◼️
-
-[Data](articles/6f10572a.json)
-
-[Extended Data](ext_articles/6f10572a.ext.json)
-
----
-
-### The first woman as the Archbishop of Canterbury in charge of leading the UK Church
-
-*2025-10-04 04:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226842) · `ta`
-
-The post of Archbishop of Canterbury, who is responsible for leading the UK Church, has been reserved for a woman for the first time in history.
-
-63 -year -old Bishop Sarah Mulale was the first woman to qualify for the post in 1,400 years.
-
-The appointment of a woman as Archbishop of Canterbury, who performs important duties such as crowned to the British king, is considered a historic moment.
-
-◼️
-
-[Data](articles/f6270f33.json)
-
-[Extended Data](ext_articles/f6270f33.ext.json)
-
----
-
-### 34 -year -old man killed in Mannar Basal police station detention Son death
-
-*2025-10-04 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226841) · `ta`
-
-A 34 -year -old man was arrested at the Mannar Basal police division on suspicion and detained at the Basal police station on Friday morning.
-
-The deceased has been identified as Rajendran Kapilan (age-34) from Mangulam in Vavuniya.
-
-A man was arrested in the Kataspathiri area of ​​the Basal police division on Thursday evening.
-
-It is reported that the man was chased by the police and another man who was with him.
-
-The man who was arrested by the police took the police to the Pasal police station and put the investigations into the police station.
-
-The suspect was found dead on Friday morning (3) after the man was detained in the police station cage.
-
-The body was taken to the Basalai Divisional Hospital at 6.30 am today (3).. At 12 noon, the Mannar court response went to the Loku Basalai Divisional Hospital and carried out investigations.
-
-Following this, he went to the Basal police station and visited the police station and carried out investigations.
-
-...
-
-[Data](articles/fdece35d.json)
-
-[Extended Data](ext_articles/fdece35d.ext.json)
 
 ---

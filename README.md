@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 09:09:04**
+As of **2025-10-04 08:56:56**
 
 ## Newspaper Stats
 
-*Scraped **81,003** Articles*
+*Scraped **80,998** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 579
+newsfirstlk | 577
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 743
+lankadeepalk | 740
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,71 +27,11 @@ adaderanasinhalalk | 13,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,998 (100.0%) of 81,003 articles have been extended.
+80,997 (100.0%) of 80,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
-
-### 34-Year-Old Arrested Over Attempted Murder
-
-*2025-10-04 08:53:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/34-year-old-arrested-over-attempted-murder) · `en`
-
-COLOMBO (News 1st); A suspect has been taken into custody in connection with an attempted shooting near Dehiwala Railway Station, the police said.Following investigations by the Crimes Investigation Unit of Mount Lavinia Division, the 34-year-old suspect, a resident of Seevali Road was arrested yesterday.Police discovered 50 grams of ice (methamphetamine), five knives, and a machete during the arrest.The incident relates to a July 18 attack near Dehiwala Railway Station, where two unidentified men on a motorcycle opened fire, causing severe injuries to an individual.
-
-◼️
-
-[Data](articles/a13032bf.json)
-
----
-
-### මහින්දගේ බංගලාවට කඹ ඇදිල්ලක්
-
-*2025-10-04 08:48:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-බගලවට-කඹ-ඇදලලක/101-680719) · `si`
-
-බඩු බාහිරාදිය භාර ගැනීම සම්බන්ධයෙන් දෙපාර්ශවය අතර ඇති වී තිබෙන කඹ ඇදීමක් හේතුවෙන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පදිංචිව සිටි කොළඹ විජේරාම මාවතේ බංගලාව රජයේ භාරයට ගැනීම තවදුරටත් ප්‍රමාද වෙමින් තිබෙන බව වාර්තාවේ.
-
-එම බංගලාවේ ඇති හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ බඩු භාණ්ඩ ඉවත් කරගන්නා ලෙස ජනාධිපති ලේකම් කාර්යාලය කිහිප වතාවක්ම හිටපු දැනුම්දී ඇත. එහෙත් හිටපු ජනාධිපතිවරයා ප්‍රකාශ කර ඇත්තේ ආණ්ඩුව බංගලාවේ බඩු භාණ්ඩ ලැයිස්තුව පරීක්ෂා කර ඒවා ඉවත් කර ගත් පසු තමාගේ බඩු භාණ්ඩ ඉවත් කරගන්නා බවයි.
-
-මුලින්ම බඩු ඉවත් කරගත්තහොත් යම් විදිහකින් හෝ රජයේ බඩු ගෙන ගියා යයි චෝදනාවක් එල්ල කිරීමට ඇති ඉඩකඩ වැළැක්වීමේ පියවරක් ලෙස හිටපු ජනාධිපතිවරයා එම තීරණය ගෙන බව ආරංචි මාර්ග සඳහන් කරයි.
-
-කෙසේ වෙතත් රජය පවසන්නේ හිටපු ජනාධිපතිවරයා තමාගේ බඩු භාණ්ඩ මුලින්ම ඉවත් කර ගතයුතු බවයි.
-
-විජේරාම මාවතේ නිවසේ ඇත්තේ හිටපු ජනාධිපතිවරයාගේ මෙන්ම අගමැති කාර්යාලයට සහ රාජ්‍ය පරිපාලන අමාත්‍යාංශයට අයත් බඩු භාණ්ඩය.
-
-◼️
-
-[Data](articles/a7da94c7.json)
-
----
-
-### 22 More Terminals Approved for Seaplane Operations; Civil Aviation Authority
-
-*2025-10-04 08:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/22-more-terminals-approved-for-seaplane-operations-civil-aviation-authority) · `en`
-
-COLOMBO (News 1st); The Civil Aviation Authority announced that 22 additional terminals have been cleared for seaplane operations after inspections. Approval processes are also underway to begin water-based aviation near Colombo Port City.The Authority said two new helicopter landing sites will soon be introduced in Colombo, while a program is being implemented to boost domestic aviation with state and private sector investment, focusing on tourism.Meanwhile, a new seaplane service between Katunayake and Colombo was launched yesterday using Beira Lake as a water aerodrome.Seaplane services had previously operated in Sri Lanka during 2011/2012 but were suspended due to strict security measures and related challenges.
-
-◼️
-
-[Data](articles/16b8f32b.json)
-
----
-
-### රොබෝවෙන් මිනිසා රකින්න ගේන අලුත්ම නීති හත
-
-*2025-10-04 08:42:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රබවන-මනස-රකනන-ගන-අලතම-නත-හත/101-680718) · `si`
-
-කෘත්‍රිම බුද්ධියේ බල­යෙන් ජන­තා­වගෙන් ගන්නා තොර­තුරු ආරක්ෂා කිරීමේදී අද දැඩි අභි­යෝ­ග­යක් මතුවී ඇතැයි ආසි­යානු පැසි­ෆික් කලා­පයේ නීතිඥ සම්මේ­ල­නයේ (LAWASIA) සන්නි­වේ­දන, දත්ත ආර­ක්ෂණ සහ තාක්ෂණ කමිටුවේ සභා­පති ආචාර්ය නීතිඥ සුනිල් අබේ­රත්න මහතා ප්‍රකාශ කළේය.
-
-පෞද්ගලික තොරතුරුවල ආරක්ෂණ භාවයක් තිබිය යුතුයි..තමා අදහන දේ කන බොන දේ ගැන කතා කිරීමට හෝ නොකිරීමට තමාට නිදහසක් තිබිය යුතුය. ඒ පිළිබඳ තොරතුරු අවසරයකින් තොරව කාටවත් හෙළි කරන්න බැහැ. ඉන්දියාවේ දත්ත ආරක්ෂණය මූලික අයිතිවාසිකමක්
-
-දේශයන් අතර දත්ත හුවමාරුව අඩු වියදමකින් කිරීමේ හැකියාව නිසා පෞද්ගලිකත්වය ආරක්ෂා කරන දැඩි නීති පනවන්න විවිධ රටවල්වලට අවශ්‍ය වුණා. යුරෝපා රටවල් දත්ත ආරක්ෂණ නියමයන් වෙනුවට දත්ත රෙගුලාසිය හඳුන්වා දුන්නේ ඒ නිසයි.
-
-...
-
-[Data](articles/43565139.json)
-
----
 
 ### Sri Lanka’s Foreign Debt at USD 37 Billion
 
@@ -102,8 +42,6 @@ COLOMBO (News 1st); The Committee on Public Finance chaired by MP Dr. Harsha de 
 ◼️
 
 [Data](articles/a623e93a.json)
-
-[Extended Data](ext_articles/a623e93a.ext.json)
 
 ---
 
@@ -1515,24 +1453,6 @@ The government's policy is to do nothing to promote the tourism industry.
 
 ---
 
-### ’’කළු පාලනය අවසන් කරන පියවර ආපසු හරවන්නේ නෑ’’
-
-*2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/ld_events/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/244-680712) · `si`
-
-රටේ බිඳ වැටුණු ආර්ථිකය යළි ගොඩනඟන අතරම, සියලු අතින් පිරිහී ගිය සමාජය යළි සුවපත් කිරීමේ වගකීමද රජය භාරගෙන තිබෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-මත්ද්‍රව්‍ය ජාවාරම සහ අවි බලය සමඟ සමාජය දැවැන්ත විනාශයකට ඇඳ දමා තිබෙන කළු පාලනය අවසන් කිරීමට රජය තැබූ පියවර කිසිසේත් ආපසු  හැරවීමට කටයුතු නොකරන බවද ජනාධිපති ජනාධිපතිවරයා අවධාරණය කළේය.
-
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ නාරම්පනාවේ ආනන්ද අස්ගිරි අභිනව අනුනාහිමියන් වෙත ශ්‍රී සන්නස් පත්‍ර පිළිගැන්වීම වෙනුවෙන් අද (03) පස්වරුවේ මහනුවර ඓතිහාසික මඟුල් මඬුවේ පැවති පූජෝත්සවය අමතමිනි.
-
-සමාජ පුනරුදය ඇති කිරීමේදී මහා සංඝරත්නයට විශාල කාර්යභාරයක් පැවරී තිබෙන බව පෙන්වා දුන් ජනාධිපතිවරයා, අතීතයේදී රාජ්‍යය අභියෝගයට පත් වූ සෑම අවස්ථාවකම ඒ වෙනුවෙන් ඉදිරියට පැමිණියේ මහා සංඝරත්නය බවද සඳහන් කළේය.
-
-...
-
-[Data](articles/8299cb17.json)
-
----
-
 ### '' No action will be reversed '
 
 *2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/1-680712) · `si`
@@ -2058,5 +1978,115 @@ The new grand duke will greet the public from a balcony overlooking a central sq
 [Data](articles/ab0a7688.json)
 
 [Extended Data](ext_articles/ab0a7688.ext.json)
+
+---
+
+### 100 patients per day
+
+*2025-10-03 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215301) · `si`
+
+Health and Mass Media Media Dr. Nalinda Jayatissa says that 100 cancer patients reported in the country.
+
+He said that about 35,000 cancer patients were reported annually and 35% of them were targeted as cancer patients at the hospital.
+
+The Minister was speaking at the fourth Housingia Health Center at the Polgolla area in Kandy District yesterday.
+
+The Minister further stated that it is 30% of the expenditure of a year of medicinal diseases and that it is necessary for cancer diseases, and in the absence of solutions to this.
+
+The Minister pointed out that the majority of the deaths in the country between 30 and 70 years of age are infectious diseases and the highest death to death is the health data that the health data is the cancer and the number of cancer conditions are the cancer and the number of health data shows that the highest deaths of women is the cancer and the number of health data.
+
+...
+
+[Data](articles/61de00ab.json)
+
+[Extended Data](ext_articles/61de00ab.ext.json)
+
+---
+
+### Mahinda - Upatissa - Gunasena receives the doctrine
+
+*2025-10-03 16:47:02* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-උපතසස-ගණසන-වදයභමන-සමමන-ලබත/1-680709) · `si`
+
+Veteran Music Mahinda Bandara, Upatissa Perera and DD. Gunasena awards ceremonies of 'orchestra' pramama.
+
+Dr. Hiniduma Sunil Senevi, Minister of Buddha, Religious and Cultural Affairs, was presented to the Industry Representative Pranama Pranama Pranama.
+
+The three senior musicians of the Banaru, Upatissa Perera and Voyllor DD Gunasena were also recognized by Lead Guitar performance.
+
+There was also the opportunity to enjoy the design of the award winning orchestra.
+
+The Ministry of State Literary Panel, Department of State Literary Panel and Cultural Affairs and the Ministry of Buddha, Religious and Cultural Affairs were organized.
+
+Buddha Sasana, Religious and Cultural Affairs Secretary Prince Senadheera, Cultural Affairs Department KS. Dilhani and Sri Lanka Arts Chairman of the Sri Lanka Arts Chairman Mr. Keerthi Welisara and many others were present at the occasion.
+
+◼️
+
+[Data](articles/4e778606.json)
+
+[Extended Data](ext_articles/4e778606.ext.json)
+
+---
+
+### Mahinda - Upatissa - Gunasena receives the doctrine
+
+*2025-10-03 16:47:02* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනද-උපතසස-ගණසන-වදයභමන-සමමන-ලබත/101-680709) · `si`
+
+Veteran Music Mahinda Bandara, Upatissa Perera and DD. Gunasena awards ceremonies of 'orchestra' pramama.
+
+Dr. Hiniduma Sunil Senevi, Minister of Buddha, Religious and Cultural Affairs, was presented to the Industry Representative Pranama Pranama Pranama.
+
+The three senior musicians of the Banaru, Upatissa Perera and Voyllor DD Gunasena were also recognized by Lead Guitar performance.
+
+There was also the opportunity to enjoy the design of the award winning orchestra.
+
+The Ministry of State Literary Panel, Department of State Literary Panel and Cultural Affairs and the Ministry of Buddha, Religious and Cultural Affairs were organized.
+
+Buddha Sasana, Religious and Cultural Affairs Secretary Prince Senadheera, Cultural Affairs Department KS. Dilhani and Sri Lanka Arts Chairman of the Sri Lanka Arts Chairman Mr. Keerthi Welisara and many others were present at the occasion.
+
+◼️
+
+[Data](articles/0091201d.json)
+
+[Extended Data](ext_articles/0091201d.ext.json)
+
+---
+
+### Drivers of tipper vehicles carrying pottery without permission
+
+*2025-10-03 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226813) · `ta`
+
+The drivers of five tipper vehicles carrying pottery without a permit have been arrested by the Bandaragama police this morning.
+
+Five drivers have been arrested in a raid carried out in the Kalutara - Bandaragama area on information received by the Bandaragama police.
+
+Police investigations revealed that these tipper vehicles belong to the nephew of a former politician.
+
+◼️
+
+[Data](articles/80949f34.json)
+
+[Extended Data](ext_articles/80949f34.ext.json)
+
+---
+
+### Minister of Justice
+
+*2025-10-03 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226809) · `ta`
+
+Minister of Justice Harshana Nanayakkara has said that the amendment proposed by the Penal Code (Section 19) of the Penal Code (Section 19) of the Penal Code against Children has not been enacted.
+
+The Minister noted that the second reading debate on the amendment of the Penal Code on September 24 was held in Parliament, but it was not a law, except for a debate.
+
+He also pointed out that if such a revision is to be implemented, it should be changed in the Criminal Procedure Act.. The bill is pending, as that change has not yet been made.
+
+The Minister added that the changes may still be taken up for review during the Parliamentary Committee that amendments to the bill.
+
+The Minister of Justice added in his statement that the amendment to the physical punishment is in a state of debate and it has not been passed.
+
+◼️
+
+[Data](articles/b7f36967.json)
+
+[Extended Data](ext_articles/b7f36967.ext.json)
 
 ---

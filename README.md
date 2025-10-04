@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 19:06:23**
+As of **2025-10-04 19:37:45**
 
 ## Newspaper Stats
 
-*Scraped **81,125** Articles*
+*Scraped **81,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,20 +18,40 @@ economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,776
-adaderanalk | 10,436
+adaderanalk | 10,437
 tamilmirrorlk | 12,046
-virakesarilk | 13,326
-adaderanasinhalalk | 13,952
+virakesarilk | 13,327
+adaderanasinhalalk | 13,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,121 (100.0%) of 81,125 articles have been extended.
+81,126 (100.0%) of 81,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### Sampath Manamperi's brother-in-law seized
+
+*2025-10-04 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215343) · `si`
+
+Sampath Manamperi's brother-in-law has been arrested this 4 (4).
+
+The suspect was arrested by the Western North Criminal Division in the Biyagama area this afternoon.
+
+He has controlled all the financial activities of Saman and has found 555 grams of heroin, a pistol, and magazine that he had
+
+The Western Province Criminal Investigations Department (Western Province Criminal) Director of the Western Province Criminal Criminal Criminal Secretariat is the advice of the OIC Lynton Silva.
+
+◼️
+
+[Data](articles/7e0eccea.json)
+
+[Extended Data](ext_articles/7e0eccea.ext.json)
+
+---
 
 ### Wimal Weerawansa To Appear Before The Tangalle Police
 
@@ -42,6 +62,8 @@ COLOMBO (News 1st); Former Minister Wimal Weerawansa has been instructed to appe
 ◼️
 
 [Data](articles/e125b2b5.json)
+
+[Extended Data](ext_articles/e125b2b5.ext.json)
 
 ---
 
@@ -55,6 +77,8 @@ COLOMBO (News 1st); The Sri Lanka Police have carried out 61,265 ICE raids so fa
 
 [Data](articles/d5823739.json)
 
+[Extended Data](ext_articles/d5823739.ext.json)
+
 ---
 
 ### Accomplice Of ‘Backhoe Saman’ Arrested
@@ -66,6 +90,26 @@ COLOMBO (News 1st); A suspect believed to have coordinated drug trafficking and 
 ◼️
 
 [Data](articles/fb7557c6.json)
+
+[Extended Data](ext_articles/fb7557c6.ext.json)
+
+---
+
+### NIE expands program to brief principals on new education reforms
+
+*2025-10-04 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113216/nie-expands-program-to-brief-principals-on-new-education-reforms) · `en`
+
+In line with the new education reforms, the National Institute of Education (NIE) has commenced programs to brief principals of both national and provincial schools at the district level across all provinces.
+
+Many districts across the island have already been covered under this initiative.
+
+As part of its continuation, the program to inform principals in the Matale District was held today (04) under the patronage of the Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasooriya, with the participation of the Deputy Minister of Buddhasasana, Religious and Cultural Affairs, Gamagedara Dissanayake.
+
+The Matale District Secretary, the Director General of the NIE, Provincial Directors of Education, various education authorities and a group of nearly 350 school principals of the Matale District participated in this event.
+
+...
+
+[Data](articles/9e931480.json)
 
 ---
 
@@ -91,21 +135,25 @@ It is important that the courts of Tunisia have periodically sentenced the death
 
 ---
 
-### පුනර්ජනනීය බලශක්ති ව්‍යාපෘතිය අඛණ්ඩව ක්‍රියාත්මක කරනවා - බලශක්ති අමාත්‍ය
+### Minister of Energy continues - Renewable Energy Project
 
 *2025-10-04 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215342) · `si`
 
-රජය විසින් ගෙන ඇති පුනර්ජනනීය බලශක්ති ව්‍යාපෘති අඛණ්ඩ ක්‍රියාත්මක කරන බව බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා පවසයි.
+Energy Minister Kumara Jayakody says that continuing to implement the government renewable energy projects.
 
-අමාත්‍යවරයා පැවසුවේ කෙසේ නමුත් එම ව්‍යාපෘති හේතුවෙන් ජනතාවට මතුවන ගැටලු මානුෂිකව සලකා බලා ඒවා විසඳීමට ගත හැකි සියලු පියවරද ගන්නා බවය.
+The Minister said that these projects were humanely considering the problems of the public and take all possible steps to solve them.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ ගාල්ල හියාර ප්‍රදේශයේ ඉදිකරන ලද මෙගාවෝට් 05ක සූර්යබලශක්ති ව්‍යාපෘතිය විවෘත කිරීමේ අවස්ථාවට අද (04) එක්වෙමිනි.
+The Minister was speaking at the opening of the five MW projects built in Hreear area in Galle today (04).
 
-එහිදී අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කර සිටියේ පුනර්ජනනීය බලශක්ති උත්පාදනය ජාතික අවශ්‍යතාවක් සහ ජාතික වැඩපිළිවෙළේ කොටසක් වන බවත් සියල්ලන් වටහා ගත යුතු බවත්ය.
+The Minister said that all should be understood that the renewable energy generation should be understood.
 
-...
+"It is like that as well as the Ceylon Electricity Board's Restructuring Program. There is a government policy to ensure the government's government ownership in the electricity sector. We launched the program to discuss with trade union representatives as soon as possible to protect employee rights privileges.. It is vital that the implementation of the restructuring program to win the objectives of the country's energy fields is essential. Therefore, it will continue to implement the program. "
+
+◼️
 
 [Data](articles/90eaf5c5.json)
+
+[Extended Data](ext_articles/90eaf5c5.ext.json)
 
 ---
 
@@ -180,6 +228,22 @@ The deceased are a 21 -year -old girl from Moragahahena and a 24 -year -old yout
 [Data](articles/6e64a75d.json)
 
 [Extended Data](ext_articles/6e64a75d.ext.json)
+
+---
+
+### சாரதி அனுமதி பத்திர விநியோகத்தில் விரைவில் மாற்றம் ; போக்குவரத்து அமைச்சு
+
+*2025-10-04 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226897) · `ta`
+
+சாரதி அனுமதி பத்திரங்கள் செல்லுபடியாகும் காலத்தை 8 ஆண்டுகளில் இருந்து அதிகரிக்க போக்குவரத்து அமைச்சு தீர்மானித்துள்ளத. இந்த விடயத்தை ஆய்வு செய்து பொருத்தமான திட்டத்தை முன்வைக்க தொழில்நுட்ப மதிப்பீட்டுக் குழுவொன்றும் நியமிக்கப்பட்டுள்ளது.
+
+சாரதி அனுமதி பத்திரங்களைப் பெறும்போது விண்ணப்பதாரர்களின் வயது மற்றும் உடல் தகுதியைக் கருத்தில் கொண்டு, சாரதி அனுமதி பத்திரங்களின் செல்லுபடியாகும் காலத்தை 8 ஆண்டுகளுக்கு மேல் அதிகரிக்க திட்டமிடப்பட்டுள்ளதாக போக்குவரத்து அமைச்சு மேலும் தெரிவித்துள்ளது.
+
+நடுத்தர வயது மற்றும் 40 வயதுக்கு மேற்பட்ட ஓட்டுநர் உரிமங்களுக்கான புதிய விண்ணப்பதாரர்கள் மற்றும் சாரதி அனுமதி பத்திரங்களை புதுப்பிக்க வரும் விண்ணப்பதாரர்களுக்கு ஏற்ற காலத்திற்கு செல்லுபடியாகும் காலத்தை அதிகரிக்கவும் யோசனை முன்வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/1ac6c1b0.json)
 
 ---
 
@@ -1934,83 +1998,5 @@ It is noteworthy that the Member of Parliament was clarifying the dangers of the
 [Data](articles/349c67cf.json)
 
 [Extended Data](ext_articles/349c67cf.ext.json)
-
----
-
-### Mother's mother filed a petition in the court!
-
-*2025-10-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226856) · `ta`
-
-It has been reported that the mother of the underworld gang of underworld gang, "Kehelbattara Padme", who is currently in police detention, has filed a writ petition in the Court of Appeal.
-
-The writ petition is illegal to keep Kehelbatara Padme in police custody. The petition has been ordered to order Kehelbatara Padme to be taken from the Criminal Investigation Department elsewhere while in police detention.
-
-Considering this, the Magistrate has ordered the writ petition to be heard on the 23rd of this month.
-
-In Indonesia, the underworld gang, including six people, including "Kehelbattara Padme", "Commando Salinda" and "Panadura Nilanga", were arrested on August 27 during a special roundup carried out by the Criminal Investigation Department and the Indonesia Police.
-
-The wife of the arrested underworld gang "Pako Saman" was sent to the Katunayake airport on August 29 and was arrested by the Criminal Investigation Department officials and kept under police custody.
-
-...
-
-[Data](articles/d186914b.json)
-
-[Extended Data](ext_articles/d186914b.ext.json)
-
----
-
-### 500 crores in SLTB destroyed
-
-*2025-10-04 10:19:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හර-මගඩ-ලගමය-කට-500ක-වනසල/1-680721) · `si`
-
-The National Audit Office has issued a financial loss of Rs.
-
-According to the report, the purchase of goods had to pay Rs.
-
-The National Purchasiser has been summoned to buy the required requirements for the purchase of Rs. The Audit office says.
-
-Meanwhile, the cylinder boxes supplied to the Sri Lanka Transport Board a financial loss for nearly 100 million cylinder boxes in one hundred cylinders
-
-Meanwhile, it is said that the audit report to run from the Ruhuna Regional Office, the panel lost to over Rs.
-
-මණ්ඩලයට ග්‍රීස් හා ලිහිසි තෙල් මිලදී ගැනීමට 2023 වර්ෂයේදී රුපියල් කෝටි 104 කට වැඩි මුදලක්  වැය කර තිබූ බවත්  එහිදීද  ප්‍රසම්පාදන මාර්ගෝපදේශවලට පටහැනිව කටයුතු කර තිබූ බවත්  විගණන වාර්තාව පෙන්වා දෙයි.
-
-This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
-
-Many officials involved in these corruption and irregularities have not yet implemented the law.
-
-◼️
-
-[Data](articles/86fd8715.json)
-
-[Extended Data](ext_articles/86fd8715.ext.json)
-
----
-
-### 500 crores in SLTB destroyed
-
-*2025-10-04 10:19:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හර-මගඩ-ලගමය-කට-500ක-වනසල/101-680721) · `si`
-
-The National Audit Office has issued a financial loss of Rs.
-
-According to the report, the purchase of goods had to pay Rs.
-
-The National Purchasiser has been summoned to buy the required requirements for the purchase of Rs. The Audit office says.
-
-Meanwhile, the cylinder boxes supplied to the Sri Lanka Transport Board a financial loss for nearly 100 million cylinder boxes in one hundred cylinders
-
-Meanwhile, it is said that the audit report to run from the Ruhuna Regional Office, the panel lost to over Rs.
-
-The audit report points out that 2023 to buy grease and lubricant to the board.
-
-This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
-
-Many officials involved in these corruption and irregularities have not yet implemented the law.
-
-◼️
-
-[Data](articles/50aac0aa.json)
-
-[Extended Data](ext_articles/50aac0aa.ext.json)
 
 ---

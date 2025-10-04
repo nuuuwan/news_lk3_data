@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 15:37:20**
+As of **2025-10-04 15:55:40**
 
 ## Newspaper Stats
 
-*Scraped **81,060** Articles*
+*Scraped **81,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,67 @@ adalk | 7,775
 adaderanalk | 10,428
 tamilmirrorlk | 12,044
 virakesarilk | 13,294
-adaderanasinhalalk | 13,942
+adaderanasinhalalk | 13,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,059 (100.0%) of 81,060 articles have been extended.
+81,060 (100.0%) of 81,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### ඉන්දීය එක්දින නායකත්වයත් ශුබ්මන් ගිල්ට
+
+*2025-10-04 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215335) · `si`
+
+ඉන්දීය කණ්ඩායමේ එළැඹෙන ඔස්ට්‍රේලියානු තරග සංචාරයේ එක්දින කණ්ඩායමේ නායකත්වයට ශුබ්මන් ගිල් පත්කර ඇත.
+
+එක්දින (තරග 3) හා විස්සයි20 (තරග 5) තරගාවලියක් සඳහා ඉන්දීය කණ්ඩායම මෙම මස දී ඔස්ට්‍රේලියාවේ තරග සංචාරයක නිතර වේ.
+
+ඒ අනුව ටෙස්ට් සහ විස්සයි20 කණ්ඩායම්වල ද නායකත්වය දරා ඇති ගිල් එක්දින කණ්ඩායමේ නායකයා ලෙස කටයුතු කරන පළමු තරගාවලිය මෙය වනු ඇත.
+
+◼️
+
+[Data](articles/9790b7a4.json)
+
+---
+
+### තුන් ගුණයකින් ඉහළ දැමූ බව කියන ජනාධිපතිවරයාගේ වැය ශීර්ෂය ගැන ඇමති අනිල් ජයන්ත කළ පැහැදිලි කිරීම
+
+*2025-10-04 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215334) · `si`
+
+2026 වසර සඳහා වූ ජනාධිපතිවරයාගේ වැය ශීර්ෂය තුන් ගුණයකින් ඉහළ දමා ඇතැයි සමාජ මාධ්‍ය හරහා පළවන පුවත් සම්බන්ධව කම්කරු සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත මහතා විසින් කරුණු පැහැදිලි කිරීමක් සිදුකර තිබේ.
+
+ඒ අනුව අමාත්‍යවරයා පෙන්වා දෙන්නේ අදාළ තොරතුරු වැරදි සහගත බවත් එය සමාජය නොමග යවන සුළු බවත්ය.
+
+මේ සම්බන්ධව වැඩිදුරටත් කරුණු පැහැදිළි කළ  කම්කරු සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත මහතා,
+
+...
+
+[Data](articles/11d899a1.json)
+
+---
+
+### අඹුසැමි යුවළකට දිවි අහිමි කළ මාරක අනතුර
+
+*2025-10-04 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215333) · `si`
+
+හොරණ මොරගහහේන මාර්ගයේ, මොරගහහේන කනන්විල ප්‍රදේශයේ අද (04) දහවල් සිදුවූ රිය අනතුරකින් අඹු සැමි යුවළක් මියගොස් තිබේ.
+
+මොරගහහේන දෙස සිට හොරණ දෙසට ගමන් කළ ලොරි රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරු පැදියක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+
+අධික වේගයෙන් ධාවනය වූ යතුරුපැදිය පැදිකරුට පාලනය කර ගත නොහැකිව මාර්ගයේ ලිස්සා ගොස් අනෙක් මංතීරුවේ ධාවනය වූ ලොරි රථයේ ගැටී තිබේ.
+
+ඉන් බරපතළ තුවාල ලැබූ යතුරුපැදියේ ගමන් කළ අඹුසැමි යුවළ රෝහල්ගත කරන විටත් මියගොස් සිටි බව පොලිසිය පැවසුවේය.
+
+◼️
+
+[Data](articles/30b67107.json)
+
+---
 
 ### Sri Lankan people warned of heavy lightning impact
 
@@ -283,15 +333,17 @@ Overall, the program performance is strong. The government is committed to the o
 
 ---
 
-### කාන්තා ලෝක කුසලානයේ ශ්‍රී ලංකාව සහභාගී වන තවත් තරගයක් අද
+### Another match participating in the Women's World Cup today
 
 *2025-10-04 12:20:01* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-ලෝක-කුසලානයේ-ශ්‍රී-ලංකාව-සහභාගී-වන-තවත්-තරගයක්-අද/11-418906) · `si`
 
-2025 කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහභාගී වන තවත් තරගයක් අද (04දා) පැවැත්වේ.
+Another match will be held in the Women's ODI World Cup today (04).
 
 ◼️
 
 [Data](articles/60eb6d72.json)
+
+[Extended Data](ext_articles/60eb6d72.ext.json)
 
 ---
 
@@ -1976,73 +2028,5 @@ The special operation was implemented in Balumamahara, Wattala, Mabala and Minuw
 [Data](articles/2177beef.json)
 
 [Extended Data](ext_articles/2177beef.ext.json)
-
----
-
-### Uncle visited a flower to jail for 12 years to jail
-
-*2025-10-03 21:23:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මල-කකළක-පරකළ-මම-වසර-12ක-හරට/1-680716) · `si`
-
-The 36-year-old girl who was carrying out serious sexually abusing bike girl, Homaratic Judge Navaratne Marasinghe was sentenced to 12 years.
-
-The High Court judge was sentenced to Rs. 25,000.
-
-The 3-year-old, the 13-helical aggrieved girl has been sentenced to Rs.
-
-The High Court Judge issued a statement that the complaint had been proven beyond fair suspicions, but if the suspect was not fault with faults, it was imposed on a serious punishment of this serious sexual abuse.
-
-The case was filed by the Attorney General against July 09, 2010 at Hokandara.
-
-The punishment of the complaint was repeated beyond the evaluation of a complaint that the complaint has been made under Article No. 16 of 1995, No.
-
-Senior State Counseling Shayin Weerasuriya appeared for the Attorney General.
-
-◼️
-
-[Data](articles/34cf783c.json)
-
-[Extended Data](ext_articles/34cf783c.ext.json)
-
----
-
-### Uncle visited a flower to jail for 12 years to jail
-
-*2025-10-03 21:23:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මල-කකළක-පරකළ-මම-වසර-12ක-හරට/101-680716) · `si`
-
-The 36-year-old girl who was carrying out serious sexually abusing bike girl, Homaratic Judge Navaratne Marasinghe was sentenced to 12 years.
-
-The High Court judge was sentenced to Rs. 25,000.
-
-The 3-year-old, the 13-helical aggrieved girl has been sentenced to Rs.
-
-The High Court Judge issued a statement that the complaint had been proven beyond fair suspicions, but if the suspect was not fault with faults, it was imposed on a serious punishment of this serious sexual abuse.
-
-The case was filed by the Attorney General against July 09, 2010 at Hokandara.
-
-The punishment of the complaint was repeated beyond the evaluation of a complaint that the complaint has been made under Article No. 16 of 1995, No.
-
-Senior State Counseling Shayin Weerasuriya appeared for the Attorney General.
-
-◼️
-
-[Data](articles/11c0a29c.json)
-
-[Extended Data](ext_articles/11c0a29c.ext.json)
-
----
-
-### Trump releases final announcement to Hamas
-
-*2025-10-03 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215311) · `si`
-
-US president Donald Trump has given the Hamas to accept the American peace plan for Gaza.
-
-He emphasizes that a note of its Truth Social Media Status should be agreed at 22.00 at 18.00 at 18.00 at Washington Time.
-
-◼️
-
-[Data](articles/0c63af98.json)
-
-[Extended Data](ext_articles/0c63af98.ext.json)
 
 ---

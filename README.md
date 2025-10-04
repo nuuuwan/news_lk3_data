@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 21:56:13**
+As of **2025-10-04 22:20:43**
 
 ## Newspaper Stats
 
-*Scraped **81,153** Articles*
+*Scraped **81,164** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 594
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 776
+lankadeepalk | 781
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -20,68 +20,116 @@ dailyftlk | 5,664
 adalk | 7,782
 adaderanalk | 10,437
 tamilmirrorlk | 12,049
-virakesarilk | 13,327
+virakesarilk | 13,333
 adaderanasinhalalk | 13,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,146 (100.0%) of 81,153 articles have been extended.
+81,164 (100.0%) of 81,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### උඩුනුවර සමූපාකාර ඡන්දය 9-0ක් ලෙස පොදු විපක්ෂය ජය ගනියි
+### Udunuwara Forever Declare Overcoming Voting Over 9-0
 
 *2025-10-04 21:31:41* · [`adalk`](https://www.ada.lk/breaking_news/උඩුනුවර-සමූපාකාර-ඡන්දය-9-0ක්-ලෙස-පොදු-විපක්ෂය-ජය-ගනියි/11-418914) · `si`
 
-උඩුනුවර සමූපාකාර සමිතියේ සභාපතිවරයා ඇතුළු අධ්‍යක්ෂක මණ්ඩලය තෝරාපත්කර ගැනීම සඳහා වු ඡන්දයේදී පොදු විපක්ෂ නියෝජනය කළ කණ්ඩායම ඡන්ද 09-00 ක් වශයෙන් ජයග්‍රහණය කොට තිබේ.
+The general opposition team won the CHOGM, including the Chairman and the Board of Directors of the Udunuwara Cooperation Society.
 
-මෙම ඡන්දය සම්බන්ධයෙන් පසුගිය සති කිහිපයක සිට මහත් ආන්දෝලනාත්මක ප්‍රවෘත්ති මැවු අතර එය වත්මන් ආණ්ඩු බලය හිමි කණ්ඩායම් සහ විපක්ෂ කණ්ඩායම් අතර විවිධ මතභේදාත්මක ගැටලු මතුව තිබියදී ජනාධිපතිවරයා මහනුවර සංචාරයක නිරතව ගොස් පසුදින පැවති මෙම ඡන්දයේදී පොදු විපක්ෂය මේ ආකාරයට ජයග්‍රහණයක් ලබා ගැනීම දේශපාලන කරළියේ ආන්දෝලනාත්මක සිදුවීමක් බව බොහෝ දෙනකුගේ අදහසයි.
+The President has created the controversial news since the last few weeks and the presidential opposition teams will visit Kandy and the general opposition groups have been a controversial incident in this month.
 
 ◼️
 
 [Data](articles/3c558c20.json)
 
+[Extended Data](ext_articles/3c558c20.ext.json)
+
 ---
 
-### පොළොන්නරු බීජ ගොවිපලේ දී විදුලි සැර වැදී අලියකු මියයයි
+### An elephant dies at Polonnaruwa
+
+*2025-10-04 21:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පළනනර-බජ-ගවපල-ද-වදල-සර-වද-අලයක-මයයය/1-680742) · `si`
+
+The Polonnaruwa Police say that the elephant has died in the seed farms of the Department of Agriculture, Polonnaruwa.
+
+According to a information received by a person, the Polonnaruwa Police Pathirana said that we were taken to educate the Polonnaruwa.
+
+The elephant is suspicious that the elephant is killed by the seed farm of the Department of Agriculture in Polonnaruwa due to electricity.
+
+According to the wild Polonnaruwa, the Polonnaruwa, the Polonnaruwa, said that the elephant was killed by electric park.
+
+The Polonnaruwa Wildlife Officers and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/a98161ff.json)
+
+[Extended Data](ext_articles/a98161ff.ext.json)
+
+---
+
+### An elephant dies at Polonnaruwa
 
 *2025-10-04 21:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පළනනර-බජ-ගවපල-ද-වදල-සර-වද-අලයක-මයයය/101-680742) · `si`
 
-පොලොන්නරුව කෘෂිකර්ම දෙපාර්තමේන්තුවේ බීජ ගොවිපල තුළ විදුලිසර වැදී වන අලියෙකු අද (4) මියගොස් ඇති බව පොළොන්නරුව පොලිසිය කියයි.
+The Polonnaruwa Police say that the elephant has died in the seed farms of the Department of Agriculture, Polonnaruwa.
 
-පුද්ගලයෙකුගෙන් ලද තොරතුරක් අනුව ඒ පිළිබඳ පොළොන්නරුව වනජීවී නිලධාරීන් දැනුවත් කිරීමට පියවර ගත් බව පොළොන්නරුව මූලස්ථාන පොලිස් පරීක්‍ෂක පී.පී.කේ පතිරන මහතා අප කළ විමසීමේදී පැවසීය.
+According to a information received by a person, the Polonnaruwa Police Pathirana said that we were taken to educate the Polonnaruwa.
 
-පොළොන්නරුව කෘෂිකර්ම දෙපාර්තමේන්තුවේ නව නගරය මාර්ගයේ බීජ ගොවිපලට අයත් නිල නිවස වටා භූමියට යොදා ඇති අනාරක්ෂිත විදුලි වැටකින් විදුලිය වැදීම හේතුවෙන් මෙම වන අලියා මිය යන්නට ඇති බවට වනජීවිය සැක පළ කරයි.
+The elephant is suspicious that the elephant is killed by the seed farm of the Department of Agriculture in Polonnaruwa due to electricity.
 
-මෙලෙස විදුලි සැර වැදීමෙන් මියගොස් ඇති වන අලියා අවුරුදු තිස්පහක් පමණ වයසති අලියකු බව ඒ පිළිබඳ පරීක්‍ෂණ සිදු කරන පොළොන්නරුව වනජීවී කාර්‍යාලයේ නිලධාරීන් සඳහන් කරයි.
+According to the wild Polonnaruwa, the Polonnaruwa, the Polonnaruwa, said that the elephant was killed by electric park.
 
-පොළොන්නරුව වනජීවී නිලධාරීන් සහ පොලිසිය එක්ව මේ පිළිබඳව වැඩිදුර විමර්ශන කටයුතු සිදුකරයි.
+The Polonnaruwa Wildlife Officers and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/5aebbf38.json)
 
+[Extended Data](ext_articles/5aebbf38.ext.json)
+
 ---
 
-### නාරංගල කන්දේ අතරමං වූ පිරිසක් බේරා ගැනීමේ මෙහෙයුමක්
+### Operation to save a group of people who were brought down at Narangoda
 
 *2025-10-04 21:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නරගල-කනද-අතරම-ව-පරසක-බර-ගනම-මහයමක/101-680741) · `si`
 
-බදුල්ල නාරංගල කන්ද  තරණය කළ 22 දෙනකු පමණ වන සංචාරක කණ්ඩායම් තුනක් අද (04) සවස අධික වර්ෂාව හා දැඩි සුළඟ මධ්‍යයේ දැඩි  අවදානමකට ලක්වී ඇතැයි බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්‍ෂ ඊ එම් එල් උදය කුමාර මහතා පැවසීය.
+The Deputy Director of the Disaster Management Center, EM L. Udaya Kumara said three tourist groups have been severely at risk in Badulla Narangala Kanda.
 
-මෙම පිරිස මුදවා ගැනීම සඳහා යුද හමුදා කණ්ඩායමක් එම ස්ථානයට ළඟාවී ඇති බවද එම මධ්‍යස්ථානය පැවසීය.
+A military team has reached the site to redeem the group.
 
-වර්ෂාව දැඩි සුළඟ හා දැඩි ශීතල ඔවුන් දැඩි අපහසුතාවයට පත්කර ඇති බවද ඔවුන් සමග මේ වනවිට දුරකථන සම්බන්ධතා පවත්වා ගනිමින් සිටින බවද කණ්ඩායම් තුන මේ වන විට තනි කණ්ඩායමකට ගොනුකර සම්බන්ධතා පවත්වා ගනිමින් සිටින බවද බදුල්ල  ආපදා කළමනාකරන මධ්‍යස්ථානය පැවසීය.
+The Way of the Winds of Rain The Disaster Management Center (DMC) said that the three teams have been inconvenienced.
 
-දිවයිනේ විවිධ ප්‍රදේශවලින් පැමිණි තරුණ හා වැඩිහිටි කණ්ඩායම් මේ අතර සිටින බවද ඔවුන් කූඩාරම් ගසා (කෑම්පින්) විනෝද වීම සඳහා කඳු මුදුනට නැග ඇති බවද එම මධ්‍යස්ථානය වැඩිදුරටත් පැවසීය.
+They have tented their young and older groups from various parts of the island.
 
 ◼️
 
 [Data](articles/800608ec.json)
+
+[Extended Data](ext_articles/800608ec.ext.json)
+
+---
+
+### Operation to save a group of people who were brought down at Narangoda
+
+*2025-10-04 21:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නරගල-කනද-අතරම-ව-පරසක-බර-ගනම-මහයමක/1-680741) · `si`
+
+The Deputy Director of the Disaster Management Center, EM L. Udaya Kumara said three tourist groups have been severely at risk in Badulla Narangala Kanda.
+
+A military team has reached the site to redeem the group.
+
+The Way of the Winds of Rain The Disaster Management Center (DMC) said that the three teams have been inconvenienced.
+
+They have tented their young and older groups from various parts of the island.
+
+◼️
+
+[Data](articles/17681c9d.json)
+
+[Extended Data](ext_articles/17681c9d.ext.json)
 
 ---
 
@@ -109,6 +157,30 @@ Meegoda Police Constable Randikal Lakmalal was investigated.
 
 ---
 
+### විෂ සතෙකු සපා කෑමෙන් සිව් හැවිරිදි දරුවා මරුට
+
+*2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/1-680740) · `si`
+
+A four-year-old pre-school child died on the night school
+
+The deceased is the child's league with his grandfather and grandmother with his grandfather, while he was leaving a carnival in the Neguma area.
+
+The police said that due to the death of the child to vomit at home and severely ill in the house.
+
+The deceased has been identified as a four year old pre-school student, Haputhante, who was residing in Lenegala Saurada Mawatha.
+
+The death touguration of Homagama Sudden Death Inspector has ordered the bodies to send a bodic shares to the Tasquet after he was conducted by peacekeraq.
+
+Meegoda Police Constable Randikal Lakmalal was investigated.
+
+◼️
+
+[Data](articles/9d33e02c.json)
+
+[Extended Data](ext_articles/9d33e02c.ext.json)
+
+---
+
 ### Ice rain to side in Badulla
 
 *2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බදලල-පතතකට-අයස-වස/101-680739) · `si`
@@ -128,6 +200,28 @@ Police have also interrupted the traffic on the Divulapurass Tharasa Teldeniya r
 [Data](articles/1b918964.json)
 
 [Extended Data](ext_articles/1b918964.ext.json)
+
+---
+
+### Ice rain to side in Badulla
+
+*2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බදලල-පතතකට-අයස-වස/1-680739) · `si`
+
+Wednesday, the Dasadalawala Disaster Management Center (DMC) says that about thirty houses have been damaged in the Divulaphalawela Region.
+
+The OIC of the Divulapalessa Police Inspector MDDA said that the trees blocked by road collas.
+
+The ice rained across the area for nearly a few months, the ice rained across the area nearly two hours this afternoon.
+
+He said that a number of houses were roofed roofed roofing, the roofs of the roofs of the houses, and the trees were damaged.
+
+Police have also interrupted the traffic on the Divulapurass Tharasa Teldeniya road in the Divulapurale Waltiya area on the Wallt 33000 Vallt in the Walasgala area.
+
+◼️
+
+[Data](articles/c69e9294.json)
+
+[Extended Data](ext_articles/c69e9294.ext.json)
 
 ---
 
@@ -161,19 +255,21 @@ Investigations have been conducted further investigations to ensure resource Man
 
 ---
 
-### சம்பத் மனம்பேரியின் மைத்துனர் கைது
+### Sampath Manamperi's brother -in -law arrested
 
 *2025-10-04 19:48:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரியின்-மைத்துனர்-கைது/175-365710) · `ta`
 
-சம்பத் மனம்பேரியின் மைத்துனர் இன்று மதியம் மேல் மாகாண வடக்கு குற்ற விசாரணை பிரிவால் பியகம பகுதியில் வைத்து கைது செய்யப்பட்டார்.
+Sampath Manamperi's brother -in -law was arrested this afternoon by the Northern Provincial Criminal Investigation Division in Biyagama.
 
-இந்த நிலையில் சந்தேகநபரிடம் இருந்து விற்பனைக்காக தயாராக இருந்த 555 கிராம் ஹெரோயின், கைத்துப்பாக்கி மற்றும் மெஹசின் என்பனவும் கண்டுபிடிக்கப்பட்டுள்ளன.
+In this case, 555 grams of heroin, handgun and mehasin have been found ready for sale from the suspect.
 
-சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மேல் மாகாண உதவி பொலிஸ் அத்தியட்சகர் ரொஹான் ஒலுகலவின் அறிவுறுத்தலின் பேரில் அதன் பொறுப்பதிகாரி லிண்டன் சில்வா முன்னெடுத்து வருகிறார். R
+Further inquiries into the incident are being carried out by Linden Silva on the instructions of Western Province Assistant Superintendent of Police Rohan Olugala.. Remble
 
 ◼️
 
 [Data](articles/1103f0f6.json)
+
+[Extended Data](ext_articles/1103f0f6.ext.json)
 
 ---
 
@@ -201,53 +297,97 @@ The Department added that investigations are conducted to further confirm this.
 
 ---
 
-### விஜய்யின் பிரச்சார பேருந்தை பறிமுதல் செய்ய உத்தரவு
+### Vijay's propaganda bus
 
 *2025-10-04 19:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்யின்-பிரச்சார-பேருந்தை-பறிமுதல்-செய்ய-உத்தரவு/54-365709) · `ta`
 
-விஜய் தலைமையில் கரூரில் நடந்த பொதுக்கூட்டத்தின் போது ஏற்பட்ட நெரிசலில் 41 பேர் உயிரிழந்தனர்.
+41 people were killed in a congestion during a public meeting in Karur led by Vijay.
 
-இந்த கூட்டத்தை கட்டுப்படுத்துவதில் ஏற்பட்ட குறைப்பாடுகளே இந்த அசம்பாவிதத்திற்குக் காரணம் என்று முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+Preliminary inquiries revealed that the reduction in the meeting was the cause of the incident.
 
-கரூர் மாவட்ட சம்பவம் குறித்து விசாரிக்க, சிறப்புப் புலனாய்வுக் குழுவை சென்னை உயர் நீதிமன்றம் அமைத்தது. இது தொடர்பான அனைத்து ஆவணங்களையும் உடனடியாக சிறப்புப் புலனாய்வுக் குழுவிடம் ஒப்படைக்குமாறு கரூர் பொலிஸ் துறைக்கு நீதிமன்றம் உத்தரவிட்டது.
+The Madras High Court has set up a special investigation team to investigate the Karur district incident. The court ordered the Karur police department to immediately hand over all the relevant documents to the Special Investigation Committee.
 
-மேலும், நிலையான செயல்பாட்டு நடைமுறைகள் வகுக்கப்படும் வரை, மாநில மற்றும் தேசிய நெடுஞ்சாலைகளில் அரசியல் பேரணிகள், வாகனப் பேரணிகள் மற்றும் அதுபோன்ற பொது நிகழ்வுகளை நடத்தவும் நீதிமன்றம் தடை விதித்துள்ளது.
+In addition, the court has also banned political rallies, vehicle rallies and such public events on the state and national highways until the standard operational procedures are set.
 
-சமீபத்திய கரூர் நெரிசல் போன்ற சம்பவங்களைத் தடுக்க, பெருந்திரளான கூட்டங்களுக்கான நிலையான செயல்பாட்டு நடைமுறைகளை வகுக்கக் கோரிய நான்கு பொதுநல மனுக்களை விசாரித்தபோது இந்த உத்தரவு பிறப்பிக்கப்பட்டது.
+The order was issued when the four welfare petitions demanded to formulate the sustainable operational procedures for large gatherings to prevent incidents such as Karur congestion.
+
+The government also assured the court that no meetings would be allowed on the state and national highways, except for the reserved seats, until the standard operational procedures were finalized.
 
 ...
 
 [Data](articles/9fb9f87f.json)
 
+[Extended Data](ext_articles/9fb9f87f.ext.json)
+
 ---
 
-### விபத்தில் இளம் தம்பதி பலி
+### Young couple killed in accident
 
 *2025-10-04 19:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இளம்-தம்பதி-பலி/175-365708) · `ta`
 
-ஹொரணை-மொரகஹஹேன வீதியில் கனன்வில பகுதியில் இன்று பிற்பகல் மோட்டார் சைக்கிள் ஒன்று லொறியுடன் மோதியதில் இளம் தம்பதியினர் உயிரிழந்தனர்.
+A young couple was killed when a motorcycle crashed into a lorry this afternoon at Kananwila area on the Horana-Moragahahena road.
 
 ◼️
 
 [Data](articles/5d20f932.json)
 
+[Extended Data](ext_articles/5d20f932.ext.json)
+
 ---
 
-### කාවඩි නටමින් සිටි තරුණයා හදිසියේ මරුට
+### Minister Saroja Bolraj Barbados to attend the 68th Commonwealth Parliamentary Conference
+
+*2025-10-04 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226905) · `ta`
+
+The Commonwealth Parliamentary Association (CPA), organized by the Commonwealth Parliamentary Association (CPC), will be held on Sunday (October 5) to 12th October, with the aim of discussing global parliament and political issues.
+
+The conference will be attended by Members of Parliament and MPs in the Commonwealth, representing Sri Lanka and the President of the Sri Lanka Parliamentary Women's Council (WPC), Minister of Women and Child Affairs, Saroja Savitri, Sukat Vasantha de Silva (Member of Parliament), Lawyer Sagarika Atavuda and the Route Member of Parliament, Rohanni, Member of Parliament, Rohanni, Member of Parliament, and Opposition Parliamentary Party.
+
+In this backdrop, a group of Minister Saroja Savitri Bolraj will be traveling to Barbados tomorrow (5th) to attend the conference, which will be held for a week, including various sub -seminars and various activities.
+
+◼️
+
+[Data](articles/adeb733a.json)
+
+[Extended Data](ext_articles/adeb733a.ext.json)
+
+---
+
+### Underworld Group Member Pekho Saman's brother -in -law arrested in Biyagama
+
+*2025-10-04 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226906) · `ta`
+
+The brother -in -law of Pekho Saman, a member of the underworld group, has been arrested in Biyagama with narcotics and weapons, police said.
+
+The suspect was arrested during the raid carried out on the basis of confidential information received by the police.
+
+Police said 555 grams of heroin, a handgun and its bullets were recovered from the suspect.
+
+◼️
+
+[Data](articles/a9bdfeea.json)
+
+[Extended Data](ext_articles/a9bdfeea.ext.json)
+
+---
+
+### Youth dies of Kavadi
 
 *2025-10-04 19:22:36* · [`adalk`](https://www.ada.lk/breaking_news/කාවඩි-නටමින්-සිටි-තරුණයා-හදිසියේ-මරුට/11-418912) · `si`
 
-අම්බලන්ගොඩ මාදම්පේ ඉඩම්තොට සුවිසුද්ධාරාම විහාරස්ථානය විසින් සංවිධාන කර ඊයේ (3) රාත්‍රී සංචාරය කෙරුණු පෙරහරක කාවාඩි නටමින් සිටි විසි හැවිරිදි තරුණයකු හදිසියේම අසනීපවී මරුමුවට පත්වී ඇති බව අම්බලන්ගොඩ පොලීසිය කියයි.
+A 20-year-old youth who was organized by the Medimba, Land in Ambalangoda, had sick suddenly sick.
 
-මරුමුවට පත්ව ඇත්තේ ඇත්කඳුර තණබද්දෙගම පදිංචි පී.එම්.මහීෂ ප්‍රභාෂණ නමැති විසි හැවිරිදි තරුණයෙකි.
+The victim is PM UK, a 20 year old, a 21 year old residents.
 
-පෙරහර මාදම්පේ නගරය හරහා වීථි සංචාරය කරමින් සිටියදී කාවාඩි  නර්තනයේ යෙදී සිටි තරුණයා රෝගාතුර වීමෙන් පසු බලපිටිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ.
+The young man who was involved in the Kavadi dance was killed after the death of Kavadi dance to the Madampe Town.
 
-ක්‍රිකට් ක්‍රීඩකයෙක් වන මිය ගිය තරුණයාට කිසිදු බෝනොවන රෝගයක් නොතිබූ බවත් තරුණයා මිය යාම අදහා ගැනීමට බැරි බව පවුලේ ඥාතීහු කියති. අම්බලන්ගොඩ පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
+Family Relatives say that the deceased young man, who is a cricketer, had no infected diseases and the young man could not believe that the young man could not believe. The Ambalangoda Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/382fdbf7.json)
+
+[Extended Data](ext_articles/382fdbf7.ext.json)
 
 ---
 
@@ -815,6 +955,26 @@ Preliminary inquiries have revealed that the suspect had sold electronic cigaret
 
 ---
 
+### Hamas has made investment for the highest health care;  Jaiyatissa
+
+*2025-10-04 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226891) · `ta`
+
+Health and Mass Media Minister Nalinda Jayatissa says that the third level maintenance hospital will become a living institution of continuous learning, novelty, service and trust.
+
+Hemas, which is dedicated to the country's health progress, laid the groundwork for the construction of a third -level hospital with its sophisticated and fully facilities in Talawatukoda on Friday (03) under the patronage of Health and Mass Media Minister Nalinda Jayadissa.
+
+It is planned to hire nearly 900 health professionals and expand with beds for 150 patients. The aim is to introduce modern emergency care units, surgical units and special centers, and the foundation stone is organized under the theme "A new meaning for the future of health".
+
+Hemas has made investment for the highest health care and has taken steps to expand its services in accordance with international standards and strengthen the National Health Organization.
+
+...
+
+[Data](articles/19e67aa2.json)
+
+[Extended Data](ext_articles/19e67aa2.ext.json)
+
+---
+
 ### Harish Kalyan starring 'Diesel' updates
 
 *2025-10-04 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226892) · `ta`
@@ -1138,6 +1298,24 @@ Police said that the couple died in hospital at the hospital.
 [Data](articles/30b67107.json)
 
 [Extended Data](ext_articles/30b67107.ext.json)
+
+---
+
+### The fifth Sugatha will be opened in the Matale district;  Nalinda Jayatissa
+
+*2025-10-04 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226882) · `ta`
+
+Minister of Health and Media Media Nalinda Jayatissa said that the medical department on the welfare of the country and the health of the country was in great condition and that other health departments were launched in order to develop a similar development center.
+
+Under the first phase of the new government's health policy, the Ministry is now planning to establish a thousand primary health centers across the country to ensure that the people of this country can easily get health services under the advice and guidance of Health and Media Minister Nalinda Jayatissa.
+
+These primary health centers, which are installed in a place where people are easily accessible, are labeled as health centers. Under this scheme, which will be implemented under the "Healthy Sri Lanka", the new government's plan, "Healthy Sri Lanka", is planned to establish a hundred primary health centers this year.
+
+...
+
+[Data](articles/781a7fa2.json)
+
+[Extended Data](ext_articles/781a7fa2.ext.json)
 
 ---
 
@@ -1765,6 +1943,46 @@ Tantrimalai police have received information that a young man has sold drug pill
 
 ---
 
+### The new constitution will be brought soon - Minister of Fisheries
+
+*2025-10-04 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226869) · `ta`
+
+Fisheries Minister Ramalingam Chandrasekaran said a new constitution would be introduced soon.
+
+A journalist said in a statement on the new constitution of your government on Friday after an event in Jaffna - Sangana.. He questioned the current position of the government.
+
+The new constitutional law is a matter of our policy declaration. We have come to power and have been completed.
+
+To know what position this country was a year ago. This is what people know. But politicians pretend to be unknown.
+
+He said the new constitution would be introduced as a long -standing law to solve all the problems of the people of this country.
+
+◼️
+
+[Data](articles/ead66c39.json)
+
+[Extended Data](ext_articles/ead66c39.ext.json)
+
+---
+
+### Investigation into 31 phones from the suspects brought from Indonesia
+
+*2025-10-04 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226867) · `ta`
+
+Investigations have begun regarding 31 phones from the suspects brought from Indonesia. The Minister of Public Security Ananda Wijebala said that whatever those involved in them are, they will be arrested without any discrimination.
+
+The police are carrying out investigations based on complaints and information available to them and implementing the law. So we have no need to carry out political revenge. The long -term lost justice is currently being provided.
+
+Allegations have been made against various parties by the people. Investigations are being carried out. When the police spokesman reports about the daily renewed information, the opposition is seeking to respond to them. They portray the implementation of the law as political revenge.
+
+...
+
+[Data](articles/22c76771.json)
+
+[Extended Data](ext_articles/22c76771.ext.json)
+
+---
+
 ### Draft Amendments on Corporal Punishment of Children Not Yet Law – Says Minister of Justice
 
 *2025-10-04 13:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/draft-amendments-on-corporal-punishment-of-children-not-yet-law-says-minister-of-justice) · `en`
@@ -1776,213 +1994,5 @@ COLOMBO (News 1st); Minister of Justice and National Cohesion, Attorney Harshana
 [Data](articles/021edd81.json)
 
 [Extended Data](ext_articles/021edd81.ext.json)
-
----
-
-### Sanae Takaichi is ready to be the first female Prime Minister of Japan
-
-*2025-10-04 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215329) · `si`
-
-Sanae Takaichi is due to be appointed as the first female Prime Minister of Japan.
-
-The Japanese ruling party is the election of Takaichi as the new head of its party.
-
-A parliamentary polls will be held on October 15 to select a Prime Minister instead of Shiba.
-
-◼️
-
-[Data](articles/5b32eccb.json)
-
-[Extended Data](ext_articles/5b32eccb.ext.json)
-
----
-
-### Reconstruction program in Sri Lanka
-
-*2025-10-04 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215328) · `si`
-
-The International Monetary Fund Department's Director of Communication Department said that the economic growth of the country has increased to 5% after the economic crisis.
-
-She said this at a press conference held at the IMF.
-
-Mr. Kosak added that the broad economic reform program in Sri Lanka has made attractive progress.
-
-"What I can tell about the broad reform program in Sri Lanka has made continuous impressive progress. Inflation is still low and the raising of the government is improving.
-
-Also, international reserves are being collected. Sri Lanka has increased to 5% after the year 2024. It is a prominent achievement.
-
-Budget Income - GDP ratio has improved from 8.2% to 13.5% of the year. It's a significant increase. The process of restructuring the loan has been very large.
-
-Overall, the program performance is strong. The government is committed to the objectives of the comprehensive funding program.
-
-...
-
-[Data](articles/735f49d2.json)
-
-[Extended Data](ext_articles/735f49d2.ext.json)
-
----
-
-### Japan’s Takaichi set to become country’s first female PM
-
-*2025-10-04 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113210/japans-takaichi-set-to-become-countrys-first-female-pm) · `en`
-
-Japan’s ruling party picked conservative nationalist Sanae Takaichi as its new head on Saturday, putting her on course to become the country’s first female prime minister.
-
-The Liberal Democratic Party elected Takaichi, 64, to regain trust from a public angered by rising prices and drawn to opposition groups promising big stimulus and clampdowns on foreigners.
-
-A vote in parliament to choose a prime minister to replace Shigeru Ishiba is expected to be held on October 15.
-
-The new LDP president is likely to succeed Shigeru Ishiba as leader of the world’s fourth-biggest economy because the party, which has governed Japan for almost all the postwar period, is the biggest in parliament. But this is not assured as the party and its coalition partner lost their majorities in both houses under Ishiba in the past year.
-
-...
-
-[Data](articles/488a940b.json)
-
-[Extended Data](ext_articles/488a940b.ext.json)
-
----
-
-### Bulletproof vehicle provided for Mahinda Rajapaksa’s security returned
-
-*2025-10-04 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113209/bulletproof-vehicle-provided-for-mahinda-rajapaksas-security-returned) · `en`
-
-The bulletproof vehicle provided for the security of former President Mahinda Rajapaksa has been returned.
-
-Issuing a special statement, Mahinda Rajapaksa’s media spokesperson, Attorney-at-Law Manoj Gamage, stated that the vehicle was returned yesterday (3) through the relevant company.
-
-Gamage further noted that following the enactment of the Presidents’ Entitlements (Repeal) Act, the Presidential Secretary had informed on September 24 that all official vehicles and the official residence of the fifth Executive President, Mahinda Rajapaksa, need to be handed over.
-
-He added that the passenger vehicle assigned for the use of the security officers attached to the former President was also returned.
-
-According to Gamage, this situation has placed Mahinda Rajapaksa’s life at risk.
-
-“We hope to meet with the IGP, the Defence Secretary, and the heads of security forces next week to request the necessary vehicles required for Mahinda Rajapaksa’s security,” Gamage stated.
-
-◼️
-
-[Data](articles/81394219.json)
-
-[Extended Data](ext_articles/81394219.ext.json)
-
----
-
-### Two vendors fined for selling ‘Keeri Samba’ at inflated prices
-
-*2025-10-04 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113208/two-vendors-fined-for-selling-keeri-samba-at-inflated-prices) · `en`
-
-Two traders found guilty of selling Keeri Samba rice at inflated prices have each been fined Rs. 100,000, in orders issued by the Kalutara and Panadura Magistrate’s Courts.
-
-Meanwhile, the Horana Magistrate has ordered a fine of Rs. 20,000 on a trader in Poruwadanda, Horana, for concealing stocks of Keeri Samba rice, along with the confiscation of the 25-kilogram packs in the trader’s possession.
-
-The Kalutara Magistrate’s Court yesterday (03) imposed a fine of Rs. 100,000 on a shop owner in Nagoda, Kalutara, after admitting the selling of Keeri Samba rice at Rs. 310 per kilogram, Ada Derana reporter said.
-
-Additionally, the Panadura Magistrate’s Court has imposed a fine of Rs. 100,000 on a shop in the Sarikkamulla area of Panadura for selling Keeri Samba rice at Rs. 300 per kilogram.
-
-The Magistrate’s Courts in the respective areas has issued these orders on 02 October, 2025 and yesterday (03), Ada Derana reporter said.
-
-◼️
-
-[Data](articles/5ae57e14.json)
-
-[Extended Data](ext_articles/5ae57e14.ext.json)
-
----
-
-### The work of removing illegal land and buildings is the beginning of Kinniya
-
-*2025-10-04 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226864) · `ta`
-
-In many areas under the Kinniya Divisional Secretariat, the removal of illegal lands and buildings and the state -owned event was held on Friday (03) in the presence of the Kinniya Divisional Secretary MH MH MH MM.
-
-Lands and buildings illegally obtained in the Kinniya Kachakkodu Island area were taken by the Kinniya Divisional Secretary under the Land Excellence Act in 1979 and the registrar Biskal Oder was issued by the Registrar Biscal Oder.
-
-The buildings are being carried out with the help of the police, even though the illegal land builders were involved in the event.
-
-A stadium that the youth has been playing on the island of Kodakkodu has been nationalized from the illegal seizure. During this event, a large number of young people gathered.  This illegal building is ongoing.
-
-◼️
-
-[Data](articles/c8db1245.json)
-
-[Extended Data](ext_articles/c8db1245.ext.json)
-
----
-
-### Another match participating in the Women's World Cup today
-
-*2025-10-04 12:20:01* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-ලෝක-කුසලානයේ-ශ්‍රී-ලංකාව-සහභාගී-වන-තවත්-තරගයක්-අද/11-418906) · `si`
-
-Another match will be held in the Women's ODI World Cup today (04).
-
-◼️
-
-[Data](articles/60eb6d72.json)
-
-[Extended Data](ext_articles/60eb6d72.ext.json)
-
----
-
-### World Animals Day Today
-
-*2025-10-04 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226865) · `ta`
-
-World Animal Day is celebrated on the 04th of October every year.
-
-Francis Azizi's commemoration day is celebrated as a natural enthusiast and deity of animals.
-
-World Animal Day was declared on 04 October 1925.
-
-This day is celebrated with the aim of raising awareness of the importance of animals and protecting them.
-
-It is the duty of humans to protect the extinct animal species in the world. So we will protect and maintain animals.
-
-◼️
-
-[Data](articles/657281b9.json)
-
-[Extended Data](ext_articles/657281b9.ext.json)
-
----
-
-### A pronouncement of strong lightning
-
-*2025-10-04 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215327) · `si`
-
-The Department of Meteorology has issued an announcement in powerful lightning.
-
-The announcement will be valid until 11 pm today (04), the Met Department said.
-
-The Department of Meteorology states that there is an increase in lightning lightning in the Northern, North-Central, Uva provinces and Kurunegala districts.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Meteorological Department urges the public to take necessary steps to minimize the damages caused by lightning accidents.
-
-◼️
-
-[Data](articles/f069492e.json)
-
-[Extended Data](ext_articles/f069492e.ext.json)
-
----
-
-### The owner of selling food with rat residues in Jaffna
-
-*2025-10-04 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226855) · `ta`
-
-The owner of the supermarket has been fined 60 thousand rupees on charges of selling food items with rat residues in Point Pedro.
-
-The action was taken during a raid carried out by the Public Health Inspector at the food manipulation and supermarkets in the area under the rule of the Point Pedro Urban Council.
-
-A suit was filed against the owner of the supermarket in the case of selling beetle foods, outdated foods, foods with rat residues and fungi foods.
-
-During the trial, the judge who strongly warned the owner after the owner accepted the allegation against him, sentenced the owner to a fine of Rs 60,000.
-
-◼️
-
-[Data](articles/33d3a9db.json)
-
-[Extended Data](ext_articles/33d3a9db.ext.json)
 
 ---

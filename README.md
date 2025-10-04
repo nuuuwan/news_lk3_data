@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 13:56:46**
+As of **2025-10-04 14:08:57**
 
 ## Newspaper Stats
 
-*Scraped **81,045** Articles*
+*Scraped **81,048** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 580
+newsfirstlk | 583
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 756
@@ -27,11 +27,47 @@ adaderanasinhalalk | 13,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,045 (100.0%) of 81,045 articles have been extended.
+81,045 (100.0%) of 81,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### Police Question Suspect in Ice Drug Trafficking Case
+
+*2025-10-04 13:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/police-question-suspect-in-ice-drug-trafficking-case) · `en`
+
+COLOMBO (News 1st); A suspect arrested in the Horowpathana in connection with an ice drug trafficking case is currently being questioned under a detention order.The police said that the suspect was produced before the Kabitigollawa Magistrate yesterday, following which a five-day detention order was granted.Authorities discovered 410 milligrams of ice found in the suspect’s possession. The 55-year-old suspect had previously contested the recent local government elections as a candidate of the Samagi Jana Balawegaya.
+
+◼️
+
+[Data](articles/05e6c5ac.json)
+
+---
+
+### Over 1,200 Kilograms of Heroin, and 1,800 Kilograms of ICE seized in 9 months
+
+*2025-10-04 13:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/over-1-200-kilograms-of-heroin-and-1-800-kilograms-of-ice-seized-in-9-months) · `en`
+
+COLOMBO (News 1st); Acting Police Spokesperson, Assistant Super of Police Minura Senerath, said that police have seized 1,248 kg of Heroin.He said and 1,852 kg of ICE have been seized over the past nine months.Additionally, The police have also introduced new contact numbers for the public to provide information on narcotic seizures.Accordingly Public can contact Deputy Inspector Generals on District Levels and Senior Police Officers on Divisional Levels to report drug-related information confidentially.Additionally, Police vowed to keep the Drug Tips confidential.
+
+◼️
+
+[Data](articles/1293e214.json)
+
+---
+
+### Former President Mahinda Rajapaksa Returns Bulletproof Vehicle
+
+*2025-10-04 13:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/former-president-mahinda-rajapaksa-returns-bulletproof-vehicle) · `en`
+
+COLOMBO (News 1st); Media Spokesperson of Former President Mahinda Rajapaksa Attorney Manoj Gamage said that the bulletproof vehicle used by Former President Mahinda Rajapakse has been handed over to the government. The spokesperson noted that the vehicle was returned in line with the Act pertaining to removing certain entitlements of former presidents as per the announcement by The Presidential Secretariat in line with the Act on the removal of entitlements of former presidents.Attorney Manoj Gamage said that discussions are expected with relevant officials, including the Defence Minister, regarding vehicles needed for the transport of security personnel, ensuring the continued protection of the Former President Mahinda Rajapaksa.
+
+◼️
+
+[Data](articles/be3badf4.json)
+
+---
 
 ### Draft Amendments on Corporal Punishment of Children Not Yet Law – Says Minister of Justice
 
@@ -2014,75 +2050,5 @@ He stated that during discussions on the tourism industry, it was emphasized tha
 [Data](articles/4a9d1cd8.json)
 
 [Extended Data](ext_articles/4a9d1cd8.ext.json)
-
----
-
-### The decision to increase electricity tariff on the 15th
-
-*2025-10-03 19:58:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදල-ගසත-ඉහළ-දමම-තරණය-15වනද/101-680714) · `si`
-
-The Ceylon Electricity Board (CEB) The Ceylon Electricity Board (CEB) is announced by the Public Utilities Proceedings of the Ceylon Electricity Monetary Motion to increase the electricity fund by 6.8 percent.
-
-The official said that public comments on the process of the telephone revision is currently underway, the final session of the Western Provincial Council will be decided on the reference to the remembrance of the fee.
-
-The official revision of the Television and the electricity tariff is said to be the fiercely alert of expenditure estimates.
-
-The official said that the proposal was being studied by the Public Utilities and the electricity per fuel purchase of fuel power plants, the electricity booty cost and the fuel power plants.
-
-The CEB engineering engineering engineering Engineer (CEB) has demanded an increase in the fee.
-
-It is estimated that an increase of Rs. 17,694 million, or Rs.
-
-◼️
-
-[Data](articles/a1d27c78.json)
-
-[Extended Data](ext_articles/a1d27c78.ext.json)
-
----
-
-### The decision to increase electricity tariff on the 15th
-
-*2025-10-03 19:58:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදල-ගසත-ඉහළ-දමම-තරණය-15වනද/1-680714) · `si`
-
-The Ceylon Electricity Board (CEB) The Ceylon Electricity Board (CEB) is announced by the Public Utilities Proceedings of the Ceylon Electricity Monetary Motion to increase the electricity fund by 6.8 percent.
-
-The official said that public comments on the process of the telephone revision is currently underway, the final session of the Western Provincial Council will be decided on the reference to the remembrance of the fee.
-
-The official revision of the Television and the electricity tariff is said to be the fiercely alert of expenditure estimates.
-
-The official said that the proposal was being studied by the Public Utilities and the electricity per fuel purchase of fuel power plants, the electricity booty cost and the fuel power plants.
-
-The CEB engineering engineering engineering Engineer (CEB) has demanded an increase in the fee.
-
-It is estimated that an increase of Rs. 17,694 million, or Rs.
-
-◼️
-
-[Data](articles/b6bfd809.json)
-
-[Extended Data](ext_articles/b6bfd809.ext.json)
-
----
-
-### Flights between Beira Lake and Katunayake
-
-*2025-10-03 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215309) · `si`
-
-Internal flights between Colombo and Katunayake were commenced as another phase of developing tourism industry in Sri Lanka this morning.
-
-Cessna 208 Seaplane, a 248, SEAPLELE, was flew from the Katunayake airport this morning.
-
-Deputy Minister of Ports and Civil Aviation, Deputy Minister of Tourism Professor Ruwan Ranasinghe and other officials of Colombo Ruwan Ranasinghe came to Beira Lake.
-
-Transport, Highways and Civil Aviation Minister Bimal Ratnayake, Secretary Defense and Cinnamon Hotel Chairman Krishan Balendra was present at the Cinnamon Lake Side Jetty.
-
-Minister Bimal Ratnayake, who was launched on the plane, was in a friendly conversation with the Chief Prelate of the Captain Indika Premadasa and the Assistant Pilot.
-
-◼️
-
-[Data](articles/9b887b69.json)
-
-[Extended Data](ext_articles/9b887b69.ext.json)
 
 ---

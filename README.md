@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 21:56:13**
+As of **2025-10-04 22:08:26**
 
 ## Newspaper Stats
 
-*Scraped **81,153** Articles*
+*Scraped **81,164** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 594
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 776
+lankadeepalk | 781
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -20,14 +20,14 @@ dailyftlk | 5,664
 adalk | 7,782
 adaderanalk | 10,437
 tamilmirrorlk | 12,049
-virakesarilk | 13,327
+virakesarilk | 13,333
 adaderanasinhalalk | 13,956
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,146 (100.0%) of 81,153 articles have been extended.
+81,146 (100.0%) of 81,164 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3c558c20.json)
+
+---
+
+### පොළොන්නරු බීජ ගොවිපලේ දී විදුලි සැර වැදී අලියකු මියයයි
+
+*2025-10-04 21:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පළනනර-බජ-ගවපල-ද-වදල-සර-වද-අලයක-මයයය/1-680742) · `si`
+
+පොලොන්නරුව කෘෂිකර්ම දෙපාර්තමේන්තුවේ බීජ ගොවිපල තුළ විදුලිසර වැදී වන අලියෙකු අද (4) මියගොස් ඇති බව පොළොන්නරුව පොලිසිය කියයි.
+
+පුද්ගලයෙකුගෙන් ලද තොරතුරක් අනුව ඒ පිළිබඳ පොළොන්නරුව වනජීවී නිලධාරීන් දැනුවත් කිරීමට පියවර ගත් බව පොළොන්නරුව මූලස්ථාන පොලිස් පරීක්‍ෂක පී.පී.කේ පතිරන මහතා අප කළ විමසීමේදී පැවසීය.
+
+පොළොන්නරුව කෘෂිකර්ම දෙපාර්තමේන්තුවේ නව නගරය මාර්ගයේ බීජ ගොවිපලට අයත් නිල නිවස වටා භූමියට යොදා ඇති අනාරක්ෂිත විදුලි වැටකින් විදුලිය වැදීම හේතුවෙන් මෙම වන අලියා මිය යන්නට ඇති බවට වනජීවිය සැක පළ කරයි.
+
+මෙලෙස විදුලි සැර වැදීමෙන් මියගොස් ඇති වන අලියා අවුරුදු තිස්පහක් පමණ වයසති අලියකු බව ඒ පිළිබඳ පරීක්‍ෂණ සිදු කරන පොළොන්නරුව වනජීවී කාර්‍යාලයේ නිලධාරීන් සඳහන් කරයි.
+
+පොළොන්නරුව වනජීවී නිලධාරීන් සහ පොලිසිය එක්ව මේ පිළිබඳව වැඩිදුර විමර්ශන කටයුතු සිදුකරයි.
+
+◼️
+
+[Data](articles/a98161ff.json)
 
 ---
 
@@ -85,6 +105,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### නාරංගල කන්දේ අතරමං වූ පිරිසක් බේරා ගැනීමේ මෙහෙයුමක්
+
+*2025-10-04 21:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නරගල-කනද-අතරම-ව-පරසක-බර-ගනම-මහයමක/1-680741) · `si`
+
+බදුල්ල නාරංගල කන්ද  තරණය කළ 22 දෙනකු පමණ වන සංචාරක කණ්ඩායම් තුනක් අද (04) සවස අධික වර්ෂාව හා දැඩි සුළඟ මධ්‍යයේ දැඩි  අවදානමකට ලක්වී ඇතැයි බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්‍ෂ ඊ එම් එල් උදය කුමාර මහතා පැවසීය.
+
+මෙම පිරිස මුදවා ගැනීම සඳහා යුද හමුදා කණ්ඩායමක් එම ස්ථානයට ළඟාවී ඇති බවද එම මධ්‍යස්ථානය පැවසීය.
+
+වර්ෂාව දැඩි සුළඟ හා දැඩි ශීතල ඔවුන් දැඩි අපහසුතාවයට පත්කර ඇති බවද ඔවුන් සමග මේ වනවිට දුරකථන සම්බන්ධතා පවත්වා ගනිමින් සිටින බවද කණ්ඩායම් තුන මේ වන විට තනි කණ්ඩායමකට ගොනුකර සම්බන්ධතා පවත්වා ගනිමින් සිටින බවද බදුල්ල  ආපදා කළමනාකරන මධ්‍යස්ථානය පැවසීය.
+
+දිවයිනේ විවිධ ප්‍රදේශවලින් පැමිණි තරුණ හා වැඩිහිටි කණ්ඩායම් මේ අතර සිටින බවද ඔවුන් කූඩාරම් ගසා (කෑම්පින්) විනෝද වීම සඳහා කඳු මුදුනට නැග ඇති බවද එම මධ්‍යස්ථානය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/17681c9d.json)
+
+---
+
 ### Fourth year kills four-year-old child
 
 *2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/101-680740) · `si`
@@ -109,6 +147,28 @@ Meegoda Police Constable Randikal Lakmalal was investigated.
 
 ---
 
+### විෂ සතෙකු සපා කෑමෙන් සිව් හැවිරිදි දරුවා මරුට
+
+*2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/1-680740) · `si`
+
+රාත්‍රී කාළයේදී  පා ගමනින් යමින් සිටි සිව් හැවිරිදි පෙර පාසල් දරුවෙකු විෂ සහිත සත්වයෙකු හෝ කෘමියෙකුගේ සපා කෑමට ලක්ව රෝහල් ගත කිරීමෙන් පසු මියගොස් ඇතැයි මීගොඩ පොලිසිය පවසයි
+
+මිය ගිය දරුවා හෝමගම ලෙනගල ප්‍රදේශයේ තිබූ සැණකෙළියක් නැරඹීම සදහා තම සීයා සහ ආච්චි සමගින් පා ගමනින් යන අතරතුර කඩියෙකු තම කකුල සපා කෑ බවට පවසමින් හඩා ඇති බවත් පසුව සැණකෙළිය නරඹන අතරතුර උදරාබාධයක් ඇති වීමෙන් පසු දරුවා නිවසට රැගෙන ගොස් ඇත.
+
+අනතුරුට නිවසේ දී දරුවාට වමනය ගොස් දැඩි ලෙස රෝගාතුර වීම නිසාවෙන් හෝමගම මූලික රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇතැයි ද පොලිසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ දැඩිගමුව ලෙනගල සුහද මාවත පදිංචිව සිටි හපුතන්ත්‍රීගේ උවිදු නිම්සර නමැති සිව් හැවිරිදි පෙර පාසල් සිසුවෙකි.
+
+එම මරණය පිලිබදව හදිසි මරණ පරීක්ෂණය හෝමගම හදිසි මරණ පරීක්ෂක සාමවිනිසුරු චින්තක උදය කුමාර මහතා විසින් සිදු කිරීමෙන් පසු ශරීර කොටස් රස පරීක්ෂක වෙත යැවීමට නියෝග කර විවෘත තීන්දුවක් ලබා දීමට කටයුතු කර ඇත.
+
+මීගොඩ පොලිසියේ පොලිස් කොස්තාපල් රන්දික ලක්මාල් මහතා පරීක්ෂණ කටයුතු මොහයවීය.
+
+◼️
+
+[Data](articles/9d33e02c.json)
+
+---
+
 ### Ice rain to side in Badulla
 
 *2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බදලල-පතතකට-අයස-වස/101-680739) · `si`
@@ -128,6 +188,26 @@ Police have also interrupted the traffic on the Divulapurass Tharasa Teldeniya r
 [Data](articles/1b918964.json)
 
 [Extended Data](ext_articles/1b918964.ext.json)
+
+---
+
+### බදුල්ලේ පැත්තකට අයිස් වැසි
+
+*2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බදලල-පතතකට-අයස-වස/1-680739) · `si`
+
+දිවුලපැලැස්ස තෙල්දෙණියාය ප්‍රදේශයට ඇද ඇළුණු අයිස් වැස්සක් සමග හමාගිය දැඩි සුළගින් නිවාස තිහකට පමන අලාභහානි වී ඇතැයි බදුලල ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි .
+
+ගස් කොලන් කඩා වැටී මාර්ග අවහිර වී විදුලි රැහැන් ද කඩා වැටීමෙන් ප්‍රදේශයේ විදුලි සැපයුම ද ඇණහිට තිබෙන බවත් දිවුලපැලැස්ස පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක එම් .ඩී.දේශප්‍රිය මහතා පැවසීය .
+
+මාස කීපයක් තිස්සේ පැවති දැඩි නියගය නිමා කරමින් අද පස්වරුවේ පැය දෙකකට ආසන්න කාලයක් පුරා මෙසේ අයිස් වැස්සක් පතිත වෙමින් දැඩි සුළගක් දිවුලපැලැස්ස තෙල්දෙණියාය ප්‍රදේශය හරහා හමාගිය බවත් ,
+
+මේනිසාවෙන් ප්‍රදේශයේ නිවාස රැසක වහල සෙවිලි කර තිබු සෙවිලි තහඩ, උලු ගැලවී වහලවල් සුලගේ ගසා ගෙන ගොස් ගස්කොළන් කඩා වැටී නිවාස රැසකට අලාභහානි වූ බවද හෙතෙම සදහන් කලේය .
+
+මීට අමතරව සුලං සමග ගස්කොළන් කඩා වැටීමෙන් දිවුලපැලැස්ස තෙල්දෙණියාය මාර්ගයේ රථවාහන ධාවනය ට බාධා සිදුව ඇති අතර , වලස්ගල ප්‍රදේශයේ දී වෝල්ට් 33000 අධි බලැති විදුලි රැහැන් පද්ධතියක් මතට ගස් කඩා වැටී ප්‍රදේශයේ විදුලි බලයද ඇන හිට ඇතයි පොලිස් පරීක්ෂක එම්.ඩී.දේශප්‍රිය මහතා වැඩ්දුරටත් සදහන් කර සිටියේය .
+
+◼️
+
+[Data](articles/c69e9294.json)
 
 ---
 
@@ -230,6 +310,36 @@ The Department added that investigations are conducted to further confirm this.
 ◼️
 
 [Data](articles/5d20f932.json)
+
+---
+
+### 68 ஆவது பொதுநலவாய பாராளுமன்ற மாநாட்டில் பங்கேற்க அமைச்சர் சரோஜா போல்ராஜ் பார்படோஸ் பயணம் !
+
+*2025-10-04 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226905) · `ta`
+
+உலகளாவிய பாராளுமன்ற மற்றும் அரசியல் சிக்கல்கள் குறித்து விவாதிக்கும் நோக்குடன், பொதுநலவாய பாராளுமன்ற சங்கம் (CPA) வருடாந்தம் ஏற்பாடு செய்யும் பொதுநலவாய பாராளுமன்ற மாநாடு (CPC) ஞாயிற்றுக்கிழமை (ஒக்டோபர் 5 ஆம் திகதி முதல் 12 ஆம் திகதி வரை பார்படோஸ் பாராளுமன்றம் மற்றும் பொதுநலவாய பாராளுமன்ற சங்கத்தின் பார்படோஸ் கிளையின் அனுசரணையில் நடைபெறவுள்ளது.
+
+பொதுநலவாய நாடுகளில் உள்ள பாராளுமன்ற உறுப்பினர்கள் மற்றும் பாராளுமன்ற ஊழியர்கள் உள்ளிட்டோர் பங்கேற்கும் இந்த மாநாட்டில், இலங்கையைப் பிரதிநிதித்துவப்படுத்தி, இலங்கை பாராளுமன்றப் பெண்கள் மன்றத்தின் (WPC) தலைவராக பெண்கள் மற்றும் சிறுவர் விவகார அமைச்சர் சரோஜா சாவித்திரி போல்ராஜ், சுகத் வசந்த டி சில்வா (பாராளுமன்ற உறுப்பினர்), சட்டத்தரணி சாகரிகா அத்தாவுட மற்றும் ஆளும் கட்சி, எதிர்க் கட்சி பாராளுமன்ற உறுப்பினர்கள் மற்றும் பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர உள்ளிட்ட குழுவினர் கலந்துகொள்ளவுள்ளனர்.
+
+...
+
+[Data](articles/adeb733a.json)
+
+---
+
+### பாதாள உலகக்குழு உறுப்பினர் பெக்ஹோ சமனின் மைத்துனர் கைத்துப்பாக்கியுடன் பியகமவில் கைது
+
+*2025-10-04 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226906) · `ta`
+
+பாதாள உலகக் குழு உறுப்பினரான பெக்ஹோ சமன் என்பவரின் மைத்துனர், பியகம பிரதேசத்தில் வைத்து போதைப்பொருள் மற்றும் ஆயுதங்களுடன் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேகநபர் கைது செய்யப்பட்டார்.
+
+சந்தேக நபரிடமிருந்து 555 கிராம் ஹெராயின்,  ஒரு கைத்துப்பாக்கி  அதற்குரிய தோட்டாக்கள், ஆகியன மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a9bdfeea.json)
 
 ---
 
@@ -815,6 +925,22 @@ Preliminary inquiries have revealed that the suspect had sold electronic cigaret
 
 ---
 
+### ஹேமாஸ் மிக உயர்ந்த சுகாதாரப் பராமரிப்புக்கான முதலீட்டைச் செய்துள்ளது ;  நளிந்த ஜெயதிஸ்ஸ
+
+*2025-10-04 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226891) · `ta`
+
+மூன்றாம் நிலை பராமரிப்பு வைத்தியசாலை தொடர்ச்சியான கற்றல், புதுமை, சேவை மற்றும் நம்பிக்கையின் ஒரு உயிருள்ள நிறுவனமாக மாறும் என்று சுகாதாரம் மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜெயதிஸ்ஸ கூறுகிறார்.
+
+நாட்டின் சுகாதார முன்னேற்றத்திற்கு அர்ப்பணிப்புடன் செயல்படும் ஹேமாஸ் நிறுவனம், வெள்ளிக்கிழமை (03) தலவத்துகொடையில் தனது அதிநவீன, முழுமையாக வசதிகளுடன் கூடிய மூன்றாம் நிலை மருத்துவமனையை நிர்மாணிப்பதற்கான அடிக்கல்லை சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜெயதிஸ்ஸவின் தலைமையில் நாட்டியது.
+
+கிட்டத்தட்ட 900 சுகாதார நிபுணர்களைப் பணியமர்த்தவும், மற்றும் 150 நோயாளர்களுக்கான படுக்கை வசதிகள் கொண்டதாக விரிபுபடுத்தவும்   திட்டமிடப்பட்டுள்ளது. நவீன அவசர சிகிச்சைப் பிரிவுகள், அறுவை சிகிச்சை பிரிவுகள் மற்றும் சிறப்பு மையங்களை அறிமுகப்படுத்துவதே இதன் நோக்கமாகும், மேலும் அடிக்கல் நாட்டு விழா "சுகாதாரத்தின் எதிர்காலத்திற்கான ஒரு புதிய அர்த்தம்" என்ற கருப்பொருளின் கீழ் ஏற்பாடு செய்யப்பட்டது.
+
+...
+
+[Data](articles/19e67aa2.json)
+
+---
+
 ### Harish Kalyan starring 'Diesel' updates
 
 *2025-10-04 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226892) · `ta`
@@ -1138,6 +1264,20 @@ Police said that the couple died in hospital at the hospital.
 [Data](articles/30b67107.json)
 
 [Extended Data](ext_articles/30b67107.ext.json)
+
+---
+
+### மாத்தளை மாவட்டத்தில்  ஐந்தாவது சுகாதா,  நல்வாழ்வு மையமாகத் திறந்து வைக்கப்படும் ;  நளிந்த ஜயதிஸ்ஸ
+
+*2025-10-04 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226882) · `ta`
+
+மக்களுக்கு சுகாதார சேவைகளை சிறந்த முறையில் வழங்கியதன் காரணமாக நாட்டில் தாய் மற்றும் சேய் (maternal and child health ) நலம் சம்பந்தமான மருத்துவ பிரிவு மிக சிறந்த நிலையில் உள்ளதாகவும், இதே போல் மற்றைய சுகாதார துறைகளும் இதனை போல் வளர்ச்சி அடையவேண்டும் என்பதற்காகவே நல்வாழ்வு மையத் திட்டம் தொடங்கப்பட்டது என்றும் சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர்  நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் ஆலோசனை மற்றும் வழிகாட்டுதலின் கீழ், இந்த நாட்டில் வாழும் மக்கள் கண்ணியமான முறையில் சுகாதாரசேவையை எளிதில் பெற்றுக்கொள்ளகூடியவகையில் உறுதிசெய்வதற்காக, புதிய அரசாங்கத்தின் சுகாதாரக் கொள்கையின் முதல் கட்டத்தின் கீழ், நாடு முழுவதும் ஆயிரம் ஆரம்ப சுகாதார நிலையங்களை நிறுவ அமைச்சகம் தற்போது திட்டமிட்டுள்ளது.
+
+...
+
+[Data](articles/781a7fa2.json)
 
 ---
 
@@ -1765,6 +1905,42 @@ Tantrimalai police have received information that a young man has sold drug pill
 
 ---
 
+### புதிய அரசியலமைப்பு விரைவில் கொண்டுவரப்படும் -  கடற்றொழில் அமைச்சர்
+
+*2025-10-04 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226869) · `ta`
+
+புதிய அரசியலமைப்பு சட்டம் ஒன்று விரைவில் கொண்டுவரப்படும் என கடற்றொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகரன் தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணம் - சங்கானையில் நிகழ்வு ஒன்றின் பின்னர் வெள்ளிக்கிழமை (03) ஊடகவியலாளர் ஒருவர் "புதிய அரசியலமைப்பு சட்டம் தொடர்பாக உங்களது அரசாங்கத்தின் கொள்கை பிரகடனத்தில் கூறப்பட்டுள்ளது. இது குறித்து அரசாங்கத்தின் தற்போதைய நிலைப்பாடு என்ன என கேள்வி எழுப்பினார்.
+
+புதிய அரசியலமைப்பு சட்டம் எமது கொள்கை பிரகடனத்தில் இருக்கின்ற ஒரு விடயம். நாங்கள் ஆட்சிக்கு வந்து ஒருவருடம்தான் நிறைவடைந்துள்ளது.
+
+ஒரு வருடத்திற்கு முன்னர் இந்த நாடு எந்த நிலையில் இருந்தது என்பதை தெரிந்துகொள்ள வேண்டும். இது மக்களுக்கு தெரியும். ஆனால் அரசியல்வாதிகள் தெரிந்தும் தெரியாதது போல நடிப்பார்கள்.
+
+அந்தவகையில் புதிய அரசியலமைப்பு சட்டம் இந்த நாட்டு மக்களுடைய சகல பிரச்சினைகளையும் தீர்க்கும் வகையில், நீண்டு நிலைக்கக்கூடிய ஒரு சட்டமாக விரைவில் கொண்டுவரப்படும் என்றார்.
+
+◼️
+
+[Data](articles/ead66c39.json)
+
+---
+
+### இந்தோனேஷியாவிலிருந்து அழைத்து வரப்பட்ட சந்தேகநபர்களிடமிருந்த 31 தொலைபேசிகள் தொடர்பில் விசாரணை  - அமைச்சர் ஆனந்த விஜேபால
+
+*2025-10-04 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226867) · `ta`
+
+இந்தோனேஷியாவிலிருந்து அழைத்து வரப்பட்ட சந்தேகநபர்களிடமிருந்த 31 தொலைபேசிகள் தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன. அதற்கமைய இவர்களுடன் தொடர்புடையவர்கள் எவராக இருந்தாலும், எவ்வித பாகுபாடும் இன்றி அவர்கள் கைது செய்யப்படுவர் என பொது மக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+பொலிஸார் தமக்கு கிடைக்கப் பெறும் முறைப்பாடுகள் மற்றும் தகவல்களை அடிப்படையாகக் கொண்டே விசாரணைகளை முன்னெடுத்து சட்டத்தை நடைமுறைப்படுத்துகின்றனர். எனவே அரசியல் பழிவாங்கலை முன்னெடுப்பதற்கான எந்தவொரு தேவையும் எமக்கு இல்லை. நீண்டகாலமாக இழக்கப்பட்ட நீதி தற்போது வழங்கப்பட்டு வருகிறது.
+
+மக்களால் பல்வேறு தரப்பினர் மீது குற்றச்சாட்டுக்கள் முன்வைக்கப்பட்டுள்ளன. அவை குறித்த விசாரணைகளும் முன்னெடுக்கப்பட்டு வருகின்றன. நாளாந்த புதுப்பிக்கப்பட்ட தகவல்கள் தொடர்பில் பொலிஸ் பேச்சாளர் தெரிவிக்கும் போது, அவற்றுக்கு எதிர்க்கட்சியினர் பதிலளிக்க முற்படுகின்றனர். சட்டத்தை நடைமுறைப்படுத்தும் செயற்பாடுகளை அவர்கள் அரசியல் பழிவாங்கல் என சித்தரிக்கின்றனர்.
+
+...
+
+[Data](articles/22c76771.json)
+
+---
+
 ### Draft Amendments on Corporal Punishment of Children Not Yet Law – Says Minister of Justice
 
 *2025-10-04 13:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/draft-amendments-on-corporal-punishment-of-children-not-yet-law-says-minister-of-justice) · `en`
@@ -1776,213 +1952,5 @@ COLOMBO (News 1st); Minister of Justice and National Cohesion, Attorney Harshana
 [Data](articles/021edd81.json)
 
 [Extended Data](ext_articles/021edd81.ext.json)
-
----
-
-### Sanae Takaichi is ready to be the first female Prime Minister of Japan
-
-*2025-10-04 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215329) · `si`
-
-Sanae Takaichi is due to be appointed as the first female Prime Minister of Japan.
-
-The Japanese ruling party is the election of Takaichi as the new head of its party.
-
-A parliamentary polls will be held on October 15 to select a Prime Minister instead of Shiba.
-
-◼️
-
-[Data](articles/5b32eccb.json)
-
-[Extended Data](ext_articles/5b32eccb.ext.json)
-
----
-
-### Reconstruction program in Sri Lanka
-
-*2025-10-04 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215328) · `si`
-
-The International Monetary Fund Department's Director of Communication Department said that the economic growth of the country has increased to 5% after the economic crisis.
-
-She said this at a press conference held at the IMF.
-
-Mr. Kosak added that the broad economic reform program in Sri Lanka has made attractive progress.
-
-"What I can tell about the broad reform program in Sri Lanka has made continuous impressive progress. Inflation is still low and the raising of the government is improving.
-
-Also, international reserves are being collected. Sri Lanka has increased to 5% after the year 2024. It is a prominent achievement.
-
-Budget Income - GDP ratio has improved from 8.2% to 13.5% of the year. It's a significant increase. The process of restructuring the loan has been very large.
-
-Overall, the program performance is strong. The government is committed to the objectives of the comprehensive funding program.
-
-...
-
-[Data](articles/735f49d2.json)
-
-[Extended Data](ext_articles/735f49d2.ext.json)
-
----
-
-### Japan’s Takaichi set to become country’s first female PM
-
-*2025-10-04 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113210/japans-takaichi-set-to-become-countrys-first-female-pm) · `en`
-
-Japan’s ruling party picked conservative nationalist Sanae Takaichi as its new head on Saturday, putting her on course to become the country’s first female prime minister.
-
-The Liberal Democratic Party elected Takaichi, 64, to regain trust from a public angered by rising prices and drawn to opposition groups promising big stimulus and clampdowns on foreigners.
-
-A vote in parliament to choose a prime minister to replace Shigeru Ishiba is expected to be held on October 15.
-
-The new LDP president is likely to succeed Shigeru Ishiba as leader of the world’s fourth-biggest economy because the party, which has governed Japan for almost all the postwar period, is the biggest in parliament. But this is not assured as the party and its coalition partner lost their majorities in both houses under Ishiba in the past year.
-
-...
-
-[Data](articles/488a940b.json)
-
-[Extended Data](ext_articles/488a940b.ext.json)
-
----
-
-### Bulletproof vehicle provided for Mahinda Rajapaksa’s security returned
-
-*2025-10-04 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113209/bulletproof-vehicle-provided-for-mahinda-rajapaksas-security-returned) · `en`
-
-The bulletproof vehicle provided for the security of former President Mahinda Rajapaksa has been returned.
-
-Issuing a special statement, Mahinda Rajapaksa’s media spokesperson, Attorney-at-Law Manoj Gamage, stated that the vehicle was returned yesterday (3) through the relevant company.
-
-Gamage further noted that following the enactment of the Presidents’ Entitlements (Repeal) Act, the Presidential Secretary had informed on September 24 that all official vehicles and the official residence of the fifth Executive President, Mahinda Rajapaksa, need to be handed over.
-
-He added that the passenger vehicle assigned for the use of the security officers attached to the former President was also returned.
-
-According to Gamage, this situation has placed Mahinda Rajapaksa’s life at risk.
-
-“We hope to meet with the IGP, the Defence Secretary, and the heads of security forces next week to request the necessary vehicles required for Mahinda Rajapaksa’s security,” Gamage stated.
-
-◼️
-
-[Data](articles/81394219.json)
-
-[Extended Data](ext_articles/81394219.ext.json)
-
----
-
-### Two vendors fined for selling ‘Keeri Samba’ at inflated prices
-
-*2025-10-04 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113208/two-vendors-fined-for-selling-keeri-samba-at-inflated-prices) · `en`
-
-Two traders found guilty of selling Keeri Samba rice at inflated prices have each been fined Rs. 100,000, in orders issued by the Kalutara and Panadura Magistrate’s Courts.
-
-Meanwhile, the Horana Magistrate has ordered a fine of Rs. 20,000 on a trader in Poruwadanda, Horana, for concealing stocks of Keeri Samba rice, along with the confiscation of the 25-kilogram packs in the trader’s possession.
-
-The Kalutara Magistrate’s Court yesterday (03) imposed a fine of Rs. 100,000 on a shop owner in Nagoda, Kalutara, after admitting the selling of Keeri Samba rice at Rs. 310 per kilogram, Ada Derana reporter said.
-
-Additionally, the Panadura Magistrate’s Court has imposed a fine of Rs. 100,000 on a shop in the Sarikkamulla area of Panadura for selling Keeri Samba rice at Rs. 300 per kilogram.
-
-The Magistrate’s Courts in the respective areas has issued these orders on 02 October, 2025 and yesterday (03), Ada Derana reporter said.
-
-◼️
-
-[Data](articles/5ae57e14.json)
-
-[Extended Data](ext_articles/5ae57e14.ext.json)
-
----
-
-### The work of removing illegal land and buildings is the beginning of Kinniya
-
-*2025-10-04 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226864) · `ta`
-
-In many areas under the Kinniya Divisional Secretariat, the removal of illegal lands and buildings and the state -owned event was held on Friday (03) in the presence of the Kinniya Divisional Secretary MH MH MH MM.
-
-Lands and buildings illegally obtained in the Kinniya Kachakkodu Island area were taken by the Kinniya Divisional Secretary under the Land Excellence Act in 1979 and the registrar Biskal Oder was issued by the Registrar Biscal Oder.
-
-The buildings are being carried out with the help of the police, even though the illegal land builders were involved in the event.
-
-A stadium that the youth has been playing on the island of Kodakkodu has been nationalized from the illegal seizure. During this event, a large number of young people gathered.  This illegal building is ongoing.
-
-◼️
-
-[Data](articles/c8db1245.json)
-
-[Extended Data](ext_articles/c8db1245.ext.json)
-
----
-
-### Another match participating in the Women's World Cup today
-
-*2025-10-04 12:20:01* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-ලෝක-කුසලානයේ-ශ්‍රී-ලංකාව-සහභාගී-වන-තවත්-තරගයක්-අද/11-418906) · `si`
-
-Another match will be held in the Women's ODI World Cup today (04).
-
-◼️
-
-[Data](articles/60eb6d72.json)
-
-[Extended Data](ext_articles/60eb6d72.ext.json)
-
----
-
-### World Animals Day Today
-
-*2025-10-04 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226865) · `ta`
-
-World Animal Day is celebrated on the 04th of October every year.
-
-Francis Azizi's commemoration day is celebrated as a natural enthusiast and deity of animals.
-
-World Animal Day was declared on 04 October 1925.
-
-This day is celebrated with the aim of raising awareness of the importance of animals and protecting them.
-
-It is the duty of humans to protect the extinct animal species in the world. So we will protect and maintain animals.
-
-◼️
-
-[Data](articles/657281b9.json)
-
-[Extended Data](ext_articles/657281b9.ext.json)
-
----
-
-### A pronouncement of strong lightning
-
-*2025-10-04 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215327) · `si`
-
-The Department of Meteorology has issued an announcement in powerful lightning.
-
-The announcement will be valid until 11 pm today (04), the Met Department said.
-
-The Department of Meteorology states that there is an increase in lightning lightning in the Northern, North-Central, Uva provinces and Kurunegala districts.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Meteorological Department urges the public to take necessary steps to minimize the damages caused by lightning accidents.
-
-◼️
-
-[Data](articles/f069492e.json)
-
-[Extended Data](ext_articles/f069492e.ext.json)
-
----
-
-### The owner of selling food with rat residues in Jaffna
-
-*2025-10-04 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226855) · `ta`
-
-The owner of the supermarket has been fined 60 thousand rupees on charges of selling food items with rat residues in Point Pedro.
-
-The action was taken during a raid carried out by the Public Health Inspector at the food manipulation and supermarkets in the area under the rule of the Point Pedro Urban Council.
-
-A suit was filed against the owner of the supermarket in the case of selling beetle foods, outdated foods, foods with rat residues and fungi foods.
-
-During the trial, the judge who strongly warned the owner after the owner accepted the allegation against him, sentenced the owner to a fine of Rs 60,000.
-
-◼️
-
-[Data](articles/33d3a9db.json)
-
-[Extended Data](ext_articles/33d3a9db.ext.json)
 
 ---

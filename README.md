@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 17:40:58**
+As of **2025-10-04 16:52:17**
 
 ## Newspaper Stats
 
-*Scraped **81,108** Articles*
+*Scraped **81,095** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 588
+newsfirstlk | 587
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 762
@@ -18,188 +18,36 @@ economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,776
-adaderanalk | 10,435
+adaderanalk | 10,434
 tamilmirrorlk | 12,046
-virakesarilk | 13,319
-adaderanasinhalalk | 13,950
+virakesarilk | 13,310
+adaderanasinhalalk | 13,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,097 (100.0%) of 81,108 articles have been extended.
+81,093 (100.0%) of 81,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### නව අධ්‍යාපන ප්‍රතිසංස්කරණ ගැන විදුහල්පතිවරුන් දැනුම්වත් කිරීමේ වැඩසටහනක්
-
-*2025-10-04 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215340) · `si`
-
-නව අධ්‍යාපන ප්‍රතිසංස්කරණවලට සමගාමීව ජාතික අධ්‍යාපන ආයතනය මගින් සංවිධානය කරනු ලබන දිවයිනේ සියලු පළාත් ආවරණය වන පරිදි දිස්ත්‍රික් මට්ටමින් ජාතික හා පළාත් පාසල්වල විදුහල්පතිවරුන් දැනුම්වත් කිරීමේ වැඩසටහන් මේ වනවිට ක්‍රියාත්මක වෙමින් පවතියි.
-
-මෙම වැඩසටහන යටතේ මේ දක්වා දිවයිනේ බොහෝ දිස්ත්‍රික්ක ආවරණය කර ඇති අතර, එහි අඛණ්ඩ පියවරක් ලෙස මාතලේ දිස්ත්‍රික්කයේ විදුහල්පතිවරුන් දැනුම්වත් කිරීමේ වැඩසටහන අද (04) අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය ආචාර්ය හරිනි අමරසුරිය මහත්මියගේ ප්‍රධානත්වයෙන් සහ බුද්ධ ශාසන හා සංස්කෘතික නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතාගේ සහභාගිත්වයෙන් පැවැත්විණි.
-
-මෙම අවස්ථාවට මාතලේ දිස්ත්‍රික් ලේකම්, ජාතික අධ්‍යාපන ආයතනයේ අධ්‍යක්ෂ ජනරාල්, පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන්, හා විවිධ අධ්‍යාපන බලධාරීන් සහ මාතලේ දිස්ත්‍රික්කයේ තුන්සිය පනහකට ආසන්න විදුහල්පතිවරු පිරිසක් සහභාගි විය.
-
-ජාතික අධ්‍යාපන ආයතනයේ මඟපෙන්වීම යටතේ සිදුකරනු ලබන මෙම වැඩසටහනේ අරමුණ වන්නේ අධ්‍යාපන ප්‍රතිසංස්කරණවල අරමුණු හා ක්‍රියාමාර්ග පිළිබඳ විදුහල්පතිවරුන් අතර සවිස්තර අවබෝධයක් ඇති කිරීමය.
-
-...
-
-[Data](articles/ae3013f3.json)
-
----
-
-### #SriPOP - The Sound of a New Sri Lanka
-
-*2025-10-04 16:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sripop-the-sound-of-a-new-sri-lanka) · `en`
-
-In Stein Studios, in the outskirts of Colombo, a dancer moves as if the earth itself is breathing beneath her feet.
-
-It’s human — imperfectly perfect, like the heartbeat that drives it. A drum echoes, a synth sighs, and something ancient awakens.
-
-It’s not a beat born in a studio, nor a formula cooked up for virality.
-
-It’s a call — a return — to the rhythm that has always pulsed through this island’s soul.
-
-To understand #SriPop, you have to first understand the strange, beautiful chaos of Sri Lanka’s musical DNA.
-
-From the Portuguese-inspired baila that once drifted through coastal taverns, to the rabana circles of rural women who drum while they laugh and sing, to the Nada Bhera & Yak Bera— the ceremonial drumming that summons gods and courage alike — this island’s music has never been entertainment alone. It has always been spiritual architecture, a way of being, of remembering, of belonging.
-
-...
-
-[Data](articles/d15ff5b6.json)
-
-[Extended Data](ext_articles/d15ff5b6.ext.json)
-
----
-
-### A large number of people arrested by police officers
-
-*2025-10-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215339) · `si`
-
-The Ministry of Defense has issued a statement regarding the daily police operations that aimed at the suppression of drugs and underworld.
-
-It stated that the operations carried out yesterday (03) were arrested by the operation with drugs and various crimes.
-
-Accordingly, 6,644 persons were involved in these operations.
-
-A total of 27,727 people have been inspected and 10,900 vehicles and 8,385 motorbikes have been tested.
-
-971 persons have been arrested in the raids and nine persons directly involved in the drug and 449 persons were arrested.
-
-The Ministry of Defense said that the Narcotics and Parliamentary Affairs Minister Ananda Wijepala also operates with the participation of the Narcotics and Parliamentary Affairs to eliminate the drug in the country.
-
-◼️
-
-[Data](articles/2b412c61.json)
-
-[Extended Data](ext_articles/2b412c61.ext.json)
-
----
-
-### பழம் பெரும் நடிகை லதா - புதுமுக நடிகர் அரவிந்தராஜ் நடிக்கும் 'பேராண்டி' படத்தின் இசை வெளியீடு
-
-*2025-10-04 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226894) · `ta`
-
-புதுமுக நடிகர் அரவிந்தராஜ் கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் 'பேராண்டி' எனும் திரைப்படத்தின் இசை வெளியீட்டு விழா சென்னையில் சிறப்பாக நடைபெற்றது. இந்த விழாவில் விடுதலை சிறுத்தைகள் கட்சியின் தலைவரும், இந்திய மக்களவை உறுப்பினருமான தொல். திருமாவளவன் சிறப்பு அதிதியாக பங்கு பற்றி படத்தின் இசையை வெளியிட்டார்.
-
-இயக்குநர் ஆர். தங்கமணி இயக்கத்தில் உருவாகியுள்ள 'பேராண்டி' எனும் திரைப்படத்தில் அரவிந்தராஜ், விந்துஜா நாயர், லதா, கராத்தே ராஜா, 'பவர் ஸ்டார்' சீனிவாசன்,  லலிதா, ஓசூர் டோனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-டி. மகிபாலன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹித்தேஷ் முருகவேல் இசையமைத்திருக்கிறார். ஃபேமிலி என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை வேதா மீடியா என்டர்டெய்ன்மென்ட் நிறுவனம் தயாரித்திருக்கிறது. இந்த படத்தை பத்மா கந்தசாமி எஸ்டேட்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ராஜேஷ் வழங்குகிறார்.
-
-...
-
-[Data](articles/5fe07bb9.json)
-
----
-
-### இயற்கை -யானை- மனிதன்- இடையேயான உறவை பேசும் ' கும்கி 2'
-
-*2025-10-04 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226893) · `ta`
-
-புதுமுக நடிகர் மதி முதன்மையான வேடத்தில் கதையின் நாயகனாக நடித்திருக்கும் 'கும்கி 2' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
-
-இயக்குநரும், நடிகருமான பிரபு சாலமன் இயக்கத்தில் உருவாகியுள்ள 'கும்கி 2' எனும் திரைப்படத்தின் மதி, ஷ்ரிதா ராவ், ஆண்ட்ரூஸ், அர்ஜுன் தாஸ், ஆகாஷ், ஹரிஷ் பெராடி, ஸ்ரீநாத் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-எம். சுகுமார் ஒளிப்பதிவு செய்து இருக்கும் இந்த திரைப்படத்திற்கு நிவாஸ் கே. பிரசன்னா இசையமைத்திருக்கிறார். அடர்ந்த வனத்தின் பின்னணியில் அங்குள்ள வனவிலங்கான யானைக்கும், இளைஞன் ஒருவனுக்கும் இடையேயான உறவை மையப்படுத்திய இந்த திரைப்படத்தை பென் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் தவல் காடா தயாரித்திருக்கிறார்.
-
-இந்த திரைப்படத்தை டொக்டர் ஜெயந்தி லால் காடா வழங்குகிறார். இந்தத் திரைப்படம் எதிர்வரும் நவம்பர் மாதம் 14ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகிறது.
-
-...
-
-[Data](articles/6e845cc9.json)
-
----
-
-### பாடசாலை மாணவர்களை இலக்கு வைத்து இலத்திரனியல் சிகரட்டுகள் விற்பனை : சந்தேக நபர்  கைது
-
-*2025-10-04 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226890) · `ta`
-
-மொனராகலை தலைமையக பொலிஸ் நிலைய அதிகாரிகள் குழு, மொனராகலை நகரில் பாடசாலை மாணவர்களை இலக்கு வைத்து நடத்தப்பட்ட இலத்திரனியல் சிகரட்டு மோசடியை சுற்றிவளைத்துள்ளனர்.
-
-குறித்த சந்தேக நபர் பல்வேறு தொகைகளுக்கு மாணவர்களுக்கு இலத்திரனியல் சிகரட்டுகளை விற்பனை செய்துவந்ததாக, முதற்கட்ட விசாரணைகளில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/1c01c6b2.json)
-
----
-
-### ஹரிஷ் கல்யாண் நடிக்கும் 'டீசல்' படத்தின் அப்டேட்ஸ்
-
-*2025-10-04 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226892) · `ta`
-
-'பார்க்கிங்', 'லப்பர் பந்து' என இரண்டு தொடர் வெற்றி படங்களை வழங்கி தமிழ் சினிமாவின் நட்சத்திர நாயகனாக உயர்ந்திருக்கும் நடிகர் ஹரிஷ் கல்யாண் கதையின் நாயகனாக நடித்திருக்கும் 'டீசல் ' எனும் திரைப்படத்தில் இடம்பெற்ற 'ஆருயிரே' எனும் பாடலும், பாடலுக்கான டிரிகல் விடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-இயக்குநரும் , நடிகருமான சண்முகம் முத்துசாமி இயக்கத்தில் உருவாகியுள்ள 'டீசல்' எனும் திரைப்படத்தில் ஹரிஷ் கல்யாண், அதுல்யா ரவி, வினய் ராய், சாய் குமார், அனன்யா, கருணாஸ்,  ரமேஷ் திலக் , காளி வெங்கட், விவேக் பிரசன்னா, மாறன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். எம். எஸ். பிரபு மற்றும் ரிச்சர்ட் எம். நாதன் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு திபு நினன் தோமஸ் இசையமைத்திருக்கிறார்.
-
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை தேர்ட் ஐ என்டர்டெயின்மென்ட் நிறுவனம் சார்பில் தயாரிப்பாளர் தேவராஜுலு மார்க்கண்டேயன் தயாரித்திருக்கிறார்.
-
-...
-
-[Data](articles/eb5818c5.json)
-
----
-
-### Notice to drivers on the Ambalangoda - Elpitiya main road
+### අම්බලන්ගොඩ - ඇල්පිටිය ප්‍රධාන මාර්ගයේ යන රියදුරන්ට දැනුම්දීමක්
 
 *2025-10-04 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215338) · `si`
 
-The police have not informed the restriction of traffic due to the Perahera of the Ampitiya Devalaya in the Ampitiya Devalaya, Karandeniya Mahagoda.
+කරන්දෙණිය මහාගොඩ පුරාණ අම්පිටිය දේවාලයේ පෙරහැර හේතුවෙන් රථවාහන ගමනා ගමනය සීමා කිරීම සම්බන්ධයෙන් පොලීසියෙන් දැනුම්දීමක් සිදුකර තිබේ.
 
-The procession is due to visit streets from 02.00 pm to 07 pm to 07 pm.
+එම පෙරහැර හෙට 05 දහවල් 02.00 සිට රාත්‍රී 07.00 දක්වා වීථී සංචාරය කිරීමට නියමිතය.
 
-The Peraheera begins near the Ampitiya Devalaya and travels to the Maha Enditiya main road.
+පෙරහැර අම්පිටිය දේවාලය අසලින් ආරම්භවී අම්බලන්ගොඩ ඇල්පිටිය ප්‍රධාන මාර්ගය ඔස්සේ ගමන් කර මහඒදණ්ඩ හන්දිය දක්වා ගමන් කිරීමට නියමිත බව පොලීසිය පවසයි.
 
-The police calling the public as the main road to the Southern Expressway to the Southern Expressway, as the main road to the Southern Expressway is to use alternative routes as possible to reduce traffic congestion.
+පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටින්නේ, මෙම පෙරහැර ගමන් කරනු ලබන අම්බලන්ගොඩ ඇල්පිටිය මාර්ගය දක්ෂිණ අධිවේගී මාර්ගයට පිවිසෙන කුරුඳුගහහැතැක්ම පිවිසුමට ගමන් කරනු ලබන ප්‍රධාන මාර්ගය වන බැවින් ඉහත කාලසීමාව තුළ ඇති විය හැකි රථවාහන තදබදය අවම කර ගැනීම සඳහා හැකිතාක් විකල්ප මාර්ග භාවිතා කරන ලෙසය.
 
 ◼️
 
 [Data](articles/90fec08f.json)
-
-[Extended Data](ext_articles/90fec08f.ext.json)
-
----
-
-### Heavy rainfall expected to continue in several provinces
-
-*2025-10-04 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/113214/heavy-rainfall-expected-to-continue-in-several-provinces) · `en`
-
-The Meteorology Department states that atmospheric conditions are favorable for thunderstorms in the evening.
-
-Therefore, general public is advised to take adequate precautions to minimize damages caused by heavy rain, strong winds and strong lightning during thundershowers.
-
-Showers or thunder showers will occur at several places in most provinces after 1.00 p.m.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, North-central, Uva and Eastern provinces, the Met. Department added.
-
-Showers may occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara, Puttalam, Jaffna and Mannar districts in the morning too.
-
-◼️
-
-[Data](articles/4ab83e77.json)
 
 ---
 
@@ -247,28 +95,6 @@ The suspect is a resident of Moneragala and is to be produced before the Monerag
 
 ---
 
-### மதன மோதக போதை மாத்திரைகளுடன் காரில் பயணித்த இளைஞர்கள் இருவர் கைது!
-
-*2025-10-04 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226887) · `ta`
-
-பதுளை, வெலிமடை, நிவெல பிரதேசத்தில் மதன மோதக போதை மாத்திரைகளுடன் காரில் பயணித்திக்கொண்டிருந்த இரண்டு இளைஞர்கள் வெலிமடை பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளனர்.
-
-வெலிமடை பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் சந்தேகத்திற்கிடமான முறையில் பயணித்த காரில் மேற்கொள்ளப்பட்ட சோதனையில் இளைஞர்கள் இருவரும் கைதுசெய்யப்பட்டுள்ளனர்.
-
-கைதுசெய்யப்பட்டவர்கள் பரவகும்புர மற்றும் தியத்தலாவை ஆகிய பிரதேசங்களில் வசிக்கும் 21 மற்றும் 23 வயதுடைய இளைஞர்கள் இருவர் ஆவர்.
-
-இளைஞர்கள் இருவரிடமிருந்து மதன மோதக போதை மாத்திரைகள் அடங்கிய 44 பொதிகள் கைப்பற்றப்பட்டுள்ளன.
-
-இளைஞர்கள் இருவரும் வெலிமடை பிரதேசத்தில் விற்பனை செய்வதற்காக மதன மோதக போதை மாத்திரைகளை காரில் கொண்டு சென்றுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
-
-கைதுசெய்யப்பட்ட இளைஞர்களிடம் நடத்தப்பட்ட மேலதிக விசாரணைகளின் மூலம் கிடைக்கப்பெற்ற தகவலுக்கமைய நாவெல உல்பத்தகும்புர பிரதேசத்தில் உள்ள தோட்டம் ஒன்றில் மேற்கொள்ளப்பட்ட சொதனையில் 44 கஞ்சா செடிகள் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/d460c07f.json)
-
----
-
 ### A heavy rain over 100 mm
 
 *2025-10-04 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215336) · `si`
@@ -303,7 +129,7 @@ The Meteorological Department urges the public to take necessary steps to reduce
 
 ### The struggle of pearl peasants that continue for the 18th day
 
-*2025-10-04 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226885) · `ta`
+*2025-10-04 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226885) · `ta`
 
 Muthu Nagar farmers in Trincomalee have been engaged in a continuous planetary struggle for the 18th days of Saturday (04) in the pouring rain in front of the Trincomalee District Secretariat.
 
@@ -435,24 +261,6 @@ Gossak has confirmed that the IMF is currently working in Sri Lanka to conduct t
 
 ---
 
-### கொழும்பில் மசாஜ் நிலையம் என்ற போர்வையில் விபச்சார விடுதி ; தாய்லாந்து பெண்கள் உட்பட 10 பேர் கைது!
-
-*2025-10-04 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226883) · `ta`
-
-கொழும்பு 7 - கறுவாத்தோட்டம் பிரதேசத்தில் நீண்ட காலமாக மசாஜ் நிலையம் என்ற போர்வையில் இயங்கி வந்த விபச்சார விடுதியில் இருந்து ஒன்பது தாய்லாந்து பெண்கள் உட்பட 10 பேர் கொழும்பு தெற்கு பொலிஸ் குற்றப் புலனாய்வு பிரிவினரால் நெற்று வெள்ளிக்கிழமை (03) இரவு கைதுசெய்யப்பட்டுள்ளனர்.
-
-கொழும்பு தெற்கு பொலிஸ் குற்றப் புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் பேரில், பொலிஸ் அதிகாரி ஒருவர் இந்திய பிரஜை போன்று மசாஜ் நிலையத்துக்குள் சென்று தகவல்களை திரட்டி பின்னர் சந்தேக நபர்களை கைதுசெய்துள்ளனர்.
-
-பல வர்த்தகர்கள் இந்த விபச்சார விடுதிக்கு வருகை தருவதாக மசாஜ் நிலையத்தின் உரிமையாளர் பொலிஸாரிடம் வாக்குமூலம் வழங்கியுள்ளார்.
-
-இது தொடர்பான மேலதிக விசாரணைகளை கொழும்பு தெற்கு பொலிஸ் குற்றப் புலனாய்வு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/7a265ee6.json)
-
----
-
 ### A woman in the post of Prime Minister by changing the history of Japan
 
 *2025-10-04 15:01:38* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයේ-ඉතිහාසය-වෙනස්-කරමින්-අග්‍රාමාත්‍ය-ධුරයට-කාන්තාවක්/11-418907) · `si`
@@ -575,23 +383,21 @@ It is noteworthy that many politicians, parliamentarian and family members visit
 
 ---
 
-### President pays eight million in Bungalow in maintenance
+### ජනපති බංගලා  නඩත්තුවට කෝටි අටක් ගෙවලා
 
 *2025-10-04 14:36:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-බගල-නඩතතවට-කට-අටක-ගවල/101-680727) · `si`
 
-The Presidential Secretariat has spent Rs.
+ජනාධිපති මන්දිර අට නඩත්තු කිරීම සඳහා ඉකුත් වර්ෂයේ (2024) රුපියල් අටකෝටි එක්ලක්ෂ පනස්හතරදහස් හාරසිය විසිදෙකක මුදලක් ජනාධිපති ලේකම් කාර්යාලය  විසින් වැය කරනු ලැබ ඇත.
 
-Three hundred and two civil servants have been deployed in this presidential Pressure. Thirty million rupees (13,741,080 million) had been spent on the payment of salaries and allowances for 16 civil servants.
+මෙම ජනාධිපති මන්දිරවල ආරක්ෂක අංශ නිලධාරීහු තුන්සිය අනූ දෙදෙනෙක් සහ  සිවිල් සේවකයෝ 16 දෙනෙක් සේවයේ යොදවනු ලැබ සිටිති. සිවිල් සේවකයින් 16 දෙනකු සඳහා වැටුප් හා දීමනා ගෙවීම සඳහා ඉකුත් වර්ෂයේ (2024) දී රුපියල් එක්කෝටි තිස්හත්ලක්ෂ හතළිස් එක්දහස් අසූවක මුදලක් (13,741,080) වැය කර තිබුණි.
 
 මේ තොරතුරු ඇතුළත් වන්නේ ජනාධිපති ලේකම් කාර්යාලයේ  2024  වාර්ෂික කාර්යසාධන වාර්තාවට ඇතුළත් කර ඇති විගණන වාර්තාවේය
 
-In Jaffna, Anuradhapura Bentota and Colombo, Colombo, Jaffna, Jaffna, Jaffna.
+යාපනය අනුරාධපුර මහනුවර මහියංගණය නුවරඑළිය කතරගම බෙන්තොට සහ   කොළඹ එම ජනාධිපති බංගලාවේ.
 
 ◼️
 
 [Data](articles/15bf675b.json)
-
-[Extended Data](ext_articles/15bf675b.ext.json)
 
 ---
 
@@ -612,24 +418,6 @@ The Department of Meteorology asks the public to take necessary steps to reduce 
 [Data](articles/c9106b8a.json)
 
 [Extended Data](ext_articles/c9106b8a.ext.json)
-
----
-
-### கிழக்குப் பல்கலைக்கழகத்தின் 29 ஆவது பொதுப்பட்டமளிப்பு விழா
-
-*2025-10-04 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226874) · `ta`
-
-கிழக்குப் பல்கலைக்கழகத்தின்  29 ஆவது பொதுப்பட்டமளிப்பு விழா  வந்தாறுமூலை வளாக நல்லையா ஞாபகார்த்த மண்டபத்தில் சனிக்கிழமை (04) ஆரம்பமானது.
-
-கிழக்குப் பல்கலைக்கழகத்தின் உபவேந்தர் பேராசிரியர் பரராஜசிங்கம் பிரதீபன் தலைமையில் ஆரம்பமான இப்பட்டமளிப்பு விழாவின் முதலாம் நாளில் பிரதம அமைச்சரின் செயலாளர் ஜி. பிரதீப் சபுதந்திரி   பிரதம விருந்தினர்களாக கலந்துகொண்டார்.
-
-இப்பட்டமளிப்பு விழாவில் 1966 உள்வாரி, வெளிவாரி மாணவர்களுக்கான பட்டப்படிப்பு மற்றும் பட்டப்பின்படிப்பு பட்டங்கள் வழங்கி உறுதிசெய்யப்படவுள்ளன.
-
-முதலாம் நாளின் சனிக்கிழமை (04)  முதலாவது அமர்வின் போது  சிவசுப்ரமணியம் பத்மநாதனுக்கு கலாநிதி பட்டம் வழங்கப்பட்டது. 240 பட்டதாரிகளுக்கும் இரண்டாவது அமர்வின் போது 345, மூன்றாவது அமர்வின் போது 400 பட்டதாரிகளுக்கும் முதுமாணி, இளங்கலைமாணி உட்பட விவசாயத்துறை, கலைத்துறை, வணிக முகாமைத்துவத்துறை மற்றும் அழகியல் கற்கைகள் துறை, மருத்துவத்துறை, விஞ்ஞானத்துறை மற்றும் சித்தமருத்துவத்துறைகளில் பட்டங்கள் வழங்கப்பட்டன.
-
-...
-
-[Data](articles/d34a7ac0.json)
 
 ---
 
@@ -773,22 +561,6 @@ COLOMBO (News 1st); A suspect arrested in the Horowpathana in connection with an
 
 ---
 
-### மதுபோதையில் வாகனங்களை செலுத்திய 14 சாரதிகள் கைது!
-
-*2025-10-04 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226872) · `ta`
-
-நாடளாவிய ரீதியில் நேற்று வெள்டளிக்கிழமை (03) மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது மதுபோதையில் வாகனங்களை செலுத்தியமை தொடர்பில் 14 சாரதிகள் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-பொலிஸ் அதிகாரிகள், இராணுவ வீரர்கள், பொலிஸ் விசேட அதிரடிப்படையினர் மற்றும் கடற்படையினர் ஆகியோர் இணைந்து இந்த சுற்றிவளைப்பு நடவடிக்கையை மேற்கொண்டுள்ளனர்.
-
-இதேவேளை, இந்த விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது, பல்வேறு குற்றச் செயல்கள் தொடர்பில் ஆதாரங்களுடன் 631 பேரும், சந்தேகத்தின் பேரில் 21 பேரும், பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 276 பேரும், திறந்த பிடியாணை உத்தரவு பிறப்பிக்கப்பட்ட 173 பேரும், கவனக்குறைவாக வாகனங்களை செலுத்தியமை தொடர்பில் 23 சாரதிகளும், ஏனைய போக்குவரத்து விதிமுறைகளை மீறியமை தொடர்பில் 3835 பேரும் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/99207831.json)
-
----
-
 ### Over 1,200 Kilograms of Heroin, and 1,800 Kilograms of ICE seized in 9 months
 
 *2025-10-04 13:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/over-1-200-kilograms-of-heroin-and-1-800-kilograms-of-ice-seized-in-9-months) · `en`
@@ -904,20 +676,6 @@ The IMF Board completed the Fourth Review of Sri Lanka’s EFF arrangement on Ju
 [Data](articles/3572d6f8.json)
 
 [Extended Data](ext_articles/3572d6f8.ext.json)
-
----
-
-### பாடசாலைக்குள் போதை மாத்திரைகளை விற்பனை செய்த இளைஞன் கைது!
-
-*2025-10-04 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226870) · `ta`
-
-அநுராதபுரம், தந்திரிமலை பிரதேசத்தில் உள்ள பாடசாலை ஒன்றுக்குள் போதை மாத்திரைகளை விற்பனை செய்த இளைஞன் ஒருவன் தந்திரிமலை பொலிஸாரால் வியாழக்கிழமை (02) கைதுசெய்யப்பட்டுள்ளார்.
-
-தந்திரிமலை பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் இடம்பெற்ற விசேட நிகழ்ச்சியின் போது இளைஞன் ஒருவன் மாணவர்களுக்கு போதை மாத்திரைகளை விற்பனை செய்துள்ளதாக தந்திரிமலை பொலிஸாருக்கு தகவல் கிடைத்துள்ளது.
-
-◼️
-
-[Data](articles/15d0d306.json)
 
 ---
 
@@ -2026,5 +1784,287 @@ COLOMBO (News 1st); The Committee on Public Finance chaired by MP Dr. Harsha de 
 [Data](articles/88af997b.json)
 
 [Extended Data](ext_articles/88af997b.ext.json)
+
+---
+
+### Sri Lanka’s Foreign Debt at USD 37 Billion
+
+*2025-10-04 08:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sri-lanka%e2%80%99s-foreign-debt-at-usd-37-billion) · `en`
+
+COLOMBO (News 1st); The Committee on Public Finance chaired by MP Dr. Harsha de Silva, revealed that Sri Lanka has accumulated foreign debt amounting to USD 37 billion. Officials from the State Debt Management Office, summoned before the committee, confirmed that During a review by the Committee on Public Finance, Sri Lanka’s foreign debt stands at USD 37 billion, equivalent to Rs. 19.6 trillion.The Committee on Public Finance noted that all borrowing processes are currently managed solely by the State Debt Management Office.The COPF Chairman MP Dr. Harsha De Silva also highlighted the importance of recruiting skilled officers to strengthen the country’s debt management operations.
+
+◼️
+
+[Data](articles/a623e93a.json)
+
+[Extended Data](ext_articles/a623e93a.ext.json)
+
+---
+
+### Tunisiah sentenced to death by Facebook
+
+*2025-10-04 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215321) · `si`
+
+A man accused of insulting the Tunisian president through social media has decided to sentence.
+
+The head of the Tunisian League for human rights has been sentenced to insulting the President and threatening national security.
+
+In 2021, President Kieis Side was executed after the powers in Tunisia in Tunisia.
+
+The punishment is a 56 year old average worker, and he is a limited education citizen.
+
+His lawyer had said that the Nabul court urge was sentenced to death on Facebook notes. He said it was a traumatic and unprecedented decision.
+
+However, he added that a appeal has been filed against the decision.
+
+Tunishi's Court has punished a few occasions, but has not been implemented for over 30 years.
+
+◼️
+
+[Data](articles/0a085cf6.json)
+
+[Extended Data](ext_articles/0a085cf6.ext.json)
+
+---
+
+### Fireball struggle
+
+*2025-10-04 08:12:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீப்பந்த-போராட்டம்/175-365700) · `ta`
+
+A firefighting struggle against unresolved problems in state banks has been launched in Jaffna.
+
+The protest was held at the Ceylon Bank Employees Union at 7 pm yesterday (03) at the Ceylon Bank of Ceylon's Hospital Road.
+
+The protesters accused the bank of going to privatization through the amendments of state banks. (A)
+
+◼️
+
+[Data](articles/008437de.json)
+
+[Extended Data](ext_articles/008437de.ext.json)
+
+---
+
+### Tunisian sentenced to death for Facebook posts criticising president
+
+*2025-10-04 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/113202/tunisian-sentenced-to-death-for-facebook-posts-criticising-president) · `en`
+
+A Tunisian man has been sentenced to death on charges of insulting the president and assaulting state security through posts on social media, the head of the Tunisian League for Human Rights and his lawyer said on Friday.
+
+The ruling is unprecedented in Tunisia, where restrictions on free speech have been tightened since President Kais Saied seized almost all powers in 2021.
+
+The man sentenced, 56-year-old day labourer Saber Chouchane, is a regular citizen with limited education who was simply writing posts critical of the president before his arrest last year, his lawyer, Oussama Bouthalja, told Reuters.
+
+“The judge in the Nabeul court sentenced the man to death over Facebook posts. It is a shocking and unprecedented ruling,” Bouthalja said.
+
+The judgement has been appealed, he added. The justice ministry was not immediately available to comment.
+
+Though courts have occasionally handed down death sentences in Tunisia, none have been carried out for more than three decades.
+
+...
+
+[Data](articles/933c7f6d.json)
+
+[Extended Data](ext_articles/933c7f6d.ext.json)
+
+---
+
+### World Bank stresses urgent energy sector reforms in Sri Lanka
+
+*2025-10-04 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113201/world-bank-stresses-urgent-energy-sector-reforms-in-sri-lanka) · `en`
+
+The World Bank has emphasized the urgent need for energy sector reforms in Sri Lanka, warning that the country continues to bear significantly higher energy costs than others in the region.
+
+This was highlighted during consultation meetings held between a World Bank delegation led by Country Manager Gevorg Sargsyan and key parliamentary finance oversight committees.
+
+The delegation first met with Dr. Harsha de Silva, Chair of the Committee on Public Finance (CoPF), and its members, followed by a combined consultation session with Dr. Nishantha Samaraweera, Chair of the Committee on Public Enterprises (COPE); Kabir Hashim, Chair of the Committee on Public Accounts (COPA); and Wijesiri Basnayake, Chair of the Committee on Ways and Means, along with members of their respective committees.
+
+Committee Chairs expressed their appreciation to the World Bank for its continued support to Sri Lanka’s development over the years, the Department of Communication of Parliament stated.
+
+...
+
+[Data](articles/ec7cd4fc.json)
+
+[Extended Data](ext_articles/ec7cd4fc.ext.json)
+
+---
+
+### Four arrested with illegal beedi leaves
+
+*2025-10-04 07:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226845) · `ta`
+
+Four persons have been arrested on Friday (03) by the Chettikulam police with illegal imported beedi leaves.
+
+They have been arrested following raids under the confidential information received by the Chettikulam Police Station officials in Mankulam, belonging to the Chettikulam Police Division.
+
+During this time, 40 packs of illegally imported 25 kilograms of beedi leaves were found.
+
+Initial investigations have revealed that the suspects were from Mannar, aged 21, 28, 40 and 43.
+
+◼️
+
+[Data](articles/beaab879.json)
+
+[Extended Data](ext_articles/beaab879.ext.json)
+
+---
+
+### Banana holds and interrogate
+
+*2025-10-04 07:57:20* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-සනා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-418904) · `si`
+
+The court was granted by the Court yesterday to hold a man who was arrested in Tangalle Saramodara, Tangalle's drug case.
+
+ඒ අනුව තංගල්ල වැඩබලන මහේස්ත්‍රාත් විදුර වීරකෝන් මහතා විසින් සැකකරු එළැඹෙන 09 වැනිදා දක්වා රඳවා ප්‍රශ්න කිරීම සඳහා පොලීසියට අවසර ලබා දී ඇති අතර බෙලිඅත්තේ සනා නැමැති මෙම අපරාධකරු තංගල්ල කොට්ඨාස අපරාධ විමර්ශන ඒකකය විසින් පසුගිය 01 වැනිදා අත්අඩංගුවට ගනු ලැබීය.්‍
+
+◼️
+
+[Data](articles/cecc1ea4.json)
+
+[Extended Data](ext_articles/cecc1ea4.ext.json)
+
+---
+
+### Trump orders Israel to stop the bombing immediately -"Today is a big day"!
+
+*2025-10-04 07:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226847) · `ta`
+
+US President Donald Trump has made an important appeal to Israel following Hamas's report on the Gaza ceasefire agreement.
+
+“Based on a statement issued by Hamas, I hope they are ready for a lasting silence. Israel should immediately stop the bombing on Gaza, so that the hostages can be safely and quickly evacuated. Now, the bombing is very dangerous, ”Trump posted on his social media.
+
+In a video he posted on this, he said, "Today is a great day," and said, "Let's see how everything can."
+
+He hoped that the end of the war in Gaza is “very close” and that all parties involved will be “fair.”
+
+“We are already discussing the details to be resolved. It is not only about Gaza, but also about the long -awaited peace in the Middle East, ”he said.
+
+He also thanked Qatar, Turkey, Saudi Arabia, Egypt and Jordan for assisting the "Peace in the Middle East".
+
+...
+
+[Data](articles/f7214e11.json)
+
+[Extended Data](ext_articles/f7214e11.ext.json)
+
+---
+
+### Gaza Ceylon Trying: Hamas Conditions for Trump Project!
+
+*2025-10-04 07:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226846) · `ta`
+
+Hamas has officially given its response to US President Donald Trump's proposed Gaza Ceylon Scheme. It is seen as an important move to bring peace in the Middle East.
+
+Hamas has announced that it wants to end the attacks and war in Gaza immediately.
+
+Hamas has also praised Trump's efforts and mediation of Arabic and Islamic countries.
+
+Hamas is ready to release all Israeli hostages (the bodies of the alive and the dead). Instead, the Palestinians in Israeli prisons must be released. Hamas said it was ready for immediate negotiations through the mediators.
+
+Hamas agrees to hand over Gaza's administration to an independent, technician group set up with Palestine. It is also necessary for the support of the Arab and Islamic countries.
+
+Hamas has insisted that the final decisions of Gaza's future and the rights of the Palestinian people should be reached only after all Palestinian groups are spoken of on the basis of international law.
+
+...
+
+[Data](articles/8b36a717.json)
+
+[Extended Data](ext_articles/8b36a717.ext.json)
+
+---
+
+### A man arrested for murder and assault in Dehiwala
+
+*2025-10-04 07:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226844) · `ta`
+
+A suspect has been arrested near the Dehiwala railway station, which belongs to the Dehiwala police division.
+
+The Kalkissa Divisional Criminal Investigation Department was conducting investigations into the suspect on a motorcycle.
+
+Accordingly, the Kalkissa Divisional Criminal Investigation Department (CID) has arrested the suspect on Friday (03) near the Dehiwala bus station.
+
+Investigations have revealed that the suspect is a 34 -year -old from Kalkis, Sivali Road.
+
+◼️
+
+[Data](articles/8ca8e11e.json)
+
+[Extended Data](ext_articles/8ca8e11e.ext.json)
+
+---
+
+### Trade on the sidewalk in Hatton is prohibited
+
+*2025-10-04 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215319) · `si`
+
+Trendere to 146 pieces of land to be temporarily allocated for the Oppelai Urbetic MoUlogy. 36,68,000) has been able to earn more income.
+
+Commenting on the recalling tenders, the Chairman of Hatton Dikoya Urban Armhya Karunaratne yesterday (03).
+
+Deepavali is not allowed to trade in Hatton in Hatton, and the land near Hatton square and energy hall.
+
+The plot of land has been summoned from the Government Assessment Department and summoned tenders.
+
+Tenders, Shyamali Rupasinghe, the Secretary to the Municipal Council yesterday, has been able to earn these revenues.
+
+In addition to the tender, a capsual tax levy and business tax has been paid to those tenders to temporarily business.
+
+◼️
+
+[Data](articles/82653952.json)
+
+[Extended Data](ext_articles/82653952.ext.json)
+
+---
+
+### We are all united
+
+*2025-10-04 07:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-எல்லோரும்-ஒற்றுமையாக-உள்ளோம்/175-365699) · `ta`
+
+Sri Lanka Tamil National Alliance (TNA) leader CVK Sivagnanam said that we are all united except the bicycle party to implement the 13th Amendment to the Constitution.
+
+CVK Sivagnanam said this while holding a media briefing yesterday at his office in Jaffna. As he further stated,
+
+India has the most important task, though the international community is concerned about the Eelam Tamils.. India is also responsible for the Indo -Sri Lanka Agreement.
+
+But, in general, the Indian side is repeating a subject. That is what is to be united. He has said that we should be united even during a recent meeting with the Indian Ambassador to Sri Lanka.
+
+We are really united. For example, we are all united to fully implement the 13th Amendment. Then why does India say to come together?
+
+So we are united. Needless to say, as the gift of Vishwamitra. Even though we are all together, the bicycle party disagrees. Let them not agree.
+
+...
+
+[Data](articles/db576916.json)
+
+[Extended Data](ext_articles/db576916.ext.json)
+
+---
+
+### The weather today
+
+*2025-10-04 06:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226843) · `ta`
+
+The Department of Meteorology has said that the conditions of the atmospheric conditions are optimal for thunderstorms in the evening.
+
+Heavy rainfall with strong winds and thunderstorms can cause massive lightning.
+
+Therefore, the public is asked to take necessary precautions to avoid the losses or damage caused by them.
+
+Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
+
+Heavy rainfall is expected in some parts of the Eastern, Central, North Central and Uva provinces.
+
+Showers or thunderstorms can occur in many parts of the sea regions around the country in the evening or night.
+
+Winds from the southwest at 30 - 40 km per hour in the sea regions.
+
+But in the event of thunderstorms, strong winds are blowing and the sea regions are temporarily in a very turbulent.
+
+◼️
+
+[Data](articles/136621c0.json)
+
+[Extended Data](ext_articles/136621c0.ext.json)
 
 ---

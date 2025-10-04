@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 10:37:43**
+As of **2025-10-04 11:06:44**
 
 ## Newspaper Stats
 
@@ -27,61 +27,77 @@ adaderanasinhalalk | 13,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,006 (100.0%) of 81,010 articles have been extended.
+81,010 (100.0%) of 81,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### ’’හොර මගඩි’’ ලංගමයේ කෝටි 500ක් වනසලා
+### 500 crores in SLTB destroyed
 
 *2025-10-04 10:19:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හර-මගඩ-ලගමය-කට-500ක-වනසල/101-680721) · `si`
 
-ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ බස් රථ ඇණිය සඳහා   පිරවූ  ටයර් සහ ටයර් පෙර සවිකිරීම  ටෙන්ඩරය  පිරිනැමීමෙන් තොරව අමාත්‍ය මණ්ඩලයේ තීරණයට ඒවා මිලදී ගැනීම හේතුවෙන් එම  මණ්ඩලයට රුපියල් තිස් පන්කෝටි හැට ලක්ෂයකට  වැඩි මූල්‍යමය පාඩුවක් සිදුව ඇති බව ජාතික විගණන කාර්යාලය නිකුත් කළ අලුත්ම  වාර්තාවක සඳහන් වේ.
+The National Audit Office has issued a financial loss of Rs.
 
-අමාත්‍ය මණ්ඩල තීරණය පරිදි මෙම භාණ්ඩ මිලදී ගැනීම හේතුවෙන් මණ්ඩලයට රුපියල් කෝටි284ක මුදලක් ගෙවීමට සිදුවූ  බවද එම වාර්තාවේ දැක්වේ.
+According to the report, the purchase of goods had to pay Rs.
 
-පසුගිය 2023 වර්ෂය සඳහා අවශ්‍ය මුළු ටයර් ප්‍රමාණය මිලදී ගැනීම සඳහා ප්‍රතිපාදන සලසා තිබියදී එම වර්ෂය සඳහා මාස හතරකට ටයර් අවශ්‍යතාව පෙන්වා නැවත පිරවූ ටයර් 8849ක් සහ පෙරසවි ටයර් 34859ක් මිලදී ගැනීම සඳහා ලංසු  කැඳවා තිබූ අතර ඉදිරිපත් වූ ලංසුකරුවන් 17 දෙනකුගෙන් 14 දෙනකු සාරානුකූල ලංසුකරුවන් ලෙස තෝරාගෙන තිබූ බවත්  අමාත්‍ය මණ්ඩලය විසින් පත් කෙරුණු ප්‍රසම්පාදන කමිටුව  ලංසු  කැඳවීමට පෙර සලකා බැලිය යුතු කරුණු සහ සාධක සලකා බැලීමට යටත්ව අනුමැතිය ලබාදීම කල් දමා තිබූ බවත් ජාතික විගණන කාර්යාලය පවසයි.
+The National Purchasiser has been summoned to buy the required requirements for the purchase of Rs. The Audit office says.
 
-...
+Meanwhile, the cylinder boxes supplied to the Sri Lanka Transport Board a financial loss for nearly 100 million cylinder boxes in one hundred cylinders
+
+Meanwhile, it is said that the audit report to run from the Ruhuna Regional Office, the panel lost to over Rs.
+
+The audit report points out that 2023 to buy grease and lubricant to the board.
+
+This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
+
+Many officials involved in these corruption and irregularities have not yet implemented the law.
+
+◼️
 
 [Data](articles/50aac0aa.json)
 
+[Extended Data](ext_articles/50aac0aa.ext.json)
+
 ---
 
-### புதிதாக பிறந்த குழந்தை வடிகாணில் வீசப்பட்ட கொடூரம்
+### Horror
 
 *2025-10-04 09:52:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிதாக-பிறந்த-குழந்தை-வடிகாணில்-வீசப்பட்ட-கொடூரம்/175-365702) · `ta`
 
-மாத்தளை, பிடகந்த தோட்டத்தில் உள்ள பழைய தேயிலைத் தொழிற்சாலைக்கு அருகிலுள்ள வடிகாணில், பிறந்த சிசு ஒன்று வீசப்பட்ட நிலையில் கண்டுபிடிக்கப்பட்டுள்ளது.
+In a drain near the old tea factory in the Bidakanda estate in Matale, a newborn infant has been found thrown.
 
 ◼️
 
 [Data](articles/2033bce2.json)
 
+[Extended Data](ext_articles/2033bce2.ext.json)
+
 ---
 
-### පළාත්  ඡන්දය අප්‍රේල්  මැද: පක්ෂ රැසක් බරටම වැඩ
+### Provincial Elections April: Several parties work
 
 *2025-10-04 09:37:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පළත-ඡනදය-අපරල-මද-පකෂ-රසක-බරටම-වඩ/101-680720) · `si`
 
-පළාත් සභා මැතිවරණය ලබන වසරේ අප්‍රේල් මාසයට  ප්‍රථම පැවැත්වීමට රජය අපේක්ෂා කරයි.
+The government expects to hold the provincial council election in April next year.
 
-මෙම මැතිවරණය සඳහා සමගි  ජන බලවේගය ඇතුළු දේශපාලන පක්ෂ  රැසක් දැනටමත් අපේක්ෂකයන් තේරීම ඇතුළු  වැඩකටයුතු  ආරම්භ කර ඇත.
+A large number of political parties including the election for the election have already begun work to select candidates.
 
-සමගි ජන බලවේගය පළාත් සභා මැතිවරණය සඳහා අපේක්ෂකයන් තෝරා ගැනීම සඳහා දැන්වීම් ප්‍රචාරය කිරීමට පසුගිය සතියේ පැවති   එහි නායක  රැස්වීමකදී තීරණය  කෙරිණ
+Samagi-folk force was decided at a leader meeting held in a leader meeting last week to promote candidates for the provincial council election.
 
-මේ සම්බන්ධයෙන් අප රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන නියෝජ්‍ය අමාත්‍ය රුවන් සෙනරත් මහතාගෙන් කළ විමසුමකදී ඔහු පැවසුවේ පළාත් සභා මැතිවරණය ප්‍රමාද කිරීමට රජයට කිසිදු අවශ්‍යතාවක් නැති බවයි.
+When we inquired from Public Administrative Provincial Councils and Local Government Ruwan Senarath, he said that the government had no need to delay the provincial council election.
 
-එම මතිවරණය පැවැත්වීමට නීතිමය බාධාවන් කිහිපයක් පැන නැගී ඇති බවත් එම බාධාවන් නිරවුල් කිරීමට මේ දිනවල සාකච්ඡා ආරම්භ වී ඇති බවත් ඔහු සඳහන් කළේය.
+He added that several legal obstacles have arisen and have begun to settle these obstacles.
 
-පළාත් සභා නවයේම නිල කාලය අවසන් වීම හේතුවෙන් වසර දහයකට ආසන්න කාලයක් තිස්සේ ඒවා  පවතින්නේ ආණ්ඩුකාරවරුන්ගේ පාලනය යටතේය.
+The end of the nine provincial councils has been under the control of governors for nearly ten years.
 
-මේ අතර පළාත් සභා මැතිවරණය ඉක්මනින්ම පවත්වන්නැයි  දේශපාලන පක්ෂ සහ සිවිල් සංවිධාන රජයෙන් දිගින් දිගටම ඉල්ලීම් කරමින් සිටී.
+Meanwhile, the Government of Sri Lanka and Civil Association are continuously making the government to conduct the provincial council election soon.
 
 ...
 
 [Data](articles/48635200.json)
+
+[Extended Data](ext_articles/48635200.ext.json)
 
 ---
 
@@ -123,23 +139,25 @@ COLOMBO (News 1st); A suspect has been taken into custody in connection with an 
 
 ---
 
-### මහින්දගේ බංගලාවට කඹ ඇදිල්ලක්
+### A rope for Mahinda's bungalow
 
 *2025-10-04 08:48:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනදග-බගලවට-කඹ-ඇදලලක/1-680719) · `si`
 
-බඩු බාහිරාදිය භාර ගැනීම සම්බන්ධයෙන් දෙපාර්ශවය අතර ඇති වී තිබෙන කඹ ඇදීමක් හේතුවෙන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පදිංචිව සිටි කොළඹ විජේරාම මාවතේ බංගලාව රජයේ භාරයට ගැනීම තවදුරටත් ප්‍රමාද වෙමින් තිබෙන බව වාර්තාවේ.
+It is reported that the bungalow of former President Mahinda Rajapaksa is further delaying the bungalow of the Wijerama Mawatha, a resident of the resident of the Colombo Wijerama Mawatha.
 
-එම බංගලාවේ ඇති හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ බඩු භාණ්ඩ ඉවත් කරගන්නා ලෙස ජනාධිපති ලේකම් කාර්යාලය කිහිප වතාවක්ම හිටපු දැනුම්දී ඇත. එහෙත් හිටපු ජනාධිපතිවරයා ප්‍රකාශ කර ඇත්තේ ආණ්ඩුව බංගලාවේ බඩු භාණ්ඩ ලැයිස්තුව පරීක්ෂා කර ඒවා ඉවත් කර ගත් පසු තමාගේ බඩු භාණ්ඩ ඉවත් කරගන්නා බවයි.
+Presidential Secretariat several times have been announced to remove his goods in the bungalow.. However, the former President has said that the government is examining the list of the bungalows and removes his goods.
 
-මුලින්ම බඩු ඉවත් කරගත්තහොත් යම් විදිහකින් හෝ රජයේ බඩු ගෙන ගියා යයි චෝදනාවක් එල්ල කිරීමට ඇති ඉඩකඩ වැළැක්වීමේ පියවරක් ලෙස හිටපු ජනාධිපතිවරයා එම තීරණය ගෙන බව ආරංචි මාර්ග සඳහන් කරයි.
+According to sources, the former President has taken the decision as a measure of such a chance to prevent such belongings to a situation where the goods were removed.
 
-කෙසේ වෙතත් රජය පවසන්නේ හිටපු ජනාධිපතිවරයා තමාගේ බඩු භාණ්ඩ මුලින්ම ඉවත් කර ගතයුතු බවයි.
+However, the government says the former President should take his goods first.
 
-විජේරාම මාවතේ නිවසේ ඇත්තේ හිටපු ජනාධිපතිවරයාගේ මෙන්ම අගමැති කාර්යාලයට සහ රාජ්‍ය පරිපාලන අමාත්‍යාංශයට අයත් බඩු භාණ්ඩය.
+The house belonging to the former President and the Ministry of Public Administration and the Ministry of Public Administration.
 
 ◼️
 
 [Data](articles/7033f34c.json)
+
+[Extended Data](ext_articles/7033f34c.ext.json)
 
 ---
 

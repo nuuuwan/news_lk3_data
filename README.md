@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 23:39:03**
+As of **2025-10-04 23:56:50**
 
 ## Newspaper Stats
 
-*Scraped **81,171** Articles*
+*Scraped **81,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,14 +20,14 @@ dailyftlk | 5,664
 adalk | 7,782
 adaderanalk | 10,441
 tamilmirrorlk | 12,049
-virakesarilk | 13,335
+virakesarilk | 13,336
 adaderanasinhalalk | 13,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,169 (100.0%) of 81,171 articles have been extended.
+81,169 (100.0%) of 81,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1639,6 +1639,24 @@ Residents of the area hospitalized after the accident and the injured couple wer
 
 ---
 
+### ஆசிரியர்கள் மீதான தாக்குதல்களுக்கு அரசாங்கம் நடவடிக்கை எடுக்கவில்லை - இலங்கை ஆசிரியர் சங்கம் குற்றச்சாட்டு
+
+*2025-10-04 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226879) · `ta`
+
+அம்பாறை மாவட்டத்தின் கல்முனை பிரதேசத்திற்குட்பட்ட திருக்கோயில் கல்வி வலயத்திற்குட்பட்ட பாடசாலைகளில் கடமையாற்றும் அதிபர் ஆசிரியர்கள் அண்மைக்காலமாக வெளிநபர்களினால் தாக்குதலுக்கு உள்ளாகும் சம்பவங்கள் அதிகரித்து வருகின்றதாக இலங்கை ஆசிரியர் சங்கத்தின் உப தலைவர் தீபன் திலீசன் தெரிவித்துள்ளார்.
+
+அவர் வெளியிட்ட ஊடக அறிக்கையிலேயே இந்த விடயத்தை தெரிவித்துள்ளார். இது குறித்து அவர் மேலும் தெரிவிக்கையில்,
+
+இவ்வாறான சம்பவங்களைக் கட்டுப்படுத்துவதற்கு சிறிலங்கா காவல்துறையினரோ, அரசாங்கமோ ஆக்கபூர்வமான தொடர் நடவடிக்கைகளை மேற்கொள்ளாமல் இருப்பதன் பின்னணி பாரிய சந்தேகங்களை ஏற்படுத்துகின்றன.
+
+2025.05.23 ம் திகதியன்று திருக்கோவில் கல்வி வலயத்துக்குட்பட்ட ஆலயடிவேம்பு திருநாவுக்கரசு வித்தியாலயத்தின் அதிபர் மற்றும் ஆசிரியரும் வாள் வெட்டுக்கு உள்ளாகியுள்ளனர்.
+
+...
+
+[Data](articles/92bea6a1.json)
+
+---
+
 ### Mahinda Rajapaksa handed over his security vehicle
 
 *2025-10-04 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226878) · `ta`
@@ -1968,31 +1986,5 @@ COLOMBO (News 1st); Media Spokesperson of Former President Mahinda Rajapaksa Att
 [Data](articles/be3badf4.json)
 
 [Extended Data](ext_articles/be3badf4.ext.json)
-
----
-
-### PUCSL final decision on electricity tariff is over the next two weeks
-
-*2025-10-04 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215330) · `si`
-
-The Commission states that the Government of Sri Lanka (PUCSL) is the decision of the Ceylon Electricity Board (CEB) on the proposal of the Ceylon Electricity Board.
-
-The Ceylon Electricity Board (CEB) has requested the Public Utilities Commission in September recently proposing electricity tariff by 6.8 percent.
-
-Accordingly, the commission was launched by the Commission on the 18th of this month.
-
-Public opinions have been obtained covering 8 provinces and more than 500 people participated in the event.
-
-මහජන අදහස් ලබා ගැනීමේ අවසන් සැසිය එළඹෙන 8 වනදා බස්නාහිර පළාත කේන්ද්‍ර කර ගනිමින් සිදු කිරීමට කටයුතු යොදා ඇත.
-
-The relevant public comments is being taken by the relevant public comments, which is estimated to purchase fuel, distribution costs, dealership costs and fuel to pay the costs of fuel to pay the costs.
-
-Accordingly, the final report on the revision of the electricity tariff is due to be released.
-
-◼️
-
-[Data](articles/5798caa3.json)
-
-[Extended Data](ext_articles/5798caa3.ext.json)
 
 ---

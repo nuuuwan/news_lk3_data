@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 18:19:08**
+As of **2025-10-04 19:06:23**
 
 ## Newspaper Stats
 
-*Scraped **81,110** Articles*
+*Scraped **81,125** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 588
+newsfirstlk | 594
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 762
+lankadeepalk | 763
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -20,36 +20,194 @@ dailyftlk | 5,664
 adalk | 7,776
 adaderanalk | 10,436
 tamilmirrorlk | 12,046
-virakesarilk | 13,319
-adaderanasinhalalk | 13,951
+virakesarilk | 13,326
+adaderanasinhalalk | 13,952
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,108 (100.0%) of 81,110 articles have been extended.
+81,121 (100.0%) of 81,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය අත්හැර දමයි
+### Wimal Weerawansa To Appear Before The Tangalle Police
+
+*2025-10-04 18:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/wimal-weerawansa-to-appear-before-the-tangalle-police) · `en`
+
+COLOMBO (News 1st); Former Minister Wimal Weerawansa has been instructed to appear before the Tangalle Police the day after tomorrow.This summons relates to an inquiry concerning a statement he made to the media about an individual named 'Beliatte Sana'He is required to appear at the Tangalle Police Station at 10 a.m. on that day.
+
+◼️
+
+[Data](articles/e125b2b5.json)
+
+---
+
+### Massive Drug Haul Reported In 2025 Raids
+
+*2025-10-04 18:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/massive-drug-haul-reported-in-2025-raids) · `en`
+
+COLOMBO (News 1st); The Sri Lanka Police have carried out 61,265 ICE raids so far this year, seizing 1,852 kg of the drug.In 52,693 heroin raids, the Police managed to seize 1,248 kg of the drug.They have also seized 14,221 kg of cannabis, 506 kg of hashish, and 29 kg of cocaine so far this year.Additionally, 3,579,339 drug tablets and pills have been confiscated to date.
+
+◼️
+
+[Data](articles/d5823739.json)
+
+---
+
+### Accomplice Of ‘Backhoe Saman’ Arrested
+
+*2025-10-04 18:45:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/accomplice-of-%e2%80%98backhoe-saman%e2%80%99-arrested) · `en`
+
+COLOMBO (News 1st); A suspect believed to have coordinated drug trafficking and contract killings in Sri Lanka on behalf of the underworld figure “Backhoe Saman,” who is currently in remand custody, has been arrested.The suspect arrested has been identified as the husband of Backhoe Saman’s sister.Police Special Task Force officers arrested the suspect and handed him over to the Western Province North Crimes Division.Police said that questioning of the suspect, identified as Kaveesha, has begun under a seven-day detention order.During the interrogation, police recovered a pistol and a stock of narcotics hidden in Middeniya.
+
+◼️
+
+[Data](articles/fb7557c6.json)
+
+---
+
+### Death sentence for a person criticizing the president of social media; Incident in Tunisia
+
+*2025-10-04 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226904) · `ta`
+
+Reuters News Service has been sentenced to death by a tunician worker who criticizes the national security of the country through records that defraud the president on social media.. This was reported by Buddhistja, the leader of the country's Human Rights League and his lawyer.
+
+In the Northern African country of Tunisia, the restrictions on freedom of expression have been tightened since Kais Saeed became president in 2021.
+
+His lawyer, Reuters, told the news service that a 56 -year -old daily wage worker Sabar Chaushene was a low literate man and had written records of criticism of the president before he was arrested last year.
+
+Nabul court judge on Base Book records sentenced him to death. This is a shocking and an incident that has never been preceded by it, ”said Pouvalja.
+
+It is important that the courts of Tunisia have periodically sentenced the death penalty judgments, but have not been convicted for the past three decades.
+
+...
+
+[Data](articles/72dcd138.json)
+
+[Extended Data](ext_articles/72dcd138.ext.json)
+
+---
+
+### පුනර්ජනනීය බලශක්ති ව්‍යාපෘතිය අඛණ්ඩව ක්‍රියාත්මක කරනවා - බලශක්ති අමාත්‍ය
+
+*2025-10-04 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215342) · `si`
+
+රජය විසින් ගෙන ඇති පුනර්ජනනීය බලශක්ති ව්‍යාපෘති අඛණ්ඩ ක්‍රියාත්මක කරන බව බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා පවසයි.
+
+අමාත්‍යවරයා පැවසුවේ කෙසේ නමුත් එම ව්‍යාපෘති හේතුවෙන් ජනතාවට මතුවන ගැටලු මානුෂිකව සලකා බලා ඒවා විසඳීමට ගත හැකි සියලු පියවරද ගන්නා බවය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ ගාල්ල හියාර ප්‍රදේශයේ ඉදිකරන ලද මෙගාවෝට් 05ක සූර්යබලශක්ති ව්‍යාපෘතිය විවෘත කිරීමේ අවස්ථාවට අද (04) එක්වෙමිනි.
+
+එහිදී අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කර සිටියේ පුනර්ජනනීය බලශක්ති උත්පාදනය ජාතික අවශ්‍යතාවක් සහ ජාතික වැඩපිළිවෙළේ කොටසක් වන බවත් සියල්ලන් වටහා ගත යුතු බවත්ය.
+
+...
+
+[Data](articles/90eaf5c5.json)
+
+---
+
+### "The government is taking a good trip,"
+
+*2025-10-04 18:03:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආණඩව-හඳ-ගමනක-යනව/1-680736) · `si`
+
+Former minister SBs that the national power will be well presented in the world well. Dissanayake said.
+
+The former minister said that he believed that he believed that the Chinese Communist government did in this journey, it should be convened to the country as the Communist government's commerce.
+
+He pointed out that the government is strengthening and that the opposition is weak.
+
+◼️
+
+[Data](articles/623805e2.json)
+
+[Extended Data](ext_articles/623805e2.ext.json)
+
+---
+
+### Sri Lankan legendary actor "Ramaiah Chidambaram" passed away
+
+*2025-10-04 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226901) · `ta`
+
+"Ramaiah Chidambaram", a Sri Lankan legendary actor and owner of many awards, passed away today (04).
+
+◼️
+
+[Data](articles/b4a9378f.json)
+
+[Extended Data](ext_articles/b4a9378f.ext.json)
+
+---
+
+### Sri Lanka and Australia gives up
 
 *2025-10-04 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215341) · `si`
 
-කාන්තා එක්දින ලෝක කුසලානයේ ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමට තීරණය කර තිබේ.
+The competition between Sri Lanka and Australia, the Sri Lanka and Australia of the Women's ODI World Cup has been abandoned due to rain.
 
-කාන්තා එක්දින ලෝක කුසලානයේ ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය ආරම්භයට අයහපත් කාලගුණයෙන් බාධා එල්ල විය.
+The tournament between Sri Lanka and Australia in the women's World Cup, the commencement of bad weather.
 
-ඒ අනුව පස්වරු 3.00ට කොළඹ ආර්. ප්‍රේමදාස ක්‍රිකට් ක්‍රිඩාංගණයේදී ආරම්භ වීමට නියමිතව තිබූ තරගයේ කාසියේ වාසිය උරගා බැලීමටද නොහැකි විය.
+Accordingly, at 3.00 pm in Colombo. Unable to see the toss of the coin that was to start at Premadasa cricket stadium.
 
-තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම මුහුණදෙන දෙවන තරගය මෙය වන අතර පළමු තරගයේදී ඔවුන් ඉන්දීය කාන්තා කණ්ඩායම හමුවේ පරාජයට පත් වුණි.
+This is the second match facing the Sri Lankan team of the tournament and the first match was defeated before the Indian women's group.
 
-ඕස්ට්‍රේලියානු කාන්තා කණ්ඩායම ඔවුන් මුහුණදුන් පළමු තරගයේදී නවසීලන්ත කාන්තා කණ්ඩායම පරදා ලකුණු 89ක  ජයක් හිමිකර ගත්තාය.
+Australian women's group won the New Zealand by 89 runs in the first match they faced.
 
 ◼️
 
 [Data](articles/88d2841d.json)
+
+[Extended Data](ext_articles/88d2841d.ext.json)
+
+---
+
+### Youth and girl killed in accident
+
+*2025-10-04 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226898) · `ta`
+
+Horana police said that the youth and girl were killed in an accident near Kathanwila Vihara on the Horana - Moragahahena road.
+
+Police said the accident occurred when a motorcycle and lorry collided.
+
+The two men and women riding a bicycle during the accident were injured and the two were admitted to the hospital after being admitted to the hospital, police said.
+
+The deceased are a 21 -year -old girl from Moragahahena and a 24 -year -old youth.
+
+◼️
+
+[Data](articles/6e64a75d.json)
+
+[Extended Data](ext_articles/6e64a75d.ext.json)
+
+---
+
+### Thunderstorms Expected This Evening; Public Advised to Take Precautions
+
+*2025-10-04 17:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/thunderstorms-expected-this-evening-public-advised-to-take-precautions) · `en`
+
+COLOMBO (News 1st); The department of Meteorology announced that, Atmospheric conditions are favorable for thunderstorms in the evening. Therefore, general public is advised to take adequate precautions to minimize damages caused by heavy rain, strong winds and strong lightning during thundershowers.Showers or thunder showers will occur at several places in most parts of the island after 1.00 p.m.Heavy showers above 100 mm are likely at some places in Northcentral, Eastern, Central and Uva provinces.
+
+◼️
+
+[Data](articles/9c962c1d.json)
+
+[Extended Data](ext_articles/9c962c1d.ext.json)
+
+---
+
+### Salary Disparities to Be Addressed in Budget
+
+*2025-10-04 17:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/salary-disparities-to-be-addressed-in-budget) · `en`
+
+COLOMBO (News 1st); The Ministry of Public Administration, Provincial Councils, and Local Government says that this year’s budget will address salary disparities for certain groups of public servants.Minister of Public Administration, Provincial Councils, and Local Government, Dr. Chandana Aberathna, said that a further portion of the salary increments for public servants announced in the previous budget is planned to be paid in this year’s budget.The Minister also noted that an accelerated program is underway to eliminate salary disparities within the public service.The 2026 budget, which will be the second reading of the budget speech, is scheduled to be presented to Parliament by President Anura Kumara Dissanayake, in his capacity as Minister of Finance, on the 7th of November.
+
+◼️
+
+[Data](articles/e6bb0485.json)
+
+[Extended Data](ext_articles/e6bb0485.ext.json)
 
 ---
 
@@ -89,6 +247,8 @@ Explaining further in this regard, Deputy Minister Anil Jayantha said:
 
 [Data](articles/82e19816.json)
 
+[Extended Data](ext_articles/82e19816.ext.json)
+
 ---
 
 ### #SriPOP - The Sound of a New Sri Lanka
@@ -112,6 +272,28 @@ From the Portuguese-inspired baila that once drifted through coastal taverns, to
 [Data](articles/d15ff5b6.json)
 
 [Extended Data](ext_articles/d15ff5b6.ext.json)
+
+---
+
+### #SriPOP - The Sound of a New Sri Lanka
+
+*2025-10-04 16:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sripoposrilanka) · `en`
+
+In Stein Studios, in the outskirts of Colombo, a dancer moves as if the earth itself is breathing beneath her feet.
+
+The rhythm isn’t rushed. It’s human imperfectly perfect, like the heartbeat that drives it. A drum echoes, a synth sighs, and something ancient awakens.
+
+It’s not a beat born in a studio, nor a formula cooked up for virality. It’s a call a return to the rhythm that has always pulsed through this island’s soul.
+
+To understand #SriPop, you have to first understand the strange, beautiful chaos of Sri Lanka’s musical DNA.
+
+From the Portuguese-inspired baila that once drifted through coastal taverns, to the rabana circles of rural women who drum while they laugh and sing, to the Nada Bhera & Yak Bera  the ceremonial drumming that summons gods and courage alike this island’s music has never been entertainment alone. It has always been spiritual architecture, a way of being, of remembering, of belonging.
+
+...
+
+[Data](articles/e30f936f.json)
+
+[Extended Data](ext_articles/e30f936f.ext.json)
 
 ---
 
@@ -263,6 +445,48 @@ Showers may occur at several places in Western and Sabaragamuwa provinces and in
 
 ---
 
+### The results of the Electricity Tax Correction will be announced in two weeks - the Public Utilities Commission of Sri Lanka
+
+*2025-10-04 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226889) · `ta`
+
+The Sri Lanka Public Utilities Commission has announced that the proposals of the Ceylon Electricity Board (CEB) will be announced in two weeks to increase the power tariff amendment by 6.8 per cent.
+
+Accordingly, the final decision is expected to be issued on or before the 15th.
+
+It is reported that the public consultation process is currently underway to correct the electricity bills.
+
+After the final session of the Western Provincial Council on the 08th of this month, the final decision will be taken on the amendment of the tariffs.
+
+It is also reported that this fee will be followed by the Electricity Act and the Power Prices.
+
+According to reports, the Ceylon Electricity Board (CEB) has registered a compensation of Rs 769 million from October to 2025 to December.
+
+◼️
+
+[Data](articles/30abf6a5.json)
+
+[Extended Data](ext_articles/30abf6a5.ext.json)
+
+---
+
+### Arrested for stealing jewelery and foreign money in Jaffna
+
+*2025-10-04 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226888) · `ta`
+
+The main suspect in connection with the crime has been arrested by the Jaffna police as a recent stolen of foreign money and jewelery worth Rs 50 lakhs in a house in Nallurpur.
+
+A house in Nallur, Jaffna, was broken at night and a large amount of foreign money and jewelery were stolen.
+
+A group of people in charge of the Jaffna Police Station Crime Unit, who conducted further investigations, arrested the main suspect and seized large quantities of jewelery and foreign currencies from him.
+
+◼️
+
+[Data](articles/cfb0ad18.json)
+
+[Extended Data](ext_articles/cfb0ad18.ext.json)
+
+---
+
 ### IMF to pleased Sri Lanka
 
 *2025-10-04 16:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-குறித்து-மகிழ்ச்சி-வெளியிட்ட-IMF/175-365707) · `ta`
@@ -360,6 +584,24 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/bcad0c0a.json)
 
 [Extended Data](ext_articles/bcad0c0a.ext.json)
+
+---
+
+### 14 people are affected by winds in Jaffna
+
+*2025-10-04 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226884) · `ta`
+
+The Jaffna District Disaster Management Division Deputy Director TN Suriyarajah said that 14 persons from three families in Jaffna have been defended due to windy rains.
+
+Two houses have been partially damaged due to wind rains in the J/28 Grama Niladhari Division of the Velanai Divisional Secretariat Division and 10 people from two families have been affected.
+
+He also stated that a house in the J/169 Grama Niladhari Division, which belongs to the Sanganai Divisional Secretariat, has been partially damaged and four have been affected.
+
+◼️
+
+[Data](articles/a37d02c1.json)
+
+[Extended Data](ext_articles/a37d02c1.ext.json)
 
 ---
 
@@ -570,6 +812,26 @@ The student then left the knee and hit the head and face.. He has been admitted 
 [Data](articles/de027e9a.json)
 
 [Extended Data](ext_articles/de027e9a.ext.json)
+
+---
+
+### Leakage Plant Siege - Youth arrested
+
+*2025-10-04 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226880) · `ta`
+
+The Pudukkudiyiruppu police have taken action on the basis of confidential information received by the Pudukkudiyiruppu Police Station on Friday (03) that the leak production is taking place in the Mullaitivu - Pudukkudiyiruppu forest area.
+
+In a raid conducted by the police in charge of the Pudukkudiyiruppu police station, police said that 8 barrels of 1280 liters of Koda, 100 liters of leaks made in barrels and a further curly were seized.
+
+A 23 -year -old youth from Devipuram has been arrested. He was arrested and sentenced to court on 03.03.2025 while involved in leakage production.
+
+The Pudukkudiyiruppu police said that the suspect is to be re -produced at the Mullaitivu court.
+
+◼️
+
+[Data](articles/48c06ad9.json)
+
+[Extended Data](ext_articles/48c06ad9.ext.json)
 
 ---
 
@@ -1750,315 +2012,5 @@ Many officials involved in these corruption and irregularities have not yet impl
 [Data](articles/50aac0aa.json)
 
 [Extended Data](ext_articles/50aac0aa.ext.json)
-
----
-
-### Introduction of new telephone numbers to provide drug -related information - police
-
-*2025-10-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226852) · `ta`
-
-New telephone numbers have been introduced in many parts of the country to provide direct information to the police on the spread of drugs including heroin, ice, cocaine and cannabis, the police headquarters said.
-
-Earlier, the telephone numbers of Senior Police Principals responsible for each provinces were published to the media.
-
-The telephone numbers of the District Police Principals and Senior Police Superintendents under the Senior Police Principals have also been released yesterday (03).
-
-The police media unit said that the public can provide information on drugs.
-
-It is said that the public's support for the eradication of drug threat is greatly appreciated and the Sri Lankan police will strive to protect the confidentiality of the public information.
-
-◼️
-
-[Data](articles/31bef03d.json)
-
-[Extended Data](ext_articles/31bef03d.ext.json)
-
----
-
-### Fifth undergraduate research conference of the University of Jaffna
-
-*2025-10-04 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226849) · `ta`
-
-The Fifth undergraduate research conference of the University of Jaffna will be held on Wednesday 08.10.2025.
-
-The Vice Chancellor of the University, Professor C. Sirisakkunaraja, will be the chief guest at the University Kailasapathi Gallery at 9 am.
-
-Professor of Social Sciences of Sri Lanka Open University. Chandra Bose will play the opening.
-
-The process of being one of the main tasks of universities is the study process. The expectation that not only university teachers but also students should engage in academic studies has been increasing in recent years.
-
-அதற்கமைய, பல்கலைக்கழக மாணவர்களும் பல்வேறு தடங்களில்  தமது ஆய்வு நாட்டத்தைக் காண்பித்து வருகிறார்கள்.
-
-In that respect, the young Kalamani Research Conference of the Artist has been a very well held for the past four years.
-
-The fifth conference, which is being held this year, is organized in 16 inspections with the theme of "Knowledge to strengthen and strengthen changes."
-
-...
-
-[Data](articles/8df1187e.json)
-
-[Extended Data](ext_articles/8df1187e.ext.json)
-
----
-
-### Jaffna firefighters against problems in state banks
-
-*2025-10-04 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226851) · `ta`
-
-The protest was held at the Ceylon Bank Employees Union at 7 pm yesterday (03) at 7 pm.
-
-The protesters have accused the bank of going to privatization through the amendments of state banks.
-
-◼️
-
-[Data](articles/6e4a04b3.json)
-
-[Extended Data](ext_articles/6e4a04b3.ext.json)
-
----
-
-### Youth killed in vehicle accident
-
-*2025-10-04 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226848) · `ta`
-
-A youth was killed in a vehicle accident on the Puttalam -Okampitiya main road under the Puttalam Police Division.
-
-The accident occurred when a motorcycle traveling from Okampitiya to Puttalam lost control and crashed into a rock.
-
-The motorcycle driver and a passenger in the back were seriously injured and admitted to the Puttalam hospital.
-
-◼️
-
-[Data](articles/cc60edbb.json)
-
-[Extended Data](ext_articles/cc60edbb.ext.json)
-
----
-
-### Horror
-
-*2025-10-04 09:52:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிதாக-பிறந்த-குழந்தை-வடிகாணில்-வீசப்பட்ட-கொடூரம்/175-365702) · `ta`
-
-In a drain near the old tea factory in the Bidakanda estate in Matale, a newborn infant has been found thrown.
-
-◼️
-
-[Data](articles/2033bce2.json)
-
-[Extended Data](ext_articles/2033bce2.ext.json)
-
----
-
-### Provincial Elections April: Several parties work
-
-*2025-10-04 09:37:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පළත-ඡනදය-අපරල-මද-පකෂ-රසක-බරටම-වඩ/1-680720) · `si`
-
-The government expects to hold the provincial council election in April next year.
-
-A large number of political parties including the election for the election have already begun work to select candidates.
-
-Samagi-folk force was decided at a leader meeting held in a leader meeting last week to promote candidates for the provincial council election.
-
-When we inquired from Public Administrative Provincial Councils and Local Government Ruwan Senarath, he said that the government had no need to delay the provincial council election.
-
-He added that several legal obstacles have arisen and have begun to settle these obstacles.
-
-The end of the nine provincial councils has been under the control of governors for nearly ten years.
-
-මේ අතර පළාත් සභා මැතිවරණය ඉක්මනින්ම පවත්වන්නැයි  දේශපාලන පක්ෂ සහ සිවිල් සංවිධාන රජයෙන් දිගින් දිගටම ඉල්ලීම් කරමින් සිටී.
-
-...
-
-[Data](articles/31051165.json)
-
-[Extended Data](ext_articles/31051165.ext.json)
-
----
-
-### Provincial Elections April: Several parties work
-
-*2025-10-04 09:37:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පළත-ඡනදය-අපරල-මද-පකෂ-රසක-බරටම-වඩ/101-680720) · `si`
-
-The government expects to hold the provincial council election in April next year.
-
-A large number of political parties including the election for the election have already begun work to select candidates.
-
-Samagi-folk force was decided at a leader meeting held in a leader meeting last week to promote candidates for the provincial council election.
-
-When we inquired from Public Administrative Provincial Councils and Local Government Ruwan Senarath, he said that the government had no need to delay the provincial council election.
-
-He added that several legal obstacles have arisen and have begun to settle these obstacles.
-
-The end of the nine provincial councils has been under the control of governors for nearly ten years.
-
-Meanwhile, the Government of Sri Lanka and Civil Association are continuously making the government to conduct the provincial council election soon.
-
-...
-
-[Data](articles/48635200.json)
-
-[Extended Data](ext_articles/48635200.ext.json)
-
----
-
-### Fired farmer falls into the fire
-
-*2025-10-04 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215322) · `si`
-
-A fire was spreading a fire to the fire in the Waraherakgoda, Varahena, has died in the paddy fields yesterday (3).
-
-The fire was a resident of Bogiriya, Hingurakgoda, Hingurakgoda.
-
-The next season the next season is the harvest of the paddy fields to prepare their paddy fields and burnt the remaining inflammation and the country.
-
-There he spread the fire and the heavy warm weather conditions and the winds.
-
-The man saw a resident of the area, but the others had been severely injured and he had been severely injured.
-
-The body was taken to Polonnaruwa General Hospital for the post mortem examination of the deceased.
-
-The Hingurakgoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/687b4efc.json)
-
-[Extended Data](ext_articles/687b4efc.ext.json)
-
----
-
-### Death of suspect in detention
-
-*2025-10-04 08:55:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பு-காவலில்-இருந்த-சந்தேக-நபர்-மரணம்/175-365701) · `ta`
-
-A 34 -year -old man who was arrested at the Mannar Basal police division on suspicion and detained at the Basal police station has been found dead in police custody yesterday (3).
-
-The deceased has been identified as Rajendran Kapilan (age 34) from Koomangulam, Vavuniya.
-
-A man was arrested in the Kataspathiri area of ​​the Basalai police division yesterday evening (2).
-
-It is reported that the man was chased by the police and another person with him.
-
-The man who was arrested by the police took the police to the Pasal police station and put the investigations into the police station.
-
-The suspect was found dead in the police station cage yesterday morning.. (A)
-
-◼️
-
-[Data](articles/f92c893a.json)
-
-[Extended Data](ext_articles/f92c893a.ext.json)
-
----
-
-### 34-Year-Old Arrested Over Attempted Murder
-
-*2025-10-04 08:53:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/34-year-old-arrested-over-attempted-murder) · `en`
-
-COLOMBO (News 1st); A suspect has been taken into custody in connection with an attempted shooting near Dehiwala Railway Station, the police said.Following investigations by the Crimes Investigation Unit of Mount Lavinia Division, the 34-year-old suspect, a resident of Seevali Road was arrested yesterday.Police discovered 50 grams of ice (methamphetamine), five knives, and a machete during the arrest.The incident relates to a July 18 attack near Dehiwala Railway Station, where two unidentified men on a motorcycle opened fire, causing severe injuries to an individual.
-
-◼️
-
-[Data](articles/a13032bf.json)
-
-[Extended Data](ext_articles/a13032bf.ext.json)
-
----
-
-### A rope for Mahinda's bungalow
-
-*2025-10-04 08:48:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනදග-බගලවට-කඹ-ඇදලලක/1-680719) · `si`
-
-It is reported that the bungalow of former President Mahinda Rajapaksa is further delaying the bungalow of the Wijerama Mawatha, a resident of the resident of the Colombo Wijerama Mawatha.
-
-Presidential Secretariat several times have been announced to remove his goods in the bungalow.. However, the former President has said that the government is examining the list of the bungalows and removes his goods.
-
-According to sources, the former President has taken the decision as a measure of such a chance to prevent such belongings to a situation where the goods were removed.
-
-However, the government says the former President should take his goods first.
-
-The house belonging to the former President and the Ministry of Public Administration and the Ministry of Public Administration.
-
-◼️
-
-[Data](articles/7033f34c.json)
-
-[Extended Data](ext_articles/7033f34c.ext.json)
-
----
-
-### A rope for Mahinda's bungalow
-
-*2025-10-04 08:48:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-බගලවට-කඹ-ඇදලලක/101-680719) · `si`
-
-It is reported that the bungalow of former President Mahinda Rajapaksa is further delaying the bungalow of the Wijerama Mawatha, a resident of the resident of the Colombo Wijerama Mawatha.
-
-Presidential Secretariat several times have been announced to remove his goods in the bungalow.. However, the former President has said that the government is examining the list of the bungalows and removes his goods.
-
-According to sources, the former President has taken the decision as a measure of such a chance to prevent such belongings to a situation where the goods were removed.
-
-However, the government says the former President should take his goods first.
-
-The house belonging to the former President and the Ministry of Public Administration and the Ministry of Public Administration.
-
-◼️
-
-[Data](articles/a7da94c7.json)
-
-[Extended Data](ext_articles/a7da94c7.ext.json)
-
----
-
-### 22 More Terminals Approved for Seaplane Operations; Civil Aviation Authority
-
-*2025-10-04 08:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/22-more-terminals-approved-for-seaplane-operations-civil-aviation-authority) · `en`
-
-COLOMBO (News 1st); The Civil Aviation Authority announced that 22 additional terminals have been cleared for seaplane operations after inspections. Approval processes are also underway to begin water-based aviation near Colombo Port City.The Authority said two new helicopter landing sites will soon be introduced in Colombo, while a program is being implemented to boost domestic aviation with state and private sector investment, focusing on tourism.Meanwhile, a new seaplane service between Katunayake and Colombo was launched yesterday using Beira Lake as a water aerodrome.Seaplane services had previously operated in Sri Lanka during 2011/2012 but were suspended due to strict security measures and related challenges.
-
-◼️
-
-[Data](articles/16b8f32b.json)
-
-[Extended Data](ext_articles/16b8f32b.ext.json)
-
----
-
-### The seven new laws that protect man from the robot
-
-*2025-10-04 08:42:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රබවන-මනස-රකනන-ගන-අලතම-නත-හත/1-680718) · `si`
-
-Chairman of the Attorney Communications, Data Protection and Technical Committee, said that in protecting the information from the Asian Pacific, the President of the Assia Pacific (LAWASIA) Sunil Abeyratne has arisen.
-
-You must have the security of personal information... The information about it cannot reveal nobody without permission. India's data protection is a fundamental right
-
-Different countries wanted to enact strict laws that protect privacy due to low cost of data. That is why the European countries introduced data regulations instead of data protection rights.
-
-No one can distort data. They need to provide the maximum security. There should always be transparency in data. If the personal data protection is violated, a country needs a legal system.. It works where the tool is trained. In other words, the artificial intelligence is regulated.
-
-...
-
-[Data](articles/165eb440.json)
-
-[Extended Data](ext_articles/165eb440.ext.json)
-
----
-
-### The seven new laws that protect man from the robot
-
-*2025-10-04 08:42:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රබවන-මනස-රකනන-ගන-අලතම-නත-හත/101-680718) · `si`
-
-Chairman of the Attorney Communications, Data Protection and Technical Committee, said that in protecting the information from the Asian Pacific, the President of the Assia Pacific (LAWASIA) Sunil Abeyratne has arisen.
-
-You must have the security of personal information... The information about it cannot reveal nobody without permission. India's data protection is a fundamental right
-
-Different countries wanted to enact strict laws that protect privacy due to low cost of data. That is why the European countries introduced data regulations instead of data protection rights.
-
-No one can distort data. They need to provide the maximum security. There should always be transparency in data. If the personal data protection is violated, a country needs a legal system.. It works where the tool is trained. In other words, the artificial intelligence is regulated.
-
-...
-
-[Data](articles/43565139.json)
-
-[Extended Data](ext_articles/43565139.ext.json)
 
 ---

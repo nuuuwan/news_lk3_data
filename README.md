@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 14:37:51**
+As of **2025-10-04 15:05:51**
 
 ## Newspaper Stats
 
-*Scraped **81,058** Articles*
+*Scraped **81,059** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 586
+newsfirstlk | 587
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 758
@@ -27,63 +27,71 @@ adaderanasinhalalk | 13,942
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,051 (100.0%) of 81,058 articles have been extended.
+81,059 (100.0%) of 81,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### பலத்த மின்னல் தாக்கம் குறித்து இலங்கை மக்களுக்கு எச்சரிக்கை
+### Sri Lankan people warned of heavy lightning impact
 
 *2025-10-04 14:17:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மின்னல்-தாக்கம்-குறித்து-இலங்கை-மக்களுக்கு-எச்சரிக்கை/175-365705) · `ta`
 
-வடக்கு, வடமத்திய, கிழக்கு, ஊவா மாகாணங்களிலும், குருநாகல் மற்றும் மாத்தளை மாவட்டங்களிலும், இடியுடன் கூடிய மழை மற்றும் பலத்த மின்னல் ஏற்பட அதிக வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has said that thunderstorms and heavy lightning are likely to occur in the Northern, North Central, Eastern and Uva provinces, Kurunegala and Matale districts.
 
-இடியுடன் கூடிய மழை பெய்யும் போது, அந்தப் பகுதிகளில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும்.
+When thunderstorms are rained, the area may be temporarily blowing.
 
-இன்று (04) இரவு 11 மணி வரை செல்லுபடியாகும் வகையில் பலத்த மின்னல் தாக்கம் குறித்து எச்சரிக்கை விடுத்து வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology has issued a warning of heavy lightning impacts to be valid till 11 pm today.
 
-மின்னல் அபாயத்தை குறைக்க, தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் பொதுமக்களை கேட்டுக்கொள்கிறது. R
+The Department of Meteorology asks the public to take necessary steps to reduce the risk of lightning. Remble
 
 ◼️
 
 [Data](articles/c9106b8a.json)
 
+[Extended Data](ext_articles/c9106b8a.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේ ණය ශ්‍රේණිගත කිරීම් මට්ටම ඉහළට
+### Sri Lankan loan rating level up
 
 *2025-10-04 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215331) · `si`
 
-S&P ග්ලෝබල් රේටින්ස් ආයතනය මෙරට දිගුකාලීන සහ කෙටි කාලීන විදේශ මුදල් ස්වෛරී ණයශ්‍රේණිගත කිරීම SD මට්ටමේ සිට CCC+/C මට්ටම දක්වා උසස් කර තිබේ.
+S & P Global Ratings has been promoted to Long-term and short-term foreign currency lending in Sri Lanka to the CCC + / C.
 
-එමෙන්ම දිගුකාලීන සහ කෙටිකාලීන දේශීය ණය ශ්‍රේණිගත කිරීම CCC+/C මට්ටමේම පවත්වාගෙන යෑමට තීරණය කර ඇති බවත් නිවේදනයක් නිකුත් කරමින් පැවසීය.
+The Long Term and Short Terminal Loan Ranking has decided to maintain the CCC + / C level.
 
-එම නිවේදනය මගින් ඔවුන් වැඩිදුරටත් සඳහන් කර ඇත්තේ, ශ්‍රී ලංකාව පිළිබඳ මෙම ශ්‍රේණිගත කිරීම් සඳහා රටේ ශක්තිමත් ආර්ථික ප්‍රකෘතිය, වේගවත් මූල්‍ය ඒකාබද්ධතාවය සහ ප්‍රතිසංස්කරණ, වැඩිදියුණු වන ගෙවුම් ශේෂ තත්ත්වය සහ රාජ්‍ය ව්‍යවසායන්ගෙන් මූල්‍ය අවදානම් අඩුකිරීමේ තිරසාර ප්‍රගතිය යන කරුණු සැලකිල්ලට ගත් බවය.
+The announcement further stated that these ratings of Sri Lanka have taken into consideration the sustainable economic entertainment, fast financial integration and reform of financial risk conditions and financial risk of financial risk and state enterprises.
 
 මේ අතර ෆිච් රේටින්ස් ආයතනයද විදේශ මුදල්වලින් මෙරටට නිකුත් කරන ලද දිගුකාලීන ණය ආපසු ගෙවීමට ශ්‍රී ලංකාවට ඇති හැකියාව පිළිබඳ වූ ශ්‍රේණිගත කිරීම CCC+ මට්ටමේම පවත්වාගෙන යෑමට තීරණය කර තිබේ.
 
-නිවේදනයක් නිකුත් කරමින් ඔවුන් පෙන්වා දී ඇත්තේ ශ්‍රී ලංකාව 2024 දී ස්වෛරී ණය ප්‍රතිව්‍යුහගත කිරීම අවසන් කළ ද, රජයේ සාමාන්‍ය ණයබරතාවය ඉහළයාම සහ ඉහළ පොලී-ආදායම් අනුපාතය හේතුවෙන් මෙම ශ්‍රේණිගත කිරීම පැවති CCC+ මට්ටමේම පවත්වාගෙන යෑමට හේතු වූ බවයි.
+In a statement, they have indicated that Sri Lanka ended at 2024, but the general debt of the government's average debt to maintain a CCC + level at the same rating.
+
+The belief in the country and foreign investors have increased in the face of positive responses and rankings of the Sri Lankan economy.
 
 ...
 
 [Data](articles/8932886b.json)
 
+[Extended Data](ext_articles/8932886b.ext.json)
+
 ---
 
-### மஹிந்தவின் குண்டு துளைக்காத வாகனமும் கையளிப்பு
+### Mahinda's bulletproof vehicle also handed over
 
 *2025-10-04 14:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-குண்டு-துளைக்காத-வாகனமும்-கையளிப்பு/175-365704) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவிற்கு வழங்கப்பட்ட குண்டு துளைக்காத வாகனம்  திருப்பி கையளிக்கப்பட்டுள்ளதாக மஹிந்த ராஜபக்ஷவின் ஊடகப் பேச்சாளர் வெளியிட்ட அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+In a statement issued by Mahinda Rajapaksa's media spokesman, Mahinda Rajapaksa said that the bombing of former President Mahinda Rajapaksa has been handed over.
 
-ஜனாதிபதிகளின் உரிமைகள் நீக்குதல் சட்டம் நடைமுறைக்கு வந்ததன் பின்னர், மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லம் மற்றும் வாகனங்களை திருப்பி கையளிக்குமாறு அறிவிப்பு வந்தது.
+After the implementation of the President's Rights Act, Mahinda Rajapaksa's official residence and vehicles were announced.
 
-இதன் காரணமாக மஹிந்த ராஜபக்ஷவின் உயிருக்கு ஆபத்து ஏற்படலாம் என எச்சரித்துள்ள மஹிந்த ராஜபக்ஷவின் ஊடகப் பேச்சாளர், அடுத்த வாரம், பொலிஸ்மா அதிபர், பாதுகாப்பு செயலர், மற்றும் பாதுகாப்பு பிரதானிகளைச் சந்தித்து மஹிந்த ராஜபக்ஷவின் பாதுகாப்புக்கு தேவையான வாகனங்களை பெற்றுக்கொள்வதற்கான கோரிக்கையை முன்வைப்போம் எனத் தெரிவித்துள்ளார்.  R
+Mahinda Rajapaksa's media spokesman, who has warned that Mahinda Rajapaksa's life may be in danger, will meet with the Inspector General of Police, Defense Secretary and Principal next week and make a request for the safety of Mahinda Rajapaksa.  R
 
 ◼️
 
 [Data](articles/35d09f9d.json)
+
+[Extended Data](ext_articles/35d09f9d.ext.json)
 
 ---
 
@@ -157,21 +165,23 @@ COLOMBO (News 1st); Acting Police Spokesperson, Assistant Super of Police Minura
 
 ---
 
-### චන්ද්‍රිකාත් බංගලාවෙන් ඉවත්වෙයි
+### Chandrika left the bungalow
 
 *2025-10-04 13:44:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/චනදරකත-බගලවන-ඉවතවය/101-680726) · `si`
 
 හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මියද ඉදිරි සති දෙක තුන ඇතුළතදී කොළඹ රජයේ බංගලාවෙන් ඉවත්වී නගරයේම කුලී නිවසක පදිංචියට යෑමට නියමිතය
 
-චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය මේ දිනවල අසනීප තත්වයෙන් පසුවන හෙයින් ඒ කටයුතු  ප්‍රමාද වුණු බවද  හිටපු ජනාධිපතිවරියගේ ලේකම්වරයෙක් ලංකාදීපයට සඳහන් කළේය.
+The former President's secretary told Lankadeepa that Mrs. Chandrika Bandaranaike Kumaratunga was in illustrations.
 
-හිටපු ජනාධිපතිවරුන්ගේ පහසුකම් ඉවත් කිරීමේ පනත් කෙටුම්පත  පාර්ලිමේන්තුවේදී පසුගියදා සම්මත කෙරිණ. මේ අනුව හිටපු ජනාධිපති වරුන්ගේ විශ්‍රාම වැටුප හැර අනෙකුත් සියලුම පහසුකම් අහිමි වී ගියේය.
+Former Presidential Facilities Removal Bill was passed in Parliament recently. Thus, all the facilities were lost other than the pension of former presidents.
 
-එසේම  හිටපු ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාගේ බිරිඳගේ විශ්‍රාම වැටුප  මෙන්ම අනෙකුත් සියලුම පහසුකම්ද  මෙම පනත් කෙටුම්පත සම්මත වීමෙන් පසු  අහිමිවී  ගොස් ඇත.
+The pension of former President Ranasinghe Premadasa and all other facilities have lost all other facilities after the passage of other facilities.
 
 ◼️
 
 [Data](articles/487fa998.json)
+
+[Extended Data](ext_articles/487fa998.ext.json)
 
 ---
 
@@ -189,23 +199,29 @@ COLOMBO (News 1st); Media Spokesperson of Former President Mahinda Rajapaksa Att
 
 ---
 
-### විදුලි ගාස්තු සංශෝධනය ගැන PUCSL අවසන් තීරණය ඉදිරි සති දෙක තුළ
+### PUCSL final decision on electricity tariff is over the next two weeks
 
 *2025-10-04 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215330) · `si`
 
-විදුලි ගාස්තු ඉහළ දැමීම සම්බන්ධයෙන් ලංකා විදුලි බල මණ්ඩලය ඉදිරිපත් කළ යෝජනාව පිළිබඳ ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිසමේ තීරණය මෙම මස දෙවන සතිය අවසානයේ ලබා දීමට කටයුතු කරන බව එම කොමිසම පවසයි.
+The Commission states that the Government of Sri Lanka (PUCSL) is the decision of the Ceylon Electricity Board (CEB) on the proposal of the Ceylon Electricity Board.
 
-විදුලි ගාස්තු ඉහළ සියයට 6.8කින් ඉහළ නංවන ලෙස යෝජනා කරමින් පසුගිය සැප්තැම්බර් මාසයේ ලංකා විදුලි බල මණ්ඩලය විසින් මහජන උපයෝගීතා කොමිසමෙන් ඉල්ලීමක් සිදු කරනු ලැබීය.
+The Ceylon Electricity Board (CEB) has requested the Public Utilities Commission in September recently proposing electricity tariff by 6.8 percent.
 
-ඒ අනුව එම කොමිසම විසින් ඊට අදාළ වාචිකව මහජන අදහස් ලබාගැනීම පසුගිය මස 18 වනදා නැගෙනහිර පළාතෙන් ආරම්භ කරනු ලැබීය.
+Accordingly, the commission was launched by the Commission on the 18th of this month.
 
-මේ වන විට දිවයිනේ පළාත් 8ක් ආවරණය වන පරිදි මහජන අදහස් ලබා ගෙන ඇති අතර, පුද්ගලයින් 500කට අධික ප්‍රමාණයක් ඊට සහභාගි වූ බව ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිසමේ මාධ්‍ය ප්‍රකාශක ජයනාත් හේරත් මහතා සඳහන් කළේය.
+Public opinions have been obtained covering 8 provinces and more than 500 people participated in the event.
 
 මහජන අදහස් ලබා ගැනීමේ අවසන් සැසිය එළඹෙන 8 වනදා බස්නාහිර පළාත කේන්ද්‍ර කර ගනිමින් සිදු කිරීමට කටයුතු යොදා ඇත.
 
-...
+The relevant public comments is being taken by the relevant public comments, which is estimated to purchase fuel, distribution costs, dealership costs and fuel to pay the costs of fuel to pay the costs.
+
+Accordingly, the final report on the revision of the electricity tariff is due to be released.
+
+◼️
 
 [Data](articles/5798caa3.json)
+
+[Extended Data](ext_articles/5798caa3.ext.json)
 
 ---
 
@@ -223,19 +239,21 @@ COLOMBO (News 1st); Minister of Justice and National Cohesion, Attorney Harshana
 
 ---
 
-### ජපානයේ පළමු කාන්තා අගමැතිනිය වීමට Sanae Takaichi සූදානම්
+### Sanae Takaichi is ready to be the first female Prime Minister of Japan
 
 *2025-10-04 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215329) · `si`
 
-Sanae Takaichi ජපානයේ පළමු කාන්තා අගමැතිනිය ලෙස පත්වීමට නියමිතව තිබේ.
+Sanae Takaichi is due to be appointed as the first female Prime Minister of Japan.
 
-ඒ ජපානයේ පාලක පක්ෂය විසින් Takaichi සිය පක්ෂයේ නව ප්‍රධානියා ලෙස තෝරා පත් කර ගැනීමත් සමගය.
+The Japanese ruling party is the election of Takaichi as the new head of its party.
 
-ෂිගේරු ඉෂිබා වෙනුවට අගමැතිවරයෙකු තෝරා ගැනීම සඳහා පාර්ලිමේන්තුවේ ඡන්ද විමසීමක් ඔක්තෝබර් 15 වන දින පැවැත්වීමට නියමිතය.
+A parliamentary polls will be held on October 15 to select a Prime Minister instead of Shiba.
 
 ◼️
 
 [Data](articles/5b32eccb.json)
+
+[Extended Data](ext_articles/5b32eccb.ext.json)
 
 ---
 
@@ -353,25 +371,27 @@ The lorry was sitting out on the front seat and lived out and the driver was stu
 
 ---
 
-### පුංචි සභාවල වාහන දාහක් අතුරුදන්: සමහර ඒවා මස් කරලා
+### Easy Disappearance in Little Counsels: Some of them were released
 
 *2025-10-04 11:38:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පච-සභවල-වහන-දහක-අතරදන-සමහර-ඒව-මස-කරල/101-680724) · `si`
 
-පළාත් සභාවන්හි සහ  නගර සභා ප්‍රාදේශීය සභා ඇතුළු පළාත් පාලන ආයතනවල වාහන දහසකට වැඩි ප්‍රමාණයක් පසුගිය කාලයේදී අතුරුදන්ව ඇතැයි රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ආරංචි මාර්ග සඳහන් කළේය.
+More than a thousand vehicles in the local government councils including the Provincial Councils and Urban Council Pradeshiya Sabha said that more than a thousand vehicles were reported missing.
 
-මින් වාහන බොහොමයක තොරතුරු පවා සොයා ගැනීමට  නොහැකිව  ඇතැයි පවසන එම ආරංචි මාර්ග සමහර වාහන කොටස්කර විකුණන්නට ඇතැයි  ප්‍රබල  සැකයක් මතුවන බවද ප්‍රකාශ කළේය.
+Sources say that many vehicles are not able to find any vehicles, there is a strong suspicion that some vehicles have been sold.
 
-මේ සම්බන්ධයෙන් අප රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍ය ආචාර්ය චන්දන අබේරත්න  මහතාගෙන් කළ විමසුමකදී ඔහු පැවසුවේ මෙම වාහන සම්බන්ධයෙන් තොරතුරු අනාවරණය කර ගැනීමට අමාත්‍යාංශ මට්ටමින් කිසියම් රහසිගත  විමර්ශනයක් කරගෙන  යන බවයි.
+When we inquired from Minister of Public Administration and Local Government, Dr. Chandana Abeyratne, said that he was carrying out any secret investigation into the following vehicles.
 
-එසේම මෙම  වාහන  කිසියම් හෝ ස්ථානයක රඳවා තිබේ නම් ඒවා නොපමාව ගෙන විත් බාර දෙන ලෙස අමාත්‍යාංශය ඉල්ලීමක් කරයි.
+The Ministry requests that if these vehicles are detained in any or in any place, the Ministry requests them to take immediate action.
 
 වාහන බාර නොදී කිසියම් ස්ථානයක තිබී අත්අඩංගුවට ගැනුණහොත් ඒවා ළඟ තබාගෙන සිටින පුද්ගලයන්ට එරෙහිව   නීතිය ඉතා දැඩිව   ක්‍රියාත්මක කරන බව  අමාත්‍යාංශය පවසයි.
 
-පළාත් පාලන ආයතනවල  අතුරුදන් වාහන සම්බන්ධයෙන් විගණන අංශද වෙනම විමර්ශනයක් පවත්වයි.
+Audit sections also conduct a separate investigation into the disappearance of vehicles of local authorities.
 
 ...
 
 [Data](articles/c36ecc39.json)
+
+[Extended Data](ext_articles/c36ecc39.ext.json)
 
 ---
 
@@ -1020,6 +1040,20 @@ In addition to the tender amount, a garbage tax and business tax have also been 
 [Data](articles/2561dbc8.json)
 
 [Extended Data](ext_articles/2561dbc8.ext.json)
+
+---
+
+### Sri Lanka’s Foreign Debt at Rs.19.6 Trillion
+
+*2025-10-04 08:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sri-lanka%e2%80%99s-foreign-debt-at-rs-19-6-trillion) · `en`
+
+COLOMBO (News 1st); The Committee on Public Finance chaired by MP Dr. Harsha de Silva, revealed that Sri Lanka has accumulated foreign debt amounting to USD 37 billion. Officials from the Public Debt Management Office, summoned before the committee, revealed this following a question posed by the Chairman of COPF MP Dr. Harsha De Silva. It was revealed that Sri Lanka’s foreign debt stands at Rs. 19.6 trillion.Although the chairman inquired about the loan installments due for payment this year, the officials did not possess the relevant statistical data.The chairman of the Finance Committee expressed his displeasure over the matter.
+
+◼️
+
+[Data](articles/88af997b.json)
+
+[Extended Data](ext_articles/88af997b.ext.json)
 
 ---
 
@@ -2018,29 +2052,5 @@ When the Chunnakam police were investigating the matter, the student said this i
 [Data](articles/b6e97c8e.json)
 
 [Extended Data](ext_articles/b6e97c8e.ext.json)
-
----
-
-### Trump sets Sunday night deadline for Hamas to back Gaza plan
-
-*2025-10-03 20:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/113195/trump-sets-sunday-night-deadline-for-hamas-to-back-gaza-plan) · `en`
-
-U.S. President Donald Trump gave Hamas until Sunday evening to reach a last-chance agreement on his plan for Gaza’s future or have “all Hell” break out against the Palestinian militants.
-
-“An agreement must be reached with Hamas by Sunday Evening at SIX (6) P.M., Washington, D.C. time,” Trump wrote Friday on social media.
-
-“Every Country has signed on! If this LAST CHANCE agreement is not reached, all HELL, like no one has ever seen before, will break out against Hamas.”
-
-Asked whether his group had finalised its response to Trump’s Gaza plan, a Hamas official told Reuters late on Thursday: “Not yet, intensive discussion is under way.”
-
-The official said Hamas had held talks with Arab mediators, Turkey and Palestinian factions to shape “the Palestinian response.”
-
-Trump had said on Tuesday he would give Hamas three to four days to accept the 20-point document, which calls on the group to disarm -- a demand it has previously rejected.
-
-...
-
-[Data](articles/4ffd810d.json)
-
-[Extended Data](ext_articles/4ffd810d.ext.json)
 
 ---

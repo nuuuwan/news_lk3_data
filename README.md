@@ -1,37 +1,99 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 16:20:35**
+As of **2025-10-04 16:52:17**
 
 ## Newspaper Stats
 
-*Scraped **81,089** Articles*
+*Scraped **81,095** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 587
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 761
+lankadeepalk | 762
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
-adalk | 7,775
+adalk | 7,776
 adaderanalk | 10,434
-tamilmirrorlk | 12,044
+tamilmirrorlk | 12,046
 virakesarilk | 13,310
-adaderanasinhalalk | 13,946
+adaderanasinhalalk | 13,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,084 (100.0%) of 81,089 articles have been extended.
+81,093 (100.0%) of 81,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### අම්බලන්ගොඩ - ඇල්පිටිය ප්‍රධාන මාර්ගයේ යන රියදුරන්ට දැනුම්දීමක්
+
+*2025-10-04 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215338) · `si`
+
+කරන්දෙණිය මහාගොඩ පුරාණ අම්පිටිය දේවාලයේ පෙරහැර හේතුවෙන් රථවාහන ගමනා ගමනය සීමා කිරීම සම්බන්ධයෙන් පොලීසියෙන් දැනුම්දීමක් සිදුකර තිබේ.
+
+එම පෙරහැර හෙට 05 දහවල් 02.00 සිට රාත්‍රී 07.00 දක්වා වීථී සංචාරය කිරීමට නියමිතය.
+
+පෙරහැර අම්පිටිය දේවාලය අසලින් ආරම්භවී අම්බලන්ගොඩ ඇල්පිටිය ප්‍රධාන මාර්ගය ඔස්සේ ගමන් කර මහඒදණ්ඩ හන්දිය දක්වා ගමන් කිරීමට නියමිත බව පොලීසිය පවසයි.
+
+පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටින්නේ, මෙම පෙරහැර ගමන් කරනු ලබන අම්බලන්ගොඩ ඇල්පිටිය මාර්ගය දක්ෂිණ අධිවේගී මාර්ගයට පිවිසෙන කුරුඳුගහහැතැක්ම පිවිසුමට ගමන් කරනු ලබන ප්‍රධාන මාර්ගය වන බැවින් ඉහත කාලසීමාව තුළ ඇති විය හැකි රථවාහන තදබදය අවම කර ගැනීම සඳහා හැකිතාක් විකල්ප මාර්ග භාවිතා කරන ලෙසය.
+
+◼️
+
+[Data](articles/90fec08f.json)
+
+---
+
+### IMF to pleased Sri Lanka
+
+*2025-10-04 16:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-குறித்து-மகிழ்ச்சி-வெளியிட்ட-IMF/175-365707) · `ta`
+
+After the economic crisis, Sri Lanka's economic growth increased to 5% by 2024, said Julie Kochek, Director of the International Monetary Fund (IMF), said.
+
+At the same time, Kosek added that Sri Lanka's comprehensive economic reform program has made significant improvement.
+
+International reserves are also on the rise. Sri Lanka's economic growth increased to 5% after 2024. This is a significant achievement.
+
+This is a significant increase in the Revenue-Month Domestic Product rate of the budget increased from 8.2% to 13.5% by 2022. Moreover, the debt renovation process is probably complete.
+
+Overall, the performance of the project can be said to be very strong. The government can be said to be committed to the objectives of the comprehensive financial plan.
+
+Our team is currently in consultation with Sri Lankan authorities to hold the fifth value of comprehensive financial facility. Accordingly, our committee will announce the duration of the fifth review in the future. ”. Remble
+
+◼️
+
+[Data](articles/c495423c.json)
+
+[Extended Data](ext_articles/c495423c.ext.json)
+
+---
+
+### A place for sale in school targeting school children
+
+*2025-10-04 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215337) · `si`
+
+A suspect racket was raided and arrested by school children as a group of officers who were in Moneragala in Moneragala town.
+
+Preliminary investigations have revealed that the suspect had sold the cigarettes to various amounts of money.
+
+The police have also taken into custody of e cigarettes and money in possession of the suspect.
+
+The suspect is a resident of Moneragala and is to be produced before the Moneragala Magistrate's Court.
+
+◼️
+
+[Data](articles/42d1d311.json)
+
+[Extended Data](ext_articles/42d1d311.ext.json)
+
+---
 
 ### A heavy rain over 100 mm
 
@@ -50,6 +112,18 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/0a207b04.json)
 
 [Extended Data](ext_articles/0a207b04.ext.json)
+
+---
+
+### We will resist when we see it all the snoring
+
+*2025-10-04 15:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லாத்துக்கும்-குறட்டை-அதை-கண்டதும்-எதிர்ப்போம்/175-365706) · `ta`
+
+◼️
+
+[Data](articles/bcad0c0a.json)
+
+[Extended Data](ext_articles/bcad0c0a.ext.json)
 
 ---
 
@@ -187,6 +261,20 @@ Gossak has confirmed that the IMF is currently working in Sri Lanka to conduct t
 
 ---
 
+### A woman in the post of Prime Minister by changing the history of Japan
+
+*2025-10-04 15:01:38* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයේ-ඉතිහාසය-වෙනස්-කරමින්-අග්‍රාමාත්‍ය-ධුරයට-කාන්තාවක්/11-418907) · `si`
+
+The ruling conservative party has been elected to its new leader, and 64 years old she is due to become the first female Prime Minister of Japan.
+
+◼️
+
+[Data](articles/226060e2.json)
+
+[Extended Data](ext_articles/226060e2.ext.json)
+
+---
+
 ### Afghan Taliban foreign minister to visit India for first time
 
 *2025-10-04 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/113212/afghan-taliban-foreign-minister-to-visit-india-for-first-time) · `en`
@@ -292,6 +380,24 @@ It is noteworthy that many politicians, parliamentarian and family members visit
 [Data](articles/4112e89e.json)
 
 [Extended Data](ext_articles/4112e89e.ext.json)
+
+---
+
+### ජනපති බංගලා  නඩත්තුවට කෝටි අටක් ගෙවලා
+
+*2025-10-04 14:36:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-බගල-නඩතතවට-කට-අටක-ගවල/101-680727) · `si`
+
+ජනාධිපති මන්දිර අට නඩත්තු කිරීම සඳහා ඉකුත් වර්ෂයේ (2024) රුපියල් අටකෝටි එක්ලක්ෂ පනස්හතරදහස් හාරසිය විසිදෙකක මුදලක් ජනාධිපති ලේකම් කාර්යාලය  විසින් වැය කරනු ලැබ ඇත.
+
+මෙම ජනාධිපති මන්දිරවල ආරක්ෂක අංශ නිලධාරීහු තුන්සිය අනූ දෙදෙනෙක් සහ  සිවිල් සේවකයෝ 16 දෙනෙක් සේවයේ යොදවනු ලැබ සිටිති. සිවිල් සේවකයින් 16 දෙනකු සඳහා වැටුප් හා දීමනා ගෙවීම සඳහා ඉකුත් වර්ෂයේ (2024) දී රුපියල් එක්කෝටි තිස්හත්ලක්ෂ හතළිස් එක්දහස් අසූවක මුදලක් (13,741,080) වැය කර තිබුණි.
+
+මේ තොරතුරු ඇතුළත් වන්නේ ජනාධිපති ලේකම් කාර්යාලයේ  2024  වාර්ෂික කාර්යසාධන වාර්තාවට ඇතුළත් කර ඇති විගණන වාර්තාවේය
+
+යාපනය අනුරාධපුර මහනුවර මහියංගණය නුවරඑළිය කතරගම බෙන්තොට සහ   කොළඹ එම ජනාධිපති බංගලාවේ.
+
+◼️
+
+[Data](articles/15bf675b.json)
 
 ---
 
@@ -949,37 +1055,41 @@ The Hon.
 
 ---
 
-### මැතිසබා  කැන්ටිමේ ’’සලාද’’  නවතී
+### Mathisaba Cantima 'salad' stay
 
 *2025-10-04 11:35:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මතසබ-කනටම-සලද-නවත/101-680723) · `si`
 
-පාර්ලිමේන්තුවේ ආහාර වේලට සලාද කොළ එකතු කිරීම තාවකාලිකව  නතර වී ඇතැයි වාර්තා වේ
+The collection of lettuces have been temporarily halted in parliament
 
-පාර්ලිමේන්තු මුළුතැන්ගෙයි අපිරිසුදුතාව හේතුවෙන් සලාද කොළ අනුභව කිරීම නතර කළ බවට කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා කළ ප්‍රකාශයෙන් පසුව සලාද සකස් කිරීම මෙසේ නතර කර ඇත
+Dr. Jagath Wickramaratne has stopped eating lettuce as a result of the death of salad due to the debit treatment due to deaths
 
-මේ සම්බන්ධයෙන් අදහස් දක්වන පාර්ලිමේන්තු සේවකයන් පවසන්නේ එම ප්‍රකාශය කළ දිනෙන් පසු දින සිට සලාද කොළ සැපයීම නතර කෙරුණු බවයි
+Commenting in this regard says Parliament servants say that the supply of lettuce has been suspended from the day
 
-මේ අතර පාර්ලිමේන්තුවේ මුළුතැන්ගේ අඩුපාඩු නිවැරදි කිරීම සඳහා නිර්දේශ ඉදිරිපත් කිරීමට කතානායකවරයා විසින් විශේෂ කමිටුවක් පත් කරනු ලැබ ඇත. මෙම කමිටුවට එම මුළුතැන් ගේ භාර ප්‍රධානීන්ම පත්කිරීම සම්බන්ධයෙන් බොහෝ දෙනා නොසතුට පළ කරති.
+Meanwhile, the Speaker has appointed a special committee to submit the recommendations of the correction of the kitchen flames of Parliament. Most people are displeased with the appointment of the committee's heads of the same kitchen.
 
-කතානායකවරයා  පසුගියදා පොළොන්නරුවේ පැවිදි රැස්වීමකදී ප්‍රකාශයක් කරමින් පැවසුවේ පාර්ලිමේන්තු මුළුතැන්ගේ ඉතාම අපිරිසුදු ස්ථානයක් බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ වාර්තාවෙන් පැහැදිලි වන බවයි.
+The Hon.
 
 ◼️
 
 [Data](articles/e5513988.json)
 
+[Extended Data](ext_articles/e5513988.ext.json)
+
 ---
 
-### வைக்கோலுக்கு தீ வைக்கச் சென்ற இரண்டு பிள்ளைகனின் தந்தை தீயில் கருகி உயிரிழப்பு!
+### Two children who set fire to the straw
 
 *2025-10-04 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226862) · `ta`
 
-பொலன்னறுவை - ஹிங்குரக்கொட, வராஹேன பிரதேசத்தில் வசிக்கும் இரண்டு பிள்ளைகனின் தந்தை ஒருவர் தனது வயலில் வைக்கோலுக்கு தீ வைக்கச் சென்ற போது தீயில் கருகி உயிரிழந்துள்ளதாக ஹிங்குரக்கொட பொலிஸார் தெரிவித்தனர்.
+Hingurakoda police said that a two -year -old father of the Varahahena area of ​​the Polonnaruwa - Hingurakoda area had died in a fire in his field.
 
-இவர் வைக்கோலுக்குத் தீ வைப்பதற்காக தனது வயலுக்கு நேற்று சென்றுள்ளார். பின்னர் இவர் வைக்கோலுக்குத் தீ வைத்த போது அப்பகுதியில் தீ பரவல் ஏற்பட்டு அந்த இடத்திலேயே தீயில் கருகி உயிரிழந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+He went to his field yesterday to set fire to hay. When he set fire to the hay, police investigated the fire in the area and the fire was killed on the spot.
 
 ◼️
 
 [Data](articles/c5403041.json)
+
+[Extended Data](ext_articles/c5403041.ext.json)
 
 ---
 
@@ -1013,21 +1123,23 @@ The shooting at the Dehiwala Railway Station was severely injured on July 18.
 
 ---
 
-### வல்வெட்டித்துறையில் சுகாதார விதிமுறைகளை பேணாத உரிமையாளர்களுக்கு  தண்டம்
+### Punishment for owners who do not maintain health rules in Valvettithurai
 
 *2025-10-04 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226858) · `ta`
 
-யாழ் வல்வெட்டித்துறை நகர சபையின் ஆளுகைக்கு உட்பட்ட சுகாதார விதிமுறைகளை பேணாத உணவகம் மற்றும் பல்பொருள் அங்காடிகள் ஆகியவற்றுக்கு ஒரு இலட்சத்து 60 ஆயிரம் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது.
+One lakh 60 thousand rupees has been imposed on restaurants and supermarkets that do not maintain the health regulations under the Jaffna Valvettithurai Urban Council.
 
-வல்வெட்டித்துறை நகர சபையின் ஆளுகைக்கு உட்பட்ட பகுதியில் உள்ள உணவகங்கள் மற்றும் பல்பொருள் அங்காடிகள் என்பவற்றில் பொது சுகாதார பரிசோதகர்கள் சோதனை நடவடிக்கையில் ஈடுபட்டனர்.
+Public health inspectors conducted a test of restaurants and supermarkets in the area under the rule of the Valvettithurai Urban Council.
 
-அதன்போது, மனித நுகர்வுக்கு ஏற்றதல்லாத உணவு பொருட்களை விற்பனைக்கு வைத்திருந்தமை போன்ற குற்றச்சாட்டுக்களின் அடிப்படையில் மூன்று பல்பொருள் அங்காடிகளுக்கு  எதிராக பொது சுகாதார பரிசோதகரால் பருத்தித்துறை நீதவான் நீதிமன்றில் வழக்கு தொடரப்பட்டது.
+At the same time, the Public Health Inspector has filed a case against three supermarkets on charges of selling non -human food products.
 
-வழக்கு விசாரணைகளின் போது உரிமையாளர்கள் தம் மீதான குற்றச்சாட்டுக்களை ஏற்றுக்கொண்டதை அடுத்து, உரிமையாளர்களை கடுமையாக எச்சரித்த நீதிமன்று, உணவக உரிமையாளருக்கு 50 ஆயிரம் ரூபாயும்,  பல்பொருள் அங்காடிகளில் உரிமையாளர்களுக்கு 40 ஆயிரம், 10 ஆயிரம் மற்றும் 60 ஆயிரம் ரூபாய் தண்டம் விதித்தது தீர்ப்பளித்தது.
+After the owners accepted the allegations against them during the trial, the judiciary, who strongly warned the owners, sentenced the restaurant owner to Rs.
 
 ◼️
 
 [Data](articles/80be9dc0.json)
+
+[Extended Data](ext_articles/80be9dc0.ext.json)
 
 ---
 
@@ -1159,17 +1271,19 @@ Meanwhile, Trump presented a 20 -feature plan to end the Gaza War. It is said th
 
 ---
 
-### தீபாவளி வணிக நில குத்தகையால் அட்டன்-டிக்கோயா  நகர  சபைக்கு ரூ. 3.6 மில்லியன் வருமானம்
+### Diwali Business Land lease. 3.6 million income
 
 *2025-10-04 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226853) · `ta`
 
-தீபாவளி பண்டிகையை முன்னிட்டு  வணிக நடவடிக்கைகளுக்காக 146 நிலங்களை குத்தகைக்கு விட்டதன் மூலம் அட்டன்- டிக்கோயா நகர சபை ரூபாய் 3.6 மில்லியனுக்கும் அதிகமாக வருமானம் ஈட்டியுள்ளது.
+The Attan-Tikoya City Council has earned more than 3.6 million income by leasing 146 land for commercial activities on the occasion of Diwali.
 
-இதன் காரணமாக ஸ்டார் சதுக்கம் மற்றும் சக்தி மண்டபத்திற்கு அருகிலுள்ள நியமிக்கப்பட்ட பகுதிகள் விதிமுறைகளின் கீழ் வர்த்தக நடவடிக்கைகளுக்காக  ஒதுக்கப்பட்டுள்ளன.
+Due to this, the designated areas near the Star Square and Shakti Hall are reserved for commercial activities under the rules.
 
 ◼️
 
 [Data](articles/8911da5f.json)
+
+[Extended Data](ext_articles/8911da5f.ext.json)
 
 ---
 
@@ -1229,19 +1343,21 @@ He said that after the final session of the Western Provincial Advisory on the 8
 
 ---
 
-### கஜேந்திரகுமார் எம்.பிக்கும் கலாநிதி ஆறுதிருமுருகனுக்கும் இடையில் கலந்துரையாடல்
+### Discussion between Gajendrakumar MP and Dr.
 
 *2025-10-04 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226854) · `ta`
 
-பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம், தெல்லிப்பளை துர்க்காதேவி தேவஸ்தானத்தின் தலைவரும், அகில இலங்கை இந்து மாமன்றத்தின் உப தலைவரும், ஆன்மீகத் தலைவருமான கலாநிதி ஆறு திருமுருகனை வெள்ளிக்கிழமை (03) சந்தித்து கலந்துரையாடினார்.
+Parliamentarian Gajendrakumar Ponnambalam, Tellippalai Durga Devi Devasthanam, Deputy Leader of the All Ceylon Hindu Council and Spiritual Leader of the All Ceylon Hindu Council met on Friday (03).
 
-தெல்லிப்பளை துர்க்கையம்மன் வளாகத்தில் இந்த கலந்துரையாடல் நடைபெற்றது. இச்சந்திப்பில் முன்னாள் பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரனும் கலந்துகொண்டார்.
+The discussion was held at the Tellippalai Durkayamman complex. Former parliamentarian Selvarasa Gajendran was also present at the meeting.
 
-இதன்போது, அநுர அரசாங்கம் மிகவிரைவில் கொண்டுவரவுள்ள ஏக்கிய இராச்சிய (ஒற்றையாட்சி) அரசியல் யாப்பினுடைய ஆபத்துக்கள் தொடர்பில் பாராளுமன்ற உறுப்பினரால் தெளிவுபடுத்தப்பட்டமை குறிப்பிடத்தக்கது.
+It is noteworthy that the Member of Parliament was clarifying the dangers of the Achika Kingdom (Unity of the Unit of the Unity of the Government of Sri Lanka.
 
 ◼️
 
 [Data](articles/349c67cf.json)
+
+[Extended Data](ext_articles/349c67cf.ext.json)
 
 ---
 
@@ -1950,143 +2066,5 @@ But in the event of thunderstorms, strong winds are blowing and the sea regions 
 [Data](articles/136621c0.json)
 
 [Extended Data](ext_articles/136621c0.ext.json)
-
----
-
-### Heavy rainfall expected in several parts of the island
-
-*2025-10-04 06:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113199/heavy-rainfall-expected-in-several-parts-of-the-island) · `en`
-
-The Meteorology Department states that atmospheric conditions are favorable for thunderstorms in the evening.
-
-Therefore, the general public is advised to take adequate precautions to minimize damage caused by heavy rain, strong winds, and lightning during thundershowers.
-
-Showers or thundershowers will occur at several places in most parts of the island after 1.00 p.m, the Met. Department said.
-
-Heavy showers above 100 mm are likely at some places in the North Central, Eastern, Central, and Uva provinces.
-
-◼️
-
-[Data](articles/7d7b1540.json)
-
-[Extended Data](ext_articles/7d7b1540.ext.json)
-
----
-
-### Israel says it is preparing to implement the ‘first stage of Trump’s plan to end the war in Gaza
-
-*2025-10-04 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113198/israel-says-it-is-preparing-to-implement-the-first-stage-of-trumps-plan-to-end-the-war-in-gaza) · `en`
-
-Israeli Prime Minister Prime Minister Benjamin Netanyahu said Israel is preparing to implement the “first stage” of U.S. President Donald Trump’s plan to end the war in Gaza.
-
-A statement from the prime minister’s office Saturday said Israel would work “in full cooperation” with Trump to end the war in accordance with its principles.
-
-THIS IS A BREAKING NEWS UPDATE. AP’s earlier story follows below.
-
-U.S. President Donald Trump on Friday ordered Israel to stop bombing the Gaza Strip after Hamas said it had accepted some elements of his plan to end the nearly two-year war and return all the remaining hostages taken in the Oct. 7, 2023, attack.
-
-Hamas said it was willing to release the hostages and hand over power to other Palestinians, but that other aspects of the plan require further consultations among Palestinians. Senior Hamas officials suggested there were still major disagreements that required further negotiations.
-
-...
-
-[Data](articles/925f4ba5.json)
-
-[Extended Data](ext_articles/925f4ba5.ext.json)
-
----
-
-### Hamas acknowledges part of Trump's final announcement
-
-*2025-10-04 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215318) · `si`
-
-The Hamas has agreed to partially recognize the American peace plan for the Hamas's final announcement by the President of Hamas.
-
-Accordingly, the Tampura President has ordered Israel to stop the bombing of Gaza.
-
-In response, Israeli Prime Minister Benjamin Netanyahu has issued a brief announcement with his country with the US 'plan' for peace.
-
-Hamas warned the US note yesterday (3).. By 6am, his peace plan should agree.
-
-The plan stopped immediately and proposed to hand over 72 Israeli hostages, which are considered to be released as well as the Hamas detention.
-
-It was to share hundreds of Gaza in the custody of Israel.
-
-Trump had further stated that action would be taken against Hamas if they could not come to the agreement.
-
-Accordingly, the Hamas has accepted the rest of the hostages of October 7, 2023, after the year 2 years of war.
-
-...
-
-[Data](articles/461fb1ce.json)
-
-[Extended Data](ext_articles/461fb1ce.ext.json)
-
----
-
-### Heavy rains exceeding 100 mm present this afternoon
-
-*2025-10-04 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215317) · `si`
-
-The Meteorological Department states that there is a positive atmospheric conditions for thundershowers during the evening today (04).
-
-The Department says that the latest weather forecast for today's day.
-
-Therefore, people are notable to take necessary steps to reduce the damages caused by strong winds, strong winds and strong lightning.
-
-Showers or thundershowers will occur at several places in many parts of the island.
-
-In some places in the North Central, East, Central and Uva provinces, there will be heavy showers over 100 mm.
-
-◼️
-
-[Data](articles/6f10572a.json)
-
-[Extended Data](ext_articles/6f10572a.ext.json)
-
----
-
-### The first woman as the Archbishop of Canterbury in charge of leading the UK Church
-
-*2025-10-04 04:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226842) · `ta`
-
-The post of Archbishop of Canterbury, who is responsible for leading the UK Church, has been reserved for a woman for the first time in history.
-
-63 -year -old Bishop Sarah Mulale was the first woman to qualify for the post in 1,400 years.
-
-The appointment of a woman as Archbishop of Canterbury, who performs important duties such as crowned to the British king, is considered a historic moment.
-
-◼️
-
-[Data](articles/f6270f33.json)
-
-[Extended Data](ext_articles/f6270f33.ext.json)
-
----
-
-### 34 -year -old man killed in Mannar Basal police station detention Son death
-
-*2025-10-04 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226841) · `ta`
-
-A 34 -year -old man was arrested at the Mannar Basal police division on suspicion and detained at the Basal police station on Friday morning.
-
-The deceased has been identified as Rajendran Kapilan (age-34) from Mangulam in Vavuniya.
-
-A man was arrested in the Kataspathiri area of ​​the Basal police division on Thursday evening.
-
-It is reported that the man was chased by the police and another man who was with him.
-
-The man who was arrested by the police took the police to the Pasal police station and put the investigations into the police station.
-
-The suspect was found dead on Friday morning (3) after the man was detained in the police station cage.
-
-The body was taken to the Basalai Divisional Hospital at 6.30 am today (3).. At 12 noon, the Mannar court response went to the Loku Basalai Divisional Hospital and carried out investigations.
-
-Following this, he went to the Basal police station and visited the police station and carried out investigations.
-
-...
-
-[Data](articles/fdece35d.json)
-
-[Extended Data](ext_articles/fdece35d.ext.json)
 
 ---

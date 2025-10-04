@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 17:57:59**
+As of **2025-10-04 18:19:08**
 
 ## Newspaper Stats
 
-*Scraped **81,108** Articles*
+*Scraped **81,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,20 +18,40 @@ economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,776
-adaderanalk | 10,435
+adaderanalk | 10,436
 tamilmirrorlk | 12,046
 virakesarilk | 13,319
-adaderanasinhalalk | 13,950
+adaderanasinhalalk | 13,951
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,108 (100.0%) of 81,108 articles have been extended.
+81,108 (100.0%) of 81,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය අත්හැර දමයි
+
+*2025-10-04 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215341) · `si`
+
+කාන්තා එක්දින ලෝක කුසලානයේ ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමට තීරණය කර තිබේ.
+
+කාන්තා එක්දින ලෝක කුසලානයේ ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය ආරම්භයට අයහපත් කාලගුණයෙන් බාධා එල්ල විය.
+
+ඒ අනුව පස්වරු 3.00ට කොළඹ ආර්. ප්‍රේමදාස ක්‍රිකට් ක්‍රිඩාංගණයේදී ආරම්භ වීමට නියමිතව තිබූ තරගයේ කාසියේ වාසිය උරගා බැලීමටද නොහැකි විය.
+
+තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම මුහුණදෙන දෙවන තරගය මෙය වන අතර පළමු තරගයේදී ඔවුන් ඉන්දීය කාන්තා කණ්ඩායම හමුවේ පරාජයට පත් වුණි.
+
+ඕස්ට්‍රේලියානු කාන්තා කණ්ඩායම ඔවුන් මුහුණදුන් පළමු තරගයේදී නවසීලන්ත කාන්තා කණ්ඩායම පරදා ලකුණු 89ක  ජයක් හිමිකර ගත්තාය.
+
+◼️
+
+[Data](articles/88d2841d.json)
+
+---
 
 ### Principals an informed of new education reforms
 
@@ -52,6 +72,22 @@ Accordingly, the program will also be implemented in other districts in the coun
 [Data](articles/ae3013f3.json)
 
 [Extended Data](ext_articles/ae3013f3.ext.json)
+
+---
+
+### Dy. Minister clarifies misleading reports on President’s 2026 expenditure
+
+*2025-10-04 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/113215/dy-minister-clarifies-misleading-reports-on-presidents-2026-expenditure) · `en`
+
+Reports circulating on social media claiming that the President’s expenditure allocation for 2026 has been increased threefold has been clarified by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
+
+Accordingly, the Minister points out that the relevant information is incorrect and misleading to the general public.
+
+Explaining further in this regard, Deputy Minister Anil Jayantha said:
+
+...
+
+[Data](articles/82e19816.json)
 
 ---
 
@@ -2024,43 +2060,5 @@ No one can distort data. They need to provide the maximum security. There should
 [Data](articles/43565139.json)
 
 [Extended Data](ext_articles/43565139.ext.json)
-
----
-
-### Pavement trading prohibited in Hatton during Diwali festival
-
-*2025-10-04 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113203/pavement-trading-prohibited-in-hatton-during-diwali-festival) · `en`
-
-The Hatton-Dickoya Urban Council has generated an income of over Rs. 3.6 million by tendering 146 plots of land temporarily allocated for business activities during the upcoming Diwali (Deepavali) festival season.
-
-Hatton-Dickoya Urban Council Chairman Asoka Karunaratne made this announcement yesterday (03).
-
-During the Diwali festival period, pavement trading is prohibited in Hatton town. Instead, areas near Hatton Star Square and Shakthi Hall have been designated for business operations.
-
-A report was obtained from the Government Valuation Department, following which tenders were called for the allocation of the plots.
-
-The tenders were opened yesterday by the Secretary of the Urban Council, Shyamali Rupasinghe, under the supervision of the members of the Finance Committee.
-
-In addition to the tender amount, a garbage tax and business tax have also been collected from those who acquired plots to conduct temporary trade.
-
-...
-
-[Data](articles/2561dbc8.json)
-
-[Extended Data](ext_articles/2561dbc8.ext.json)
-
----
-
-### Sri Lanka’s Foreign Debt at Rs.19.6 Trillion
-
-*2025-10-04 08:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sri-lanka%e2%80%99s-foreign-debt-at-rs-19-6-trillion) · `en`
-
-COLOMBO (News 1st); The Committee on Public Finance chaired by MP Dr. Harsha de Silva, revealed that Sri Lanka has accumulated foreign debt amounting to USD 37 billion. Officials from the Public Debt Management Office, summoned before the committee, revealed this following a question posed by the Chairman of COPF MP Dr. Harsha De Silva. It was revealed that Sri Lanka’s foreign debt stands at Rs. 19.6 trillion.Although the chairman inquired about the loan installments due for payment this year, the officials did not possess the relevant statistical data.The chairman of the Finance Committee expressed his displeasure over the matter.
-
-◼️
-
-[Data](articles/88af997b.json)
-
-[Extended Data](ext_articles/88af997b.ext.json)
 
 ---

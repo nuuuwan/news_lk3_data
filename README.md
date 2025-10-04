@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 19:37:45**
+As of **2025-10-04 20:06:12**
 
 ## Newspaper Stats
 
-*Scraped **81,128** Articles*
+*Scraped **81,138** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 594
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 763
+lankadeepalk | 769
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
-adalk | 7,776
+adalk | 7,780
 adaderanalk | 10,437
 tamilmirrorlk | 12,046
 virakesarilk | 13,327
@@ -27,11 +27,77 @@ adaderanasinhalalk | 13,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,126 (100.0%) of 81,128 articles have been extended.
+81,138 (100.0%) of 81,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### Whatever the renewable energy is continuous
+
+*2025-10-04 19:13:08* · [`adalk`](https://www.ada.lk/breaking_news/පුනර්ජනනීය-බලශක්ති-කුමන-බාධක-ආවත්-අඛණ්ඩව-ක්‍රියාත්මක-කරනවා/11-418911) · `si`
+
+"Renewable energy projects continue. Because of the projects, all the steps that hindfully consider the problems of the people and solve them. The Energy Minister stated that everyone should understand that renewable energy generation was a national requirement and part of the national program.
+
+"It is like that as well as the restructuring program of the Ceylon Electricity Board. There is a government policy to ensure the government's government ownership in the electricity sector. We launched this program discussions with trade union representatives at all times being protected by employee rights privileges.. It is vital that the implementation of the restructuring program to win the objectives of the country's energy fields is essential. Therefore, it will continue to implement the program. "
+
+...
+
+[Data](articles/7272872c.json)
+
+[Extended Data](ext_articles/7272872c.ext.json)
+
+---
+
+### Lands accident to five districts
+
+*2025-10-04 19:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දසතරකක-පහකට-නය-අනතර/1-680738) · `si`
+
+With the excessive heavy rains, the National Building Research Institute has issued a landslide warning to 10 Divisional Secretariats in five districts tomorrow (4) at 6.00 pm.
+
+The landslides were issued today 4 pm on the Badulla, Ella, Hali-Ela, Passara, Kurunegala District, Kotmale, Kurunegala District, Kothuwela, and Matale District.
+
+Meanwhile, the Disaster Management Center (DMC) stated that two cows were killed in the Lightning Rahara, Hali, Hali, Hali, Haliela.
+
+◼️
+
+[Data](articles/90c481a7.json)
+
+[Extended Data](ext_articles/90c481a7.ext.json)
+
+---
+
+### Issuing landslide warnings
+
+*2025-10-04 19:07:41* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-ඇඟවීම්-නිකුත්-කරයි/11-418910) · `si`
+
+With the highlights of the highlights, the National Building Research Institute has issued a landslide warning to 10 Divisional Secretariats in five districts tomorrow (4).
+
+The Landslides in the Badulla, Ella, Hali ,la, Passara, Galle, Kurunegala District were released to the Ukule and Raththota Divisional Secretariat Divisions in the Kothuwela, Kurunegala District, Kothuwela, and Matale District.
+
+The Disaster Management Center (DMC) says that two cows were killed in the Lightning Station, Haliya, Hali, Haliela.
+
+◼️
+
+[Data](articles/6e702b0c.json)
+
+[Extended Data](ext_articles/6e702b0c.ext.json)
+
+---
+
+### An announcement of the weather on heavy rains
+
+*2025-10-04 19:02:12* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-පිළිබඳ-කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-418909) · `si`
+
+An announcement of weather has been released in heavy rains. The announcement was issued at 5.30 pm today for a 24-hour period. The announcement is issued to be valid for the Western, North Western and Sabaragamuwa Province and Galle, Matara, Kandy and Nuwara Eliya districts.
+
+◼️
+
+[Data](articles/a43b9709.json)
+
+[Extended Data](ext_articles/a43b9709.ext.json)
+
+---
 
 ### Sampath Manamperi's brother-in-law seized
 
@@ -50,6 +116,28 @@ The Western Province Criminal Investigations Department (Western Province Crimin
 [Data](articles/7e0eccea.json)
 
 [Extended Data](ext_articles/7e0eccea.ext.json)
+
+---
+
+### Youth dances falling down by Kavadi at Perahera
+
+*2025-10-04 18:58:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පරහර-කවඩ-නටමන-සට-තරණය-ඇද-වට-මරට/1-680737) · `si`
+
+A 20-year-old youth who had been identified as a Ambalangoda temple, was suddenly being sick and said.
+
+The victim was a 20 year old youth, a 20 year old residents of Tanabaddiygama.
+
+The young man who was engaged in the Madampe city of Ambalangoda was not taken to the Balapitiya Hospital after illnesses were unable to dance.
+
+The victim was admitted to the hospital when he was admitted to the hospital while he was rushed to the hospital.
+
+Family Relatives say that he had no other non-communicable diseases and the death of the young man is an expression.
+
+◼️
+
+[Data](articles/01692a79.json)
+
+[Extended Data](ext_articles/01692a79.ext.json)
 
 ---
 
@@ -110,6 +198,8 @@ The Matale District Secretary, the Director General of the NIE, Provincial Direc
 ...
 
 [Data](articles/9e931480.json)
+
+[Extended Data](ext_articles/9e931480.ext.json)
 
 ---
 
@@ -231,19 +321,23 @@ The deceased are a 21 -year -old girl from Moragahahena and a 24 -year -old yout
 
 ---
 
-### சாரதி அனுமதி பத்திர விநியோகத்தில் விரைவில் மாற்றம் ; போக்குவரத்து அமைச்சு
+### Change quickly in driver's permit bond distribution; Ministers
 
 *2025-10-04 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226897) · `ta`
 
-சாரதி அனுமதி பத்திரங்கள் செல்லுபடியாகும் காலத்தை 8 ஆண்டுகளில் இருந்து அதிகரிக்க போக்குவரத்து அமைச்சு தீர்மானித்துள்ளத. இந்த விடயத்தை ஆய்வு செய்து பொருத்தமான திட்டத்தை முன்வைக்க தொழில்நுட்ப மதிப்பீட்டுக் குழுவொன்றும் நியமிக்கப்பட்டுள்ளது.
+Transport Ministry has decided to increase the validity period from 8 years. A Technical Assessment Committee has also been appointed to review the matter and present the appropriate plan.
 
-சாரதி அனுமதி பத்திரங்களைப் பெறும்போது விண்ணப்பதாரர்களின் வயது மற்றும் உடல் தகுதியைக் கருத்தில் கொண்டு, சாரதி அனுமதி பத்திரங்களின் செல்லுபடியாகும் காலத்தை 8 ஆண்டுகளுக்கு மேல் அதிகரிக்க திட்டமிடப்பட்டுள்ளதாக போக்குவரத்து அமைச்சு மேலும் தெரிவித்துள்ளது.
+Considering the age and physical qualification of the applicants when obtaining a driver's permits, the Ministry of Transport further stated that the validity of the driver's permit bonds is scheduled to increase over 8 years.
 
-நடுத்தர வயது மற்றும் 40 வயதுக்கு மேற்பட்ட ஓட்டுநர் உரிமங்களுக்கான புதிய விண்ணப்பதாரர்கள் மற்றும் சாரதி அனுமதி பத்திரங்களை புதுப்பிக்க வரும் விண்ணப்பதாரர்களுக்கு ஏற்ற காலத்திற்கு செல்லுபடியாகும் காலத்தை அதிகரிக்கவும் யோசனை முன்வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+The idea has also been proposed to increase the validity period for new applicants and driver's licenses for driver's licenses over the age of 40 and over 40 years.
+
+However, Transport Minister Bimal Ratnayake has said that this is not a decision and only a project. Even if such action is taken, it does not apply to heavy motorists. The Minister added that heavy motorists should renew their driver's permits every 3 years.
 
 ...
 
 [Data](articles/1ac6c1b0.json)
+
+[Extended Data](ext_articles/1ac6c1b0.ext.json)
 
 ---
 
@@ -639,6 +733,22 @@ The Meteorological Department urges the public to take necessary steps to reduce
 
 ---
 
+### Rain interrupted Sri Lanka - Australia's competition
+
+*2025-10-04 15:51:57* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---ඔස්ට්‍රේලියා-තරගයට-වර්ෂාවෙන්-බාධා/9-418908) · `si`
+
+The Sri Lanka-Australia Trophy of the Women's ODI World Cup has been interrupted by rain.
+
+The match was scheduled to be held at the R. Premadasa Stadium in Colombo.
+
+◼️
+
+[Data](articles/5fedc48b.json)
+
+[Extended Data](ext_articles/5fedc48b.ext.json)
+
+---
+
 ### We will resist when we see it all the snoring
 
 *2025-10-04 15:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லாத்துக்கும்-குறட்டை-அதை-கண்டதும்-எதிர்ப்போம்/175-365706) · `ta`
@@ -941,6 +1051,26 @@ Residents of the area hospitalized after the accident and the injured couple wer
 
 ---
 
+### Two killed in a lorry in lorry
+
+*2025-10-04 14:44:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/යතරපදයක-ලරයක-ගට-දදනක-මරට/1-680729) · `si`
+
+Horana, a couple, has died in the Moragahawila Temple in Horana Moragahawila temple today, a lorry couple.
+
+The deceased is a couple named Manushka and Chathurika Apsra, aged 21 and 24, a resident of Moragahahena.
+
+The motorbike, which was traveling from Moragahahena main road from Moragahahena main road from Moragahahena, Horana towards Horana.
+
+Residents of the area hospitalized after the accident and the injured couple were killed in admission to the hospital.
+
+◼️
+
+[Data](articles/a498a18d.json)
+
+[Extended Data](ext_articles/a498a18d.ext.json)
+
+---
+
 ### Mahinda Rajapaksa handed over his security vehicle
 
 *2025-10-04 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226878) · `ta`
@@ -982,6 +1112,26 @@ In Jaffna, Anuradhapura Bentota and Colombo, Colombo, Jaffna, Jaffna, Jaffna.
 [Data](articles/15bf675b.json)
 
 [Extended Data](ext_articles/15bf675b.ext.json)
+
+---
+
+### President pays eight million in Bungalow in maintenance
+
+*2025-10-04 14:36:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-බගල-නඩතතවට-කට-අටක-ගවල/1-680727) · `si`
+
+The Presidential Secretariat has spent Rs.
+
+Three hundred and two civil servants have been deployed in this presidential Pressure. Thirty million rupees (13,741,080 million) had been spent on the payment of salaries and allowances for 16 civil servants.
+
+The audit report included in the 2024 Annual Performance Report of the Presidential Secretariat
+
+In Jaffna, Anuradhapura Bentota and Colombo, Colombo, Jaffna, Jaffna, Jaffna.
+
+◼️
+
+[Data](articles/9edeaaf2.json)
+
+[Extended Data](ext_articles/9edeaaf2.ext.json)
 
 ---
 
@@ -1196,6 +1346,26 @@ COLOMBO (News 1st); Acting Police Spokesperson, Assistant Super of Police Minura
 [Data](articles/1293e214.json)
 
 [Extended Data](ext_articles/1293e214.ext.json)
+
+---
+
+### Chandrika left the bungalow
+
+*2025-10-04 13:44:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/චනදරකත-බගලවන-ඉවතවය/1-680726) · `si`
+
+Former President Chandrika Bandaranaike Kumaratunga and other two three three weeks will be removed from the bank of Colombo and reside in a rented house in the city
+
+The former President's secretary told Lankadeepa that Mrs. Chandrika Bandaranaike Kumaratunga was in illustrations.
+
+Former Presidential Facilities Removal Bill was passed in Parliament recently. Thus, all the facilities were lost other than the pension of former presidents.
+
+The pension of former President Ranasinghe Premadasa and all other facilities have lost all other facilities after the passage of other facilities.
+
+◼️
+
+[Data](articles/6df01cf1.json)
+
+[Extended Data](ext_articles/6df01cf1.ext.json)
 
 ---
 
@@ -1627,6 +1797,30 @@ The lorry was sitting out on the front seat and lived out and the driver was stu
 
 ### Easy Disappearance in Little Counsels: Some of them were released
 
+*2025-10-04 11:38:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පච-සභවල-වහන-දහක-අතරදන-සමහර-ඒව-මස-කරල/1-680724) · `si`
+
+More than a thousand vehicles in the local government councils including the Provincial Councils and Urban Council Pradeshiya Sabha said that more than a thousand vehicles were reported missing.
+
+Sources say that many vehicles are not able to find any vehicles, there is a strong suspicion that some vehicles have been sold.
+
+When we inquired from Minister of Public Administration and Local Government, Dr. Chandana Abeyratne, said that he was carrying out any secret investigation into the following vehicles.
+
+The Ministry requests that if these vehicles are detained in any or in any place, the Ministry requests them to take immediate action.
+
+The ministry says that the law is being implemented against the persons who are arrested without his hand without handed place.
+
+Audit sections also conduct a separate investigation into the disappearance of vehicles of local authorities.
+
+...
+
+[Data](articles/b48debba.json)
+
+[Extended Data](ext_articles/b48debba.ext.json)
+
+---
+
+### Easy Disappearance in Little Counsels: Some of them were released
+
 *2025-10-04 11:38:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පච-සභවල-වහන-දහක-අතරදන-සමහර-ඒව-මස-කරල/101-680724) · `si`
 
 More than a thousand vehicles in the local government councils including the Provincial Councils and Urban Council Pradeshiya Sabha said that more than a thousand vehicles were reported missing.
@@ -1800,203 +1994,5 @@ The other side of the coin shows Trump in profile with the word “liberty” ab
 [Data](articles/6db7a6a3.json)
 
 [Extended Data](ext_articles/6db7a6a3.ext.json)
-
----
-
-### Motorcycle rider in shooting incident near Dehiwala railway station arrested
-
-*2025-10-04 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113205/motorcycle-rider-in-shooting-incident-near-dehiwala-railway-station-arrested-) · `en`
-
-A suspect has been arrested in connection with the shooting incident and attempted murder of a person near the Dehiwala Railway Station, police said.
-
-The incident occurred on July 18, when a person was seriously injured and hospitalized after being shot by two unidentified individuals who arrived on a motorcycle near the Dehiwala Railway Station.
-
-Following an investigation conducted by the Mount Lavinia Divisional Criminal Investigation Bureau, the suspect who allegedly rode the motorcycle used in the shooting has been arrested.
-
-Police recovered 50 grams of crystal methamphetamine (“Ice”), five swords, and a dagger from the suspect’s possession, said police.
-
-According to Police, the suspect is a 34-year-old resident of Seevali Road in Mount Lavinia.
-
-◼️
-
-[Data](articles/657020f6.json)
-
-[Extended Data](ext_articles/657020f6.ext.json)
-
----
-
-### Munich airport shuts again over drone scare
-
-*2025-10-04 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113204/munich-airport-shuts-again-over-drone-scare) · `en`
-
-Munich airport was forced to halt operations for the second day in a row on Friday (Oct 3) over drone sightings, with dozens of flights and more than 6,000 passengers affected.
-
-Airports in Denmark, Norway and Poland have recently suspended flights due to unidentified drones, while Romania and Estonia have pointed the finger at Russia, which has brushed off the allegations.
-
-Munich airport said in a statement that on Friday “from 9.30pm air traffic was restricted and then cancelled due to drone sightings”, meaning 23 incoming flights were diverted and 12 bound for Munich were cancelled.
-
-Forty-six departures from the airport had to be cancelled or delayed until Saturday, with a total of 6,500 passengers affected.
-
-A police spokesman told AFP that there were “two simultaneous confirmed drone sightings by police patrols just before 11pm around the north and south runways”.
-
-“The drones immediately moved away, before they could be identified,” he added.
-
-...
-
-[Data](articles/29e7408c.json)
-
-[Extended Data](ext_articles/29e7408c.ext.json)
-
----
-
-### சிறுவர்களை ஆபாச செயற்பாடுகளுக்குள் தள்ளும் டிக்டொக் : ஆய்வில் வெளியான அதிர்ச்சித் தகவல் !
-
-*2025-10-04 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226861) · `ta`
-
-A new study conducted by the Global Witness Global Witness Global Witness Global Witness, a profitable monitoring team from Britain, has revealed that the Tiktok processor is distracting young users with its recommended search terms.
-
-The report has been revealed as the pressure on the web sites to make age verification on the Internet is on the rise.
-
-As part of the report, published on October 3, Global Whitness has created 7 new tick doc accounts in the UK on the new phones that have already been deleted in search histories.. The minimum age is 13 to start the Dictok account.
-
-According to Dictok's support page, the 'Restricted Mode' limits the content that is considered "not comfortable", including "sexual contents", including "sexual contents".. However, Global Whitness reported that the search suggestions of Dictock were "more sexual" for users who are referred to as 13 -year -olds and using controlled mode.
-
-...
-
-[Data](articles/cbcfbecc.json)
-
-[Extended Data](ext_articles/cbcfbecc.ext.json)
-
----
-
-### Jaffna District Cultural Festival
-
-*2025-10-04 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226859) · `ta`
-
-The Jaffna District Cultural Festival was held on Friday (03) with the sponsorship of the Northern Provincial Cultural Affairs Department.
-
-Yall. The Cultural Festival was held at the District Secretariat auditorium following the inauguration of the cultural procession from the Church of St. Yuaniyar and reached the District Secretariat.
-
-This year's Cultural Festival, which was held at the Child Mr. Shanmugalingam Hall, was held with 15 Divisional Secretariats - artists and students of the area.
-
-In addition, the "Jaffna - 4" (traditions and beliefs) book launch ceremony was also held.
-
-In the subsequent event, the "Jaffna Muthu" Award was honored with 15 artists and the undergraduate award 15 artists.
-
-...
-
-[Data](articles/35421759.json)
-
-[Extended Data](ext_articles/35421759.ext.json)
-
----
-
-### Welcome to US President Trump's leadership - Indian Prime Minister Modi
-
-*2025-10-04 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226860) · `ta`
-
-காசா முனையை நிர்வகித்து வரும் ஹமாஸ் ஆயுதக்குழுவினர் கடந்த 2023 ஆம் ஆண்டு ஒக்டோபர் 7 ஆம் திகதி இஸ்ரேலுக்குள் புகுந்து நடத்திய பயங்கரவாத தாக்குதலில் 1,139 இஸ்ரேலியர்கள் கொல்லப்பட்டனர். In addition, 251 were abducted by Hamas hostage to the Gaza tip.
-
-In the meantime, Israel declared a war on Hamas and launched an intense attack on the Gaza tip. More than 66 thousand Palestinian people, including women and children, have been killed in the attack. Israel has rescued many of the hostage in Hamas on a contract basis and military action.
-
-Israeli Prime Minister Benjamin Netanyahu has said that a ceasefire will not occur until the Hamas is completely destroyed by all the hostages.. In this context, efforts are being made by US President Trump to end the Gaza War.
-
-Meanwhile, Trump presented a 20 -feature plan to end the Gaza War. It is said that Netanyahu has agreed to the project. Hamas said it was considering it as Hamas movement was pressured to accept Trump's compromise plan.
-
-...
-
-[Data](articles/d1aebe8e.json)
-
-[Extended Data](ext_articles/d1aebe8e.ext.json)
-
----
-
-### Diwali Business Land lease. 3.6 million income
-
-*2025-10-04 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226853) · `ta`
-
-The Attan-Tikoya City Council has earned more than 3.6 million income by leasing 146 land for commercial activities on the occasion of Diwali.
-
-Due to this, the designated areas near the Star Square and Shakti Hall are reserved for commercial activities under the rules.
-
-◼️
-
-[Data](articles/8911da5f.json)
-
-[Extended Data](ext_articles/8911da5f.ext.json)
-
----
-
-### Dehiwala shooting motorcyclist arrested
-
-*2025-10-04 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215323) · `si`
-
-A person has been arrested on suspicion of attempting to kill a person who shot at Dehiwala and Railway Station.
-
-On July 18, a shooting of two unidentified people from the Dehiwala Railway Station was taken seriously injured.
-
-The motorcycle joint vehicles came after the Mount Lavinia Division Criminal Investigation (Mightl)
-
-The Police Media Division stated that he was found in the possession of the suspect's possession of 50 ice drugs, five swords and a crisis.
-
-◼️
-
-[Data](articles/b4f9db3a.json)
-
-[Extended Data](ext_articles/b4f9db3a.ext.json)
-
----
-
-### Strong economic crisis in France: nationwide strike - Eiffel Tower Closure!
-
-*2025-10-04 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226857) · `ta`
-
-French government reduced budget spending to deal with economic crisis. The people jumped into the protest in protest of the lack of funds for the essential sectors such as health and education.
-
-In the context of these protests, Sebastian Legorn was appointed as the country's new prime minister. However, his appointment further stirred the protesters. As a result, the protesters began the 'Block Everything' movement and called for a nationwide strike.
-
-Accepting the invitation, more than 85 thousand protesters gathered in major cities of France, including the capital Paris. இந்த வேலைநிறுத்தம் காரணமாக ரயில் மற்றும் பொதுப் போக்குவரத்துச் சேவைகள் பாதிக்கப்பட்டன.
-
-As a result of the struggle, the Eiffel Tower, the world -renowned tourist destination, closed. The tower was not opened as the tower management staff also participated in the strike.
-
-...
-
-[Data](articles/58fb649b.json)
-
-[Extended Data](ext_articles/58fb649b.ext.json)
-
----
-
-### மின்சாரக் கட்டணம் 6.8 சதவீதத்தால் உயர்வு?
-
-*2025-10-04 10:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-6-8-சதவீதத்தால்-உயர்வு/175-365703) · `ta`
-
-The Public Utilities Commission's decision on the proposal by the Ceylon Electricity Board (CEB) will be released on the 15th of this month, the Media Spokesperson of the Public Utilities Commission said.
-
-He said that after the final session of the Western Provincial Advisory on the 8th of this month, the final decision on the amendment of the fees would be taken. R
-
-◼️
-
-[Data](articles/0be2b96b.json)
-
-[Extended Data](ext_articles/0be2b96b.ext.json)
-
----
-
-### Discussion between Gajendrakumar MP and Dr.
-
-*2025-10-04 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226854) · `ta`
-
-Parliamentarian Gajendrakumar Ponnambalam, Tellippalai Durga Devi Devasthanam, Deputy Leader of the All Ceylon Hindu Council and Spiritual Leader of the All Ceylon Hindu Council met on Friday (03).
-
-The discussion was held at the Tellippalai Durkayamman complex. Former parliamentarian Selvarasa Gajendran was also present at the meeting.
-
-It is noteworthy that the Member of Parliament was clarifying the dangers of the Achika Kingdom (Unity of the Unit of the Unity of the Government of Sri Lanka.
-
-◼️
-
-[Data](articles/349c67cf.json)
-
-[Extended Data](ext_articles/349c67cf.ext.json)
 
 ---

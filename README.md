@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 12:11:02**
+As of **2025-10-04 12:37:21**
 
 ## Newspaper Stats
 
-*Scraped **81,026** Articles*
+*Scraped **81,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,70 +18,146 @@ economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,772
-adaderanalk | 10,425
+adaderanalk | 10,428
 tamilmirrorlk | 12,042
-virakesarilk | 13,293
+virakesarilk | 13,294
 adaderanasinhalalk | 13,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,017 (100.0%) of 81,026 articles have been extended.
+81,030 (100.0%) of 81,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
+### US considers $1 Trump coin to mark 250th independence celebrations
+
+*2025-10-04 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113206/us-considers-1-trump-coin-to-mark-250th-independence-celebrations) · `en`
+
+The U.S. Treasury is considering making a $1 coin featuring President Donald Trump to commemorate 250 years since the declaration of American independence in 2026, it said on Friday.
+
+Images of the potential design showed Trump holding a raised clenched fist on one side of the coin alongside the words “fight, fight, fight” - a reference to what he said immediately after surviving an assassination attempt last year.
+
+The other side of the coin shows Trump in profile with the word “liberty” above him and “1776-2026” written below, according to images shared by Treasurer Brandon Beach on X.
+
+“While a final $1 dollar coin design has not yet been selected to commemorate the United States’ semiquincentennial, this first draft reflects well the enduring spirit of our country and democracy, even in the face of immense obstacles,” a Treasury spokesperson said in a statement.
+
+...
+
+[Data](articles/6db7a6a3.json)
+
+[Extended Data](ext_articles/6db7a6a3.ext.json)
+
+---
+
+### Motorcycle rider in shooting incident near Dehiwala railway station arrested
+
+*2025-10-04 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113205/motorcycle-rider-in-shooting-incident-near-dehiwala-railway-station-arrested-) · `en`
+
+A suspect has been arrested in connection with the shooting incident and attempted murder of a person near the Dehiwala Railway Station, police said.
+
+The incident occurred on July 18, when a person was seriously injured and hospitalized after being shot by two unidentified individuals who arrived on a motorcycle near the Dehiwala Railway Station.
+
+Following an investigation conducted by the Mount Lavinia Divisional Criminal Investigation Bureau, the suspect who allegedly rode the motorcycle used in the shooting has been arrested.
+
+Police recovered 50 grams of crystal methamphetamine (“Ice”), five swords, and a dagger from the suspect’s possession, said police.
+
+According to Police, the suspect is a 34-year-old resident of Seevali Road in Mount Lavinia.
+
+◼️
+
+[Data](articles/657020f6.json)
+
+[Extended Data](ext_articles/657020f6.ext.json)
+
+---
+
+### Munich airport shuts again over drone scare
+
+*2025-10-04 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113204/munich-airport-shuts-again-over-drone-scare) · `en`
+
+Munich airport was forced to halt operations for the second day in a row on Friday (Oct 3) over drone sightings, with dozens of flights and more than 6,000 passengers affected.
+
+Airports in Denmark, Norway and Poland have recently suspended flights due to unidentified drones, while Romania and Estonia have pointed the finger at Russia, which has brushed off the allegations.
+
+Munich airport said in a statement that on Friday “from 9.30pm air traffic was restricted and then cancelled due to drone sightings”, meaning 23 incoming flights were diverted and 12 bound for Munich were cancelled.
+
+Forty-six departures from the airport had to be cancelled or delayed until Saturday, with a total of 6,500 passengers affected.
+
+A police spokesman told AFP that there were “two simultaneous confirmed drone sightings by police patrols just before 11pm around the north and south runways”.
+
+“The drones immediately moved away, before they could be identified,” he added.
+
+...
+
+[Data](articles/29e7408c.json)
+
+[Extended Data](ext_articles/29e7408c.ext.json)
+
+---
+
 ### சிறுவர்களை ஆபாச செயற்பாடுகளுக்குள் தள்ளும் டிக்டொக் : ஆய்வில் வெளியான அதிர்ச்சித் தகவல் !
 
 *2025-10-04 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226861) · `ta`
 
-டிக்டொக் (TikTok) செயலியானது அதன் பரிந்துரைக்கப்பட்ட தேடல் சொற்கள் மூலம் இளம் பயனாளர்களை பாலியல் ரீதியான உள்ளடக்கத்தை நோக்கித் திசை திருப்புவதாக, பிரித்தானியாவைச் சேர்ந்த குளோபல் விட்னஸ் (Global Witness) என்ற இலாப நோக்கற்ற கண்காணிப்புக் குழு நடத்திய புதிய ஆய்வறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+A new study conducted by the Global Witness Global Witness Global Witness Global Witness, a profitable monitoring team from Britain, has revealed that the Tiktok processor is distracting young users with its recommended search terms.
 
-இணையத் தளங்களில் வயதுச் சரிபார்ப்பை (Age Verification) கடுமையாக்க வேண்டும் என்ற அழுத்தம் தொழில்நுட்ப நிறுவனங்கள் மீது அதிகரித்து வரும் நிலையில் இந்த அறிக்கை வெளியாகி உள்ளது.
+The report has been revealed as the pressure on the web sites to make age verification on the Internet is on the rise.
 
-ஒக்டோபர் 3 ஆம் திகதி வெளியிடப்பட்ட இந்த அறிக்கையின் ஒரு பகுதியாக, குளோபல் விட்னஸ் நிறுவனம், ஏற்கனவே தேடல் வரலாறுகள் நீக்கப்பட்ட புதிய தொலைபேசிகளில், 13 வயதுடையவர்களைப் போல உருவகிக்கும் 7 புதிய டிக் டொக் கணக்குகளை இங்கிலாந்தில் உருவாக்கியது. டிக்டொக் கணக்கை ஆரம்பிக்க குறைந்தபட்ச வயதெல்லை 13 ஆகும்.
+As part of the report, published on October 3, Global Whitness has created 7 new tick doc accounts in the UK on the new phones that have already been deleted in search histories.. The minimum age is 13 to start the Dictok account.
+
+According to Dictok's support page, the 'Restricted Mode' limits the content that is considered "not comfortable", including "sexual contents", including "sexual contents".. However, Global Whitness reported that the search suggestions of Dictock were "more sexual" for users who are referred to as 13 -year -olds and using controlled mode.
 
 ...
 
 [Data](articles/cbcfbecc.json)
 
+[Extended Data](ext_articles/cbcfbecc.ext.json)
+
 ---
 
-### யாழ் மாவட்ட பண்பாட்டுப் பெருவிழா
+### Jaffna District Cultural Festival
 
 *2025-10-04 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226859) · `ta`
 
-யாழ் மாவட்ட  பண்பாட்டுப்பேரவையும், மாவட்ட செயலகமும் இணைந்து வடக்கு மாகாண பண்பாட்டலுவல்கள் திணைக்களத்தின் அனுசரணையுடன் இணைந்து கொண்டாடிய யாழ்ப்பாண மாவட்ட  பண்பாட்டுப் பெருவிழா வெள்ளிக்கிழமை (03) இடம்பெற்றது.
+The Jaffna District Cultural Festival was held on Friday (03) with the sponsorship of the Northern Provincial Cultural Affairs Department.
 
-யாழ். புனித யுவானியர் தேவாலய முன்றலில் இருந்து கலாசார ஊர்வலம் ஆரம்பமாகி மாவட்டச் செயலகத்தினை வந்தடைந்ததனைத் தொடர்ந்து மாவட்டச் செயலகம் கேட்போர் கூடத்தில் பண்பாட்டுப் பெருவிழா  நடைபெற்றது.
+Yall. The Cultural Festival was held at the District Secretariat auditorium following the inauguration of the cultural procession from the Church of St. Yuaniyar and reached the District Secretariat.
 
-குழந்தை  ம.சண்முகலிங்கம் அரங்கில் இடம்பெற்ற இவ்வாண்டிற்கான பண்பாட்டுப் பெரு விழாவில், 15 பிரதேச செயலகங்களை உள்ளடக்கிய வகையில்  - பிரதேசங்களுக்குரிய கலைஞர்களாலும், மாணவர்களாலும் கலை நிகழ்ச்சிகள் சிறப்பாக நடைபெற்றது.
+This year's Cultural Festival, which was held at the Child Mr. Shanmugalingam Hall, was held with 15 Divisional Secretariats - artists and students of the area.
 
-மேலும், "யாழ்ப்பாணம் - 4" (மரபுகளும் நம்பிக்கைகளும்) நூல் வெளியீட்டு விழாவும்  நடைபெற்றது.
+In addition, the "Jaffna - 4" (traditions and beliefs) book launch ceremony was also held.
 
-தொடர்ந்து  நிகழ்வில் "யாழ் முத்து" விருது 15 கலைஞர்களுக்கும், இளங்கலைஞர் விருது 15 கலைஞர்களுக்கும் வழங்கி கௌரவிக்கப்பட்டனர்.
+In the subsequent event, the "Jaffna Muthu" Award was honored with 15 artists and the undergraduate award 15 artists.
 
 ...
 
 [Data](articles/35421759.json)
 
+[Extended Data](ext_articles/35421759.ext.json)
+
 ---
 
-### அமெரிக்க ஜனாதிபதி டிரம்பின் தலைமைத்துவத்தை வரவேற்கிறோம் - இந்தியப் பிரதமர் மோடி
+### Welcome to US President Trump's leadership - Indian Prime Minister Modi
 
 *2025-10-04 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226860) · `ta`
 
-காசா முனையை நிர்வகித்து வரும் ஹமாஸ் ஆயுதக்குழுவினர் கடந்த 2023 ஆம் ஆண்டு ஒக்டோபர் 7 ஆம் திகதி இஸ்ரேலுக்குள் புகுந்து நடத்திய பயங்கரவாத தாக்குதலில் 1,139 இஸ்ரேலியர்கள் கொல்லப்பட்டனர். மேலும், 251 பேரை ஹமாஸ் பணயக் கைதிகளாக காசா முனைக்கு கடத்திச் சென்றது.
+காசா முனையை நிர்வகித்து வரும் ஹமாஸ் ஆயுதக்குழுவினர் கடந்த 2023 ஆம் ஆண்டு ஒக்டோபர் 7 ஆம் திகதி இஸ்ரேலுக்குள் புகுந்து நடத்திய பயங்கரவாத தாக்குதலில் 1,139 இஸ்ரேலியர்கள் கொல்லப்பட்டனர். In addition, 251 were abducted by Hamas hostage to the Gaza tip.
 
-இதையடுத்து, ஹமாஸ் மீது இஸ்ரேல் போர் அறிவித்து காசா முனையில் தீவிர தாக்குதல் நடத்தி வருகிறது. இந்த தாக்குதலில் பெண்கள் மற்றும் குழந்தைகள் உட்பட 66 ஆயிரத்திற்கும் மேற்பட்ட பாலஸ்தீன மக்கள் கொல்லப்பட்டு உள்ளனர். ஹமாஸிடம் உள்ள பணயக் கைதிகளில் பலரை இஸ்ரேல் ஒப்பந்த அடிப்படையிலும், இராணுவ நடவடிக்கை மூலமும் மீட்டுள்ளது.
+In the meantime, Israel declared a war on Hamas and launched an intense attack on the Gaza tip. More than 66 thousand Palestinian people, including women and children, have been killed in the attack. Israel has rescued many of the hostage in Hamas on a contract basis and military action.
 
-பணயக் கைதிகள் அனைவரையும் மீட்டு, ஹமாஸ் அமைப்பை முழுவதுமாக அழிக்கும் வரை போர்நிறுத்தம் ஏற்படாது என இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு சூளுரைத்தார். இந்த சூழலில், காசா போரை முடிவுக்கு கொண்டு வரும் வகையில், அமெரிக்க ஜனாதிபதி டிரம்ப் தலைமையில் மத்தியஸ்தம் செய்யும் முயற்சிகள் தொடர்ந்து மேற்கொள்ளப்பட்டு வருகின்றன.
+Israeli Prime Minister Benjamin Netanyahu has said that a ceasefire will not occur until the Hamas is completely destroyed by all the hostages.. In this context, efforts are being made by US President Trump to end the Gaza War.
+
+Meanwhile, Trump presented a 20 -feature plan to end the Gaza War. It is said that Netanyahu has agreed to the project. Hamas said it was considering it as Hamas movement was pressured to accept Trump's compromise plan.
 
 ...
 
 [Data](articles/d1aebe8e.json)
+
+[Extended Data](ext_articles/d1aebe8e.ext.json)
 
 ---
 
@@ -105,21 +181,23 @@ The Police Media Division stated that he was found in the possession of the susp
 
 ---
 
-### பிரான்சில் கடும் பொருளாதார நெருக்கடி: நாடு தழுவிய வேலைநிறுத்தம் - ஈபிள் கோபுரம் மூடல்!
+### Strong economic crisis in France: nationwide strike - Eiffel Tower Closure!
 
 *2025-10-04 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226857) · `ta`
 
-பொருளாதார நெருக்கடியைச் சமாளிக்கும் விதமாக பிரான்ஸ் அரசாங்கம் வரவு செலவுத் திட்ட செலவினங்களைக் குறைத்தது. சுகாதாரம் மற்றும் கல்வி போன்ற அத்தியாவசியத் துறைகளுக்குக் குறைவான நிதி ஒதுக்கப்பட்டதால், இதற்கு எதிர்ப்பு தெரிவித்து மக்கள் போராட்டத்தில் குதித்தனர்.
+French government reduced budget spending to deal with economic crisis. The people jumped into the protest in protest of the lack of funds for the essential sectors such as health and education.
 
-இந்தப் போராட்டங்கள் தீவிரமடைந்த சூழலில், நாட்டின் புதிய பிரதமராக செபாஸ்டியன் லெகோர்னு நியமிக்கப்பட்டார். எனினும், இவரது நியமனம் போராட்டக்காரர்களை மேலும் தூண்டியது. இதன் விளைவாக, போராட்டக்காரர்கள் 'அனைத்தையும் தடுப்போம்' (Block Everything) என்ற இயக்கத்தைத் தொடங்கி, நாடு தழுவிய வேலைநிறுத்தப் போராட்டத்துக்கு அழைப்பு விடுத்தனர்.
+In the context of these protests, Sebastian Legorn was appointed as the country's new prime minister. However, his appointment further stirred the protesters. As a result, the protesters began the 'Block Everything' movement and called for a nationwide strike.
 
-அழைப்பை ஏற்று, தலைநகர் பாரீஸ் உள்ளிட்ட பிரான்ஸின் முக்கிய நகரங்களில் 85 ஆயிரத்துக்கும் மேற்பட்ட போராட்டக்காரர்கள் திரண்டனர். இந்த வேலைநிறுத்தம் காரணமாக ரயில் மற்றும் பொதுப் போக்குவரத்துச் சேவைகள் பாதிக்கப்பட்டன.
+Accepting the invitation, more than 85 thousand protesters gathered in major cities of France, including the capital Paris. இந்த வேலைநிறுத்தம் காரணமாக ரயில் மற்றும் பொதுப் போக்குவரத்துச் சேவைகள் பாதிக்கப்பட்டன.
 
-போராட்டத்தின் எதிரொலியாக, உலகப் புகழ்பெற்ற சுற்றுலாத் தலமான ஈபிள் கோபுரம் மூடப்பட்டது. கோபுர நிர்வாகத்தின் பணியாளர்களும் வேலைநிறுத்தத்தில் பங்கேற்றதால், கோபுரம் திறக்கப்படவில்லை.
+As a result of the struggle, the Eiffel Tower, the world -renowned tourist destination, closed. The tower was not opened as the tower management staff also participated in the strike.
 
 ...
 
 [Data](articles/58fb649b.json)
+
+[Extended Data](ext_articles/58fb649b.ext.json)
 
 ---
 
@@ -136,6 +214,28 @@ He said that after the final session of the Western Provincial Advisory on the 8
 [Data](articles/0be2b96b.json)
 
 [Extended Data](ext_articles/0be2b96b.ext.json)
+
+---
+
+### Mother's mother filed a petition in the court!
+
+*2025-10-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226856) · `ta`
+
+It has been reported that the mother of the underworld gang of underworld gang, "Kehelbattara Padme", who is currently in police detention, has filed a writ petition in the Court of Appeal.
+
+The writ petition is illegal to keep Kehelbatara Padme in police custody. The petition has been ordered to order Kehelbatara Padme to be taken from the Criminal Investigation Department elsewhere while in police detention.
+
+Considering this, the Magistrate has ordered the writ petition to be heard on the 23rd of this month.
+
+In Indonesia, the underworld gang, including six people, including "Kehelbattara Padme", "Commando Salinda" and "Panadura Nilanga", were arrested on August 27 during a special roundup carried out by the Criminal Investigation Department and the Indonesia Police.
+
+The wife of the arrested underworld gang "Pako Saman" was sent to the Katunayake airport on August 29 and was arrested by the Criminal Investigation Department officials and kept under police custody.
+
+...
+
+[Data](articles/d186914b.json)
+
+[Extended Data](ext_articles/d186914b.ext.json)
 
 ---
 
@@ -167,75 +267,85 @@ Many officials involved in these corruption and irregularities have not yet impl
 
 ---
 
-### போதைப்பொருள் தொடர்பான தகவல்களை வழங்க புதிய தொலைபேசி இலக்கங்கள் அறிமுகம் - பொலிஸ்
+### Introduction of new telephone numbers to provide drug -related information - police
 
 *2025-10-04 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226852) · `ta`
 
-நாட்டின் பல பகுதிகளிலும் ஹெரோயின், ஐஸ், கொக்கேயின் மற்றும் கஞ்சா உள்ளிட்ட போதைப்பொருட்களின் பரவல் குறித்து பொலிஸாருக்கு நேரடி தகவல்களை வழங்குவதற்காக புதிய தொலைபேசி இலக்கங்கள் அறிமுகப்படுத்தப்பட்டுள்ளதாக பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+New telephone numbers have been introduced in many parts of the country to provide direct information to the police on the spread of drugs including heroin, ice, cocaine and cannabis, the police headquarters said.
 
-ஒவ்வொரு மாகாணங்களுக்கும் பொறுப்பான சிரேஸ்ட பொலிஸ்மா அதிபர்களின் தொலைபேசி இலக்கங்கள் முன்னதாக, ஊடகங்களுக்கு வெளியிடப்பட்டன.
+Earlier, the telephone numbers of Senior Police Principals responsible for each provinces were published to the media.
 
-சிரேஸ்ட பொலிஸ்மா அதிபர்களின் கீழ் உள்ள மாவட்ட பொலிஸ்மா அதிபர்கள் மற்றும் சிரேஸ்ட பொலிஸ் கண்காணிப்பாளர்களின் தொலைபேசி இலக்கங்களும் நேற்று வெள்ளிக்கிழமை (03) வெளியிடப்பட்டுள்ளன.
+The telephone numbers of the District Police Principals and Senior Police Superintendents under the Senior Police Principals have also been released yesterday (03).
 
-அவற்றிற்கு தொடர்பினை ஏற்படுத்தி, போதைப்பொருள் தொடர்பான தகவல்களை பொதுமக்கள் வழங்கலாம் என பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+The police media unit said that the public can provide information on drugs.
 
-போதைப்பொருள் அச்சுறுத்தலை ஒழிப்பதில் பொதுமக்களின் ஆதரவு பெரிதும் பாராட்டப்படுவதாகவும், பொதுமக்களால் வழங்கப்படும் தகவல்களின் ரகசியத்தன்மையைப் பாதுகாக்க இலங்கை பொலிஸ் பாடுபடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+It is said that the public's support for the eradication of drug threat is greatly appreciated and the Sri Lankan police will strive to protect the confidentiality of the public information.
 
 ◼️
 
 [Data](articles/31bef03d.json)
 
+[Extended Data](ext_articles/31bef03d.ext.json)
+
 ---
 
-### யாழ்ப்பாணப் பல்கலைக்கழக கலைப்பீடத்தின் ஐந்தாவது இளங்கலைமாணி ஆய்வு மாநாடு
+### Fifth undergraduate research conference of the University of Jaffna
 
 *2025-10-04 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226849) · `ta`
 
-யாழ்ப்பாணப் பல்கலைக்கழக கலைப்பீடத்தின் ஐந்தாவது இளங்கலைமாணி ஆய்வு மாநாடு எதிர்வரும் 08.10.2025 புதன்கிழமை நடைபெறவிருக்கின்றது.
+The Fifth undergraduate research conference of the University of Jaffna will be held on Wednesday 08.10.2025.
 
-பல்கலைக்கழக கைலாசபதி கலையரங்கில் காலை 9 மணிக்கு ஆரம்பமாகவிருக்கும் இந்த ஆய்வுமாநாட்டின் முதன்மை விருந்தினராக பல்கலைக்கழகத் துணைவேந்தர் பேராசிரியர் சி.சிறிசற்குணராஜா கலந்து சிறப்பிக்கவுள்ளார்.
+The Vice Chancellor of the University, Professor C. Sirisakkunaraja, will be the chief guest at the University Kailasapathi Gallery at 9 am.
 
-இலங்கை திறந்த பல்கலைக்கழகத்தின் சமூக விஞ்ஞானத்துறை ஓய்வுநிலைப் பேராசிரியர் எஸ். சந்திரபோஸ் திறப்புரையினை ஆற்றவுள்ளார்.
+Professor of Social Sciences of Sri Lanka Open University. Chandra Bose will play the opening.
 
-பல்கலைக்கழகங்களின் பிரதான பணிகளில் ஒன்றாக இருப்பது ஆய்வுச் செயன்முறையாகும். பல்கலைக்கழக ஆசிரியர்கள் மட்டுமின்றி மாணவர்களும் கல்விசார் ஆய்வுகளில் சிரத்தையுடன் ஈடுபட வேண்டும் எனும் எதிர்பார்ப்பு அண்மைக்காலமாக அதிகரித்து வருகின்றது.
+The process of being one of the main tasks of universities is the study process. The expectation that not only university teachers but also students should engage in academic studies has been increasing in recent years.
 
 அதற்கமைய, பல்கலைக்கழக மாணவர்களும் பல்வேறு தடங்களில்  தமது ஆய்வு நாட்டத்தைக் காண்பித்து வருகிறார்கள்.
 
-அந்தவகையில், கலைப்பீடத்தின் இளம் கலைமாணி ஆய்வு மாநாடு கடந்த நான்கு வருடங்களாக மிகச் சிறப்பாக நடைபெற்றுவந்தது.
+In that respect, the young Kalamani Research Conference of the Artist has been a very well held for the past four years.
+
+The fifth conference, which is being held this year, is organized in 16 inspections with the theme of "Knowledge to strengthen and strengthen changes."
 
 ...
 
 [Data](articles/8df1187e.json)
 
+[Extended Data](ext_articles/8df1187e.ext.json)
+
 ---
 
-### அரச வங்கிகளில் நிலவும் பிரச்சனைகளுக்கு எதிராக யாழ்ப்பாணத்தில் தீப்பந்த போராட்டம்!
+### Jaffna firefighters against problems in state banks
 
 *2025-10-04 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226851) · `ta`
 
-யாழ்ப்பாணம் வைத்தியசாலை வீதியில் உள்ள இலங்கை வங்கி வடபிராந்திய காரியாலத்துக்கு முன்பாக குறித்த போராட்டம் நேற்று வெள்ளிக்கிழமை(03) இரவு 7 மணியளவில் இலங்கை வங்கி ஊழியர் சங்கத்தின் ஏற்பாட்டில் இடம்பெற்றது.
+The protest was held at the Ceylon Bank Employees Union at 7 pm yesterday (03) at 7 pm.
 
-அரச வங்கிகளின் சட்டத் திருத்தங்களினூடாக, வங்கி தனியார் மயப்படுத்தலை நோக்கி செல்லவுள்ளதாக போராட்டக்காரர்கள் இதன்போது குற்றஞ்சாட்டியுள்ளனர்.
+The protesters have accused the bank of going to privatization through the amendments of state banks.
 
 ◼️
 
 [Data](articles/6e4a04b3.json)
 
+[Extended Data](ext_articles/6e4a04b3.ext.json)
+
 ---
 
-### புத்தளத்தில் இடம்பெற்ற வாகன விபத்தில் இளைஞன் பலி!
+### Youth killed in vehicle accident
 
 *2025-10-04 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226848) · `ta`
 
-புத்தளம் பொலிஸ் பிரிவுக்குட்பட்ட புத்தளம் - ஒக்கம்பிட்டிய பிரதான வீதியில் இடம்பெற்ற வாகன விபத்தில் இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
+A youth was killed in a vehicle accident on the Puttalam -Okampitiya main road under the Puttalam Police Division.
 
-ஒக்கம்பிட்டியவிலிருந்து புத்தளம் நோக்கிச் சென்ற மோட்டார் சைக்கிள், கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி ஒரு பாறையில் மோதியதில் இந்த விபத்து நேர்ந்துள்ளது.
+The accident occurred when a motorcycle traveling from Okampitiya to Puttalam lost control and crashed into a rock.
 
-இந்த விபத்தில் மோட்டார் சைக்கிளின் செலுத்துனரும் பின்புறத்தில் பயணித்த ஒருவரும் பலத்த காயமடைந்து புத்தளம் வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+The motorcycle driver and a passenger in the back were seriously injured and admitted to the Puttalam hospital.
 
 ◼️
 
 [Data](articles/cc60edbb.json)
+
+[Extended Data](ext_articles/cc60edbb.ext.json)
 
 ---
 
@@ -1980,89 +2090,5 @@ The government's policy is to do nothing to promote the tourism industry.
 [Data](articles/8299cb17.json)
 
 [Extended Data](ext_articles/8299cb17.ext.json)
-
----
-
-### '' No action will be reversed '
-
-*2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/1-680712) · `si`
-
-President Anura Kumara Dissanayake said that the government has taken over the responsibility of recovering the country's collapsed economy and has taken over the responsibility of recovery.
-
-The President emphasized that the government has not taken steps to end the black governance wearing the black governance wearing the black management with drug trafficking and weapons.
-
-The President made this observation addressing the philanthropy of historical fedees in Kandy this afternoon.
-
-The President said that the Maha Sangha had a major role in the Maha Sangha was given a major role in the public.
-
-The President also pointed out that the Ananda Leader of Narawampana, who is known as Dadurgees and Scientists, the Language of Narawampana.
-
-The President also pointed out that the government's objectives to launch a national movement to eliminate the drug disaster.
-
-The government's policy is to do nothing to promote the tourism industry.
-
-...
-
-[Data](articles/19f1fa01.json)
-
-[Extended Data](ext_articles/19f1fa01.ext.json)
-
----
-
-### Aditya Madhavan's 'Aders' will be released in November
-
-*2025-10-03 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226829) · `ta`
-
-The film crew has released a special photo of the film 'Adars', starring the hero of the new actor Aditya Madhavan - the classic police officer - will be released in November.
-
-Aditya Madhavan, Gauri Kishan, Anju Kurien, 'Mundasupatti' Ramadas, Jagan, Harish Peradi, Vinod Sagar, R. Many people including Sundarrajan have played.
-
-Jibran Vaiboda has composed the film, which is being recorded by Aravind Singh. The film is being produced as a medical crime thriller and produced by Grand Pictures.
-
-All the tasks of the film are completed and waiting for the release. In this case, the film's burst look was attracted to great attention.. The film will be released worldwide on the seventh of November, the film crew said.
-
-◼️
-
-[Data](articles/5ee59083.json)
-
-[Extended Data](ext_articles/5ee59083.ext.json)
-
----
-
-### A review of the Government Fund Committee on Construction of Central Highway Kadawatha - Mirigama
-
-*2025-10-03 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226820) · `ta`
-
-The Government Fund Committee was investigated on the amount of debt expected to be obtained for the construction of the Kadawatha-Meerigama area of ​​the central highway.
-
-The matter was taken up for a discussion at a meeting of the Government Funds Committee on the 30th of last month under the leadership of MP Harsha de Silva.
-
-Officials of the Ministry of Transport, Highways, Port and Civil Services said that the length of the Central Highway is 36.475 kilometers of the Central Highway, which is being carried out, and to obtain US $ 500 million from China's Exim Bank to fulfill its construction.
-
-Accordingly, the committee had a long discussion on the interest rate on obtained at Exim Bank, China. The chairman of the committee, who commented here, questioned the authorities as to why the loan received at China's Exim Bank was 2.5% of the interest rate on the interest rate of 3.5%.
-
-...
-
-[Data](articles/4fa848f6.json)
-
-[Extended Data](ext_articles/4fa848f6.ext.json)
-
----
-
-### Court grants permission to detain and question ‘Beliatte Sana’
-
-*2025-10-03 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/113192/court-grants-permission-to-detain-and-question-beliatte-sana) · `en`
-
-The Tangalle Magistrate’s Court has granted permission for police to detain and interrogate Sanath Weerasinghe, also known as ‘Beliatta Sanaa,’ who was arrested in connection with the large haul of narcotics recently seized in Seenimodara, Tangalle.
-
-Accordingly, Additional Magistrate Vidura Weerakoon permitted police to detain and interrogate the suspect until October 9, police said.
-
-The suspect was arrested on October 1 by the Tangalle Divisional Crime Investigation Unit.
-
-◼️
-
-[Data](articles/411ec493.json)
-
-[Extended Data](ext_articles/411ec493.ext.json)
 
 ---

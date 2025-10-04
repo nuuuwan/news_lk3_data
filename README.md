@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 15:20:35**
+As of **2025-10-04 15:37:20**
 
 ## Newspaper Stats
 
-*Scraped **81,059** Articles*
+*Scraped **81,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
-adalk | 7,774
+adalk | 7,775
 adaderanalk | 10,428
 tamilmirrorlk | 12,044
 virakesarilk | 13,294
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,942
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,059 (100.0%) of 81,059 articles have been extended.
+81,059 (100.0%) of 81,060 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -280,6 +280,18 @@ Overall, the program performance is strong. The government is committed to the o
 [Data](articles/735f49d2.json)
 
 [Extended Data](ext_articles/735f49d2.ext.json)
+
+---
+
+### කාන්තා ලෝක කුසලානයේ ශ්‍රී ලංකාව සහභාගී වන තවත් තරගයක් අද
+
+*2025-10-04 12:20:01* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තා-ලෝක-කුසලානයේ-ශ්‍රී-ලංකාව-සහභාගී-වන-තවත්-තරගයක්-අද/11-418906) · `si`
+
+2025 කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහභාගී වන තවත් තරගයක් අද (04දා) පැවැත්වේ.
+
+◼️
+
+[Data](articles/60eb6d72.json)
 
 ---
 
@@ -2032,25 +2044,5 @@ He emphasizes that a note of its Truth Social Media Status should be agreed at 2
 [Data](articles/0c63af98.json)
 
 [Extended Data](ext_articles/0c63af98.ext.json)
-
----
-
-### The first student in the game in Jaffna jumps from the floor!
-
-*2025-10-03 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226834) · `ta`
-
-A student at Uduvil Women's College, Jaffna, has been injured in the 2nd floor of a student who has been left in a sport.. The incident took place on Thursday (02).
-
-A 14 -year -old student from Mullaitivu has been staying at the Uduvil Ladies College and has been staying at the hostel for the past one year.
-
-In this case, he has participated in a game. Thus his classmates were away from him. As a result of this, the student jumped down the second floor of the hostel and was injured.
-
-When the Chunnakam police were investigating the matter, the student said this in her affidavit. The injured student is receiving treatment at the hospital.
-
-◼️
-
-[Data](articles/b6e97c8e.json)
-
-[Extended Data](ext_articles/b6e97c8e.ext.json)
 
 ---

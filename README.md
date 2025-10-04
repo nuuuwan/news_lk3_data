@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 02:06:14**
+As of **2025-10-05 02:37:20**
 
 ## Newspaper Stats
 
-*Scraped **81,172** Articles*
+*Scraped **81,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,61 @@ adalk | 7,782
 adaderanalk | 10,441
 tamilmirrorlk | 12,049
 virakesarilk | 13,336
-adaderanasinhalalk | 13,957
+adaderanasinhalalk | 13,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,172 (100.0%) of 81,172 articles have been extended.
+81,174 (100.0%) of 81,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### Minister Saroja Paulraj leaves the 68th Commonwealth Heads
+
+*2025-10-04 23:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215349) · `si`
+
+Minister Sarja Paulraj is due to leave the country tomorrow (05) to attend the 68th Commonwealth Parliamentary Conference.
+
+The Commonwealth Parliamentary Association organizes annually organizing the Commonwealth Parliamentary Association with the aim of discussing global parliamentary and political issues annually from tomorrow to the Barbados Branch of Babados Branch.
+
+The Members of the Commonwealth countries are participating in the women's former opposition to the Sri Lankan Parliament and the General Secretary General of Parliament.
+
+Minister Saroja Saroja Saroja Saroja Saroja Saroja Savitri Ukraine and the group will leave for the island tomorrow (05).
+
+◼️
+
+[Data](articles/c9b2f986.json)
+
+[Extended Data](ext_articles/c9b2f986.ext.json)
+
+---
+
+### Two new coaches to SLC team
+
+*2025-10-04 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215348) · `si`
+
+Sri Lanka Cricket (SLC) Two new coaches were appointed to Sri Lanka Cricket Team this afternoon.
+
+Accordingly, Julian Wood has been appointed as the new batting coach.
+
+He is due to be in the post for a year, effective month.
+
+Renee Ferdinand has been appointed as the spinner coach.
+
+The appointment by the SLC has said that the appointment has been carried out on September 30 to two years.
+
+Media Release - slcm202590 - New coaching appointments (1) by poornima
+
+◼️
+
+[Data](articles/1046f3e0.json)
+
+[Extended Data](ext_articles/1046f3e0.ext.json)
+
+---
 
 ### Magnitude 6 earthquake strikes east coast of Honshu, Japan
 
@@ -1962,39 +2006,5 @@ The pension of former President Ranasinghe Premadasa and all other facilities ha
 [Data](articles/6df01cf1.json)
 
 [Extended Data](ext_articles/6df01cf1.ext.json)
-
----
-
-### Chandrika left the bungalow
-
-*2025-10-04 13:44:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/චනදරකත-බගලවන-ඉවතවය/101-680726) · `si`
-
-හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මියද ඉදිරි සති දෙක තුන ඇතුළතදී කොළඹ රජයේ බංගලාවෙන් ඉවත්වී නගරයේම කුලී නිවසක පදිංචියට යෑමට නියමිතය
-
-The former President's secretary told Lankadeepa that Mrs. Chandrika Bandaranaike Kumaratunga was in illustrations.
-
-Former Presidential Facilities Removal Bill was passed in Parliament recently. Thus, all the facilities were lost other than the pension of former presidents.
-
-The pension of former President Ranasinghe Premadasa and all other facilities have lost all other facilities after the passage of other facilities.
-
-◼️
-
-[Data](articles/487fa998.json)
-
-[Extended Data](ext_articles/487fa998.ext.json)
-
----
-
-### Former President Mahinda Rajapaksa Returns Bulletproof Vehicle
-
-*2025-10-04 13:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/former-president-mahinda-rajapaksa-returns-bulletproof-vehicle) · `en`
-
-COLOMBO (News 1st); Media Spokesperson of Former President Mahinda Rajapaksa Attorney Manoj Gamage said that the bulletproof vehicle used by Former President Mahinda Rajapakse has been handed over to the government. The spokesperson noted that the vehicle was returned in line with the Act pertaining to removing certain entitlements of former presidents as per the announcement by The Presidential Secretariat in line with the Act on the removal of entitlements of former presidents.Attorney Manoj Gamage said that discussions are expected with relevant officials, including the Defence Minister, regarding vehicles needed for the transport of security personnel, ensuring the continued protection of the Former President Mahinda Rajapaksa.
-
-◼️
-
-[Data](articles/be3badf4.json)
-
-[Extended Data](ext_articles/be3badf4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 07:04:43**
+As of **2025-10-04 07:43:28**
 
 ## Newspaper Stats
 
-*Scraped **80,979** Articles*
+*Scraped **80,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,60 +18,130 @@ economynextcom | 4,774
 islandlk | 4,884
 dailyftlk | 5,664
 adalk | 7,771
-adaderanalk | 10,420
-tamilmirrorlk | 12,037
-virakesarilk | 13,280
+adaderanalk | 10,421
+tamilmirrorlk | 12,038
+virakesarilk | 13,281
 adaderanasinhalalk | 13,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,977 (100.0%) of 80,979 articles have been extended.
+80,979 (100.0%) of 80,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### ට්‍රම්ප්ගේ අවසන් නිවේදනයෙන් කොටසක් හමාස් පිළිගනියි
+### ’நாங்கள் எல்லோரும் ஒற்றுமையாக உள்ளோம்’
+
+*2025-10-04 07:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-எல்லோரும்-ஒற்றுமையாக-உள்ளோம்/175-365699) · `ta`
+
+அரசியலமைப்பில்  இருக்கும் 13 ஆவது திருத்தத்தை அமுல் செய்ய வேண்டும் என்று கேட்பதிலே சைக்கிள் கட்சியைத் தவிர நாங்கள் எல்லோரும் ஒற்றுமையாகத்தானே இருக்கின்றோம் என்று இலங்கைத் தமிழரசுக் கட்சியின் தலைவர் சி.வி.கே.சிவஞானம் தெரிவித்தார்.
+
+யாழ்ப்பாணத்தில் உள்ள தனது அலுவலகத்தில் நேற்று ஊடக சந்திப்பை நடத்திய போதே சி.வி.கே.சிவஞானம் இதனைக் கூறினார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஈழத் தமிழர் விடயத்தில் சர்வதேசம் அதீத அக்கறை எடுக்க வேண்டும் என்று சொன்னாலும் அதில் மிக முக்கியமான பணி இந்தியாவுக்கு உண்டு. இந்திய - இலங்கை ஒப்பந்தம் ஊடாக அந்தப் பொறுப்புக் கூட இந்தியாவுக்கு இருக்கின்றது.
+
+ஆனால், பொதுவாகவே இந்தியத் தரப்பு ஒரு விடயத்தைத் திரும்பத் திரும்ப சொல்லி வருகின்றது. அது என்னவென்றால் ஒற்றுமைப்பட வேண்டும் என்பதுதான். அண்மையில் கூட இலங்கைக்கான இந்தியத் தூதுவருடனான சந்திப்பின் போது கூட நாங்கள் ஒற்றுமைப்பட வேண்டும் என்றுதான் அவர்  சொல்லியிருக்கின்றார்.
+
+...
+
+[Data](articles/db576916.json)
+
+---
+
+### இன்றைய வானிலை
+
+*2025-10-04 06:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226843) · `ta`
+
+நாட்டில் மாலை வேளையில் இடியுடன் கூடிய மழை செய்வதற்கு வளிமண்டலவியல் நிலைமைகள் உகந்ததாகக் காணப்படுகின்றது என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+பலத்த காற்றுடன் கூடிய கனத்த மழை அத்துடன் இடியுடன் கூடிய பாரிய மின்னல் தாக்கங்கள் ஏற்படக்கூடும்.
+
+ஆனபடியினால் பொதுமக்கள் இவற்றினால் ஏற்படுகின்ற இழப்புக்களை அல்லது சேதங்களை தவிர்த்துக் கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை மேற்கொள்ளுமாறு கேட்டுக் கொள்ளப்படுகின்றனர்.
+
+நாட்டின் பெரும்பாலான பகுதிகளின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+கிழக்கு, மத்திய,வடமத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களில்  100 mm இலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+நாட்டை சூழ உள்ள  கடல் பிராந்தியங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 30 - 40 km வேகத்தில் தென்மேற்குத் திசையில் இருந்து காற்று வீசும்.
+
+...
+
+[Data](articles/136621c0.json)
+
+---
+
+### Israel says it is preparing to implement the ‘first stage of Trump’s plan to end the war in Gaza
+
+*2025-10-04 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113198/israel-says-it-is-preparing-to-implement-the-first-stage-of-trumps-plan-to-end-the-war-in-gaza) · `en`
+
+Israeli Prime Minister Prime Minister Benjamin Netanyahu said Israel is preparing to implement the “first stage” of U.S. President Donald Trump’s plan to end the war in Gaza.
+
+A statement from the prime minister’s office Saturday said Israel would work “in full cooperation” with Trump to end the war in accordance with its principles.
+
+THIS IS A BREAKING NEWS UPDATE. AP’s earlier story follows below.
+
+U.S. President Donald Trump on Friday ordered Israel to stop bombing the Gaza Strip after Hamas said it had accepted some elements of his plan to end the nearly two-year war and return all the remaining hostages taken in the Oct. 7, 2023, attack.
+
+Hamas said it was willing to release the hostages and hand over power to other Palestinians, but that other aspects of the plan require further consultations among Palestinians. Senior Hamas officials suggested there were still major disagreements that required further negotiations.
+
+...
+
+[Data](articles/925f4ba5.json)
+
+---
+
+### Hamas acknowledges part of Trump's final announcement
 
 *2025-10-04 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215318) · `si`
 
-ජනධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් හමාස් සංවිධානයට අවසන් නිවේදනය නිකුත් කිරීමෙන් පසු ගාසා තීරය සඳහා අමෙරිකානු සාම සැලැස්ම අර්ධ වශයෙන් පිළිගැනීමට හමාස් සංවිධානය එකඟ වී තිබේ.
+The Hamas has agreed to partially recognize the American peace plan for the Hamas's final announcement by the President of Hamas.
 
-ඒ අනුව ගාසා තීරයට බෝම්බ හෙලීම නවත්වන ලෙස ට්‍රම්ප් ජනාධිපතිවරයා ඊශ්‍රායලයට නියෝග කර ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+Accordingly, the Tampura President has ordered Israel to stop the bombing of Gaza.
 
-ඊට ප්‍රතිචාර ලෙස ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහුගේ කාර්යාලය කෙටි නිවේදනයක් නිකුත්කරමින් සඳහන්කර ඇත්තේ සාමය සඳහා වූ 'ට්‍රම්ප්ගේ සැලැස්ම' වෙනුවෙන් තම රට එක්සත් ජනපදය සමග කටයුතු කරන බවය.
+In response, Israeli Prime Minister Benjamin Netanyahu has issued a brief announcement with his country with the US 'plan' for peace.
 
-අමෙරිකානු ජනාධිපතිවරයා ඊයේ (3) සිය Truth අවකාශයේ සටහනක් තබමින් හමාස් සංවිධානය අනතුරු අඟවා සිටියේ, එළඹෙන ඉරිදා (හෙට) ග්‍රිනිජ් වේලාවෙන් 22පැයට, එනම් වොෂින්ටන් වේලාවෙන් ප.ව. 6 වනවිට තම සාම සැලැස්මට එකඟවිය යුතු බවය.
+Hamas warned the US note yesterday (3).. By 6am, his peace plan should agree.
 
-මෙම සැලැස්ම මගින් වහාම සටන් නවත්වා හමාස් සංවිධානය විසින් රඳවාගෙන සිටින ඊශ්‍රායල ප්‍රාණ ඇපකරුවන් 20 දෙනෙකු නිදහස්කිරීමට මෙන්ම මියගිය බවට සැලකෙන ප්‍රාණ ඇපකරුවන්ගේ දේහයන් පැය 72ක් භාරදීමට යෝජනා කර තිබුණි.
+The plan stopped immediately and proposed to hand over 72 Israeli hostages, which are considered to be released as well as the Hamas detention.
 
-ඒ වෙනුවෙන් ඊශ්‍රායලය භාරයේ සිටි ගාසා වැසියන් සිය ගණනක් හුවමාරු කරගැනීමට විය.
+It was to share hundreds of Gaza in the custody of Israel.
+
+Trump had further stated that action would be taken against Hamas if they could not come to the agreement.
+
+Accordingly, the Hamas has accepted the rest of the hostages of October 7, 2023, after the year 2 years of war.
 
 ...
 
 [Data](articles/461fb1ce.json)
 
+[Extended Data](ext_articles/461fb1ce.ext.json)
+
 ---
 
-### අද පස්වරුවේ මිලිමීටර් 100 ඉක්මවන තද වැසි
+### Heavy rains exceeding 100 mm present this afternoon
 
 *2025-10-04 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215317) · `si`
 
-අද (04) සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Meteorological Department states that there is a positive atmospheric conditions for thundershowers during the evening today (04).
 
-අද දිනය සඳහා නවතම කාලගුණ අනාවැකිය නිකුත් කරමින් එම දෙපාර්තමේන්තුව ඒ බව පවසයි.
+The Department says that the latest weather forecast for today's day.
 
-එබැවින් ඇති වියහැකි තද වැසි, තද සුළං සහ ප්‍රබල අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම්දෙයි.
+Therefore, people are notable to take necessary steps to reduce the damages caused by strong winds, strong winds and strong lightning.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල අද පස්වරු 1න් පමණ පසු තැනින් තැන  වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+Showers or thundershowers will occur at several places in many parts of the island.
 
-උතුරුමැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මිලිමීටර් 100ට වැඩි තද වැසි ඇති විය හැකිය.
+In some places in the North Central, East, Central and Uva provinces, there will be heavy showers over 100 mm.
 
 ◼️
 
 [Data](articles/6f10572a.json)
+
+[Extended Data](ext_articles/6f10572a.ext.json)
 
 ---
 
@@ -2032,65 +2102,5 @@ The participants said that no plan to destroy the livelihoods of the people and 
 [Data](articles/e71a46e3.json)
 
 [Extended Data](ext_articles/e71a46e3.ext.json)
-
----
-
-### Motorcycle accident
-
-*2025-10-03 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226810) · `ta`
-
-The motorcycle driver died on the spot when a motorcycle accidentally tried to overtake the plowing machine at the Vilavadi Junction area of ​​the Ampara District Sawalakkady Police Division last night.
-
-Police said that a motorcycle that tried to overtake the right side of the Vilavadi junction in the Vilavadi junction area, the police said.
-
-The 20 -year -old man from 33 areas of the Samanthurai Mountaineer of the motorcycle who died in the accident.
-
-The 23 -year -old plowing engine from the Samanthurai Malayadikram has been arrested by the Sawalakkady police and seized the tillage machine.
-
-On the orders of the Judge JP A. Ranjit Kumar, the Sakitam Police Station Transport Officer Sakitham Sakitham Sudden Death Investigation Officer AH Al Jawahir was conducting investigations.
-
-He was handed over to the relatives after the death investigations, claiming that he had died due to a head injury.
-
-...
-
-[Data](articles/841b4ba7.json)
-
-[Extended Data](ext_articles/841b4ba7.ext.json)
-
----
-
-### First Look of 'Amaram' released by actor Sasikumar
-
-*2025-10-03 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226808) · `ta`
-
-The first look of 'Amaram' has been released as debutant Rajan Tejaswar's story.. Sasikumar, a multi -person personality in the Tamil film industry, has posted this on his website and congratulated the film crew.
-
-Rajan Tejaswar, Ira Agarwal, Sai Deena, George Marian and many others have starred in the upcoming film 'Amaram' directed by director Thiruvarul Krishnan.. The film, which has been recorded by Parathkumar Gopinath, has composed the film.
-
-The film is being prepared as a thriller on behalf of Divya Shetri Films.. R. Rajan produces. Nirmala Rajan presents the film.
-
-All the shooting of the film is completed and the post -shooting technical work has been going on and the final stage is reached.. In this case, the film's Burst Look has been released. It has impressed the fans.
-
-◼️
-
-[Data](articles/9cfef64c.json)
-
-[Extended Data](ext_articles/9cfef64c.ext.json)
-
----
-
-### ජනපති මල්වතු - අස්ගිරි මහා නා හිමිවරුන් බැහැ දකී
-
-*2025-10-03 16:05:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-මලවත-අසගර-මහ-න-හමවරන-බහ-දක/1-680708) · `si`
-
-President Anura Kumara Dissanayake visited the Malwatte and Asgiri Maha Naradas today (03).
-
-First, the President arrived at the Malwathu Maha Viharaya, the Weligatha Sumanta Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte massacre.
-
-◼️
-
-[Data](articles/fa49b5d3.json)
-
-[Extended Data](ext_articles/fa49b5d3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 08:11:02**
+As of **2025-10-04 07:04:43**
 
 ## Newspaper Stats
 
-*Scraped **80,995** Articles*
+*Scraped **80,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,243 +15,63 @@ lankadeepalk | 740
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
-islandlk | 4,892
+islandlk | 4,884
 dailyftlk | 5,664
 adalk | 7,771
-adaderanalk | 10,422
-tamilmirrorlk | 12,038
-virakesarilk | 13,284
-adaderanasinhalalk | 13,932
+adaderanalk | 10,420
+tamilmirrorlk | 12,037
+virakesarilk | 13,280
+adaderanasinhalalk | 13,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,982 (100.0%) of 80,995 articles have been extended.
+80,977 (100.0%) of 80,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### குண்டுவீச்சை உடனடியாக நிறுத்துமாறு இஸ்ரேலுக்கு டிரம்ப் உத்தரவு -  "இன்று ஒரு பெரிய நாள்" என்றும் தெரிவிப்பு !
-
-*2025-10-04 07:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/226847) · `ta`
-
-காசா போர்நிறுத்த ஒப்பந்தம் தொடர்பான ஹமாஸின் அறிக்கையைத் தொடர்ந்து, அமெரிக்க அதிபர் டொனால்ட் டிரம்ப் இஸ்ரேலுக்கு ஒரு முக்கிய வேண்டுகோளை விடுத்துள்ளார்.
-
-"ஹமாஸ் வெளியிட்ட அறிக்கையின் அடிப்படையில், அவர்கள் ஒரு நீடித்த அமைதிக்கு தயாராக இருப்பதாக நான் நம்புகிறேன். இஸ்ரேல் உடனடியாக காசா மீதான குண்டுவீச்சை நிறுத்த வேண்டும், அப்போதுதான் பணயக்கைதிகளை பாதுகாப்பாகவும் விரைவாகவும் வெளியேற்ற முடியும். இப்போது, குண்டுவீசுவது மிகவும் ஆபத்தானது," என்று டிரம்ப் தனது சமூக ஊடகத்தில் பதிவிட்டுள்ளார்.
-
-இது குறித்து அவர் வெளியிட்ட ஒரு வீடியோவில், இன்று "ஒரு பெரிய நாள்" என்று குறிப்பிட்டதுடன், "எல்லாம் எப்படி முடியும் என்று பார்ப்போம்" என்றார்.
-
-காஸாவில் போர் முடிவுக்கு வருவது "மிக நெருக்கமாக" உள்ளது என்றும், சம்பந்தப்பட்ட அனைத்து தரப்பினரும் "நியாயமாக நடத்தப்படுவார்கள்" என்றும் அவர் நம்பிக்கை தெரிவித்தார்.
-
-"தீர்க்கப்பட வேண்டிய விவரங்கள் குறித்து நாங்கள் ஏற்கனவே விவாதித்து வருகிறோம். இது காசாவைப் பற்றியது மட்டுமல்ல, மத்தியகிழக்கில் நீண்டகாலமாக எதிர்பார்க்கப்படும் அமைதியைப் பற்றியது," என்றும் அவர் வலியுறுத்தினார்.
-
-...
-
-[Data](articles/f7214e11.json)
-
----
-
-### காசா போர் நிறுத்த முயற்சி : டிரம்ப் திட்டத்திற்கு ஹமாஸ் நிபந்தனையுடன் ஒப்புதல் !
-
-*2025-10-04 07:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/226846) · `ta`
-
-அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் முன்மொழிந்த காசா போர் நிறுத்த ஒப்பந்தத் திட்டத்திற்கு ஹமாஸ் அமைப்பு தனது பதிலை அதிகாரப்பூர்வமாக அளித்துள்ளது. இது மத்திய கிழக்கில் அமைதியை ஏற்படுத்துவதற்கான ஒரு முக்கிய நகர்வாகப் பார்க்கப்படுகிறது.
-
-காசாவில் நடக்கும் தாக்குதல்களையும், போரையும் உடனடியாக முடிவுக்குக் கொண்டுவர விரும்புவதாக ஹமாஸ் அறிவித்துள்ளது.
-
-டிரம்பின் முயற்சி மற்றும் மத்தியஸ்தம் செய்யும் அரபு, இஸ்லாமிய நாடுகளின் முயற்சிகளையும் ஹமாஸ் பாராட்டியுள்ளது.
-
-இஸ்ரேலியப் பணயக்கைதிகள் (உயிருடன் இருப்பவர்கள் மற்றும் இறந்தவர்களின் உடல்கள்) அனைவரையும் விடுவிக்க ஹமாஸ் தயாராக உள்ளது. இதற்குப் பதிலாக, இஸ்ரேலியச் சிறைகளில் உள்ள பாலஸ்தீனியர்கள் விடுவிக்கப்பட வேண்டும். இது தொடர்பாக மத்தியஸ்தர்கள் மூலம் உடனடிப் பேச்சுவார்த்தைக்குத் தயார் என்றும் ஹமாஸ் தெரிவித்துள்ளது.
-
-காசாவின் நிர்வாகத்தை பாலஸ்தீன ஒருமித்தத்துடன் அமைக்கப்பட்ட ஒரு சுயாதீனமான, தொழில்நுட்ப வல்லுநர்கள் குழுவிடம் ஒப்படைக்க ஹமாஸ் ஒப்புக்கொள்கிறது. இதற்கு அரபு மற்றும் இஸ்லாமிய நாடுகளின் ஆதரவு அவசியம் என்றும் கூறியுள்ளது.
-
-...
-
-[Data](articles/8b36a717.json)
-
----
-
-### தெஹிவளையில் கொலை முயற்சி, தாக்குதல் நடவடிக்கைகளில் ஈடுபட்ட ஒருவர் கைது!
-
-*2025-10-04 07:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226844) · `ta`
-
-தெஹிவளை பொலிஸ் பிரிவிற்குட்பட்ட தெஹிவளை ரயில் நிலையம் அருகே, கொலை முயற்சி மற்றும் தாக்குதல் நடவடிக்கைகளில் ஈடுபட்ட சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-மோட்டார் சைக்கிளில் வந்த, சந்தேக நபர் குறித்து, கல்கிஸ்ஸை பிரதேச குற்றப் புலனாய்வுப் பிரிவு விசாரணைகளை மேற்கொண்டிருந்தது.
-
-அதன்படி, கல்கிஸ்ஸை பிரதேச குற்றப் புலனாய்வுப் பிரிவு அதிகாரிகள், மேற்கொண்ட தேடுதல் நடவடிக்கைகளுக்கமைய, தெஹிவளை பஸ் நிலையத்திற்கு அருகில், வெள்ளிக்கிழமை(03) சந்தேக நபரை கைது செய்துள்ளனர்.
-
-இந்த சந்தேக நபர் கல்கிஸ்ஸை, சீவலி வீதியைச் சேர்ந்த 34 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/8ca8e11e.json)
-
----
-
-### හැටන් නගරයේ පදික වේදිකාවේ වෙළෙඳාම් තහනම්
-
-*2025-10-04 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215319) · `si`
-
-එළැඹෙන දීපාවලී උත්සව සමය වෙනුවෙන් හැටන් දික්ඔය නගර සභාවේ තාවකාලිකව ව්‍යාපාර කටයුතු කිරිමට වෙන්කළ ඉඩම් කැබලි 146ක් ටෙන්ඩර් කිරීමෙන් නගර සභාවට රුපියල් ලක්ෂ 36 (රු. 36,68000)කට වැඩි ආදායමක් උපයාගැනීමට හැකිව තිබේ.
-
-අදාළ ටෙන්ඩර් කැඳවීම පිළිබඳ අදහස් දක්වමින් හැටන් දික්ඔය නගර සභාවේ සභාපති අසෝක කරුණාරත්න මහතා ඊයේ (03) මේ බව පැවසීය.
-
-දීපාවලී උත්සව සමයේ දී හැටන් නගරය තුළ පදික වේදිකාවේ වෙළදාම් කිරිමට අවසර නොමැති අතර, ඒ සඳහා හැටන් තරු චතුරශ්‍රයේ සහ ශක්ති ශාලාව අසළ භූමිය ව්‍යාපාර කටයුතු කිරිම සඳහා වෙන්කර ඇත.
-
-එම ඉඩම් කැබලි සඳහා රජයේ තක්සේරු දෙපාර්තමේන්තුවෙන් වාර්ථාවක් කැඳවා ටෙන්ඩර් පත් කැඳවා තිබේ.
-
-එසේ කැදවූ ටෙන්ඩර් පත් ඊයේ නගර සභාවේ ලේකම් ශ්‍යාමලී රූපසිංහ, මුදල් කමිටුවේ මන්ත්‍රීවරුන්ගේ අධීක්ෂණය යටතේ විවෘත කිරිමෙන් අනතුරුව මෙම ආදායම උපයා ගැනීමට හැකිව ඇත.
-
-මෙම ටෙන්ඩර් පත් මගින් තාවකාලිකව ව්‍යාපාර කටයුතු කිරිමට ඉඩම් ලබාගත් අයගෙන් එම ටෙන්ඩර් මුදලට අමතරව කැලි කසල බද්ද සහ ව්‍යාපාරික බද්දක් අයකර ඇති අතර, නගර සභාව විසින් ලබාදෙන නිර්ණායක යටතේ ව්‍යාපාර කටයුතු සිදු කල යුතුය.
-
-◼️
-
-[Data](articles/82653952.json)
-
----
-
-### We are all united
-
-*2025-10-04 07:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-எல்லோரும்-ஒற்றுமையாக-உள்ளோம்/175-365699) · `ta`
-
-Sri Lanka Tamil National Alliance (TNA) leader CVK Sivagnanam said that we are all united except the bicycle party to implement the 13th Amendment to the Constitution.
-
-CVK Sivagnanam said this while holding a media briefing yesterday at his office in Jaffna. As he further stated,
-
-India has the most important task, though the international community is concerned about the Eelam Tamils.. India is also responsible for the Indo -Sri Lanka Agreement.
-
-But, in general, the Indian side is repeating a subject. That is what is to be united. He has said that we should be united even during a recent meeting with the Indian Ambassador to Sri Lanka.
-
-We are really united. For example, we are all united to fully implement the 13th Amendment. Then why does India say to come together?
-
-So we are united. Needless to say, as the gift of Vishwamitra. Even though we are all together, the bicycle party disagrees. Let them not agree.
-
-...
-
-[Data](articles/db576916.json)
-
-[Extended Data](ext_articles/db576916.ext.json)
-
----
-
-### The weather today
-
-*2025-10-04 06:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226843) · `ta`
-
-The Department of Meteorology has said that the conditions of the atmospheric conditions are optimal for thunderstorms in the evening.
-
-Heavy rainfall with strong winds and thunderstorms can cause massive lightning.
-
-Therefore, the public is asked to take necessary precautions to avoid the losses or damage caused by them.
-
-Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
-
-Heavy rainfall is expected in some parts of the Eastern, Central, North Central and Uva provinces.
-
-Showers or thunderstorms can occur in many parts of the sea regions around the country in the evening or night.
-
-Winds from the southwest at 30 - 40 km per hour in the sea regions.
-
-But in the event of thunderstorms, strong winds are blowing and the sea regions are temporarily in a very turbulent.
-
-◼️
-
-[Data](articles/136621c0.json)
-
-[Extended Data](ext_articles/136621c0.ext.json)
-
----
-
-### Heavy rainfall expected in several parts of the island
-
-*2025-10-04 06:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113199/heavy-rainfall-expected-in-several-parts-of-the-island) · `en`
-
-The Meteorology Department states that atmospheric conditions are favorable for thunderstorms in the evening.
-
-Therefore, the general public is advised to take adequate precautions to minimize damage caused by heavy rain, strong winds, and lightning during thundershowers.
-
-Showers or thundershowers will occur at several places in most parts of the island after 1.00 p.m, the Met. Department said.
-
-Heavy showers above 100 mm are likely at some places in the North Central, Eastern, Central, and Uva provinces.
-
-◼️
-
-[Data](articles/7d7b1540.json)
-
----
-
-### Israel says it is preparing to implement the ‘first stage of Trump’s plan to end the war in Gaza
-
-*2025-10-04 06:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113198/israel-says-it-is-preparing-to-implement-the-first-stage-of-trumps-plan-to-end-the-war-in-gaza) · `en`
-
-Israeli Prime Minister Prime Minister Benjamin Netanyahu said Israel is preparing to implement the “first stage” of U.S. President Donald Trump’s plan to end the war in Gaza.
-
-A statement from the prime minister’s office Saturday said Israel would work “in full cooperation” with Trump to end the war in accordance with its principles.
-
-THIS IS A BREAKING NEWS UPDATE. AP’s earlier story follows below.
-
-U.S. President Donald Trump on Friday ordered Israel to stop bombing the Gaza Strip after Hamas said it had accepted some elements of his plan to end the nearly two-year war and return all the remaining hostages taken in the Oct. 7, 2023, attack.
-
-Hamas said it was willing to release the hostages and hand over power to other Palestinians, but that other aspects of the plan require further consultations among Palestinians. Senior Hamas officials suggested there were still major disagreements that required further negotiations.
-
-...
-
-[Data](articles/925f4ba5.json)
-
-[Extended Data](ext_articles/925f4ba5.ext.json)
-
----
-
-### Hamas acknowledges part of Trump's final announcement
+### ට්‍රම්ප්ගේ අවසන් නිවේදනයෙන් කොටසක් හමාස් පිළිගනියි
 
 *2025-10-04 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215318) · `si`
 
-The Hamas has agreed to partially recognize the American peace plan for the Hamas's final announcement by the President of Hamas.
+ජනධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් හමාස් සංවිධානයට අවසන් නිවේදනය නිකුත් කිරීමෙන් පසු ගාසා තීරය සඳහා අමෙරිකානු සාම සැලැස්ම අර්ධ වශයෙන් පිළිගැනීමට හමාස් සංවිධානය එකඟ වී තිබේ.
 
-Accordingly, the Tampura President has ordered Israel to stop the bombing of Gaza.
+ඒ අනුව ගාසා තීරයට බෝම්බ හෙලීම නවත්වන ලෙස ට්‍රම්ප් ජනාධිපතිවරයා ඊශ්‍රායලයට නියෝග කර ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
 
-In response, Israeli Prime Minister Benjamin Netanyahu has issued a brief announcement with his country with the US 'plan' for peace.
+ඊට ප්‍රතිචාර ලෙස ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහුගේ කාර්යාලය කෙටි නිවේදනයක් නිකුත්කරමින් සඳහන්කර ඇත්තේ සාමය සඳහා වූ 'ට්‍රම්ප්ගේ සැලැස්ම' වෙනුවෙන් තම රට එක්සත් ජනපදය සමග කටයුතු කරන බවය.
 
-Hamas warned the US note yesterday (3).. By 6am, his peace plan should agree.
+අමෙරිකානු ජනාධිපතිවරයා ඊයේ (3) සිය Truth අවකාශයේ සටහනක් තබමින් හමාස් සංවිධානය අනතුරු අඟවා සිටියේ, එළඹෙන ඉරිදා (හෙට) ග්‍රිනිජ් වේලාවෙන් 22පැයට, එනම් වොෂින්ටන් වේලාවෙන් ප.ව. 6 වනවිට තම සාම සැලැස්මට එකඟවිය යුතු බවය.
 
-The plan stopped immediately and proposed to hand over 72 Israeli hostages, which are considered to be released as well as the Hamas detention.
+මෙම සැලැස්ම මගින් වහාම සටන් නවත්වා හමාස් සංවිධානය විසින් රඳවාගෙන සිටින ඊශ්‍රායල ප්‍රාණ ඇපකරුවන් 20 දෙනෙකු නිදහස්කිරීමට මෙන්ම මියගිය බවට සැලකෙන ප්‍රාණ ඇපකරුවන්ගේ දේහයන් පැය 72ක් භාරදීමට යෝජනා කර තිබුණි.
 
-It was to share hundreds of Gaza in the custody of Israel.
-
-Trump had further stated that action would be taken against Hamas if they could not come to the agreement.
-
-Accordingly, the Hamas has accepted the rest of the hostages of October 7, 2023, after the year 2 years of war.
+ඒ වෙනුවෙන් ඊශ්‍රායලය භාරයේ සිටි ගාසා වැසියන් සිය ගණනක් හුවමාරු කරගැනීමට විය.
 
 ...
 
 [Data](articles/461fb1ce.json)
 
-[Extended Data](ext_articles/461fb1ce.ext.json)
-
 ---
 
-### Heavy rains exceeding 100 mm present this afternoon
+### අද පස්වරුවේ මිලිමීටර් 100 ඉක්මවන තද වැසි
 
 *2025-10-04 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215317) · `si`
 
-The Meteorological Department states that there is a positive atmospheric conditions for thundershowers during the evening today (04).
+අද (04) සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
 
-The Department says that the latest weather forecast for today's day.
+අද දිනය සඳහා නවතම කාලගුණ අනාවැකිය නිකුත් කරමින් එම දෙපාර්තමේන්තුව ඒ බව පවසයි.
 
-Therefore, people are notable to take necessary steps to reduce the damages caused by strong winds, strong winds and strong lightning.
+එබැවින් ඇති වියහැකි තද වැසි, තද සුළං සහ ප්‍රබල අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම්දෙයි.
 
-Showers or thundershowers will occur at several places in many parts of the island.
+දිවයිනේ බොහෝ ප්‍රදේශවල අද පස්වරු 1න් පමණ පසු තැනින් තැන  වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
 
-In some places in the North Central, East, Central and Uva provinces, there will be heavy showers over 100 mm.
+උතුරුමැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මිලිමීටර් 100ට වැඩි තද වැසි ඇති විය හැකිය.
 
 ◼️
 
 [Data](articles/6f10572a.json)
-
-[Extended Data](ext_articles/6f10572a.ext.json)
 
 ---
 
@@ -858,62 +678,6 @@ Trump had said on Tuesday he would give Hamas three to four days to accept the 2
 [Data](articles/4ffd810d.json)
 
 [Extended Data](ext_articles/4ffd810d.ext.json)
-
----
-
-### ‘Activ8 Asia named a Great Place to Work Again’
-
-*2025-10-03 20:55:00* · [`islandlk`](http://island.lk/activ8-asia-named-a-great-place-to-work-again/) · `en`
-
-Thrilled to announce that Activ8 Asia has been certified as a Great Place to Work® for the second consecutive year. This isn’t about a logo on our wall — it’s about the people who make Activ8 Asia a place where ideas, care and reliability come together every single day.
-
-This achievement belongs to our team. At Activ8 Asia we believe great work comes from great culture: transparent leadership that listens, flexible ways of working that respect life outside the desk, mentorship and cross-team learning that turn curiosity into growth, and everyday rituals — small celebrations, peer recognition, and honest feedback — that build trust. Our people bring energy, creativity and a service-first mindset into everything they do, and that’s what our clients feel in every interaction.
-
-...
-
-[Data](articles/2c03f3b2.json)
-
----
-
-### ‘The Routes we Take’ wraps up in Batticaloa, and heads to Ahangama for the final event
-
-*2025-10-03 20:55:00* · [`islandlk`](http://island.lk/the-routes-we-take-wraps-up-in-batticaloa-and-heads-to-ahangama-for-the-final-event/) · `en`
-
-The Routes We Take, a pioneering initiative by the European Union National Institutes for Culture (EUNIC) Sri Lanka, Europe’s network of national cultural institutes and organisations, with 36 members from all EU Member States and associate countries and Good Life X, completed its Batticaloa activities on the 12-13th September at Dreamspace Academy. The project will make its fourth and final stop in the Southern Province (Ahangama) on the 11th of October.
-
-The event in Batticaloa was curated in partnership with the Dreamspace Academy – a social enterprise tackling local socio-economic and environmental challenges through challenge-based learning, grassroots innovation and impact venture building. The event featured a public exhibition, live musical performances, interactive workshops, experimental learning sessions and the capacity building workshops facilitated by experts, Anurangi Mendis of Hope Market and Poornima Jayasinghe of COCA Symbiosis.
-
-...
-
-[Data](articles/075cf5fc.json)
-
----
-
-### LOLC Insurance elevates leadership with strategic appointments
-
-*2025-10-03 20:54:00* · [`islandlk`](http://island.lk/lolc-insurance-elevates-leadership-with-strategic-appointments/) · `en`
-
-LOLC Insurance announces two significant leadership appointments aimed at driving sustainable growth, strengthening governance, and enhancing operational excellence across its companies, LOLC Life Assurance Ltd and LOLC General Insurance PLC. These appointments mark a new chapter for both companies, bringing a fresh leadership perspective and renewed energy to their strategic direction.
-
-Effective 29th September 2025, Chandana L. Aluthgama has been appointed Executive Director and Principal Officer of LOLC Life Assurance Ltd and Director of LOLC General Insurance PLC, while Kithsiri Gunawardena has been appointed Director of LOLC Life Assurance Ltd, further to his role as Chairman of LOLC General Insurance PLC. With this experienced leadership, LOLC Insurance reinforces its strategic vision and readiness to drive continued success in the Sri Lankan insurance industry.
-
-...
-
-[Data](articles/42ad4148.json)
-
----
-
-### Inspiring Sri Lanka’s children to dream big on World Children’s Day
-
-*2025-10-03 20:53:00* · [`islandlk`](http://island.lk/inspiring-sri-lankas-children-to-dream-big-on-world-childrens-day/) · `en`
-
-In celebration of World Children’s Day on 1 October, SriLankan Airlines facilitated the flight experience for a special programme organised by Derana TV and Unilever, named ‘Derana – Signal Ahasin Gamanak’ for children selected through a creative competition from every province across Sri Lanka. Through this unique initiative, 250 youngsters aged 12 to 15 were gifted the opportunity to enjoy a nearly two-hour flight aboard a SriLankan Airlines Airbus A330-300, with breath-taking views of Sri Lanka’s stunning landscapes from the sky. For many, it was their first flying experience.
-
-The children were warmly welcomed at Bandaranaike International Airport and taken on a guided tour by SriLankan Airlines’ Ground Handling team and Airport and Aviation Services (AASL), where they experienced the full international travel process, from check-in to boarding, before taking off to the skies with SriLankan Airlines.
-
-...
-
-[Data](articles/ef14b942.json)
 
 ---
 
@@ -2080,5 +1844,253 @@ More 29.1% of people have been consumed in the past 12 months. This information 
 [Data](articles/3602159f.json)
 
 [Extended Data](ext_articles/3602159f.ext.json)
+
+---
+
+### Registration is resumed 3 jobs in the Israeli construction industry
+
+*2025-10-03 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215300) · `si`
+
+Sri Lanka Bureau of Foreign Employment has taken steps to provide two additional days to register eligible workers for employment subsidiaries in the Eastern State.
+
+General Renovation Work, Ceramic Tiling Work
+
+Boys between 25-45 years of age can apply for this, and the job category should have a good experience.
+
+Previously, none of the people who have not served in Israel before and non-residents of Israel can apply to all countries with more than 3 years.
+
+Also, there is only a good physical and emotional individuals to serve under the climate and weather conditions in Israel.
+
+Applicants should have 10 years of schooling and have a basic English knowledge.
+
+Also, people who have been submitted to the final skills test under the above job categories and failed it cannot apply.
+
+Eligibility workers receive a 63-month contract period and the overtime allowance for a monthly salary of US $ 1520 per month.
+
+...
+
+[Data](articles/10966f94.json)
+
+[Extended Data](ext_articles/10966f94.ext.json)
+
+---
+
+### Provincial Council Election - Government should take steps to address legal issues - Elections Commission
+
+*2025-10-03 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/226806) · `ta`
+
+It is welcome that political parties have paid special attention to the provincial council election. The Chairman of the Elections Commission, RMAL, urges the government to pay special attention to the basic legal issue in conducting the provincial council election and put forward a solution to the solution quickly.. Ratnayake said.
+
+We are determined to hold an indefinitely delayed provincial council election. There is a legal problem whether the provincial council election is held in the old electoral system or the new electoral system.
+
+The Supreme Court has repeatedly stated that the legal issue in the provincial council election can be resolved through Parliament.. We continue to mention that all political parties should work together to address this legal problem.
+
+The government should create an environment where the provincial council election is held quickly. He said the election could be held quickly if the legal problem is solved.
+
+◼️
+
+[Data](articles/26391d8d.json)
+
+[Extended Data](ext_articles/26391d8d.ext.json)
+
+---
+
+### President meets Chief Prelates of Malwathu and Asgiri Chapters
+
+*2025-10-03 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/113189/president-meets-chief-prelates-of-malwathu-and-asgiri-chapters) · `en`
+
+President Anura Kumara Dissanayake called on the Chief Prelates of the Malwathu and Asgiri Chapters today (03) and received their blessings.
+
+Upon arriving at the Malwathu Vihara, the President paid his respects to the Most Venerable Thibbatuwawe Sri Sumangala Thero, the Mahanayake of the Malwathu Chapter and engaged in a brief discussion and received blessings, the President’s Media Division (PMD) said.
+
+Subsequently, the President visited the Asgiri Vihara and called on the Most Venerable Warakagoda Sri Gnanarathana Thero, the Mahanayake of the Asgiri Chapter, inquiring after his wellbeing engaged in a brief conversation, the statement added.
+
+◼️
+
+[Data](articles/0f7ac64b.json)
+
+[Extended Data](ext_articles/0f7ac64b.ext.json)
+
+---
+
+### More than 1800 million funds for the Eastern Provincial Council - Kandaswamy Prabhu
+
+*2025-10-03 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226798) · `ta`
+
+We have allocated more than 1800 million funds to the Eastern Provincial Council in our government budget. Kandaswamy Prabhu, a member of the National People's Power and Divisional Coordinating Committee, said that the funds have been distributed to the departments of the Eastern Provincial Council, prioritizing the requirements and developing development projects.
+
+Initial work for the Rehabilitation Program of the Thumbangeni State Veterinary Hospital in Batticaloa District, Batticaloa District under the Provincial Special Fund Allocation Program, inaugurated on Friday (3).
+
+Kandaswamy Prabhu was the chief guest at the event.. He further stated that
+
+Funds have been made to the farmers and the new projects and the new projects.. In the Batticaloa district, the farmers are continuously struggling for 700 days.
+
+...
+
+[Data](articles/9c803a8f.json)
+
+[Extended Data](ext_articles/9c803a8f.ext.json)
+
+---
+
+### Dhruv Vikram's updates of 'Bisan- Kalamadan'
+
+*2025-10-03 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226814) · `ta`
+
+Actor Dhruv Vikram is the hero of the story - the fourth song 'Thennathu ..' featured in the movie 'Baisan Kalamadan' starring the southern soil of Tamil Nadu and the lyrical video for the song.
+
+Dhruv Vikram, Pasupathi, Amir, Lal, Anupama Parameswaran, Rajisha Vijayan, Aruvi Perumal. K. Niwas K.. Prasanna has composed the music.
+
+The film, focusing on the biography of the oppressed race athlete, is co -produced by Ablaus Entertainment and Neelam Studios.
+
+The film will be released in the film House from the 17th of this month on the eve of Diwali, and the fourth song, which begins with the 'Southnadu Nation Village ...'. The song is written by songwriter Mari Selvaraj and sung by playback singer Satyan.
+
+The song 'Deekkuluthi ..' is a record of ten million viewers, 'Rekku Rekku' .. Six million viewers and 'Seeni Kalu ..' are continuing to achieve five million viewers.
+
+...
+
+[Data](articles/cd387ba1.json)
+
+[Extended Data](ext_articles/cd387ba1.ext.json)
+
+---
+
+### Black control should be finalized for the security of legal rule
+
+*2025-10-03 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215299) · `si`
+
+The President promised the Maha Sangha at the Historical Magazine's historical weddan.
+
+The President was speaking at the Syam Narampanayake Anunalian Anunali, Ven
+
+He also said that the society has requires a new core system.
+
+"There is a government established in the constitution. Although not so powerful, there is black control with all the elements of the surface government. There is a lawy of the police. There is a group of policemen to black control. Now we are in dual governments. One of the government elected by the people. The other black governance created by the elite. We must make a decision, and we are either black in the black rule that either there was anything that had happened.. Otherwise, we all want to go to black control and leave the constitutional governance. Or black control should be finalized for the security of legal rule. I think our government was selected that time. The monks have funded and said that the steps were not taken back. "
+
+...
+
+[Data](articles/e49f4792.json)
+
+[Extended Data](ext_articles/e49f4792.ext.json)
+
+---
+
+### The President meets Malwathu, Asgiriya Maha Nayaka Thera
+
+*2025-10-03 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226812) · `ta`
+
+President Anura Kumara Dissanayake, who met the Asgiriya and Malwatu Division Mahanayaka Thera this afternoon, was blessed with them.
+
+First, the President went to the Malwatu Maha Vihara, Malwatu Maha Nayaka Thera, who met Sri Sumangala Thera, the most worshiped, and blessed him and had a conversation with him for a while.
+
+Later, President Anuragumara Dissanayake, who went to the Asgiriya Maha Vihara, heard about the welfare of Sri Gnanaratne Thera, the great worshiper of the great worshiper, and engaged in a short conversation with him.
+
+◼️
+
+[Data](articles/757b7ebf.json)
+
+[Extended Data](ext_articles/757b7ebf.ext.json)
+
+---
+
+### New program to monitor performance of each state institution for one year: COPE Chairman
+
+*2025-10-03 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113188/new-program-to-monitor-performance-of-each-state-institution-for-one-year-cope-chairman-) · `en`
+
+A special awareness workshop was held in Parliament for the heads of 457 state institutions that fall under the oversight of the Committee on Public Enterprises (COPE).
+
+Around 700 individuals, including chairpersons, director generals, chief executive officers, or other senior officials from these institutions, were invited in three groups to participate in the workshop, the Parliament Secretariat said.
+
+This program was held on Thursday (02) under the patronage of Dr. Nishantha Samaraweera, Member of Parliament and Chairman of the COPE. Key speakers included Acting Auditor General G.H.D. Dharmapala; Director of the Department of Public Enterprises, K.V.C. Dilrukshi; Director of the National Budget Department, K.S.M. de Silva; Director of the Department of Management Services, M.A. Karunaratne; and R.K. Jayalath.
+
+...
+
+[Data](articles/76650fd7.json)
+
+[Extended Data](ext_articles/76650fd7.ext.json)
+
+---
+
+### Struggle in Batticaloa against development projects affecting people in the Northeast
+
+*2025-10-03 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226799) · `ta`
+
+A protest march was launched in Batticaloa today (3) against the implementation of plans that are reported to be affecting the people in the Eastern Province, including the Mannar Wind Project.
+
+Journalists at the Gandhi Park carried out this struggle together with the civil society organizations and public organizations of the Eastern Province.
+
+The struggle was carried out on the theme of “Stop development projects that affect the livelihood and natural balance of the people”.
+
+The protest was attended by civil society activists, representatives of public organizations and the public from the Batticaloa and Trincomalee districts.
+
+"Do you want to pluck the land of the people of Sri Lanka and provide it to foreign countries?" The protesters were carrying such words.
+
+The participants said that no plan to destroy the livelihoods of the people and the nature of the Northeast could not be allowed to be carried out in the Northeast.
+
+...
+
+[Data](articles/e71a46e3.json)
+
+[Extended Data](ext_articles/e71a46e3.ext.json)
+
+---
+
+### Motorcycle accident
+
+*2025-10-03 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226810) · `ta`
+
+The motorcycle driver died on the spot when a motorcycle accidentally tried to overtake the plowing machine at the Vilavadi Junction area of ​​the Ampara District Sawalakkady Police Division last night.
+
+Police said that a motorcycle that tried to overtake the right side of the Vilavadi junction in the Vilavadi junction area, the police said.
+
+The 20 -year -old man from 33 areas of the Samanthurai Mountaineer of the motorcycle who died in the accident.
+
+The 23 -year -old plowing engine from the Samanthurai Malayadikram has been arrested by the Sawalakkady police and seized the tillage machine.
+
+On the orders of the Judge JP A. Ranjit Kumar, the Sakitam Police Station Transport Officer Sakitham Sakitham Sudden Death Investigation Officer AH Al Jawahir was conducting investigations.
+
+He was handed over to the relatives after the death investigations, claiming that he had died due to a head injury.
+
+...
+
+[Data](articles/841b4ba7.json)
+
+[Extended Data](ext_articles/841b4ba7.ext.json)
+
+---
+
+### First Look of 'Amaram' released by actor Sasikumar
+
+*2025-10-03 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226808) · `ta`
+
+The first look of 'Amaram' has been released as debutant Rajan Tejaswar's story.. Sasikumar, a multi -person personality in the Tamil film industry, has posted this on his website and congratulated the film crew.
+
+Rajan Tejaswar, Ira Agarwal, Sai Deena, George Marian and many others have starred in the upcoming film 'Amaram' directed by director Thiruvarul Krishnan.. The film, which has been recorded by Parathkumar Gopinath, has composed the film.
+
+The film is being prepared as a thriller on behalf of Divya Shetri Films.. R. Rajan produces. Nirmala Rajan presents the film.
+
+All the shooting of the film is completed and the post -shooting technical work has been going on and the final stage is reached.. In this case, the film's Burst Look has been released. It has impressed the fans.
+
+◼️
+
+[Data](articles/9cfef64c.json)
+
+[Extended Data](ext_articles/9cfef64c.ext.json)
+
+---
+
+### ජනපති මල්වතු - අස්ගිරි මහා නා හිමිවරුන් බැහැ දකී
+
+*2025-10-03 16:05:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-මලවත-අසගර-මහ-න-හමවරන-බහ-දක/1-680708) · `si`
+
+President Anura Kumara Dissanayake visited the Malwatte and Asgiri Maha Naradas today (03).
+
+First, the President arrived at the Malwathu Maha Viharaya, the Weligatha Sumanta Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte massacre.
+
+◼️
+
+[Data](articles/fa49b5d3.json)
+
+[Extended Data](ext_articles/fa49b5d3.ext.json)
 
 ---

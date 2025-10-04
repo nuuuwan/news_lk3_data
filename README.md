@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 16:52:17**
+As of **2025-10-04 17:06:12**
 
 ## Newspaper Stats
 
-*Scraped **81,095** Articles*
+*Scraped **81,096** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 587
+newsfirstlk | 588
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 lankadeepalk | 762
@@ -27,11 +27,33 @@ adaderanasinhalalk | 13,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,093 (100.0%) of 81,095 articles have been extended.
+81,093 (100.0%) of 81,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### #SriPOP - The Sound of a New Sri Lanka
+
+*2025-10-04 16:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sripop-the-sound-of-a-new-sri-lanka) · `en`
+
+In Stein Studios, in the outskirts of Colombo, a dancer moves as if the earth itself is breathing beneath her feet.
+
+It’s human — imperfectly perfect, like the heartbeat that drives it. A drum echoes, a synth sighs, and something ancient awakens.
+
+It’s not a beat born in a studio, nor a formula cooked up for virality.
+
+It’s a call — a return — to the rhythm that has always pulsed through this island’s soul.
+
+To understand #SriPop, you have to first understand the strange, beautiful chaos of Sri Lanka’s musical DNA.
+
+From the Portuguese-inspired baila that once drifted through coastal taverns, to the rabana circles of rural women who drum while they laugh and sing, to the Nada Bhera & Yak Bera— the ceremonial drumming that summons gods and courage alike — this island’s music has never been entertainment alone. It has always been spiritual architecture, a way of being, of remembering, of belonging.
+
+...
+
+[Data](articles/d15ff5b6.json)
+
+---
 
 ### අම්බලන්ගොඩ - ඇල්පිටිය ප්‍රධාන මාර්ගයේ යන රියදුරන්ට දැනුම්දීමක්
 
@@ -2038,33 +2060,5 @@ So we are united. Needless to say, as the gift of Vishwamitra. Even though we ar
 [Data](articles/db576916.json)
 
 [Extended Data](ext_articles/db576916.ext.json)
-
----
-
-### The weather today
-
-*2025-10-04 06:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226843) · `ta`
-
-The Department of Meteorology has said that the conditions of the atmospheric conditions are optimal for thunderstorms in the evening.
-
-Heavy rainfall with strong winds and thunderstorms can cause massive lightning.
-
-Therefore, the public is asked to take necessary precautions to avoid the losses or damage caused by them.
-
-Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
-
-Heavy rainfall is expected in some parts of the Eastern, Central, North Central and Uva provinces.
-
-Showers or thunderstorms can occur in many parts of the sea regions around the country in the evening or night.
-
-Winds from the southwest at 30 - 40 km per hour in the sea regions.
-
-But in the event of thunderstorms, strong winds are blowing and the sea regions are temporarily in a very turbulent.
-
-◼️
-
-[Data](articles/136621c0.json)
-
-[Extended Data](ext_articles/136621c0.ext.json)
 
 ---

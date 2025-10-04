@@ -1,37 +1,175 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 12:37:21**
+As of **2025-10-04 13:05:48**
 
 ## Newspaper Stats
 
-*Scraped **81,030** Articles*
+*Scraped **81,043** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 579
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 748
+lankadeepalk | 756
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
-adalk | 7,772
+adalk | 7,774
 adaderanalk | 10,428
 tamilmirrorlk | 12,042
 virakesarilk | 13,294
-adaderanasinhalalk | 13,935
+adaderanasinhalalk | 13,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,030 (100.0%) of 81,030 articles have been extended.
+81,042 (100.0%) of 81,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### A pronouncement of strong lightning
+
+*2025-10-04 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215327) · `si`
+
+The Department of Meteorology has issued an announcement in powerful lightning.
+
+The announcement will be valid until 11 pm today (04), the Met Department said.
+
+The Department of Meteorology states that there is an increase in lightning lightning in the Northern, North-Central, Uva provinces and Kurunegala districts.
+
+There may be temporary localized strong winds during thundershowers.
+
+The Meteorological Department urges the public to take necessary steps to minimize the damages caused by lightning accidents.
+
+◼️
+
+[Data](articles/f069492e.json)
+
+[Extended Data](ext_articles/f069492e.ext.json)
+
+---
+
+### Mahinda's bullet proof vehicle is handed over by the Secretary to the President
+
+*2025-10-04 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215326) · `si`
+
+The bullet proof was handed over to the safety of former President Mahinda Rajapaksa.
+
+Mr. President Mahinda Rajapaksa said a special statement in this connection, Mr. Manojj Gamage said that the vehicle was handed over by the company yesterday (3).
+
+The Secretary to the President said that after the operation of the Clearing (Removal of the Rights Act), the Secretary to the President said.
+
+He added that the security officer's travel vehicle was also handed over to the safety of Mr. Mahinda Rajapaksa.
+
+Accordingly, Manoj Gamage points out that the life of Mahinda Rajapaksa has been at risk.
+
+"We hope to restore the necessary vendor to the security of the government and the security heads of the Defense Secretary and the Defense Secretary," Manoj Gamage said.
+
+◼️
+
+[Data](articles/428cf9c8.json)
+
+[Extended Data](ext_articles/428cf9c8.ext.json)
+
+---
+
+### Two traders sold at a higher price
+
+*2025-10-04 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215325) · `si`
+
+The Kalutara and Panadura Magistrate Judicial have been ordered to pay a fine of Rs.
+
+Horana Magistrate also ordered to cast a fine of 5 kilograms of Rs.
+
+It is reported that these orders were issued by the Magistrate Court in the area yesterday (03).
+
+The Kalutara Magistrate's Court yesterday (03) was fined by a shop in the Nagoda area.
+
+Meanwhile, Panadura Magistrate's Court has ordered a kilo of Kratha Samba rice at Rs. 300.
+
+The Panadura Magistrate's Court has made this order on the 2st.
+
+◼️
+
+[Data](articles/cee49108.json)
+
+[Extended Data](ext_articles/cee49108.ext.json)
+
+---
+
+### Driver hospitalized after a lorry collided with train
+
+*2025-10-04 11:43:58* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලර-රථයක-දමරය-ගට-රයදර-රහලට/1-680725) · `si`
+
+A small lorry train operated from the Train by the Ahangama cultivation was rushed to the Karapitiya hospital with the injuries of the train.
+
+The lorry kiper to Beliatta from Maradana to Beliatta has hit the train to travel to Beliatta to Beliatta to Beliatta.
+
+The lorry was sitting out on the front seat and lived out and the driver was stuck in lorry. Later, along with the residents of the area, the driver had been sent to the Karapitiya Hospital.
+
+◼️
+
+[Data](articles/63bd0f16.json)
+
+[Extended Data](ext_articles/63bd0f16.ext.json)
+
+---
+
+### මැතිසබා  කැන්ටිමේ ’’සලාද’’  නවතී
+
+*2025-10-04 11:35:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතසබ-කනටම-සලද-නවත/1-680723) · `si`
+
+පාර්ලිමේන්තුවේ ආහාර වේලට සලාද කොළ එකතු කිරීම තාවකාලිකව  නතර වී ඇතැයි වාර්තා වේ
+
+පාර්ලිමේන්තු මුළුතැන්ගෙයි අපිරිසුදුතාව හේතුවෙන් සලාද කොළ අනුභව කිරීම නතර කළ බවට කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා කළ ප්‍රකාශයෙන් පසුව සලාද සකස් කිරීම මෙසේ නතර කර ඇත
+
+මේ සම්බන්ධයෙන් අදහස් දක්වන පාර්ලිමේන්තු සේවකයන් පවසන්නේ එම ප්‍රකාශය කළ දිනෙන් පසු දින සිට සලාද කොළ සැපයීම නතර කෙරුණු බවයි
+
+මේ අතර පාර්ලිමේන්තුවේ මුළුතැන්ගේ අඩුපාඩු නිවැරදි කිරීම සඳහා නිර්දේශ ඉදිරිපත් කිරීමට කතානායකවරයා විසින් විශේෂ කමිටුවක් පත් කරනු ලැබ ඇත. මෙම කමිටුවට එම මුළුතැන් ගේ භාර ප්‍රධානීන්ම පත්කිරීම සම්බන්ධයෙන් බොහෝ දෙනා නොසතුට පළ කරති.
+
+කතානායකවරයා  පසුගියදා පොළොන්නරුවේ පැවිදි රැස්වීමකදී ප්‍රකාශයක් කරමින් පැවසුවේ පාර්ලිමේන්තු මුළුතැන්ගේ ඉතාම අපිරිසුදු ස්ථානයක් බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ වාර්තාවෙන් පැහැදිලි වන බවයි.
+
+◼️
+
+[Data](articles/5019bbe6.json)
+
+---
+
+### Maithri demands
+
+*2025-10-04 11:33:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මතර-කල-ඉලලය/1-680722) · `si`
+
+Former President Maithripala Sirisena has requested the resignation from the house in Keppetipola Mawatha, Colombo.
+
+◼️
+
+[Data](articles/fc283b0a.json)
+
+[Extended Data](ext_articles/fc283b0a.ext.json)
+
+---
+
+### Man arrested for shooting in Dehiwala
+
+*2025-10-04 11:33:38* · [`adalk`](https://www.ada.lk/breaking_news/දෙහිවල-වෙඩි-තැබීමේ-සිද්ධියට-පුද්ගලයෙකු-අත්අඩංගුවට/11-418905) · `si`
+
+The police said that a person was arrested on suspicion of attempting to kill a shot in Dehiwala and Railway Station.
+
+The shooting at the Dehiwala Railway Station was severely injured on July 18.
+
+◼️
+
+[Data](articles/0b78851e.json)
+
+[Extended Data](ext_articles/0b78851e.ext.json)
+
+---
 
 ### US considers $1 Trump coin to mark 250th independence celebrations
 
@@ -241,6 +379,34 @@ The wife of the arrested underworld gang "Pako Saman" was sent to the Katunayake
 
 ### 500 crores in SLTB destroyed
 
+*2025-10-04 10:19:17* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හර-මගඩ-ලගමය-කට-500ක-වනසල/1-680721) · `si`
+
+The National Audit Office has issued a financial loss of Rs.
+
+According to the report, the purchase of goods had to pay Rs.
+
+The National Purchasiser has been summoned to buy the required requirements for the purchase of Rs. The Audit office says.
+
+Meanwhile, the cylinder boxes supplied to the Sri Lanka Transport Board a financial loss for nearly 100 million cylinder boxes in one hundred cylinders
+
+Meanwhile, it is said that the audit report to run from the Ruhuna Regional Office, the panel lost to over Rs.
+
+මණ්ඩලයට ග්‍රීස් හා ලිහිසි තෙල් මිලදී ගැනීමට 2023 වර්ෂයේදී රුපියල් කෝටි 104 කට වැඩි මුදලක්  වැය කර තිබූ බවත්  එහිදීද  ප්‍රසම්පාදන මාර්ගෝපදේශවලට පටහැනිව කටයුතු කර තිබූ බවත්  විගණන වාර්තාව පෙන්වා දෙයි.
+
+This information refers to the audit documentation for the Sri Lanka Transport Board 2023 Annual Report.
+
+Many officials involved in these corruption and irregularities have not yet implemented the law.
+
+◼️
+
+[Data](articles/86fd8715.json)
+
+[Extended Data](ext_articles/86fd8715.ext.json)
+
+---
+
+### 500 crores in SLTB destroyed
+
 *2025-10-04 10:19:17* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හර-මගඩ-ලගමය-කට-500ක-වනසල/101-680721) · `si`
 
 The National Audit Office has issued a financial loss of Rs.
@@ -360,6 +526,32 @@ In a drain near the old tea factory in the Bidakanda estate in Matale, a newborn
 [Data](articles/2033bce2.json)
 
 [Extended Data](ext_articles/2033bce2.ext.json)
+
+---
+
+### Provincial Elections April: Several parties work
+
+*2025-10-04 09:37:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පළත-ඡනදය-අපරල-මද-පකෂ-රසක-බරටම-වඩ/1-680720) · `si`
+
+The government expects to hold the provincial council election in April next year.
+
+A large number of political parties including the election for the election have already begun work to select candidates.
+
+Samagi-folk force was decided at a leader meeting held in a leader meeting last week to promote candidates for the provincial council election.
+
+When we inquired from Public Administrative Provincial Councils and Local Government Ruwan Senarath, he said that the government had no need to delay the provincial council election.
+
+He added that several legal obstacles have arisen and have begun to settle these obstacles.
+
+The end of the nine provincial councils has been under the control of governors for nearly ten years.
+
+මේ අතර පළාත් සභා මැතිවරණය ඉක්මනින්ම පවත්වන්නැයි  දේශපාලන පක්ෂ සහ සිවිල් සංවිධාන රජයෙන් දිගින් දිගටම ඉල්ලීම් කරමින් සිටී.
+
+...
+
+[Data](articles/31051165.json)
+
+[Extended Data](ext_articles/31051165.ext.json)
 
 ---
 
@@ -508,6 +700,26 @@ COLOMBO (News 1st); The Civil Aviation Authority announced that 22 additional te
 [Data](articles/16b8f32b.json)
 
 [Extended Data](ext_articles/16b8f32b.ext.json)
+
+---
+
+### The seven new laws that protect man from the robot
+
+*2025-10-04 08:42:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රබවන-මනස-රකනන-ගන-අලතම-නත-හත/1-680718) · `si`
+
+Chairman of the Attorney Communications, Data Protection and Technical Committee, said that in protecting the information from the Asian Pacific, the President of the Assia Pacific (LAWASIA) Sunil Abeyratne has arisen.
+
+You must have the security of personal information... The information about it cannot reveal nobody without permission. India's data protection is a fundamental right
+
+Different countries wanted to enact strict laws that protect privacy due to low cost of data. That is why the European countries introduced data regulations instead of data protection rights.
+
+No one can distort data. They need to provide the maximum security. There should always be transparency in data. If the personal data protection is violated, a country needs a legal system.. It works where the tool is trained. In other words, the artificial intelligence is regulated.
+
+...
+
+[Data](articles/165eb440.json)
+
+[Extended Data](ext_articles/165eb440.ext.json)
 
 ---
 
@@ -674,6 +886,22 @@ Initial investigations have revealed that the suspects were from Mannar, aged 21
 [Data](articles/beaab879.json)
 
 [Extended Data](ext_articles/beaab879.ext.json)
+
+---
+
+### Banana holds and interrogate
+
+*2025-10-04 07:57:20* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-සනා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-418904) · `si`
+
+The court was granted by the Court yesterday to hold a man who was arrested in Tangalle Saramodara, Tangalle's drug case.
+
+ඒ අනුව තංගල්ල වැඩබලන මහේස්ත්‍රාත් විදුර වීරකෝන් මහතා විසින් සැකකරු එළැඹෙන 09 වැනිදා දක්වා රඳවා ප්‍රශ්න කිරීම සඳහා පොලීසියට අවසර ලබා දී ඇති අතර බෙලිඅත්තේ සනා නැමැති මෙම අපරාධකරු තංගල්ල කොට්ඨාස අපරාධ විමර්ශන ඒකකය විසින් පසුගිය 01 වැනිදා අත්අඩංගුවට ගනු ලැබීය.්‍
+
+◼️
+
+[Data](articles/cecc1ea4.json)
+
+[Extended Data](ext_articles/cecc1ea4.ext.json)
 
 ---
 
@@ -1433,6 +1661,48 @@ The special operation was implemented in Balumamahara, Wattala, Mabala and Minuw
 
 ---
 
+### 33 suspended in Gampaha
+
+*2025-10-03 21:25:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ගමපහ-වහන-33කට-තහනම-නයග/1-680717) · `si`
+
+The Gampaha District Office and the Police were conducting a special operation to check traffic bugs in the district with the objective of minimizing road accidents.
+
+The special operation was implemented in Balumamahara, Wattala, Mabala and Minuwangoda, who were randomized and the deficiencies of the 31 heavy vehicles including passenger buses.
+
+◼️
+
+[Data](articles/2177beef.json)
+
+[Extended Data](ext_articles/2177beef.ext.json)
+
+---
+
+### Uncle visited a flower to jail for 12 years to jail
+
+*2025-10-03 21:23:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මල-කකළක-පරකළ-මම-වසර-12ක-හරට/1-680716) · `si`
+
+The 36-year-old girl who was carrying out serious sexually abusing bike girl, Homaratic Judge Navaratne Marasinghe was sentenced to 12 years.
+
+The High Court judge was sentenced to Rs. 25,000.
+
+The 3-year-old, the 13-helical aggrieved girl has been sentenced to Rs.
+
+The High Court Judge issued a statement that the complaint had been proven beyond fair suspicions, but if the suspect was not fault with faults, it was imposed on a serious punishment of this serious sexual abuse.
+
+The case was filed by the Attorney General against July 09, 2010 at Hokandara.
+
+The punishment of the complaint was repeated beyond the evaluation of a complaint that the complaint has been made under Article No. 16 of 1995, No.
+
+Senior State Counseling Shayin Weerasuriya appeared for the Attorney General.
+
+◼️
+
+[Data](articles/34cf783c.json)
+
+[Extended Data](ext_articles/34cf783c.ext.json)
+
+---
+
 ### Uncle visited a flower to jail for 12 years to jail
 
 *2025-10-03 21:23:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මල-කකළක-පරකළ-මම-වසර-12ක-හරට/101-680716) · `si`
@@ -1822,273 +2092,5 @@ The lawyer also said that all the investigations conducted by the Criminal Inspe
 [Data](articles/43fd4608.json)
 
 [Extended Data](ext_articles/43fd4608.ext.json)
-
----
-
-### Dr. Harini Amarasuriya Pledges Major Reforms to Strengthen Education System
-
-*2025-10-03 19:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/dr-harini-amarasuriya-pledges-major-reforms-to-strengthen-education-system) · `en`
-
-COLOMBO (News 1st);The Guru Prathibha Prabha 2025 awards ceremony in Colombo recognized 173 principals for their exceptional dedication to education. Prime Minister Dr. Harini Amaraseuriya emphasized that improving education quality requires addressing systemic weaknesses and supporting principals professionally, including fair salaries and career development.She highlighted plans to enhance teacher training, fill long-standing vacancies, digitize administration, and improve school infrastructure, ensuring all secondary schools have proper digital connections and facilities by year-end. While acknowledging that not all changes can happen immediately, the Prime Minister assured that these initiatives will be implemented swiftly to strengthen the education system.
-
-◼️
-
-[Data](articles/163f9c57.json)
-
-[Extended Data](ext_articles/163f9c57.ext.json)
-
----
-
-### CID Arrests Suspect Over Rs. 6 Billion Government Project Fraud
-
-*2025-10-03 19:19:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/cid-arrests-suspect-over-rs-6-billion-government-project-fraud) · `en`
-
-COLOMBO (News 1st);The Criminal Investigation Department (CID) has arrested a 44-year-old resident of Panadura for defrauding Rs. 6 Billion from a government project.Police said the suspect obtained the funds in 2019 for a fish feed production project under the Ministry of Agriculture. This amount represents 40 percent of the total project value.Investigations revealed that the suspect failed to implement any part of the project. Authorities are also probing the involvement of others who may have aided and abetted the fraud.
-
-◼️
-
-[Data](articles/a8be641a.json)
-
-[Extended Data](ext_articles/a8be641a.ext.json)
-
----
-
-### President Receives Blessings From Maha Nayake Theros Of Malwathu And Asgiri Chapters
-
-*2025-10-03 19:15:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/03/president-receives-blessings-from-maha-nayake-theros-of-malwathu-and-asgiri-chapters) · `en`
-
-COLOMBO (News 1st);President Anura Kumara Dissanayake met with the Maha Nayake theros of the Malwathu and Asgiri Chapters this afternoon and received their blessings.The President first visited the Malwatu Maha Viharaya, where he held a brief discussion with the Maha Nayake of the Malwatu Chapter, Most Venerable Thibbatuwawe Sri Sumangala Thero. He then visited the Asgiri Maha Viharaya and met with the Maha Nayake of the Asgiri Chapter, Most Venerable Warakagoda Sri Gnanarathana Thero.Meanwhile, the state ceremony to present credentials to the newly appointed Anunayake of the Asgiri Chapter of the Siam Sect, Most Venerable Narampanawe Ananda Thero, was held today at the Sri Dalada Maligawa under the patronage of President Dissanayake.At the ceremony, the President presented the Sannas Patra to Most Venerable Narampanawe Ananda Thero, officially appointing him as the new Anunayake of the Asgiri Chapter of the Siam Sect.
-
-◼️
-
-[Data](articles/4422faae.json)
-
-[Extended Data](ext_articles/4422faae.ext.json)
-
----
-
-### Bombs not exploded in the driveway!
-
-*2025-10-03 18:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226831) · `ta`
-
-The bombs were found on Friday, the 3rd of this month as they did not explode in a private land in Kilinochchi.
-
-இயக்கச்சி பகுதியை சேர்ந்த ஒருவர் தன்னுடைய காணியில் துப்புரவு பணியை மேற்கொண்டிருந்த நிலையில் குறித்த காணிக்குள் குண்டுகள் காணப்படுவதை அவதானித்தார்.
-
-When the police were immediately informed about the incident, Maruthankeni police rushed to the scene and strengthened the security of the area.
-
-◼️
-
-[Data](articles/c719923d.json)
-
-[Extended Data](ext_articles/c719923d.ext.json)
-
----
-
-### US Navy Ship
-
-*2025-10-03 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226830) · `ta`
-
-The US Navy's USS Fitzgerald arrived at the port of Colombo to meet the shipment and service requirements.
-
-The US Navy's USS Fitzgerald (DDG 62) came to meet the supply and service requirements to the Colombo port this morning (October 03, 2025), and the ship was welcomed by Sri Lankan navy traditions.
-
-Thus the destroyer vessel of the port of Colombo, the USS Fitzgerald (DDG 62) ship, is 154 meters long and is the command officer of the ship.
-
-Also, the USS Fitzgerald ship will depart from the island after meeting the delivery and service requirements.
-
-◼️
-
-[Data](articles/7b07d84a.json)
-
-[Extended Data](ext_articles/7b07d84a.ext.json)
-
----
-
-### 31000 crores were trapped in road
-
-*2025-10-03 18:53:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරග-හදනන-ගත-කට-31000ක-හරවල/101-680713) · `si`
-
-It is reported that the cost of Rs.
-
-As a result, the Ministry of Transport has informed the Parliamentary Select Committee of the Public Finance Committee to submit a supplementary estimate to approve parliament approval to pay the loans.
-
-This supplementary estimate was approved after considering in the committee
-
-Meanwhile, Sri Lanka has inquired from Public Debt Management Officers who have been called on the Cash Committee on foreign and locally already obtained loans.   Officials pointed out that foreign debt will pay 3700 million dollars and Rs.
-
-The Chairman of the Chairman was not aware of the officials of the Committee regarding the number of loans to pay this year, but the Chairman of the Chairperson did not discover the statistics.
-
-The Chairman of the Committees also recalled the importance of recruiting officers of the Public Debt Management Offices today.
-
-Ravi Karunanayake, MP Wickremesinghe and Sunil Rajapaksa and Nishantha Jayaweera were also present.
-
-◼️
-
-[Data](articles/c2d3c691.json)
-
-[Extended Data](ext_articles/c2d3c691.ext.json)
-
----
-
-### 31000 crores were trapped in road
-
-*2025-10-03 18:53:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මරග-හදනන-ගත-කට-31000ක-හරවල/1-680713) · `si`
-
-It is reported that the cost of Rs.
-
-As a result, the Ministry of Transport has informed the Parliamentary Select Committee of the Public Finance Committee to submit a supplementary estimate to approve parliament approval to pay the loans.
-
-This supplementary estimate was approved after considering in the committee
-
-Meanwhile, Sri Lanka has inquired from Public Debt Management Officers who have been called on the Cash Committee on foreign and locally already obtained loans.   Officials pointed out that foreign debt will pay 3700 million dollars and Rs.
-
-The Chairman of the Chairman was not aware of the officials of the Committee regarding the number of loans to pay this year, but the Chairman of the Chairperson did not discover the statistics.
-
-The Chairman of the Committees also recalled the importance of recruiting officers of the Public Debt Management Offices today.
-
-Ravi Karunanayake, MP Wickremesinghe and Sunil Rajapaksa and Nishantha Jayaweera were also present.
-
-◼️
-
-[Data](articles/adffd110.json)
-
-[Extended Data](ext_articles/adffd110.ext.json)
-
----
-
-### Fools, Knaves & Narratives
-
-*2025-10-03 18:46:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/fools-knaves-narratives/) · `en`
-
-“People don’t want to hear the truth, because they don’t want their illusions destroyed” – Friedrich Nietzsche
-
-Nepal is in flames; murder, arson, rape, looting; the once idyllic Himalayan country is now the picture of every human atrocity. Nature has blessed that land, man had failed it: corruption and incompetence doomed the realm.
-
-A story with an eerily familiar ring to us Sri Lankans, simmering frustrations of a people with nowhere to turn but violence.
-
-...
-
-[Data](articles/e32bbe69.json)
-
-[Extended Data](ext_articles/e32bbe69.ext.json)
-
----
-
-### Petition to the Court of Kehelbadara Padkera
-
-*2025-10-03 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215307) · `si`
-
-The mother of the organization of organized criminal Kehelbadara Padma has filed a film of organized criminadara.
-
-The detention order issued against his son is illegal.
-
-Accordingly, she has filed the writ petition for the order by Habayas Corpus and Rit jurisdiction.
-
-An interim relief has been requested to prevent the Inmate Inspector General out of the Criminal Inspection Department until the final decision.
-
-Accordingly, the lawyer who appeared for the Attorney General's Department was assured of the Attorney General's Department that the inmate would not be transferred elsewhere until the case was examined in the case.
-
-The lawyer also said that all the investigations conducted by the Criminal Inspector during the department's premises were held in the court.
-
-The petition is aimed at the President's Counsel Associated Attorney-at-Arms, Nalaka Samaragena, Rajulra, Kandaweera, appearing on the petitioner with the advice of Chameera Haputhara.
-
-◼️
-
-[Data](articles/48ade8c4.json)
-
-[Extended Data](ext_articles/48ade8c4.ext.json)
-
----
-
-### Meeting with Minister Vijitha and Swedish Ambassador
-
-*2025-10-03 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215306) · `si`
-
-Sri Lanka's Sweden Ambassador in Sri Lanka, Sri Lanka, Ambassador of Sweden and Foreign Affairs, Foreign Employment and Tourism Vijitha Herath was held today (03).
-
-The Minister explained to the Ambassador to the Ambassador of the Government of Sri Lanka within the years of the past year.
-
-Sweden also appreciated the services and investment in the business sector for the advancement of Sri Lanka.
-
-He also requested the Support of the Government of Sweden to improve tourism and bringing new investment opportunities by Swedish businessmen.
-
-Speaking further the Minister has said that there are many investments in the apparel industry and mineral and mineral and minerals and minerals and pills.
-
-The Ambassador has also been asked that Sweden is looking for Sri Lankan government's Sweden and determined measures.
-
-He also said that Sri Lanka's cinnamon Sweden is so commonly consuming that the importation of cinnamon Sweden in Sri Lanka can increase the importation of cinnamon Sweden.
-
-...
-
-[Data](articles/c7f8a621.json)
-
-[Extended Data](ext_articles/c7f8a621.ext.json)
-
----
-
-### Hospitality, Holiness & Human Flourishing: A Christian Response To LGBTIQ Tourism
-
-*2025-10-03 18:32:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/hospitality-holiness-human-flourishing-a-christian-response-to-lgbtiq-tourism/) · `en`
-
-The recent endorsement of LGBTIQ tourism in Sri Lanka raises questions of morality, economics, and cultural identity. This article offers a Christian response through three themes: hospitality, holiness, and human flourishing. It affirms the dignity of all people created in God’s image, while upholding God’s original design for life, marriage, and family. True flourishing cannot be reduced to economics or inclusivity alone but is found in spiritual, intellectual, social, emotional, and moral  development of the nation and the new life offered in Jesus Christ through repentance and transformation.
-
-...
-
-[Data](articles/a54081ed.json)
-
-[Extended Data](ext_articles/a54081ed.ext.json)
-
----
-
-### '' No action will be reversed '
-
-*2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/101-680712) · `si`
-
-President Anura Kumara Dissanayake said that the government has taken over the responsibility of recovering the country's collapsed economy and has taken over the responsibility of recovery.
-
-The President emphasized that the government has not taken steps to end the black governance wearing the black governance wearing the black management with drug trafficking and weapons.
-
-The President made this observation addressing the philanthropy of historical fedees in Kandy this afternoon.
-
-The President said that the Maha Sangha had a major role in the Maha Sangha was given a major role in the public.
-
-The President also pointed out that the Ananda Leader of Narawampana, who is known as Dadurgees and Scientists, the Language of Narawampana.
-
-The President also pointed out that the government's objectives to launch a national movement to eliminate the drug disaster.
-
-The government's policy is to do nothing to promote the tourism industry.
-
-...
-
-[Data](articles/9b87e305.json)
-
-[Extended Data](ext_articles/9b87e305.ext.json)
-
----
-
-### '' No action will be reversed '
-
-*2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/ld_events/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/244-680712) · `si`
-
-President Anura Kumara Dissanayake said that the government has taken over the responsibility of recovering the country's collapsed economy and has taken over the responsibility of recovery.
-
-The President emphasized that the government has not taken steps to end the black governance wearing the black governance wearing the black management with drug trafficking and weapons.
-
-The President made this observation addressing the philanthropy of historical fedees in Kandy this afternoon.
-
-The President said that the Maha Sangha had a major role in the Maha Sangha was given a major role in the public.
-
-The President also pointed out that the Ananda Leader of Narawampana, who is known as Dadurgees and Scientists, the Language of Narawampana.
-
-The President also pointed out that the government's objectives to launch a national movement to eliminate the drug disaster.
-
-The government's policy is to do nothing to promote the tourism industry.
-
-...
-
-[Data](articles/8299cb17.json)
-
-[Extended Data](ext_articles/8299cb17.ext.json)
 
 ---

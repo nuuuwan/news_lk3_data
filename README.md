@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 09:20:41**
+As of **2025-10-04 09:56:07**
 
 ## Newspaper Stats
 
-*Scraped **81,003** Articles*
+*Scraped **81,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,43 @@ islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,772
 adaderanalk | 10,422
-tamilmirrorlk | 12,039
-virakesarilk | 13,284
-adaderanasinhalalk | 13,932
+tamilmirrorlk | 12,040
+virakesarilk | 13,285
+adaderanasinhalalk | 13,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,003 (100.0%) of 81,003 articles have been extended.
+81,006 (100.0%) of 81,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### Death of suspect in detention
+
+*2025-10-04 08:55:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுப்பு-காவலில்-இருந்த-சந்தேக-நபர்-மரணம்/175-365701) · `ta`
+
+A 34 -year -old man who was arrested at the Mannar Basal police division on suspicion and detained at the Basal police station has been found dead in police custody yesterday (3).
+
+The deceased has been identified as Rajendran Kapilan (age 34) from Koomangulam, Vavuniya.
+
+A man was arrested in the Kataspathiri area of ​​the Basalai police division yesterday evening (2).
+
+It is reported that the man was chased by the police and another person with him.
+
+The man who was arrested by the police took the police to the Pasal police station and put the investigations into the police station.
+
+The suspect was found dead in the police station cage yesterday morning.. (A)
+
+◼️
+
+[Data](articles/f92c893a.json)
+
+[Extended Data](ext_articles/f92c893a.ext.json)
+
+---
 
 ### 34-Year-Old Arrested Over Attempted Murder
 
@@ -117,6 +141,32 @@ COLOMBO (News 1st); The Committee on Public Finance chaired by MP Dr. Harsha de 
 
 ---
 
+### Tunisiah sentenced to death by Facebook
+
+*2025-10-04 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215321) · `si`
+
+A man accused of insulting the Tunisian president through social media has decided to sentence.
+
+The head of the Tunisian League for human rights has been sentenced to insulting the President and threatening national security.
+
+In 2021, President Kieis Side was executed after the powers in Tunisia in Tunisia.
+
+The punishment is a 56 year old average worker, and he is a limited education citizen.
+
+His lawyer had said that the Nabul court urge was sentenced to death on Facebook notes. He said it was a traumatic and unprecedented decision.
+
+However, he added that a appeal has been filed against the decision.
+
+Tunishi's Court has punished a few occasions, but has not been implemented for over 30 years.
+
+◼️
+
+[Data](articles/0a085cf6.json)
+
+[Extended Data](ext_articles/0a085cf6.ext.json)
+
+---
+
 ### Fireball struggle
 
 *2025-10-04 08:12:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீப்பந்த-போராட்டம்/175-365700) · `ta`
@@ -132,6 +182,26 @@ The protesters accused the bank of going to privatization through the amendments
 [Data](articles/008437de.json)
 
 [Extended Data](ext_articles/008437de.ext.json)
+
+---
+
+### Four arrested with illegal beedi leaves
+
+*2025-10-04 07:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226845) · `ta`
+
+Four persons have been arrested on Friday (03) by the Chettikulam police with illegal imported beedi leaves.
+
+They have been arrested following raids under the confidential information received by the Chettikulam Police Station officials in Mankulam, belonging to the Chettikulam Police Division.
+
+During this time, 40 packs of illegally imported 25 kilograms of beedi leaves were found.
+
+Initial investigations have revealed that the suspects were from Mannar, aged 21, 28, 40 and 43.
+
+◼️
+
+[Data](articles/beaab879.json)
+
+[Extended Data](ext_articles/beaab879.ext.json)
 
 ---
 
@@ -2014,67 +2084,5 @@ Expressing his views at the event, the Deputy Minister of Digital Economy stated
 [Data](articles/6409a0ea.json)
 
 [Extended Data](ext_articles/6409a0ea.ext.json)
-
----
-
-### Sexual abuse in naval camp; Explanation for Navy
-
-*2025-10-03 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226815) · `ta`
-
-A naval soldier has been arrested on charges of sexually abusing the Punguduthivu Naval Base.
-
-A naval soldier working at the Punguduthivu Naval Base in Jaffna has been sexually abused on the 25th of last month.
-
-The top officers of the Punguduthivu Navy arrested the two men and sent them to the Naval Camp at the Northern Territory Bureau of the Northern Bureau of the Northern Bureau and were investigated.
-
-Kankesanthurai police received the medical report of the Jaffna Teaching Hospital after investigations.
-
-The Kankesanthurai police handed over the Navy and the Navy to the Kayts police for investigation as the medical report founded evidence of sexual abuse.
-
-The Kayts court has ordered the Naval soldier to be remanded until the 16th of this month.
-
-◼️
-
-[Data](articles/b1acff71.json)
-
-[Extended Data](ext_articles/b1acff71.ext.json)
-
----
-
-### Accident on Polonnaruwa - Habarana Road; Two people hurt!
-
-*2025-10-03 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/226818) · `ta`
-
-Two people were injured in an accident near the Minneriya Purana Church on the Polonnaruwa - Habarana road, police said.
-
-The accident occurred when a tipper vehicle and a three -wheeler collided with each other, police said.
-
-Two people were injured in the accident during the accident, police said.
-
-◼️
-
-[Data](articles/cced220d.json)
-
-[Extended Data](ext_articles/cced220d.ext.json)
-
----
-
-### Luxembourg’s grand duke abdicates after 25 years, passing throne to son
-
-*2025-10-03 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/113190/luxembourgs-grand-duke-abdicates-after-25-years-passing-throne-to-son) · `en`
-
-Luxembourg’s Grand Duke Henri abdicated his throne on Friday in favour of his son, Guillaume. Henri, 70, had served the tiny duchy in the heart of Europe for 25 years in a largely symbolic role.
-
-Guillaume, 43, will be crowned in a ceremony later on Friday and then greet the public atop a balcony of the Grand Ducal Palace with the royal family at his side.
-
-Henri abdicated in a ceremony at the Grand Ducal Palace, built of yellow stone and decorated with spires and ironwork. Guillaume, 43, will shortly be crowned and swear an oath to Luxembourg’s constitution before the 60 elected members of the Chamber of Deputies, the duchy’s parliament.
-
-The new grand duke will greet the public from a balcony overlooking a central square with his family, including his wife, the Belgian-born Countess Stephanie de Lannoy, and his sons, Prince Charles, 5, and Prince Francois, 2.
-
-...
-
-[Data](articles/ab0a7688.json)
-
-[Extended Data](ext_articles/ab0a7688.ext.json)
 
 ---

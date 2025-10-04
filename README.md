@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 13:38:56**
+As of **2025-10-04 13:56:46**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,044 (100.0%) of 81,045 articles have been extended.
+81,045 (100.0%) of 81,045 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ COLOMBO (News 1st); Minister of Justice and National Cohesion, Attorney Harshana
 ◼️
 
 [Data](articles/021edd81.json)
+
+[Extended Data](ext_articles/021edd81.ext.json)
 
 ---
 

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 08:56:56**
+As of **2025-10-04 09:20:41**
 
 ## Newspaper Stats
 
-*Scraped **80,998** Articles*
+*Scraped **81,003** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 577
+newsfirstlk | 579
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 740
+lankadeepalk | 743
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,11 +27,81 @@ adaderanasinhalalk | 13,932
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,997 (100.0%) of 80,998 articles have been extended.
+81,003 (100.0%) of 81,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### 34-Year-Old Arrested Over Attempted Murder
+
+*2025-10-04 08:53:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/34-year-old-arrested-over-attempted-murder) · `en`
+
+COLOMBO (News 1st); A suspect has been taken into custody in connection with an attempted shooting near Dehiwala Railway Station, the police said.Following investigations by the Crimes Investigation Unit of Mount Lavinia Division, the 34-year-old suspect, a resident of Seevali Road was arrested yesterday.Police discovered 50 grams of ice (methamphetamine), five knives, and a machete during the arrest.The incident relates to a July 18 attack near Dehiwala Railway Station, where two unidentified men on a motorcycle opened fire, causing severe injuries to an individual.
+
+◼️
+
+[Data](articles/a13032bf.json)
+
+[Extended Data](ext_articles/a13032bf.ext.json)
+
+---
+
+### A rope for Mahinda's bungalow
+
+*2025-10-04 08:48:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-බගලවට-කඹ-ඇදලලක/101-680719) · `si`
+
+It is reported that the bungalow of former President Mahinda Rajapaksa is further delaying the bungalow of the Wijerama Mawatha, a resident of the resident of the Colombo Wijerama Mawatha.
+
+Presidential Secretariat several times have been announced to remove his goods in the bungalow.. However, the former President has said that the government is examining the list of the bungalows and removes his goods.
+
+According to sources, the former President has taken the decision as a measure of such a chance to prevent such belongings to a situation where the goods were removed.
+
+However, the government says the former President should take his goods first.
+
+The house belonging to the former President and the Ministry of Public Administration and the Ministry of Public Administration.
+
+◼️
+
+[Data](articles/a7da94c7.json)
+
+[Extended Data](ext_articles/a7da94c7.ext.json)
+
+---
+
+### 22 More Terminals Approved for Seaplane Operations; Civil Aviation Authority
+
+*2025-10-04 08:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/22-more-terminals-approved-for-seaplane-operations-civil-aviation-authority) · `en`
+
+COLOMBO (News 1st); The Civil Aviation Authority announced that 22 additional terminals have been cleared for seaplane operations after inspections. Approval processes are also underway to begin water-based aviation near Colombo Port City.The Authority said two new helicopter landing sites will soon be introduced in Colombo, while a program is being implemented to boost domestic aviation with state and private sector investment, focusing on tourism.Meanwhile, a new seaplane service between Katunayake and Colombo was launched yesterday using Beira Lake as a water aerodrome.Seaplane services had previously operated in Sri Lanka during 2011/2012 but were suspended due to strict security measures and related challenges.
+
+◼️
+
+[Data](articles/16b8f32b.json)
+
+[Extended Data](ext_articles/16b8f32b.ext.json)
+
+---
+
+### The seven new laws that protect man from the robot
+
+*2025-10-04 08:42:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රබවන-මනස-රකනන-ගන-අලතම-නත-හත/101-680718) · `si`
+
+Chairman of the Attorney Communications, Data Protection and Technical Committee, said that in protecting the information from the Asian Pacific, the President of the Assia Pacific (LAWASIA) Sunil Abeyratne has arisen.
+
+You must have the security of personal information... The information about it cannot reveal nobody without permission. India's data protection is a fundamental right
+
+Different countries wanted to enact strict laws that protect privacy due to low cost of data. That is why the European countries introduced data regulations instead of data protection rights.
+
+No one can distort data. They need to provide the maximum security. There should always be transparency in data. If the personal data protection is violated, a country needs a legal system.. It works where the tool is trained. In other words, the artificial intelligence is regulated.
+
+...
+
+[Data](articles/43565139.json)
+
+[Extended Data](ext_articles/43565139.ext.json)
+
+---
 
 ### Sri Lanka’s Foreign Debt at USD 37 Billion
 
@@ -42,6 +112,8 @@ COLOMBO (News 1st); The Committee on Public Finance chaired by MP Dr. Harsha de 
 ◼️
 
 [Data](articles/a623e93a.json)
+
+[Extended Data](ext_articles/a623e93a.ext.json)
 
 ---
 
@@ -1455,6 +1527,32 @@ The government's policy is to do nothing to promote the tourism industry.
 
 ### '' No action will be reversed '
 
+*2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/ld_events/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/244-680712) · `si`
+
+President Anura Kumara Dissanayake said that the government has taken over the responsibility of recovering the country's collapsed economy and has taken over the responsibility of recovery.
+
+The President emphasized that the government has not taken steps to end the black governance wearing the black governance wearing the black management with drug trafficking and weapons.
+
+The President made this observation addressing the philanthropy of historical fedees in Kandy this afternoon.
+
+The President said that the Maha Sangha had a major role in the Maha Sangha was given a major role in the public.
+
+The President also pointed out that the Ananda Leader of Narawampana, who is known as Dadurgees and Scientists, the Language of Narawampana.
+
+The President also pointed out that the government's objectives to launch a national movement to eliminate the drug disaster.
+
+The government's policy is to do nothing to promote the tourism industry.
+
+...
+
+[Data](articles/8299cb17.json)
+
+[Extended Data](ext_articles/8299cb17.ext.json)
+
+---
+
+### '' No action will be reversed '
+
 *2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/1-680712) · `si`
 
 President Anura Kumara Dissanayake said that the government has taken over the responsibility of recovering the country's collapsed economy and has taken over the responsibility of recovery.
@@ -1978,115 +2076,5 @@ The new grand duke will greet the public from a balcony overlooking a central sq
 [Data](articles/ab0a7688.json)
 
 [Extended Data](ext_articles/ab0a7688.ext.json)
-
----
-
-### 100 patients per day
-
-*2025-10-03 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215301) · `si`
-
-Health and Mass Media Media Dr. Nalinda Jayatissa says that 100 cancer patients reported in the country.
-
-He said that about 35,000 cancer patients were reported annually and 35% of them were targeted as cancer patients at the hospital.
-
-The Minister was speaking at the fourth Housingia Health Center at the Polgolla area in Kandy District yesterday.
-
-The Minister further stated that it is 30% of the expenditure of a year of medicinal diseases and that it is necessary for cancer diseases, and in the absence of solutions to this.
-
-The Minister pointed out that the majority of the deaths in the country between 30 and 70 years of age are infectious diseases and the highest death to death is the health data that the health data is the cancer and the number of cancer conditions are the cancer and the number of health data shows that the highest deaths of women is the cancer and the number of health data.
-
-...
-
-[Data](articles/61de00ab.json)
-
-[Extended Data](ext_articles/61de00ab.ext.json)
-
----
-
-### Mahinda - Upatissa - Gunasena receives the doctrine
-
-*2025-10-03 16:47:02* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-උපතසස-ගණසන-වදයභමන-සමමන-ලබත/1-680709) · `si`
-
-Veteran Music Mahinda Bandara, Upatissa Perera and DD. Gunasena awards ceremonies of 'orchestra' pramama.
-
-Dr. Hiniduma Sunil Senevi, Minister of Buddha, Religious and Cultural Affairs, was presented to the Industry Representative Pranama Pranama Pranama.
-
-The three senior musicians of the Banaru, Upatissa Perera and Voyllor DD Gunasena were also recognized by Lead Guitar performance.
-
-There was also the opportunity to enjoy the design of the award winning orchestra.
-
-The Ministry of State Literary Panel, Department of State Literary Panel and Cultural Affairs and the Ministry of Buddha, Religious and Cultural Affairs were organized.
-
-Buddha Sasana, Religious and Cultural Affairs Secretary Prince Senadheera, Cultural Affairs Department KS. Dilhani and Sri Lanka Arts Chairman of the Sri Lanka Arts Chairman Mr. Keerthi Welisara and many others were present at the occasion.
-
-◼️
-
-[Data](articles/4e778606.json)
-
-[Extended Data](ext_articles/4e778606.ext.json)
-
----
-
-### Mahinda - Upatissa - Gunasena receives the doctrine
-
-*2025-10-03 16:47:02* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනද-උපතසස-ගණසන-වදයභමන-සමමන-ලබත/101-680709) · `si`
-
-Veteran Music Mahinda Bandara, Upatissa Perera and DD. Gunasena awards ceremonies of 'orchestra' pramama.
-
-Dr. Hiniduma Sunil Senevi, Minister of Buddha, Religious and Cultural Affairs, was presented to the Industry Representative Pranama Pranama Pranama.
-
-The three senior musicians of the Banaru, Upatissa Perera and Voyllor DD Gunasena were also recognized by Lead Guitar performance.
-
-There was also the opportunity to enjoy the design of the award winning orchestra.
-
-The Ministry of State Literary Panel, Department of State Literary Panel and Cultural Affairs and the Ministry of Buddha, Religious and Cultural Affairs were organized.
-
-Buddha Sasana, Religious and Cultural Affairs Secretary Prince Senadheera, Cultural Affairs Department KS. Dilhani and Sri Lanka Arts Chairman of the Sri Lanka Arts Chairman Mr. Keerthi Welisara and many others were present at the occasion.
-
-◼️
-
-[Data](articles/0091201d.json)
-
-[Extended Data](ext_articles/0091201d.ext.json)
-
----
-
-### Drivers of tipper vehicles carrying pottery without permission
-
-*2025-10-03 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226813) · `ta`
-
-The drivers of five tipper vehicles carrying pottery without a permit have been arrested by the Bandaragama police this morning.
-
-Five drivers have been arrested in a raid carried out in the Kalutara - Bandaragama area on information received by the Bandaragama police.
-
-Police investigations revealed that these tipper vehicles belong to the nephew of a former politician.
-
-◼️
-
-[Data](articles/80949f34.json)
-
-[Extended Data](ext_articles/80949f34.ext.json)
-
----
-
-### Minister of Justice
-
-*2025-10-03 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226809) · `ta`
-
-Minister of Justice Harshana Nanayakkara has said that the amendment proposed by the Penal Code (Section 19) of the Penal Code (Section 19) of the Penal Code against Children has not been enacted.
-
-The Minister noted that the second reading debate on the amendment of the Penal Code on September 24 was held in Parliament, but it was not a law, except for a debate.
-
-He also pointed out that if such a revision is to be implemented, it should be changed in the Criminal Procedure Act.. The bill is pending, as that change has not yet been made.
-
-The Minister added that the changes may still be taken up for review during the Parliamentary Committee that amendments to the bill.
-
-The Minister of Justice added in his statement that the amendment to the physical punishment is in a state of debate and it has not been passed.
-
-◼️
-
-[Data](articles/b7f36967.json)
-
-[Extended Data](ext_articles/b7f36967.ext.json)
 
 ---

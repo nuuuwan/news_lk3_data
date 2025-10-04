@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 11:06:44**
+As of **2025-10-04 11:20:06**
 
 ## Newspaper Stats
 
-*Scraped **81,010** Articles*
+*Scraped **81,014** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 579
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 746
+lankadeepalk | 747
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -19,19 +19,51 @@ islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,772
 adaderanalk | 10,422
-tamilmirrorlk | 12,041
+tamilmirrorlk | 12,042
 virakesarilk | 13,285
-adaderanasinhalalk | 13,933
+adaderanasinhalalk | 13,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,010 (100.0%) of 81,010 articles have been extended.
+81,010 (100.0%) of 81,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### දෙහිවල වෙඩිතැබීමේ යතුරුපැදිකරු අත්අඩංගුවට
+
+*2025-10-04 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215323) · `si`
+
+දෙහිවල, දුම්රියපොළ අසලදී වෙඩිතබා පුද්ගලයෙකු ඝාතනයට තැත්කිරීමට සම්බන්ධයෙන් සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය ජුලි 18 වනදා දෙහිවල දුම්රියපොළ අසලදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් කළ වෙඩිතැබීමකින් පුද්ගලයෙකු බරපතළ තුවාල ලබා රෝහල් ගතකෙරුණි.
+
+ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය කල විමර්ශනයකින් අනතුරුව අදාළ වෙඩිතැබීම සඳහා පැමිණි යතුරුපැදියේ පැදිකරු වශයෙන් කටයුතු කළ සැකකරු අතුඅඩංගුවට ගෙන තිබේ.
+
+එහිදි සැකකරු සන්තකයේ තිබි අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 50ක්, කඩු 05ක් සහ කිනිස්සක් සොයාගෙන ඇති අතර, ඔහු 34  හැවිරිදි ගල්කිස්ස සීවලි පාර ප්‍රදේශයේ පදිංචිකරුවෙක් බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b4f9db3a.json)
+
+---
+
+### மின்சாரக் கட்டணம் 6.8 சதவீதத்தால் உயர்வு?
+
+*2025-10-04 10:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-6-8-சதவீதத்தால்-உயர்வு/175-365703) · `ta`
+
+மின்சாரக் கட்டணத்தை 6.8 சதவீதத்தால் உயர்த்துவது தொடர்பாக இலங்கை மின்சார சபையினால் முன்வைக்கப்பட்ட முன்மொழிவு குறித்து, பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் முடிவு இந்த மாதம் 15 ஆம் திகதி அல்லது அதற்கு முன்னதாக வெளியிடப்படும் என்று பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+இந்த மாதம் 8 ஆம் திகதி மேல் மாகாண ஆலோசனையின் இறுதி அமர்வு நடைபெற்ற பின்னர், கட்டணங்களைத் திருத்துவது குறித்த இறுதி முடிவு எடுக்கப்படும் என அவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/0be2b96b.json)
+
+---
 
 ### 500 crores in SLTB destroyed
 
@@ -98,6 +130,30 @@ Meanwhile, the Government of Sri Lanka and Civil Association are continuously ma
 [Data](articles/48635200.json)
 
 [Extended Data](ext_articles/48635200.ext.json)
+
+---
+
+### තම කුඹුරේ පිදුරුවලට ගිනිතැබූ ගොවි මහතෙකු එම ගින්නටම හසුවෙයි
+
+*2025-10-04 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215322) · `si`
+
+හිඟුරක්ගොඩ, වරාහේන ප්‍රදේශයේ ගොවි මහතෙකු විසින් තම කුඹුරේ පිදුරුවලට තබන ලද ගින්නක් පැතිර ගොස් එම ගින්නට හසුවීමෙන් කුඹුරු තුළ ඊයේ (3) දහවල් අවාසනාවන්ත ලෙස මියගොස් ඇත.
+
+මෙලෙස ගින්නට හසුව ඇත්තේ හිඟුරක්ගොඩ, බෝගස් හංදිය ප්‍රදේශයේ පදිංචි තෙදරු පුද්ගලයෙක්ය.
+
+ගොවි මහතා ඊළඟ කන්නයට සිය කුඹුරු බිම සූදානම් කිරීම සඳහා තම කුඹුරේ අස්වැන්න නෙලීමෙන් පසු කුඹුර තුළ ඉතිරිව තිබූ පිදුරුවලට හා ඉපනැල්ලට ගිනිතබා තිබේ.
+
+එහිදී මේ දිනවල පවත්නා අධික උණුසුම් කාලගුණික තත්ත්වය හා සුළග හේතුවෙන් ගින්න පැතිර ගොස් ඔහු ඊට හසුව තිබේ.
+
+මෙම පුද්ගලයා ගින්නට හසුව සිටින අයුරු ප්‍රදේශවාසියෙකු දැක ඒ පිළිබදව අනෙකුත් අය දැනුම්වත් කළද ඒ වනවිටත් ඔහු ගින්නට හසුව දරුණු ලෙස තුවාල ලබා මිය ගොස් සිට ඇත.
+
+මියගිය පුද්ගලයාගේ පශ්චාත් මරණ පරීක්ෂණ කටයුතු සඳහා දේහය පොලොන්නරුව මහ රෝහල වෙත රැගෙන යනු ලැබීය.
+
+මේ පිළිබද වැඩිදුර පරීක්ෂණ කටයුතු හිඟුරක්ගොඩ පොලීසිය විසින් සිදු කරනු ලැබීය.
+
+◼️
+
+[Data](articles/687b4efc.json)
 
 ---
 
@@ -2008,77 +2064,5 @@ The criminal of the Tangalle Divisional Criminal Investigation Unit was arrested
 [Data](articles/4071cca1.json)
 
 [Extended Data](ext_articles/4071cca1.ext.json)
-
----
-
-### The Terrorism Act will remain in force until the new law comes - Minister Chandrasekhar
-
-*2025-10-03 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226817) · `ta`
-
-Fisheries Minister Ramalingam Chandrasekaran has said that the Terrorism Prohibition Act will be in force until a new law comes into force.
-
-Minister Vijitha Kerath has said that a journalist will remove the Terrorism Act in September after a event held in Jaffna. But now it has started in October. What is their state's position on the abolition of the Terrorism Act? ”
-
-The Minister responded to the question. There he further stated,
-
-We were saying in our policy declaration that the Terrorism Act would be repealed. A law that needs to be removed. Our party has been responsible for this law.
-
-We have no alternative to change this bill. But people are well aware of this drug devil and drug traders that are heading the country today. Behind the drug, another drug, the underworld, the underworld, the underworld is hidden.
-
-...
-
-[Data](articles/07ea4b3b.json)
-
-[Extended Data](ext_articles/07ea4b3b.ext.json)
-
----
-
-### Man arrested for shooting incident in Dehiwala
-
-*2025-10-03 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215302) · `si`
-
-Another suspect had been arrested in front of a person in a car in front of a supermarket near the Dehiwala Railway Station Road.
-
-The arrested has been arrested for the shooting and the motor vehicle.
-
-Five swords, five swords in his possession and 50 ice drugs worth Rs.
-
-A close relative of an organized criminal and the drug dealer, Asita, a close relative of Asita, was shot dead in front of a supermarket on July 17.
-
-The shooter, police special tasks, was killed in a gunfill with the STD in a cinnamon land in Palagama area in Kahathuduwa police Division.
-
-The arrests made by the delegation was revealed that the organized criminal and drug dealer who was assassinated by the bus Assathi was also given to close to Rs.
-
-The money has been imported to his account and has been paid to their account and has been given the remaining money from time to time.
-
-...
-
-[Data](articles/0140f7fa.json)
-
-[Extended Data](ext_articles/0140f7fa.ext.json)
-
----
-
-### 6 Cough medicine to sacrifice the lives of 6 children!
-
-*2025-10-03 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226821) · `ta`
-
-The sale of drugs and distribution in Tamil Nadu has been banned following the death of 6 children due to the consumption of a cough called 'Coldrip' in Madhya Pradesh, India.
-
-In Madhya Pradesh's Sindhwara district, 6 children between the ages of 1 to 7 have died in the last 15 days.. It was revealed that the sudden kidney failure was the cause.
-
-Investigations found that all the victims were taking cough medicines, including 'Gold Rip'.
-
-At the hearing, the children's kidney tissue had a chemical chemical called Diethylene Glycol.. It was suspected that the chemical, which was used to produce paint and ink, could be mixed with the cough.
-
-Subsequently, a team led by the Deputy Director of the Department of Drug Control Department has conducted the study for the past two days at the manufacturer of the drug.
-
-Until the results of the study are published, the public interest has been ordered to suspend the sale and distribution of Gold Rip drugs throughout Tamil Nadu.
-
-...
-
-[Data](articles/954f4d6f.json)
-
-[Extended Data](ext_articles/954f4d6f.ext.json)
 
 ---

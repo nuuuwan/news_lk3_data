@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 19:54:20**
+As of **2025-10-04 19:37:45**
 
 ## Newspaper Stats
 
-*Scraped **81,138** Articles*
+*Scraped **81,128** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 594
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 769
+lankadeepalk | 763
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
-adalk | 7,780
+adalk | 7,776
 adaderanalk | 10,437
 tamilmirrorlk | 12,046
 virakesarilk | 13,327
@@ -27,69 +27,11 @@ adaderanasinhalalk | 13,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,128 (100.0%) of 81,138 articles have been extended.
+81,126 (100.0%) of 81,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
-
-### පුනර්ජනනීය බලශක්ති කුමන බාධක ආවත් අඛණ්ඩව ක්‍රියාත්මක කරනවා
-
-*2025-10-04 19:13:08* · [`adalk`](https://www.ada.lk/breaking_news/පුනර්ජනනීය-බලශක්ති-කුමන-බාධක-ආවත්-අඛණ්ඩව-ක්‍රියාත්මක-කරනවා/11-418911) · `si`
-
-“පුනර්ජනනීය බලශක්ති ව්‍යාපෘති අඛණ්ඩව ක්‍රියාත්මක කරනවා. ඒ ව්‍යපෘති නිසා ජනතාවට මතුවන ගැටළු මානුෂිකව සළකා බලා ඒවා විසදන්නත් ගත හැකි සියළු පියවර ගන්නවා. පුනර්ජනනීය බලශක්ති උත්පාදනය ජාතික අවශ්‍යතාවයක් සහ ජාතික වැඩපිළිවෙලේ කොටසක් බව හැමෝම වටහා ගත යුතු යැයි” බලශක්ති අමාත්‍යවරයා ප්‍රකාශ කලේ ගාල්ල හියාර ප්‍රදේශයේ ඉදිකරන කරන ලද මෙගාවොට් 5ක සූර්යබලශක්ති ව්‍යාපෘතිය විවෘත කිරීමේ උත්සව අවස්ථාවට අද (04) එක් වෙමිනි.
-
-“ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිව්‍යුහගතකරන වැඩ පිළිවෙළත් ඒ වගේ තමයි. විදුලිබල ක්ෂේත්‍රයේ රාජ්‍ය හිමිකාරීත්වය සහතික කරන එක රජයේ ප්‍රතිපත්තිය බවට පත්කරගත්ත රජයක් මේ තියෙන්නේ. සේවක අයිතිවාසිකම් වරප්‍රසාද රකිමින් හැකි සෑම විටම වෘත්තීය සමිති නියෝජිතයින් සමග සාකච්ජා කරමින් ඉතාම සද්භාවයෙන් හා වීවෘතව ඒ වැඩපිළිවෙල අපි දියත් කලා. රටේ බලශක්ති ක්ෂ්‍රේත්‍රයේ අරමුණු දිනාගන්න නම් ඔය ප්‍රතිව්‍යුහගතකරණ වැඩපිළිවෙල ක්‍රියාත්මක කරන එක අත්‍යවශ්‍යයි. ඒ නිසා ඒ වැඩපිළිවෙලත් අඛණ්ඩව ක්‍රියාත්මක කරනවා” යැයි ද පැවසීය.
-
-...
-
-[Data](articles/7272872c.json)
-
----
-
-### දිස්ත්‍රික්ක පහකට නාය අනතුරු
-
-*2025-10-04 19:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දසතරකක-පහකට-නය-අනතර/1-680738) · `si`
-
-පවතින අධික වර්ෂාවත් සමඟ ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනය මගින් අද (4) පස්වරු 6.00 සිට හෙට (5) පස්වරු 6.00 දක්වා දිස්ත්‍රික්ක පහක ප්‍රාදේශීය ලේකම් කොට්ඨාස 10කට නායයාමේ පුර්ව අනතුරු හැගවීමේ පනිවිඩ නිකුත් කර ඇත .
-
-බදුල්ල දිස්ත්‍රික්කයේ බදුල්ල, ඇල්ල ,හාලිඇල , පස්සර, මොණරාගල දිස්ත්‍රික්කයේ බිබිළ , බඩල්කුබුර , නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ , කුරුණෑගල දිස්ත්‍රික්කයේ නාරම්මල , සහ මාතලේ දිස්ත්‍රික්කයේ උකුවෙල, රත්තොට යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන් සදහා මෙසේ නායයාමේ පුණ අනතුරු පනිවිඩ අද 4 පස්වරුවේ නිකුත් කරනු ලැබූහ.
-
-මේ අතර අද (4) පස්වරුවේ පතිත වූ ධාරානිපාත වර්ෂාවත් සමග අකුණු සැර වැදීමෙන්  හාලිඇල උඩුගම ප්‍රදේශයේ ගවයින් දෙදෙනකු මිය ගිය බවත් ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
-
-◼️
-
-[Data](articles/90c481a7.json)
-
----
-
-### නාය යෑමේ අනතුරු ඇඟවීම් නිකුත් කරයි
-
-*2025-10-04 19:07:41* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-ඇඟවීම්-නිකුත්-කරයි/11-418910) · `si`
-
-පවතින අධික වර්ශාවත් සමග ජාතික  ගොඩනැගිලි පර්යේෂණ ආයතනය මගින් අද (4) පස්වරු 6.00 සිට හෙට (5) පස්වරු 6.00 දක්වා දිස්ත්‍රික්ක පහක ප්‍රාදේශීය ලේකම් කොට්ඨාස 10කට නායයාමේ පුර්ව අනතුරු හැගවීමේ පනිවිඩ නිකුත් කර ඇත .
-
-බදුල්ල දිස්ත්‍රික්කයේ බදුල්ල, ඇල්ල ,හාලිඇල , පස්සර, මොණරාගල දිස්ත්‍රික්කයේ බිබිළ , බඩල්කුබුර , නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ , කුරුණෑගල දිස්ත්‍රික්කයේ නාරම්මල , සහ මාතලේ දිස්ත්‍රික්කයේ උකුවෙල, රත්තොට යන ප්‍රාදේශීය ලේකම් කොට්ඨාසයන් සදහා මෙසේ නායයාමේ පුර්න අනතුරු පනිවිඩ අද 4 පස්වරුවේ නිකුත් කරනු ලැබූහ .
-
-මේඅතර අද (4) පස්වරුවේ පතිත වූ ධාරානිපාත වර්ශාවත් සමග අකුණු සැර වැදීමෙන්  හාලිඇල උඩුගම ප්‍රදේශයේ ගවයින් දෙදෙනකු මිය ගිය බවත් ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි .
-
-◼️
-
-[Data](articles/6e702b0c.json)
-
----
-
-### තද වැසි පිළිබඳ කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්
-
-*2025-10-04 19:02:12* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-පිළිබඳ-කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-418909) · `si`
-
-තද වැසි පිළිබඳව කාලගුණයෙන් අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ. අද පස්වරු 5.30ට නිකුත් කර ඇති මෙම නිවේදනය ඉදිරි පැය 24ක කාලයක් සඳහා වලංගු වෙයි. බස්නාහිර, වයඹ හා සබරගමුව පළාත් හා ගාල්ල, මාතර, මහනුවර හා නුවරඑළිය දිස්ත්‍රික්ක සඳහා වලංගු වන පරිදි මෙම නිවේදනය නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/a43b9709.json)
-
----
 
 ### Sampath Manamperi's brother-in-law seized
 
@@ -108,26 +50,6 @@ The Western Province Criminal Investigations Department (Western Province Crimin
 [Data](articles/7e0eccea.json)
 
 [Extended Data](ext_articles/7e0eccea.ext.json)
-
----
-
-### පෙරහරේ කාවඩි නටමින් සිටි තරුණයා ඇද වැටී මරුට
-
-*2025-10-04 18:58:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පරහර-කවඩ-නටමන-සට-තරණය-ඇද-වට-මරට/1-680737) · `si`
-
-අම්බලන්ගොඩ විහාරස්ථානයක් සංවිධානය කර තිබූ පෙරහරක කාවාඩි නටමින් සිටි 20 හැවිරිදි තරුණයකු හදිසියේම අසනීපවී මරුමුවට පත්වී ඇති බව අම්බලන්ගොඩ පොලීසිය කියයි.
-
-මරුමුවට පත්වී ඇත්තේ ඇත්කඳුර තණබද්දෙගම පදිංචි පී.එම්.මහීෂ පභාෂණ නමැති 20 හැවිරිදි තරුණයෙකි.
-
-අම්බලන්ගොඩ මාදම්පේ නගරය හරහා වීථි සංචාරය කරමින් සිටියදී කාවාඩි සංදර්ශණයේ යෙදී සිටි මේ තරුණයා නැටීමට නොහැකිව රෝගාතුර වීමෙන් පසු බලපිටිය රෝහලට රැගෙන ගෙනගිය බවද පොලීසිය කියයි.
-
-පෙරහරේ  කාවාඩි නටමින් සිටියදී රෝගාතුරවූ මේ තරුණයා රෝහලට ඇතුලත් කරනවිටත් මිය ගොස් ඇති බවද පොලීසිය කියයි.
-
-ඔහුට වෙනත් කිසිදු බෝනොවන රෝගයක් නොතිබූ බවත් මෙසේ මේ තරුණයා මිය යාම අදහා ගැනීමටවත් බැරි කියාවක් බව පවුලේ ඥාතීහු කියති.
-
-◼️
-
-[Data](articles/01692a79.json)
 
 ---
 
@@ -188,8 +110,6 @@ The Matale District Secretary, the Director General of the NIE, Provincial Direc
 ...
 
 [Data](articles/9e931480.json)
-
-[Extended Data](ext_articles/9e931480.ext.json)
 
 ---
 
@@ -311,23 +231,19 @@ The deceased are a 21 -year -old girl from Moragahahena and a 24 -year -old yout
 
 ---
 
-### Change quickly in driver's permit bond distribution; Ministers
+### சாரதி அனுமதி பத்திர விநியோகத்தில் விரைவில் மாற்றம் ; போக்குவரத்து அமைச்சு
 
 *2025-10-04 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226897) · `ta`
 
-Transport Ministry has decided to increase the validity period from 8 years. A Technical Assessment Committee has also been appointed to review the matter and present the appropriate plan.
+சாரதி அனுமதி பத்திரங்கள் செல்லுபடியாகும் காலத்தை 8 ஆண்டுகளில் இருந்து அதிகரிக்க போக்குவரத்து அமைச்சு தீர்மானித்துள்ளத. இந்த விடயத்தை ஆய்வு செய்து பொருத்தமான திட்டத்தை முன்வைக்க தொழில்நுட்ப மதிப்பீட்டுக் குழுவொன்றும் நியமிக்கப்பட்டுள்ளது.
 
-Considering the age and physical qualification of the applicants when obtaining a driver's permits, the Ministry of Transport further stated that the validity of the driver's permit bonds is scheduled to increase over 8 years.
+சாரதி அனுமதி பத்திரங்களைப் பெறும்போது விண்ணப்பதாரர்களின் வயது மற்றும் உடல் தகுதியைக் கருத்தில் கொண்டு, சாரதி அனுமதி பத்திரங்களின் செல்லுபடியாகும் காலத்தை 8 ஆண்டுகளுக்கு மேல் அதிகரிக்க திட்டமிடப்பட்டுள்ளதாக போக்குவரத்து அமைச்சு மேலும் தெரிவித்துள்ளது.
 
-The idea has also been proposed to increase the validity period for new applicants and driver's licenses for driver's licenses over the age of 40 and over 40 years.
-
-However, Transport Minister Bimal Ratnayake has said that this is not a decision and only a project. Even if such action is taken, it does not apply to heavy motorists. The Minister added that heavy motorists should renew their driver's permits every 3 years.
+நடுத்தர வயது மற்றும் 40 வயதுக்கு மேற்பட்ட ஓட்டுநர் உரிமங்களுக்கான புதிய விண்ணப்பதாரர்கள் மற்றும் சாரதி அனுமதி பத்திரங்களை புதுப்பிக்க வரும் விண்ணப்பதாரர்களுக்கு ஏற்ற காலத்திற்கு செல்லுபடியாகும் காலத்தை அதிகரிக்கவும் யோசனை முன்வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
 
 ...
 
 [Data](articles/1ac6c1b0.json)
-
-[Extended Data](ext_articles/1ac6c1b0.ext.json)
 
 ---
 
@@ -723,20 +639,6 @@ The Meteorological Department urges the public to take necessary steps to reduce
 
 ---
 
-### ශ්‍රී ලංකා - ඔස්ට්‍රේලියා තරගයට වර්ෂාවෙන් බාධා
-
-*2025-10-04 15:51:57* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---ඔස්ට්‍රේලියා-තරගයට-වර්ෂාවෙන්-බාධා/9-418908) · `si`
-
-2025 කාන්තා එක්දින ලෝක කුසලානයේ ශ්‍රී ලංකා - ඔස්ට්‍රේලියා තරගයට වර්ෂාවෙන් බාධා එල්ල වී තිබේ.
-
-මෙම තරගය ප.ව.03ට කොළඹ ආර්.ප්‍රේමදාස ක්‍රීඩාංගනයේදී පැවැත්වීමට නියමිතව තිබූ අතර, වර්ෂාව හේතුවෙන් මෙතෙක් කාසියේ වාසිය  හෝ උරගා බැලීමට  නොහැකිවී තිබේ.
-
-◼️
-
-[Data](articles/5fedc48b.json)
-
----
-
 ### We will resist when we see it all the snoring
 
 *2025-10-04 15:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லாத்துக்கும்-குறட்டை-அதை-கண்டதும்-எதிர்ப்போம்/175-365706) · `ta`
@@ -1039,24 +941,6 @@ Residents of the area hospitalized after the accident and the injured couple wer
 
 ---
 
-### යතුරුපැදියක් ලොරියක ගැටී දෙදෙනෙක් මරුට
-
-*2025-10-04 14:44:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/යතරපදයක-ලරයක-ගට-දදනක-මරට/1-680729) · `si`
-
-හොරණ මොරගහහේන මාර්ගයේ කනන්විල පන්සල අසල වංගුවේදී අද දහවල් යතුරුපැදියක් සහ ලොරි රථයක් එකිනෙක ගැටීමෙන් තරැණ අඹුසැමි යුවළක් මියගොස් ඇති බව හොරණ පොලසි පවසයි.
-
-මෙසේ මියගොස් ඇත්තේ මොරගහහේන බෙරැකැටිය ප්‍රදේශයේ පදිංචි වයස අවුරුදු 21 සහ 24 යන  වයස්වල  පසුවන පූර්ණ මනුෂ්ක සහ චතුරිකා අප්සරා නැමැති යුවලක් බව පොලිසිය කියයි.
-
-හොරණ මොරගහහේන ප්‍රධාන මාර්ගයේ මොරගහහේන දෙස සිට හොරණ දෙසට ගමන් කළ ලොරි රථයක් සහ හොරණ සිට මොරගහහේන දෙසට ගමන් කරන යතුරුපැදියක් අද දහවල් මෙසේ අනතුරට ලක්ව ඇති අතර වංගුවත් සමග පැදිකරැට යතුරුපැදිය  පාලනය කර ගැනීමට නොහැකිව පෙරළී ගොස් නිවැරදි මන්තීරුවේ පැමිණි ලොරි රථයේ ගැටී ඇති බවට සැක කරන බව පොලිසිය පවසයි.
-
-අනතුරින් පසු ප්‍රදේශවාසීන් එක්ව තුවාලකරුවන් රෝහල් ගත කර ඇති අතර රෝහලට ඇතුළත් කිරීමේදි බරපතල තුවාලා ලබා සිටි අඹුසැම යුවළ මියගොස් ඇති ඇති බව පොලිසිය පවසයි.
-
-◼️
-
-[Data](articles/a498a18d.json)
-
----
-
 ### Mahinda Rajapaksa handed over his security vehicle
 
 *2025-10-04 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/226878) · `ta`
@@ -1098,24 +982,6 @@ In Jaffna, Anuradhapura Bentota and Colombo, Colombo, Jaffna, Jaffna, Jaffna.
 [Data](articles/15bf675b.json)
 
 [Extended Data](ext_articles/15bf675b.ext.json)
-
----
-
-### ජනපති බංගලා  නඩත්තුවට කෝටි අටක් ගෙවලා
-
-*2025-10-04 14:36:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-බගල-නඩතතවට-කට-අටක-ගවල/1-680727) · `si`
-
-ජනාධිපති මන්දිර අට නඩත්තු කිරීම සඳහා ඉකුත් වර්ෂයේ (2024) රුපියල් අටකෝටි එක්ලක්ෂ පනස්හතරදහස් හාරසිය විසිදෙකක මුදලක් ජනාධිපති ලේකම් කාර්යාලය  විසින් වැය කරනු ලැබ ඇත.
-
-මෙම ජනාධිපති මන්දිරවල ආරක්ෂක අංශ නිලධාරීහු තුන්සිය අනූ දෙදෙනෙක් සහ  සිවිල් සේවකයෝ 16 දෙනෙක් සේවයේ යොදවනු ලැබ සිටිති. සිවිල් සේවකයින් 16 දෙනකු සඳහා වැටුප් හා දීමනා ගෙවීම සඳහා ඉකුත් වර්ෂයේ (2024) දී රුපියල් එක්කෝටි තිස්හත්ලක්ෂ හතළිස් එක්දහස් අසූවක මුදලක් (13,741,080) වැය කර තිබුණි.
-
-මේ තොරතුරු ඇතුළත් වන්නේ ජනාධිපති ලේකම් කාර්යාලයේ  2024  වාර්ෂික කාර්යසාධන වාර්තාවට ඇතුළත් කර ඇති විගණන වාර්තාවේය
-
-යාපනය අනුරාධපුර මහනුවර මහියංගණය නුවරඑළිය කතරගම බෙන්තොට සහ   කොළඹ එම ජනාධිපති බංගලාවේ.
-
-◼️
-
-[Data](articles/9edeaaf2.json)
 
 ---
 
@@ -1330,24 +1196,6 @@ COLOMBO (News 1st); Acting Police Spokesperson, Assistant Super of Police Minura
 [Data](articles/1293e214.json)
 
 [Extended Data](ext_articles/1293e214.ext.json)
-
----
-
-### චන්ද්‍රිකාත් බංගලාවෙන් ඉවත්වෙයි
-
-*2025-10-04 13:44:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/චනදරකත-බගලවන-ඉවතවය/1-680726) · `si`
-
-හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මියද ඉදිරි සති දෙක තුන ඇතුළතදී කොළඹ රජයේ බංගලාවෙන් ඉවත්වී නගරයේම කුලී නිවසක පදිංචියට යෑමට නියමිතය
-
-චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය මේ දිනවල අසනීප තත්වයෙන් පසුවන හෙයින් ඒ කටයුතු  ප්‍රමාද වුණු බවද  හිටපු ජනාධිපතිවරියගේ ලේකම්වරයෙක් ලංකාදීපයට සඳහන් කළේය.
-
-හිටපු ජනාධිපතිවරුන්ගේ පහසුකම් ඉවත් කිරීමේ පනත් කෙටුම්පත  පාර්ලිමේන්තුවේදී පසුගියදා සම්මත කෙරිණ. මේ අනුව හිටපු ජනාධිපති වරුන්ගේ විශ්‍රාම වැටුප හැර අනෙකුත් සියලුම පහසුකම් අහිමි වී ගියේය.
-
-එසේම  හිටපු ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාගේ බිරිඳගේ විශ්‍රාම වැටුප  මෙන්ම අනෙකුත් සියලුම පහසුකම්ද  මෙම පනත් කෙටුම්පත සම්මත වීමෙන් පසු  අහිමිවී  ගොස් ඇත.
-
-◼️
-
-[Data](articles/6df01cf1.json)
 
 ---
 
@@ -1777,28 +1625,6 @@ The lorry was sitting out on the front seat and lived out and the driver was stu
 
 ---
 
-### පුංචි සභාවල වාහන දාහක් අතුරුදන්: සමහර ඒවා මස් කරලා
-
-*2025-10-04 11:38:41* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පච-සභවල-වහන-දහක-අතරදන-සමහර-ඒව-මස-කරල/1-680724) · `si`
-
-පළාත් සභාවන්හි සහ  නගර සභා ප්‍රාදේශීය සභා ඇතුළු පළාත් පාලන ආයතනවල වාහන දහසකට වැඩි ප්‍රමාණයක් පසුගිය කාලයේදී අතුරුදන්ව ඇතැයි රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ආරංචි මාර්ග සඳහන් කළේය.
-
-මින් වාහන බොහොමයක තොරතුරු පවා සොයා ගැනීමට  නොහැකිව  ඇතැයි පවසන එම ආරංචි මාර්ග සමහර වාහන කොටස්කර විකුණන්නට ඇතැයි  ප්‍රබල  සැකයක් මතුවන බවද ප්‍රකාශ කළේය.
-
-මේ සම්බන්ධයෙන් අප රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍ය ආචාර්ය චන්දන අබේරත්න  මහතාගෙන් කළ විමසුමකදී ඔහු පැවසුවේ මෙම වාහන සම්බන්ධයෙන් තොරතුරු අනාවරණය කර ගැනීමට අමාත්‍යාංශ මට්ටමින් කිසියම් රහසිගත  විමර්ශනයක් කරගෙන  යන බවයි.
-
-එසේම මෙම  වාහන  කිසියම් හෝ ස්ථානයක රඳවා තිබේ නම් ඒවා නොපමාව ගෙන විත් බාර දෙන ලෙස අමාත්‍යාංශය ඉල්ලීමක් කරයි.
-
-වාහන බාර නොදී කිසියම් ස්ථානයක තිබී අත්අඩංගුවට ගැනුණහොත් ඒවා ළඟ තබාගෙන සිටින පුද්ගලයන්ට එරෙහිව   නීතිය ඉතා දැඩිව   ක්‍රියාත්මක කරන බව  අමාත්‍යාංශය පවසයි.
-
-පළාත් පාලන ආයතනවල  අතුරුදන් වාහන සම්බන්ධයෙන් විගණන අංශද වෙනම විමර්ශනයක් පවත්වයි.
-
-...
-
-[Data](articles/b48debba.json)
-
----
-
 ### Easy Disappearance in Little Counsels: Some of them were released
 
 *2025-10-04 11:38:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පච-සභවල-වහන-දහක-අතරදන-සමහර-ඒව-මස-කරල/101-680724) · `si`
@@ -1974,5 +1800,203 @@ The other side of the coin shows Trump in profile with the word “liberty” ab
 [Data](articles/6db7a6a3.json)
 
 [Extended Data](ext_articles/6db7a6a3.ext.json)
+
+---
+
+### Motorcycle rider in shooting incident near Dehiwala railway station arrested
+
+*2025-10-04 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113205/motorcycle-rider-in-shooting-incident-near-dehiwala-railway-station-arrested-) · `en`
+
+A suspect has been arrested in connection with the shooting incident and attempted murder of a person near the Dehiwala Railway Station, police said.
+
+The incident occurred on July 18, when a person was seriously injured and hospitalized after being shot by two unidentified individuals who arrived on a motorcycle near the Dehiwala Railway Station.
+
+Following an investigation conducted by the Mount Lavinia Divisional Criminal Investigation Bureau, the suspect who allegedly rode the motorcycle used in the shooting has been arrested.
+
+Police recovered 50 grams of crystal methamphetamine (“Ice”), five swords, and a dagger from the suspect’s possession, said police.
+
+According to Police, the suspect is a 34-year-old resident of Seevali Road in Mount Lavinia.
+
+◼️
+
+[Data](articles/657020f6.json)
+
+[Extended Data](ext_articles/657020f6.ext.json)
+
+---
+
+### Munich airport shuts again over drone scare
+
+*2025-10-04 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113204/munich-airport-shuts-again-over-drone-scare) · `en`
+
+Munich airport was forced to halt operations for the second day in a row on Friday (Oct 3) over drone sightings, with dozens of flights and more than 6,000 passengers affected.
+
+Airports in Denmark, Norway and Poland have recently suspended flights due to unidentified drones, while Romania and Estonia have pointed the finger at Russia, which has brushed off the allegations.
+
+Munich airport said in a statement that on Friday “from 9.30pm air traffic was restricted and then cancelled due to drone sightings”, meaning 23 incoming flights were diverted and 12 bound for Munich were cancelled.
+
+Forty-six departures from the airport had to be cancelled or delayed until Saturday, with a total of 6,500 passengers affected.
+
+A police spokesman told AFP that there were “two simultaneous confirmed drone sightings by police patrols just before 11pm around the north and south runways”.
+
+“The drones immediately moved away, before they could be identified,” he added.
+
+...
+
+[Data](articles/29e7408c.json)
+
+[Extended Data](ext_articles/29e7408c.ext.json)
+
+---
+
+### சிறுவர்களை ஆபாச செயற்பாடுகளுக்குள் தள்ளும் டிக்டொக் : ஆய்வில் வெளியான அதிர்ச்சித் தகவல் !
+
+*2025-10-04 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226861) · `ta`
+
+A new study conducted by the Global Witness Global Witness Global Witness Global Witness, a profitable monitoring team from Britain, has revealed that the Tiktok processor is distracting young users with its recommended search terms.
+
+The report has been revealed as the pressure on the web sites to make age verification on the Internet is on the rise.
+
+As part of the report, published on October 3, Global Whitness has created 7 new tick doc accounts in the UK on the new phones that have already been deleted in search histories.. The minimum age is 13 to start the Dictok account.
+
+According to Dictok's support page, the 'Restricted Mode' limits the content that is considered "not comfortable", including "sexual contents", including "sexual contents".. However, Global Whitness reported that the search suggestions of Dictock were "more sexual" for users who are referred to as 13 -year -olds and using controlled mode.
+
+...
+
+[Data](articles/cbcfbecc.json)
+
+[Extended Data](ext_articles/cbcfbecc.ext.json)
+
+---
+
+### Jaffna District Cultural Festival
+
+*2025-10-04 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/226859) · `ta`
+
+The Jaffna District Cultural Festival was held on Friday (03) with the sponsorship of the Northern Provincial Cultural Affairs Department.
+
+Yall. The Cultural Festival was held at the District Secretariat auditorium following the inauguration of the cultural procession from the Church of St. Yuaniyar and reached the District Secretariat.
+
+This year's Cultural Festival, which was held at the Child Mr. Shanmugalingam Hall, was held with 15 Divisional Secretariats - artists and students of the area.
+
+In addition, the "Jaffna - 4" (traditions and beliefs) book launch ceremony was also held.
+
+In the subsequent event, the "Jaffna Muthu" Award was honored with 15 artists and the undergraduate award 15 artists.
+
+...
+
+[Data](articles/35421759.json)
+
+[Extended Data](ext_articles/35421759.ext.json)
+
+---
+
+### Welcome to US President Trump's leadership - Indian Prime Minister Modi
+
+*2025-10-04 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226860) · `ta`
+
+காசா முனையை நிர்வகித்து வரும் ஹமாஸ் ஆயுதக்குழுவினர் கடந்த 2023 ஆம் ஆண்டு ஒக்டோபர் 7 ஆம் திகதி இஸ்ரேலுக்குள் புகுந்து நடத்திய பயங்கரவாத தாக்குதலில் 1,139 இஸ்ரேலியர்கள் கொல்லப்பட்டனர். In addition, 251 were abducted by Hamas hostage to the Gaza tip.
+
+In the meantime, Israel declared a war on Hamas and launched an intense attack on the Gaza tip. More than 66 thousand Palestinian people, including women and children, have been killed in the attack. Israel has rescued many of the hostage in Hamas on a contract basis and military action.
+
+Israeli Prime Minister Benjamin Netanyahu has said that a ceasefire will not occur until the Hamas is completely destroyed by all the hostages.. In this context, efforts are being made by US President Trump to end the Gaza War.
+
+Meanwhile, Trump presented a 20 -feature plan to end the Gaza War. It is said that Netanyahu has agreed to the project. Hamas said it was considering it as Hamas movement was pressured to accept Trump's compromise plan.
+
+...
+
+[Data](articles/d1aebe8e.json)
+
+[Extended Data](ext_articles/d1aebe8e.ext.json)
+
+---
+
+### Diwali Business Land lease. 3.6 million income
+
+*2025-10-04 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226853) · `ta`
+
+The Attan-Tikoya City Council has earned more than 3.6 million income by leasing 146 land for commercial activities on the occasion of Diwali.
+
+Due to this, the designated areas near the Star Square and Shakti Hall are reserved for commercial activities under the rules.
+
+◼️
+
+[Data](articles/8911da5f.json)
+
+[Extended Data](ext_articles/8911da5f.ext.json)
+
+---
+
+### Dehiwala shooting motorcyclist arrested
+
+*2025-10-04 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215323) · `si`
+
+A person has been arrested on suspicion of attempting to kill a person who shot at Dehiwala and Railway Station.
+
+On July 18, a shooting of two unidentified people from the Dehiwala Railway Station was taken seriously injured.
+
+The motorcycle joint vehicles came after the Mount Lavinia Division Criminal Investigation (Mightl)
+
+The Police Media Division stated that he was found in the possession of the suspect's possession of 50 ice drugs, five swords and a crisis.
+
+◼️
+
+[Data](articles/b4f9db3a.json)
+
+[Extended Data](ext_articles/b4f9db3a.ext.json)
+
+---
+
+### Strong economic crisis in France: nationwide strike - Eiffel Tower Closure!
+
+*2025-10-04 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226857) · `ta`
+
+French government reduced budget spending to deal with economic crisis. The people jumped into the protest in protest of the lack of funds for the essential sectors such as health and education.
+
+In the context of these protests, Sebastian Legorn was appointed as the country's new prime minister. However, his appointment further stirred the protesters. As a result, the protesters began the 'Block Everything' movement and called for a nationwide strike.
+
+Accepting the invitation, more than 85 thousand protesters gathered in major cities of France, including the capital Paris. இந்த வேலைநிறுத்தம் காரணமாக ரயில் மற்றும் பொதுப் போக்குவரத்துச் சேவைகள் பாதிக்கப்பட்டன.
+
+As a result of the struggle, the Eiffel Tower, the world -renowned tourist destination, closed. The tower was not opened as the tower management staff also participated in the strike.
+
+...
+
+[Data](articles/58fb649b.json)
+
+[Extended Data](ext_articles/58fb649b.ext.json)
+
+---
+
+### மின்சாரக் கட்டணம் 6.8 சதவீதத்தால் உயர்வு?
+
+*2025-10-04 10:38:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-6-8-சதவீதத்தால்-உயர்வு/175-365703) · `ta`
+
+The Public Utilities Commission's decision on the proposal by the Ceylon Electricity Board (CEB) will be released on the 15th of this month, the Media Spokesperson of the Public Utilities Commission said.
+
+He said that after the final session of the Western Provincial Advisory on the 8th of this month, the final decision on the amendment of the fees would be taken. R
+
+◼️
+
+[Data](articles/0be2b96b.json)
+
+[Extended Data](ext_articles/0be2b96b.ext.json)
+
+---
+
+### Discussion between Gajendrakumar MP and Dr.
+
+*2025-10-04 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226854) · `ta`
+
+Parliamentarian Gajendrakumar Ponnambalam, Tellippalai Durga Devi Devasthanam, Deputy Leader of the All Ceylon Hindu Council and Spiritual Leader of the All Ceylon Hindu Council met on Friday (03).
+
+The discussion was held at the Tellippalai Durkayamman complex. Former parliamentarian Selvarasa Gajendran was also present at the meeting.
+
+It is noteworthy that the Member of Parliament was clarifying the dangers of the Achika Kingdom (Unity of the Unit of the Unity of the Government of Sri Lanka.
+
+◼️
+
+[Data](articles/349c67cf.json)
+
+[Extended Data](ext_articles/349c67cf.ext.json)
 
 ---

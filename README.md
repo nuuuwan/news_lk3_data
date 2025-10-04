@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 22:20:43**
+As of **2025-10-04 22:37:01**
 
 ## Newspaper Stats
 
-*Scraped **81,164** Articles*
+*Scraped **81,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,37 @@ adalk | 7,782
 adaderanalk | 10,437
 tamilmirrorlk | 12,049
 virakesarilk | 13,333
-adaderanasinhalalk | 13,956
+adaderanasinhalalk | 13,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,164 (100.0%) of 81,164 articles have been extended.
+81,164 (100.0%) of 81,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### සිසුවෙකුට දිවි අහිමි කළ මාරක අනතුර
+
+*2025-10-04 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215347) · `si`
+
+ගම්පහ පොලිස් වසමේ උඩුගම්පොළ වීදියවත්ත මංසන්ධියේදී අද (04) උදෑසන සිදුවූ රිය අනතුරකින් වයස අවුරුදු පහළොවක පිරිමි ළමයකු ජීවිතක්ෂයට පත්වී තිබේ.
+
+මෙලෙස අනතුරට පත්වී ඇත්තේ වීදියවත්ත දොළාගත පාරේ පදිංචි උඩුගම්පල සෙනරත් පරණවිතාන ජාතික පාසලේ දහවන වසරේ ඉගෙනුම ලැබූ සිසුවෙකි.
+
+අදාළ සිසුවා පෞද්ගලික උපකාර පන්තියකට සහභාගි වී නැවත පැමිණෙමින් සිටින අතරතුර පිටුපසින් පැමිණි යකඩ පටවා ගත් ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+
+එමෙන්ම එම ලොරි රථය මෝ‍ටර් රථයක සහ තවත් ත්‍රීරෝද රථයක ද ගැටී ඇති බව සඳහන් වේ.
+
+අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියැදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර වැඩිදුර පරීක්ෂණ ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/847e1370.json)
+
+---
 
 ### Udunuwara Forever Declare Overcoming Voting Over 9-0
 
@@ -1980,19 +2000,5 @@ Allegations have been made against various parties by the people. Investigations
 [Data](articles/22c76771.json)
 
 [Extended Data](ext_articles/22c76771.ext.json)
-
----
-
-### Draft Amendments on Corporal Punishment of Children Not Yet Law – Says Minister of Justice
-
-*2025-10-04 13:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/draft-amendments-on-corporal-punishment-of-children-not-yet-law-says-minister-of-justice) · `en`
-
-COLOMBO (News 1st); Minister of Justice and National Cohesion, Attorney Harshana Nanayakkara, said that the draft amendments to the Penal Code regarding corporal punishment of children have not been enacted into law.The Minister added that any amendments can be added at the Committee Stage. The Minister added that for the amendments to be implemented, corresponding changes should also be made to the Code of Criminal Procedure, which is why the bill was not formally passed.
-
-◼️
-
-[Data](articles/021edd81.json)
-
-[Extended Data](ext_articles/021edd81.ext.json)
 
 ---

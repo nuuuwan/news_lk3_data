@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 20:06:12**
+As of **2025-10-04 20:37:33**
 
 ## Newspaper Stats
 
-*Scraped **81,138** Articles*
+*Scraped **81,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,59 @@ adalk | 7,780
 adaderanalk | 10,437
 tamilmirrorlk | 12,046
 virakesarilk | 13,327
-adaderanasinhalalk | 13,953
+adaderanasinhalalk | 13,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,138 (100.0%) of 81,138 articles have been extended.
+81,140 (100.0%) of 81,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### It is confirmed that the car was previously the car of the Thajadeen's car - CID says CID
+
+*2025-10-04 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215345) · `si`
+
+The Criminal Investigations Department (CID) has confirmed that the inquiry made by the jeep of the jeep that traveled by the jeep before the killing of his car before the killing of his car before the killing of his car before the killing of his car before murdered Tajadeen.
+
+The Criminal Investigation Department (CID) is investigated for 13 years on the murder of rugby playing Tajudine.
+
+However, he has not been able to identify the person who was still killed.
+
+His wife recently gave a statement to investigations into the investigation officials that he was assassinated in the jeep of the jeep that followed his car before the assassination of Thajdeen.
+
+Accordingly, the investigation officials have proved to be a man in the diagram in the relevant diagrams.
+
+The Department added that investigations are conducted to further confirm this.
+
+◼️
+
+[Data](articles/d42943a9.json)
+
+[Extended Data](ext_articles/d42943a9.ext.json)
+
+---
+
+### Landslide warning announcement for several districts
+
+*2025-10-04 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215344) · `si`
+
+The National Building Research Organization has taken steps to issue a landslide warning announcements at several districts in several districts in several districts.
+
+The organization said that the warning announces will be effective from 6.00 pm to 6:00 pm tomorrow.
+
+Accordingly, the organization has taken steps to issue the alarm statement to Kothumbura, Bibile, Rattota, Bibila, Bibile, Bibile, Bibile, Bibile, Bibile, Biwala, Bibile in Matale District, Ukuwela, Bibile in Matale District, Badulla District.
+
+◼️
+
+[Data](articles/26d23a3c.json)
+
+[Extended Data](ext_articles/26d23a3c.ext.json)
+
+---
 
 ### Whatever the renewable energy is continuous
 
@@ -1954,45 +1996,5 @@ The shooting at the Dehiwala Railway Station was severely injured on July 18.
 [Data](articles/0b78851e.json)
 
 [Extended Data](ext_articles/0b78851e.ext.json)
-
----
-
-### Punishment for owners who do not maintain health rules in Valvettithurai
-
-*2025-10-04 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226858) · `ta`
-
-One lakh 60 thousand rupees has been imposed on restaurants and supermarkets that do not maintain the health regulations under the Jaffna Valvettithurai Urban Council.
-
-Public health inspectors conducted a test of restaurants and supermarkets in the area under the rule of the Valvettithurai Urban Council.
-
-At the same time, the Public Health Inspector has filed a case against three supermarkets on charges of selling non -human food products.
-
-After the owners accepted the allegations against them during the trial, the judiciary, who strongly warned the owners, sentenced the restaurant owner to Rs.
-
-◼️
-
-[Data](articles/80be9dc0.json)
-
-[Extended Data](ext_articles/80be9dc0.ext.json)
-
----
-
-### US considers $1 Trump coin to mark 250th independence celebrations
-
-*2025-10-04 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113206/us-considers-1-trump-coin-to-mark-250th-independence-celebrations) · `en`
-
-The U.S. Treasury is considering making a $1 coin featuring President Donald Trump to commemorate 250 years since the declaration of American independence in 2026, it said on Friday.
-
-Images of the potential design showed Trump holding a raised clenched fist on one side of the coin alongside the words “fight, fight, fight” - a reference to what he said immediately after surviving an assassination attempt last year.
-
-The other side of the coin shows Trump in profile with the word “liberty” above him and “1776-2026” written below, according to images shared by Treasurer Brandon Beach on X.
-
-“While a final $1 dollar coin design has not yet been selected to commemorate the United States’ semiquincentennial, this first draft reflects well the enduring spirit of our country and democracy, even in the face of immense obstacles,” a Treasury spokesperson said in a statement.
-
-...
-
-[Data](articles/6db7a6a3.json)
-
-[Extended Data](ext_articles/6db7a6a3.ext.json)
 
 ---

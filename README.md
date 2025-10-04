@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 12:20:59**
+As of **2025-10-04 12:11:02**
 
 ## Newspaper Stats
 
-*Scraped **81,030** Articles*
+*Scraped **81,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,80 +18,20 @@ economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,772
-adaderanalk | 10,428
+adaderanalk | 10,425
 tamilmirrorlk | 12,042
-virakesarilk | 13,294
+virakesarilk | 13,293
 adaderanasinhalalk | 13,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,017 (100.0%) of 81,030 articles have been extended.
+81,017 (100.0%) of 81,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
-
-### US considers $1 Trump coin to mark 250th independence celebrations
-
-*2025-10-04 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/113206/us-considers-1-trump-coin-to-mark-250th-independence-celebrations) · `en`
-
-The U.S. Treasury is considering making a $1 coin featuring President Donald Trump to commemorate 250 years since the declaration of American independence in 2026, it said on Friday.
-
-Images of the potential design showed Trump holding a raised clenched fist on one side of the coin alongside the words “fight, fight, fight” - a reference to what he said immediately after surviving an assassination attempt last year.
-
-The other side of the coin shows Trump in profile with the word “liberty” above him and “1776-2026” written below, according to images shared by Treasurer Brandon Beach on X.
-
-“While a final $1 dollar coin design has not yet been selected to commemorate the United States’ semiquincentennial, this first draft reflects well the enduring spirit of our country and democracy, even in the face of immense obstacles,” a Treasury spokesperson said in a statement.
-
-...
-
-[Data](articles/6db7a6a3.json)
-
----
-
-### Motorcycle rider in shooting incident near Dehiwala railway station arrested
-
-*2025-10-04 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113205/motorcycle-rider-in-shooting-incident-near-dehiwala-railway-station-arrested-) · `en`
-
-A suspect has been arrested in connection with the shooting incident and attempted murder of a person near the Dehiwala Railway Station, police said.
-
-The incident occurred on July 18, when a person was seriously injured and hospitalized after being shot by two unidentified individuals who arrived on a motorcycle near the Dehiwala Railway Station.
-
-Following an investigation conducted by the Mount Lavinia Divisional Criminal Investigation Bureau, the suspect who allegedly rode the motorcycle used in the shooting has been arrested.
-
-Police recovered 50 grams of crystal methamphetamine (“Ice”), five swords, and a dagger from the suspect’s possession, said police.
-
-According to Police, the suspect is a 34-year-old resident of Seevali Road in Mount Lavinia.
-
-◼️
-
-[Data](articles/657020f6.json)
-
----
-
-### Munich airport shuts again over drone scare
-
-*2025-10-04 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/113204/munich-airport-shuts-again-over-drone-scare) · `en`
-
-Munich airport was forced to halt operations for the second day in a row on Friday (Oct 3) over drone sightings, with dozens of flights and more than 6,000 passengers affected.
-
-Airports in Denmark, Norway and Poland have recently suspended flights due to unidentified drones, while Romania and Estonia have pointed the finger at Russia, which has brushed off the allegations.
-
-Munich airport said in a statement that on Friday “from 9.30pm air traffic was restricted and then cancelled due to drone sightings”, meaning 23 incoming flights were diverted and 12 bound for Munich were cancelled.
-
-Forty-six departures from the airport had to be cancelled or delayed until Saturday, with a total of 6,500 passengers affected.
-
-A police spokesman told AFP that there were “two simultaneous confirmed drone sightings by police patrols just before 11pm around the north and south runways”.
-
-“The drones immediately moved away, before they could be identified,” he added.
-
-...
-
-[Data](articles/29e7408c.json)
-
----
 
 ### சிறுவர்களை ஆபாச செயற்பாடுகளுக்குள் தள்ளும் டிக்டொக் : ஆய்வில் வெளியான அதிர்ச்சித் தகவல் !
 
@@ -196,24 +136,6 @@ He said that after the final session of the Western Provincial Advisory on the 8
 [Data](articles/0be2b96b.json)
 
 [Extended Data](ext_articles/0be2b96b.ext.json)
-
----
-
-### “கெஹெல்பத்தர பத்மே”வின் தாயார் நீதிமன்றில் மனு தாக்கல்!
-
-*2025-10-04 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/226856) · `ta`
-
-தற்போது பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டுள்ள பாதாள உலக கும்பலைச் சேர்ந்த “கெஹெல்பத்தர பத்மே” என்பவரின் தாயார் மேன்முறையீட்டு நீதிமன்றில் ரிட் மனு தாக்கல் செய்துள்ளதாக தகவல் வெளியாகியுள்ளது.
-
-ரிட் மனுவில் குறிப்பிடப்பட்டுள்ளதாகவது, கெஹெல்பத்தர பத்மேவை பொலிஸ் தடுப்பு காவலில் வைத்திருப்பது சட்டவிரோதமானதாகும். பொலிஸ் தடுப்பு காவலில் இருக்கும் போது கெஹெல்பத்தர பத்மேவை குற்றப் புலனாய்வு திணைக்களத்தில் இருந்து வேறு இடங்களுக்கு கொண்டு செல்ல முடியாது என உத்தரவிடுமாறு இந்த மனுவில் கோரப்பட்டுள்ளது.
-
-இதனை கருத்தில் கொண்ட நீதவான் இந்த ரிட் மனு எதிர்வரும் 23 ஆம் திகதி விசாரணைக்கு உட்படுத்தப்படும் என உத்தரவிட்டுள்ளார்.
-
-இந்தோனேசியாவில் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் மற்றும் இந்தோனேசியா பொலிஸாரால் 7 நாட்களாக மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பு நடவடிக்கையின் போது “கெஹெல்பத்தர பத்மே”, “கொமாண்டோ சலிந்த” மற்றும் “பாணந்துறை நிலங்க” உள்ளிட்ட 6 பேர் அடங்கிய பாதாள உலக கும்பல் ஆகஸ்ட் மாதம் 27 ஆம் திகதி கைதுசெய்யப்பட்டது.
-
-...
-
-[Data](articles/d186914b.json)
 
 ---
 
@@ -2058,5 +1980,89 @@ The government's policy is to do nothing to promote the tourism industry.
 [Data](articles/8299cb17.json)
 
 [Extended Data](ext_articles/8299cb17.ext.json)
+
+---
+
+### '' No action will be reversed '
+
+*2025-10-03 18:20:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කළ-පලනය-අවසන-කරන-පයවර-ආපස-හරවනන-න/1-680712) · `si`
+
+President Anura Kumara Dissanayake said that the government has taken over the responsibility of recovering the country's collapsed economy and has taken over the responsibility of recovery.
+
+The President emphasized that the government has not taken steps to end the black governance wearing the black governance wearing the black management with drug trafficking and weapons.
+
+The President made this observation addressing the philanthropy of historical fedees in Kandy this afternoon.
+
+The President said that the Maha Sangha had a major role in the Maha Sangha was given a major role in the public.
+
+The President also pointed out that the Ananda Leader of Narawampana, who is known as Dadurgees and Scientists, the Language of Narawampana.
+
+The President also pointed out that the government's objectives to launch a national movement to eliminate the drug disaster.
+
+The government's policy is to do nothing to promote the tourism industry.
+
+...
+
+[Data](articles/19f1fa01.json)
+
+[Extended Data](ext_articles/19f1fa01.ext.json)
+
+---
+
+### Aditya Madhavan's 'Aders' will be released in November
+
+*2025-10-03 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226829) · `ta`
+
+The film crew has released a special photo of the film 'Adars', starring the hero of the new actor Aditya Madhavan - the classic police officer - will be released in November.
+
+Aditya Madhavan, Gauri Kishan, Anju Kurien, 'Mundasupatti' Ramadas, Jagan, Harish Peradi, Vinod Sagar, R. Many people including Sundarrajan have played.
+
+Jibran Vaiboda has composed the film, which is being recorded by Aravind Singh. The film is being produced as a medical crime thriller and produced by Grand Pictures.
+
+All the tasks of the film are completed and waiting for the release. In this case, the film's burst look was attracted to great attention.. The film will be released worldwide on the seventh of November, the film crew said.
+
+◼️
+
+[Data](articles/5ee59083.json)
+
+[Extended Data](ext_articles/5ee59083.ext.json)
+
+---
+
+### A review of the Government Fund Committee on Construction of Central Highway Kadawatha - Mirigama
+
+*2025-10-03 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226820) · `ta`
+
+The Government Fund Committee was investigated on the amount of debt expected to be obtained for the construction of the Kadawatha-Meerigama area of ​​the central highway.
+
+The matter was taken up for a discussion at a meeting of the Government Funds Committee on the 30th of last month under the leadership of MP Harsha de Silva.
+
+Officials of the Ministry of Transport, Highways, Port and Civil Services said that the length of the Central Highway is 36.475 kilometers of the Central Highway, which is being carried out, and to obtain US $ 500 million from China's Exim Bank to fulfill its construction.
+
+Accordingly, the committee had a long discussion on the interest rate on obtained at Exim Bank, China. The chairman of the committee, who commented here, questioned the authorities as to why the loan received at China's Exim Bank was 2.5% of the interest rate on the interest rate of 3.5%.
+
+...
+
+[Data](articles/4fa848f6.json)
+
+[Extended Data](ext_articles/4fa848f6.ext.json)
+
+---
+
+### Court grants permission to detain and question ‘Beliatte Sana’
+
+*2025-10-03 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/113192/court-grants-permission-to-detain-and-question-beliatte-sana) · `en`
+
+The Tangalle Magistrate’s Court has granted permission for police to detain and interrogate Sanath Weerasinghe, also known as ‘Beliatta Sanaa,’ who was arrested in connection with the large haul of narcotics recently seized in Seenimodara, Tangalle.
+
+Accordingly, Additional Magistrate Vidura Weerakoon permitted police to detain and interrogate the suspect until October 9, police said.
+
+The suspect was arrested on October 1 by the Tangalle Divisional Crime Investigation Unit.
+
+◼️
+
+[Data](articles/411ec493.json)
+
+[Extended Data](ext_articles/411ec493.ext.json)
 
 ---

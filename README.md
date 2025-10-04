@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 14:08:57**
+As of **2025-10-04 14:37:51**
 
 ## Newspaper Stats
 
-*Scraped **81,048** Articles*
+*Scraped **81,058** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 583
+newsfirstlk | 586
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 756
+lankadeepalk | 758
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -19,19 +19,115 @@ islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,774
 adaderanalk | 10,428
-tamilmirrorlk | 12,042
+tamilmirrorlk | 12,044
 virakesarilk | 13,294
-adaderanasinhalalk | 13,939
+adaderanasinhalalk | 13,942
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,045 (100.0%) of 81,048 articles have been extended.
+81,051 (100.0%) of 81,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### பலத்த மின்னல் தாக்கம் குறித்து இலங்கை மக்களுக்கு எச்சரிக்கை
+
+*2025-10-04 14:17:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மின்னல்-தாக்கம்-குறித்து-இலங்கை-மக்களுக்கு-எச்சரிக்கை/175-365705) · `ta`
+
+வடக்கு, வடமத்திய, கிழக்கு, ஊவா மாகாணங்களிலும், குருநாகல் மற்றும் மாத்தளை மாவட்டங்களிலும், இடியுடன் கூடிய மழை மற்றும் பலத்த மின்னல் ஏற்பட அதிக வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இடியுடன் கூடிய மழை பெய்யும் போது, அந்தப் பகுதிகளில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும்.
+
+இன்று (04) இரவு 11 மணி வரை செல்லுபடியாகும் வகையில் பலத்த மின்னல் தாக்கம் குறித்து எச்சரிக்கை விடுத்து வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மின்னல் அபாயத்தை குறைக்க, தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் பொதுமக்களை கேட்டுக்கொள்கிறது. R
+
+◼️
+
+[Data](articles/c9106b8a.json)
+
+---
+
+### ශ්‍රී ලංකාවේ ණය ශ්‍රේණිගත කිරීම් මට්ටම ඉහළට
+
+*2025-10-04 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215331) · `si`
+
+S&P ග්ලෝබල් රේටින්ස් ආයතනය මෙරට දිගුකාලීන සහ කෙටි කාලීන විදේශ මුදල් ස්වෛරී ණයශ්‍රේණිගත කිරීම SD මට්ටමේ සිට CCC+/C මට්ටම දක්වා උසස් කර තිබේ.
+
+එමෙන්ම දිගුකාලීන සහ කෙටිකාලීන දේශීය ණය ශ්‍රේණිගත කිරීම CCC+/C මට්ටමේම පවත්වාගෙන යෑමට තීරණය කර ඇති බවත් නිවේදනයක් නිකුත් කරමින් පැවසීය.
+
+එම නිවේදනය මගින් ඔවුන් වැඩිදුරටත් සඳහන් කර ඇත්තේ, ශ්‍රී ලංකාව පිළිබඳ මෙම ශ්‍රේණිගත කිරීම් සඳහා රටේ ශක්තිමත් ආර්ථික ප්‍රකෘතිය, වේගවත් මූල්‍ය ඒකාබද්ධතාවය සහ ප්‍රතිසංස්කරණ, වැඩිදියුණු වන ගෙවුම් ශේෂ තත්ත්වය සහ රාජ්‍ය ව්‍යවසායන්ගෙන් මූල්‍ය අවදානම් අඩුකිරීමේ තිරසාර ප්‍රගතිය යන කරුණු සැලකිල්ලට ගත් බවය.
+
+මේ අතර ෆිච් රේටින්ස් ආයතනයද විදේශ මුදල්වලින් මෙරටට නිකුත් කරන ලද දිගුකාලීන ණය ආපසු ගෙවීමට ශ්‍රී ලංකාවට ඇති හැකියාව පිළිබඳ වූ ශ්‍රේණිගත කිරීම CCC+ මට්ටමේම පවත්වාගෙන යෑමට තීරණය කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් ඔවුන් පෙන්වා දී ඇත්තේ ශ්‍රී ලංකාව 2024 දී ස්වෛරී ණය ප්‍රතිව්‍යුහගත කිරීම අවසන් කළ ද, රජයේ සාමාන්‍ය ණයබරතාවය ඉහළයාම සහ ඉහළ පොලී-ආදායම් අනුපාතය හේතුවෙන් මෙම ශ්‍රේණිගත කිරීම පැවති CCC+ මට්ටමේම පවත්වාගෙන යෑමට හේතු වූ බවයි.
+
+...
+
+[Data](articles/8932886b.json)
+
+---
+
+### மஹிந்தவின் குண்டு துளைக்காத வாகனமும் கையளிப்பு
+
+*2025-10-04 14:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-குண்டு-துளைக்காத-வாகனமும்-கையளிப்பு/175-365704) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவிற்கு வழங்கப்பட்ட குண்டு துளைக்காத வாகனம்  திருப்பி கையளிக்கப்பட்டுள்ளதாக மஹிந்த ராஜபக்ஷவின் ஊடகப் பேச்சாளர் வெளியிட்ட அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+ஜனாதிபதிகளின் உரிமைகள் நீக்குதல் சட்டம் நடைமுறைக்கு வந்ததன் பின்னர், மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லம் மற்றும் வாகனங்களை திருப்பி கையளிக்குமாறு அறிவிப்பு வந்தது.
+
+இதன் காரணமாக மஹிந்த ராஜபக்ஷவின் உயிருக்கு ஆபத்து ஏற்படலாம் என எச்சரித்துள்ள மஹிந்த ராஜபக்ஷவின் ஊடகப் பேச்சாளர், அடுத்த வாரம், பொலிஸ்மா அதிபர், பாதுகாப்பு செயலர், மற்றும் பாதுகாப்பு பிரதானிகளைச் சந்தித்து மஹிந்த ராஜபக்ஷவின் பாதுகாப்புக்கு தேவையான வாகனங்களை பெற்றுக்கொள்வதற்கான கோரிக்கையை முன்வைப்போம் எனத் தெரிவித்துள்ளார்.  R
+
+◼️
+
+[Data](articles/35d09f9d.json)
+
+---
+
+### Vendors Fined for Selling Rice Above Controlled Price
+
+*2025-10-04 14:03:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/vendors-fined-for-selling-rice-above-controlled-price) · `en`
+
+COLOMBO (News 1st); The Consumer Affairs Authority (CAA) has conducted special raids to identify vendors selling rice above the controlled prices announced by the Government.The Authority stated that special teams have been deployed across the country for these operations.During recent raids, vendors selling Keeri Samba rice at inflated prices were taken into custody and produced in court.The CAA added that three shop owners in Panadura, Matara, and Nagoda in Kalutara were each fined Rs.100,000 by the court for selling Keeri Samba rice above the regulated price.One individual in Horana was fined Rs. 20,000 while authorities seized 25 five kilogram packs of Keeri Samba rice in his possession.
+
+◼️
+
+[Data](articles/3f54ffbb.json)
+
+[Extended Data](ext_articles/3f54ffbb.ext.json)
+
+---
+
+### Validity Period of Driving Licenses to Be Extended
+
+*2025-10-04 14:00:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/validity-period-of-driving-licenses-to-be-extended) · `en`
+
+COLOMBO (News 1st); The Department of Motor Traffic has decided to extend the validity period of driving licenses.Commissioner General of Motor Traffic, Kamal Amarasinghe, said that a special committee has been appointed to study the possible extension period.The committee comprises technical officers from the Ministry of Transport and Highways and the Department of Motor Traffic.He further said the committee has been instructed to conduct a detailed study and submit a report on the matter, after which discussions will be held with the Minister of Transport and Highways, Bimal Rathnayake, and other officials to determine the next steps.At present, the validity period of a driving license for light vehicles is eight years, while period for heavy vehicles, is four years.Under the new proposal, these validity periods are expected to be extended considerably.
+
+◼️
+
+[Data](articles/31710abe.json)
+
+[Extended Data](ext_articles/31710abe.ext.json)
+
+---
+
+### 50 Bus Conductors Fined for Failing to Issue Passenger Tickets
+
+*2025-10-04 13:56:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/50-bus-conductors-fined-for-failing-to-issue-passenger-tickets) · `en`
+
+COLOMBO (News 1st); The Western Province Road Passenger Transport Authority reported that 50 private bus conductors have been fined for failing to issue tickets to passengers.Chairman Gamini Jasinghe said that inspections began on the 1st of this month with the enforcement of the law mandating ticket issuance for passengers in private buses operating within the Western Province.Accordingly, several teams are conducting inspections across the Colombo, Gampaha, and Kalutara districts.The Authority further announced that bus conductors who fail to issue tickets will be fined Rs. 750, required to attend a one-day discipline training program, and suspended from duty for three days.
+
+◼️
+
+[Data](articles/4270f6a7.json)
+
+[Extended Data](ext_articles/4270f6a7.ext.json)
+
+---
 
 ### Police Question Suspect in Ice Drug Trafficking Case
 
@@ -42,6 +138,8 @@ COLOMBO (News 1st); A suspect arrested in the Horowpathana in connection with an
 ◼️
 
 [Data](articles/05e6c5ac.json)
+
+[Extended Data](ext_articles/05e6c5ac.ext.json)
 
 ---
 
@@ -55,6 +153,26 @@ COLOMBO (News 1st); Acting Police Spokesperson, Assistant Super of Police Minura
 
 [Data](articles/1293e214.json)
 
+[Extended Data](ext_articles/1293e214.ext.json)
+
+---
+
+### චන්ද්‍රිකාත් බංගලාවෙන් ඉවත්වෙයි
+
+*2025-10-04 13:44:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/චනදරකත-බගලවන-ඉවතවය/101-680726) · `si`
+
+හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මියද ඉදිරි සති දෙක තුන ඇතුළතදී කොළඹ රජයේ බංගලාවෙන් ඉවත්වී නගරයේම කුලී නිවසක පදිංචියට යෑමට නියමිතය
+
+චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය මේ දිනවල අසනීප තත්වයෙන් පසුවන හෙයින් ඒ කටයුතු  ප්‍රමාද වුණු බවද  හිටපු ජනාධිපතිවරියගේ ලේකම්වරයෙක් ලංකාදීපයට සඳහන් කළේය.
+
+හිටපු ජනාධිපතිවරුන්ගේ පහසුකම් ඉවත් කිරීමේ පනත් කෙටුම්පත  පාර්ලිමේන්තුවේදී පසුගියදා සම්මත කෙරිණ. මේ අනුව හිටපු ජනාධිපති වරුන්ගේ විශ්‍රාම වැටුප හැර අනෙකුත් සියලුම පහසුකම් අහිමි වී ගියේය.
+
+එසේම  හිටපු ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාගේ බිරිඳගේ විශ්‍රාම වැටුප  මෙන්ම අනෙකුත් සියලුම පහසුකම්ද  මෙම පනත් කෙටුම්පත සම්මත වීමෙන් පසු  අහිමිවී  ගොස් ඇත.
+
+◼️
+
+[Data](articles/487fa998.json)
+
 ---
 
 ### Former President Mahinda Rajapaksa Returns Bulletproof Vehicle
@@ -66,6 +184,28 @@ COLOMBO (News 1st); Media Spokesperson of Former President Mahinda Rajapaksa Att
 ◼️
 
 [Data](articles/be3badf4.json)
+
+[Extended Data](ext_articles/be3badf4.ext.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනය ගැන PUCSL අවසන් තීරණය ඉදිරි සති දෙක තුළ
+
+*2025-10-04 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215330) · `si`
+
+විදුලි ගාස්තු ඉහළ දැමීම සම්බන්ධයෙන් ලංකා විදුලි බල මණ්ඩලය ඉදිරිපත් කළ යෝජනාව පිළිබඳ ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිසමේ තීරණය මෙම මස දෙවන සතිය අවසානයේ ලබා දීමට කටයුතු කරන බව එම කොමිසම පවසයි.
+
+විදුලි ගාස්තු ඉහළ සියයට 6.8කින් ඉහළ නංවන ලෙස යෝජනා කරමින් පසුගිය සැප්තැම්බර් මාසයේ ලංකා විදුලි බල මණ්ඩලය විසින් මහජන උපයෝගීතා කොමිසමෙන් ඉල්ලීමක් සිදු කරනු ලැබීය.
+
+ඒ අනුව එම කොමිසම විසින් ඊට අදාළ වාචිකව මහජන අදහස් ලබාගැනීම පසුගිය මස 18 වනදා නැගෙනහිර පළාතෙන් ආරම්භ කරනු ලැබීය.
+
+මේ වන විට දිවයිනේ පළාත් 8ක් ආවරණය වන පරිදි මහජන අදහස් ලබා ගෙන ඇති අතර, පුද්ගලයින් 500කට අධික ප්‍රමාණයක් ඊට සහභාගි වූ බව ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිසමේ මාධ්‍ය ප්‍රකාශක ජයනාත් හේරත් මහතා සඳහන් කළේය.
+
+මහජන අදහස් ලබා ගැනීමේ අවසන් සැසිය එළඹෙන 8 වනදා බස්නාහිර පළාත කේන්ද්‍ර කර ගනිමින් සිදු කිරීමට කටයුතු යොදා ඇත.
+
+...
+
+[Data](articles/5798caa3.json)
 
 ---
 
@@ -80,6 +220,22 @@ COLOMBO (News 1st); Minister of Justice and National Cohesion, Attorney Harshana
 [Data](articles/021edd81.json)
 
 [Extended Data](ext_articles/021edd81.ext.json)
+
+---
+
+### ජපානයේ පළමු කාන්තා අගමැතිනිය වීමට Sanae Takaichi සූදානම්
+
+*2025-10-04 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215329) · `si`
+
+Sanae Takaichi ජපානයේ පළමු කාන්තා අගමැතිනිය ලෙස පත්වීමට නියමිතව තිබේ.
+
+ඒ ජපානයේ පාලක පක්ෂය විසින් Takaichi සිය පක්ෂයේ නව ප්‍රධානියා ලෙස තෝරා පත් කර ගැනීමත් සමගය.
+
+ෂිගේරු ඉෂිබා වෙනුවට අගමැතිවරයෙකු තෝරා ගැනීම සඳහා පාර්ලිමේන්තුවේ ඡන්ද විමසීමක් ඔක්තෝබර් 15 වන දින පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/5b32eccb.json)
 
 ---
 
@@ -194,6 +350,28 @@ The lorry was sitting out on the front seat and lived out and the driver was stu
 [Data](articles/63bd0f16.json)
 
 [Extended Data](ext_articles/63bd0f16.ext.json)
+
+---
+
+### පුංචි සභාවල වාහන දාහක් අතුරුදන්: සමහර ඒවා මස් කරලා
+
+*2025-10-04 11:38:41* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පච-සභවල-වහන-දහක-අතරදන-සමහර-ඒව-මස-කරල/101-680724) · `si`
+
+පළාත් සභාවන්හි සහ  නගර සභා ප්‍රාදේශීය සභා ඇතුළු පළාත් පාලන ආයතනවල වාහන දහසකට වැඩි ප්‍රමාණයක් පසුගිය කාලයේදී අතුරුදන්ව ඇතැයි රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ආරංචි මාර්ග සඳහන් කළේය.
+
+මින් වාහන බොහොමයක තොරතුරු පවා සොයා ගැනීමට  නොහැකිව  ඇතැයි පවසන එම ආරංචි මාර්ග සමහර වාහන කොටස්කර විකුණන්නට ඇතැයි  ප්‍රබල  සැකයක් මතුවන බවද ප්‍රකාශ කළේය.
+
+මේ සම්බන්ධයෙන් අප රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍ය ආචාර්ය චන්දන අබේරත්න  මහතාගෙන් කළ විමසුමකදී ඔහු පැවසුවේ මෙම වාහන සම්බන්ධයෙන් තොරතුරු අනාවරණය කර ගැනීමට අමාත්‍යාංශ මට්ටමින් කිසියම් රහසිගත  විමර්ශනයක් කරගෙන  යන බවයි.
+
+එසේම මෙම  වාහන  කිසියම් හෝ ස්ථානයක රඳවා තිබේ නම් ඒවා නොපමාව ගෙන විත් බාර දෙන ලෙස අමාත්‍යාංශය ඉල්ලීමක් කරයි.
+
+වාහන බාර නොදී කිසියම් ස්ථානයක තිබී අත්අඩංගුවට ගැනුණහොත් ඒවා ළඟ තබාගෙන සිටින පුද්ගලයන්ට එරෙහිව   නීතිය ඉතා දැඩිව   ක්‍රියාත්මක කරන බව  අමාත්‍යාංශය පවසයි.
+
+පළාත් පාලන ආයතනවල  අතුරුදන් වාහන සම්බන්ධයෙන් විගණන අංශද වෙනම විමර්ශනයක් පවත්වයි.
+
+...
+
+[Data](articles/c36ecc39.json)
 
 ---
 
@@ -1864,191 +2042,5 @@ Trump had said on Tuesday he would give Hamas three to four days to accept the 2
 [Data](articles/4ffd810d.json)
 
 [Extended Data](ext_articles/4ffd810d.ext.json)
-
----
-
-### ‘Activ8 Asia named a Great Place to Work Again’
-
-*2025-10-03 20:55:00* · [`islandlk`](http://island.lk/activ8-asia-named-a-great-place-to-work-again/) · `en`
-
-Thrilled to announce that Activ8 Asia has been certified as a Great Place to Work® for the second consecutive year. This isn’t about a logo on our wall — it’s about the people who make Activ8 Asia a place where ideas, care and reliability come together every single day.
-
-This achievement belongs to our team. At Activ8 Asia we believe great work comes from great culture: transparent leadership that listens, flexible ways of working that respect life outside the desk, mentorship and cross-team learning that turn curiosity into growth, and everyday rituals — small celebrations, peer recognition, and honest feedback — that build trust. Our people bring energy, creativity and a service-first mindset into everything they do, and that’s what our clients feel in every interaction.
-
-...
-
-[Data](articles/2c03f3b2.json)
-
-[Extended Data](ext_articles/2c03f3b2.ext.json)
-
----
-
-### ‘The Routes we Take’ wraps up in Batticaloa, and heads to Ahangama for the final event
-
-*2025-10-03 20:55:00* · [`islandlk`](http://island.lk/the-routes-we-take-wraps-up-in-batticaloa-and-heads-to-ahangama-for-the-final-event/) · `en`
-
-The Routes We Take, a pioneering initiative by the European Union National Institutes for Culture (EUNIC) Sri Lanka, Europe’s network of national cultural institutes and organisations, with 36 members from all EU Member States and associate countries and Good Life X, completed its Batticaloa activities on the 12-13th September at Dreamspace Academy. The project will make its fourth and final stop in the Southern Province (Ahangama) on the 11th of October.
-
-The event in Batticaloa was curated in partnership with the Dreamspace Academy – a social enterprise tackling local socio-economic and environmental challenges through challenge-based learning, grassroots innovation and impact venture building. The event featured a public exhibition, live musical performances, interactive workshops, experimental learning sessions and the capacity building workshops facilitated by experts, Anurangi Mendis of Hope Market and Poornima Jayasinghe of COCA Symbiosis.
-
-...
-
-[Data](articles/075cf5fc.json)
-
-[Extended Data](ext_articles/075cf5fc.ext.json)
-
----
-
-### LOLC Insurance elevates leadership with strategic appointments
-
-*2025-10-03 20:54:00* · [`islandlk`](http://island.lk/lolc-insurance-elevates-leadership-with-strategic-appointments/) · `en`
-
-LOLC Insurance announces two significant leadership appointments aimed at driving sustainable growth, strengthening governance, and enhancing operational excellence across its companies, LOLC Life Assurance Ltd and LOLC General Insurance PLC. These appointments mark a new chapter for both companies, bringing a fresh leadership perspective and renewed energy to their strategic direction.
-
-Effective 29th September 2025, Chandana L. Aluthgama has been appointed Executive Director and Principal Officer of LOLC Life Assurance Ltd and Director of LOLC General Insurance PLC, while Kithsiri Gunawardena has been appointed Director of LOLC Life Assurance Ltd, further to his role as Chairman of LOLC General Insurance PLC. With this experienced leadership, LOLC Insurance reinforces its strategic vision and readiness to drive continued success in the Sri Lankan insurance industry.
-
-...
-
-[Data](articles/42ad4148.json)
-
-[Extended Data](ext_articles/42ad4148.ext.json)
-
----
-
-### Inspiring Sri Lanka’s children to dream big on World Children’s Day
-
-*2025-10-03 20:53:00* · [`islandlk`](http://island.lk/inspiring-sri-lankas-children-to-dream-big-on-world-childrens-day/) · `en`
-
-In celebration of World Children’s Day on 1 October, SriLankan Airlines facilitated the flight experience for a special programme organised by Derana TV and Unilever, named ‘Derana – Signal Ahasin Gamanak’ for children selected through a creative competition from every province across Sri Lanka. Through this unique initiative, 250 youngsters aged 12 to 15 were gifted the opportunity to enjoy a nearly two-hour flight aboard a SriLankan Airlines Airbus A330-300, with breath-taking views of Sri Lanka’s stunning landscapes from the sky. For many, it was their first flying experience.
-
-The children were warmly welcomed at Bandaranaike International Airport and taken on a guided tour by SriLankan Airlines’ Ground Handling team and Airport and Aviation Services (AASL), where they experienced the full international travel process, from check-in to boarding, before taking off to the skies with SriLankan Airlines.
-
-...
-
-[Data](articles/ef14b942.json)
-
-[Extended Data](ext_articles/ef14b942.ext.json)
-
----
-
-### Nepal chosen New Virdu
-
-*2025-10-03 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215310) · `si`
-
-The girl named Aryara Shakya, a two-month old year old, is the 'princess' in Nepal, is the 'princess'.
-
-The girl who had been named the printing of the printing was a new printing.
-
-The girl's family was brought to the religious shrine, the new dwelling of Kathmandu, Kathmaindu.
-
-The virginage is selected as a girl who is blown-free, where the spots are wilt, and the darkness of spots.
-
-The ceremony is considered to be the old and important Hindu religious ceremony of the country and is honored in both the virgin and Hindu religious groups.
-
-◼️
-
-[Data](articles/53ddf739.json)
-
-[Extended Data](ext_articles/53ddf739.ext.json)
-
----
-
-### Interest in China Express loans increased by Chinese Exploment
-
-*2025-10-03 20:22:41* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයට-චීන-එක්සිම්-බැංකුවෙන්-ගන්න-ණය-මුදල්වල-පොලිය-වැඩි-කරලා/11-418903) · `si`
-
-The Central Expressway was considered in the Committee on Finance Committee on the loans expected to be obtained for the construction of the Meerigama Section of the Central Expressway.. The Committee on Finance Committee chaired by Hon.
-
-Speaking to the Central Expressway, the Ministry of General Highways and Civil Aviation has taken steps to the Civil Expressway, Kadawatha-Mirigama section 36.475 km and the balance of China is expected to obtain the required amount locally.
-
-Accordingly, the committee discussed in the interest rate charged for the loan obtained from the US $ Bank's loan. Special Chairman of the Committee Chairman of China, a fixed interest rate was 2.5% for the loan of China, but he was questioned as to why the interest rate agreed to 3.5%.
-
-Officials have agreed to provide a loan rate at 2.5% of the official interest rate at the existing prices, according to the Chairman.
-
-...
-
-[Data](articles/cfa8ebb4.json)
-
-[Extended Data](ext_articles/cfa8ebb4.ext.json)
-
----
-
-### Mahinda handed down
-
-*2025-10-03 20:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනදග-වඩ-නවදන-රථයත-බරදය/1-680715) · `si`
-
-Former President Mahinda Rajapaksa's bulletproof was handed over to the bulletproof-baked vehicle.
-
-Thus, the former president's security personnel have not been used
-
-Former Presidential Facilities Removal Bill was passed in Parliament recently. Thus, all the facilities were lost other than the pension of former presidents.
-
-Also, the wife of former President Ranasinghe Premadasa losing the pension and all other facilities
-
-After the former presidents' Facilitation Elimination Eliminating Bill, the Bangabayan of the Wijerama Mawatha, who was residents of the Wijerama Mawatha, left on Carlton House on the 11th.
-
-◼️
-
-[Data](articles/ed71bb8b.json)
-
-[Extended Data](ext_articles/ed71bb8b.ext.json)
-
----
-
-### Mahinda handed down
-
-*2025-10-03 20:14:19* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-වඩ-නවදන-රථයත-බරදය/101-680715) · `si`
-
-Former President Mahinda Rajapaksa's bulletproof was handed over to the bulletproof-baked vehicle.
-
-Thus, the former president's security personnel have not been used
-
-Former Presidential Facilities Removal Bill was passed in Parliament recently. Thus, all the facilities were lost other than the pension of former presidents.
-
-Also, the wife of former President Ranasinghe Premadasa losing the pension and all other facilities
-
-After the former presidents' Facilitation Elimination Eliminating Bill, the Bangabayan of the Wijerama Mawatha, who was residents of the Wijerama Mawatha, left on Carlton House on the 11th.
-
-◼️
-
-[Data](articles/5f2b7008.json)
-
-[Extended Data](ext_articles/5f2b7008.ext.json)
-
----
-
-### A special reporter should be appointed to a country regarding Sri Lanka - Sivagnanam Sridharan
-
-*2025-10-03 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/226833) · `ta`
-
-Many witnesses and the families of the survivors who survived the violations are old and many have died. And many live in fear and faith. Sivagnanam Sridharan, the leader of the Sri Lanka Tamil National Alliance (TNA), has urged the UN Human Rights Council on the side of the session of the United Nations Human Rights Council to appoint a special reporter for a country in Sri Lanka to uphold justice for the affected parties.
-
-The 60th session of the United Nations Human Rights Council commenced on the 8th. While addressing the event held on the sidelines of the meeting, Sridharan stressed the above.. There he added:
-
-I would like to express my long -term concern over the continued occupation of the military. People living in these areas are still victims of the tyrannical rules of the terrorism law that suppresses human rights.
-
-...
-
-[Data](articles/dbfe88ed.json)
-
-[Extended Data](ext_articles/dbfe88ed.ext.json)
-
----
-
-### New laws not intended for personal gain; focus is common good – President
-
-*2025-10-03 20:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113194/new-laws-not-intended-for-personal-gain-focus-is-common-good-president) · `en`
-
-President Anura Kumara Dissanayake today offered a response to the joint letter by the Chief Prelates of the three Buddhist Chapters warning that the proposed Penal Code amendment criminalizing corporal punishment and alleged initiatives promoting LGBTQ-related tourism could undermine cultural values and trigger serious social crises.
-
-Speaking during the ceremony held in Kandy, to mark the presentation of the Scroll of Appointment (Śrī Sannas Pathra) to the Most Venerable Naranpanawe Ananda Nayake Thero, newly appointed Anunayake of the Asgiri Chapter of the Siyam Maha Nikaya, the head of state outlined the government’s position on the matter.
-
-He stated that during discussions on the tourism industry, it was emphasized that Sri Lanka’s 2,500-year-old historical heritage offers significant potential to strengthen this sector. Additionally, Sri Lanka’s natural beauty, its wildlife, and the hospitality of its people are crucial assets in promoting tourism, he said.
-
-...
-
-[Data](articles/4a9d1cd8.json)
-
-[Extended Data](ext_articles/4a9d1cd8.ext.json)
 
 ---

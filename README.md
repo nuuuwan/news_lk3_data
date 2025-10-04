@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 23:06:04**
+As of **2025-10-04 23:20:00**
 
 ## Newspaper Stats
 
-*Scraped **81,165** Articles*
+*Scraped **81,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,774
 islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,782
-adaderanalk | 10,437
+adaderanalk | 10,441
 tamilmirrorlk | 12,049
 virakesarilk | 13,333
 adaderanasinhalalk | 13,957
@@ -27,11 +27,23 @@ adaderanasinhalalk | 13,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,165 (100.0%) of 81,165 articles have been extended.
+81,165 (100.0%) of 81,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
+
+### Magnitude 6 earthquake strikes east coast of Honshu, Japan
+
+*2025-10-04 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113220/magnitude-6-earthquake-strikes-east-coast-of-honshu-japan) · `en`
+
+An magnitude 6 earthquake struck near the east coast of Honshu, Japan, on Saturday, the German Research Center for Geosciences (GFZ) said.
+
+◼️
+
+[Data](articles/e0838fe0.json)
+
+---
 
 ### The fatal accident that lost a student
 
@@ -152,6 +164,28 @@ They have tented their young and older groups from various parts of the island.
 [Data](articles/17681c9d.json)
 
 [Extended Data](ext_articles/17681c9d.ext.json)
+
+---
+
+### CID confirms ‘Kajja’ followed Wasim Thajudeen’s car before murder
+
+*2025-10-04 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113219/cid-confirms-kajja-followed-wasim-thajudeens-car-before-murder-) · `en`
+
+The Criminal Investigation Department (CID) has confirmed that Aruna Vidanagamage, also known as “Kajja”, was travelling in the jeep that followed rugby player Wasim Thajudeen’s car moments before his death.
+
+The CID has been conducting investigations into the murder of Thajudeen for the past 13 years.
+
+However, investigators have not yet been able to conclusively identify the individual directly responsible for committing the murder.
+
+In recent developments, Kajja’s wife had provided a statement to the investigators, confirming that Aruna Vidanagamage, who was recently killed in a shooting in Middeniya, was the person travelling in the jeep that followed Thajudeen’s car prior to his death.
+
+This identification was made after she was shown the relevant CCTV footage during questioning.
+
+Following this, CID investigations have verified that the individual seen in the footage is indeed Kajja, according to the department.
+
+...
+
+[Data](articles/a62c649a.json)
 
 ---
 
@@ -357,6 +391,24 @@ A young couple was killed when a motorcycle crashed into a lorry this afternoon 
 
 ---
 
+### Govt to continue renewable energy projects uninterrupted - Energy Minister
+
+*2025-10-04 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113218/govt-to-continue-renewable-energy-projects-uninterrupted-energy-minister) · `en`
+
+The Minister of Energy Kumara Jayakody has stated that the renewable energy projects initiated by the government will continue to implemented without interruption.
+
+However, the Minister added that any issues faced by the public due to these projects will be addressed humanely, and all possible measures will be taken to resolve them.
+
+The Minister said this while participating in the opening of the 5 megawatts solar power project constructed in the Hiyare area in Galle today (04).
+
+Speaking at the event, Minister Jayakody emphasized that renewable energy generation is a national necessity and an integral part of the country’s development program, and that everyone should recognize its importance.
+
+...
+
+[Data](articles/7bba4e0d.json)
+
+---
+
 ### Minister Saroja Bolraj Barbados to attend the 68th Commonwealth Parliamentary Conference
 
 *2025-10-04 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226905) · `ta`
@@ -498,6 +550,20 @@ The Disaster Management Center (DMC) says that two cows were killed in the Light
 [Data](articles/6e702b0c.json)
 
 [Extended Data](ext_articles/6e702b0c.ext.json)
+
+---
+
+### Backhoe Saman’s brother-in-law arrested in Biyagama
+
+*2025-10-04 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113217/backhoe-samans-brother-in-law-arrested-in-biyagama) · `en`
+
+The brother-in-law of notorious underworld criminal “Backhoe Saman” has been arrested in Biyagama along with drugs and a firearm.
+
+Police said the suspect was arrested while in possession of 555 grams of heroin, a pistol and a magazine.
+
+◼️
+
+[Data](articles/2cb1328d.json)
 
 ---
 
@@ -1924,83 +1990,5 @@ In addition, the Panadura Magistrate's Court has fined Rs.
 [Data](articles/df12fa08.json)
 
 [Extended Data](ext_articles/df12fa08.ext.json)
-
----
-
-### Sri Lanka’s post-crisis recovery strong, debt restructuring nearly complete – IMF
-
-*2025-10-04 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113211/sri-lankas-post-crisis-recovery-strong-debt-restructuring-nearly-complete-imf) · `en`
-
-The International Monetary Fund (IMF) says Sri Lanka’s economic reform program continues to make “impressive progress,” with the country showing strong signs of recovery under the Extended Fund Facility (EFF) arrangement.
-
-Speaking at a press briefing in Washington on October 2, IMF Communications Director Julie Kozack said Sri Lanka’s inflation remains low, government revenue collection has improved, and international reserves continue to rise.
-
-She noted that the post-crisis economic rebound has been significant, with growth reaching 5 percent in 2024.
-
-“The revenue-to-GDP ratio in the budget improved to 13.5 percent of GDP from 8.2 percent in 2022, which is also a significant increase, although still work to be done,” Kozack stated, adding that the country’s debt restructuring process is “nearly complete.”
-
-The IMF Board completed the Fourth Review of Sri Lanka’s EFF arrangement on July 1, releasing US$350 million in support and bringing total disbursements to US$1.74 billion.
-
-...
-
-[Data](articles/3572d6f8.json)
-
-[Extended Data](ext_articles/3572d6f8.ext.json)
-
----
-
-### Youth arrested for selling drug pills inside school
-
-*2025-10-04 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226870) · `ta`
-
-A young man has been arrested by Tantrimalai police on Thursday.
-
-Tantrimalai police have received information that a young man has sold drug pills to students during a special event at a school in Tantrimalai area.
-
-◼️
-
-[Data](articles/15d0d306.json)
-
-[Extended Data](ext_articles/15d0d306.ext.json)
-
----
-
-### The new constitution will be brought soon - Minister of Fisheries
-
-*2025-10-04 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/226869) · `ta`
-
-Fisheries Minister Ramalingam Chandrasekaran said a new constitution would be introduced soon.
-
-A journalist said in a statement on the new constitution of your government on Friday after an event in Jaffna - Sangana.. He questioned the current position of the government.
-
-The new constitutional law is a matter of our policy declaration. We have come to power and have been completed.
-
-To know what position this country was a year ago. This is what people know. But politicians pretend to be unknown.
-
-He said the new constitution would be introduced as a long -standing law to solve all the problems of the people of this country.
-
-◼️
-
-[Data](articles/ead66c39.json)
-
-[Extended Data](ext_articles/ead66c39.ext.json)
-
----
-
-### Investigation into 31 phones from the suspects brought from Indonesia
-
-*2025-10-04 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226867) · `ta`
-
-Investigations have begun regarding 31 phones from the suspects brought from Indonesia. The Minister of Public Security Ananda Wijebala said that whatever those involved in them are, they will be arrested without any discrimination.
-
-The police are carrying out investigations based on complaints and information available to them and implementing the law. So we have no need to carry out political revenge. The long -term lost justice is currently being provided.
-
-Allegations have been made against various parties by the people. Investigations are being carried out. When the police spokesman reports about the daily renewed information, the opposition is seeking to respond to them. They portray the implementation of the law as political revenge.
-
-...
-
-[Data](articles/22c76771.json)
-
-[Extended Data](ext_articles/22c76771.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 22:37:01**
+As of **2025-10-04 22:53:48**
 
 ## Newspaper Stats
 
@@ -27,29 +27,31 @@ adaderanasinhalalk | 13,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,164 (100.0%) of 81,165 articles have been extended.
+81,165 (100.0%) of 81,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### සිසුවෙකුට දිවි අහිමි කළ මාරක අනතුර
+### The fatal accident that lost a student
 
 *2025-10-04 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215347) · `si`
 
-ගම්පහ පොලිස් වසමේ උඩුගම්පොළ වීදියවත්ත මංසන්ධියේදී අද (04) උදෑසන සිදුවූ රිය අනතුරකින් වයස අවුරුදු පහළොවක පිරිමි ළමයකු ජීවිතක්ෂයට පත්වී තිබේ.
+A boy was killed in a fifteen-year-old accident in an accident in the Udugampola in Udugampola in Gampaha.
 
-මෙලෙස අනතුරට පත්වී ඇත්තේ වීදියවත්ත දොළාගත පාරේ පදිංචි උඩුගම්පල සෙනරත් පරණවිතාන ජාතික පාසලේ දහවන වසරේ ඉගෙනුම ලැබූ සිසුවෙකි.
+The victim is a tenth year of Nigampala Senarath Paranavithana Paranavitana, a resident of the Telugal Road, Weights, Weights.
 
-අදාළ සිසුවා පෞද්ගලික උපකාර පන්තියකට සහභාගි වී නැවත පැමිණෙමින් සිටින අතරතුර පිටුපසින් පැමිණි යකඩ පටවා ගත් ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+The victim had taken place when he was returning to a private help and returning from a private support.
 
-එමෙන්ම එම ලොරි රථය මෝ‍ටර් රථයක සහ තවත් ත්‍රීරෝද රථයක ද ගැටී ඇති බව සඳහන් වේ.
+The lorry is also reported in a car and another three-wheeler.
 
-අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියැදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර වැඩිදුර පරීක්ෂණ ක්‍රියාත්මකය.
+The driver of the lorry has been arrested by the police in connection with the accident and further investigations are underway.
 
 ◼️
 
 [Data](articles/847e1370.json)
+
+[Extended Data](ext_articles/847e1370.ext.json)
 
 ---
 

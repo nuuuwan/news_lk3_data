@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 05:55:27**
+As of **2025-10-04 07:04:43**
 
 ## Newspaper Stats
 
-*Scraped **80,977** Articles*
+*Scraped **80,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,97 +21,157 @@ adalk | 7,771
 adaderanalk | 10,420
 tamilmirrorlk | 12,037
 virakesarilk | 13,280
-adaderanasinhalalk | 13,929
+adaderanasinhalalk | 13,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-80,972 (100.0%) of 80,977 articles have been extended.
+80,977 (100.0%) of 80,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### இங்கிலாந்து திருச்சபையை வழிநடத்தும் பொறுப்பான கேன்டர்பரி பேராயராக முதல் பெண்மணி
+### ට්‍රම්ප්ගේ අවසන් නිවේදනයෙන් කොටසක් හමාස් පිළිගනියි
+
+*2025-10-04 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215318) · `si`
+
+ජනධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් හමාස් සංවිධානයට අවසන් නිවේදනය නිකුත් කිරීමෙන් පසු ගාසා තීරය සඳහා අමෙරිකානු සාම සැලැස්ම අර්ධ වශයෙන් පිළිගැනීමට හමාස් සංවිධානය එකඟ වී තිබේ.
+
+ඒ අනුව ගාසා තීරයට බෝම්බ හෙලීම නවත්වන ලෙස ට්‍රම්ප් ජනාධිපතිවරයා ඊශ්‍රායලයට නියෝග කර ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+
+ඊට ප්‍රතිචාර ලෙස ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතන්යාහුගේ කාර්යාලය කෙටි නිවේදනයක් නිකුත්කරමින් සඳහන්කර ඇත්තේ සාමය සඳහා වූ 'ට්‍රම්ප්ගේ සැලැස්ම' වෙනුවෙන් තම රට එක්සත් ජනපදය සමග කටයුතු කරන බවය.
+
+අමෙරිකානු ජනාධිපතිවරයා ඊයේ (3) සිය Truth අවකාශයේ සටහනක් තබමින් හමාස් සංවිධානය අනතුරු අඟවා සිටියේ, එළඹෙන ඉරිදා (හෙට) ග්‍රිනිජ් වේලාවෙන් 22පැයට, එනම් වොෂින්ටන් වේලාවෙන් ප.ව. 6 වනවිට තම සාම සැලැස්මට එකඟවිය යුතු බවය.
+
+මෙම සැලැස්ම මගින් වහාම සටන් නවත්වා හමාස් සංවිධානය විසින් රඳවාගෙන සිටින ඊශ්‍රායල ප්‍රාණ ඇපකරුවන් 20 දෙනෙකු නිදහස්කිරීමට මෙන්ම මියගිය බවට සැලකෙන ප්‍රාණ ඇපකරුවන්ගේ දේහයන් පැය 72ක් භාරදීමට යෝජනා කර තිබුණි.
+
+ඒ වෙනුවෙන් ඊශ්‍රායලය භාරයේ සිටි ගාසා වැසියන් සිය ගණනක් හුවමාරු කරගැනීමට විය.
+
+...
+
+[Data](articles/461fb1ce.json)
+
+---
+
+### අද පස්වරුවේ මිලිමීටර් 100 ඉක්මවන තද වැසි
+
+*2025-10-04 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215317) · `si`
+
+අද (04) සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයන් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+අද දිනය සඳහා නවතම කාලගුණ අනාවැකිය නිකුත් කරමින් එම දෙපාර්තමේන්තුව ඒ බව පවසයි.
+
+එබැවින් ඇති වියහැකි තද වැසි, තද සුළං සහ ප්‍රබල අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම්දෙයි.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල අද පස්වරු 1න් පමණ පසු තැනින් තැන  වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙයි.
+
+උතුරුමැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මිලිමීටර් 100ට වැඩි තද වැසි ඇති විය හැකිය.
+
+◼️
+
+[Data](articles/6f10572a.json)
+
+---
+
+### The first woman as the Archbishop of Canterbury in charge of leading the UK Church
 
 *2025-10-04 04:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226842) · `ta`
 
-இங்கிலாந்து திருச்சபையை வழிநடத்தும் பொறுப்பான கேன்டர்பரி பேராயர் பதவி, வரலாற்றில் முதல் முறையாக ஒரு பெண்ணுக்கு ஒதுக்கப்பட்டுள்ளது.
+The post of Archbishop of Canterbury, who is responsible for leading the UK Church, has been reserved for a woman for the first time in history.
 
-1,400 ஆண்டுகளில் இந்தப் பதவிக்கு தகுதி பெற்ற முதல் பெண் 63 வயதான பிஷப் சாரா முலாலே ஆவார்.
+63 -year -old Bishop Sarah Mulale was the first woman to qualify for the post in 1,400 years.
 
-பிரிட்டிஷ் மன்னருக்கு முடிசூட்டுவது போன்ற முக்கியமான கடமைகளைச் செய்யும் கேன்டர்பரி பேராயராக ஒரு பெண் நியமிக்கப்பட்டது ஒரு வரலாற்றுச் சிறப்புமிக்க தருணமாகக் கருதப்படுகிறது.
+The appointment of a woman as Archbishop of Canterbury, who performs important duties such as crowned to the British king, is considered a historic moment.
 
 ◼️
 
 [Data](articles/f6270f33.json)
 
+[Extended Data](ext_articles/f6270f33.ext.json)
+
 ---
 
-### மன்னார் பேசாலை பொலிஸ் நிலைய தடுப்பு காவலிருந்த 34 வயது நபர் உயிரிழப்பு; பொலிஸார் அடித்ததால் மகன் மரணம் தாய் குற்றச்சாட்டு
+### 34 -year -old man killed in Mannar Basal police station detention Son death
 
 *2025-10-04 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226841) · `ta`
 
-மன்னார் பேசாலை பொலிஸ் பிரிவில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு பேசாலை பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த  34 வயதுடைய  நபர் ஒருவர் வெள்ளிக்கிழமை (3) காலை பொலிஸ் நிலைய தடுப்பு காவலில் இறந்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
+A 34 -year -old man was arrested at the Mannar Basal police division on suspicion and detained at the Basal police station on Friday morning.
 
-உயிரிழந்தவர் வவுனியா மாங்குளத்தைச் சேர்ந்த ராஜேந்திரன் கபிலன் (வயது-34) என அடையாளம் காணப்பட்டுள்ளார்.
+The deceased has been identified as Rajendran Kapilan (age-34) from Mangulam in Vavuniya.
 
-பேசாலை பொலிஸ்  பிரிவுக்குட்பட்ட கட்டாஸ்பத்திரி பகுதியில் வியாழக்கிழமை (2) மாலை  போதை பொருள்  தொடர்பாக சந்தேகத்தின் பெயரில் குறித்த நபர் கைது செய்யப்பட்டார்.
+A man was arrested in the Kataspathiri area of ​​the Basal police division on Thursday evening.
 
-குறித்த நபரை பேசாலை பொலிஸார் துரத்தி பிடித்ததோடு, இவருடன் இருந்த மற்றொரு நபர் தப்பி ஓடியதாக  தெரிவிக்கப்படுகின்றது.
+It is reported that the man was chased by the police and another man who was with him.
 
-பொலிஸாரினால் கைது செய்யப்பட்ட குறித்த நபரை பொலிஸார் பேசாலை பொலிஸ் நிலையத்திற்கு அழைத்துச் சென்று பொலிஸ் நிலைய தடுப்பு காவலில் வைத்து விசாரணைகளை முன்னெடுத்தனர்.
+The man who was arrested by the police took the police to the Pasal police station and put the investigations into the police station.
 
-பின்னர் குறித்த நபர் பொலிஸ் நிலைய கூண்டில் தடுத்து வைக்கப்பட்ட நிலையில் வெள்ளிக்கிழமை (3) காலை குறித்த சந்தேக நபர் இறந்த நிலையில் காணப்பட்டுள்ளார்.
+The suspect was found dead on Friday morning (3) after the man was detained in the police station cage.
+
+The body was taken to the Basalai Divisional Hospital at 6.30 am today (3).. At 12 noon, the Mannar court response went to the Loku Basalai Divisional Hospital and carried out investigations.
+
+Following this, he went to the Basal police station and visited the police station and carried out investigations.
 
 ...
 
 [Data](articles/fdece35d.json)
 
+[Extended Data](ext_articles/fdece35d.ext.json)
+
 ---
 
-### ரணில் விக்ரமசிங்க வைத்துச் சென்ற கடன் பொறிக்குள் தற்போதைய அரசு சிக்கியுள்ளது - புபுது ஜயகொட
+### Ranil Wickremesinghe's current government is trapped in the debt trap
 
 *2025-10-04 04:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226840) · `ta`
 
-அதிகாரத்துக்கு வரும் எந்த அரசாங்கமும் கடன் தவணைகளை மீள செலுத்த முடியாமல் ஒருசில வருடங்களில் வீழ்ச்சியடையும் வகையில் ரணில் விக்ரமசிங்க வைத்துச்சென்ற  பொறிக்குள் தற்போதைய அரசாங்கம் சிக்கிக்கொண்டுள்ளது என முன்னிலை சோசலிச கட்சியின்  கல்விச் செயலாளர் புபுது ஜயகொட தெரிவித்தார்.
+Ranil Wickremesinghe is trapped in the trap of Ranil Wickremesinghe in a few years that any government that comes to power is unable to repay the debt installments.
 
-சர்வதேச நாணய நிதியத்தினால் உலகில் ஆகக்குறைவான கடன் குறைப்பு செய்த நாடு இலங்கை என ஐக்கிய நாடுகளின் மனித உரிமை பேரவை தெரிவித்திருக்கிறது. இலங்கைக்கு இதுதொடர்பில் ஆலாேசனை வழங்கிய அரசாங்கமும் கடன் மறுசீரமைப்பு நடவடிக்கையை சர்வதேச நாணய நிதியம் சொல்வதால் அதனை செய்ய வேண்டி இருப்பதாக தெரிவித்திருந்து. ஆனால்  இந்த நடவடிக்கையில் தலையிட்டிருந்த நாணய நிதியம் தற்போது, இலங்கையின் கடன் மறுசீரமைப்பு தொடர்பில் மிகவும் மோசமான முறையில் விமர்சித்திருக்கிறது.
+The United Nations Human Rights Council (UNHRC) has said that Sri Lanka is the country that has reduced debt in the world by the IMF. The government, which has issued a statement to Sri Lanka, has said that the International Monetary Fund has to do this as the International Monetary Fund. But the Monetary Fund, which has intervened in the move, has now criticized Sri Lanka's debt restructuring.
+
+That means we will have to face massive problems at 2028 and we have to pay a massive amount in 2028. At the same time decreasing debt restructuring. If we are not able to repay the debt in 2028, we will not get any relief. Calculation and interest rate will be a three -year average of 2025, 2026 and 2027, the Monetary Fund said.
 
 ...
 
 [Data](articles/ac944c5d.json)
 
+[Extended Data](ext_articles/ac944c5d.ext.json)
+
 ---
 
-### சுற்றுலாத்துறையை மேம்படுத்த றுஹுணு ரிங் இணையத்தளம் அறிமுகம்
+### Introduction to Ruhunu Ring website to improve tourism
 
 *2025-10-04 04:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226839) · `ta`
 
-இலங்கையின் பிரதான சுற்றுலாத் தலங்களான தெற்கு, ஊவா மற்றும் கிழக்கு ஆகிய மூன்று மாகாணங்களையும் இணைத்து சேவை வழங்குநர்களை இணைக்கும் நோக்கத்துடன் உருவாக்கப்பட்ட 'றுஹூணு ரிங்' இணையத்தளம் ஜனாதிபதியால் அறிமுகப்படுத்தப்பட்டது.
+The 'Ruhunu Ring' website was introduced by the President with the aim of connecting service providers to all the major tourist destinations of Sri Lanka, South, Uva and East.
 
-சர்வதேச சுற்றுலா தலைமைத்துவ மாநாடு வியாழக்கிழமை (02) பிற்பகல் கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஜனாதிபதி அநுர குமார திசாநாயக்க தலைமையில் நடைபெற்றது.
+The International Tourism Leadership Conference was held on Thursday afternoon at the Bandaranaike Memorial International Conference Hall in Colombo under the patronage of President Anura Kumara Dissanayake.
 
-உலக சுற்றுலா தின கொண்டாட்டங்களுடன் இணைந்ததாக, தேசிய மட்டம் முதல் பாடசாலை மட்டம் வரை பாடசாலை போட்டிகள், ஆராய்ச்சி மன்றங்கள் மற்றும் கைத்தொழில்  கண்காட்சிகள் உட்பட, செப்டம்பர்  முதல்  நடைபெற்ற தொடர்ச்சியான நிகழ்ச்சிகளின்  நிறைவைக் குறிக்கும் வகையில் இந்த மாநாடு ஏற்பாடு செய்யப்பட்டது. வெளிநாட்டு தூதுவர்கள், உயர் ஸ்தானிகர்கள், சுற்றுலாத் துறையில் ஈடுபட்டுள்ளோர்  மற்றும் உள்நாட்டு மற்றும் வெளிநாட்டு அறிஞர்கள் இந்த நிகழ்வில் பங்கேற்றனர்.
+The conference was organized to mark the conclusion of a series of events held since September, including school competitions, research forums and industrial exhibitions, from national level to school level.. Foreign ambassadors, high -ranking, tourists and domestic and foreign scholars participated in the event.
 
 ...
 
 [Data](articles/a646fbe0.json)
 
+[Extended Data](ext_articles/a646fbe0.ext.json)
+
 ---
 
-### விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டம் குறித்த 5 ஆம் கட்ட மீளாய்வு முன்னெடுக்கப்பட்டுவருகிறது - சர்வதேச நாணய நிதியம் அறிவிப்பு
+### The 5th phase of review on the expanded funding project is being carried out - the International Monetary Fund Notification
 
 *2025-10-04 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226838) · `ta`
 
-தற்போது இலங்கையில் உள்ள சர்வதேச நாணய நிதியத்தின் அதிகாரிகள் குழுவொன்று விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டம் தொடர்பான 5 ஆம் கட்ட மீளாய்வை முன்னெடுத்துவருவதாக  சர்வதேச நாணய நிதியத்தின் தொடர்பாடல் பிரிவின் பணிப்பாளர் ஜுலி கொஸாக் தெரிவித்துள்ளார்.
+The Director of the International Monetary Fund Communication Division, Juli Kozak, said that a group of International Monetary Fund in Sri Lanka is currently launching a fifth phase of the expanded financial process.
 
-வொஷிங்கடனில் நடைபெற்ற சர்வதேச நாணய நிதியத்தின் மாதாந்த செய்தியாளர் சந்திப்பின்போது இலங்கை தொடர்பான மீளாய்வுக்கான கால எல்லை என்னவென்றும், 2026 ஆம் ஆண்டுக்கான வரவு, செலவுத்திட்டம் சமர்ப்பிக்கப்படவுள்ள நிலையில், அதுசார்ந்த சர்வதேச நாணய நிதியத்தின் எதிர்பார்ப்புக்கள் எவை என்றும் எழுப்பப்பட்ட கேள்விக்குப் பதிலளிக்கையிலேயே ஜுலி கொஸாக் மேற்கண்டவாறு தெரிவித்தார். இதுகுறித்து அவர் மேலும் கூறியதாவது:
+In response to a question raised by Julie Kossak, he said in a question raised by the IMF at a monthly press conference in Washingatan and what is the time limit for the review of Sri Lanka. He added:
+
+The Board of Directors of the Monetary Fund on the 4th Stage Monetary Fund on the Extended Finance Project with Sri Lanka was concluded on the first day of July last year.. Sri Lanka has been awarded $ 350 million to contribute to economic policies and restructuring.. The value of the funds provided to Sri Lanka by the International Monetary Fund so far increased to $ 1.74 billion.
 
 ...
 
 [Data](articles/ac6b1388.json)
+
+[Extended Data](ext_articles/ac6b1388.ext.json)
 
 ---
 
@@ -2032,43 +2092,5 @@ First, the President arrived at the Malwathu Maha Viharaya, the Weligatha Sumant
 [Data](articles/fa49b5d3.json)
 
 [Extended Data](ext_articles/fa49b5d3.ext.json)
-
----
-
-### President's Malwathu and Asgiriya Maha Nayros cannot be
-
-*2025-10-03 16:05:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-මලවත-අසගර-මහ-න-හමවරන-බහ-දක/101-680708) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (03) දහවල් මල්වතු සහ අස්ගිරි මහා නා හිමිවරුන් බැහැදැක ආශිර්වාද ලබා ගත්තේය.
-
-First, the President arrived at the Malwathu Maha Viharaya, the Weligatha Sumanta Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte Malwatte massacre.
-
-◼️
-
-[Data](articles/c984228c.json)
-
-[Extended Data](ext_articles/c984228c.ext.json)
-
----
-
-### About 50 people die every day by alcohol - Madhusaram and Drug Information Center
-
-*2025-10-03 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226804) · `ta`
-
-83 percent of deaths recorded in the country are caused by infectious diseases. About 50 people die prematurely daily. More than 20 thousand people die every year, the Madhusaram and Drug Information Center said.
-
-The report issued by the Liquor and Drug Information Center further stated on the International Liquor Prevention Day (October 3).
-
-About 3 million people die annually in the world worldwide. Of the 10 deaths, 8 are the main cause of infectious diseases.  Alcoholism is also the main cause of infectious diseases. 83 percent of deaths recorded in the country are caused by infectious diseases. About 50 people die prematurely every day.
-
-Data indicate that 20 thousand people die each year. It has been confirmed that alcoholism and cancer are the primary factor in the increase in society.
-
-Therefore, liquor companies are carrying out various activities aimed at boys and youth to compensate for the losing customers.  21 percent of the country is addicted to alcohol.
-
-...
-
-[Data](articles/cae892cc.json)
-
-[Extended Data](ext_articles/cae892cc.ext.json)
 
 ---

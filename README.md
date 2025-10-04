@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-04 18:39:55**
+As of **2025-10-04 18:19:08**
 
 ## Newspaper Stats
 
-*Scraped **81,114** Articles*
+*Scraped **81,110** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 591
+newsfirstlk | 588
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 763
+lankadeepalk | 762
 colombotelegraphcom | 808
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,71 +27,29 @@ adaderanasinhalalk | 13,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,110 (100.0%) of 81,114 articles have been extended.
+81,108 (100.0%) of 81,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-04 (Saturday)
 
-### ‘‘ආණ්ඩුව හොඳ ගමනක් යනවා‘‘
-
-*2025-10-04 18:03:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආණඩව-හඳ-ගමනක-යනව/1-680736) · `si`
-
-ජාතික ජන බලවේග ආණ්ඩුව ඉතාම හොඳින් ලෝකය දිනාගෙන ඉදිරියට යමින් සිටින බව හිටපු අමාත්‍ය එස්.බී. දිසානායක පැවසීය.
-
-මේ ගමනේදී ජපානය, චීනය, වියට්නාමය වැනි රටවල් ලංකාවට උදව් කරනු ඇතැයි තමා විශ්වාස කරන බව පැවසූ හිටපු අමාත්‍යවරයා චීන කොමියුනිස්ට් ආණ්ඩුව කළ ආකාරයටම ආයෝජකයන් අතර විශ්වාසය තහවුරු කර අයෝජකයන් රටට නොපමාව කැඳවාගත යුතු බව ද අවධාරණය කළේය.
-
-ආණ්ඩුව ශක්තිමත් වෙමින් පවතින බවත් විපක්ෂය දවසින් දවස දුර්වල වෙමින් පවතින බවත් ඔහු පෙන්වා දුන්නේය.
-
-◼️
-
-[Data](articles/623805e2.json)
-
----
-
-### Sri Lanka and Australia gives up
+### ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය අත්හැර දමයි
 
 *2025-10-04 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215341) · `si`
 
-The competition between Sri Lanka and Australia, the Sri Lanka and Australia of the Women's ODI World Cup has been abandoned due to rain.
+කාන්තා එක්දින ලෝක කුසලානයේ ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමට තීරණය කර තිබේ.
 
-The tournament between Sri Lanka and Australia in the women's World Cup, the commencement of bad weather.
+කාන්තා එක්දින ලෝක කුසලානයේ ශ්‍රී ලංකාව සහ ඕස්ට්‍රේලියාව අතර තරගය ආරම්භයට අයහපත් කාලගුණයෙන් බාධා එල්ල විය.
 
-Accordingly, at 3.00 pm in Colombo. Unable to see the toss of the coin that was to start at Premadasa cricket stadium.
+ඒ අනුව පස්වරු 3.00ට කොළඹ ආර්. ප්‍රේමදාස ක්‍රිකට් ක්‍රිඩාංගණයේදී ආරම්භ වීමට නියමිතව තිබූ තරගයේ කාසියේ වාසිය උරගා බැලීමටද නොහැකි විය.
 
-This is the second match facing the Sri Lankan team of the tournament and the first match was defeated before the Indian women's group.
+තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම මුහුණදෙන දෙවන තරගය මෙය වන අතර පළමු තරගයේදී ඔවුන් ඉන්දීය කාන්තා කණ්ඩායම හමුවේ පරාජයට පත් වුණි.
 
-Australian women's group won the New Zealand by 89 runs in the first match they faced.
+ඕස්ට්‍රේලියානු කාන්තා කණ්ඩායම ඔවුන් මුහුණදුන් පළමු තරගයේදී නවසීලන්ත කාන්තා කණ්ඩායම පරදා ලකුණු 89ක  ජයක් හිමිකර ගත්තාය.
 
 ◼️
 
 [Data](articles/88d2841d.json)
-
-[Extended Data](ext_articles/88d2841d.ext.json)
-
----
-
-### Thunderstorms Expected This Evening; Public Advised to Take Precautions
-
-*2025-10-04 17:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/thunderstorms-expected-this-evening-public-advised-to-take-precautions) · `en`
-
-COLOMBO (News 1st); The department of Meteorology announced that, Atmospheric conditions are favorable for thunderstorms in the evening. Therefore, general public is advised to take adequate precautions to minimize damages caused by heavy rain, strong winds and strong lightning during thundershowers.Showers or thunder showers will occur at several places in most parts of the island after 1.00 p.m.Heavy showers above 100 mm are likely at some places in Northcentral, Eastern, Central and Uva provinces.
-
-◼️
-
-[Data](articles/9c962c1d.json)
-
----
-
-### Salary Disparities to Be Addressed in Budget
-
-*2025-10-04 17:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/salary-disparities-to-be-addressed-in-budget) · `en`
-
-COLOMBO (News 1st); The Ministry of Public Administration, Provincial Councils, and Local Government says that this year’s budget will address salary disparities for certain groups of public servants.Minister of Public Administration, Provincial Councils, and Local Government, Dr. Chandana Aberathna, said that a further portion of the salary increments for public servants announced in the previous budget is planned to be paid in this year’s budget.The Minister also noted that an accelerated program is underway to eliminate salary disparities within the public service.The 2026 budget, which will be the second reading of the budget speech, is scheduled to be presented to Parliament by President Anura Kumara Dissanayake, in his capacity as Minister of Finance, on the 7th of November.
-
-◼️
-
-[Data](articles/e6bb0485.json)
 
 ---
 
@@ -131,8 +89,6 @@ Explaining further in this regard, Deputy Minister Anil Jayantha said:
 
 [Data](articles/82e19816.json)
 
-[Extended Data](ext_articles/82e19816.ext.json)
-
 ---
 
 ### #SriPOP - The Sound of a New Sri Lanka
@@ -156,26 +112,6 @@ From the Portuguese-inspired baila that once drifted through coastal taverns, to
 [Data](articles/d15ff5b6.json)
 
 [Extended Data](ext_articles/d15ff5b6.ext.json)
-
----
-
-### #SriPOP - The Sound of a New Sri Lanka
-
-*2025-10-04 16:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sripoposrilanka) · `en`
-
-In Stein Studios, in the outskirts of Colombo, a dancer moves as if the earth itself is breathing beneath her feet.
-
-The rhythm isn’t rushed. It’s human imperfectly perfect, like the heartbeat that drives it. A drum echoes, a synth sighs, and something ancient awakens.
-
-It’s not a beat born in a studio, nor a formula cooked up for virality. It’s a call a return to the rhythm that has always pulsed through this island’s soul.
-
-To understand #SriPop, you have to first understand the strange, beautiful chaos of Sri Lanka’s musical DNA.
-
-From the Portuguese-inspired baila that once drifted through coastal taverns, to the rabana circles of rural women who drum while they laugh and sing, to the Nada Bhera & Yak Bera  the ceremonial drumming that summons gods and courage alike this island’s music has never been entertainment alone. It has always been spiritual architecture, a way of being, of remembering, of belonging.
-
-...
-
-[Data](articles/e30f936f.json)
 
 ---
 
@@ -2048,5 +1984,81 @@ The house belonging to the former President and the Ministry of Public Administr
 [Data](articles/7033f34c.json)
 
 [Extended Data](ext_articles/7033f34c.ext.json)
+
+---
+
+### A rope for Mahinda's bungalow
+
+*2025-10-04 08:48:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනදග-බගලවට-කඹ-ඇදලලක/101-680719) · `si`
+
+It is reported that the bungalow of former President Mahinda Rajapaksa is further delaying the bungalow of the Wijerama Mawatha, a resident of the resident of the Colombo Wijerama Mawatha.
+
+Presidential Secretariat several times have been announced to remove his goods in the bungalow.. However, the former President has said that the government is examining the list of the bungalows and removes his goods.
+
+According to sources, the former President has taken the decision as a measure of such a chance to prevent such belongings to a situation where the goods were removed.
+
+However, the government says the former President should take his goods first.
+
+The house belonging to the former President and the Ministry of Public Administration and the Ministry of Public Administration.
+
+◼️
+
+[Data](articles/a7da94c7.json)
+
+[Extended Data](ext_articles/a7da94c7.ext.json)
+
+---
+
+### 22 More Terminals Approved for Seaplane Operations; Civil Aviation Authority
+
+*2025-10-04 08:43:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/22-more-terminals-approved-for-seaplane-operations-civil-aviation-authority) · `en`
+
+COLOMBO (News 1st); The Civil Aviation Authority announced that 22 additional terminals have been cleared for seaplane operations after inspections. Approval processes are also underway to begin water-based aviation near Colombo Port City.The Authority said two new helicopter landing sites will soon be introduced in Colombo, while a program is being implemented to boost domestic aviation with state and private sector investment, focusing on tourism.Meanwhile, a new seaplane service between Katunayake and Colombo was launched yesterday using Beira Lake as a water aerodrome.Seaplane services had previously operated in Sri Lanka during 2011/2012 but were suspended due to strict security measures and related challenges.
+
+◼️
+
+[Data](articles/16b8f32b.json)
+
+[Extended Data](ext_articles/16b8f32b.ext.json)
+
+---
+
+### The seven new laws that protect man from the robot
+
+*2025-10-04 08:42:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රබවන-මනස-රකනන-ගන-අලතම-නත-හත/1-680718) · `si`
+
+Chairman of the Attorney Communications, Data Protection and Technical Committee, said that in protecting the information from the Asian Pacific, the President of the Assia Pacific (LAWASIA) Sunil Abeyratne has arisen.
+
+You must have the security of personal information... The information about it cannot reveal nobody without permission. India's data protection is a fundamental right
+
+Different countries wanted to enact strict laws that protect privacy due to low cost of data. That is why the European countries introduced data regulations instead of data protection rights.
+
+No one can distort data. They need to provide the maximum security. There should always be transparency in data. If the personal data protection is violated, a country needs a legal system.. It works where the tool is trained. In other words, the artificial intelligence is regulated.
+
+...
+
+[Data](articles/165eb440.json)
+
+[Extended Data](ext_articles/165eb440.ext.json)
+
+---
+
+### The seven new laws that protect man from the robot
+
+*2025-10-04 08:42:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රබවන-මනස-රකනන-ගන-අලතම-නත-හත/101-680718) · `si`
+
+Chairman of the Attorney Communications, Data Protection and Technical Committee, said that in protecting the information from the Asian Pacific, the President of the Assia Pacific (LAWASIA) Sunil Abeyratne has arisen.
+
+You must have the security of personal information... The information about it cannot reveal nobody without permission. India's data protection is a fundamental right
+
+Different countries wanted to enact strict laws that protect privacy due to low cost of data. That is why the European countries introduced data regulations instead of data protection rights.
+
+No one can distort data. They need to provide the maximum security. There should always be transparency in data. If the personal data protection is violated, a country needs a legal system.. It works where the tool is trained. In other words, the artificial intelligence is regulated.
+
+...
+
+[Data](articles/43565139.json)
+
+[Extended Data](ext_articles/43565139.ext.json)
 
 ---

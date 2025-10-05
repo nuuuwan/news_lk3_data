@@ -1,37 +1,77 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 14:08:09**
+As of **2025-10-05 14:37:50**
 
 ## Newspaper Stats
 
-*Scraped **81,279** Articles*
+*Scraped **81,295** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 599
+newsfirstlk | 603
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 807
+lankadeepalk | 808
 colombotelegraphcom | 809
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
-adalk | 7,788
+adalk | 7,789
 adaderanalk | 10,441
 tamilmirrorlk | 12,075
 virakesarilk | 13,359
-adaderanasinhalalk | 13,963
+adaderanasinhalalk | 13,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,279 (100.0%) of 81,279 articles have been extended.
+81,290 (100.0%) of 81,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### Post Master General reveals
+
+*2025-10-05 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215364) · `si`
+
+Postal Ruwan Skamama says that he is severely inconvenienced due to the fraudulent and ineffective role of the postal officers.
+
+He was speaking at a function held at the Haputale Post Office in parallel to the post date.
+
+"Billions of billions have been taken to the fingerprints. Don't we need to answer this? There is a Workoop. It builds vehicles.. I don't know if I'm doing or not.. Easy Servant on Sunday. There is two servicing people to serve the OT.. 4 hours pay for a vehicle to servic. It's not a lot of hours,, 4. But these 10 pay for 4 hours. So if you make several vehicles like this, think about.. This is why they can't make vehicles. I'm not saying. We are not the only ones service we are. There is plenty of privatures in the same sect, you leave the vehicles.
+
+...
+
+[Data](articles/972b1a7f.json)
+
+[Extended Data](ext_articles/972b1a7f.ext.json)
+
+---
+
+### A pronouncement of strong lightning
+
+*2025-10-05 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215363) · `si`
+
+The Department of Meteorology has issued an announcement in powerful lightning.
+
+The announcement is valid until 11 pm today.
+
+The department states that the Northern, North-Central, Eastern, Uva and Uva and Uva and North Western provinces and thundershowers will occur.
+
+There may be temporary localized strong winds during thundershowers.
+
+The Department of Meteorology is kindly requested to take necessary steps to minimize the damages caused by lightning.
+
+◼️
+
+[Data](articles/78a0af45.json)
+
+[Extended Data](ext_articles/78a0af45.ext.json)
+
+---
 
 ### A couple arrested in Kandy
 
@@ -48,6 +88,24 @@ The couple from the Talathuoya Etalgama area are aged 20-22, police said.. Accor
 [Data](articles/f5269901.json)
 
 [Extended Data](ext_articles/f5269901.ext.json)
+
+---
+
+### 731 per permanent postal assistant to the Department of Posts
+
+*2025-10-05 13:33:21* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-දෙපාර්තුමේන්තුවට-ස්ථිර-තැපැල්-සහයක-731-ක්/11-418921) · `si`
+
+731 persons have been selected to the post of postal assistant in Grade III of the Department of Postal Department (III) III of the Department of Movement. Awarding permanent appointment letters to the selected group will be held under the patronage of Health and Mass Media Dr. Nalinda Jayatissa on Monday (015.10.20).
+
+After the year 2021, the Sri Lanka Postal Assembly has not been recruited to the Sri Lanka Postal Department and by the end of the previous year.. The departmental work with such a number of vacancies has arisen and has approved Cabinet approval on August 19, 2025 at the request of Health and Mass Media Dr. Nalinda Jayatissa to recruit 1000 vacancies as a solution.
+
+Accordingly, out of which 731 persons were selected to recruit the proper qualifications as registered as substitute employees of the Department of Posts.. The Ministry of Health and Mass Mediti has already taken action to recruit 269 other postvers.
+
+◼️
+
+[Data](articles/fc97c31b.json)
+
+[Extended Data](ext_articles/fc97c31b.ext.json)
 
 ---
 
@@ -93,6 +151,18 @@ D Silva said the group was confused by the proposal of the Highway Ministry to c
 
 ---
 
+### Government Aims To Provide A Home For Every Citizen
+
+*2025-10-05 13:03:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/government-aims-to-provide-a-home-for-every-citizen) · `en`
+
+COLOMBO (News 1st);Deputy Minister of Housing T.B. Sarath says that the government's goal is to provide a house to every person.He stated this while participating in the World Habitat Day celebrations held at Temple Trees this morning.It was held under the patronage of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/71d4b461.json)
+
+---
+
 ### Politicians associated with the underworld are disturbed; Minister Ananda Wijebala
 
 *2025-10-05 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226941) · `ta`
@@ -110,6 +180,18 @@ Opposition parties refer to political revenge when they arrest corrupt and state
 [Data](articles/ef186435.json)
 
 [Extended Data](ext_articles/ef186435.ext.json)
+
+---
+
+### Fraudulently Registered Jeep Seized By Authorities
+
+*2025-10-05 13:01:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/fraudulently-registered-jeep-seized-by-authorities) · `en`
+
+COLOMBO (News 1st);An illegally imported jeep, registered with the Department of Motor Traffic using false information, has been recovered.The Central Crime Investigation Division conducted a raid, leading to the seizure. A statement has been recorded from the suspect regarding the incident.Police confirmed that the jeep has been handed over to the local police, and around 20 other similar vehicles have been identified. Investigations are ongoing to bring them into police custody.
+
+◼️
+
+[Data](articles/a993e5b2.json)
 
 ---
 
@@ -146,6 +228,30 @@ Meanwhile, traffic has been cut off on the main streets of Darjeeling to Sikkim 
 [Data](articles/2fd93732.json)
 
 [Extended Data](ext_articles/2fd93732.ext.json)
+
+---
+
+### The people of landslides warned people to be aware of
+
+*2025-10-05 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215362) · `si`
+
+The National Building Research Organization (NBRO) says that the people living in these areas should be aware of the areas where several districts have been imposed in several districts yesterday (04).
+
+The organization said that the Department of Meteorology may be expected in the next few days.
+
+The National Building Research Organization (NBRO) issued a warnings in the Narammala, Badulla District of Ukuwela, Rattota, Bibile, Bibile, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Badulla District.
+
+The announcement is effective from 06.00 pm today and the people living in these areas should pay attention to this area.
+
+The opening of the roads are concerned with the drivers of the road when submitting the dangers on both sides.
+
+The people who engage in trading areas on the road have been transferred to the people, along with the dangers.
+
+...
+
+[Data](articles/53e13133.json)
+
+[Extended Data](ext_articles/53e13133.ext.json)
 
 ---
 
@@ -199,6 +305,18 @@ The meeting was organized to treat the UNP convention successful and treat leadi
 
 ---
 
+### Power Outages Across Sri Lanka Amid Rainy Weather and Ongoing Strike
+
+*2025-10-05 12:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/power-outages-across-sri-lanka-amid-rainy-weather-and-ongoing-strike) · `en`
+
+COLOMBO (News 1st):The Ceylon Electricity Board (CEB) reports that approximately 30,000 power outages have been recorded across the island due to adverse weather conditions.The electricity trade unions are currently engaged in a work-to-rule trade union action.As a result, the restoration of power outages may be delayed, according to Prabath Priyantha, the General Secretary of the Ceylon Electricity Workers' Union (CEWU)
+
+◼️
+
+[Data](articles/6d17daf0.json)
+
+---
+
 ### Increase in cattle cattle in banana; Legal action against owners - Pradeshiya Sabha Chairman
 
 *2025-10-05 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226931) · `ta`
@@ -238,6 +356,44 @@ The deceased has been identified as the driver and his mother-in-law and two inj
 [Data](articles/12e2c2fa.json)
 
 [Extended Data](ext_articles/12e2c2fa.ext.json)
+
+---
+
+### World Teacher Day today
+
+*2025-10-05 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215361) · `si`
+
+World Teacher Day to celebrate all teachers around the world have been played today (05).
+
+It has been used by UNESCO globally to celebrate World Teacher Day, the United Nations Educational, Scientific and Cultural Organization (UNESCO) every year.
+
+The theme of this year's world teachers day is "rewriting the teaching in a collaborative profession".
+
+The teacher is the teacher who is the teacher who is the teacher, and the teacher is the only one who will be the worshiper of the society due to its dignity.
+
+The National Teacher Day of Sri Lanka is celebrated on October 06 and tomorrow (06).
+
+The Prime Minister Dr. Welii Amarasuriya has issued an announcement and the teachers who are widely celebrated in Sri Lanka islandhand.
+
+The Prime Minister as the Minister of Education, Higher Education and Vocational Education, is said to have a meaningful way of the educational system, "listening to the teaching of the education system, and said:
+
+◼️
+
+[Data](articles/296eb46d.json)
+
+[Extended Data](ext_articles/296eb46d.ext.json)
+
+---
+
+### Three Dead In Narammala Road Accident
+
+*2025-10-05 12:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/three-dead-in-narammala-road-accident) · `en`
+
+COLOMBO (News 1st)Three people have died in a road accident on the Narammala-Kurunegala road.Police said the accident occurred when a lorry lost control and collided with an SLTB bus. Two of the deceased, including the lorry driver and a female passenger, were residents of Polonnaruwa, aged 41, 80, and 82.A female passenger in the lorry and two girls, aged 16 and 9, were injured and are receiving treatment at Kurunegala Teaching Hospital. The bus driver has been arrested in connection with the incident.
+
+◼️
+
+[Data](articles/f15fd4e6.json)
 
 ---
 
@@ -312,6 +468,26 @@ Many politicians have been used as their quarters recently. Former Prime Ministe
 [Data](articles/d09cd5d8.json)
 
 [Extended Data](ext_articles/d09cd5d8.ext.json)
+
+---
+
+### Breaking Attempts can strengthen more bonds - former President Mahinda
+
+*2025-10-05 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215360) · `si`
+
+Former President Mahinda Rajapaksa says that people's love is based on profitability in the contents of trust and mutual respect.
+
+Former President has said that the former President has made a note on his Facebook account, and he is familiar with the people of her people.
+
+It is reported that it is more likely to be a heartfelt relationship with the value of its value, as it is a political relationship.
+
+So the former President shows that the bonds of breakdown can strengthen more commitments.
+
+◼️
+
+[Data](articles/7ad8b1ff.json)
+
+[Extended Data](ext_articles/7ad8b1ff.ext.json)
 
 ---
 
@@ -699,6 +875,26 @@ The driver of the bus has been arrested in connection with the accident and the 
 
 ---
 
+### A new coin of the dollar for the US Independence Day for 250
+
+*2025-10-05 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215358) · `si`
+
+The Treasury is planning to issue a dollar for 250th American Independence Day for the year 2026.
+
+The word 'FIIT', created with the help of President Donald Trump's image, has been referred to the word 'FIT'.
+
+In the other side of the coin, Trump's dear is the deadline of the independence of the United States 1776-120s with the word 'Liberty' with 'Liberty'.
+
+However, this is the first approach of the coin face and has not yet received a final decision.
+
+◼️
+
+[Data](articles/c77630a4.json)
+
+[Extended Data](ext_articles/c77630a4.ext.json)
+
+---
+
 ### '' Developing ties is strengthened ''
 
 *2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/1-680750) · `si`
@@ -923,6 +1119,32 @@ The body has been placed in the funeral room of the Balangoda Hospital and Pinna
 
 ---
 
+### Lorry accident called for killing three
+
+*2025-10-05 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215357) · `si`
+
+Three persons were killed in an accident near Narammala town on Narammala - Kurunegala road.
+
+The accident had occurred in Katunayake to Akkaraipattu bus and the SLTB bus collided with the lorry road from Kurunegala to Narammala.
+
+The driver of the lormala and two children were injured in the lorry, two women and two children were injured and two children were injured and two children were killed.
+
+The victims were identified as 41, 80 and 82 years of resident of Polonnaruwa.
+
+A 40-year-old woman, aged 16, and two-year-old girl is still receiving treatment at the Kurunegala Hospital.
+
+The bodies are placed in the prestigulosives of Narammala and Kurunegala hospitals.
+
+The driver of the bus was arrested and Narammala police are conducting further investigations.
+
+◼️
+
+[Data](articles/9ef782ec.json)
+
+[Extended Data](ext_articles/9ef782ec.ext.json)
+
+---
+
 ### The Land Commission removes the boss
 
 *2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉඩම-කමසම-ලකක-ඉවත-කරය/101-680747) · `si`
@@ -1042,6 +1264,30 @@ The cause of the shooting has not yet been revealed, while police suspect that t
 [Data](articles/113b367d.json)
 
 [Extended Data](ext_articles/113b367d.ext.json)
+
+---
+
+### 731 permanent postal assistant to the Sri Lanka Postal Department
+
+*2025-10-05 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215356) · `si`
+
+731 persons have been selected for the post of postal assistant in Grade III of the Department of Mass Technology Department of Mass Technology.
+
+The appointment letters to those selected persons will be held at Temple Trees, Dr. Nalinda Jayatissa at Temple Trees, tomorrow.
+
+After the year 2021, he had not taken permanent postal assistant to the Sri Lanka Postal Department.
+
+The departmental work with such a number of vacancies had arisen and was approved by the Cabinet approval on 19 August 205 to the request of Health and Mass Media Dr. Nalinda Jayatissa to recruit 1,000 vacancies.
+
+Accordingly, 731 of the above was selected for recruitment of the proper qualifications registered as substitute employees of the Department of Posts.
+
+The Ministry of Health and Mass Mediti has already taken action to recruit 269 other postvers.
+
+◼️
+
+[Data](articles/fa0b8266.json)
+
+[Extended Data](ext_articles/fa0b8266.ext.json)
 
 ---
 
@@ -1221,6 +1467,28 @@ In the assets submitted by government ministers, it has also been mentioned that
 
 ---
 
+### 158,971 tourists arrived in Sri Lanka in September
+
+*2025-10-05 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215355) · `si`
+
+Sri Lanka Tourism Development Superintendent of Sri Lanka said that the number of tourists arrived in Sri Lanka during September was 158,971.
+
+According to the latest data issued by the Sri Lanka Tourism Development Authority, 49,697 tourists arrived in India in September, 31.3%.
+
+Also, 10,527 people from the UK, 9,344 Germans, 5,144 French and 5,144 French have arrived in Sri Lanka in September.
+
+Accordingly, 1,725,494 tourists from January 1 to September 30, 2025, was 1,725,494.
+
+Sri Lanka Tourism Development Authority stated that 375,292 tourists from India and 161,893 were from India and 161,893 from India and 161,893 were from the United Kingdom.
+
+◼️
+
+[Data](articles/5edb5666.json)
+
+[Extended Data](ext_articles/5edb5666.ext.json)
+
+---
+
 ### Shots a house in Alpitty
 
 *2025-10-05 08:26:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටියේ-නිවසකට-වෙඩි-ප්‍රහාරයක්/11-418915) · `si`
@@ -1268,6 +1536,24 @@ It is noteworthy that he carried out Performance Evaluations and Injury-Risk Ass
 [Data](articles/4ea4e7cb.json)
 
 [Extended Data](ext_articles/4ea4e7cb.ext.json)
+
+---
+
+### Mother of Moda's operation on the army of the Gaza
+
+*2025-10-05 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215354) · `si`
+
+Indian Prime Minister Narendra Modi has expressed his commendation on the attempt to extinguish peace and establish peace by US President Donald Trump.
+
+The Indian Prime Minister says that he has made a note of the account in the Gaza coincidence, as India provides the brutality of the US President.
+
+The Prime Minister of the Prime Minister further stated that India will continue to support all the efforts for the last and reasonable peace, and India will continue to support all those who are in reasonable and reasonable peace.
+
+◼️
+
+[Data](articles/1e634f39.json)
+
+[Extended Data](ext_articles/1e634f39.ext.json)
 
 ---
 
@@ -1714,287 +2000,5 @@ Sajith Premadasa has said that a social security program should ensure poverty a
 [Data](articles/9a5ce97b.json)
 
 [Extended Data](ext_articles/9a5ce97b.ext.json)
-
----
-
-### If Kachchativu is used for politics, a massive struggle will explode
-
-*2025-10-04 22:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சத்தீவை-அரசியலுக்காக-பயன்படுத்தினால்-பாரிய-போராட்டம்-வெடிக்கும்/175-365723) · `ta`
-
-Tamil Nadu Chief Minister MK Stalin and Tamil Nadu Victory Council President Vijay and Kachchativu have been warned that a massive struggle will be carried out against them.
-
-Annalingam Annarasa, media spokesman for the Northern Province Fisheries Internet, issued this warning.
-
-Chief Minister of Tamil Nadu MK Stalin continues to speak on political platforms that he will rescue Kachchativu.
-
-Annalingam Annarasa has stated that if you continue to promote Tamil Nadu fishermen against the Northern fishermen, we will carry out a massive struggle.
-
-He also said that Vijay is talking about the Kachchativu issue for the political existence of the Tamil Nadu Victory Corporation.
-
-Vijay and Seeman have demanded that Vijay and Seeman come to solve the problem of the Sri Lankan -Indian fishermen before Vijay's coming into politics and they did not listen to the demands of the Northern Province Fisheries Internet media spokesman Analingam Annarasa. Remble
-
-◼️
-
-[Data](articles/3c413888.json)
-
-[Extended Data](ext_articles/3c413888.ext.json)
-
----
-
-### Two new coaches to SLC team
-
-*2025-10-04 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215348) · `si`
-
-Sri Lanka Cricket (SLC) Two new coaches were appointed to Sri Lanka Cricket Team this afternoon.
-
-Accordingly, Julian Wood has been appointed as the new batting coach.
-
-He is due to be in the post for a year, effective month.
-
-Renee Ferdinand has been appointed as the spinner coach.
-
-The appointment by the SLC has said that the appointment has been carried out on September 30 to two years.
-
-Media Release - slcm202590 - New coaching appointments (1) by poornima
-
-◼️
-
-[Data](articles/1046f3e0.json)
-
-[Extended Data](ext_articles/1046f3e0.ext.json)
-
----
-
-### Magnitude 6 earthquake strikes east coast of Honshu, Japan
-
-*2025-10-04 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/113220/magnitude-6-earthquake-strikes-east-coast-of-honshu-japan) · `en`
-
-An magnitude 6 earthquake struck near the east coast of Honshu, Japan, on Saturday, the German Research Center for Geosciences (GFZ) said.
-
-◼️
-
-[Data](articles/e0838fe0.json)
-
-[Extended Data](ext_articles/e0838fe0.ext.json)
-
----
-
-### Dilmah Awards LKR 3 Million to Winners of Unique Photo Competition
-
-*2025-10-04 21:51:00* · [`islandlk`](http://island.lk/dilmah-awards-lkr-3-million-to-winners-of-unique-photo-competition/) · `en`
-
-Dilmah Tea celebrated the Top 70 including 37 award winners of a unique photography competition and exhibition ‘One Earth: Unveiling Sri Lanka’s Biodiversity’, that went beyond conventional wildlife photography competitions to capture the often-overlooked dimensions of biodiversity.
-
-“Inviting both established and aspiring photographers through Open and School categories, One Earth inspired participants to move beyond picturesque jungle scenes and reveal the fragility, urgency, and resilience of nature in backyards, waterways, and nightscapes – resulting in a powerful collection of images carrying compelling conservation messages,” a Dilmah news release explained.
-
-...
-
-[Data](articles/5dfcbc55.json)
-
-[Extended Data](ext_articles/5dfcbc55.ext.json)
-
----
-
-### The fatal accident that lost a student
-
-*2025-10-04 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215347) · `si`
-
-A boy was killed in a fifteen-year-old accident in an accident in the Udugampola in Udugampola in Gampaha.
-
-The victim is a tenth year of Nigampala Senarath Paranavithana Paranavitana, a resident of the Telugal Road, Weights, Weights.
-
-The victim had taken place when he was returning to a private help and returning from a private support.
-
-The lorry is also reported in a car and another three-wheeler.
-
-The driver of the lorry has been arrested by the police in connection with the accident and further investigations are underway.
-
-◼️
-
-[Data](articles/847e1370.json)
-
-[Extended Data](ext_articles/847e1370.ext.json)
-
----
-
-### SLIC offers Rs.1 Mn free life cover to parents of children born on World Children’s Day 2025
-
-*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/slic-offers-rs-1-mn-free-life-cover-to-parents-of-children-born-on-world-childrens-day-2025/) · `en`
-
-In celebration of World Children’s Day 2025, Sri Lanka Insurance Life (SLIC Life) proudly extended a Rs. 1 million free life insurance cover to the parents of every child born on October 1st across the island. Now in its fourth consecutive year, the initiative reflects SLIC Life’s mission to provide financial protection to families at crucial moments while reinforcing the value of life insurance as a safety net.
-
-This free life cover provides parents of newborns with vital financial security during uncertain times, helping families lay a stable foundation for the future. On October 1st, SLIC Life implemented the programme nationwide, covering every hospital in Sri Lanka to ensure parents across the country benefitted from this unique offering.
-
-...
-
-[Data](articles/d5d307dd.json)
-
-[Extended Data](ext_articles/d5d307dd.ext.json)
-
----
-
-### Sanjaya Gunawardana begins tenure as MD/CEO of Sampath Bank PLC
-
-*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/sanjaya-gunawardana-begins-tenure-as-md-ceo-of-sampath-bank-plc/) · `en`
-
-Sampath Bank PLC announced that Sanjaya Gunawardana officially commenced his tenure as the 9th Managing Director/Chief Executive Officer of the Bank on 24th September 2025. He succeeds Mrs. Ayodhya Iddawela Perera, who concluded her term in office after steering the Bank through a period of growth and transformation, leaving behind a legacy of commitment, excellence, and service.
-
-Sanjaya Gunawardana is a distinguished banking professional with over 36 years of experience across Retail Banking, Trade Finance, Information Technology, Strategic Planning, and Organisational Development. His multidimensional expertise and forward-looking approach to leadership have positioned him as a transformative figure in Sri Lanka’s banking industry.
-
-...
-
-[Data](articles/e1a00a2b.json)
-
-[Extended Data](ext_articles/e1a00a2b.ext.json)
-
----
-
-### Gehenu Lamayi in Sri Lanka
-
-*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/gehenu-lamayi-in-sri-lanka/) · `en`
-
-After what seems to have been an eternity, it was refreshing to hear a Prime Minister who knew what she was talking about and whom she was talking to. Last Friday, 26 September, Dr. Harini Amarasuriya was the Chief Guest at the Sri Lanka premiere of the 4K restoration of Gehenu Lamayi. Reflecting on the film, Amarasuriya noted its director Sumitra Peries as a trendsetter and a trailblazer. She went on to add that she was more than a director, arguing that she broadened our understanding of feminism in South Asia.
-
-...
-
-[Data](articles/9e6b0e43.json)
-
-[Extended Data](ext_articles/9e6b0e43.ext.json)
-
----
-
-### Udunuwara Forever Declare Overcoming Voting Over 9-0
-
-*2025-10-04 21:31:41* · [`adalk`](https://www.ada.lk/breaking_news/උඩුනුවර-සමූපාකාර-ඡන්දය-9-0ක්-ලෙස-පොදු-විපක්ෂය-ජය-ගනියි/11-418914) · `si`
-
-The general opposition team won the CHOGM, including the Chairman and the Board of Directors of the Udunuwara Cooperation Society.
-
-The President has created the controversial news since the last few weeks and the presidential opposition teams will visit Kandy and the general opposition groups have been a controversial incident in this month.
-
-◼️
-
-[Data](articles/3c558c20.json)
-
-[Extended Data](ext_articles/3c558c20.ext.json)
-
----
-
-### Three teams who went to Narangala cross the routine get lost due to rain
-
-*2025-10-04 21:26:52* · [`adalk`](https://www.ada.lk/breaking_news/නාරංගල-තරණයට-ගිය-කණ්ඩායම්-තුනක්-වැස්ස-නිසා-අතරමං-වෙයි/11-418913) · `si`
-
-The Disaster Management Center (DMC) says that three local youths who have visited Mount Nally Nalhilala Kanda.
-
-A group of 22 members of the Kandandara Police and Army Secretary to the Kandadara OIC of Kaladarai OIC Inspector OIC Police Inspector Geetukara Ratnayake said.
-
-They residents of Negombo and the tents of the mountain ranged the tents were embarrassed with the hilling winds, the police said they were embarrassed by the crude and excessive cold phones.
-
-Kudandara Police OIC Inspector Geetra Ratnayake, including Mr. Ratnayake, is conducting further investigations
-
-◼️
-
-[Data](articles/fc71144a.json)
-
-[Extended Data](ext_articles/fc71144a.ext.json)
-
----
-
-### An elephant dies at Polonnaruwa
-
-*2025-10-04 21:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පළනනර-බජ-ගවපල-ද-වදල-සර-වද-අලයක-මයයය/1-680742) · `si`
-
-The Polonnaruwa Police say that the elephant has died in the seed farms of the Department of Agriculture, Polonnaruwa.
-
-According to a information received by a person, the Polonnaruwa Police Pathirana said that we were taken to educate the Polonnaruwa.
-
-The elephant is suspicious that the elephant is killed by the seed farm of the Department of Agriculture in Polonnaruwa due to electricity.
-
-According to the wild Polonnaruwa, the Polonnaruwa, the Polonnaruwa, said that the elephant was killed by electric park.
-
-The Polonnaruwa Wildlife Officers and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/a98161ff.json)
-
-[Extended Data](ext_articles/a98161ff.ext.json)
-
----
-
-### An elephant dies at Polonnaruwa
-
-*2025-10-04 21:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පළනනර-බජ-ගවපල-ද-වදල-සර-වද-අලයක-මයයය/101-680742) · `si`
-
-The Polonnaruwa Police say that the elephant has died in the seed farms of the Department of Agriculture, Polonnaruwa.
-
-According to a information received by a person, the Polonnaruwa Police Pathirana said that we were taken to educate the Polonnaruwa.
-
-The elephant is suspicious that the elephant is killed by the seed farm of the Department of Agriculture in Polonnaruwa due to electricity.
-
-According to the wild Polonnaruwa, the Polonnaruwa, the Polonnaruwa, said that the elephant was killed by electric park.
-
-The Polonnaruwa Wildlife Officers and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/5aebbf38.json)
-
-[Extended Data](ext_articles/5aebbf38.ext.json)
-
----
-
-### Operation to save a group of people who were brought down at Narangoda
-
-*2025-10-04 21:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නරගල-කනද-අතරම-ව-පරසක-බර-ගනම-මහයමක/101-680741) · `si`
-
-The Deputy Director of the Disaster Management Center, EM L. Udaya Kumara said three tourist groups have been severely at risk in Badulla Narangala Kanda.
-
-A military team has reached the site to redeem the group.
-
-The Way of the Winds of Rain The Disaster Management Center (DMC) said that the three teams have been inconvenienced.
-
-They have tented their young and older groups from various parts of the island.
-
-◼️
-
-[Data](articles/800608ec.json)
-
-[Extended Data](ext_articles/800608ec.ext.json)
-
----
-
-### Operation to save a group of people who were brought down at Narangoda
-
-*2025-10-04 21:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නරගල-කනද-අතරම-ව-පරසක-බර-ගනම-මහයමක/1-680741) · `si`
-
-The Deputy Director of the Disaster Management Center, EM L. Udaya Kumara said three tourist groups have been severely at risk in Badulla Narangala Kanda.
-
-A military team has reached the site to redeem the group.
-
-The Way of the Winds of Rain The Disaster Management Center (DMC) said that the three teams have been inconvenienced.
-
-They have tented their young and older groups from various parts of the island.
-
-◼️
-
-[Data](articles/17681c9d.json)
-
-[Extended Data](ext_articles/17681c9d.ext.json)
-
----
-
-### Combination of circumstances gives CBK the opportunity to dissolve Parliament
-
-*2025-10-04 21:10:00* · [`islandlk`](http://island.lk/combination-of-circumstances-gives-cbk-the-opportunity-to-dissolve-parliament/) · `en`
-
-Bradman takes final bow after a period on intense political manoeuvering
-
-Ranil’s strength, according to the Constitution, came from his supremacy in Parliament. With great managerial skill he managed to keep at all times a sizable majority in place. The UNF never lost a vote in Parliament during those two years (Ranil was PM). The UNF itself was a coalition bringing together five parties which contested the election together. It must have brought much credit to his political acumen and management skills that in spite of severe stresses and strains, the UNF held together. It was also quite remarkable in a country where party political loyalties are notably fickle, that during the period of his government there was not a single resignation from party or office.
-
-...
-
-[Data](articles/e46bd8c3.json)
-
-[Extended Data](ext_articles/e46bd8c3.ext.json)
 
 ---

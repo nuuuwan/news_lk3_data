@@ -1,35 +1,129 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 02:20:30**
+As of **2025-10-06 02:37:05**
 
 ## Newspaper Stats
 
-*Scraped **81,367** Articles*
+*Scraped **81,405** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 610
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-colombotelegraphcom | 809
+colombotelegraphcom | 811
 lankadeepalk | 826
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,795
-adaderanalk | 10,456
+adaderanalk | 10,460
 tamilmirrorlk | 12,082
-virakesarilk | 13,359
+virakesarilk | 13,391
 adaderanasinhalalk | 13,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,367 (100.0%) of 81,367 articles have been extended.
+81,367 (100.0%) of 81,405 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-10-06 (Monday)
+
+### மலையக அதிகாரசபை ; ஜனாதிபதியின் கைகளில் முடிவு…!
+
+*2025-10-06 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/226989) · `ta`
+
+பெருந்தோட்டப் பிராந்தியத்தில் புதிய கிராமங்கள் அபிவிருத்தி அதிகார சபை (மலையக அதிகார சபை) சட்டம்  இலங்கைப் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டு கடந்த செப்டெம்பர் மாதம் 19 ஆம் திகதியுடன் ஏழு வருடங்களாகின்றன. கடந்த காலங்களில் அதிகார சபையை வலுப்படுத்தி பெருந்தோட்ட சமூகத்துக்கு உரிய அபிவிருத்திகளை முன்னெடுக்காமைக்கு பல காரணங்கள் கூறப்படுகின்றன. அரசியல் நெருக்கடிகள் ,மற்றும் மலையகக் கட்சிகளின் ஒற்றுமையின்மை போன்ற விடயங்கள் சுட்டிக்காட்டப்பட்டாலும் தற்போது அதிகார சபையை கலைப்பது தொடர்பான அறிவித்தல்கள் அரசாங்கத்தால் முன்னெடுக்கப்பட்டிருக்கும் நிலையில் அதை தடுத்து நிறுத்தும் செயற்பாடுகளும் மிகவும் மந்த கதியிலேயே செல்கின்றன.
+
+...
+
+[Data](articles/42ec32a2.json)
+
+---
+
+### ரணிலை விட 72 சதவீதம் அதிகமாக நிதி ஒதுக்கியுள்ள அநுர நாட்டுக்கு காரணத்தை வெளிப்படுத்துமாறு தயாசிறி வலியுறுத்தல்
+
+*2025-10-06 02:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226988) · `ta`
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க 2026ஆம் ஆண்டு நிதி ஒதுக்கீட்டு சட்ட மூலத்தில் ஜனாதிபதிக்கான செலவுகளுக்காக 11.37 பில்லியனை ஒதுக்கியிருக்கின்றார். இது 2024இல் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கான செலவை விட 72 சதவீத அதிகரிப்பாகும். இவ்வாறு பாரியளவு நிதி ஒதுக்கீட்டுக்கான காரணத்தை ஜனாதிபதியும், அரசாங்கமும் மக்களுக்கு வெளிப்படுத்த வேண்டும் என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+குருணாகலில் ஞாயிற்றுக்கிழமை (5) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+2024ஆம் ஆண்டு நிதி ஒதுக்கீட்டு சட்ட மூலத்தில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கான செலவுகள் 6.6 பில்லியன் ரூபாவாகும். அது 2025இல் அநுரகுமார திஸாநாயக்கவின் முதலாவது வரவு – செலவு திட்டத்தில் 2.9 பில்லியன் வரை குறைக்கப்பட்டது. அது தொடர்பில் அரசாங்கத்தால் பாரிய பிரசாரங்களும் முன்னெடுக்கப்பட்டன. ஆனால் தற்போது பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள 2026ஆம் ஆண்டுக்கான நிதி ஒதுக்கீட்டு சட்டமூலத்தில் அது 11.37 பில்லியனாக உயர்வடைந்துள்ளது.
+
+...
+
+[Data](articles/8a16e89a.json)
+
+---
+
+### இந்திய அரசாங்கத்தின் உதவியுடனான அம்பத்தலே நீர் வழங்கல் திட்டம் : அடையாள ரீதியாக ஜனாதிபதியிடம் கையளிப்பு
+
+*2025-10-06 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226987) · `ta`
+
+வீடுகளை நிர்மாணிப்பதற்கு நிதி வசதி அற்ற சுமார் 4000 ஏழைக் குடும்பங்களுக்கு வீடுகளை நிர்மாணிக்கும் வகையில்,வீடமைப்பு அதிகாரசபையால் செயல்படுத்தப்பட்ட திட்டத்தின் கீழ், நிறைவு செய்யப்பட்ட ஆயிரம் வீடுகளை இலத்திரனியல் தொழில்நுட்பத்தின் ஊடாக ஜனாதிபதி பொதுமக்களிடம் கையளித்தார்.
+
+இந்திய அரசாங்கத்தின் உதவியுடன் UN Habitat நிறுவனத்தின் தலையீட்டுடன் முன்னெடுக்கப்படும் அம்பத்தலே நீர் வழங்கல் திட்டம் அடையாள ரீதியாக ஜனாதிபதியிடம் கையளிப்பு உலக குடியிருப்பு தின நிகழ்வுகள் ஞாயிற்றுக்கிழமை (05) காலை அலரி மாளிகையில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நடைபெற்றன.
+
+'சொந்தமாக இருக்க இடம் - ஒரு அழகான வாழ்க்கை' என்ற தொனிப்பொருளின் கீழ், அதன் தேசிய நிகழ்வு நடைபெற்றதோடு அதனுடன் இணைந்ததாக ஒக்டோபர் 01-05 வரை குடியிருப்பு வாரம் அறிவிக்கப்பட்டு பல்வேறு திட்டங்கள் செயல்படுத்தப்பட்டன.
+
+...
+
+[Data](articles/4f68cdd4.json)
+
+---
+
+### யாழ். புன்னாலைக்கட்டுவனில் இடம்பெற்ற விபத்தில் இரண்டு முதியவர்கள் படுகாயம்!
+
+*2025-10-06 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226986) · `ta`
+
+பலாலி வீதி புன்னாலைக்கட்டுடன் பகுதியில் 5ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற வாகன விபத்தில் இரண்டு முதியவர்கள் படுகாயமடைந்த நிலையில் சிகிச்சைக்காக யாழ்ப்பாணம் போதனை வைத்தியசாலையில் சேர்ப்பிக்கப்பட்டுள்ளனர்.
+
+இராணுவ வாகனம் ஒன்று யாழ்ப்பாணத்தில் இருந்து பலாலி நோக்கி சென்று கொண்டிருந்தது. இதன்போது இராணுவ வாகனத்தின் பின்னால் வந்த லொறி ஒன்று இராணுவ வாகனத்தை முந்தி செல்ல முற்பட்டவேளை பலாலி பக்கம் இருந்து யாழ்ப்பாணம் நோக்கி பயணித்த மோட்டார் சைக்கிள் மீது குறித்த லொறி மோதியது.
+
+இந்த விபத்தின்போது மோட்டார் சைக்கிளில் பயணித்த இரண்டு முதியவர்களே படுகாயமடைந்துள்ளனர். விபத்து சம்பவம் குறித்து விசாரணைகளை சுன்னாகம் பொலிசார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/d4fb5cfe.json)
+
+---
+
+### சாவகச்சேரியில் அமைந்திருந்த குமரப்பா புலேந்திரன் உள்ளிட்டவர்களின் நினைவுத்தூபி இடித்தழிப்பு!
+
+*2025-10-06 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226985) · `ta`
+
+சாவகச்சேரி - நுணாவில் சந்தியில் அமைந்திருந்த குமரப்பா புலேந்திரன் உள்ளிட்டவர்களின் நினைவுத்தூபி கடந்த ஒரு மாதத்திற்கு முன்னர் இடித்தழிக்கப்பட்டது.
+
+அதனை இடித்தவர் மீண்டும் அந்த நினைவுத் தூபியை கட்டித் தருவதாக சாவகச்சேரி நகரசபையினருக்கு வாக்குறுதி அளித்திருந்த நிலையில் இதுவரை அந்த தூபி அமைக்கப்படவில்லை.
+
+அத்துடன் அதனை இடித்தழித்த நபர் தூபியை கட்டித் தர முடியாது என்று தற்போது பிரதேச சபையினருடன் முரண்பட்டு வருவதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/624d0b6e.json)
+
+---
+
+### அரசியல் தலையீட்டினால் சுயாதீனத்தன்மையை இழந்துள்ள பொலிஸ் ஆணைக்குழு - தயாசிறி ஜயசேகர எம்.பி. விசனம்
+
+*2025-10-06 00:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226984) · `ta`
+
+அரசியலமைப்பின் 17ஆவது திருத்தத்தின் ஊடாக பொலிஸ் ஆணைக்குழு ஸ்தாபிக்கப்பட்டு சுயாதீனமாக்கப்பட்டுள்ளது. ஆனால் இன்று முழுமையான அரசியல் தலையீட்டினால் பொலிஸ் ஆணைக்குழு அதன் சுயாதீனத்தன்மையை இழந்துள்ளது. ஜே.வி.பி. செயற்பாட்டாளரான பொது மக்கள் பாதுகாப்பு அமைச்சின் செயலாளரின் தீர்மானத்துக்கமையவே பொலிஸ்மா அதிபர் செயற்பட்டுக் கொண்டிருப்பதாக பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர விசனம் வெளியிட்டார்.
+
+குருணாகலில் ஞாயிற்றுக்கிழமை (5) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+அரசியலமைப்பின் 17ஆவது திருத்தத்தின் ஊடாக பொலிஸ் ஆணைக்குழு ஸ்தாபிக்கப்பட்டு சுயாதீனமாக்கப்பட்டுள்ளது. அதற்கமைய வெ வ்வேறு காரணிகள் தொடர்பில் பொலிஸ் ஆணைக்குழுவுக்கு அதிகாரங்களும் வழங்கப்பட்டுள்ளன. இடமாற்றம், நியமனங்கள் உள்ளிட்ட அதிகாரங்கள் வழங்கப்பட்டிருந்தன. ஆனால் தற்போது பொலிஸ் நிலைய பொறுப்பதிகாரிகளின் நியமனங்களில் அரசியல் தலையீடுகள் காணப்படுகின்றன.
+
+...
+
+[Data](articles/e69fa62e.json)
+
+---
 
 ### 2025-10-05 (Sunday)
 
@@ -105,6 +199,24 @@ COLOMBO (News 1st): The authority for transfers, promotions, and other matters c
 
 ---
 
+### யாழ்ப்பாணம் குருநகரில் போதைப்பொருளுடன் 51 வயதான நபர் கைது
+
+*2025-10-05 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/226983) · `ta`
+
+யாழ்ப்பாணம் - குருநகர் பகுதியில் போதைப்பொருட்கள் மற்றும் ஒரு தொகை பணத்துடன் 51 வயதான ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+யாழ்ப்பாண மாவட்ட குற்றத்தடுப்பு பிரிவு பொலிசார் குறித்த கைது நடவடிக்கையை இன்று முன்னெடுத்தனர்.
+
+எட்டு கிராம் ஹெரோயின், 16 கிராம் ஐஸ், 120 போதை மாத்திரைகள் என்பனவும் இரண்டு இலட்சத்து எழுபதாயிரம் ரூபாய் பணத்தொகையும் குறித்த நபரிடம் இருந்து மீட்கப்பட்டது.
+
+குறித்த நபரிடம் விசாரணைகளை மேற்கொண்ட பின்னர் நீதிமன்றத்தில் முற்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/402f60fe.json)
+
+---
+
 ### Israel - Hamas peace talks in Egypt tomorrow
 
 *2025-10-05 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215382) · `si`
@@ -143,6 +255,44 @@ The Leader of the Arayane Commissioner, the monastery of the Most Venerable Ther
 
 ---
 
+### President hands over 1,000 new houses to low-income families
+
+*2025-10-05 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113240/president-hands-over-1000-new-houses-to-low-income-families-) · `en`
+
+The national ceremony to mark World Habitat Day was held today (05) at the Temple Tress under the patronage of President Anura Kumara Dissanayake.
+
+Coinciding with the United Nations’ World Habitat Day, the national commemoration was held under the theme “A Place to Belong – A Beautiful Life”.
+
+In line with this, the period from 1st to 5th October was declared Habitat Week, during which a series of related programmes were implemented across the country, according to the President’s Media Division (PMD).
+
+As part of the housing development programme implemented by the National Housing Development Authority to provide homes for nearly 4,000 low-income families who lack the financial means to build their own houses, 1,000 completed houses were officially handed over to beneficiaries by the President through digital technology during the event.
+
+...
+
+[Data](articles/6d02fa05.json)
+
+---
+
+### 2025 ஜனவரி முதல் செப்டம்பர் வரை இலங்கைக்கு 17 இலட்சத்திற்கும் மேற்பட்ட வெளிநாட்டு சுற்றுலாப் பயணிகள் வருகை
+
+*2025-10-05 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226982) · `ta`
+
+2025 ஆம் ஆண்டு ஜனவரி 01 முதல் செப்டம்பர் 30, ஆம் திகதி  வரையான காலப்பகுதியில்  1,725,494 வெளிநாட்டு சுற்றுலா பயணிகள் இலங்கைக்கு வருகைத் தந்திருப்பதாகவும் கடந்த செப்டம்பர் மாதத்தில் 158,971 சுற்றுலாப் பயணிகள் நாட்டிற்கு வந்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+
+கடந்த ஆண்டு ஒகஸ்ட் மாதத்தில் வந்த சுற்றுலாப் பயணிகளின் எண்ணிக்கையுடன் ஒப்பிடும்போது இது 30.24 சதவீத  அதிகரிப்பாகும் எனவும் அதிகாரசபை குறிப்பிட்டுள்ளது.
+
+இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபை வெளியிட்ட சமீபத்திய தரவுகளின்படி, செப்டம்பர் மாதத்தில் இந்தியாவிலிருந்து 49,697 சுற்றுலாப் பயணிகள் நாட்டிற்கு வந்துள்ளனர். இது 31.3 சதவீத ஆகும்.
+
+அத்துடன் கடந்த செப்டம்பர் மாதத்தில் பிரித்தானியாவில் இருந்து 10,527 பேரும்,ஜெர்மனியிலிருந்து 9344 பேரும்,சீனாவிலிருந்து 10,527 பேரும் மற்றும் பிரான்சிலிருந்து 5,144 பேரும் இலங்கைக்கு வந்துள்ளனர்.
+
+அதன்படி, இந்த ஆண்டின் ஜனவரி 01 முதல் செப்டம்பர் 30, வரையான காலப்பகுதியில் இலங்கை வந்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 1,725,494 ஆகும்.
+
+...
+
+[Data](articles/993d73ba.json)
+
+---
+
 ### “I enjoyed the great joy of getting a leader"
 
 *2025-10-05 21:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-தலைவராகப்-பெறக்கூடிய-பெரும்-மகிழ்ச்சியை-அனுபவித்தேன்/175-365786) · `ta`
@@ -160,6 +310,52 @@ Throughout the public, he said that he had experienced "the greatest happiness t
 [Data](articles/f6d5340b.json)
 
 [Extended Data](ext_articles/f6d5340b.ext.json)
+
+---
+
+### செம்மணியில் மீட்கப்பட்ட மனித எலும்புகள் ; சர்வதேச மரபணு பரிசோதனை கோரி உறவினர்கள் வலியுறுத்தல்
+
+*2025-10-05 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/226981) · `ta`
+
+செம்மணியில் மீட்கப்பட்ட மனித என்பு  கூட்டுத்தொகுதிகளை சர்வதேச நிபுணர்கள் மூலம் மரபணு பரிசோதனைகளுக்கு உட்படுத்தி தங்களுக்கான நீதி கண்டறியப்பட வேண்டும் என காணாமல் ஆக்கப்பட்டவர்களின் உறவினர் சங்கத்தினால் தெரிவிக்கப்பட்டுள்ளது.
+
+5ஆம் திகதி ஞாயிற்றுக்கிழமை கிளிநொச்சியில் நடைபெற்ற குறித்த ஊடக சந்திப்பில் வடக்கு கிழக்கு வலிந்து கானாமல் ஆக்கப்பட்டவர்களின் சங்கத்தின் செயலாளர் சிவானந்தன் ஜெனிரா மேற்கண்டவாறு தெரிவித்துள்ளனர்
+
+தொடர்ந்து குறிப்பிடுகையில் கடந்த 2009 ஆம் ஆண்டு முதல் காணாமல் ஆக்கப்பட்ட தங்களுடைய உறவுகளுக்கு நீதி கோரி தொடர்ந்து போராட்டத்தில் ஈடுபட்டு வருகின்ற தாங்கள் இலங்கையில் கடந்த ஆட்சியாளர்களால் தொடர்ந்து ஏமாற்றப்பட்டு இருக்கின்றோம்.
+
+அந்த அடிப்படையிலேயே உள்நாட்டு பொறி முறை ஒன்றை எதிர்த்து சர்வதேச தரத்திலான ஒரு பொறி முறை ஊடாகவே தங்களுக்கு நீதி கிடைக்க வேண்டும் என்ற கோரிக்கையை தொடர்ச்சியாக முன்வைத்து வருகின்றோம் அதே நேரம் திங்கட்கிழமை (6) யாழ்ப்பாணத்தில் முன்னெடுக்கின்ற போராட்டத்திற்கு நமக்கும் எந்த தொடர்பும் இல்லை என்பதையும் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/e011ae5c.json)
+
+---
+
+### TV Derana celebrates 20 years of excellence in Sri Lankan television
+
+*2025-10-05 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113239/tv-derana-celebrates-20-years-of-excellence-in-sri-lankan-television) · `en`
+
+Sri Lanka’s premier television channel, TV Derana, marks a significant milestone this month as it celebrates its 20th anniversary, continuing to uphold its brand credo of “Protecting indigenous values while protecting our future.”
+
+Launched on October 11, 2005, TV Derana entered the media landscape with a promise to deliver innovative and high-quality entertainment to Sri Lankan audiences. Over the past two decades, the channel has earned the unwavering trust of viewers, transforming the landscape of local television across genres including teledramas, reality shows, entertainment programs, news, current affairs, and political discussions.
+
+Shortly after its inception, TV Derana introduced ‘Derana Little Star’, a groundbreaking platform designed to showcase the talents of Sri Lankan children at the national level. It became the first and only reality competition series of international standards in Sri Lankan television history.
+
+...
+
+[Data](articles/4183a21a.json)
+
+---
+
+### இலங்கை கடற்படையின் பெருமைமிக்க 75 வது ஆண்டு நிறைவை முன்னிட்டு மன்னார் பேசாலையில் மருத்துவ மற்றும் பல் மருத்து சிகிச்​சைகள்  நடத்தப்பட்டன
+
+*2025-10-05 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226980) · `ta`
+
+2025 டிசம்பர் 9 ஆம் திகதி கொண்டாடப்படும் இலங்கை கடற்படையின் 75 வது ஆண்டு நிறைவை நினைவுகூரும் வகையில், அக்டோபர் 5 முதல் டிசம்பர் 26 வரை சிறப்பு நிகழ்ச்சித் தொடரை கடற்படை ஏற்பாடு செய்துள்ளது. இந்தத் தொடரின் தொடக்கமாக, முப்படை மருத்துவ சங்கம், கடற்படை மருத்துவ மற்றும்  பல் மருத்துவத் துறைகளுடன் இணைந்து ஏற்பாடு செய்யப்பட்ட சிறப்பு நடமாடும் மருத்துவ மற்றும் பல் மருத்துவ சிகிச்சை  ஞாயிற்றுக்கிழமை (2025 அக்டோபர் 5) மன்னார் பேசாலையில் வெற்றிகரமாக நடைபெற்றது.
+
+...
+
+[Data](articles/2e373298.json)
 
 ---
 
@@ -218,6 +414,66 @@ COLOMBO (News 1st); The Department of Meteorology has issued an amber advisory f
 [Data](articles/40960b20.json)
 
 [Extended Data](ext_articles/40960b20.ext.json)
+
+---
+
+### அலரி மாளிகையில்  ஜனாதிபதி தலைமையில்  உலக குடியிருப்பு தின நிகழ்வுகள்
+
+*2025-10-05 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226979) · `ta`
+
+உலக குடியிருப்பு தின நிகழ்வுகள் ஞாயிற்றுக்கிழமை  (05) காலை அலரி மாளிகையில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நடைபெற்றன.
+
+'சொந்தமாக இருக்க  இடம் - ஒரு அழகான வாழ்க்கை' என்ற  தொனிப்பொருளின் கீழ், அதன் தேசிய நிகழ்வு நடைபெற்றதோடு அதனுடன் இணைந்ததாக  ஒக்டோபர் 01-05 வரை குடியிருப்பு வாரம் அறிவிக்கப்பட்டு பல்வேறு திட்டங்கள் செயல்படுத்தப்பட்டன.
+
+வீடுகளை நிர்மாணிப்பதற்கு நிதி வசதி அற்ற சுமார்  4,000 ஏழைக் குடும்பங்களுக்கு வீடுகளை நிர்மாணிக்கும் வகையில், வீடமைப்பு அதிகாரசபையால் செயல்படுத்தப்பட்ட திட்டத்தின் கீழ், நிறைவு செய்யப்பட்ட ஆயிரம் வீடுகளை இலத்திரனியல் தொழில்நுட்பத்தின் ஊடாக ஜனாதிபதி பொதுமக்களிடம்  கையளித்தார்.
+
+UN Habitat இலங்கை அலுவலகத்தின் தலையீட்டின் கீழ் இந்திய அரசின் Coalition for Disaster Resilient Infrastructure  (CDRI) உதவியின் கீழ்  செயல்படுத்தப்படும் அம்பத்தலே நீர் வழங்கல் திட்டத்தின் அடையாள ரீதியான கையளிப்பு உத்தியோகபூர்வமாக  ஜனாதிபதியிடம் ஒப்படைக்கப்பட்டது.
+
+...
+
+[Data](articles/75216872.json)
+
+---
+
+### Gunmen kill two, injure 12 in shootout in crowd in Alabama’s Montgomery
+
+*2025-10-05 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113238/gunmen-kill-two-injure-12-in-shootout-in-crowd-in-alabamas-montgomery) · `en`
+
+Rival gunmen started shooting at each other in a crowded downtown nightlife district in Alabama’s capital city Montgomery on Saturday night, killing two people and injuring 12 others, police said.
+
+Montgomery Police Chief James Graboys said three of the injured were hospitalized with life-threatening injuries. Police were called around 11:30 p.m. to what Graboys described as a “mass shooting.”
+
+“This was two parties involved that were basically shooting at each other in the middle of a crowd,” Graboys told reporters near the scene.
+
+The shooters, he said, “did not care about the people around them when they did it.”
+
+Police had reported no arrests Sunday morning, and hadn’t released details about how many people had fired or what kinds of weapons had been used.
+
+...
+
+[Data](articles/f40816e3.json)
+
+---
+
+### Sailor from India missing from merchant ship off Sri Lankan coast – report
+
+*2025-10-05 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113237/sailor-from-india-missing-from-merchant-ship-off-sri-lankan-coast-report) · `en`
+
+A 22-year-old merchant navy cadet from India has gone missing off the coast of Sri Lanka while serving aboard an oil tanker, his family confirmed on Saturday.
+
+Karandeep Singh Rana disappeared on September 20 during the vessel’s voyage from Iraq to China, with a planned stop near Sri Lanka, according to his father, Narendra Singh Rana.
+
+Karandeep had left Dehradun on August 18 and travelled to Singapore, where he boarded the tanker bound for Iraq. From there, the ship set sail towards China via Sri Lanka.
+
+Narendra, a resident of Dehradun’s Patel Nagar area, explained that the family was informed by the Mumbai office of Executive Ship Management (ESM) at around 9.30 pm on September 20 that Karandeep had gone missing despite extensive searches.
+
+“We were shocked to hear this because we had spoken to him that afternoon and he was perfectly fine,” he told PTI.
+
+After further inquiries, company officials told the family that Karandeep had gone to the deck alone and had not been found since.
+
+...
+
+[Data](articles/6e1d13e0.json)
 
 ---
 
@@ -325,6 +581,54 @@ Just across the border in Nepal, heavy rains triggered landslides and flash floo
 
 ---
 
+### அதிகாரங்கள் போதாதெனக் குறிப்பிட்டு ஒரு கட்சி ஆட்சி முறைமையை ஏற்படுத்த முயற்சி - பிரேம்நாத் சி தொலவத்த
+
+*2025-10-05 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226973) · `ta`
+
+நிறைவேற்றதிகாரத்துடன் பாராளுமன்றத்திலும் தேசிய மக்கள் சக்திக்கு மூன்றில் இரண்டு பெரும்பான்மை காணப்படுகிறது. ஆனாலும் ஜனாதிபதி அநுரகுமார திஸாநாயக்க இவை போதாது எனக் கூறுகின்றார். இதன் ஊடாக மறைமுகமாக ஒரு கட்சி ஆட்சி முறைமையை ஏற்படுத்துவதற்கு அரசாங்கம் முயற்சிப்பதாக முன்னாள் பாராளுமன்ற உறுப்பினர் பிரேம்நாத் சி தொலவத்த தெரிவித்தார்.
+
+கொழும்பில்  ஞாயிற்றுக்கிழமை (05) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+தற்போது மாகாணசபைகளின் அதிகாரம் முற்றுமுழுதாக அதிகாரிகள் வசமாகியுள்ளது. அவர்கள் அரசாங்கத்தின் பிரதிநிதிகளாகவுள்ளனர். மறுபுறம் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையும் காணப்படுகிறது.
+
+இவை அனைத்துக்கும் மேலாக நிறைவேற்றதிகாரமும் காணப்படுகிறது. ஆனால் இவ்வாறு அதி உச்ச அதிகாரங்களை தம்வசம் வைத்துக் கொண்டும் அபிவிருத்தி திட்டங்களை முன்னெடுப்பதற்கு அவை போதாது என ஜனாதிபதி கூறுகின்றார்.
+
+...
+
+[Data](articles/678fc273.json)
+
+---
+
+### தாஜுடீன் மரண விசாரணைகளில் புது திருப்பம் ; ஷிரந்தியின் மீது திரும்பும் சந்தேகம்…?
+
+*2025-10-05 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226976) · `ta`
+
+தாஜுடீனை கடத்திய  டிபெண்டர் ரக வாகனம் சிரிலிய சவிய அறக்கட்டளை நிறுவனத்துக்கு சொந்தமான WP KA0642 என்ற பதிவு எண்ணைக் கொண்டது என 2018  ஆம் ஆண்டு செப்டெம்பர் 20 அன்று குற்றப்புலனாய்வுத் துறை நீதிமன்றுக்கு அறிவித்திருந்தது. சிரிலிய சவிய என்பது மகிந்த ராஜபக்சவின் மனைவி ஷிரந்தி ராஜபக்சவினால் ஆரம்பிக்கப்பட்ட அறக்கட்டளை நிறுவனமாகும்.  சமூக நலத்திட்டங்கள் மற்றும் மக்களுக்கு உதவி வழங்குவதை இது நோக்கமாகக் கொண்டிருந்தது.  இந்தத் திட்டம் நிதி முறைகேடுகள் மற்றும் பிற குற்றச் செயல்களுடன் தொடர்புபடுத்தப்பட்டு, விசாரணைகளுக்கு உள்ளானது. ஆனால் அதற்குப்பிறகு அது தொடர்பான விசாரணைகள் இழுபறியாகின. திடீரென  மைத்ரிபால சிறிசேன மகிந்தவை பிரதமராக்கியமை, அதன் பிறகு ஏற்பட்ட அரசியல் நெருக்கடிகள், கோட்டாபய ஜனாதிபதியானமை போன்றவற்றால் தாஜுடீன் கொலை வழக்கு விசாரணைகள் முற்றாக ஸ்தம்பிதமடைந்தன.
+
+◼️
+
+[Data](articles/7ea3269b.json)
+
+---
+
+### மன்னாரில் மக்களின் விருப்பத்துக்கு மாறாக காற்றாலை மின்னுற்பத்தி திட்டம் முன்னெடுக்கப்படுவதை அனுமதிக்க முடியாது - பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன
+
+*2025-10-05 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226971) · `ta`
+
+மீள்புதுப்பிக்கத்தக்க வலுசக்தி துறையை நாம் வரவேற்கின்றோம். ஆனால் மன்னாரில் மக்களின் விருப்பத்துக்கு மாறாக அந்த திட்டம் முன்னெடுக்கப்படுவதை அனுமதிக்க முடியாது. மக்களுடன் கலந்துரையாடி அவர்களது விருப்பத்துக்கேற்பவே அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படும் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க வழங்கிய வாக்குறுதியை தற்போது நிறைவேற்ற வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன வலியுறுத்தினார்.
+
+கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில்  ஞாயிற்றுக்கிழமை (05) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க மன்னாருக்கு விஜயம் செய்திருந்த போது, மக்களுடன் கலந்துரையாடி அவர்களது குரலுக்கு செவி சாய்த்து அதற்கேற்பவே அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படும் எனத் தெரிவித்திருந்தார்.
+
+ஆனால் இதுவரையில் அரசாங்கம் அவ்வாறு எந்தவொரு நடவடிக்கையும் எடுக்கவில்லை. நானும் பாராளுமன்ற உறுப்பினர் மனோ கணேஷனும் கடந்த வாரம் மன்னார் சென்றிருந்தோம்.
+
+...
+
+[Data](articles/e078dfe8.json)
+
+---
+
 ### Two killed in US shooting
 
 *2025-10-05 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215375) · `si`
@@ -427,6 +731,40 @@ Robot Shankar's daughter. Dad was formed in everyone's applause. Wherever the ap
 
 ---
 
+### சிறுவர்களை தவறாக வழிநடத்தும் அரசாங்கம் ; ஐக்கிய மக்கள் சக்தி கடும் விசனம்
+
+*2025-10-05 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226969) · `ta`
+
+நாட்டின் சொத்துக்களான சிறுவர்களை தவறாக வழிநடத்துவதற்கான சூழலை தேசிய மக்கள் சக்தி அரசாங்கம் உருவாக்கிக் கொண்டிருக்கிறது. 16 வயது பூர்த்தியான சிறுவர்கள் பாலியல் உறவில் ஈடுபட சுதந்திரம் வழங்கினால், அந்த வயதிலுள்ள சிறுமியொருவர் கர்ப்பமடைந்தால் அதற்கு சபைமுதல்வரும் அமைச்சருமான பிமல் ரத்நாயக்க வழங்கும் பதில் என்ன என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன தெரிவித்தார்.
+
+கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில்  ஞாயிற்றுக்கிழமை (05) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+நாட்டின் சொத்துக்களான சிறுவர்களை தவறாக வழிநடத்துவதற்கான சூழலை தேசிய மக்கள் சக்தி அரசாங்கம் உருவாக்கிக் கொண்டிருக்கிறது. சபைமுதல்வரும் அமைச்சருமான பிமல் ரத்நாயக்க 16 வயது பூர்த்தியடைந்த சிறுவர்களுக்கு பாலியல் உறவில் ஈடுபட முடியும் என பாராளுமன்றத்தில் கூறுகின்றார்.
+
+...
+
+[Data](articles/b301f2e7.json)
+
+---
+
+### நாணய நிதியத்தை மகிழ்விக்க அரசாங்கம் மின்கட்டணத்தை அதிகரிக்கும் பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் சுயாதீனம் கேலிக்குள்ளாகியுள்ளது - மின்பாவனையாளர் சங்கம் குற்றச்சாட்டு
+
+*2025-10-05 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226970) · `ta`
+
+சர்வதேச நாணய நிதியத்தை மகிழ்வித்து, ஐந்தாம் தவணை தொகையை பெற்றுக்கொள்வதற்காக மின்கட்டணத்தை 6 சதவீதமளவில் அதிகரிப்பதற்கு அரசாங்கம் தீர்மானித்துள்ளது. சுயாதீன பொதுப்பயன்பாடுகள் ஆணைக்குழு மீது நம்பிக்கை கிடையாது. பொதுமக்களின் அபிலாசைகளை கேட்பது காலத்தையும்,அரச நிதியையும் வீணடிக்கும் செயற்பாடாகும் என மின்பாவனையாளர் சங்கத்தின் தலைவர் எம்.டி.ஆர். அதுல தெரிவத்தார்.
+
+கொழும்பில் உள்ள மின்பாவனையாளர் சங்கத்தின் காரியாலயத்தில்  ஞாயிற்றுக்கிழமை (05) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மின்கட்டணத்தை 6.8 சதவீதத்தால் அதிகரிப்பதற்கு இலங்கை மின்சார சபை பொதுப்பயன்பாடுகள் ஆணைக்குழுவுக்கு பரிந்துரைத்துள்ளது. இதற்கமைய மின்கட்டண திருத்தம் தொடர்பில் பொதுப்பயன்பாடுகள் மாகாண அடிப்படையில் பொதுமக்களிடமிருந்து கருத்துக்களை கேட்கிறது.
+
+இதற்கமைய இறுதி கருத்து கோரல் எதிர்வரும் 15 ஆம் திகதி கொழும்பில் நடைபெறவுள்ளது.மின்கட்டணம் குறைக்கப்படும்  என்ற தீர்மானத்தை பொதுப்பயன்பாடுகள் ஆணைக்குழு அறிவிக்காது, மாறாக மின்கட்டணத்தை அதிகரிக்க அனுமதி என்ற அறிவிப்பையே வெளியிடும்.
+
+...
+
+[Data](articles/4507dbcd.json)
+
+---
+
 ### At the end of the little world, the wasps are chased and chased
 
 *2025-10-05 16:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சின்ன-உலக-முடிவில்-குளவிகள்-விரட்டி-விரட்டி-கொட்டியுள்ளது/76-365771) · `ta`
@@ -481,6 +819,34 @@ The arrested have been arrested seven including a disciple of Midigama, a drug d
 
 ---
 
+### மத்திய அதிவேக நெடுஞ்சாலைத் திட்டத்திற்கான புதிய வட்டி வீத முன்மொழிவு குறித்து ஹர்ஷ எச்சரிக்கை
+
+*2025-10-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226963) · `ta`
+
+அரச நிதி பற்றிய குழுவின் தலைவரும் பாராளுமன்ற உறுப்பினருமான கலாநிதி ஹர்ஷ டி சில்வா, மத்திய அதிவேக நெடுஞ்சாலைத் திட்டத்திற்கான நிதியுதவியின் வட்டி விகித அமைப்பை மாற்றுவதற்கான முன்மொழிவு குறித்து கவலை தெரிவித்துள்ளார். இது நாட்டின் கடன்பெறும் செலவுகளை அதிகரிக்கக்கூடும் என்றும் அவர் எச்சரித்துள்ளார்.
+
+தனது உத்தியோகபூர்வ எக்ஸ் தளத்தில் இது குறித்துப் பதிவிட்டுள்ள ஹர்ஷ டி சில்வா, ஏற்கெனவே தாமதமாகி, அதிகரித்து வரும் வட்டிச் சுமையால் பாதிக்கப்பட்டிருக்கும் 226 பில்லியன் ரூபாய் மதிப்பிலான இந்தத் திட்டம், நடந்து வரும் நிதி மற்றும் ஒப்பந்த நிச்சயமற்ற தன்மைகளால் மறுபரிசீலனைக்கு உட்படுத்தப்பட்டுள்ளதாகக் குறிப்பிட்டுள்ளார்.
+
+ஜனாதிபதி அநுரகுமார திஸ்ஸாநாயக்கவின் கீழ் பெரும் ஆரவாரத்துடன் இத்திட்டம் மீண்டும் தொடங்கப்பட்ட போதிலும், பிரதான ஒப்பந்ததாரர்களின் உரிமைகோரல்கள் தொடர்பாகவும், திருத்தப்பட்ட 500 மில்லியன் டொலர் கடன் வசதி தொடர்பாக சீனா எக்ஸிம் வங்கியுடனும் பேச்சுவார்த்தைகள் இன்னும் நிறைவடையவில்லை என்றும் அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/ca58acaf.json)
+
+---
+
+### ஜப்பானிய வியூகத்தில் சிக்கியதா இலங்கை?
+
+*2025-10-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226958) · `ta`
+
+இலங்கை கடற்படை, ட்ரோன்களின் மூலம் பலப்படுத்தப்படுவதை, அது ஜப்பானின் ஊடாக பலப்படுத்தப்படுவதை, சீனா விரும்புகிறதா என்ற கேள்வி இருக்கிறது.
+
+◼️
+
+[Data](articles/90601977.json)
+
+---
+
 ### 7 including accomplice of ‘Midigama Ruwan’ arrested with 5.6kg Hash
 
 *2025-10-05 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113235/7-including-accomplice-of-midigama-ruwan-arrested-with-56kg-hash) · `en`
@@ -502,6 +868,54 @@ The suspects have claimed that they brought the stock of drugs, which was found 
 [Data](articles/94e1fafe.json)
 
 [Extended Data](ext_articles/94e1fafe.ext.json)
+
+---
+
+### ஒற்றையாட்சிக்கு எதிராக ஒன்றிணைதல்
+
+*2025-10-05 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226957) · `ta`
+
+சமஷ்டி ஆட்சி முறை பற்றிய விளக்கங்களை எத்தனை முறை வழங்கினாலும், சிங்கள மக்கள் மத்தியில் அதுபற்றி இருக்கின்ற எதிர்மறையான கருத்துக்கள் மாறப் போவதில்லை. அவ்வாறு மாறுவதற்கு சிங்கள அரசியல் தலைமைகளும் அனுமதிக்கப் போவதில்லை. என்.பி.பி. அரசாங்கம் தமக்குத்தான் தமிழ் மக்கள் ஆணை வழங்கியதாக அடிக்கடி கூறிக் கொள்கிறது. ஆனால், அந்த ஆணை  பலவீனமான ஒன்று. தமிழர்களின் சிறுபான்மை எண்ணிக்கையானவர்களால்  மாத்திரம் அந்த ஆணை வழங்கப்பட்டது.
+
+◼️
+
+[Data](articles/f2b95459.json)
+
+---
+
+### 323 கொள்கலன்கள் விடுவிப்பு விவகாரம் ;  விசாரணைக்குழுவின் அறிக்கை - வெளிப்படுத்தியுள்ள விடயங்கள்
+
+*2025-10-05 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226953) · `ta`
+
+'கொள்கலன்கள் விடுவிப்பு முறைமையும், பொறுப்புக்கூற வேண்டியவர்களும் அடையாளம் காணப்பட்டாலும், கொள்கலன்களில் என்ன இருந்தது என்பது இன்னமும் கேள்வியே'
+
+◼️
+
+[Data](articles/3b920c19.json)
+
+---
+
+### அமைவிட சூழலும் செழிப்பின் இரகசியமும்
+
+*2025-10-05 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226955) · `ta`
+
+இலங்கை தீவின் அமைவிட முக்கியத்துவத்தின் நலன்கள் இங்குள்ள அனைத்து மக்களாலும் அனுபவிக்கப்பட வேண்டும். ஆனால், அந்த நலன்கள் ஒரு பகுதியினரான சிங்கள மக்களால் மாத்திரமே அனுபவிக்கப்பட்டு வந்திருக்கிறது என்பதே உண்மை. இலங்கைத் தீவுடன் பாரம்பரிய அரசியல், பொருளாதார, பாதுகாப்பு உறவுகளை தொடர்ந்து பேணுவதற்கு- புதிய தொடர்புகளையும் ஒத்துழைப்புகளையும் பலப்படுத்திக் கொள்வதற்கும் -சர்வதேச சக்திகள் விரும்புகின்றன.
+
+◼️
+
+[Data](articles/c0e26187.json)
+
+---
+
+### கரூர் அனர்த்தமும் விஜய்யின் அரசியல் எதிர்காலமும்
+
+*2025-10-05 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226952) · `ta`
+
+இந்தியாவில் கோவில் திருவிழாக்கள், மத ஒன்றுகூடல்கள், விளையாட்டுப் போட்டிகள் மற்றும் ரயில் நிலையங்களில் சன நெரிசலும் உயிரிழப்புகளும் ஒன்றும் புதியவையல்ல. அவை பெரும்பாலும் அடிக்கடி நிகழ்கின்ற அனர்த்தங்கள் என்று கூறலாம். விளையாட்டுப் போட்டிகளிலும்  சில திரைப்பட வெளியீட்டு நிகழ்வுகளிலும் கூட நெரிசலில் மக்கள் மரணமடைந்திருக்கிறார்கள்.
+
+◼️
+
+[Data](articles/7f3b28fa.json)
 
 ---
 
@@ -528,6 +942,18 @@ Further investigations are underway into the incident and is due to the Governme
 [Data](articles/bb25549b.json)
 
 [Extended Data](ext_articles/bb25549b.ext.json)
+
+---
+
+### தேசிய மக்கள் சக்தி அரசாங்கமும் விதிவிலக்கானதல்ல
+
+*2025-10-05 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226951) · `ta`
+
+மன்னார் விவகாரத்தில் தமிழ் அரசியல் கட்சிகள் மக்களுக்கு முன்னால் நிற்க வேண்டிய இடத்தில் மக்களுக்கு பின்னாலே நிற்;கின்றன. இது மிகவும் கவலைக்குரியதாகும்.
+
+◼️
+
+[Data](articles/18ad18f4.json)
 
 ---
 
@@ -615,6 +1041,22 @@ Foreign media reports that nine others have gone missing.
 
 ---
 
+### நேபாளத்தில் வெள்ளப்பெருக்கு, மண்சரிவு ; 42 பேர் உயிரிழப்பு
+
+*2025-10-05 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226962) · `ta`
+
+நேபாளத்தில், வெள்ளிக்கிழமை முதல் பெய்து வரும் கடும் மழையினால் வெள்ளப்பெருக்கு, மண்சரிவு ஏற்பட்டுள்ளது.
+
+இந்நிலையில், வெள்ளப்பெருக்கு, மண்சரிவில் சிக்கி 42 பேர் உயிரிழந்துள்ளனர். கோஷி மாகாணத்தில் இலாம் மாவட்டத்தில் சுமார் 37 பேர் மண்சரிவில் சிக்கி உயிரிழந்துள்ளனர்.
+
+11 பேர் காணமல் போயுள்ள நிலையில்,  மீட்புப்பணிகள் துரிதமாக நடைபெற்று வருகின்றன. அதேவேளை, கடும்மழை தொடர்ந்து நீடிக்கும் என்று வானிலை ஆய்வு மையம் எச்சரிக்கை விடுத்துள்ளதால் மக்கள் கவனமாக இருக்க அந்நாட்டு அரசு வலியுறுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/3a50c9d2.json)
+
+---
+
 ### Did you meet the mountain drugs? - The test report next week
 
 *2025-10-05 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215370) · `si`
@@ -685,6 +1127,18 @@ The match between the Indian and Pakistan, the Indian and Pakistan, will begin a
 
 ---
 
+### அநுரவிடம் ஹிட்லரின் சாயல் - ரணிலின் எச்சரிப்பு
+
+*2025-10-05 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226954) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் ஜப்பான் விஜயமானது உத்தியோகபூர்வ மற்றது என எதிர்க்கட்சிகள் குற்றம் சுமத்த ஆரம்பித்துள்ளன. ஜப்பானின் தற்காலிக பிரதமர் இராஜினாமா செய்ய உள்ளார். எனவே ஜப்பானின் தற்காலிக பிரதமரை சந்தித்தமையால் நாட்டிற்கு எவ்விதமான பலனும் ஏற்பட வில்லை. அதே போன்று வெளிவிவகார அமைச்சர் விஜித ஹேராத் மற்றும் கொழும்பில் உள்ள ஜப்பான் தூதுவரும் டோக்கியோவில் ஏன் ஒப்பந்தம் கைச்சாத்திட வேண்டும். அதனை இலங்கையிலேயே செய்திருக்கலாம். ஆகவே ஜனாதிபதியின் ஜப்பான் விஜயம் பொது நிதி மோசடியாகும் என்பது எதிர்க்கட்சிகளின் வாதமாக உள்ளது.
+
+◼️
+
+[Data](articles/98128d43.json)
+
+---
+
 ### Indo-Pakistani Vihara to women cricket
 
 *2025-10-05 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215369) · `si`
@@ -751,6 +1205,18 @@ The suspect is to be produced before the Negombo Magistrate's Court on the 8th.
 
 ---
 
+### குறுக்குவழி சம்பாத்தியம் அழிவையே கொண்டுவரும்
+
+*2025-10-05 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226950) · `ta`
+
+கஞ்சா நமது மக்களுக்கு தீங்கானது என்றால், அதை உலகத்தில் உள்ள ஏனைய நாட்டு மக்களும் பாவிப்பது தீங்கானதாகும். அதனால், வருமானத்திற்காக கஞ்சாவை உற்பத்தி செய்வது என்பது ஏற்றுக் கொள்ள முடியாத ஒன்றாகும்.
+
+◼️
+
+[Data](articles/5cd19dfe.json)
+
+---
+
 ### 4,500 jumps in bribery - 58 people arrested
 
 *2025-10-05 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215367) · `si`
@@ -779,6 +1245,30 @@ The bribery or corruption of correspondent in charge of the bribery, including p
 
 ---
 
+### இலங்கை தேயிலை ; கின்னஸ் சாதனையும் நோபல் பரிசும்
+
+*2025-10-05 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226940) · `ta`
+
+அரசாங்கமானது சிறு தேயிலை தோட்ட உரிமையாளர்களை வளப்படுத்த மானியங்களை வழங்குகின்றது. காரணம் அங்கு உற்பத்தி அதிகமாகும்.  ஆனால், இவை பெருந்தோட்டங்களுக்கு கிடைப்பதில்லை. இது குறித்து பெருந்தோட்டத் தொழிலாளர்களைப் பிரதிநிதித்துவம் செய்யும் பாராளுமன்ற உறுப்பினர்கள் வாய் திறப்பதில்லை.
+
+◼️
+
+[Data](articles/888361f1.json)
+
+---
+
+### மோல்டோவா : குழப்பம் மிகுந்த எதிர்காலம்?
+
+*2025-10-05 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226939) · `ta`
+
+ஐரோப்பிய நாடுகள் மீது படையெடுக்க ரஷ்யா தயாராகி வருகிறது என பலம்பொருந்திய மேற்கு ஐரோப்பிய நாடுகளான ஜேர்மனி, பிரான்ஸ், பிரித்தானியா உள்ளிட்டவை தொடர்ச்சியாகக் கருத்து வெளியிட்டு வரும் நிலையில், குறித்த படையெடுப்பு மோல்டோவா ஊடாக நிகழலாம் என குறித்த நாடுகள் அச்சம் கொண்டுள்ளன.
+
+◼️
+
+[Data](articles/a37e8487.json)
+
+---
+
 ### Dearanneen heroes - a resource for the country for 20th anniversary
 
 *2025-10-05 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215366) · `si`
@@ -804,6 +1294,18 @@ Sri Lanka's 100-meter running champions champions have also enabled the "Rapana 
 [Data](articles/c52e2f86.json)
 
 [Extended Data](ext_articles/c52e2f86.ext.json)
+
+---
+
+### அமெரிக்காவின் ஏமாற்றம்
+
+*2025-10-05 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226936) · `ta`
+
+தற்போதைய நிலையில் அமெரிக்க முதலீட்டாளர்களின் எதிர்பார்ப்பு இலங்கையில் அதிக தடைகள் விதிக்கப்பட்டுள்ள துறைகளில் முதலீடு செய்வதாகும். அவற்றில் பாதுகாப்புத் துறை முதலீடும் ஒன்றாகும். திட்டங்களை செயற்படுத்துவதை அல்லது ஏற்கனவே கொண்டு வரப்பட்ட முதலீட்டு திட்டங்களை முன்னெடுத்துச் செல்வதில், தற்போதைய அரசாங்கம் எந்தளவுக்கு உறுதியான நிலையில் இருக்கிறது?
+
+◼️
+
+[Data](articles/955800b8.json)
 
 ---
 
@@ -963,6 +1465,28 @@ Actress Simran Katunayake Bandaranaike has arrived in the country through the In
 
 ---
 
+### உலக ஒழுங்கு மாற்றங்களை புரிந்து கொள்ளாத முஸ்லிம்கள்
+
+*2025-10-05 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226932) · `ta`
+
+காஸாவில் கவச வாகனத்தின் முன்னால் சிறிய கூழாங்கல்லுடன் நெஞ்சை நிமிர்த்திக் கொண்டு நிற்கின்ற ஒரு சிறுவனுக்கு இருக்கின்ற தைரியத்தில் நூற்றில் ஒரு பங்கேனும் ஏன் அரபுலக மன்னர்களுக்கு இல்லாமல் போனது என்பதுதான் தெரியவில்லை.
+
+◼️
+
+[Data](articles/6bc54b18.json)
+
+---
+
+### பொதுவிடயங்களில் ஒன்றிணையத் தயார்
+
+*2025-10-05 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226928) · `ta`
+
+◼️
+
+[Data](articles/2d0b2e48.json)
+
+---
+
 ### Post Master General reveals
 
 *2025-10-05 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215364) · `si`
@@ -978,6 +1502,18 @@ He was speaking at a function held at the Haputale Post Office in parallel to th
 [Data](articles/972b1a7f.json)
 
 [Extended Data](ext_articles/972b1a7f.ext.json)
+
+---
+
+### 35 வருடங்களாக மகனுக்காக காத்திருக்கும் தாய்!
+
+*2025-10-05 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226948) · `ta`
+
+தனது 86 வயதில், குரல் தழுதழுக்க இந்த வார்த்தைகளைச் சொல்லும்போது, திருகோணமலையைச் சேர்ந்த ஓய்வுபெற்ற ஆசிரியை சாந்தமணி குணரெட்ணம் அவர்களின் கண்கள் குளமாகிவிடுகின்றன.
+
+◼️
+
+[Data](articles/e5d8b594.json)
 
 ---
 
@@ -1145,6 +1681,20 @@ D Silva said the group was confused by the proposal of the Highway Ministry to c
 
 ---
 
+### ‘Operation Colombo’ & The Disinformation Game
+
+*2025-10-05 13:14:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/operation-colombo-the-disinformation-game/) · `en`
+
+September saw anniversaries in the chilling deaths of two democratically elected Socialist heads of state during the United States’ led Cold War anti-communist crusade that unfolded across the world between 1948-91: The first assassination of concern here happened in Colombo, the capital of the geostrategic Indian Ocean island of Ceylon on September 25, 1959.
+
+The second death happened half way across the world fourteen years after the assassination of South Asia’s first Socialist Prime Minister SWRD Bandaranaike. On September 11, 1973, President Salvador Allende, South America’s first Socialist head of state died during a US Central Intelligence Agency (CIA), backed coup as military helicopters strafed the Presidential Palace in Santiago de Chile. The campaign of murder, suppression and disinformation against the Left that followed Allende’s death was  Code Named “Operation Colombo”.
+
+...
+
+[Data](articles/21b855d0.json)
+
+---
+
 ### Trys to break up can be strengthened
 
 *2025-10-05 13:12:47* · [`adalk`](https://www.ada.lk/breaking_news/බිඳ-දැමීමට-කරන-උත්සහයන්-තුළින්-තව-තවත්-බැඳීම්-ශක්තිමත්-විය-හැක/11-418920) · `si`
@@ -1160,6 +1710,20 @@ Former President Mahinda Rajapaksa has said this in the note.
 [Data](articles/818ec5b0.json)
 
 [Extended Data](ext_articles/818ec5b0.ext.json)
+
+---
+
+### KKS Port: A Missed Opportunity Or A Strategic Gateway For Sri Lanka–India Relations?
+
+*2025-10-05 13:03:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kks-port-a-missed-opportunity-or-a-strategic-gateway-for-sri-lanka-india-relations/) · `en`
+
+Recent remarks by Minister Bimal Rathnayake, suggesting that the development of the Kankesanthurai (KKS) Port should be deprioritised, overlook both the economic and strategic realities facing Sri Lanka today. Available data, feasibility assessments, and the operational success of the Nagapattinam–KKS passenger ferry all point to one conclusion — the KKS Port is not only viable but essential for building a sustainable bilateral partnership between India and Sri Lanka.
+
+The Northern Province, and particularly Jaffna, remains one of Sri Lanka’s most underutilised economic regions. A functional port at KKS can directly link northern producers — fisheries, agriculture, dairy, and Palmyra-based industries — to regional markets across the Palk Strait.
+
+...
+
+[Data](articles/2c4360ff.json)
 
 ---
 
@@ -1284,759 +1848,5 @@ Meanwhile, traffic has been cut off on the main streets of Darjeeling to Sikkim 
 [Data](articles/2fd93732.json)
 
 [Extended Data](ext_articles/2fd93732.ext.json)
-
----
-
-### The people of landslides warned people to be aware of
-
-*2025-10-05 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215362) · `si`
-
-The National Building Research Organization (NBRO) says that the people living in these areas should be aware of the areas where several districts have been imposed in several districts yesterday (04).
-
-The organization said that the Department of Meteorology may be expected in the next few days.
-
-The National Building Research Organization (NBRO) issued a warnings in the Narammala, Badulla District of Ukuwela, Rattota, Bibile, Bibile, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Badulla District.
-
-The announcement is effective from 06.00 pm today and the people living in these areas should pay attention to this area.
-
-The opening of the roads are concerned with the drivers of the road when submitting the dangers on both sides.
-
-The people who engage in trading areas on the road have been transferred to the people, along with the dangers.
-
-...
-
-[Data](articles/53e13133.json)
-
-[Extended Data](ext_articles/53e13133.ext.json)
-
----
-
-### Ranga's chair to the House in the coming week
-
-*2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රගග-පටව-එන-සතය-මතසබයට/1-680757) · `si`
-
-The reconciliation ceremony is due to be questioned in parliament next week regarding the appointment of bribery or corruption.
-
-Industry, Minister of Industry Sunil Handunnetti has stated that he has approved him to appoint Opposition Leader Sajith Premadasa and Kalutara District MP Ajith P Perera.. Sources say that the reconciliation force is expected to be taken into consideration the statement.
-
-Former leader Nandana Gunatilake recently stated that Mr. Ranga Dissanayake has worked in the legal department of the JVP.. There is also a controversy of the society regarding this statement.
-
-◼️
-
-[Data](articles/b42240cb.json)
-
-[Extended Data](ext_articles/b42240cb.ext.json)
-
----
-
-### Ranga's chair to the House in the coming week
-
-*2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රගග-පටව-එන-සතය-මතසබයට/101-680757) · `si`
-
-The reconciliation ceremony is due to be questioned in parliament next week regarding the appointment of bribery or corruption.
-
-Industry, Minister of Industry Sunil Handunnetti has stated that he has approved him to appoint Opposition Leader Sajith Premadasa and Kalutara District MP Ajith P Perera.. Sources say that the reconciliation force is expected to be taken into consideration the statement.
-
-Former leader Nandana Gunatilake recently stated that Mr. Ranga Dissanayake has worked in the legal department of the JVP.. There is also a controversy of the society regarding this statement.
-
-◼️
-
-[Data](articles/3b1100a2.json)
-
-[Extended Data](ext_articles/3b1100a2.ext.json)
-
----
-
-### Joint opposition to Colombo
-
-*2025-10-05 12:34:25* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඒකබදධ-වපකෂයන-ලක-ජන-රලයක-කළඹට/1-680756) · `si`
-
-The leaders of the parties have decided to hold a leading meeting in Colombo soon.
-
-This decision was taken at a leading meeting at a hotel in Colombo on Thursday.
-
-The meeting was organized to treat the UNP convention successful and treat leading activists.
-
-◼️
-
-[Data](articles/5dfc0bc6.json)
-
-[Extended Data](ext_articles/5dfc0bc6.ext.json)
-
----
-
-### Joint opposition to Colombo
-
-*2025-10-05 12:34:25* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඒකබදධ-වපකෂයන-ලක-ජන-රලයක-කළඹට/101-680756) · `si`
-
-The leaders of the parties have decided to hold a leading meeting in Colombo soon.
-
-This decision was taken at a leading meeting at a hotel in Colombo on Thursday.
-
-The meeting was organized to treat the UNP convention successful and treat leading activists.
-
-◼️
-
-[Data](articles/77b1b5e4.json)
-
-[Extended Data](ext_articles/77b1b5e4.ext.json)
-
----
-
-### The magical truth commission
-
-*2025-10-05 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226919) · `ta`
-
-ஜெனி­வாவில் கடந்த 26 ஆம் திகதி, வலிந்து காணாமல் ஆக்­கப்­பட்­ட­வர்கள் தொடர்­பான ஐ.நா. The 29th session of the committee was reviewed by Sri Lanka.
-
-◼️
-
-[Data](articles/1a0ab38f.json)
-
-[Extended Data](ext_articles/1a0ab38f.ext.json)
-
----
-
-### Trump authorises deployment of 300 National Guard troops to Chicago
-
-*2025-10-05 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113230/trump-authorises-deployment-of-300-national-guard-troops-to-chicago) · `en`
-
-President Donald Trump has authorised the deployment of 300 National Guard troops to Chicago to address what he says is out-of-control crime.
-
-The move came hours after immigration authorities said they faced off with protesters in the Democrat-run city and shot an armed woman when she and others rammed their cars into law enforcement vehicles.
-
-State and local leaders have for weeks criticised Trump’s deployment plans and called it an abuse of power. Illinois Governor JB Pritzker said Trump was “attempting to manufacture a crisis”.
-
-The announcement came as a federal judge in Portland, Oregon - another liberal city - temporarily blocked the Trump administration from deploying 200 troops there.
-
-Judge Karin Immergut called Trump’s statements about conditions in Portland “untethered to the facts,” and said the move violated the Constitution.
-
-...
-
-[Data](articles/e075a218.json)
-
-[Extended Data](ext_articles/e075a218.ext.json)
-
----
-
-### Power Outages Across Sri Lanka Amid Rainy Weather and Ongoing Strike
-
-*2025-10-05 12:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/power-outages-across-sri-lanka-amid-rainy-weather-and-ongoing-strike) · `en`
-
-COLOMBO (News 1st):The Ceylon Electricity Board (CEB) reports that approximately 30,000 power outages have been recorded across the island due to adverse weather conditions.The electricity trade unions are currently engaged in a work-to-rule trade union action.As a result, the restoration of power outages may be delayed, according to Prabath Priyantha, the General Secretary of the Ceylon Electricity Workers' Union (CEWU)
-
-◼️
-
-[Data](articles/6d17daf0.json)
-
-[Extended Data](ext_articles/6d17daf0.ext.json)
-
----
-
-### Increase in cattle cattle in banana; Legal action against owners - Pradeshiya Sabha Chairman
-
-*2025-10-05 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226931) · `ta`
-
-Pradeshiya Sabha Chairperson S. Sudhakaran said that the cattle harassment of the cattle in the areas of Koralaipattu Valaichenai Pradeshiya Sabha division is increasing.
-
-Thus, cattle, such as goats, cattle, and livestock, on the streets, continue to cause road accidents.
-
-In addition, cattle cattle are causing great discomfort to foreign, domestic tourists and pedestrians.
-
-Therefore, goats and cattle breeders have requested that their livestock be raised in their homes or sent to pastures.
-
-In spite of this instructions, a strict legal action will be taken against the owners who will leave the livestock on the streets.
-
-◼️
-
-[Data](articles/a0a39256.json)
-
-[Extended Data](ext_articles/a0a39256.ext.json)
-
----
-
-### ලොරි බස් ගැටී තිදෙනෙක් මරුට
-
-*2025-10-05 12:21:26* · [`adalk`](https://www.ada.lk/picture_story/ලොරි-බස්-ගැටී-තිදෙනෙක්-මරුට/10-418919) · `si`
-
-Naramwala Police have been admitted to the SLTB bus and two other persons who were traveling to Narammala, which was traveling to Narammala at around 200 am today. Says.
-
-Two bodies were placed at the Narammala Hospital and a person who was admitted to Kurunegala Hospital died.
-
-The deceased has been identified as 41 year old, 80 and 82 years old, the police said.
-
-The deceased has been identified as the driver and his mother-in-law and two injured woman and two children were injured in the Kurunegala Teaching.
-
-◼️
-
-[Data](articles/12e2c2fa.json)
-
-[Extended Data](ext_articles/12e2c2fa.ext.json)
-
----
-
-### World Teacher Day today
-
-*2025-10-05 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215361) · `si`
-
-World Teacher Day to celebrate all teachers around the world have been played today (05).
-
-It has been used by UNESCO globally to celebrate World Teacher Day, the United Nations Educational, Scientific and Cultural Organization (UNESCO) every year.
-
-The theme of this year's world teachers day is "rewriting the teaching in a collaborative profession".
-
-The teacher is the teacher who is the teacher who is the teacher, and the teacher is the only one who will be the worshiper of the society due to its dignity.
-
-The National Teacher Day of Sri Lanka is celebrated on October 06 and tomorrow (06).
-
-The Prime Minister Dr. Welii Amarasuriya has issued an announcement and the teachers who are widely celebrated in Sri Lanka islandhand.
-
-The Prime Minister as the Minister of Education, Higher Education and Vocational Education, is said to have a meaningful way of the educational system, "listening to the teaching of the education system, and said:
-
-◼️
-
-[Data](articles/296eb46d.json)
-
-[Extended Data](ext_articles/296eb46d.ext.json)
-
----
-
-### Ex-President Mahinda calls people’s affection a ‘heartfelt bond beyond politics’
-
-*2025-10-05 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113229/ex-president-mahinda-calls-peoples-affection-a-heartfelt-bond-beyond-politics) · `en`
-
-Former President Mahinda Rajapaksa has declared that the love and support of the people as a bond rooted in trust and mutual respect, free from any profit motives.
-
-In a post on his Facebook account, Rajapaksa reflected on his long years among the public, saying he has experienced firsthand the depth of people’s affection.
-
-“Must say this is not just a political relationship but also a heartfelt bond that is difficult to break. More bonds can be stronger through attempts to break. I have experienced the maximum happiness as a leader of the people, throughout this time spent with the people. I express my respectful thanks to everyone.”
-
-◼️
-
-[Data](articles/76f9380e.json)
-
-[Extended Data](ext_articles/76f9380e.ext.json)
-
----
-
-### Three Dead In Narammala Road Accident
-
-*2025-10-05 12:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/three-dead-in-narammala-road-accident) · `en`
-
-COLOMBO (News 1st)Three people have died in a road accident on the Narammala-Kurunegala road.Police said the accident occurred when a lorry lost control and collided with an SLTB bus. Two of the deceased, including the lorry driver and a female passenger, were residents of Polonnaruwa, aged 41, 80, and 82.A female passenger in the lorry and two girls, aged 16 and 9, were injured and are receiving treatment at Kurunegala Teaching Hospital. The bus driver has been arrested in connection with the incident.
-
-◼️
-
-[Data](articles/f15fd4e6.json)
-
-[Extended Data](ext_articles/f15fd4e6.ext.json)
-
----
-
-### The "confidence" station that transforms the lives of children with special needs
-
-*2025-10-05 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226933) · `ta`
-
-"I thought life was over…" - the emotional partitions of the parents of the children with special need!
-
-A milestone on Sri Lanka's health and social platform, "Ayati", which has been created with all the amenities for children with special needs, is lighting the lives of tens of thousands of families.. The station, which means “faith” in Sanskrit, has begun the second chapter of life for children and their parents who face challenges.
-
-The station has been established as a Foundation in 2016 and has been operating since 2020. The station, which was built with the contribution of the University of Kelaniya, Hemas Holdings, Mass Holdings and the Army, is a gift to the community of special needs in Sri Lanka.
-
-The station is located within the Medical Faculty of the University of Kelaniya in Ragama in Gampaha District.
-
-...
-
-[Data](articles/0bde7712.json)
-
-[Extended Data](ext_articles/0bde7712.ext.json)
-
----
-
-### The Mannar struggle is a lesson taught
-
-*2025-10-05 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226917) · `ta`
-
-When dealing with certain struggles, it has made false decisions and handling it has caused the decline of governments. This is history.
-
-◼️
-
-[Data](articles/6edd7e70.json)
-
-[Extended Data](ext_articles/6edd7e70.ext.json)
-
----
-
-### Manamperi is not my secretary
-
-*2025-10-05 11:43:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනමපර-මග-ලකම-කනක-නමය/1-680755) · `si`
-
-Former Minister Johnston Fernando said that Sampath Manamperi was not a coordinating secretary.
-
-The maximum legal action taken against such lies is being prepared to take the maximum legal action against the mudslinging.
-
-He made this statement addressing the supporters at the Kurunegala District Secretaries to the Kurunegala District Secretariat organizations under the patronage of Namal Rajapaksa.
-
-"Now I say my coordinating secretary says that the person named Manampa. Remember. I was only the only ones who were involved in the coordinating lakmm
-
-"Stay out of somewhere. We still have strong faith in the law. Therefore, Mr. Johnston Fernando said that we are all the best possible opportunity to take on the laws.
-
-◼️
-
-[Data](articles/3ba5b1f5.json)
-
-[Extended Data](ext_articles/3ba5b1f5.ext.json)
-
----
-
-### Manamperi is not my secretary
-
-*2025-10-05 11:43:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනමපර-මග-ලකම-කනක-නමය/101-680755) · `si`
-
-Former Minister Johnston Fernando said that Sampath Manamperi was not a coordinating secretary.
-
-The maximum legal action taken against such lies is being prepared to take the maximum legal action against the mudslinging.
-
-He made this statement addressing the supporters at the Kurunegala District Secretaries to the Kurunegala District Secretariat organizations under the patronage of Namal Rajapaksa.
-
-"Now I say my coordinating secretary says that the person named Manampa. Remember. I was only the only ones who were involved in the coordinating lakmm
-
-"Stay out of somewhere. We still have strong faith in the law. Therefore, Mr. Johnston Fernando said that we are all the best possible opportunity to take on the laws.
-
-◼️
-
-[Data](articles/fdefc143.json)
-
-[Extended Data](ext_articles/fdefc143.ext.json)
-
----
-
-### 731 to receive permanent Postal Assistant appointments
-
-*2025-10-05 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/113228/731-to-receive-permanent-postal-assistant-appointments) · `en`
-
-A total of 731 individuals have been selected for appointment to the post of Postal Assistant Grade III under the Primary Non-Skilled Service Category of the Department of Posts.
-
-The permanent appointment letters for the selected group are scheduled to be issued  tomorrow (06) at the Temple Trees premises under the patronage of the Minister of Health and Mass Media, Dr. Nalinda Jayatissa.
-
-The Department of Posts has not made any permanent recruitment for Postal Assistants since 2021, resulting in 1,982 vacancies by the end of last year.
-
-With such a substantial number of vacancies, the operations of the Department were facing a serious crisis. To address this, the Cabinet of Ministers, at the request of Minister Nalinda Jayatissa, approved the recruitment of 1,000 of the relevant vacancies on 19 August 2025.
-
-...
-
-[Data](articles/09ca16d6.json)
-
-[Extended Data](ext_articles/09ca16d6.ext.json)
-
----
-
-### Looking for a investor for the Destructure
-
-*2025-10-05 11:34:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වසමපයටත-ආයජකයක-සයය/1-680754) · `si`
-
-The government is looking for a suitable investor to direct the leading government building in Colombo for a tourism development project.
-
-Minister of Urban Development and Construction Minister Dr. Anura Karunatilake said that the building was already closed down.
-
-Many politicians have been used as their quarters recently. Former Prime Minister Sirimavo Bandaranaike, DM. Jayaratne, Anuruddha Ratwatte, Lakshman Kadirgamar, Mangala Samaraweera and Professor G, L. Peiris is also the men.
-
-◼️
-
-[Data](articles/7a25813e.json)
-
-[Extended Data](ext_articles/7a25813e.ext.json)
-
----
-
-### Looking for a investor for the Destructure
-
-*2025-10-05 11:34:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වසමපයටත-ආයජකයක-සයය/101-680754) · `si`
-
-The government is looking for a suitable investor to direct the leading government building in Colombo for a tourism development project.
-
-Minister of Urban Development and Construction Minister Dr. Anura Karunatilake said that the building was already closed down.
-
-Many politicians have been used as their quarters recently. Former Prime Minister Sirimavo Bandaranaike, DM. Jayaratne, Anuruddha Ratwatte, Lakshman Kadirgamar, Mangala Samaraweera and Professor G, L. Peiris is also the men.
-
-◼️
-
-[Data](articles/d09cd5d8.json)
-
-[Extended Data](ext_articles/d09cd5d8.ext.json)
-
----
-
-### Breaking Attempts can strengthen more bonds - former President Mahinda
-
-*2025-10-05 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215360) · `si`
-
-Former President Mahinda Rajapaksa says that people's love is based on profitability in the contents of trust and mutual respect.
-
-Former President has said that the former President has made a note on his Facebook account, and he is familiar with the people of her people.
-
-It is reported that it is more likely to be a heartfelt relationship with the value of its value, as it is a political relationship.
-
-So the former President shows that the bonds of breakdown can strengthen more commitments.
-
-◼️
-
-[Data](articles/7ad8b1ff.json)
-
-[Extended Data](ext_articles/7ad8b1ff.ext.json)
-
----
-
-### Baku Strait from Talaimannar to Dhanushkodi
-
-*2025-10-05 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226923) · `ta`
-
-The attempt by a 12 -year -old boy, a 12 -year -old boy who was affected by the knee, was a success, with the ambition to swim and achieve the distance from the loss and achievement.
-
-The boy has set a record of swimming from Sri Lanka Talaimannar to Tamil Nadu Dhanushkodi in 9 pm and 11 minutes last Friday.
-
-The Rameshwaram Island and the 13 Sand Fails that followed it and the Baku Strait Sea are separated from the Gulf of Mannar. It is the most depth of Tamil Nadu, while the rocks and the dangerous jelly fishes are part of the sea.
-
-So far, more than 30 people have set a record of swimming in the Baku Strait alone. Most of them were swimming from Sri Lanka's Dhanushkodi to Dhanushkodi or Dhanushkodi to Talaimannar. In addition to this, some people have swimmed at the sea of ​​relay and marathon.
-
-In this case, a 12 -year -old Global Energy of Chennai Mukherjee has set a record.
-
-...
-
-[Data](articles/6236e6dd.json)
-
-[Extended Data](ext_articles/6236e6dd.ext.json)
-
----
-
-### News "flower bloom"
-
-*2025-10-05 11:31:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇලපටය-රහලට-මල-පපන-ආරචයක/101-680753) · `si`
-
-Dr. Nalinda Jayatissa said that the priority of the Sri Lankan unwanted hospital development committees is being implemented.
-
-The Minister was speaking at a ceremony of two fifty thousand rupees worth of modern machines and the construction of a building for the hospital police.
-
-The Minister of Active and Strong Hospital Development Committee is essential to regularize the first tasks of the Ministry of Health.
-
-He said that the scattered hospital development committee of the National Hospital to suit the two hospitals from the National Hospital to the Primary Health Care Unit.
-
-The Minister said that the active hospital development committees have been established in a significant number of hospitals, as a result of the resultation and composition of the Hospital Development Committee.
-
-The Health and Mass Media minister said that he would not follow the "promising politics" in the entire country, including the Southern Province.
-
-◼️
-
-[Data](articles/e32114d3.json)
-
-[Extended Data](ext_articles/e32114d3.ext.json)
-
----
-
-### News "flower bloom"
-
-*2025-10-05 11:31:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇලපටය-රහලට-මල-පපන-ආරචයක/1-680753) · `si`
-
-Dr. Nalinda Jayatissa said that the priority of the Sri Lankan unwanted hospital development committees is being implemented.
-
-The Minister was speaking at a ceremony of two fifty thousand rupees worth of modern machines and the construction of a building for the hospital police.
-
-The Minister of Active and Strong Hospital Development Committee is essential to regularize the first tasks of the Ministry of Health.
-
-He said that the scattered hospital development committee of the National Hospital to suit the two hospitals from the National Hospital to the Primary Health Care Unit.
-
-The Minister said that the active hospital development committees have been established in a significant number of hospitals, as a result of the resultation and composition of the Hospital Development Committee.
-
-The Health and Mass Media minister said that he would not follow the "promising politics" in the entire country, including the Southern Province.
-
-◼️
-
-[Data](articles/1c0ece1b.json)
-
-[Extended Data](ext_articles/1c0ece1b.ext.json)
-
----
-
-### 400 Language Skills: fluent speech in 46 languages: Mahmood Akram
-
-*2025-10-05 11:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/400-மொழிகளில்-திறமை-46-மொழிகளில்-சரளமான-பேச்சு-உலகை-வியக்க-வைத்த-மஹ்மூத்-அக்ரம்/97-365752) · `ta`
-
-At the age of 19, he was honored with the Mahmood Akram Award, which is capable of reading and typing in 400 languages.
-
-19 -year -old Mahmood from Chennai is amazed by the rare skills of writing and reading.
-
-He began to study languages ​​at the age of 4 and set the first record of being a young multilingual typewriter at the age of 8.
-
-◼️
-
-[Data](articles/08a7182b.json)
-
-[Extended Data](ext_articles/08a7182b.ext.json)
-
----
-
-### 46 fluent speech: Mahmood Akram, who surprised the world
-
-*2025-10-05 11:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/46-மொழிகளில்-சரளமான-பேச்சு-உலகை-வியக்க-வைத்த-மஹ்மூத்-அக்ரம்/97-365752) · `ta`
-
-At the age of 19, he was honored with the Mahmood Akram Award, which is capable of reading and typing in 400 languages.
-
-19 -year -old Mahmood from Chennai is amazed by the rare skills of writing and reading.
-
-He began to study languages ​​at the age of 4 and set the first record of being a young multilingual typewriter at the age of 8.
-
-◼️
-
-[Data](articles/9123d283.json)
-
-[Extended Data](ext_articles/9123d283.ext.json)
-
----
-
-### National People's Power Government on Hitler's path; Ranil Sadal is trying to control the judiciary
-
-*2025-10-05 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226927) · `ta`
-
-UNP leader and former president Ranil Wickremesinghe has strongly criticized the government, fearing the increase in the influence of the opposition and their unity.
-
-He noted that whatever political issues with the opposition were, it was improper to comment on local political platforms, and that it was improper to go abroad and criticize Sri Lanka and the political conditions here.
-
-He made these comments during a discussion with members of the United National Party and other parties on Thursday and condemned the current activities of the National People's Power Government with historical examples.
-
-When Hitler came to power in Germany in 1933, he did not support more than 50 percent. Hitler's party received just 44 percent votes. Therefore, Hitler destroyed the opposition parties on that day to keep his power.
-
-...
-
-[Data](articles/c80e36cd.json)
-
-[Extended Data](ext_articles/c80e36cd.ext.json)
-
----
-
-### Great protest rally in Colombo against state repression; 25 parties united - Ranil, Namal, Peiris meets
-
-*2025-10-05 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226914) · `ta`
-
-Opposition parties, which have decided to hold a massive protest rally in Colombo against the dictatorship of the National People's Power Government, have discussed this.. United National Party (UNP) President Ranil Wickremesinghe, National Organizer of the Sri Lanka Peoples Alliance (PA) Namal Rajapaksa and Professor GL. The decision was taken while major political parties, including Peiris, had a meeting in Colombo.
-
-A special meeting and dinner event of party leaders and members of the opposition parties was held last Thursday night at a private hotel in Colombo.
-
-Representatives of more than 25 political parties were present at the invitation of UNP Chairman Vajira Abeywardena.
-
-...
-
-[Data](articles/02df28b6.json)
-
-[Extended Data](ext_articles/02df28b6.ext.json)
-
----
-
-### The woman standing on the edge of the 8th floor sill
-
-*2025-10-05 11:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/8ஆவது-மாடிச்-சன்னல்-விளிம்பில்-நின்ற-பெண்/50-365751) · `ta`
-
-The incident took place on the 8th floor of the Singapore Clement Street 13 and the 8th floor of the Flog 118.
-
-Singapore Civil Defense Officers are trying to save him from home. Officers were also in the house on the lower floor.
-
-Authorities said the airbag was prepared as a precautionary. A 24 -year -old woman on the edge of the sill was later saved.
-
-◼️
-
-[Data](articles/e1a916c0.json)
-
-[Extended Data](ext_articles/e1a916c0.ext.json)
-
----
-
-### Jab Ban's first woman prime minister Sane Dagichi?
-
-*2025-10-05 11:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்-பானின்-முதல்-பெண்-பிரதம-ர்-சனே-டகைச்சி/50-365750) · `ta`
-
-Jab Ban Not in Liberal Democratic Party (LTP). Prime Minister Shikheru Ishi Ba Ba, the head of the cut -off, has been promoted to the post of Oran Tuk Kup.
-
-In the meantime, the Liberal Democratic Party lost a great deal. As a result, Shikheru held the post of Prime Minister last month.
-
-Thus, the ruling Liberal Damage Radic Cut C's new head was held yesterday in Tok Kio. Previously, Sir Sane Tagichi (64) and Agriculture Minister Sinch Chiro Koi Sumi were the Bod de Yit Danner.
-
-In the Wood Party, Sanes are 183 wags and Koi Sumi 164 Wags. Subsequently, the Liberal Democratic Cut Sidi Raga Sane Tagichi on Saturday (04). He is the first female prime minister of Jab Ban Not Tin
-
-After taking office. But, Liberal Democratic Cut Sikku. At the same time, a series of financial harm by a series. Such challenges are said to be a winner, and that our Picking Walk Bill Bill Tagichi will win.
-
-◼️
-
-[Data](articles/7cb1a64f.json)
-
-[Extended Data](ext_articles/7cb1a64f.ext.json)
-
----
-
-### Pandey
-
-*2025-10-05 11:17:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படுக்கை-அறையில்-வைத்து-மகளை-வன்புணர்ந்த-தந்தை/76-365748) · `ta`
-
-A 10 -year -old daughter from the Meegahamure estate in the Moneragala, Bibila Police Division has been arrested on Friday (03).
-
-The girl's mother is reportedly working abroad. It is also reported that their hometown is a village in Bibila's Badulla village and is currently living in a rented house in the Guruvambha Talkas junction.
-
-The little girl sleeps in the same room with her older brother and father. For several days last June, it was revealed that her father had sexually abused her while the girl was sleeping.
-
-The matter was revealed when she was admitted to the Moneragala District Hospital with severe pain and injuries.
-
-The 38 -year -old chef, the 38 -year -old chef, has been arrested by the police and is to be produced before the Bibila Magistrate's Court.
-
-◼️
-
-[Data](articles/0d708d9f.json)
-
-[Extended Data](ext_articles/0d708d9f.ext.json)
-
----
-
-### 40 lakhs cigarettes locked
-
-*2025-10-05 11:15:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලකෂ-40ක-දමවට-ගවනතට-හරවය/101-680752) · `si`
-
-A Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport, has been arrested by the Airport Trace of the Airport Trace of the Katunayake airport today (05).
-
-He is a 44 year old fisherman from Kalpitiya, Puttalam.
-
-He was 5.25 this morning at Dubai to SriLankan Airlines UL. The airplane had arrived at the Katunayake Airport on the 226. In two baggage he brought, 150 smoking cartoons containing 30,000 cigarettes.
-
-To be produced before the Negombo Magistrate's Court on 10/08 to the Negombo Magistrate's Court today
-
-◼️
-
-[Data](articles/39594c38.json)
-
-[Extended Data](ext_articles/39594c38.ext.json)
-
----
-
-### 40 lakhs cigarettes locked
-
-*2025-10-05 11:15:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකෂ-40ක-දමවට-ගවනතට-හරවය/1-680752) · `si`
-
-A Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport, has been arrested by the Airport Trace of the Airport Trace of the Katunayake airport today (05).
-
-He is a 44 year old fisherman from Kalpitiya, Puttalam.
-
-He was 5.25 this morning at Dubai to SriLankan Airlines UL. The airplane had arrived at the Katunayake Airport on the 226. In two baggage he brought, 150 smoking cartoons containing 30,000 cigarettes.
-
-To be produced before the Negombo Magistrate's Court on 10/08 to the Negombo Magistrate's Court today
-
-◼️
-
-[Data](articles/47eb3847.json)
-
-[Extended Data](ext_articles/47eb3847.ext.json)
-
----
-
-### Nipple. Children's Park
-
-*2025-10-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226926) · `ta`
-
-The public is concerned that the children of the Batticaloa Municipal Council are facing various inconveniences due to the stench of children's park debris.
-
-At the end of the war in 2009, the US -owned company set up a children's park with a multi -billion rupee, through the financial contribution of the American people on the banks of the area, to improve the tourism sector.
-
-Bore. The children's park, which is under the administration of the Municipal Council, has been observed for a long time, where the swings, drops, and animals with animals are broken and fragmented.
-
-At the same time, the toilets set up there have been broken and damaged by the doors, and the sewage is not used and the sewage is not removed in the area.
-
-It has also become a place of drinking at night, and at night there is darkness without lighting at night.. The boys are unable to play their pastime games, and they have failed to face various inconveniences and that their fundamental rights have been violated.
-
-...
-
-[Data](articles/4b561bb7.json)
-
-[Extended Data](ext_articles/4b561bb7.ext.json)
-
----
-
-### Seizure of sea cards attempted by India
-
-*2025-10-05 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226915) · `ta`
-
-In India, Ramanathapuram, the Tamil Nadu police have seized banned sea cards worth Rs 10 lakh for smuggling to Sri Lanka.
-
-It is reported that 250 kilograms of banned sea cards have been seized near Ramanathapuram.
-
-The CU police have recovered the processed sea cards and are being arrested and are conducting investigations.
-
-Intensive tests have been conducted on Saturday night on the basis of information received by CU A inspector Janaki that sea cards are being processed in Ramanathapuram - Chakrakottai municipal garbage warehouse.
-
-It has been revealed that the municipal garbage warehouse has been set up by the Government of Tamil Nadu.
-
-In addition, a man from the Devi hunger was arrested in a group of seabed cards in the roundabout carried out during the raid, Tamil Nadu police said.
-
-Investigations into him, it was revealed that the banned sea cards were purchased from the Devipattinam and had been planning to smuggle in the Kudon near the Wheat Fort Garbage Warehouse.
-
-◼️
-
-[Data](articles/b9c0cee2.json)
-
-[Extended Data](ext_articles/b9c0cee2.ext.json)
-
----
-
-### Minister Wimal calls from Tangalle
-
-*2025-10-05 11:01:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වමලට-තගලල-පලසයන-කඳවමක/1-680751) · `si`
-
-Former Minister Wimal Weerawansa has been asked to appear at Tangalle Headquarters tomorrow (6).
-
-Sources say that he has called for a statement made by the media regarding the media regarding the man in Beliatta.
-
-Weerawansa is due to appear at Tangalle Police at 10.00 am tomorrow.
-
-The police are detained by the police on detention orders, who was arrested in connection with the vessel in Tangalle Sugar incidents.
-
-◼️
-
-[Data](articles/5ecc447a.json)
-
-[Extended Data](ext_articles/5ecc447a.ext.json)
-
----
-
-### Minister Wimal calls from Tangalle
-
-*2025-10-05 11:01:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වමලට-තගලල-පලසයන-කඳවමක/101-680751) · `si`
-
-Former Minister Wimal Weerawansa has been asked to appear at Tangalle Headquarters tomorrow (6).
-
-Sources say that he has called for a statement made by the media regarding the media regarding the man in Beliatta.
-
-Weerawansa is due to appear at Tangalle Police at 10.00 am tomorrow.
-
-The police are detained by the police on detention orders, who was arrested in connection with the vessel in Tangalle Sugar incidents.
-
-◼️
-
-[Data](articles/c4e99f98.json)
-
-[Extended Data](ext_articles/c4e99f98.ext.json)
-
----
-
-### 335 crores of Customs have taken no money in order to not be finanted
-
-*2025-10-05 10:57:00* · [`adalk`](https://www.ada.lk/breaking_news/ඇගිල්ල-නොගහා-රේගුවේ-නිලධාරින්-කෝටි-335-ක-මුදලක්-අරගෙන/11-418918) · `si`
-
-The latest audit report issued by the National Audit Office, which has been paid Rs.
-
-All public servants should use the fingerprint machines to address their arrivals and leave. The Charges of Overtime and the Information Technology Communication Fund (ICTA) had paid Rs.
-
-The employees have been obtained for 24 hours a day, and the audit has revealed that these payments are being carried out without proper proof of the arrival and exit.. The Customs had recommended the authorities in order to formulate the financial marketing machines, or if the fingerprints were used to participate in any raid, or to participate in any such duties.
-
-This information is included in the audit report of the performance report issued by the Customs connection to 2024.
-
-◼️
-
-[Data](articles/a425a9e9.json)
-
-[Extended Data](ext_articles/a425a9e9.ext.json)
 
 ---

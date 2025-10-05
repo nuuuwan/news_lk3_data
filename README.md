@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 15:20:29**
+As of **2025-10-05 15:05:42**
 
 ## Newspaper Stats
 
-*Scraped **81,301** Articles*
+*Scraped **81,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,133 +19,19 @@ islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,789
 adaderanalk | 10,441
-tamilmirrorlk | 12,076
+tamilmirrorlk | 12,075
 virakesarilk | 13,359
-adaderanasinhalalk | 13,978
+adaderanasinhalalk | 13,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,295 (100.0%) of 81,301 articles have been extended.
+81,295 (100.0%) of 81,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
-
-### ඉන්දු - පාකිස්තාන විරසකය කාන්තා ක්‍රිකට් පිටියටත්
-
-*2025-10-05 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215369) · `si`
-
-එක්දින කාන්තා ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඉන්දු - පාකිස්තාන ක්‍රිකට් තරගය කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේ දී අද (5) පැවැත්වේ.
-
-මෙම තරගයේ කාසියේ වාසිය දිනූ පාකිස්තාන නායිකාව පළමුව පන්දු යැවීමට තීරණය කළේය.
-
-මේ අතර මෙම තරගයේ දී ඉන්දු - පාකිස්තාන නායිකාවන් දෙපළද අතට අතදීමෙන් වැළකී සිටියේය.
-
-නිමාවූ ආසියානු කුසලාන විස්සයි20 පිරිමි ක්‍රිකට් තරගාවලියේ දීද ඉන්දීය හා පාකිස්තාන ක්‍රීඩකයන් තරගාවලිය පුරාම අතට අත දීමෙන් වැළකී සිටි අතර, එය ක්‍රීඩා ක්ෂේත්‍රයේ ආන්දෝලනයට තුඩුදුන් හේතුවක් විය.
-
-◼️
-
-[Data](articles/a14d7b68.json)
-
----
-
-### ලක්ෂ 45ක විදෙස් දුම්වැටි සමග ශ්‍රී ලාංකික ගුවන් මගියෙකු අත්අඩංගුවට
-
-*2025-10-05 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215368) · `si`
-
-රුපියල් ලක්ෂ 45ක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීති විරෝධී ලෙස මෙරට රැගෙන ආ ශ්‍රී ලාංකික ගුවන් මගියෙකු අද (05) අලුයම දින කටුනායක ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-එම දුම්වැටි තොගය මෙරටට රැගෙන විත් ඒවා කටුනායක ගුවන්තොටුපොළ පරිශ්‍රයෙන් රැගෙන යාමට තැත් කර තිබියදි සැකකරු අත්අඩංගුවට ගෙන තිබේ.
-
-පොලීසිය පැවසුවේ සැකකරු පුත්තලම, කල්පිටිය ප්‍රදේශයේ පදිංචි 44 හැවිරිදි අයෙක් වන බවය.
-
-සැකකරු විසින් ඩුබායි සිට මෙරටට පැමිණ ඇති අතර ඔහු විසින් රැගෙන ආ ගමන් මලු දෙකක දුම්වැටි 30,000ක් අඩංගු දුම්වැටි 150ක් සඟවා ගෙන තිබුණි.
-
-අත්අඩංගුවට ගත් සැකකරු එළැඹෙන 08 වැනිදා මීගමුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/2cc6f339.json)
-
----
-
-### අල්ලස් ලබාගැනීම සම්බන්ධ පැමිණිලි 4,500 පනී - පුද්ගලයින් 58 දෙනෙකු අත්අඩංගුවට
-
-*2025-10-05 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215367) · `si`
-
-මේ වසරේ ගතවු කාලය තුළ අල්ලස් ලබා ගැනීමේ සිදුවීම් සම්බන්ධයෙන් පැමිණිලි 4,500කට වැඩි ප්‍රමාණයක් ලැබී ඇති බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පවසයි.
-
-ඔවුන් පෙන්වා දෙන්නේ මේ වසරේ ජනවාරි මස 01 වන දින සිට 31 වන දින දක්වා කාලය තුළ සිය කොමිෂන් සභාව වෙත පැමිණිලි 4,626ක් ලැබී ඇති බවය.
-
-එම කාලය තුළ වැටලීම් 85ක් සිදුකර ඇති අතර එහිදි පුද්ගලයින් 58දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේය.
-
-එම අත්අඩංගුවට ගත් පිරිස අතුරින් වැඩි දෙනෙකු පොලිස් නිලධාරීන් වන අතර එම සංඛ්‍යාව 19කි.
-
-අත්අඩංගුවට ගත් පිරිස අතර පොලිස් සැරයන්වරුන් 08 දෙනෙකු, පොලිස් කොස්තාපල්වරුන් 05 දෙනෙකු සහ උප පොලිස් පරීක්ෂකවරුන් තිදෙනෙකු වන බව සඳහන්ය.
-
-මේ වසරේ ගතවු කාලය තුල අල්ලස් ලබා ගැනීමේ සිද්ධීන් සම්බන්ධයෙන් අත්අඩංගුවට ගත් පිරිස අතර අධිකරණ අමාත්‍යංශය හා සම්බන්ධිත ආයතනවල පුද්ගලයින් 09 දෙනෙකු, ග්‍රාම නිලධාරීන් තිදෙනෙකු, මහජන සෞඛ්‍ය පරීක්ෂකවරුන් දෙදෙනෙකු, ලංකා ගමනාගමන මණ්ඩලයේ නිළධාරීන් දෙදෙනෙකු ද වන බවයි අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේය.
-
-...
-
-[Data](articles/5fb8907b.json)
-
----
-
-### 20 වැනි සංවත්සරය වෙනුවෙන් දෙරණින්  'මව්බිමට වීරයෙක් - රටට සම්පතක්'
-
-*2025-10-05 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215366) · `si`
-
-දෙරණ සිය විසි වැනි සංවත්සරයට සමගාමීව දියත් කෙරුණු  ''දෙරණ - රිට්ස්බරි මව්බිමට වීරයෙක් - රටට සම්පතක්'' ව්‍යාපෘතිය අද (05) නිල වශයෙන් දියත් කෙරිණි.
-
-මේ යටතේ ගමින්ගම, නගරයෙන් නගරය සිසාරා මලල ක්‍රීඩාවලට සහජ දක්ෂතා දක්වන තාරුණ්‍යය ගවේෂණය කරන මෙය රියැලිටි තරගාවලියක් ලෙස ක්‍රියාත්මකය.
-
-වසර 25කට පසු ශ්‍රී ලංකාවට ඔලිම්පික් සිහිනය සැබෑ කරදීම මෙම වැඩසටහනේ අරමුණ වේ.
-
-අපේ දේ රැකගෙන අලුත් දේ අරගෙන' යන්න තේමාව කරගනිමින් මෙරට රූපවාහිනී මාධ්‍යයට නවමු සංකල්ප තිළිණ කළ TV දෙරණ සිය විසි වන සංවත්සරය අභිමානයෙන් සමරයි.
-
-දෙරණ, මේ විසි වසර පුරා සිය මාධ්‍ය මෙහෙවර ඉදිරියට ගෙනයමින් මනුසත් දෙරණ, ලිට්ල් හාර්ට්ස් ඇතුළු සමාජ සේවා ව්‍යාපෘති රැසකට සම්බන්ධ වූයේ රටට අවැසිම තැනදි සිය යුතුකම නොපිරිහෙලා ඉටු කරමිනි.
-
-එමෙන්ම කොළඹින් එපිට ප්‍රදේශවල දක්ෂතාවලින් සපිරිණු තාරුණ්‍යය සොයා දෙරණ ගිය ගමනේ ප්‍රතිඵල ලෙස වේග පන්දු යවන ක්‍රීඩක එෂාන් මාලිංග මෙරට ජාතික ක්‍රිකට් කණ්ඩායමටත් , විශ්මි ගුණරත්න ශ්‍රී ලංකා ජාතික කාන්තා ක්‍රිකට් කණ්ඩායමටත් තිළිණ කෙරිණි.
-
-...
-
-[Data](articles/c52e2f86.json)
-
----
-
-### බැකෝ සමන්ගේ මස්සිනාට දින 07ක රැඳවුම් නියෝග
-
-*2025-10-05 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215365) · `si`
-
-සංවිධානාත්මක අපරාධකරුවෙකු වන 'බැකෝ සමන්' නැමැත්තාගෙන් හෙළි වු තොරතුරු මත අත්අඩංගුවට ගත් ඔහුගේ මස්සිනා දින 07ක් රඳවා තබා ගෙන විමර්ශනය කිරීමට අධිකරණය පොලීසියට අවසර ලබා දී තිබේ.
-
-අලුත්කඩේ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ සැකකරු දින 07ක රැදවුම් නියෝග මත රඳවා තබා ගැනීමට බස්නාහිර පළාත උතුර අපරාධ කොට්ඨාසයට අවසර ලබා දී ඇති බව පොලීසිය සඳහන් කළේය.
-
-විදෙස් ගතව සිටියදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධකරුවෙකු වන නැදුන්ගොඩ නිර්මල ප්‍රසන්න නොහොත් 'බැකෝ සමන්' නැමැත්තාගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී හෙළිවු තොරතුරු මත ඔහුගේ මස්සිනා පසුගිය පළමු වැනිදා පොලිස් විශේෂ කාර්යය බළකාය විසින් අත්අඩංගුවට ගනු ලැබීය.
-
-එහිදි සැකකරු සතුව තිබී මත්ද්‍රව්‍ය සහ මෝටර් රථයක් ද පොලීසිය භාරයට ගෙන ඇති අතර සැකකරු වැඩිදුර විමර්ශන සඳහා බස්නාහිර පළාත උතුර අපරාධ කොට්ඨසය වෙත භාරදී තිබුණි.
-
-අත්අඩංගුවට ගත් සැකකරු 27 හැවිරිදි මිද්දෙණිය වැලිපිටිය ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී අදාළ ප්‍රදේශයේ සඟවා තිබූ පිස්තොල් අවියක්, පතරොම් 01ක් සහ හෙරොයින් ග්‍රෑම් 550ක් සොයා ගෙන තිබේ.
-
-...
-
-[Data](articles/ecb3f3b9.json)
-
----
-
-### நடிகை சிம்ரன் வந்தடைந்தார்
-
-*2025-10-05 14:16:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகை-சிம்ரன்-வந்தடைந்தார்/54-365762) · `ta`
-
-பிரமாண்டமான மணப்பெண் போட்டி மற்றும் பட்டமளிப்பு விழா -2025 பங்கேற்பதற்காக, நடிகை சிம்ரன் கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் ஊடாக, நாட்டை வந்தடைந்தார்.
-
-◼️
-
-[Data](articles/9aeca434.json)
-
----
 
 ### Post Master General reveals
 
@@ -2012,5 +1898,115 @@ In some places, the Western, Sabaragamuwa, Central, North-Central and Uva provin
 [Data](articles/11c08603.json)
 
 [Extended Data](ext_articles/11c08603.ext.json)
+
+---
+
+### Russia attack at Ukraine railway station
+
+*2025-10-05 03:54:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைன்-ரயில்-நிலையத்தில்-ரஷ்யா-தாக்குதல்/50-365727) · `ta`
+
+About 30 people were injured in Russia's attack at Shostaka railway station in Sumi, Ukraine, said Ukraine President Voladimir Jelensky.
+
+He said that all the information about the injured is being verified and all emergency services have already come to the scene to help the people.
+
+According to the initial reports, the train staff and passengers are at the scene of the attack. (A)
+
+◼️
+
+[Data](articles/c9bed78e.json)
+
+[Extended Data](ext_articles/c9bed78e.ext.json)
+
+---
+
+### Driver's Allow Bonds: Action Notice
+
+*2025-10-05 03:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதி-பத்திரங்கள்-அதிரடி-அறிவிப்பு/175-365726) · `ta`
+
+The Department of Motor Transport has decided to extend the validity period of driver's licenses.
+
+Transport Commissioner General Kamal Amarasinghe said a special committee has been appointed to investigate the upcoming time limit.. (A)
+
+◼️
+
+[Data](articles/6f13a18d.json)
+
+[Extended Data](ext_articles/6f13a18d.ext.json)
+
+---
+
+### Driver's licenses are prolonged period of time
+
+*2025-10-05 03:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிபத்திரங்கள்-செல்லுபடியாகும்-காலம்-நீடிப்பு/175-365726) · `ta`
+
+The Department of Motor Transport has decided to extend the validity period of driver's licenses.
+
+Transport Commissioner General Kamal Amarasinghe said that a special committee has been appointed to investigate the upcoming time limit.. (A)
+
+◼️
+
+[Data](articles/20fe3788.json)
+
+[Extended Data](ext_articles/20fe3788.ext.json)
+
+---
+
+### The shop owner's death
+
+*2025-10-05 03:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்துக்கு-இலக்காகி-கடை-உரிமையாளர்-மரணம்/175-365725) · `ta`
+
+The owner of the shop has died due to the rhetoric at the commercial station in the East of the East of the East of the Jaffna and Lunagam Police Division.
+
+Two youths who had been intoxicated to the commercial station found in the east of Ezhalai have been asked to give a mixer. When the shop owner asked for the money, the shop owners had the logic of the shop owners.
+
+Those who come to buy a mixer on the shop owner have carried out a knife. The shop owner died on the spot.
+
+The death of Singaravell Danavan, 35, from East East, was killed in the incident.
+
+◼️
+
+[Data](articles/66d113ed.json)
+
+[Extended Data](ext_articles/66d113ed.ext.json)
+
+---
+
+### 2025-10-04 (Saturday)
+
+### Minister Saroja Paulraj leaves the 68th Commonwealth Heads
+
+*2025-10-04 23:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215349) · `si`
+
+Minister Sarja Paulraj is due to leave the country tomorrow (05) to attend the 68th Commonwealth Parliamentary Conference.
+
+The Commonwealth Parliamentary Association organizes annually organizing the Commonwealth Parliamentary Association with the aim of discussing global parliamentary and political issues annually from tomorrow to the Barbados Branch of Babados Branch.
+
+The Members of the Commonwealth countries are participating in the women's former opposition to the Sri Lankan Parliament and the General Secretary General of Parliament.
+
+Minister Saroja Saroja Saroja Saroja Saroja Saroja Savitri Ukraine and the group will leave for the island tomorrow (05).
+
+◼️
+
+[Data](articles/c9b2f986.json)
+
+[Extended Data](ext_articles/c9b2f986.ext.json)
+
+---
+
+### Will Aswesa be canceled?
+
+*2025-10-04 22:47:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-இரத்து-செய்யப்படுமா/175-365724) · `ta`
+
+Opposition leader Sajith Premadasa has accused the government of decision to abolish the Assuming welfare program soon.
+
+The Opposition Leader also pointed out that the Assembly project has failed to reduce the poverty of the people.
+
+Sajith Premadasa has said that a social security program should ensure poverty alleviation, investment, savings, production and exports.. Remble
+
+◼️
+
+[Data](articles/9a5ce97b.json)
+
+[Extended Data](ext_articles/9a5ce97b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 05:59:27**
+As of **2025-10-05 06:25:07**
 
 ## Newspaper Stats
 
@@ -27,41 +27,45 @@ adaderanasinhalalk | 13,959
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,175 (100.0%) of 81,179 articles have been extended.
+81,179 (100.0%) of 81,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
 
-### சாரதி அனுமதிபத்திரங்கள் செல்லுபடியாகும் காலம் நீடிப்பு
+### Driver's licenses are prolonged period of time
 
 *2025-10-05 03:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிபத்திரங்கள்-செல்லுபடியாகும்-காலம்-நீடிப்பு/175-365726) · `ta`
 
-சாரதி அனுமதிபத்திரங்களின் செல்லுபடியாகும் காலத்தை நீடிப்பதற்கு மோட்டார் வாகனப் போக்குவரத்து திணைக்களம் தீர்மானித்துள்ளது.
+The Department of Motor Transport has decided to extend the validity period of driver's licenses.
 
-நீடிக்கப்படவுள்ள கால எல்லை தொடர்பில் ஆராய்வதற்காக விசேட குழுவொன்று நியமிக்கப்பட்டுள்ளதாக போக்குவரத்து ஆணையாளர் நாயகம் கமல் அமரசிங்க தெரிவித்தார். (a)
+Transport Commissioner General Kamal Amarasinghe said that a special committee has been appointed to investigate the upcoming time limit.. (A)
 
 ◼️
 
 [Data](articles/20fe3788.json)
 
+[Extended Data](ext_articles/20fe3788.ext.json)
+
 ---
 
-### கத்திக்குத்துக்கு இலக்காகி கடை உரிமையாளர் மரணம்
+### The shop owner's death
 
 *2025-10-05 03:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்துக்கு-இலக்காகி-கடை-உரிமையாளர்-மரணம்/175-365725) · `ta`
 
-யாழ்ப்பாணம், சுண்ணாகம் பொலிஸ் பிரிவிற்குட்பட்ட ஏழாலை கிழக்கு பகுதியில் வாணிப நிலையத்தில் ஏற்பட்ட வாய்த்தர்க்கம் காரணமாக கத்திக்குத்துக்கு இலக்காகி கடை உரிமையாளர் மரணமடைந்துள்ளார்.
+The owner of the shop has died due to the rhetoric at the commercial station in the East of the East of the East of the Jaffna and Lunagam Police Division.
 
-ஏழாலை  கிழக்கு பகுதியில் காணப்பட்ட வாணிப நிலையத்திற்கு மது போதையில் வந்த இரண்டு இளைஞர்கள் மிக்சர் தருமாறு கேட்டுள்ளார்கள். அப்போது கடை உரிமையாளர் மிக்சர் குரிய பணத்தை தருமாறு கேட்டபோது மிக்சரை வாங்க வந்தவர்களுக்கும் கடை உரிமையாளர்களுடைய வாய் தர்க்கம் ஏற்பட்டது.
+Two youths who had been intoxicated to the commercial station found in the east of Ezhalai have been asked to give a mixer. When the shop owner asked for the money, the shop owners had the logic of the shop owners.
 
-இதன்போது கடை உரிமையாளர் மீது மிக்ஸர் வாங்க வந்தவர்கள் கத்திக்குத்தை மேற்கொண்டுள்ளார்கள். இதன்போது கடை உரிமையாளர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+Those who come to buy a mixer on the shop owner have carried out a knife. The shop owner died on the spot.
 
-இச் சம்பவத்தில் ஏழாலை கிழக்கு பகுதியை சேர்ந்த சிங்காராவேல் தானவன் வயது 35 என்பவரே உயிரிழந்துள்ளார்
+The death of Singaravell Danavan, 35, from East East, was killed in the incident.
 
 ◼️
 
 [Data](articles/66d113ed.json)
+
+[Extended Data](ext_articles/66d113ed.ext.json)
 
 ---
 
@@ -87,39 +91,45 @@ Minister Saroja Saroja Saroja Saroja Saroja Saroja Savitri Ukraine and the group
 
 ---
 
-### அஸ்வெசும இரத்து செய்யப்படுமா?
+### Will Aswesa be canceled?
 
 *2025-10-04 22:47:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-இரத்து-செய்யப்படுமா/175-365724) · `ta`
 
-அஸ்வெசும நலன்புரித்திட்டத்தை விரைவில் இரத்து செய்வதற்கு அரசாங்கம் தீர்மானித்துள்ளதாக எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச குற்றம் சுமத்தியுள்ளார்.
+Opposition leader Sajith Premadasa has accused the government of decision to abolish the Assuming welfare program soon.
 
-அத்துடன், அஸ்வெசும திட்டம் மக்களின் வறுமையைக் குறைப்பதற்குத் தவறிவிட்டதாகவும் எதிர்க்கட்சி தலைவர் சுட்டிக்காட்டியுள்ளார்.
+The Opposition Leader also pointed out that the Assembly project has failed to reduce the poverty of the people.
 
-ஒரு சமூகப் பாதுகாப்பு திட்டமானது, வறுமை ஒழிப்பு, முதலீடு, சேமிப்பு, உற்பத்தி மற்றும் ஏற்றுமதியை உறுதி செய்ய வேண்டும் எனவும் சஜித் பிரேமதாஸ தெரிவித்துள்ளார். R
+Sajith Premadasa has said that a social security program should ensure poverty alleviation, investment, savings, production and exports.. Remble
 
 ◼️
 
 [Data](articles/9a5ce97b.json)
 
+[Extended Data](ext_articles/9a5ce97b.ext.json)
+
 ---
 
-### கச்சத்தீவை அரசியலுக்காக பயன்படுத்தினால் பாரிய போராட்டம் வெடிக்கும்
+### If Kachchativu is used for politics, a massive struggle will explode
 
 *2025-10-04 22:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சத்தீவை-அரசியலுக்காக-பயன்படுத்தினால்-பாரிய-போராட்டம்-வெடிக்கும்/175-365723) · `ta`
 
-தமிழக முதலமைச்சர் மு.க.ஸ்டாலினும், தமிழக வெற்றிக் கழகத்தின் தலைவர் விஜய்யும், கச்சத்தீவை அரசியலுக்காக பயன்படுத்தினால், அவர்களுக்கு எதிராக பாரிய போராட்டம் முன்னெடுக்கப்படும் என கடற்றொழில் சமூகம் எச்சரிக்கை விடுத்துள்ளது.
+Tamil Nadu Chief Minister MK Stalin and Tamil Nadu Victory Council President Vijay and Kachchativu have been warned that a massive struggle will be carried out against them.
 
-வடக்கு மாகாண கடற்றொழிலாளர் இணையத்தின் ஊடக பேச்சாளர் அன்னலிங்கம் அன்னராசா இந்த எச்சரிக்கையை விடுத்துள்ளார்.
+Annalingam Annarasa, media spokesman for the Northern Province Fisheries Internet, issued this warning.
 
-தமிழகத்தின் முதலமைச்சர் மு.க.ஸ்டாலின், கச்சத்தீவை மீட்பேன் என தொடர்ச்சியாக அரசியல் மேடைகளில் பேசி வருகின்றார்.
+Chief Minister of Tamil Nadu MK Stalin continues to speak on political platforms that he will rescue Kachchativu.
 
-இவ்வாறு தொடர்ச்சியாக கூறி தமிழக கடற்றொழிலாளர்களை வடக்கு கடற்றொழிலாளர்களுக்கு எதிராகத் தூண்டுவீர்களாக இருந்தால் பாரிய போராட்டத்தை முன்னெடுப்போம் என அன்னலிங்கம் அன்னராசா குறிப்பிட்டுள்ளார்.
+Annalingam Annarasa has stated that if you continue to promote Tamil Nadu fishermen against the Northern fishermen, we will carry out a massive struggle.
 
-அத்துடன் தமிழக வெற்றி கழகத்தின் விஜய் அரசியல் இருப்புக்காக கச்சத்தீவு விவகாரம் குறித்து பேசுவதாகவும் அவர் குறிப்பிட்டார்.
+He also said that Vijay is talking about the Kachchativu issue for the political existence of the Tamil Nadu Victory Corporation.
 
-...
+Vijay and Seeman have demanded that Vijay and Seeman come to solve the problem of the Sri Lankan -Indian fishermen before Vijay's coming into politics and they did not listen to the demands of the Northern Province Fisheries Internet media spokesman Analingam Annarasa. Remble
+
+◼️
 
 [Data](articles/3c413888.json)
+
+[Extended Data](ext_articles/3c413888.ext.json)
 
 ---
 

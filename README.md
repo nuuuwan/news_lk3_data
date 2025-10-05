@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 14:20:04**
+As of **2025-10-05 14:08:09**
 
 ## Newspaper Stats
 
-*Scraped **81,290** Articles*
+*Scraped **81,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,57 +17,21 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
-adalk | 7,789
+adalk | 7,788
 adaderanalk | 10,441
 tamilmirrorlk | 12,075
 virakesarilk | 13,359
-adaderanasinhalalk | 13,973
+adaderanasinhalalk | 13,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,279 (100.0%) of 81,290 articles have been extended.
+81,279 (100.0%) of 81,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
-
-### තැපෑලේ සිදුවන වංචා තැපැල්පති හෙළි කරයි
-
-*2025-10-05 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215364) · `si`
-
-තැපැල් සේවාවේ නිරත නිලධාරීන්ගේ වංචනික සහ අකාර්යක්ෂම ක්‍රියාකලාපය හේතුවෙන් තමන් දැඩි අපහසුතාවට පත්ව සිටින බව තැපැල්පති රුවන් සත්කුමාර මහතා පවසයි.
-
-ඔහු මේ බව සඳහන් කළේ තැපැල් දිනයට සමගාමීව හපුතලේ තැපැල් කාර්යාලයේ පැවති උත්සවයකකට එක්වෙමිනි.
-
-"කෝටි ගාණක් ඇඟිලි සළකුණු තියන්නේ නැතිව හොරට OT අරන් තියෙනවා. එහෙම තියෙනකොට අපි මේකට උත්තරයක් දෙන්න ඕනේ නැද්ද? අපේ තියෙනවා වර්ක්ෂොප් එකක්. ඒකේ වාහන හදනවා..  මං දන්නේ නෑ හදනවාද නැද්ද කියලා.. එකේ ඉරිදාට වාහන සර්විස් කරනවා. ඒ කරන්නේ OT එකට සර්විස් කරන්න දෙන්නෙක් ඉන්නවා එතනින් එහාට තව 10 දෙනෙක් විතර ඉන්නවා වාහනේ සර්විස් කරන්න.. වාහනයක් සර්විස් කරන්න පැය 4ක් OT ගෙවනවා. ඒක ලොකු ගාණක් නෙමේ නේ පැය 4යි නේ. හැබැයි මේ 10 දෙනාටම පැය 4 ගානේ OT ගෙවනවා. ඉතිං මේ වගේ වාහන කීපයක් කරපුවාම හිතන්න... මේ හින්දා එයාලා කියනවා වාහන සර්විස් කරන්න බෑ කියලා. මම කියුවා කමක් නෑ කියලා. වාහන සර්විස් කරන්නේ අපි විතරක් නෙමෙයිනේ. ඕන තරම් ප්‍රයිවට් සෙක්ටර් එකේ තියෙනවා වාහන සර්විස් කරන තැන් මම එකකට දාලා සර්විස් කරගන්නවා.
-
-...
-
-[Data](articles/972b1a7f.json)
-
----
-
-### ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්
-
-*2025-10-05 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215363) · `si`
-
-ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
-
-එම නිවේදනය අද (05) රාත්‍රී 11 දක්වා වලංගු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු, උතුරු-මැද, නැගෙනහිර, ඌව සහ වයඹ පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බවය.
-
-ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකියි.
-
-අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/78a0af45.json)
-
----
 
 ### A couple arrested in Kandy
 
@@ -84,20 +48,6 @@ The couple from the Talathuoya Etalgama area are aged 20-22, police said.. Accor
 [Data](articles/f5269901.json)
 
 [Extended Data](ext_articles/f5269901.ext.json)
-
----
-
-### තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක 731 ක්
-
-*2025-10-05 13:33:21* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-දෙපාර්තුමේන්තුවට-ස්ථිර-තැපැල්-සහයක-731-ක්/11-418921) · `si`
-
-ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවේ ප්‍රථමික ශිල්පීය නොවන සේවා ගණයේ III ශ්‍රේණියේ තැපැල් සහයක තනතුරට 731 දෙනෙකු තෝරා ගෙන ඇත. එම තෝරාගත් පිරිස සඳහා ස්ථීර පත්වීම් ලිපි ප්‍රදානය ලබන සඳුදා (2025.10.06) පෙරවරුවේ අරලියගහ මන්දිර පරිශ්‍රයේ දී   සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සිදු කිරීමට නියමිතය.
-
-2021 වර්ෂයෙන් පසු ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක බඳවාගැනීම් සිදුකර නොමැති අතර ඒ හේතුවෙන් පසුගිය වර්ෂය අවසානය වන විට තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයක පුරප්පාඩු 1982 ක් පැවතිණි. එවන් පුරප්පාඩු සංඛ්‍යාවක් සමඟ දෙපාර්තුමේන්තුවේ කටයුතු පවත්වා ගෙන යාම දැඩි අර්බුධකාරී තත්වයක් මතු වු අතර එයට විසදුමක් ලෙස අදාළ පුරප්පාඩු සංඛ්‍යාවෙන් 1000 ක් බඳවා ගැනීම සඳහා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ඉල්ලීම පරිදි 2025 අගෝස්තු 19 වන දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇත.
-
-...
-
-[Data](articles/fc97c31b.json)
 
 ---
 
@@ -199,24 +149,6 @@ Meanwhile, traffic has been cut off on the main streets of Darjeeling to Sikkim 
 
 ---
 
-### නාය යාම් අනතුරු ඇඟවූ ප්‍රදේශ ආශ්‍රිත ජනතාවට තවදුරටත් අවධානයෙන් සිටින ලෙස දන්වයි
-
-*2025-10-05 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215362) · `si`
-
-පවතින අධික වර්ෂාපතනය හමුවේ ඊයේ (04) දිස්ත්‍රික්ක කිහිපයකට අදාළ ප්‍රාදේශීය ලේකම් කොට්ඨාස කිහිපයකට පැනවූ නාය යාමේ අනතුරු ඇඟවීම් නිවේදනය අනුව එම ප්‍රදේශ ආශ්‍රිතව ජීවත් වන ජනතාව අවධානයෙන් සිටිය යුතු බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
-
-එම සංවිධානය පැවසුවේ කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ඉදිරි දින කිහිපය තුළද වැසි අපේක්ෂා කළ හැකි බව මේ වන විට දැනුම්දී ඇති බවය.
-
-ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් ඊයේ දිනයේදී බදුල්ල දිස්ත්‍රික්කයේ හාලිඇල, ඇල්ල, බදුල්ල, පස්සර, කුරුණෑගල දිස්ත්‍රික්කයේ නාරම්මල, මාතලේ දිස්ත්‍රික්කයේ උකුවෙල, රත්තොට, මොනරාගල දිස්ත්‍රික්කයේ බඩල්කුඹුර, බිබිල, නුවරඑළිය දිස්ත්‍රික්කයේ කොත්මලේ ප්‍රාදේශීය ලේකම් කොට්ඨාස සඳහා විමසිලිමත් බවින් සිටින ලෙස නායයාම් අනතුරු ඇඟවීම් නිවේදනයක් නිකුත් කළේය.
-
-එම නිවේදනය අද පස්වරු 06.00 දක්වා බලපැවැත්වෙන අතර තවදුරටත් වැසි ඇදහැලෙමින් පවතින බැවින් මෙම ප්‍රදේශ ආශ්‍රිතව ජීවත් වන ජනතාව මේ සම්බන්දව අවධානය යොමු කළ යුතු බවත් එම සංවිධානය පැවසීය.
-
-...
-
-[Data](articles/53e13133.json)
-
----
-
 ### Ranga's chair to the House in the coming week
 
 *2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රගග-පටව-එන-සතය-මතසබයට/101-680757) · `si`
@@ -309,28 +241,6 @@ The deceased has been identified as the driver and his mother-in-law and two inj
 
 ---
 
-### ලෝක ගුරු දිනය අදයි
-
-*2025-10-05 12:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215361) · `si`
-
-ලොව පුරා සිටින සියලුම ගුරුවරුන් සැමරීම සඳහා වන ලෝක ගුරු දිනය අදට (05) යෙදී තිබේ.
-
-එය සෑම වසරකම ඔක්තෝබර් 05 වැනි දින පවත්වන අතර 1994 දී එක්සත් ජාතීන්ගේ අධ්‍යාපනික, විද්‍යාත්මක සහ සංස්කෘතික සංවිධානය වන යුනෙස්කෝව (UNESCO) ගෝලීයව  ලෝක ගුරු දිනය සැමරීමට ඔක්තෝබර් 5 වෙනිදා යොදාගෙන ඇත.
-
-මෙවර ලෝක ගුරු දිනයේ තේමාව වී ඇත්තේ "ඉගැන්වීම සහයෝගී වෘත්තියක් ලෙස නැවත සකස් කිරීම" යන්නයි.
-
-ගරු කිරීමට සුදුසු තැනැත්තා ගුරුවරයා වන අතර සිය ගෞරවාන්විත සේවාව හේතුවෙන් සමාජයේ වන්දනීයත්වයටද පත්වන එකම තැනැත්තාද ගුරුවරයා ද වේ.
-
-අද දිනට යෙදී ඇති ලෝක ගුරු දිනයට සමගාමීව ශ්‍රී ලංකාවේ ජාතික ගුරු දිනය ඔක්තෝබර් 06 එනම් හෙට (06) දින සමරනු ලබයි.
-
-මේ අතර නිවේදනයක් නිකුත් කරමින් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය සඳහන් කර ඇත්තේ මෙවර දීපව්‍යාප්තව මෙරට සමරනු ලබන ගුරු ගුණ සැමරුම් උත්සවවලදී පිදුම් ලබන ගුරු භවතුන් සියල්ලන්ටම තමන් හෘදයාංගමව සුබ පතන බවය.
-
-...
-
-[Data](articles/296eb46d.json)
-
----
-
 ### The "confidence" station that transforms the lives of children with special needs
 
 *2025-10-05 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226933) · `ta`
@@ -402,24 +312,6 @@ Many politicians have been used as their quarters recently. Former Prime Ministe
 [Data](articles/d09cd5d8.json)
 
 [Extended Data](ext_articles/d09cd5d8.ext.json)
-
----
-
-### බිඳ දැමීමට කරන උත්සාහයන් තුළින් තව තවත් බැඳීම් ශක්තිමත් විය හැකියි - හිටපු ජනපති මහින්ද
-
-*2025-10-05 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215360) · `si`
-
-විශ්වාසය සහ අන්‍යෝන්‍ය ගෞරවය යන කරුණු මත පදනම් වූ ජනතා ආදරය ලාභ අරමුණුවලින් තෙර වූවක් බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා පවසයි.
-
-සිය ෆේස්බුක් ගිණුමේ සටහනක් තබමින් හිටපු ජනාධිපතිවරයා සඳහන් කර ඇත්තේ ජීවිතයේ බොහෝ කාලයක් ජනතාව අතර ගතකළ තමාට ජනතාවගේ ආදරය හුරුපුදුරු වන බවය.
-
-මේ හේතුවෙන් එහි වටිනාකම අන් කිසිදාටත් වඩා වැඩි බවත් මෙය දේශපාලනික සම්බන්ධතාවයක් පමණක් නොවූ හෘදයාංගම බැඳිමක් වන බැවින් බිඳ හෙළිමට ද අපහසු බවත් එම සටහනේ සඳහන් වේ.
-
-එම නිසා බිඳ දැමීමට කරන උත්සාහයන් තුළින් තව තවත් බැඳීම් ශක්තිමත් විය හැකි බවත් පෙන්වා දෙන හිටපු ජනාධිපතිවරයා සිය සටහන මගින් සඳහන් කර ඇත්තේ නායකයෙකු ලෙස ලැබිය හැකි උපරිම සතුට, ජනතාව සමග ගෙවන මෙම කාලය පුරාවටම තමන් අත්විඳින බවය.
-
-◼️
-
-[Data](articles/7ad8b1ff.json)
 
 ---
 
@@ -807,24 +699,6 @@ The driver of the bus has been arrested in connection with the accident and the 
 
 ---
 
-### 250 වැනි අමෙරිකානු නිදහස් දිනය වෙනුවෙන් ඩොලරයේ නව කාසියක්
-
-*2025-10-05 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215358) · `si`
-
-2026 වසරට යෙදෙන 250වැනි අමෙරිකානු නිදහස් දිනය වෙනුවෙන් ඩොලරයේ කාසියක් නිකුත් කිරිමට එරට භාණ්ඩාගාරය සැලසුම් කරමින් සිටී.
-
-ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගේ රුව සහිතව නිර්මාණය කෙරෙන මෙම කාසියේ එක පැත්තක 'ෆයිට්' යන වචනය තෙවරක් සඳහන්ව ඇති අතර එය පසුගිය වසරේ සිදුවූ ඩොනල්ඩ් ට්‍රම්ප් ඝාතන ප්‍රයත්නයෙන් අනතුරුව ට්‍රම්ප්ගේ මුවින් පිටවූ වචන සිහිපත් කරමින් යොදා තිබේ.
-
-කාසියේ අනෙක් පැත්තේ ද ට්‍රම්ප්ගේ රුව සමඟ 'ලිබර්ටි' යන වචනය සමඟ 1776 - 2026 ලෙස අමෙරිකාවේ නිදහසින් පසු කාලසීමාව දැක්වෙයි.
-
-කෙසේ වෙතත් මෙය කාසියේ මුහුණත හැඩය පිළිබඳව පළමු දළ අදහස වන අතර ඒ සම්බන්ධයෙන් තවමත් අවසන් තීරණයක් ගෙන නොමැත.
-
-◼️
-
-[Data](articles/c77630a4.json)
-
----
-
 ### '' Developing ties is strengthened ''
 
 *2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/1-680750) · `si`
@@ -1049,30 +923,6 @@ The body has been placed in the funeral room of the Balangoda Hospital and Pinna
 
 ---
 
-### තිදෙනෙකුට මරු කැඳවූ බිහිසුණු බස් - ලොරි අනතුර
-
-*2025-10-05 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215357) · `si`
-
-නාරම්මල - කුරුණෑගල මාර්ගයේ නාරම්මල නගරය ආසන්නයේදී ලොරි රථයක් ලංගම බස් රථයක ගැටී සිදුවූ අනතුරකින් පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-කුරුණෑගල දෙස සිට නාරම්මල දෙසට ධාවනය වූ ලොරි රථය රියදුරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයේ දකුණු පසට ඇදී ගොස් කටුනායක සිට අක්කරෙයිපත්තුව දක්වා ධාවනය වූ ලංගම බස් රථයක ගැටී මෙම අනතුර සිදුව තිබුණි.
-
-අනතුරින් ලොරි රථයේ ගමන් කළ රියදුරු, පිරිමි පුද්ගලයෙකු, කාන්තාවන් දෙදෙනෙකු සහ ළමුන් දෙදෙනෙකු තුවාල ලබා නාරම්මල හා කුරුණෑගල රෝහල් වෙත ඇතුළත් කිරීමෙන් අනතුරුව ලොරි රථයේ රියදුරු එහි ගමන් කළ පිරිමි පුද්ගලයෙකු හා කාන්තාවක් මියගොස් ඇති බව පොලීසිය පවසයි.
-
-එලෙස මියගොස් ඇත්තේ, පොලොන්නරුව ප්‍රදේශයේ පදිංචිව සිටි අවුරුදු 41, 80 හා 82 වයස් වල පසුවන පුද්ගලයින්ය.
-
-එම ලොරි රථයේම ගමන් කල වයස අවුරුදු 40 ක කාන්තාවක්, වයස අවුරුදු 16 හා වයස අවුරුදු 09 ක දැරියන් දෙදෙනෙකු තව දුරටත් කුරුණෑගල රෝහලේ ප්‍රථිකාර ලබමින් සිටී.
-
-මෘත ශරීර නාරම්මල හා කුරුණෑගල රෝහල්වල මෘත ශරීරාගාරයන්හි තැන්පත් කර ඇත.
-
-බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර නාරම්මල පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-◼️
-
-[Data](articles/9ef782ec.json)
-
----
-
 ### The Land Commission removes the boss
 
 *2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉඩම-කමසම-ලකක-ඉවත-කරය/101-680747) · `si`
@@ -1192,26 +1042,6 @@ The cause of the shooting has not yet been revealed, while police suspect that t
 [Data](articles/113b367d.json)
 
 [Extended Data](ext_articles/113b367d.ext.json)
-
----
-
-### ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහායක 731 ක්
-
-*2025-10-05 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215356) · `si`
-
-ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවේ ප්‍රථමික ශිල්පීය නොවන සේවා ගණයේ III ශ්‍රේණියේ තැපැල් සහායක තනතුර සඳහා පුද්ගලයින් 731 දෙනෙකු තෝරා ගෙන තිබේ.
-
-එම තෝරාගත් පිරිස සඳහා ස්ථීර පත්වීම් ලිපි ප්‍රදානය හෙට (06) දිනයේදී අරලියගහ මන්දිර පරිශ්‍රයේ දී සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සිදු කිරීමට නියමිතය.
-
-2021 වර්ෂයෙන් පසු ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහායක බඳවාගැනීම් සිදුකර නොමැති අතර ඒ හේතුවෙන් පසුගිය වර්ෂය අවසානය වන විට තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයක පුරප්පාඩු 1982 ක් පැවතිණි.
-
-එවන් පුරප්පාඩු සංඛ්‍යාවක් සමඟ දෙපාර්තුමේන්තුවේ කටයුතු පවත්වා ගෙන යාම දැඩි අර්බුධකාරී තත්වයක් මතු වු අතර එයට විසදුමක් ලෙස අදාළ පුරප්පාඩු සංඛ්‍යාවෙන් 1,000 ක් බඳවා ගැනීම සඳහා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ඉල්ලීම පරිදි 2025 අගෝස්තු 19 වන දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී තිබුණි.
-
-ඒ අනුව මේ දක්වා තැපැල් දෙපාර්තුමේන්තුවේ ආදේශක සේවකයින් ලෙස ලියාපදිංචි වී සිටි නිසි සුදුසුකම් සම්පුර්ණ කළ පිරිස අතරින් ඉහත 731 දෙනෙකු මෙලෙස බඳවා ගැනීම සඳහා තෝරාගනු ලැබීය.
-
-...
-
-[Data](articles/fa0b8266.json)
 
 ---
 
@@ -1391,26 +1221,6 @@ In the assets submitted by government ministers, it has also been mentioned that
 
 ---
 
-### සැප්තැම්බරයේ සංචාරකයින් 158,971ක් මෙරටට ඇවිත්
-
-*2025-10-05 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215355) · `si`
-
-සැප්තැම්බර් මාසය තුළ දී මෙරටට පැමිණි සංචාරකයින් සංඛ්‍යාව 158,971ක් බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරි පවසයි.
-
-ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය විසින් නිකුත් කරන ලද නවතම දත්තවලට අනුව, සැප්තැම්බර් මාසයේදී ඉන්දියාවෙන් සංචාරකයින් 49,697ක් පැමිණ ඇති අතර එය 31.3% කි.
-
-තවද, එක්සත් රාජධානියෙන් 10,527ක්, ජර්මන් 9,344ක්, චීනයෙන් 10,527ක් සහ ප්‍රංශ ජාතිකයින් 5,144ක් ද සැප්තැම්බර් මාසයේදී ශ්‍රී ලංකාවට පැමිණ ඇත.
-
-ඒ අනුව, 2025 වසරේ ජනවාරි 01 වනදා සිට සැප්තැම්බර් 30 දක්වා සංචාරක පැමිණීම් සංඛ්‍යාව 1,725,494කි.
-
-ඒ අතරින් සංචාරකයින් 375,292ක් ඉන්දියාවෙන්, 122,144ක් රුසියාවෙන් සහ 161,893ක් එක්සත් රාජධානියෙන් පැමිණි බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/5edb5666.json)
-
----
-
 ### Shots a house in Alpitty
 
 *2025-10-05 08:26:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටියේ-නිවසකට-වෙඩි-ප්‍රහාරයක්/11-418915) · `si`
@@ -1458,22 +1268,6 @@ It is noteworthy that he carried out Performance Evaluations and Injury-Risk Ass
 [Data](articles/4ea4e7cb.json)
 
 [Extended Data](ext_articles/4ea4e7cb.ext.json)
-
----
-
-### ගාසා තීරයේ යුද ගිනි නිවන ට්‍රම්ප්ගේ මෙහෙයුමට මෝදිගෙන් ප්‍රසංශා
-
-*2025-10-05 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215354) · `si`
-
-අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් විසින් ගාසා තීරයේ යුධ ගිනි නිවා දමා සාමය ස්ථාපිත කිරීමට ගන්නා වූ උත්සාහය සම්බන්ධයෙන් ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි සිය ප්‍රසංශාව පළ කර තිබේ.
-
-සිය X ගිණුමේ සටහනක් තබමින් ඉන්දීය අග්‍රාමාත්‍යවරයා සඳහන් කර ඇත්තේ ගාසා තීරයේ සාම ප්‍රයත්නයන් තීරණාත්මක ප්‍රගතියක් අත්කර ගනිමින් සිටින බැවින් අමෙරිකානු ජනාධිපතිවරයාගේ මෙම නායකත්වය සඳහා ඉන්දියාවේ ප්‍රසංශාව හිමිවන බවය.
-
-තවද ප්‍රාණ ඇපකරුවන් නිදහස් කිරීම පිළිබඳවද සැලකිය යුතු පියවරක් සනිටුහන් ව ඇති බවත් සඳහන් කර ඇති ඉන්දීය අග්‍රාමාත්‍යවරයා එහි වැඩිදුරටත් සඳහන් කර ඇත්තේ කල් පවතින හා සාධාරණ සාමයක් සඳහා වන සියලු උත්සාහයන්ට ඉන්දියාව අඛණ්ඩව සිය සහාය ලබ දෙනු ඇති බවත් ඉන්දීය අග්‍රාමාත්‍යවරයා සිය X පණිවිඩයේ වැඩිදුරටත් සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/1e634f39.json)
 
 ---
 
@@ -1998,5 +1792,209 @@ Dilmah Tea celebrated the Top 70 including 37 award winners of a unique photogra
 [Data](articles/5dfcbc55.json)
 
 [Extended Data](ext_articles/5dfcbc55.ext.json)
+
+---
+
+### The fatal accident that lost a student
+
+*2025-10-04 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215347) · `si`
+
+A boy was killed in a fifteen-year-old accident in an accident in the Udugampola in Udugampola in Gampaha.
+
+The victim is a tenth year of Nigampala Senarath Paranavithana Paranavitana, a resident of the Telugal Road, Weights, Weights.
+
+The victim had taken place when he was returning to a private help and returning from a private support.
+
+The lorry is also reported in a car and another three-wheeler.
+
+The driver of the lorry has been arrested by the police in connection with the accident and further investigations are underway.
+
+◼️
+
+[Data](articles/847e1370.json)
+
+[Extended Data](ext_articles/847e1370.ext.json)
+
+---
+
+### SLIC offers Rs.1 Mn free life cover to parents of children born on World Children’s Day 2025
+
+*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/slic-offers-rs-1-mn-free-life-cover-to-parents-of-children-born-on-world-childrens-day-2025/) · `en`
+
+In celebration of World Children’s Day 2025, Sri Lanka Insurance Life (SLIC Life) proudly extended a Rs. 1 million free life insurance cover to the parents of every child born on October 1st across the island. Now in its fourth consecutive year, the initiative reflects SLIC Life’s mission to provide financial protection to families at crucial moments while reinforcing the value of life insurance as a safety net.
+
+This free life cover provides parents of newborns with vital financial security during uncertain times, helping families lay a stable foundation for the future. On October 1st, SLIC Life implemented the programme nationwide, covering every hospital in Sri Lanka to ensure parents across the country benefitted from this unique offering.
+
+...
+
+[Data](articles/d5d307dd.json)
+
+[Extended Data](ext_articles/d5d307dd.ext.json)
+
+---
+
+### Sanjaya Gunawardana begins tenure as MD/CEO of Sampath Bank PLC
+
+*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/sanjaya-gunawardana-begins-tenure-as-md-ceo-of-sampath-bank-plc/) · `en`
+
+Sampath Bank PLC announced that Sanjaya Gunawardana officially commenced his tenure as the 9th Managing Director/Chief Executive Officer of the Bank on 24th September 2025. He succeeds Mrs. Ayodhya Iddawela Perera, who concluded her term in office after steering the Bank through a period of growth and transformation, leaving behind a legacy of commitment, excellence, and service.
+
+Sanjaya Gunawardana is a distinguished banking professional with over 36 years of experience across Retail Banking, Trade Finance, Information Technology, Strategic Planning, and Organisational Development. His multidimensional expertise and forward-looking approach to leadership have positioned him as a transformative figure in Sri Lanka’s banking industry.
+
+...
+
+[Data](articles/e1a00a2b.json)
+
+[Extended Data](ext_articles/e1a00a2b.ext.json)
+
+---
+
+### Gehenu Lamayi in Sri Lanka
+
+*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/gehenu-lamayi-in-sri-lanka/) · `en`
+
+After what seems to have been an eternity, it was refreshing to hear a Prime Minister who knew what she was talking about and whom she was talking to. Last Friday, 26 September, Dr. Harini Amarasuriya was the Chief Guest at the Sri Lanka premiere of the 4K restoration of Gehenu Lamayi. Reflecting on the film, Amarasuriya noted its director Sumitra Peries as a trendsetter and a trailblazer. She went on to add that she was more than a director, arguing that she broadened our understanding of feminism in South Asia.
+
+...
+
+[Data](articles/9e6b0e43.json)
+
+[Extended Data](ext_articles/9e6b0e43.ext.json)
+
+---
+
+### Udunuwara Forever Declare Overcoming Voting Over 9-0
+
+*2025-10-04 21:31:41* · [`adalk`](https://www.ada.lk/breaking_news/උඩුනුවර-සමූපාකාර-ඡන්දය-9-0ක්-ලෙස-පොදු-විපක්ෂය-ජය-ගනියි/11-418914) · `si`
+
+The general opposition team won the CHOGM, including the Chairman and the Board of Directors of the Udunuwara Cooperation Society.
+
+The President has created the controversial news since the last few weeks and the presidential opposition teams will visit Kandy and the general opposition groups have been a controversial incident in this month.
+
+◼️
+
+[Data](articles/3c558c20.json)
+
+[Extended Data](ext_articles/3c558c20.ext.json)
+
+---
+
+### Three teams who went to Narangala cross the routine get lost due to rain
+
+*2025-10-04 21:26:52* · [`adalk`](https://www.ada.lk/breaking_news/නාරංගල-තරණයට-ගිය-කණ්ඩායම්-තුනක්-වැස්ස-නිසා-අතරමං-වෙයි/11-418913) · `si`
+
+The Disaster Management Center (DMC) says that three local youths who have visited Mount Nally Nalhilala Kanda.
+
+A group of 22 members of the Kandandara Police and Army Secretary to the Kandadara OIC of Kaladarai OIC Inspector OIC Police Inspector Geetukara Ratnayake said.
+
+They residents of Negombo and the tents of the mountain ranged the tents were embarrassed with the hilling winds, the police said they were embarrassed by the crude and excessive cold phones.
+
+Kudandara Police OIC Inspector Geetra Ratnayake, including Mr. Ratnayake, is conducting further investigations
+
+◼️
+
+[Data](articles/fc71144a.json)
+
+[Extended Data](ext_articles/fc71144a.ext.json)
+
+---
+
+### An elephant dies at Polonnaruwa
+
+*2025-10-04 21:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පළනනර-බජ-ගවපල-ද-වදල-සර-වද-අලයක-මයයය/1-680742) · `si`
+
+The Polonnaruwa Police say that the elephant has died in the seed farms of the Department of Agriculture, Polonnaruwa.
+
+According to a information received by a person, the Polonnaruwa Police Pathirana said that we were taken to educate the Polonnaruwa.
+
+The elephant is suspicious that the elephant is killed by the seed farm of the Department of Agriculture in Polonnaruwa due to electricity.
+
+According to the wild Polonnaruwa, the Polonnaruwa, the Polonnaruwa, said that the elephant was killed by electric park.
+
+The Polonnaruwa Wildlife Officers and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/a98161ff.json)
+
+[Extended Data](ext_articles/a98161ff.ext.json)
+
+---
+
+### An elephant dies at Polonnaruwa
+
+*2025-10-04 21:26:33* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පළනනර-බජ-ගවපල-ද-වදල-සර-වද-අලයක-මයයය/101-680742) · `si`
+
+The Polonnaruwa Police say that the elephant has died in the seed farms of the Department of Agriculture, Polonnaruwa.
+
+According to a information received by a person, the Polonnaruwa Police Pathirana said that we were taken to educate the Polonnaruwa.
+
+The elephant is suspicious that the elephant is killed by the seed farm of the Department of Agriculture in Polonnaruwa due to electricity.
+
+According to the wild Polonnaruwa, the Polonnaruwa, the Polonnaruwa, said that the elephant was killed by electric park.
+
+The Polonnaruwa Wildlife Officers and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/5aebbf38.json)
+
+[Extended Data](ext_articles/5aebbf38.ext.json)
+
+---
+
+### Operation to save a group of people who were brought down at Narangoda
+
+*2025-10-04 21:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නරගල-කනද-අතරම-ව-පරසක-බර-ගනම-මහයමක/101-680741) · `si`
+
+The Deputy Director of the Disaster Management Center, EM L. Udaya Kumara said three tourist groups have been severely at risk in Badulla Narangala Kanda.
+
+A military team has reached the site to redeem the group.
+
+The Way of the Winds of Rain The Disaster Management Center (DMC) said that the three teams have been inconvenienced.
+
+They have tented their young and older groups from various parts of the island.
+
+◼️
+
+[Data](articles/800608ec.json)
+
+[Extended Data](ext_articles/800608ec.ext.json)
+
+---
+
+### Operation to save a group of people who were brought down at Narangoda
+
+*2025-10-04 21:19:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නරගල-කනද-අතරම-ව-පරසක-බර-ගනම-මහයමක/1-680741) · `si`
+
+The Deputy Director of the Disaster Management Center, EM L. Udaya Kumara said three tourist groups have been severely at risk in Badulla Narangala Kanda.
+
+A military team has reached the site to redeem the group.
+
+The Way of the Winds of Rain The Disaster Management Center (DMC) said that the three teams have been inconvenienced.
+
+They have tented their young and older groups from various parts of the island.
+
+◼️
+
+[Data](articles/17681c9d.json)
+
+[Extended Data](ext_articles/17681c9d.ext.json)
+
+---
+
+### Combination of circumstances gives CBK the opportunity to dissolve Parliament
+
+*2025-10-04 21:10:00* · [`islandlk`](http://island.lk/combination-of-circumstances-gives-cbk-the-opportunity-to-dissolve-parliament/) · `en`
+
+Bradman takes final bow after a period on intense political manoeuvering
+
+Ranil’s strength, according to the Constitution, came from his supremacy in Parliament. With great managerial skill he managed to keep at all times a sizable majority in place. The UNF never lost a vote in Parliament during those two years (Ranil was PM). The UNF itself was a coalition bringing together five parties which contested the election together. It must have brought much credit to his political acumen and management skills that in spite of severe stresses and strains, the UNF held together. It was also quite remarkable in a country where party political loyalties are notably fickle, that during the period of his government there was not a single resignation from party or office.
+
+...
+
+[Data](articles/e46bd8c3.json)
+
+[Extended Data](ext_articles/e46bd8c3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 09:23:05**
+As of **2025-10-05 09:39:01**
 
 ## Newspaper Stats
 
-*Scraped **81,210** Articles*
+*Scraped **81,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,38 @@ dailyftlk | 5,664
 adalk | 7,783
 adaderanalk | 10,441
 tamilmirrorlk | 12,056
-virakesarilk | 13,336
+virakesarilk | 13,341
 adaderanasinhalalk | 13,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,210 (100.0%) of 81,210 articles have been extended.
+81,210 (100.0%) of 81,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### இலங்கை கிரிக்கெட் அணிக்கு புதிய துடுப்பாட்ட மற்றும் சுழற்பந்து வீச்சுப் பயிற்சியாளர்கள் !
+
+*2025-10-05 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226910) · `ta`
+
+இலங்கை கிரிக்கெட் நிறுவனம் (SLC) தேசிய கிரிக்கெட் அணிக்கு இரு முக்கியப் பயிற்சியாளர்களை நியமித்துள்ளதாக அறிவித்துள்ளது.
+
+அந்த வகையில், துடுப்பாட்ட பயிற்சியாளராக ஜூலியன் வூட் நியமிக்கப்பட்டுள்ளதுடன், சுழற்பந்து வீச்சுப் பயிற்சியாளராக ரெனே ஃபெர்டினாண்ட்ஸ் நியமிக்கப்பட்டுள்ளார்.
+
+துடுப்பாட்டப் பயிற்சியாளராக நியமிக்கப்பட்டுள்ள, ஜூலியன் வூட், க்கு  ஒக்டோபர் முதலாம் திகதி முதல் அமுலுக்கு வரும் வகையில்,  ஓராண்டு காலத்திற்கு நியமனம் வழங்கப்பட்டுள்ளது.
+
+"பவர் ஹிட்டிங் திட்டத்தை" (Power Hitting Program) உருவாக்கியவர் வூட். இவர் துடுப்பாட்ட நுட்பங்களை நவீன பயிற்சி முறைகள் மற்றும் உயிரியக்கவியல் (Biomechanics)உடன் ஒருங்கிணைத்து வீரர்களின் துடுப்பாட்டத் திறனை (Hitting Power) அதிகரிக்கச் செய்வதில் சிறந்தவர் .
+
+சுழற்பந்து வீச்சுப் பயிற்சியாளராக நியமிக்கப்பட்டுள்ள, ரெனே ஃபெர்டினாண்ட்ஸ் இன் நியமனம் செப்டம்பர் 30ஆம் திகதி முதல் அமுலுக்கு வருகிறது.
+
+...
+
+[Data](articles/4ea4e7cb.json)
+
+---
 
 ### Shooting Targets House in Omatta, Elpitiya
 
@@ -113,6 +133,40 @@ The deceased has been identified as a 23 year old resident of Aranayaka.
 
 ---
 
+### உலகின் சிறந்த தேர்தல்கள் ஆணைக்குழுவிற்கான விருதை இலங்கை தேர்தல் ஆணைக்குழு சுவீகரித்தது!
+
+*2025-10-05 07:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226909) · `ta`
+
+இலங்கை தேர்தல்கள் ஆணைக்குழுவானது, உலகின் மிகச் சிறந்த தேர்தல் ஆணைக்குழுவிற்கான விருதை வென்றுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+சர்வதேச அரங்கில், ஜனநாயகம் மற்றும் தேர்தல் செயற்பாடுகளில் சிறந்து விளங்கும் ஆணைக்குழுக்களுக்கு வழங்கப்படும் இந்த கௌரவமான விருதை, இலங்கை தேர்தல் ஆணைக்குழு (Election Commission of Sri Lanka)பெற்றுள்ளது.
+
+தேர்தல் செயற்பாடுகளில் இலங்கை தேர்தல்கள் ஆணைக்குழுவின் வெளிப்படைத்தன்மை, திறன், மற்றும் நம்பகத்தன்மை ஆகியவற்றை அங்கீகரிக்கும் வகையில் இந்த விருது வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5ca6fe47.json)
+
+---
+
+### சட்டவிரோதமாக கொண்டுவரப்பட்ட பெருந்தொகையான பீடி இலைகளுடன் இருவர் கைது !
+
+*2025-10-05 07:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226908) · `ta`
+
+கற்பிட்டி - துடாவ கடற் பகுதியில், கடற்படையினர் நடத்திய விசேட தேடுதல் நடவடிக்கையின் போது, சட்டவிரோதமாக நாட்டிற்கு கொண்டு வர முயன்ற சுமார் 405 கிலோகிராம் பீடி இலைகள் மற்றும் ஒரு டிங்கி படகுடன் இரண்டு சந்தேக நபர்களை கடற்படையினர் கைதுசெய்துள்ளனர்.
+
+கடல் வழியூடாக கடத்தல் உள்ளிட்ட சட்டவிரோத நடவடிக்கைகளை எதிர்த்து நாட்டைச் சுற்றியுள்ள கடல் மற்றும் கடற்கரைகளை உள்ளடக்கி கடற்படை வழக்கமான சோதனை மற்றும் தேடுதல் நடவடிக்கைகளை மேற்கொண்டு வருகின்றது.
+
+அதன்படி, கடந்த 3 ஆம் திகதி இரவு கற்பிட்டிக்கு அருகிலுள்ள கடல் பகுதியில், வடமேல் கடற்படை கட்டளையின் இலங்கை கடற்படை கப்பல் நடத்திய இந்த விசேட தேடுதல் நடவடிக்கையின் போது, சந்தேகத்திற்கிடமான டிங்கி (01) படகு சோதனை செய்யப்பட்டது.
+
+இந்த நடவடிக்கையின் போது, சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்ட சுமார் 405 கிலோகிராம் நிறையுடைய பீடி இலைகள் மற்றும் டிங்கி படகுடன் இரு  சந்தேக நபர்களை  கடற்படையினர் கைதுசெய்தனர்.
+
+...
+
+[Data](articles/798fae09.json)
+
+---
+
 ### Padmasiri Liyanage Removed As DG Of Land Reforms Commission
 
 *2025-10-05 07:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/padmasiri-liyanage-removed-as-dg-of-land-reforms-commission) · `en`
@@ -138,6 +192,24 @@ COLOMBO (News 1st); The Police Special Task Force (STF) conducted a special sear
 [Data](articles/6a1f8f8a.json)
 
 [Extended Data](ext_articles/6a1f8f8a.ext.json)
+
+---
+
+### ஸ்டாலின், விஜய்க்கு எதிராக போராட்டம் - வடமாகாண கடற்றொழிலாளர் இணையம் எச்சரிக்கை
+
+*2025-10-05 07:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226902) · `ta`
+
+தமிழக முதலமைச்சர் ஸ்டாலினும், தமிழக வெற்றிக் கழகத்தின் தலைவர் விஜய்யும் எமது நாட்டின் இறைமையில் உள்ள கச்சதீவை அரசியலுக்காக பயன்படுத்தினால் அவர்கள் இருவருக்கும் எதிராக கடற்றொழில் சமூகம் மிக விரைவில் பாரிய போராட்டத்தை முன்னெடுக்குமென வடக்கு மாகாண கடற்றொழிலாளர் இணையத்தின் ஊடாக பேச்சாளர் அன்னலிங்கம் அன்னராசா எச்சரிக்கை விடுத்துள்ளார்.
+
+யாழ்ப்பாணத்தில் உள்ள அவரது இல்லத்தில் சனிக்கிழமை (4) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+தமிழகத்தின் முதலமைச்சர் மு.க.ஸ்டாலின், கச்சதீவை மீட்பேன் என வடக்கு கடற்றொழில் சமூகத்திற்கு எதிரான ஒரு கருத்தை தொடர்ச்சியாக அரசியல் மேடைகளில் பேசி வருகின்றார்.
+
+முதலமைச்சரே, நல்லெண்ண அடிப்படையில் வடக்கு கடற்றொழில் சமூகம் கடந்த 2023ஆம் ஆண்டு மூன்று மகஜர்களை உங்களுக்கு அனுப்பியது. அதற்கு நீங்கள் எதுவித பதிலும் வழங்கவில்லை. ஆனால் அரசியல் இருப்புக்காக கச்சதீவு விவகாரத்தை தூக்கி வைத்து வடக்கு கடற்றொழிலாளர்களை பகைக்கின்ற ஒரு விடயத்தை நீங்கள் செய்கின்றீர்கள்.
+
+...
+
+[Data](articles/43ff2fe9.json)
 
 ---
 
@@ -258,6 +330,24 @@ The cause of the shooting is yet to be ascertained and the police have been shot
 [Data](articles/2f12b540.json)
 
 [Extended Data](ext_articles/2f12b540.ext.json)
+
+---
+
+### இன்றைய வானிலை
+
+*2025-10-05 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226907) · `ta`
+
+மாலை வேளையில் இடியுடன் கூடிய மழை பெய்வதற்கு வளிமண்டலவியல் நிலைமைகள் உகந்ததாகக் காணப்படுகின்றது. பலத்த காற்றுடன் கூடிய கனத்த மழை அத்துடன் இடியுடன் கூடிய பாரிய மின்னல் தாக்கங்கள் ஏற்படக்கூடும். ஆனபடியினால் பொதுமக்கள் இவற்றினால் ஏற்படுகின்ற இழப்புக்களை அல்லது சேதங்களை தவிர்த்துக் கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் கேட்டுக் கொண்டுள்ளது.
+
+நாட்டின் பெரும்பாலான பகுதிகளின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+சப்ரகமுவ, மேல் மற்றும் வடமேல் மாகாணங்களின் பல இடங்களிலும் அத்துடன் காலி, மாத்தறை, யாழ்ப்பாணம் மற்றும் மன்னார் மாவட்டங்களின் பல இடங்களிலும் காலை வேளையிலும் மழை பெய்யக்கூடும்.
+
+மத்திய, சப்ரகமுவ, மேல், வடமத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களிலும் அத்துடன் வவுனியா மற்றும் முல்லைத்தீவு மாவட்டங்களின் சில இடங்களிலும் 75 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/a7b749c5.json)
 
 ---
 
@@ -1878,95 +1968,5 @@ Further investigations conducted by the arrested youth have been seized by 44 ca
 [Data](articles/d460c07f.json)
 
 [Extended Data](ext_articles/d460c07f.ext.json)
-
----
-
-### A heavy rain over 100 mm
-
-*2025-10-04 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215336) · `si`
-
-Thundershowers will develop at several places in the island this afternoon, the Met Department said.
-
-The Department said in some locations in the North-Central, Sabaragamuwa, Central, Uva and Eastern Provinces. Heavy showers can occur at more than 100.
-
-Showers or thundershowers will occur at several places in the island in many parts of the island.
-
-The Meteorological Department urges the public to take necessary steps to reduce the calamity of strong winds, strong winds and strong lightning.
-
-◼️
-
-[Data](articles/0a207b04.json)
-
-[Extended Data](ext_articles/0a207b04.ext.json)
-
----
-
-### Rain interrupted Sri Lanka - Australia's competition
-
-*2025-10-04 15:51:57* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---ඔස්ට්‍රේලියා-තරගයට-වර්ෂාවෙන්-බාධා/9-418908) · `si`
-
-The Sri Lanka-Australia Trophy of the Women's ODI World Cup has been interrupted by rain.
-
-The match was scheduled to be held at the R. Premadasa Stadium in Colombo.
-
-◼️
-
-[Data](articles/5fedc48b.json)
-
-[Extended Data](ext_articles/5fedc48b.ext.json)
-
----
-
-### We will resist when we see it all the snoring
-
-*2025-10-04 15:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்லாத்துக்கும்-குறட்டை-அதை-கண்டதும்-எதிர்ப்போம்/175-365706) · `ta`
-
-◼️
-
-[Data](articles/bcad0c0a.json)
-
-[Extended Data](ext_articles/bcad0c0a.ext.json)
-
----
-
-### 14 people are affected by winds in Jaffna
-
-*2025-10-04 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226884) · `ta`
-
-The Jaffna District Disaster Management Division Deputy Director TN Suriyarajah said that 14 persons from three families in Jaffna have been defended due to windy rains.
-
-Two houses have been partially damaged due to wind rains in the J/28 Grama Niladhari Division of the Velanai Divisional Secretariat Division and 10 people from two families have been affected.
-
-He also stated that a house in the J/169 Grama Niladhari Division, which belongs to the Sanganai Divisional Secretariat, has been partially damaged and four have been affected.
-
-◼️
-
-[Data](articles/a37d02c1.json)
-
-[Extended Data](ext_articles/a37d02c1.ext.json)
-
----
-
-### The struggle of pearl peasants that continue for the 18th day
-
-*2025-10-04 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/226885) · `ta`
-
-Muthu Nagar farmers in Trincomalee have been engaged in a continuous planetary struggle for the 18th days of Saturday (04) in the pouring rain in front of the Trincomalee District Secretariat.
-
-They are demanding the recovery of the agricultural land that has been farming for 53 years as the land of the Sri Lanka Department of Sri Lanka for solar power to produce solar power.
-
-About 800 acres of land grabbing on the pearl land of Muthu Nagar has been cleaned up for more than two hundred acres and has been acquired for solar power.
-
-As a result of this, they have said that they have been affected by the life -threatening agriculture.
-
-Today, the Women's Movement for Independence has joined the Sathiyak Planet struggle and showed the banner such as "We will unite for the struggle of pearls of pearls".
-
-In this case, many struggles to obtain the agricultural land have been reported to the farmers who fought from the Presidential Secretariat to the Prime Minister's Office.
-
-...
-
-[Data](articles/2c225862.json)
-
-[Extended Data](ext_articles/2c225862.ext.json)
 
 ---

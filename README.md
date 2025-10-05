@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 16:52:35**
+As of **2025-10-05 17:20:30**
 
 ## Newspaper Stats
 
-*Scraped **81,320** Articles*
+*Scraped **81,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,200 @@ newsfirstlk | 603
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 colombotelegraphcom | 809
-lankadeepalk | 814
+lankadeepalk | 824
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,789
-adaderanalk | 10,454
-tamilmirrorlk | 12,076
+adaderanalk | 10,455
+tamilmirrorlk | 12,079
 virakesarilk | 13,359
-adaderanasinhalalk | 13,978
+adaderanasinhalalk | 13,982
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,319 (100.0%) of 81,320 articles have been extended.
+81,338 (100.0%) of 81,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### Robot Shankar's wife dance in funeral: Daughter Indraja Description
+
+*2025-10-05 16:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இறுதி-ஊர்வலத்தில்-ரோபோ-சங்கர்-மனைவி-நடனம்-மகள்-இந்திரஜா-விவரிப்பு/54-365772) · `ta`
+
+Their daughter, Indraja, has explained that his wife danced at the funeral procession of Robot Shankar.
+
+Leading actor Robot Shankar passed away last month. In his funeral, his wife Priyanka danced. This video record has been published on the Internet and is talking.
+
+No explanation has been given from the Robot Shankar family in this regard. Meanwhile, the 16th day of the robot Shankar disappeared. The Robot Shankar's family met with journalists in the opening of his portrait.
+
+Robot Shankar's daughter. Dad was formed in everyone's applause. Wherever the applause is now, the father will be there. There is a lot of responsibilities that Dad left. We will definitely finish it. ”
+
+...
+
+[Data](articles/a1cb8b5f.json)
+
+[Extended Data](ext_articles/a1cb8b5f.ext.json)
+
+---
+
+### At the end of the little world, the wasps are chased and chased
+
+*2025-10-05 16:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சின்ன-உலக-முடிவில்-குளவிகள்-விரட்டி-விரட்டி-கொட்டியுள்ளது/76-365771) · `ta`
+
+Nine people were injured and admitted to the Lunugalai Hospital after being admitted to a group of tourists from Malwanai area to see a small world end in Madulzim, police said.
+
+A group of ten youths from Malwanai came to see the end of the little world and set up a tent on Saturday (04) night.. When they went to see the world's end, Sunday (05), the wasp was suddenly exhausted and began to pour them out, police said.. .
+
+Later, the victims of the wasps ran away, and the wasps chased them and attacked them, police said.. The people of the area, along with the police officers, then smoke to chase the wasps. Police said the injured were taken to the Lunugala Hospital after the wasp was flew out of the scene.
+
+◼️
+
+[Data](articles/752da029.json)
+
+[Extended Data](ext_articles/752da029.ext.json)
+
+---
+
+### 07 arrested for distribution of drugs to the Southern Province
+
+*2025-10-05 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215373) · `si`
+
+Seven suspects were arrested by the Matara and Hambantota District Crimes Division in the Southern Province (5).
+
+They have been arrested in Habaraduwa and Baddegama areas.
+
+The suspects were taken into custody and 600 grams of Hashlerts and 600 grams of Hash.
+
+They were engaged in this drug racket in the pretext of fishing.
+
+The arrested have been arrested seven including a disciple of Midigama, a drug dealer, a drug dealer.
+
+◼️
+
+[Data](articles/e5eadc82.json)
+
+[Extended Data](ext_articles/e5eadc82.ext.json)
+
+---
+
+### 7 including accomplice of ‘Midigama Ruwan’ arrested with 5.6kg Hash
+
+*2025-10-05 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113235/7-including-accomplice-of-midigama-ruwan-arrested-with-56kg-hash) · `en`
+
+Sri Lanka Police said that seven suspects, including an accomplice of organized criminal ‘Midigama Ruwan’, have been arrested with 5.6 kilograms of Hashish.
+
+The suspects have been arrested following raids conducted in the Habaraduwa and Baddegama areas, police said.
+
+The estimated street value of the seized narcotics is around Rs. 40 million.
+
+◼️
+
+[Data](articles/94e1fafe.json)
+
+[Extended Data](ext_articles/94e1fafe.ext.json)
+
+---
+
+### Elpitiya was not shot dead by police
+
+*2025-10-05 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215372) · `si`
+
+Elpitiya last night's house was launched last night.
+
+In a statement, the Police Media Division stated that this was revealed at investigations carried out in the house.
+
+The Elpitiya Police had received a complaint that the house was damaged by a window in front of a nearby house due to a shooting.
+
+Accordingly, Elpitiya Police and Criminal Investigations Officers have conducted investigations have been carried out.
+
+Investigations carried out by the Elpitiya Criminal Investigations Officers of the Elpitiya Crimes Officers have revealed that this is not the case due to a shooting.
+
+Investigations have revealed that the eruption caused by exploding after being prepared and dipped with a tube, a 'mobolizer and a' burst.
+
+Further investigations are underway into the incident and is due to the Government Analyst's Analyst.
+
+◼️
+
+[Data](articles/bb25549b.json)
+
+[Extended Data](ext_articles/bb25549b.ext.json)
+
+---
+
+### 1000 low income families vested with the public
+
+*2025-10-05 16:12:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අඩ-ආදයමලභ-නවස-1000ක-ජනත-අයතයට/1-680761) · `si`
+
+World Resources Day National Commerce was held at Temple Trees today (5) under the patronage of President Anura Kumara Dissanayake.
+
+The National Celebration was held under the theme "A Beautiful Life" in parallel to the United Nations World Hostering Day.
+
+The President also handed over a half of the working houses throughout the country to build houses for nearly 4,000 poor families who have not been able to build a house to build a house.
+
+The official handing over the Symptorian Award to the President is to implement the CDR Water Supply Project to implement the Indian government and Coalition For Disaster Resproductrust (CDRI) by the intervention of the UN Habitat.
+
+Giving housing deeds on various reasons
+
+The President also presented awards to winners of the winners and the winners of the winners and the Urban Development Authority, which was widely implemented by the World Holding Day.
+
+...
+
+[Data](articles/62c466f5.json)
+
+[Extended Data](ext_articles/62c466f5.ext.json)
+
+---
+
+### 11 killed in bad weather conditions affected by Nepal
+
+*2025-10-05 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215371) · `si`
+
+Eleven people were killed in disasters that were dressed in Kathmandu, Nepal.
+
+According to foreign media reports, six people have been killed in a landslide in Nepal in Nepal this morning.
+
+It is said that many highways have been closed due to heavy rainfall that affects Nepal.
+
+Meanwhile, 224 persons were killed and 158 others were injured in the floods and landslides that Nepal last year.
+
+◼️
+
+[Data](articles/c2445f94.json)
+
+[Extended Data](ext_articles/c2445f94.ext.json)
+
+---
+
+### Did you meet the mountain drugs? - The test report next week
+
+*2025-10-05 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215370) · `si`
+
+The Danarakara Drugs Control Board says that the report of the chemicals suspected to be found in the Kandana area will be released next week.
+
+A spokesman said that the preliminary investigations on the relevant substances have already been completed.
+
+Recently, a large haul of chemicals were found in the Middeniya area recently.
+
+The police then found a stock of chemicals in Tangalle Netolpitiya and Kandana.
+
+The National Dangerous Drugs Control Board has issued reports from the samples and the investigation of materials found in Netolpitiya areas.
+
+According to these reports, the Harrological Drugs Control Board stated that the chemicals found in both locations have been confirmed.
+
+The test report of the substances found from Kandana area is issued and it will be issued in the next week.
+
+◼️
+
+[Data](articles/fed004dc.json)
+
+[Extended Data](ext_articles/fed004dc.ext.json)
+
+---
 
 ### Indo-Pakistani Vihara to women cricket
 
@@ -172,6 +346,44 @@ The arrested person was admitted to the Kataragama hospital and later sent to th
 [Data](articles/60b17fa8.json)
 
 [Extended Data](ext_articles/60b17fa8.ext.json)
+
+---
+
+### One who had gone broke was shot dead
+
+*2025-10-05 14:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/1-680760) · `si`
+
+Kataragama Police say that the Kataragama Kochchiya thick temple has fallen from the Yala National Park, Kataragama Kubarapura Police have sent the man to the Hambantota General Hospital while the Kataragama Police.
+
+The injured were a 56 year old resident of Kandasurdagama, Kataragama.
+
+He had told the police that the man had entered the Yala Park and shot a meat bag and shooting after a meat bag.
+
+The arrested person was admitted to the Kataragama hospital and later sent to the Hambantota General Hospital.
+
+◼️
+
+[Data](articles/cf22b608.json)
+
+[Extended Data](ext_articles/cf22b608.ext.json)
+
+---
+
+### Nine was in hospital
+
+*2025-10-05 14:21:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බඹර-ඇන-9ක-රහල/1-680759) · `si`
+
+Nine were injured in a wasp attack from Biyagama Malwane to visit Madolsima Lakitha today (5).
+
+A group of ten youths in Biyagama Madolsima Lakande were kdered, and had to watch the little bath in the morning and began to look at the wasp basket at the time.
+
+The police said that the victims of the wasp attack had come to the attack and they had attacked the wasps.. The police said that those surrounding the police officers have been admitted to the Lunugala hospital, police said.
+
+◼️
+
+[Data](articles/4b69a90c.json)
+
+[Extended Data](ext_articles/4b69a90c.ext.json)
 
 ---
 
@@ -353,6 +565,26 @@ Suhas, Mahima Nambiar, Achut Kumar, Ravinda Vijay, Sathyaraj and many others are
 
 ---
 
+### Harsha question on the change of interest percentage
+
+*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-சதவீத-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
+
+Dr. Harsha de Silva, Chairman of the Public Finance Committee (COPF), has expressed concern over the proposal to change the interest rate of the central highway project. He warned that this could increase the country's borrowing costs.
+
+He posted in X in x, said the LKR 226 billion project, which was already burdened with delayed and growing interest payments, has been reviewed due to continuous financial and contract uncertainty.
+
+Although the project was renovated under President Anura Kumara Dissanayake, he said that the negotiations with the main contractor MCC, their claims, and the Chinese EXIM bank on the revised US $ 500 million loan facility were incomplete.
+
+D Silva said the group was confused by the proposal of the Ministry of Highways to convert from 2.5% of the current 15 -year standard interest percentage, of which 2.5% of the basic interest and 3.5% ceiling.
+
+...
+
+[Data](articles/2cc9fc49.json)
+
+[Extended Data](ext_articles/2cc9fc49.ext.json)
+
+---
+
 ### Harsha question on the change of interest rate configuration
 
 *2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-விகித-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
@@ -445,6 +677,24 @@ The suspect, along with the seized cigarettes, is scheduled to be produced befor
 
 ### Three killed in accident
 
+*2025-10-05 12:53:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රය-අනතරන-තදනක-මරට/1-680758) · `si`
+
+The driver and two other persons who were traveling from Colombo to Akkarapattuwa have died in a crash, police said.
+
+The injured have been admitted to the Narammala and Kurunegala Teaching Hospital, Naramwala Police said. The deceased has been identified as 41 year old, 80 and 82 years old, the police said.
+
+The deceased has been identified as his mother-in-law and father-in-law and two children and two children are receiving treatment at the Kurunegala Teaching Hospital.
+
+◼️
+
+[Data](articles/608b1cc7.json)
+
+[Extended Data](ext_articles/608b1cc7.ext.json)
+
+---
+
+### Three killed in accident
+
 *2025-10-05 12:53:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රය-අනතරන-තදනක-මරට/101-680758) · `si`
 
 The driver and two other persons who were traveling from Colombo to Akkarapattuwa have died in a crash, police said.
@@ -505,6 +755,24 @@ The people who engage in trading areas on the road have been transferred to the 
 
 ### Ranga's chair to the House in the coming week
 
+*2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රගග-පටව-එන-සතය-මතසබයට/1-680757) · `si`
+
+The reconciliation ceremony is due to be questioned in parliament next week regarding the appointment of bribery or corruption.
+
+Industry, Minister of Industry Sunil Handunnetti has stated that he has approved him to appoint Opposition Leader Sajith Premadasa and Kalutara District MP Ajith P Perera.. Sources say that the reconciliation force is expected to be taken into consideration the statement.
+
+Former leader Nandana Gunatilake recently stated that Mr. Ranga Dissanayake has worked in the legal department of the JVP.. There is also a controversy of the society regarding this statement.
+
+◼️
+
+[Data](articles/b42240cb.json)
+
+[Extended Data](ext_articles/b42240cb.ext.json)
+
+---
+
+### Ranga's chair to the House in the coming week
+
 *2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රගග-පටව-එන-සතය-මතසබයට/101-680757) · `si`
 
 The reconciliation ceremony is due to be questioned in parliament next week regarding the appointment of bribery or corruption.
@@ -518,6 +786,24 @@ Former leader Nandana Gunatilake recently stated that Mr. Ranga Dissanayake has 
 [Data](articles/3b1100a2.json)
 
 [Extended Data](ext_articles/3b1100a2.ext.json)
+
+---
+
+### Joint opposition to Colombo
+
+*2025-10-05 12:34:25* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඒකබදධ-වපකෂයන-ලක-ජන-රලයක-කළඹට/1-680756) · `si`
+
+The leaders of the parties have decided to hold a leading meeting in Colombo soon.
+
+This decision was taken at a leading meeting at a hotel in Colombo on Thursday.
+
+The meeting was organized to treat the UNP convention successful and treat leading activists.
+
+◼️
+
+[Data](articles/5dfc0bc6.json)
+
+[Extended Data](ext_articles/5dfc0bc6.ext.json)
 
 ---
 
@@ -725,6 +1011,28 @@ When dealing with certain struggles, it has made false decisions and handling it
 
 ### Manamperi is not my secretary
 
+*2025-10-05 11:43:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනමපර-මග-ලකම-කනක-නමය/1-680755) · `si`
+
+Former Minister Johnston Fernando said that Sampath Manamperi was not a coordinating secretary.
+
+The maximum legal action taken against such lies is being prepared to take the maximum legal action against the mudslinging.
+
+He made this statement addressing the supporters at the Kurunegala District Secretaries to the Kurunegala District Secretariat organizations under the patronage of Namal Rajapaksa.
+
+"Now I say my coordinating secretary says that the person named Manampa. Remember. I was only the only ones who were involved in the coordinating lakmm
+
+"Stay out of somewhere. We still have strong faith in the law. Therefore, Mr. Johnston Fernando said that we are all the best possible opportunity to take on the laws.
+
+◼️
+
+[Data](articles/3ba5b1f5.json)
+
+[Extended Data](ext_articles/3ba5b1f5.ext.json)
+
+---
+
+### Manamperi is not my secretary
+
 *2025-10-05 11:43:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනමපර-මග-ලකම-කනක-නමය/101-680755) · `si`
 
 Former Minister Johnston Fernando said that Sampath Manamperi was not a coordinating secretary.
@@ -762,6 +1070,24 @@ With such a substantial number of vacancies, the operations of the Department we
 [Data](articles/09ca16d6.json)
 
 [Extended Data](ext_articles/09ca16d6.ext.json)
+
+---
+
+### Looking for a investor for the Destructure
+
+*2025-10-05 11:34:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වසමපයටත-ආයජකයක-සයය/1-680754) · `si`
+
+The government is looking for a suitable investor to direct the leading government building in Colombo for a tourism development project.
+
+Minister of Urban Development and Construction Minister Dr. Anura Karunatilake said that the building was already closed down.
+
+Many politicians have been used as their quarters recently. Former Prime Minister Sirimavo Bandaranaike, DM. Jayaratne, Anuruddha Ratwatte, Lakshman Kadirgamar, Mangala Samaraweera and Professor G, L. Peiris is also the men.
+
+◼️
+
+[Data](articles/7a25813e.json)
+
+[Extended Data](ext_articles/7a25813e.ext.json)
 
 ---
 
@@ -1720,345 +2046,5 @@ The family reports that the youth's death is unthinkable for the death of a cric
 [Data](articles/5f745cc5.json)
 
 [Extended Data](ext_articles/5f745cc5.ext.json)
-
----
-
-### Two arrested with 405 kg of beedi leaves in Kalpitiya
-
-*2025-10-05 09:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கற்பிட்டியில்-405-கிலோ-கிராம்-பீடி-இலைகளுடன்-இருவர்-கைது/175-365733) · `ta`
-
-During a special search operation in the Kalpitiya Kuttawa Sea, the navy has arrested two suspects who have seized about 405 kilograms of beedi leaves and a tinky boat.
-
-The Navy is carrying out regular patrols and search operations, including the sea and beaches around the island to combat illegal activities, including trafficking through sea routes.
-
-Accordingly, the suspicious Tinky (01) was searched during the special search operation conducted by the Sri Lanka Navy Ship of the Northwestern Navy Command in the sea near Kalpitiya on Friday night.
-
-The suspects arrested by the Marines have been identified as from the Kalpitiya Estate and the school sector areas during the operation.. The suspects have said that the Tinky Boat and Beedi leaves have been handed over to the Puttalam Madhuvari Special Division for further legal action.
-
-◼️
-
-[Data](articles/9c2b2a00.json)
-
-[Extended Data](ext_articles/9c2b2a00.ext.json)
-
----
-
-### Typhoon Matmo strengthens, prompting China to evacuate 150,000 people ahead of landfall
-
-*2025-10-05 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113225/typhoon-matmo-strengthens-prompting-china-to-evacuate-150000-people-ahead-of-landfall) · `en`
-
-Typhoon Matmo strengthened ahead of making landfall on Sunday (Oct 5) in China, prompting the government to evacuate 150,000 people from southern Guangdong province.
-
-The storm had maximum sustained wind speeds of 151 kmh on Sunday morning, according to China’s National Meteorological Center. It is expected to make landfall around midday. The weather authority issued a red level typhoon warning, the highest in its system.
-
-Hainan province, which is also in the pathway of the storm, cancelled flights and shut down public transport and businesses starting on Saturday in preparation for the storm.
-
-Guangdong province, whose southwestern parts will be hit, evacuated 151,000 people, according to official media The Paper. Macau, which is not in the storm’s direct path, said classes and tutoring sessions will not be held due to weather conditions.
-
-Authorities are also warning of heavy rain, with rainfall expected to hit 100 to 249 mm in some parts.
-
-...
-
-[Data](articles/7d120d7d.json)
-
-[Extended Data](ext_articles/7d120d7d.ext.json)
-
----
-
-### Intensive to confiscate Vijay's propaganda vehicle
-
-*2025-10-05 09:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயின்-பிரச்சார-வாகனத்தை-பறிமுதல்-செய்ய-தீவிரம்/175-365732) · `ta`
-
-The Madras High Court has ordered the Special Investigation Committee to confiscate the campaign vehicle of the Tawaka leader Vijay, and the police have taken action.
-
-In Karur, 41 people were killed in a campaign meeting at Karur last September 27. Following this, lawyer Dinesh had filed a petition in the Madras High Court seeking a ban on the road show and road campaign of political parties.
-
-Judge N. Senthil Kumar, who was hearing the case, said in a order issued on the 3rd of this month that when 41 people were killed during a campaign meeting in Karur, the party's head and other executives were acting as if they had nothing to do with the incident.
-
-They have done no help to those who are trapped or their supporters. The families of the deceased did not express their compassion or comfort. The recklessness left and slipped from there was severely condemned.
-
-...
-
-[Data](articles/ef76efc1.json)
-
-[Extended Data](ext_articles/ef76efc1.ext.json)
-
----
-
-### Shooting on the house
-
-*2025-10-05 09:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-துப்பாக்கிப்-பிரயோகம்/175-365731) · `ta`
-
-Elpitiya police said that an unidentified gunmen fired at a house in Ihala Omat, Elpitiya, Kanegoda, Elpitiya.
-
-The front window of the house was damaged in the shooting, but no one was injured, police said.
-
-The shooting was on the house of a former soldier who runs many businesses, police said.
-
-Police suspect that the shooting may have been carried out to threaten a former soldier who threatened the underworld in the village and threatened the underworld.
-
-Police say the former soldier, the owner of the house, was fired at the house and two motorbikes may have fired.
-
-Police say the exact cause of the shooting in the house has not yet been released.
-
-◼️
-
-[Data](articles/65e32bb0.json)
-
-[Extended Data](ext_articles/65e32bb0.ext.json)
-
----
-
-### This evening rain this evening
-
-*2025-10-05 09:04:08* · [`adalk`](https://www.ada.lk/breaking_news/අද-හවස-වැස්ස/11-418916) · `si`
-
-The Department of Meteorology says that there is a positive atmospheric situation for thundershowers during the evening.
-
-Therefore, the Department informs the public to take necessary steps to reduce the dangers of heavy rain, strong winds and strong lightning.
-
-Showers or thundershowers will occur at several places in the country in many parts of the country.
-
-The Department also said that there will be showers in the Western, Sabaragamuwa and North Western provinces and in the Matara, Matara, Jaffna and Mannar districts.
-
-The Department of the Vavuniya and Mullaitivu Districts, the Vavuniya and Mullaitivu Districts, the Western, Sabaragamuwa, Central, North-central and Uva provinces can occur.
-
-◼️
-
-[Data](articles/f8532373.json)
-
-[Extended Data](ext_articles/f8532373.ext.json)
-
----
-
-### Cryptocurrency: Central Bank Action Notification
-
-*2025-10-05 09:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/கிரிப்டோகரன்சி-மத்திய-வங்கி-அதிரடி-அறிவிப்பு/47-365730) · `ta`
-
-The Central Bank of Sri Lanka has proposed the government of Sri Lanka to appoint a high -level committee to make policy decisions on the scientific way to deal with the controversial cryptocurrency.
-
-The Central Bank of Sri Lanka has also sent a letter to the Ministry of Finance on this requirement. According to the finance ministry sources, the government has also agreed to this practice.
-
-In the assets submitted by government ministers, it has also been mentioned that they have invested in cryptocurrency, which has created a heated debate in the community in recent years.
-
-◼️
-
-[Data](articles/bdff8044.json)
-
-[Extended Data](ext_articles/bdff8044.ext.json)
-
----
-
-### 158,971 tourists arrived in Sri Lanka in September
-
-*2025-10-05 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215355) · `si`
-
-Sri Lanka Tourism Development Superintendent of Sri Lanka said that the number of tourists arrived in Sri Lanka during September was 158,971.
-
-According to the latest data issued by the Sri Lanka Tourism Development Authority, 49,697 tourists arrived in India in September, 31.3%.
-
-Also, 10,527 people from the UK, 9,344 Germans, 5,144 French and 5,144 French have arrived in Sri Lanka in September.
-
-Accordingly, 1,725,494 tourists from January 1 to September 30, 2025, was 1,725,494.
-
-Sri Lanka Tourism Development Authority stated that 375,292 tourists from India and 161,893 were from India and 161,893 from India and 161,893 were from the United Kingdom.
-
-◼️
-
-[Data](articles/5edb5666.json)
-
-[Extended Data](ext_articles/5edb5666.ext.json)
-
----
-
-### Shots a house in Alpitty
-
-*2025-10-05 08:26:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටියේ-නිවසකට-වෙඩි-ප්‍රහාරයක්/11-418915) · `si`
-
-Elpitiya Police said that the unidentified gunmen had fled to a house last night.
-
-The shooting was damaged to a nearby window and had not been shot dead.
-
-The shooting has been carried out by calling former military personnel running several businesses.
-
-The former soldiers were a character named the village of the village and was threatened with the underworld that he had been threatened with hearing and to intimidate him.
-
-The shooting had taken place at home yesterday (4), police said.
-
-Police say that the real cause of shooting the house was yet to be revealed yet. Elpitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/ce0bccb3.json)
-
-[Extended Data](ext_articles/ce0bccb3.ext.json)
-
----
-
-### New battery and spinning coaches for Sri Lanka cricket team!
-
-*2025-10-05 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226910) · `ta`
-
-Sri Lanka Cricket (SLC) has announced that two prominent coaches have been appointed to the National Cricket Team.
-
-In that respect, Julian Wood has been appointed as the bowling coach and has been appointed as the spinning coach.
-
-Julian Wood, who has been appointed as a cricket coach, has been appointed for a period of one year with effect from October 1.
-
-Wood is the creator of the "Power Hitting Program". He is the best in enhancing playing techniques with modern training methods and biomechanics and increasing the playing power of the players.
-
-The appointment of Rene Ferdinands, who has been appointed as the spinning coach, comes into effect from September 30.
-
-Renay Ferdinands, who specializes in both wrist and finger spinning, has previously served as Biomechanics Consultant for New Zealand Cricket (NZC).
-
-It is noteworthy that he carried out Performance Evaluations and Injury-Risk Assessments for leading bowlers.
-
-◼️
-
-[Data](articles/4ea4e7cb.json)
-
-[Extended Data](ext_articles/4ea4e7cb.ext.json)
-
----
-
-### Netanyahu says he hopes to announce hostage release in the ‘coming days’
-
-*2025-10-05 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113224/netanyahu-says-he-hopes-to-announce-hostage-release-in-the-coming-days) · `en`
-
-Israeli Prime Minister Benjamin Netanyahu has said he hopes to announce the release of hostages being held in Gaza “in the coming days”.
-
-In a televised statement, he also said “Hamas will be disarmed and Gaza will be demilitarised – either the easy way or the hard way, but it will be achieved.”
-
-The comments came after Hamas released a statement on Friday in which it agreed to free the hostages under a US peace plan, but did not mention disarmament and sought negotiations on other issues.
-
-Hamas said on Saturday that Israel was continuing to commit “massacres”, after strikes hit Gaza in the morning, and it urged global pressure on Israel.
-
-Indirect ceasefire talks between the parties are set to start in Egypt on Monday.
-
-US President Donald Trump said he would “not tolerate delay” from Hamas to complete a deal.
-
-In a post on his Truth Social platform, Trump said: “Hamas must move quickly, or else all bets will be off... Let’s get this done, FAST.”
-
-...
-
-[Data](articles/f26d9abd.json)
-
-[Extended Data](ext_articles/f26d9abd.ext.json)
-
----
-
-### Mother of Moda's operation on the army of the Gaza
-
-*2025-10-05 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215354) · `si`
-
-Indian Prime Minister Narendra Modi has expressed his commendation on the attempt to extinguish peace and establish peace by US President Donald Trump.
-
-The Indian Prime Minister says that he has made a note of the account in the Gaza coincidence, as India provides the brutality of the US President.
-
-The Prime Minister of the Prime Minister further stated that India will continue to support all the efforts for the last and reasonable peace, and India will continue to support all those who are in reasonable and reasonable peace.
-
-◼️
-
-[Data](articles/1e634f39.json)
-
-[Extended Data](ext_articles/1e634f39.ext.json)
-
----
-
-### Shooting Targets House in Omatta, Elpitiya
-
-*2025-10-05 08:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/shooting-targets-house-in-omatta-elpitiya) · `en`
-
-COLOMBO (News 1st);A house in Omatta, Elpitiya was targeted in a shooting last night.According to police, two men on a motorcycle opened fire through a window of the house before fleeing the scene.No injuries were reported.The police said that the motive for the shooting remains unknown
-
-◼️
-
-[Data](articles/36a485c6.json)
-
-[Extended Data](ext_articles/36a485c6.ext.json)
-
----
-
-### Crypto Money: The Central Bank is a decision
-
-*2025-10-05 08:13:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කරපට-මදල-මහ-බකවන-තරණයක/1-680746) · `si`
-
-The Central Bank has proposed to the government to appoint a high level of committee to make policy decisions on the scientific management of the controversial crypto cash.
-
-The Central Bank of Sri Lanka has sent a letter to the Ministry of Finance. According to sources, the government has agreed to the party regarding this program.
-
-The financial conversation was created in the event of the recent incidents as stated that the assets statements presented by the government ministers have been investing in the money of the money.
-
-◼️
-
-[Data](articles/14f1ea53.json)
-
-[Extended Data](ext_articles/14f1ea53.ext.json)
-
----
-
-### Crypto Money: The Central Bank is a decision
-
-*2025-10-05 08:13:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරපට-මදල-මහ-බකවන-තරණයක/101-680746) · `si`
-
-The Central Bank has proposed to the government to appoint a high level of committee to make policy decisions on the scientific management of the controversial crypto cash.
-
-The Central Bank of Sri Lanka has sent a letter to the Ministry of Finance. According to sources, the government has agreed to the party regarding this program.
-
-The financial conversation was created in the event of the recent incidents as stated that the assets statements presented by the government ministers have been investing in the money of the money.
-
-◼️
-
-[Data](articles/01d443c0.json)
-
-[Extended Data](ext_articles/01d443c0.ext.json)
-
----
-
-### The random weather will continue for a few days
-
-*2025-10-05 08:04:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலை-சில-நாட்களுக்கு-தொடரும்/175-365728) · `ta`
-
-The Department of Meteorology has announced that the inclement weather in the country will continue for the next few days.
-
-Accordingly, in some parts of the country, heavy thunderstorms are expected to occur today.
-
-அதன்படி, இன்று மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, யாழ்ப்பாணம் மற்றும் மன்னார் ஆகிய மாவட்டங்களிலும் 75 மில்லி மீற்றர வரை மழைவீழ்ச்சி பதிவாகக்கூடும் தெரிவிக்கப்பட்டுள்ளது. (A)
-
-◼️
-
-[Data](articles/4f96c48e.json)
-
-[Extended Data](ext_articles/4f96c48e.ext.json)
-
----
-
-### Fatal accidents - two killed in two youths
-
-*2025-10-05 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215353) · `si`
-
-Six persons including two men and women were killed in several areas in several areas.
-
-The accident occurred yesterday (04) at the police divisions, Horana, Pinnawala, Thirukkovil, Katuwana and Central Camp.
-
-The roof of the road was to collided with a lorry, collided with a lorry, which was unable to control the title of Horana - Maharagama road.
-
-The motorcyclist and the victim died after being admitted to the Horana hospital.
-
-The victim was a 24-year-old man and a 21 year old girl.
-
-Police said they were a couple, a resident of Kiriwattuduwa.
-
-Meanwhile, a motorcycle who had been collided with a motorcycle to control the motorcyclist in the Hatton-Balangoda road.
-
-The victim died on the rushed to the Balangoda hospital and was admitted to the Balangoda hospital.
-
-The deceased has been identified as a 23 year old resident of Aranayaka.
-
-...
-
-[Data](articles/4501ebf9.json)
-
-[Extended Data](ext_articles/4501ebf9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 03:05:57**
+As of **2025-10-06 02:53:34**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,405 (100.0%) of 81,405 articles have been extended.
+81,382 (100.0%) of 81,405 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -619,59 +619,51 @@ Just across the border in Nepal, heavy rains triggered landslides and flash floo
 
 ---
 
-### Trying to establish a party system, referring to powers - Premnath C.
+### அதிகாரங்கள் போதாதெனக் குறிப்பிட்டு ஒரு கட்சி ஆட்சி முறைமையை ஏற்படுத்த முயற்சி - பிரேம்நாத் சி தொலவத்த
 
 *2025-10-05 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226973) · `ta`
 
-There is a two -thirds majority of the national people's power in Parliament with executive power. However, President Anura Kumara Dissanayake says that these are not enough. Former parliamentarian Premnath C Tolawatta said the government was trying to establish a party system indirectly through this.
+நிறைவேற்றதிகாரத்துடன் பாராளுமன்றத்திலும் தேசிய மக்கள் சக்திக்கு மூன்றில் இரண்டு பெரும்பான்மை காணப்படுகிறது. ஆனாலும் ஜனாதிபதி அநுரகுமார திஸாநாயக்க இவை போதாது எனக் கூறுகின்றார். இதன் ஊடாக மறைமுகமாக ஒரு கட்சி ஆட்சி முறைமையை ஏற்படுத்துவதற்கு அரசாங்கம் முயற்சிப்பதாக முன்னாள் பாராளுமன்ற உறுப்பினர் பிரேம்நாத் சி தொலவத்த தெரிவித்தார்.
 
-He further stated at a press conference held in Colombo on Sunday (05).
+கொழும்பில்  ஞாயிற்றுக்கிழமை (05) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
 
-At present, the authority of the provincial councils is completely convenient. They will be representatives of government. On the other hand, there is a two -thirds majority in Parliament.
+தற்போது மாகாணசபைகளின் அதிகாரம் முற்றுமுழுதாக அதிகாரிகள் வசமாகியுள்ளது. அவர்கள் அரசாங்கத்தின் பிரதிநிதிகளாகவுள்ளனர். மறுபுறம் பாராளுமன்றத்தில் மூன்றில் இரண்டு பெரும்பான்மையும் காணப்படுகிறது.
 
-Above all is found in execution. But the president says that they are not enough to carry out the development projects that have the highest powers.
-
-Therefore, they say that the party should be able to implement the development projects put forward by them.. At present, the Tajuddin murder issue has been re -spoken.
+இவை அனைத்துக்கும் மேலாக நிறைவேற்றதிகாரமும் காணப்படுகிறது. ஆனால் இவ்வாறு அதி உச்ச அதிகாரங்களை தம்வசம் வைத்துக் கொண்டும் அபிவிருத்தி திட்டங்களை முன்னெடுப்பதற்கு அவை போதாது என ஜனாதிபதி கூறுகின்றார்.
 
 ...
 
 [Data](articles/678fc273.json)
 
-[Extended Data](ext_articles/678fc273.ext.json)
-
 ---
 
-### New twist in Tajuddin's death investigation; Suspicion of returning on Shiranthi…?
+### தாஜுடீன் மரண விசாரணைகளில் புது திருப்பம் ; ஷிரந்தியின் மீது திரும்பும் சந்தேகம்…?
 
 *2025-10-05 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226976) · `ta`
 
-The Criminal Investigation Department announced on September 20, 2018, that the Defender vehicle that abducted Tajuddin had a registration number of WP KA0642 owned by the Siriliya Savia Foundation Company.. Cyriliya Saviya is a trustworthy company founded by Mahinda Rajapaksa's wife Shiranthi Rajapaksa.  It was aimed at providing social welfare programs and assistance to the people.  The project was associated with financial irregularities and other crimes and under investigation. But then the investigation into the matter became tuged. Suddenly Maithripala Sirisena's prime minister, the political crises and the president of the Gotabhaya president have been completely succumbed to the trial of Tajuddin.
+தாஜுடீனை கடத்திய  டிபெண்டர் ரக வாகனம் சிரிலிய சவிய அறக்கட்டளை நிறுவனத்துக்கு சொந்தமான WP KA0642 என்ற பதிவு எண்ணைக் கொண்டது என 2018  ஆம் ஆண்டு செப்டெம்பர் 20 அன்று குற்றப்புலனாய்வுத் துறை நீதிமன்றுக்கு அறிவித்திருந்தது. சிரிலிய சவிய என்பது மகிந்த ராஜபக்சவின் மனைவி ஷிரந்தி ராஜபக்சவினால் ஆரம்பிக்கப்பட்ட அறக்கட்டளை நிறுவனமாகும்.  சமூக நலத்திட்டங்கள் மற்றும் மக்களுக்கு உதவி வழங்குவதை இது நோக்கமாகக் கொண்டிருந்தது.  இந்தத் திட்டம் நிதி முறைகேடுகள் மற்றும் பிற குற்றச் செயல்களுடன் தொடர்புபடுத்தப்பட்டு, விசாரணைகளுக்கு உள்ளானது. ஆனால் அதற்குப்பிறகு அது தொடர்பான விசாரணைகள் இழுபறியாகின. திடீரென  மைத்ரிபால சிறிசேன மகிந்தவை பிரதமராக்கியமை, அதன் பிறகு ஏற்பட்ட அரசியல் நெருக்கடிகள், கோட்டாபய ஜனாதிபதியானமை போன்றவற்றால் தாஜுடீன் கொலை வழக்கு விசாரணைகள் முற்றாக ஸ்தம்பிதமடைந்தன.
 
 ◼️
 
 [Data](articles/7ea3269b.json)
 
-[Extended Data](ext_articles/7ea3269b.ext.json)
-
 ---
 
-### The wind power project is not allowed to be carried out in Mannar - Parliamentarian Kavinda Jayawardena
+### மன்னாரில் மக்களின் விருப்பத்துக்கு மாறாக காற்றாலை மின்னுற்பத்தி திட்டம் முன்னெடுக்கப்படுவதை அனுமதிக்க முடியாது - பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன
 
 *2025-10-05 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226971) · `ta`
 
-We welcome the rehabilitation department. But in Mannar, the plan cannot be allowed to carry out the plan contrary to the wishes of the people. United People's Power Parliamentarian Kavinda Jayawardena has urged the President Anura Kumara Dissanayake to fulfill the promise made by President Anura Kumara Dissanayake that the development projects will be carried out according to their wishes.
+மீள்புதுப்பிக்கத்தக்க வலுசக்தி துறையை நாம் வரவேற்கின்றோம். ஆனால் மன்னாரில் மக்களின் விருப்பத்துக்கு மாறாக அந்த திட்டம் முன்னெடுக்கப்படுவதை அனுமதிக்க முடியாது. மக்களுடன் கலந்துரையாடி அவர்களது விருப்பத்துக்கேற்பவே அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படும் என ஜனாதிபதி அநுரகுமார திஸாநாயக்க வழங்கிய வாக்குறுதியை தற்போது நிறைவேற்ற வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன வலியுறுத்தினார்.
 
-He further stated at a press conference held at the United People's Power Office in Colombo on Sunday (05).
+கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில்  ஞாயிற்றுக்கிழமை (05) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
 
-When President Anura Kumara Dissanayake visited Mannar, he said that the development projects would be carried out accordingly, listening to their voice and listening to their voice.
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க மன்னாருக்கு விஜயம் செய்திருந்த போது, மக்களுடன் கலந்துரையாடி அவர்களது குரலுக்கு செவி சாய்த்து அதற்கேற்பவே அபிவிருத்தி திட்டங்கள் முன்னெடுக்கப்படும் எனத் தெரிவித்திருந்தார்.
 
-But the government has not taken any action so far. Me and MP Mano Ganeshan visited Mannar last week.
+ஆனால் இதுவரையில் அரசாங்கம் அவ்வாறு எந்தவொரு நடவடிக்கையும் எடுக்கவில்லை. நானும் பாராளுமன்ற உறுப்பினர் மனோ கணேஷனும் கடந்த வாரம் மன்னார் சென்றிருந்தோம்.
 
 ...
 
 [Data](articles/e078dfe8.json)
-
-[Extended Data](ext_articles/e078dfe8.ext.json)
 
 ---
 
@@ -777,45 +769,37 @@ Robot Shankar's daughter. Dad was formed in everyone's applause. Wherever the ap
 
 ---
 
-### Government that misleads children; United People's Power
+### சிறுவர்களை தவறாக வழிநடத்தும் அரசாங்கம் ; ஐக்கிய மக்கள் சக்தி கடும் விசனம்
 
 *2025-10-05 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226969) · `ta`
 
-The National People's Power Government is creating an environment for misleading the country's assets. United People's Power MP Kavinda Jayawardena said that if a 16 -year -old boys are given the freedom to engage in sexual relations, a child of the age of that age is a response to the Minister and Minister Bimal Ratnayake.
+நாட்டின் சொத்துக்களான சிறுவர்களை தவறாக வழிநடத்துவதற்கான சூழலை தேசிய மக்கள் சக்தி அரசாங்கம் உருவாக்கிக் கொண்டிருக்கிறது. 16 வயது பூர்த்தியான சிறுவர்கள் பாலியல் உறவில் ஈடுபட சுதந்திரம் வழங்கினால், அந்த வயதிலுள்ள சிறுமியொருவர் கர்ப்பமடைந்தால் அதற்கு சபைமுதல்வரும் அமைச்சருமான பிமல் ரத்நாயக்க வழங்கும் பதில் என்ன என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் காவிந்த ஜயவர்தன தெரிவித்தார்.
 
-He further stated at a press conference held at the United People's Power Office in Colombo on Sunday (05).
+கொழும்பிலுள்ள ஐக்கிய மக்கள் சக்தி அலுவலகத்தில்  ஞாயிற்றுக்கிழமை (05) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
 
-The National People's Power Government is creating an environment for misleading the country's assets. Minister Bimal Ratnayake, Minister of State and Minister, says in Parliament that the 16 -year -old boys can have sexual relations.
-
-The law is to be over 21 years of age to buy cigarettes in this country. If such independence is given to the 16 -year -old in this country, what is the morality of the motherland that follows the 2500 -year -old Buddhist Thera.
+நாட்டின் சொத்துக்களான சிறுவர்களை தவறாக வழிநடத்துவதற்கான சூழலை தேசிய மக்கள் சக்தி அரசாங்கம் உருவாக்கிக் கொண்டிருக்கிறது. சபைமுதல்வரும் அமைச்சருமான பிமல் ரத்நாயக்க 16 வயது பூர்த்தியடைந்த சிறுவர்களுக்கு பாலியல் உறவில் ஈடுபட முடியும் என பாராளுமன்றத்தில் கூறுகின்றார்.
 
 ...
 
 [Data](articles/b301f2e7.json)
 
-[Extended Data](ext_articles/b301f2e7.ext.json)
-
 ---
 
-### The government's independence of the Commission to Increase the Currency Fund
+### நாணய நிதியத்தை மகிழ்விக்க அரசாங்கம் மின்கட்டணத்தை அதிகரிக்கும் பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் சுயாதீனம் கேலிக்குள்ளாகியுள்ளது - மின்பாவனையாளர் சங்கம் குற்றச்சாட்டு
 
 *2025-10-05 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226970) · `ta`
 
-The government has decided to entertain the International Monetary Fund and get the fifth installment by 6 percent. Independent Public Use has no confidence in the Commission. MTR President of the Minor Society MDR says that listening to the aspirations of the public is a waste of time and state funding. Atula made it.
+சர்வதேச நாணய நிதியத்தை மகிழ்வித்து, ஐந்தாம் தவணை தொகையை பெற்றுக்கொள்வதற்காக மின்கட்டணத்தை 6 சதவீதமளவில் அதிகரிப்பதற்கு அரசாங்கம் தீர்மானித்துள்ளது. சுயாதீன பொதுப்பயன்பாடுகள் ஆணைக்குழு மீது நம்பிக்கை கிடையாது. பொதுமக்களின் அபிலாசைகளை கேட்பது காலத்தையும்,அரச நிதியையும் வீணடிக்கும் செயற்பாடாகும் என மின்பாவனையாளர் சங்கத்தின் தலைவர் எம்.டி.ஆர். அதுல தெரிவத்தார்.
 
-He made this statement during a media briefing held at the office of the Employees Association in Colombo on Sunday (05).
+கொழும்பில் உள்ள மின்பாவனையாளர் சங்கத்தின் காரியாலயத்தில்  ஞாயிற்றுக்கிழமை (05) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
-The Ceylon Electricity Board (CEB) has recommended to the Commission to increase the power supply by 6.8 per cent. Accordingly, public uses regarding the power outage are asked by the public on the basis of the provincial basis.
+மின்கட்டணத்தை 6.8 சதவீதத்தால் அதிகரிப்பதற்கு இலங்கை மின்சார சபை பொதுப்பயன்பாடுகள் ஆணைக்குழுவுக்கு பரிந்துரைத்துள்ளது. இதற்கமைய மின்கட்டண திருத்தம் தொடர்பில் பொதுப்பயன்பாடுகள் மாகாண அடிப்படையில் பொதுமக்களிடமிருந்து கருத்துக்களை கேட்கிறது.
 
-The final concept will be held in Colombo on the 15th of this month.
-
-We noted that the Electricity Board was profitable up to Rs 8 billion during the final correction.. On the contrary, the Commission examined only the advantage of the increase in the electricity.
+இதற்கமைய இறுதி கருத்து கோரல் எதிர்வரும் 15 ஆம் திகதி கொழும்பில் நடைபெறவுள்ளது.மின்கட்டணம் குறைக்கப்படும்  என்ற தீர்மானத்தை பொதுப்பயன்பாடுகள் ஆணைக்குழு அறிவிக்காது, மாறாக மின்கட்டணத்தை அதிகரிக்க அனுமதி என்ற அறிவிப்பையே வெளியிடும்.
 
 ...
 
 [Data](articles/4507dbcd.json)
-
-[Extended Data](ext_articles/4507dbcd.ext.json)
 
 ---
 
@@ -873,37 +857,31 @@ The arrested have been arrested seven including a disciple of Midigama, a drug d
 
 ---
 
-### Harsha alerts on the new interest rate proposal for the central highway project
+### மத்திய அதிவேக நெடுஞ்சாலைத் திட்டத்திற்கான புதிய வட்டி வீத முன்மொழிவு குறித்து ஹர்ஷ எச்சரிக்கை
 
 *2025-10-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226963) · `ta`
 
-Dr. Harsha de Silva, Chairman of the State Finance Committee and Member of Parliament expressed concern over the proposal to change the interest rate on the central highway project.. He also warned that this could increase the country's debt costs.
+அரச நிதி பற்றிய குழுவின் தலைவரும் பாராளுமன்ற உறுப்பினருமான கலாநிதி ஹர்ஷ டி சில்வா, மத்திய அதிவேக நெடுஞ்சாலைத் திட்டத்திற்கான நிதியுதவியின் வட்டி விகித அமைப்பை மாற்றுவதற்கான முன்மொழிவு குறித்து கவலை தெரிவித்துள்ளார். இது நாட்டின் கடன்பெறும் செலவுகளை அதிகரிக்கக்கூடும் என்றும் அவர் எச்சரித்துள்ளார்.
 
-Harsha de Silva, who posted this on his official X site, said the scheme, which has already been delayed and affected by the increasing interest burden, has been reinstated by the ongoing financial and contract uncertainty.
+தனது உத்தியோகபூர்வ எக்ஸ் தளத்தில் இது குறித்துப் பதிவிட்டுள்ள ஹர்ஷ டி சில்வா, ஏற்கெனவே தாமதமாகி, அதிகரித்து வரும் வட்டிச் சுமையால் பாதிக்கப்பட்டிருக்கும் 226 பில்லியன் ரூபாய் மதிப்பிலான இந்தத் திட்டம், நடந்து வரும் நிதி மற்றும் ஒப்பந்த நிச்சயமற்ற தன்மைகளால் மறுபரிசீலனைக்கு உட்படுத்தப்பட்டுள்ளதாகக் குறிப்பிட்டுள்ளார்.
 
-He said that although the scheme was resumed under President Anura Kumara Tissanayake, the negotiations were not yet completed with the claims of the main contractors and the revised $ 500 million loan facility.
-
-He also pointed out that the State Finance Committee was confused about the proposal of the Ministry of Highways to switch to a varying rate from the existing 15 -year -old 2.5 per cent interest rate, at least 2.5 per cent and a maximum of 3.5 per cent.
+ஜனாதிபதி அநுரகுமார திஸ்ஸாநாயக்கவின் கீழ் பெரும் ஆரவாரத்துடன் இத்திட்டம் மீண்டும் தொடங்கப்பட்ட போதிலும், பிரதான ஒப்பந்ததாரர்களின் உரிமைகோரல்கள் தொடர்பாகவும், திருத்தப்பட்ட 500 மில்லியன் டொலர் கடன் வசதி தொடர்பாக சீனா எக்ஸிம் வங்கியுடனும் பேச்சுவார்த்தைகள் இன்னும் நிறைவடையவில்லை என்றும் அவர் குறிப்பிட்டுள்ளார்.
 
 ...
 
 [Data](articles/ca58acaf.json)
 
-[Extended Data](ext_articles/ca58acaf.ext.json)
-
 ---
 
-### Is Sri Lanka trapped in the Japanese strategy?
+### ஜப்பானிய வியூகத்தில் சிக்கியதா இலங்கை?
 
 *2025-10-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226958) · `ta`
 
-The question is whether China wants to strengthen the Sri Lankan navy and strengthen it through Japan.
+இலங்கை கடற்படை, ட்ரோன்களின் மூலம் பலப்படுத்தப்படுவதை, அது ஜப்பானின் ஊடாக பலப்படுத்தப்படுவதை, சீனா விரும்புகிறதா என்ற கேள்வி இருக்கிறது.
 
 ◼️
 
 [Data](articles/90601977.json)
-
-[Extended Data](ext_articles/90601977.ext.json)
 
 ---
 
@@ -931,59 +909,51 @@ The suspects have claimed that they brought the stock of drugs, which was found 
 
 ---
 
-### Combination
+### ஒற்றையாட்சிக்கு எதிராக ஒன்றிணைதல்
 
 *2025-10-05 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226957) · `ta`
 
-No matter how many times you give explanations of the federal regime, the negative ideas about it are not going to change.. The Sinhala political leadership is not going to change that. NPP. The government often claims that the Tamil people have ordered themselves. But, that order is something weak. The order was only issued by the minority of the Tamils.
+சமஷ்டி ஆட்சி முறை பற்றிய விளக்கங்களை எத்தனை முறை வழங்கினாலும், சிங்கள மக்கள் மத்தியில் அதுபற்றி இருக்கின்ற எதிர்மறையான கருத்துக்கள் மாறப் போவதில்லை. அவ்வாறு மாறுவதற்கு சிங்கள அரசியல் தலைமைகளும் அனுமதிக்கப் போவதில்லை. என்.பி.பி. அரசாங்கம் தமக்குத்தான் தமிழ் மக்கள் ஆணை வழங்கியதாக அடிக்கடி கூறிக் கொள்கிறது. ஆனால், அந்த ஆணை  பலவீனமான ஒன்று. தமிழர்களின் சிறுபான்மை எண்ணிக்கையானவர்களால்  மாத்திரம் அந்த ஆணை வழங்கப்பட்டது.
 
 ◼️
 
 [Data](articles/f2b95459.json)
 
-[Extended Data](ext_articles/f2b95459.ext.json)
-
 ---
 
-### 323 containers release issue;  Investigation Committee's Report - Objects revealed
+### 323 கொள்கலன்கள் விடுவிப்பு விவகாரம் ;  விசாரணைக்குழுவின் அறிக்கை - வெளிப்படுத்தியுள்ள விடயங்கள்
 
 *2025-10-05 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226953) · `ta`
 
-'Although the containers are identified with the release of the system and the responsible people, the question is still the question of what was in the containers'
+'கொள்கலன்கள் விடுவிப்பு முறைமையும், பொறுப்புக்கூற வேண்டியவர்களும் அடையாளம் காணப்பட்டாலும், கொள்கலன்களில் என்ன இருந்தது என்பது இன்னமும் கேள்வியே'
 
 ◼️
 
 [Data](articles/3b920c19.json)
 
-[Extended Data](ext_articles/3b920c19.ext.json)
-
 ---
 
-### The environment and the secret of prosperity
+### அமைவிட சூழலும் செழிப்பின் இரகசியமும்
 
 *2025-10-05 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226955) · `ta`
 
-The interests of the importance of the island of Sri Lanka should be experienced by all the people here. But the fact is that those interests have been experienced only by a part of the Sinhalese. International forces want to maintain traditional political, economic and security ties with the island of Sri Lanka - to strengthen new relations and cooperation.
+இலங்கை தீவின் அமைவிட முக்கியத்துவத்தின் நலன்கள் இங்குள்ள அனைத்து மக்களாலும் அனுபவிக்கப்பட வேண்டும். ஆனால், அந்த நலன்கள் ஒரு பகுதியினரான சிங்கள மக்களால் மாத்திரமே அனுபவிக்கப்பட்டு வந்திருக்கிறது என்பதே உண்மை. இலங்கைத் தீவுடன் பாரம்பரிய அரசியல், பொருளாதார, பாதுகாப்பு உறவுகளை தொடர்ந்து பேணுவதற்கு- புதிய தொடர்புகளையும் ஒத்துழைப்புகளையும் பலப்படுத்திக் கொள்வதற்கும் -சர்வதேச சக்திகள் விரும்புகின்றன.
 
 ◼️
 
 [Data](articles/c0e26187.json)
 
-[Extended Data](ext_articles/c0e26187.ext.json)
-
 ---
 
-### Karur disaster and Vijay's political future
+### கரூர் அனர்த்தமும் விஜய்யின் அரசியல் எதிர்காலமும்
 
 *2025-10-05 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226952) · `ta`
 
-Temple festivals, religious gatherings, sports and railway stations in India are not new.. They can be said to be frequent disasters. People have died in jam even in sports and some film launch events.
+இந்தியாவில் கோவில் திருவிழாக்கள், மத ஒன்றுகூடல்கள், விளையாட்டுப் போட்டிகள் மற்றும் ரயில் நிலையங்களில் சன நெரிசலும் உயிரிழப்புகளும் ஒன்றும் புதியவையல்ல. அவை பெரும்பாலும் அடிக்கடி நிகழ்கின்ற அனர்த்தங்கள் என்று கூறலாம். விளையாட்டுப் போட்டிகளிலும்  சில திரைப்பட வெளியீட்டு நிகழ்வுகளிலும் கூட நெரிசலில் மக்கள் மரணமடைந்திருக்கிறார்கள்.
 
 ◼️
 
 [Data](articles/7f3b28fa.json)
-
-[Extended Data](ext_articles/7f3b28fa.ext.json)
 
 ---
 
@@ -1013,17 +983,15 @@ Further investigations are underway into the incident and is due to the Governme
 
 ---
 
-### The National People's Power Government is not exceptional
+### தேசிய மக்கள் சக்தி அரசாங்கமும் விதிவிலக்கானதல்ல
 
 *2025-10-05 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226951) · `ta`
 
-In the Mannar affair, Tamil political parties stand behind the people where they need to stand in front of the people. It is very concerned.
+மன்னார் விவகாரத்தில் தமிழ் அரசியல் கட்சிகள் மக்களுக்கு முன்னால் நிற்க வேண்டிய இடத்தில் மக்களுக்கு பின்னாலே நிற்;கின்றன. இது மிகவும் கவலைக்குரியதாகும்.
 
 ◼️
 
 [Data](articles/18ad18f4.json)
-
-[Extended Data](ext_articles/18ad18f4.ext.json)
 
 ---
 
@@ -1111,21 +1079,19 @@ Foreign media reports that nine others have gone missing.
 
 ---
 
-### Flooding in Nepal, landslides; 42 people die
+### நேபாளத்தில் வெள்ளப்பெருக்கு, மண்சரிவு ; 42 பேர் உயிரிழப்பு
 
 *2025-10-05 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226962) · `ta`
 
-In Nepal, heavy rains have caused flooding since Friday.
+நேபாளத்தில், வெள்ளிக்கிழமை முதல் பெய்து வரும் கடும் மழையினால் வெள்ளப்பெருக்கு, மண்சரிவு ஏற்பட்டுள்ளது.
 
-In this case, 42 people were killed in floods and landslides. About 37 people have died in a landslide in Ilam district in Koshi province.
+இந்நிலையில், வெள்ளப்பெருக்கு, மண்சரிவில் சிக்கி 42 பேர் உயிரிழந்துள்ளனர். கோஷி மாகாணத்தில் இலாம் மாவட்டத்தில் சுமார் 37 பேர் மண்சரிவில் சிக்கி உயிரிழந்துள்ளனர்.
 
-With 11 people disappearing, rescue work is underway. At the same time, the Meteorological Department has warned the people to be careful as the meteorological department has warned that heavy rains will continue.
+11 பேர் காணமல் போயுள்ள நிலையில்,  மீட்புப்பணிகள் துரிதமாக நடைபெற்று வருகின்றன. அதேவேளை, கடும்மழை தொடர்ந்து நீடிக்கும் என்று வானிலை ஆய்வு மையம் எச்சரிக்கை விடுத்துள்ளதால் மக்கள் கவனமாக இருக்க அந்நாட்டு அரசு வலியுறுத்தியுள்ளது.
 
 ◼️
 
 [Data](articles/3a50c9d2.json)
-
-[Extended Data](ext_articles/3a50c9d2.ext.json)
 
 ---
 
@@ -1199,17 +1165,15 @@ The match between the Indian and Pakistan, the Indian and Pakistan, will begin a
 
 ---
 
-### Hitler's likeness - Ranil's Warning
+### அநுரவிடம் ஹிட்லரின் சாயல் - ரணிலின் எச்சரிப்பு
 
 *2025-10-05 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226954) · `ta`
 
-Opposition parties have begun to blame President Anura Kumara Dissanayake's visit to Japan. Japan's temporary Prime Minister is to resign. Therefore, the country has not been able to make any benefit from meeting Japan's temporary Prime Minister. Similarly, Foreign Minister Vijitha Herath and Japanese ambassador in Colombo should sign a contract in Tokyo. It may have been done in Sri Lanka. It is therefore the opposition parties that the president's visit to Japan is a public financial fraud.
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் ஜப்பான் விஜயமானது உத்தியோகபூர்வ மற்றது என எதிர்க்கட்சிகள் குற்றம் சுமத்த ஆரம்பித்துள்ளன. ஜப்பானின் தற்காலிக பிரதமர் இராஜினாமா செய்ய உள்ளார். எனவே ஜப்பானின் தற்காலிக பிரதமரை சந்தித்தமையால் நாட்டிற்கு எவ்விதமான பலனும் ஏற்பட வில்லை. அதே போன்று வெளிவிவகார அமைச்சர் விஜித ஹேராத் மற்றும் கொழும்பில் உள்ள ஜப்பான் தூதுவரும் டோக்கியோவில் ஏன் ஒப்பந்தம் கைச்சாத்திட வேண்டும். அதனை இலங்கையிலேயே செய்திருக்கலாம். ஆகவே ஜனாதிபதியின் ஜப்பான் விஜயம் பொது நிதி மோசடியாகும் என்பது எதிர்க்கட்சிகளின் வாதமாக உள்ளது.
 
 ◼️
 
 [Data](articles/98128d43.json)
-
-[Extended Data](ext_articles/98128d43.ext.json)
 
 ---
 
@@ -1283,13 +1247,11 @@ The suspect is to be produced before the Negombo Magistrate's Court on the 8th.
 
 *2025-10-05 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226950) · `ta`
 
-If cannabis is harmful to our people, it is harmful to other people in the world to use it. Therefore, the production of cannabis for income is unacceptable.
+கஞ்சா நமது மக்களுக்கு தீங்கானது என்றால், அதை உலகத்தில் உள்ள ஏனைய நாட்டு மக்களும் பாவிப்பது தீங்கானதாகும். அதனால், வருமானத்திற்காக கஞ்சாவை உற்பத்தி செய்வது என்பது ஏற்றுக் கொள்ள முடியாத ஒன்றாகும்.
 
 ◼️
 
 [Data](articles/5cd19dfe.json)
-
-[Extended Data](ext_articles/5cd19dfe.ext.json)
 
 ---
 
@@ -1321,31 +1283,27 @@ The bribery or corruption of correspondent in charge of the bribery, including p
 
 ---
 
-### Sri Lankan tea; Guinness record and Nobel Prize
+### இலங்கை தேயிலை ; கின்னஸ் சாதனையும் நோபல் பரிசும்
 
 *2025-10-05 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226940) · `ta`
 
-The government provides subsidies to enrich small tea plantation owners. The reason is that production is high there. But, these are not available for plantations. Members of Parliament who represent plantation workers do not open their mouths.
+அரசாங்கமானது சிறு தேயிலை தோட்ட உரிமையாளர்களை வளப்படுத்த மானியங்களை வழங்குகின்றது. காரணம் அங்கு உற்பத்தி அதிகமாகும்.  ஆனால், இவை பெருந்தோட்டங்களுக்கு கிடைப்பதில்லை. இது குறித்து பெருந்தோட்டத் தொழிலாளர்களைப் பிரதிநிதித்துவம் செய்யும் பாராளுமன்ற உறுப்பினர்கள் வாய் திறப்பதில்லை.
 
 ◼️
 
 [Data](articles/888361f1.json)
 
-[Extended Data](ext_articles/888361f1.ext.json)
-
 ---
 
-### Moldova: The most confused future?
+### மோல்டோவா : குழப்பம் மிகுந்த எதிர்காலம்?
 
 *2025-10-05 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226939) · `ta`
 
-Countries are fearing that the invasion could occur through Moldova, as many Western European countries such as Germany, France and Britain have been commenting that Russia is preparing to invade European countries.
+ஐரோப்பிய நாடுகள் மீது படையெடுக்க ரஷ்யா தயாராகி வருகிறது என பலம்பொருந்திய மேற்கு ஐரோப்பிய நாடுகளான ஜேர்மனி, பிரான்ஸ், பிரித்தானியா உள்ளிட்டவை தொடர்ச்சியாகக் கருத்து வெளியிட்டு வரும் நிலையில், குறித்த படையெடுப்பு மோல்டோவா ஊடாக நிகழலாம் என குறித்த நாடுகள் அச்சம் கொண்டுள்ளன.
 
 ◼️
 
 [Data](articles/a37e8487.json)
-
-[Extended Data](ext_articles/a37e8487.ext.json)
 
 ---
 
@@ -1377,17 +1335,15 @@ Sri Lanka's 100-meter running champions champions have also enabled the "Rapana 
 
 ---
 
-### The disappointment of America
+### அமெரிக்காவின் ஏமாற்றம்
 
 *2025-10-05 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226936) · `ta`
 
-At present, the expectation of US investors is to invest in the most obstacles in Sri Lanka. One of them is the Investment of the Defense Department. To what extent is the current government in the process of implementing plans or carrying out the already already introduced investment plans?
+தற்போதைய நிலையில் அமெரிக்க முதலீட்டாளர்களின் எதிர்பார்ப்பு இலங்கையில் அதிக தடைகள் விதிக்கப்பட்டுள்ள துறைகளில் முதலீடு செய்வதாகும். அவற்றில் பாதுகாப்புத் துறை முதலீடும் ஒன்றாகும். திட்டங்களை செயற்படுத்துவதை அல்லது ஏற்கனவே கொண்டு வரப்பட்ட முதலீட்டு திட்டங்களை முன்னெடுத்துச் செல்வதில், தற்போதைய அரசாங்கம் எந்தளவுக்கு உறுதியான நிலையில் இருக்கிறது?
 
 ◼️
 
 [Data](articles/955800b8.json)
-
-[Extended Data](ext_articles/955800b8.ext.json)
 
 ---
 
@@ -1547,29 +1503,25 @@ Actress Simran Katunayake Bandaranaike has arrived in the country through the In
 
 ---
 
-### Muslims who do not understand world order changes
+### உலக ஒழுங்கு மாற்றங்களை புரிந்து கொள்ளாத முஸ்லிம்கள்
 
 *2025-10-05 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226932) · `ta`
 
-In Gaza, a boy who has a little pebble in front of the armor in Gaza does not know why the Arab kings were left without a century.
+காஸாவில் கவச வாகனத்தின் முன்னால் சிறிய கூழாங்கல்லுடன் நெஞ்சை நிமிர்த்திக் கொண்டு நிற்கின்ற ஒரு சிறுவனுக்கு இருக்கின்ற தைரியத்தில் நூற்றில் ஒரு பங்கேனும் ஏன் அரபுலக மன்னர்களுக்கு இல்லாமல் போனது என்பதுதான் தெரியவில்லை.
 
 ◼️
 
 [Data](articles/6bc54b18.json)
 
-[Extended Data](ext_articles/6bc54b18.ext.json)
-
 ---
 
-### Prepare
+### பொதுவிடயங்களில் ஒன்றிணையத் தயார்
 
 *2025-10-05 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226928) · `ta`
 
 ◼️
 
 [Data](articles/2d0b2e48.json)
-
-[Extended Data](ext_articles/2d0b2e48.ext.json)
 
 ---
 
@@ -1591,17 +1543,15 @@ He was speaking at a function held at the Haputale Post Office in parallel to th
 
 ---
 
-### Mother waiting for her son for 35 years!
+### 35 வருடங்களாக மகனுக்காக காத்திருக்கும் தாய்!
 
 *2025-10-05 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226948) · `ta`
 
-At the age of 86, when he says these words to embrace the voice, Santhamani Gunaratnam, a retired teacher from Trincomalee, falls into a pool.
+தனது 86 வயதில், குரல் தழுதழுக்க இந்த வார்த்தைகளைச் சொல்லும்போது, திருகோணமலையைச் சேர்ந்த ஓய்வுபெற்ற ஆசிரியை சாந்தமணி குணரெட்ணம் அவர்களின் கண்கள் குளமாகிவிடுகின்றன.
 
 ◼️
 
 [Data](articles/e5d8b594.json)
-
-[Extended Data](ext_articles/e5d8b594.ext.json)
 
 ---
 
@@ -1781,8 +1731,6 @@ The second death happened half way across the world fourteen years after the ass
 
 [Data](articles/21b855d0.json)
 
-[Extended Data](ext_articles/21b855d0.ext.json)
-
 ---
 
 ### Trys to break up can be strengthened
@@ -1814,8 +1762,6 @@ The Northern Province, and particularly Jaffna, remains one of Sri Lanka’s mos
 ...
 
 [Data](articles/2c4360ff.json)
-
-[Extended Data](ext_articles/2c4360ff.ext.json)
 
 ---
 

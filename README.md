@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 21:20:28**
+As of **2025-10-05 21:05:58**
 
 ## Newspaper Stats
 
-*Scraped **81,359** Articles*
+*Scraped **81,345** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 609
+newsfirstlk | 603
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 colombotelegraphcom | 809
@@ -17,71 +17,21 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
-adalk | 7,795
+adalk | 7,789
 adaderanalk | 10,456
 tamilmirrorlk | 12,081
 virakesarilk | 13,359
-adaderanasinhalalk | 13,988
+adaderanasinhalalk | 13,986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,345 (100.0%) of 81,359 articles have been extended.
+81,345 (100.0%) of 81,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
-
-### කජ්ජාගේ පුතාගෙන් ප්‍රකාශයක් ගන්නා බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි
-
-*2025-10-05 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215379) · `si`
-
-රගර් ක්‍රීඩක වසීම් තාජුඩීන්ගේ මරණය සිදුවන අවස්ථාවේ අනුර විදානගමගේ හෙවත් කජ්ජා තාජුඩීන්ගේ රියට පිටුපස ගමන්ගත් සැකකටයුතු රියක සිටි බවට කජ්ජාගේ බිරිඳ පසුගියදා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ප්‍රකාශයක් කර තිබුණි.
-
-කෙසේවෙතත් ඉන් පසු කජ්ජාගේ 17 හැවිරිදි පුත්‍රයා මාධ්‍ය හමුවේ පෙනී සිටිමින් සිය මව කළ අනාවරණය ප්‍රතික්ෂේප කළ අතර අදාළ වීඩියෝව සිය පියාගේ පවුලේ ඥාතීන්ටද පෙන්වා ඒ ගැන පරීක්ෂාවක් නොකරන්නේ ඇයිදැයි පොලිසියෙන් විමසා සිටියේය.
-
-කෙසේවෙතත් රග්බි ක්‍රීඩක වසීම් තජුඩීන් ඝාතනය වීමට පෙර ඔහුගේ මෝටර් රථය පසුපස ගමන් ගන්නා ජීප් රථයේ අනුර විදානගමගේ හෙවත් කජ්ජා ගමන් කළ බවට මෙතෙක් සිදුකළ විමර්ශනවලට අනුව තහවුරුවී ඇති බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඊයේ සඳහන් කළේය.
-
-මෙවන් පසුබිමක අදාළ ආන්දෝලනාත්මක ප්‍රකාශය හේතුවෙන් ඉදිරියේදි කජ්ජාගේ පුත්‍රයාගෙන් ප්‍රකාශයක් ලබා ගැනීමට නියමිත බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පවසයි.
-
-...
-
-[Data](articles/c2e2e96e.json)
-
----
-
-### දෙරණට අවුරුදු 20ක්
-
-*2025-10-05 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215378) · `si`
-
-මෙරට රූපවාහිනී මාධ්‍යයට නවමු සංකල්ප අවැසිව සිටි යුගයක අපේ උරුමය රැගත් නවමු රූපවාහිනි නාලිකාවක් ලෙස දෙරණ සම්ප්‍රාප්තිය සිදු වූයේ 2005 වර්ෂයේ ඔක්තෝබර් 11 වැනිදායි.
-
-දෙරණ අද වන විට ප්‍රේකෂක විශ්වාසයේ කිරුළ දරමින් ටෙලිනාට්‍ය, විනෝදාත්මක වැඩසටහන්, ප්‍රවෘත්ති, කාලීන හා දේශපාලන වැඩසටහන් මෙන්ම මෙරට රියැලිටි ටෙලිවිෂන් කලාවද අතික්‍රමණය කර අවසන් ය.
-
-TV දෙරණ ආරම්භ කර ඉතා කෙටි කලක් තුළ ශ්‍රී ලාංකේය ළමා පරපුරේ කුසලතා ජාතික මට්ටමට ගෙනඒම සඳහා ' දෙරණ ලිට්ල් ස්ටාර්' හඳුන්වා දුන්නේය.
-
-ඒ එතෙක් මෙතෙක් මෙරට ටෙලිවිෂන් ඉතිහාසයේ අන්තර්ජාතික ප්‍රමිතියේ ප්‍රථම සහ එකම රියැලිටි තරගාවලිට බවට පත්කරමිනි.
-
-ශ්‍රී ලාංකේය ටෙලිවිෂන් ඉතිහාසයේ ප්‍රථම වරට රූ රැජින තරගයක් සජීවීව විකාශය කරමින් 2006 වසරේදී Miss srilanka for miss univers තරගාවලිය ගෙන ආ ටී.වී. දෙරණ ඉන් නොනැවතී 'දෙරණ ඩ්‍රීම් ස්ටාර්' ,Derana city of dance', Derana 60 plus', Derana film awards, Ada derana srilankan of the year , දෙරණ ඇය ප්‍රණාම ඇතුළු වැඩසටහන් මෙරට කලා ක්ෂේත්‍රයේ උන්නතිය වෙනුවෙන් රැසක්ම ගෙන ආවේය.
-
-...
-
-[Data](articles/89147a77.json)
-
----
-
-### Amber Alert Issued For Severe Lightning Across Several Provinces
-
-*2025-10-05 19:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/amber-alert-issued-for-severe-lightning-across-several-provinces) · `en`
-
-COLOMBO (News 1st); The Department of Meteorology has issued an amber advisory for severe lightning. Accordingly, Thundershowers accompanied with severe lightning are likely to occur in Northern, Northcentral, Eastern, Uva and North-western provinces and in Matale district.There may be temporary localized strong winds during thundershowers. General public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-◼️
-
-[Data](articles/40960b20.json)
-
----
 
 ### A scholar odd rivers of a woman's gold
 
@@ -108,36 +58,6 @@ However, at first, however, the woman has been reluctant, but the suspects have 
 [Data](articles/ab0670f6.json)
 
 [Extended Data](ext_articles/ab0670f6.ext.json)
-
----
-
-### රාජ්‍ය සේවක වැටුප් ගැටළුව විසඳන්න පූර්ණ බලැති වැටුප් කොමිසමක් ඉල්ලයි
-
-*2025-10-05 18:22:03* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-ගැටළුව-විසඳන්න-පූර්ණ-බලැති-වැටුප්-කොමිසමක්-ඉල්ලයි/11-418926) · `si`
-
-රාජ්‍ය සේවය තුල පවතින වැටුප් විෂමතා ඉවත් කර නිවරැදි වැටුප් තලයක් ස්ථාපිත කිරිම සඳහා වහාම පූර්ණ බලැති වැටුප් කොමිසමක් පත් කරන ලෙස සමස්ත ලංකා වෘත්තිය සමිති මධ්‍යස්ථානයේ සම කැඳවුම්කරු සුමිත් කොඩිකාර මහතා රජයෙන් ඉල්ලා සිටියි.
-
-අද 05 වනදා මහනුවරදී මාධ්‍ය වෙත අදහස් දක්වමින් සුමිත් කොඩිකාර මහතා මේ බව කීය.  මෙහිදී තව දුරටත් අදහස් දැක්වූ ඒ මහතා මෙසේද කීය
-
-"ජනාධිපතිතතුමා පසුගියදා ප්‍රකාශයක් කළා ශ්‍රී ලංකාවේ රාජ්‍ය සේවය  නටබුන්  වෙලා කියලා. නටබුන් වෙලා කියලා එතුමා උදාහරණයට ගන්නේ ප්‍රාදේශිය ලේකම්වරුන් ඇතුළු ශ්‍රී ලංකා පරිපාලන සේවයේ නිලධාරින්. නමුත් මේ රටේ ග්‍රාම නිලධාරින්  සමෘද්ධි සංවර්ධන නිලධාරින් කෘපනිස නිලධාරින් ආර්ථික සංවර්ධන නිලධාරින් ඇතුළු ගම් මට්ටමේ නිලධාරින් 54,000 ක්  විතර ඉන්නවා.
-
-මේ 54,000 ම ගම තුල රාජකාරි කරන්නේ ඉතාම අවම පහසුකම් තුල. කාර්යාල පහසුකම් නෑ. සනීපාරක්ෂක පහසුකම් නෑ. ඔවුන්ට ලිපි ද්‍රව්‍ය සඳහා ප්‍රමාණවත් මුදලක් ලැබෙන්නේ නෑ. ප්‍රමාණවත් ගමන් පහසුකම් ලැබෙන්නේ නෑ.කාර්යාලයක් සඳහා ලැබෙන්නේ රුපියල් 2,000 ක් 3,000 ක් වගේ මුදලක් .
-
-...
-
-[Data](articles/a4cbc4cf.json)
-
----
-
-### Man Arrested In Kataragama With Locally-Made Firearm
-
-*2025-10-05 18:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/man-arrested-in-kataragama-with-locally-made-firearm) · `en`
-
-COLOMBO (News 1st); A man has been arrested in Kataragama for the possession of a locally-made firearm compatiable with T56 ammunition. This was based on information received by the Walana Central Anti-Corruption Strike Unit.The 45-year-old suspect is a resident of the ValliMathagama Kataragama.Police said that the suspect is also involved in drug trafficking.Investigations are underway to determine whether the seized firearm was used for criminal activities.
-
-◼️
-
-[Data](articles/27e37f3f.json)
 
 ---
 
@@ -200,18 +120,6 @@ Several suspects have been arrested in connection with the incident and are curr
 [Data](articles/ae30b2f6.json)
 
 [Extended Data](ext_articles/ae30b2f6.ext.json)
-
----
-
-### Mephedrone Drug Seized From Moldovan National In Weligama Confirmed By Government Analysts
-
-*2025-10-05 17:08:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/mephedrone-drug-seized-from-moldovan-national-in-weligama-confirmed-by-government-analysts) · `en`
-
-COLOMBO (News 1st); The Government analysts has confirmed that the substances seized from a Moldovan national in Weligama is the dangerous drug Mephedrone. The Government Analyst's Department stated that the relevant report has been handed over to the police.Meanwhile, the National Dangerous Drugs Control Board had also confirmed yesterday that the seized substances were Mephedrone.
-
-◼️
-
-[Data](articles/87b5c46e.json)
 
 ---
 
@@ -298,18 +206,6 @@ Later, the victims of the wasps ran away, and the wasps chased them and attacked
 [Data](articles/752da029.json)
 
 [Extended Data](ext_articles/752da029.ext.json)
-
----
-
-### Nine People Hospitalized From Wasp Attack In Madolsima Mini Worlds End
-
-*2025-10-05 16:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/nine-people-hospitalized-from-wasp-attack-in-madolsima-mini-worlds-end) · `en`
-
-COLOMBO (News 1st); Nine people were hospitalized following a wasps attack in Madolsima Mini Worlds End. Police said that the group had come from Gampaha on a trip when the incident occurred.The group had been spending the night in tents. Authorities confirmed that the injured have been admitted to the Lunugala Hospital.
-
-◼️
-
-[Data](articles/efb70ea1.json)
 
 ---
 
@@ -429,20 +325,6 @@ Meanwhile, 224 persons were killed and 158 others were injured in the floods and
 
 ---
 
-### නේපාලයේ  නායයාම් සහ ගංවතුර නිසා පුද්ගලයන් 47ක් මරුට
-
-*2025-10-05 16:00:13* · [`adalk`](https://www.ada.lk/breaking_news/නේපාලයේ--නායයාම්-සහ-ගංවතුර-නිසා-පුද්ගලයන්-47ක්-මරුට/11-418925) · `si`
-
-නේපාලයට බලපෑ අධික වර්ෂාව හේතුවෙන් ඇති වූ නාය යාම් සහ ගංවතුර තත්ත්වය හේතුවෙන් පුද්ගලයන් 47 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-තවත් පුද්ගලයන් 09 දෙනෙකු අතුරුදන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-◼️
-
-[Data](articles/61c54530.json)
-
----
-
 ### Did you meet the mountain drugs? - The test report next week
 
 *2025-10-05 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215370) · `si`
@@ -466,44 +348,6 @@ The test report of the substances found from Kandana area is issued and it will 
 [Data](articles/fed004dc.json)
 
 [Extended Data](ext_articles/fed004dc.ext.json)
-
----
-
-### 15-Year-old killed in Gampaha road accident
-
-*2025-10-05 15:24:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/15-year-old-killed-in-gampaha-road-accident) · `en`
-
-COLOMBO (News 1st); A 15-year-old boy has died in an accident at the Veediyawanta junction in Udugampola, Gampaha.It is reported that the boy was returning home after attending a private tuition class when he was hit by a lorry from behind.Meanwhile, another accident occurred along the Hatton-Maskeliya main road near Dikoya Base Hospital, where a cab overturned into a ditch.Authorities say the crash was caused by slippery roads due to heavy rainfall.
-
-◼️
-
-[Data](articles/22b31800.json)
-
----
-
-### Drug Raids Lead To Seven Arrests In South, Two Arrested In Polonnaruwa For Selling Ice
-
-*2025-10-05 15:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/drug-raids-lead-to-seven-arrests-in-south-two-arrested-in-polonnaruwa-for-selling-ice) · `en`
-
-COLOMBO (News 1st); Seven suspects have been arrested with Hash and ice narcotics in Baddegama, Habaraduwa, and Midigama areas.The arrests were made, during raids conducted by the Matara and Hambantota Divisional Crime Units based on a tip off received. Over 5 kilograms of Hash were found in suspect's possession. Meanwhile, two individuals involved in selling ice narcotics were arrested, in Katuwanwila area of,Welikanda, Polonnaruwa. Police seized several packets of ice drugs along with cash amounting to approximately Rs. 70,000 during arrest. The suspects are reportedly residents of the area.
-
-◼️
-
-[Data](articles/c24a3b43.json)
-
----
-
-### කාසියේ වාසිය පාකිස්තානයට
-
-*2025-10-05 14:56:34* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-පාකිස්තානයට/9-418924) · `si`
-
-2025 කාන්තා එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඉන්දීයාව සහ පාකිස්තාන කණ්ඩායම අතර තරගය තව සුළු මොහොතකින් ආරම්භ වීමට නියමිතව තිබේ.
-
-මෙම තරගයේ කාසියේ වාසිය දිනාගත් පාකිස්තාන නායිකා ෆාතිම සානා පළමුවෙන් පන්දු රැකීමට තීරණය කළාය.
-
-◼️
-
-[Data](articles/2590b6c8.json)
 
 ---
 
@@ -705,22 +549,6 @@ The police said that the victims of the wasp attack had come to the attack and t
 
 ---
 
-### නාමල් නාන්නේ ඇදගෙනලු
-
-*2025-10-05 14:21:30* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-නාන්නේ-ඇදගෙනලු/11-418923) · `si`
-
-"ඔය තාජුදීන්ගේ සිද්ධියට නාමල් රාජපක්ෂව අපි ගෑව්වේ නෑ,  ඔහුගේ කළබල වීම මත තමයි නාමල් රාජපක්ෂ මේකට ඈඳුනේ කියලා මට හිතෙන්නේ" යැයි ඉඩම් හා වාරීමාර්ග නියෝජ්‍යය අමාත්‍යය සුසිල් රණසිංහ මහතා පැවසීය.
-
-ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ, අනුරාධපුර තලාව ප්‍රදේශයේ පැවති උත්සවයකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින්ය.
-
-ලෝක ජනාවාස දිනයට සමගාමීව අනුරාධපුර දිස්ත්‍රික්කයේ විවෘත කිරීමට නියමිත නිවාස 140 න් තලාව ප්‍රදේශයේ නිවසක් නියෝජ්‍යය අමාත්‍යය සුසිල් රණසිංහ මහතාගේ සුරතින් අද (05) නිවාස හිමියන්ට භාර කෙරිණි.
-
-...
-
-[Data](articles/7dd3d88c.json)
-
----
-
 ### 07 days detention orders for Backwo Samina
 
 *2025-10-05 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215365) · `si`
@@ -774,22 +602,6 @@ He was speaking at a function held at the Haputale Post Office in parallel to th
 [Data](articles/972b1a7f.json)
 
 [Extended Data](ext_articles/972b1a7f.ext.json)
-
----
-
-### මහනුවර මහ නගර සභාවේ 38ක් දුරකතන දීමනා දෙකක් ලබාගෙන
-
-*2025-10-05 13:37:04* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-මහ-නගර-සභාවේ-38ක්-දුරකතන-දීමනා-දෙකක්-ලබාගෙන/11-418922) · `si`
-
-චක්‍රලේඛ ප්‍රකාරව  දුරකථන දිමනා දෙකක් ලබා ගැනිමට නොහැකි වුවද මහනුවර මහනගර සභාවේ නිලධාරින් 38 දෙනෙකු   දුරකථන දිමනා දෙකක් ලබාගෙන ඇති  බැවින් වැඩිපුර ගෙවා ඇති  දුරකථන දිමනා අයකළ යුතු බවට  විගණනය මගින් නිර්දේශකොට ඇත.
-
-නගර සභාවේ නිලධාරින් 38 දෙනෙකුට රාජකාරි නිවාස දුරකථනය, ජංගම දුරකථනය හා අන්තර්ජාල සම්බන්දතා සදහා  මාසික දිමනාවක් වැටපු සමග ගෙවා තිබුණි.එසේ ගෙවා තිබියදි  එම නිලධාරින් සදහා 2022 වර්ෂයේ සිට 2024 වර්ෂය දක්වා කාලයට අදාළව  රුපියල්  විසිලක්ෂ තිස්හතරදහස්,හාරසියහැටදෙකක (2,034,462)  දුරකථන බිල්පත්  මහ නගර සභා අරමුදලින් ගෙවා තිබුණි.
-
-නිලධාරින්ට නගර සභාවෙන් සපයා ඇති  ජංගම දුරකථන සම්බන්දතාවය  රාජකාරි දුරකථනය ලෙස සලකා  බිල්පත් පියවිම සුදුසු බව  නිර්දේශ ලබා දි ඇති බව මහනුවරමහ නගර සභාව විසින් විගණනයට සදහන් කොට ඇත. එමෙන්ම නිලධාරියගේ පුද්ගලික ජංගම දුරකථනය  රාජකාරි නිවාස දුරකථනය හා  අන්තර්ජාල සම්බන්දතාවය සදහා  වන දිමනාව  යොමුගත චක්‍ර ලේඛයේ සදහන් කරුණුවලට අනුකුලව  ගෙවිම් කළ බවට  මහනගර සභාව විසින් විගණනයට සදහන් කොට ඇත.
-
-...
-
-[Data](articles/c45bb24d.json)
 
 ---
 
@@ -934,22 +746,6 @@ D Silva said the group was confused by the proposal of the Highway Ministry to c
 [Data](articles/b1a1d392.json)
 
 [Extended Data](ext_articles/b1a1d392.ext.json)
-
----
-
-### බිඳ දැමීමට කරන උත්සහයන් තුළින් තව තවත් බැඳීම් ශක්තිමත් විය හැක
-
-*2025-10-05 13:12:47* · [`adalk`](https://www.ada.lk/breaking_news/බිඳ-දැමීමට-කරන-උත්සහයන්-තුළින්-තව-තවත්-බැඳීම්-ශක්තිමත්-විය-හැක/11-418920) · `si`
-
-බැඳීම් බිඳ දැමීමට කරන උත්සාහයන් තුළින් තවදුරටත් බැඳීම් ශක්තිමත් වන බව සඳහන් කරමින් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා සිය සමාජ මාධ්‍ය තුළ සටහනක් තබමින් සඳහන් කර තිබේ.
-
-එම සටහනේ වැඩිදුරටත් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා මෙලෙස සඳහන් කර ඇත.
-
-“ජීවිතයෙන් බොහෝ කාලයක් ජනතාව අතර ගතකළ මට ජනතාවගේ ආදරය හුරුපුරුදුය. විශ්වාසය සහ අන්‍යෝන්‍ය ගෞරවය යන කරුණු මත පදනම් වූ ජනතා ආදරය ලාභ අරමුණු වලින් තොර වූවකි. එමනිසා, එහි වටිනාකම අන් කිසිදාටත් වඩා වැඩිය. මෙය දේශපාලනික සම්බන්ධතාවයක් පමණක් නොවූ හෘදයාංගම බැඳීමක් නිසාම බිඳ හෙලීමට ද අපහසු බව කිව යුතුමය. බිඳ දැමීමට කරන උත්සහයන් තුළින් තව තවත් බැඳීම් ශක්තිමත් විය හැක. ජන නායකයෙකු ලෙස ලැබිය හැකි උපරිම සතුට, ජනතාව සමඟ ගෙවන මෙම කාලය පුරාවටම මම අත්විඳිමි. සැමට ගෞරවනීය ස්තුතිය පුද කරමි.”
-
-◼️
-
-[Data](articles/818ec5b0.json)
 
 ---
 
@@ -1994,5 +1790,287 @@ Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. Acco
 [Data](articles/0359f821.json)
 
 [Extended Data](ext_articles/0359f821.ext.json)
+
+---
+
+### India lifted the team leader
+
+*2025-10-05 10:36:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/அணித்-தலைவரை-தூக்கியது-இந்தியா/44-365744) · `ta`
+
+Shub Man Kill Cape Tulk Dullard as the team that will be playing in the one -day Grig Gate Series against Az Therai Ya.. Rohit Sharma's release from the post of Cape Ton has been released in the team.
+
+The team is in the West Test series. With the end of the series, the team will be the result of the Sir Veda T20 series with 5 bottles, with 3 bottles of 3 bottles against the team.. The series begins on the 19th of this month. The team was selected by the Crigg Get Cuttup song (BCCI) yesterday.
+
+Rohit Sir Ma, who has been acting as the team of the team till date, is released from office.. Shub Man Kill La and Shrei Yas Iyer as the new Cape Till. Rohit Sharma and Virat Kohli were in the squad at the same time.
+
+Similarly, the team for the T20 bottles will be selected as Sur Yaku Mar Yadav as Cape and Shub Man Kill.
+
+...
+
+[Data](articles/b467ddca.json)
+
+[Extended Data](ext_articles/b467ddca.ext.json)
+
+---
+
+### Government potatoes Rs. 210
+
+*2025-10-05 10:35:57* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-අර්තාපල්--කිලෝවට-රජයෙන්-රු--210-ක්/11-418917) · `si`
+
+Plantation Industries Samantha Vidyaratne said the government will purchase two million kilos to prevent the hurricane of the Kandyan potato farmers.
+
+Minister Samantha Vidyaratne said the peasant dealer had taken away with the experiencing Minister Wasantha Samarasinghe.
+
+The Government has decided to buy 210 rupees per kilogram of Rs.
+
+◼️
+
+[Data](articles/e60f54db.json)
+
+[Extended Data](ext_articles/e60f54db.ext.json)
+
+---
+
+### Fuel station in Neduntivu
+
+*2025-10-05 10:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தீவில்-எரிபொருள்-நிலையம்/175-365743) · `ta`
+
+வரலாற்றில் முதல் முறையாக நெடுந்தீவில் எரிபொருள் நிரப்பு நிலையத்தை அமைப்பதற்காக இலங்கை பெட்ரோலியக் கூட்டுத்தாபனத்துடன் ஒப்பந்தம் எட்டப்பட்டதாக நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சரும் சபைத் தலைவருமான பிமல் ரத்நாயக்க தெரிவித்தார்.
+
+Addressing a function in Jaffna, the Minister said the project would be implemented with the cooperation of the Sri Lankan Navy and that the residents of Long Island would allow the residents to buy fuel at the same price in Colombo.. He noted that it would take almost seven hours to carry fuel to the generator in Nedundi.
+
+◼️
+
+[Data](articles/3d997d91.json)
+
+[Extended Data](ext_articles/3d997d91.ext.json)
+
+---
+
+### 731 new assistants to the mail
+
+*2025-10-05 10:26:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපලට-අලතන-සහයකයන-731ක/1-680748) · `si`
+
+The Ministry of Health and Mass Meditime states that 731 persons were selected for the post of postal assistant in Grade III of the Department of Mass Department of the Sri Lanka Postal Department.
+
+After the year 2021, the Sri Lanka Postal Assembly has not been recruited to the Sri Lanka Postal Department and by the end of the previous year.. The Ministry of Health and Mass Media, Dr. Nalinda Jayatissa, the Minister of Health and Mass Media Dr. Nalinda Jayatissa has been given the approval of the Ministry of Health and Mass Media Dr. Nalinda Jayatissa to carry out the activities of the department with such a number of vacancies.
+
+Accordingly, out of which 731 persons were selected to recruit the proper qualifications as registered as substitute employees of the Department of Posts.. Another 269 post-directives are being recruited in the future.
+
+Awarding permanent appointment letters to the selected group will be held tomorrow (6th) at Temple Trees, Dr. Nalinda Jayatissa at Temple Trees.
+
+◼️
+
+[Data](articles/316dbcbb.json)
+
+[Extended Data](ext_articles/316dbcbb.ext.json)
+
+---
+
+### 731 new assistants to the mail
+
+*2025-10-05 10:26:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තපලට-අලතන-සහයකයන-731ක/101-680748) · `si`
+
+The Ministry of Health and Mass Meditime states that 731 persons were selected for the post of postal assistant in Grade III of the Department of Mass Department of the Sri Lanka Postal Department.
+
+After the year 2021, the Sri Lanka Postal Assembly has not been recruited to the Sri Lanka Postal Department and by the end of the previous year.. The Ministry of Health and Mass Media, Dr. Nalinda Jayatissa, the Minister of Health and Mass Media Dr. Nalinda Jayatissa has been given the approval of the Ministry of Health and Mass Media Dr. Nalinda Jayatissa to carry out the activities of the department with such a number of vacancies.
+
+Accordingly, out of which 731 persons were selected to recruit the proper qualifications as registered as substitute employees of the Department of Posts.. Another 269 post-directives are being recruited in the future.
+
+Awarding permanent appointment letters to the selected group will be held tomorrow (6th) at Temple Trees, Dr. Nalinda Jayatissa at Temple Trees.
+
+◼️
+
+[Data](articles/730dff7d.json)
+
+[Extended Data](ext_articles/730dff7d.ext.json)
+
+---
+
+### Married Couple Killed in Road Accident
+
+*2025-10-05 10:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/married-couple-killed-in-road-accident) · `en`
+
+COLOMBO (News 1st): A tragic road accident claimed the lives of a young married couple in Kananwila along the Horana–Maharagama road.According to police reports, the accident occurred when the motorcycle the couple was riding overturned and collided with a lorry. Both individuals sustained critical injuries and were rushed to the hospital, where they later succumbed to their injuries.The deceased have been identified as residents of Kiriwatthuduwa, aged 21 and 24.
+
+◼️
+
+[Data](articles/8a5b832f.json)
+
+[Extended Data](ext_articles/8a5b832f.ext.json)
+
+---
+
+### One person killed in accident
+
+*2025-10-05 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226913) · `ta`
+
+The buses collided with a motorcycle in the opposite direction after losing control of the motorcycle at the Hatton -Balangoda road, which belongs to the Pinnawala Police Division.
+
+A motorcycle driver and a woman who was traveling with her were injured and admitted to the Balangoda hospital.. The woman has died without treatment.
+
+The body has been placed in the funeral room of the Balangoda Hospital and Pinnawala police are conducting further investigations.
+
+◼️
+
+[Data](articles/f2b8c75a.json)
+
+[Extended Data](ext_articles/f2b8c75a.ext.json)
+
+---
+
+### Lorry accident called for killing three
+
+*2025-10-05 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215357) · `si`
+
+Three persons were killed in an accident near Narammala town on Narammala - Kurunegala road.
+
+The accident had occurred in Katunayake to Akkaraipattu bus and the SLTB bus collided with the lorry road from Kurunegala to Narammala.
+
+The driver of the lormala and two children were injured in the lorry, two women and two children were injured and two children were injured and two children were killed.
+
+The victims were identified as 41, 80 and 82 years of resident of Polonnaruwa.
+
+A 40-year-old woman, aged 16, and two-year-old girl is still receiving treatment at the Kurunegala Hospital.
+
+The bodies are placed in the prestigulosives of Narammala and Kurunegala hospitals.
+
+The driver of the bus was arrested and Narammala police are conducting further investigations.
+
+◼️
+
+[Data](articles/9ef782ec.json)
+
+[Extended Data](ext_articles/9ef782ec.ext.json)
+
+---
+
+### Three dead, 3 injured in lorry-bus collision at Narammala
+
+*2025-10-05 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113227/three-dead-3-injured-in-lorry-bus-collision-at-narammala) · `en`
+
+At least three individuals have died and three others have sustained injuries following a collision involving a lorry and a bus near Narammala town on the Narammala-Kurunegala main road, police stated.
+
+According to police, the accident occurred earlier this morning (05).
+
+The driver of the lorry, who was travelling from Kurunegala towards Narammala, had lost control of the vehicle causing it to veer off the right side of the road, colliding with a Sri Lanka Transport Board (SLTB) bus travelling from Katunayake to Akkaraipattu.
+
+The lorry driver, another male, two women, and two children who were traveling in the lorry, sustained injuries and were admitted to Narammala and Kurunegala hospitals.
+
+The driver, the male passenger, and one woman later succumbed to their injuries.
+
+The deceased, aged 41, 80, and 82, were residents of Polonnaruwa, police said.
+
+A 40-year-old woman and two girls, aged 16 and 9, who were traveling in the same lorry, are still receiving treatment at Kurunegala Hospital.
+
+...
+
+[Data](articles/be4cd4bf.json)
+
+[Extended Data](ext_articles/be4cd4bf.ext.json)
+
+---
+
+### The Land Commission removes the boss
+
+*2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉඩම-කමසම-ලකක-ඉවත-කරය/101-680747) · `si`
+
+Mr. Padmasiri Liyanage has been removed from the post of Director General of Land Reforms Commission.
+
+According to sources, the government has taken this step after the government has taken over information on the Commonwealth Parliamentary Select Committee on several irregularities of the Land Reform Commission.
+
+According to Mrs. Diywnka Jayasuriya, the acting Director General of the Commission was appointed as the Acting Director General.
+
+◼️
+
+[Data](articles/6c4f096a.json)
+
+[Extended Data](ext_articles/6c4f096a.ext.json)
+
+---
+
+### The Land Commission removes the boss
+
+*2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඉඩම-කමසම-ලකක-ඉවත-කරය/1-680747) · `si`
+
+Mr. Padmasiri Liyanage has been removed from the post of Director General of Land Reforms Commission.
+
+According to sources, the government has taken this step after the government has taken over information on the Commonwealth Parliamentary Select Committee on several irregularities of the Land Reform Commission.
+
+According to Mrs. Diywnka Jayasuriya, the acting Director General of the Commission was appointed as the Acting Director General.
+
+◼️
+
+[Data](articles/af5f730e.json)
+
+[Extended Data](ext_articles/af5f730e.ext.json)
+
+---
+
+### Suspect Information Information: R-56
+
+*2025-10-05 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226912) · `ta`
+
+Under the detention order, the T-56 ammunition was found from the suspect who was detained and interrogated at the Nagoda Police Station.
+
+On the first day of October, the person was arrested by the Nagoda Police Station officials with a revolver rifle manufactured in the country and 02 grams of 700 milligrams of heroin.
+
+On October 2, the Baddegama Magistrate's Court was produced before the court and ordered to be interrogated for seven days under the detention order.
+
+Accordingly, during his investigation, 4 and empty ammunition envelopes were found by the suspect in the Dunganda area.
+
+Investigations have revealed that the suspect is a 32 -year -old from Yatalamaththa.
+
+He has been detained at the Nagoda Police Station on a detention order and further investigations are underway.
+
+◼️
+
+[Data](articles/b83b7f52.json)
+
+[Extended Data](ext_articles/b83b7f52.ext.json)
+
+---
+
+### Suspect arrested for firing and murder
+
+*2025-10-05 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226911) · `ta`
+
+A suspect has been arrested by the Criminal Investigation Department of the Colombo Northern Division with an ice drug on the Abeysingarama Road, Maradana Police Division.
+
+22 grams of 200 milligrams of ice was seized from him and the suspect was arrested and handed over to the Maradana police station.
+
+He was arrested on Saturday (04) following information received by officials of the Colombo Northern Division Criminal Investigation Department.
+
+Investigations conducted by him revealed that on September 6 last year, it was revealed that he was a gunman in the Panjikawatte area of ​​the Maradana police division.
+
+In addition, three suspects, including a motorcycle driver, were arrested and produced in court after being produced in court.
+
+The Criminal Investigation Department of the Colombo Northern Division is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/4f2b7635.json)
+
+[Extended Data](ext_articles/4f2b7635.ext.json)
+
+---
+
+### Mannar - Adampan Puliyankulam area is missing; Family demanding public assistance to find
+
+*2025-10-05 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226918) · `ta`
+
+Sankar Arun (age 24) from Adampan Puliyankulam, who belongs to the Mannar -Manthai West Divisional Secretariat Division, has gone missing from September 30 to his father.
+
+It is reported that the young man has not returned home on the 30th of this month.
+
+His father has lodged a complaint at the Adampan police station when the son did not return home.
+
+Those who are aware of the young man have requested the family to contact 076- 712 1294 and 077- 063 1135.
+
+◼️
+
+[Data](articles/e6da87b0.json)
+
+[Extended Data](ext_articles/e6da87b0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 17:05:50**
+As of **2025-10-05 16:52:35**
 
 ## Newspaper Stats
 
-*Scraped **81,338** Articles*
+*Scraped **81,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,176 +12,26 @@ newsfirstlk | 603
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 colombotelegraphcom | 809
-lankadeepalk | 824
+lankadeepalk | 814
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,789
-adaderanalk | 10,455
-tamilmirrorlk | 12,079
+adaderanalk | 10,454
+tamilmirrorlk | 12,076
 virakesarilk | 13,359
-adaderanasinhalalk | 13,982
+adaderanasinhalalk | 13,978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,320 (100.0%) of 81,338 articles have been extended.
+81,319 (100.0%) of 81,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
-
-### இறுதி ஊர்வலத்தில் ரோபோ சங்கர் மனைவி நடனம்: மகள் இந்திரஜா விவரிப்பு
-
-*2025-10-05 16:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இறுதி-ஊர்வலத்தில்-ரோபோ-சங்கர்-மனைவி-நடனம்-மகள்-இந்திரஜா-விவரிப்பு/54-365772) · `ta`
-
-ரோபோ சங்கரின் இறுதி ஊர்வலத்தில் அவரது மனைவி நடனமாடியது தொடர்பாக அவர்களது மகள் இந்திரஜா விளக்கம் கொடுத்துள்ளார்.
-
-முன்னணி நடிகரான ரோபோ சங்கர் கடந்த மாதம் காலமானார். அவரது இறுதி ஊர்வலத்தில் மனைவி பிரியங்கா நடனமாடி வழியனுப்பி வைத்தார். இந்த வீடியோ பதிவு இணையத்தில் வெளியாகி, பேசுபொருளானது.
-
-இது தொடர்பாக ரோபோ சங்கர் குடும்பத்தினர் தரப்பில் இருந்து எந்தவொரு விளக்கமும் கொடுக்கப்படவில்லை. இதனிடையே, ரோபோ சங்கர் மறைந்து 16-வது நாள் நிகழ்ச்சி நடைபெற்றது. அதில் அவருடைய உருவப்படத்தினை திறந்து வைத்து பத்திரிகையாளர்களை சந்தித்தனர் ரோபோ சங்கர் குடும்பத்தினர்.
-
-அப்போது ரோபோ சங்கரின் மகள் இந்திரஜா, “அப்பா சாமியிடம் சென்றபோது வழியனுப்ப உறுதுணையாக இருந்த காவல்துறையினர், பத்திரிகையாளர்கள் அனைவருக்கும் நன்றி. அனைவருடைய கைதட்டல்களில் தான் அப்பா உருவானார். எங்கெல்லாம் கைதட்டல்கள் இப்போது இருக்கிறதோ, அங்கெல்லாம் அப்பா இருப்பார். அப்பா விட்டுவிட்டுச் சென்ற பொறுப்புகள் நிறைய இருக்கிறது. கண்டிப்பாக அதனை முடிப்போம்” என்று பேசினார்.
-
-...
-
-[Data](articles/a1cb8b5f.json)
-
----
-
-### சின்ன உலக முடிவில் குளவிகள் விரட்டி, ​விரட்டி கொட்டியுள்ளது
-
-*2025-10-05 16:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சின்ன-உலக-முடிவில்-குளவிகள்-விரட்டி-விரட்டி-கொட்டியுள்ளது/76-365771) · `ta`
-
-மடுல்சீமையில் சின்ன உலக முடிவை பார்க்க, மல்வானை பகுதியிலிருந்து வந்த சுற்றுலாப் பயணிகள் குழு மீது குளவி கொட்டியதில் ஒன்பது பேர் காயமடைந்து லுணுகலை மருத்துவமனையில் அனுமதிக்கப்பட்டதாக மடுல்சீமை ​பொலிஸார் தெரிவித்துள்ளனர்.
-
-மல்வானை பகுதியைச் சேர்ந்த பத்து இளைஞர்கள் குழு, சின்ன உலக முடிவை பார்க்க வந்து  அங்கு கூடாரம் அமைத்து சனிக்கிழமை (04) இரவைக் கழித்திருந்தனர். அவர்கள் உலகின் சின்ன உலக முடிவை, ஞாயிற்றுக்கிழமை (05) பார்க்கச் சென்றபோது, ​​அங்கிருந்த குளவிக்கூடு திடீரென களைந்து அவர்களை கொட்டத் தொடங்கியது என்று பொலிஸார் தெரிவித்துள்ளனர்.   .
-
-பின்னர், குளவி தாக்குதலுக்கு ஆளானவர்கள் ஓடிவிட்டனர், குளவிகள் அவர்களை விரட்டிச் சென்று தாக்கியதாக பொலிஸார் தெரிவித்துள்ளனர்.   மடுல்சீமை பொலிஸார் அதிகாரிகளுடன் சேர்ந்து, அப்பகுதி மக்கள் பின்னர் குளவிகளை விரட்ட புகையை போட்டுள்ளனர். குளவிகளை அவ்விடத்தில் இருந்து பறந்து​ சென்றதன் பின்னர் காயமடைந்தவர்களை லுணுகலை மருத்துவமனையில் அனுமதித்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/752da029.json)
-
----
-
-### දකුණු පළාතට මත්ද්‍රව්‍ය බෙදූ 07ක් අත්අඩංගුවට
-
-*2025-10-05 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215373) · `si`
-
-දකුණු පළාතේ ප්‍රදේශ රැසකට හෑෂ් මත්ද්‍රව්‍ය බෙදාහැරී සැකකරුවන් 07 දෙනෙකු මාතර හා හම්බන්තොට දිසා අපරාධ කොට්ඨාසය විසින් අද (5) අත්අඩංගුවට ගනු ලැබීය.
-
-හබරාදූව හා බද්දේගම ප්‍රදේශවල සිදුකළ වැටලීමකදී ඔවුන් අත්අඩංගුවට ගැනීමට හැකිව ඇත.
-
-මෙහිදී සැකකරුවන් සන්තකයේ තිබී හෑෂ් මත්ද්‍රව්‍ය කිලෝ 5යි ග්‍රෑම් 600ක් පොලිස් භාරයට ගෙන ඇති අතර, එම තොගයේ වටිනාකම රුපියල් කෝටි 4ක් පමණ වේ.
-
-ධීවර රැකියාවේ නිරතවන මුවාවෙන් ඔවුන් මෙම මත්ද්‍රව්‍ය ජාවාරමේ නිරතව සිට ඇත.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ සංවිධානාත්මක අපරාධකරුවෙකු මෙන්ම මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන මිදිගම රුවන්ගේ ගෝලයෙකු වන මිදිගම රනා ඇතුළු හත් දෙනෙක්ය.
-
-◼️
-
-[Data](articles/e5eadc82.json)
-
----
-
-### 7 including accomplice of ‘Midigama Ruwan’ arrested with 5.6kg Hash
-
-*2025-10-05 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113235/7-including-accomplice-of-midigama-ruwan-arrested-with-56kg-hash) · `en`
-
-Sri Lanka Police said that seven suspects, including an accomplice of organized criminal ‘Midigama Ruwan’, have been arrested with 5.6 kilograms of Hashish.
-
-The suspects have been arrested following raids conducted in the Habaraduwa and Baddegama areas, police said.
-
-The estimated street value of the seized narcotics is around Rs. 40 million.
-
-◼️
-
-[Data](articles/94e1fafe.json)
-
----
-
-### ඇල්පිටියේ නිවසකට එල්ල වූයේ වෙඩි ප්‍රහාරයක් නොවන බව පොලීසිය කියයි
-
-*2025-10-05 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215372) · `si`
-
-ඇල්පිටිය, ඕමත්ත ප්‍රදේශයේ ඊයේ රාත්‍රීයේ නිවසකට එල්ලවී ඇත්තේ වෙඩි ප්‍රහාරයක් නොවන බව පොලීසිය පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාශය සදහන් කළේ අදාළ නිවසේ සිදුකළ විමර්ශනවලදී මේ බව අනාවරණය වී ඇති බවය.
-
-වෙඩි තැබීමක් හේතුවෙන් නිවසක ඉදිරිපස ඇති ජනේලයක වීදුරු බිදී ගොස් නිවස තුළ තිබූ උපකරණ කිහිපයකට ද හානි සිදුව ඇති බවට ඇල්පිටිය පොලිසියට පැමිණිල්ලක් ලැබී තිබුණි.
-
-ඒ අනුව ඇල්පිටිය පොලිසිය සහ අපරාධ ස්ථාන පරීක්ෂණ නිලධාරීන් විසින් අදාළ ස්ථානයේ විමර්ශන කටයුතු සිදු කළ බව පොලිසිය පවසයි.
-
-සිද්ධිය සම්බන්ධයෙන් ඇල්පිටිය අපරාධ ස්ථාන පරීක්ෂණ නිලධාරීන් විසින් සිදුකරන ලද විමර්ශනවලදී අනාවරණය වී ඇත්තේ මෙය වෙඩි තැබීමක් හේතුවෙන් සිදු වූ හානිකිරීමක් නොවන බවය.
-
-බටයක් වැනි යමකට වෙඩි බෙහෙත් සහ ගල්කැට යොදා ‘ඩප්පියක්‘ සකස් කර එය දමා ගැසීමෙන් පසු පුපුරා යාමෙන් සිදුවු හානියක් බවට විමර්ශනවලදී අනාවරණය වී ඇත.
-
-සිද්ධිය සම්බන්ධයෙන් තවදුරටත් විමර්ශන සිදුකරමින් පවතින අතර අදාළ ස්ථානයෙන් හමුවු කොටස් රජයේ රස පරීක්ෂකවරයා වෙත යොමු කර වැඩිදුර විමර්ශන සිදුකිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/bb25549b.json)
-
----
-
-### අඩු ආදායම්ලාභී  නිවාස 1000ක් ජනතා අයිතියට
-
-*2025-10-05 16:12:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අඩ-ආදයමලභ-නවස-1000ක-ජනත-අයතයට/1-680761) · `si`
-
-ලෝක ජනාවාස දින ජාතික සැමරුම් උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන්  අරලියගහ මන්දිරයේදී අද(5) පැවැත්විණි.
-
-එක්සත් ජාතීන්ගේ ලෝක ජනාවාස දිනයට සමගාමීව  “තමන්ගේම තැනක් - ලස්සන ජීවිතයක්” යන තේමාව යටතේ එම ජාතික සැමරුම පැවැත්වුණු අතර ඒ හා සමගාමීව ඔක්තෝබර් 01-05 දක්වා ජනාවාස සතියක්ද ප්‍රකාශයට පත්කරමින් විවිධ වැඩසටහන් ක්‍රියාත්මක කර තිබිණි.
-
-නිවසක් ඉදිකර ගැනීමට මූල්‍ය හැකියාවක් නොමැති දිළිඳු පවුල් 4000කට ආසන්න සංඛ්‍යාවක් සඳහා නිවාස ඉදිකර දීම වෙනුවෙන්, නිවාස සංවර්ධන අධිකාරිය විසින් ක්‍රියාත්මක කරනු ලැබ ඇති වැඩසටහන යටතේ දිවයින පුරා වැඩ නිම කළ නිවාස දහසක් ජනතා අයිතියට පවරා දීමද මෙහිදී විද්‍යුත් තාක්ෂණය ඔස්සේ ජනාධිපතිවරයා අතින් සිදු විය.
-
-UN Habitat ශ්‍රී ලංකා කාර්යාලයේ මැදිහත්වීමෙන් ඉන්දියානු රජයේ සහ Coalition for Disaster Resilient Infrastructure (CDRI) ආධාර මත ක්‍රියාත්මක කිරීමට යෝජිත අඹතලේ ජල සැපයුම් ව්‍යාපෘතියේ සංකේතීය ප්‍රදානය ජනාධිපතිවරයා වෙත නිල වශයෙන් භාර දීමද මෙහිදී සිදු කෙරිණි.
-
-...
-
-[Data](articles/62c466f5.json)
-
----
-
-### නේපාලයට බලපා ඇති අයහපත් කාලගුණයෙන් 11ක් මරුට
-
-*2025-10-05 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215371) · `si`
-
-නේපාලයේ කත්මන්ඩු නුවරට ඇඳ හැළෙන අධික වර්ෂාපතනයත් සමග සිදුවු ආපදාවලින් පුද්ගලයින් 11 දෙනෙකු මියගොස් තිබේ.
-
-අද අලුයම නේපාලයේ ඉලම් දිස්ත්‍රික්කයේ සිදු වූ නායයෑමකින් එකම පවුලේ පුද්ගලයින් 06 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-එමෙන්ම නේපාලයට බලපාන අධික වර්ෂාපතනය හේතුවෙන් එරට මහා මාර්ග රැසක් වසා දමා ඇති බව සඳහන් වේ.
-
-මේ අතර පසුගිය වසරේදී නේපාලයට බලපෑ ගංවතුර සහ නායයෑම් හේතුවෙන් පුද්ගලයින් 224 දෙනෙකු මියගොස් තවත් 158 දෙනෙකු තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් ක‍ර සිටී.
-
-◼️
-
-[Data](articles/c2445f94.json)
-
----
-
-### කඳානෙන් හමුවූයෙත් අයිස් මත්ද්‍රව්‍ය ද ?- පරීක්ෂණ වාර්තාව ලබන සතියේ
-
-*2025-10-05 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215370) · `si`
-
-කඳාන ප්‍රදේශයෙන් සොයා ගත් අයිස් මත්ද්‍රව්‍ය බවට සැකකෙරෙන රසායනික ද්‍රව්‍ය සම්බන්ධයෙන් සිදුකළ පරීක්ෂණ වාර්තාව ඉදිරි සතියේ නිකුත් කිරීමට බලාපොරොත්තු වන බව අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලය පවසයි.
-
-එහි ප්‍රකාශකයෙකු සඳහන් කළේ අදාළ ද්‍රව්‍ය සම්බන්ධයෙන් වන මූලික පරීක්ෂණ කටයුතු මේ වන විට අවසන් කර ඇති බවය.
-
-ඉන්දුනීසියාවේදී අත්අඩංගුවට ගත් අපරාධකල්ලි සාමාජිකයින්ගෙන් හෙළි වූ තොරතුරු මත පසුගියදා මිද්දෙණිය ප්‍රදේශයේ තිබී අයිස් මත්ද්‍රව්‍ය බවට සැකකෙරෙන රසායනික ද්‍රව්‍ය තොගයක් සොයා ගනු ලැබීය.
-
-අනතුරුව තංගල්ල නෙටොල්පිටිය සහ කඳාන යන ප්‍රදේශවලින්ද එවැනිම රසායනික ද්‍රව්‍ය තොගයක් පොලිසිය විසින් සොයා ගත් අතර ඒවා පරීක්ෂා කිරීම සදහා එහි සාම්පල අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලයට සහ රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුව වෙත භාරදී තිබේ.
-
-එම සාම්පලවලින් මේ වන විටත් මිද්දෙණිය සහ තංගල්ල නෙටොල්පිටිය ප්‍රදේශවලින් සොයා ගත් ද්‍රව්‍යවල පරීක්ෂණ වාර්තා අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලය විසින් නිකුත් කර ඇත.
-
-...
-
-[Data](articles/fed004dc.json)
-
----
 
 ### Indo-Pakistani Vihara to women cricket
 
@@ -322,40 +172,6 @@ The arrested person was admitted to the Kataragama hospital and later sent to th
 [Data](articles/60b17fa8.json)
 
 [Extended Data](ext_articles/60b17fa8.ext.json)
-
----
-
-### මී කඩන්න ගිය අයකු වෙඩි වැදී වැටිලා
-
-*2025-10-05 14:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/1-680760) · `si`
-
-යාල ජාතික වනෝද්‍යානයට මී කැඩීම සඳහා ඇතුළු වූ පුද්ගලයකු වෙඩි වැදී තුවාල සහිතව පැමිණ කතරගම කොච්චිපතාන ඝණ දේවාලය සීමාවෙි වැටී සිටියදී කතරගම පොලීසියට ලැබුණු දුරකථන ඇමතුමක් මත එම පුද්ගලයා හම්බන්තොට මහ රෝහලට යැවූ බව කතරගම පොලීසිය කියයි.
-
-මෙලෙස තුවාල ලබා ඇත්තේ කතරගම කඳසුරිඳුගම ප්‍රදේශයේ පදිංචි 56 හැවිරිදි අයෙකි.
-
-මෙම පුද්ගලයා මී කැඩීම සඳහා  යාල උද්‍යානයට ඇතුළුවූ බවත්, මස් බෑගයක් සමඟ පැමිණි දෙදෙනකු ගෙන් අයකු බෙහෙත් කොටන ගිනි අවියකින් වෙඩි තැබූ බවත්, එම ස්ථානයේ ඇදවැටී පැයකීපයකට පසුව සෙමින් සෙමින් මෙලෙස පැමිණි බවත් ඔහු පොලීසියට පවසා ඇත.
-
-පොලීසිය මගින් අත්අඩංගුවට ගත් මෙම පුද්ගලයා කතරගම රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රථිකාර සඳහා හම්බන්තොට මහ රෝහලට යවා ඇත.
-
-◼️
-
-[Data](articles/cf22b608.json)
-
----
-
-### බඹරු ඇන 9ක් රෝහලේ
-
-*2025-10-05 14:21:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බඹර-ඇන-9ක-රහල/1-680759) · `si`
-
-මඩොල්සිම පුංචි ලෝකාන්තය නැරඹීමට  බියගම  මල්වානේ ප්‍රදේශයේ සිට පැමිණි සංචාරක පිරිසකට අද (5) එල්ලවු බඹර ප්‍රහාරයකින් නවදෙනෙකු තුවාල ලබා ලුණුගල රෝහලට ඇතුලත් කළබව මඩොල්සිම පොලිසිය පවසයි .
-
-බියගම මල්වාන ප්‍රදේශයේ  දස දෙනෙකුගෙන් සමන්විත  තරුණයන් පිරිසක් මඩොල්සිම පුංචි ලෝකාන්තය නැරඹීමට ඊයේ (4) පැමිණ රාත්‍රි මඩොල්සිම පුංචි ලෝකාන්තය අසල කුඩාරම් ගසා රාත්‍රි ගතකර අද (5) උදෑසන පුංචි ලෝකාන්තය නැරඹීමට ගොස් සිටියදි මෙසේ එක්වරම ඒ අසල බැද තිබු බඹර කූඩුවක් ඇවිස්සී මොවුන්ට විදීමට පටන් ගෙන ඇතයි පොලිසිය කීය .
-
-පසුව බඹර ප්‍රහාරයට ගොදුරු වූවන් ඒ මේ අත දිවගොස් ඇති බවත් ඔවුන්ට බඹරුන් එළව එළවා ප්‍රහාර එල්ලකර ඇති බවත් පොලිසිය සදහන් කලේය . පසුව ඒ අවට උදවිය මඩොල්සිම පොලිස් නිළධාරින් එක්වී දුම්ගසා බඹරුන් පළවාහැර තුවාල ලැබූවන් ලුණුගල රෝහලට ඇතුලත් කල බවත් පොලිසිය පවසයි .
-
-◼️
-
-[Data](articles/4b69a90c.json)
 
 ---
 
@@ -537,22 +353,6 @@ Suhas, Mahima Nambiar, Achut Kumar, Ravinda Vijay, Sathyaraj and many others are
 
 ---
 
-### வட்டி சதவீத கட்டமைப்பு மாற்றம் குறித்து  ஹர்ஷ கேள்வி
-
-*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-சதவீத-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
-
-மத்திய அதிவேக நெடுஞ்சாலை திட்டத்தின் நிதியுதவியின் வட்டி சதவீத கட்டமைப்பை மாற்றுவதற்கான முன்மொழிவு குறித்து பொது நிதி குழுவின் (CoPF) தலைவர் கலாநிதி ஹர்ஷ டி சில்வா கவலை தெரிவித்துள்ளார். இது நாட்டின் கடன் வாங்கும் செலவுகளை அதிகரிக்கக்கூடும் என்று எச்சரித்துள்ளார்.
-
-Xஇல் பதிவிட்ட அவர், ஏற்கனவே தாமதமான மற்றும் வளர்ந்து வரும் வட்டி செலுத்துதல்களால் சுமையாக இருந்த LKR 226 பில்லியன் திட்டம், தொடர்ச்சியான நிதி மற்றும் ஒப்பந்த நிச்சயமற்ற தன்மைகள் காரணமாக மதிப்பாய்வு செய்யப்பட்டதாக கூறினார்.
-
-ஜனாதிபதி அனுர குமார திசாநாயக்கவின் கீழ் இந்த திட்டம் மிகுந்த ஆரவாரத்துடன் மீண்டும் தொடங்கப்பட்ட போதிலும், முக்கிய ஒப்பந்தக்காரரான MCC உடனான பேச்சுவார்த்தைகள், அவர்களின் உரிமைகோரல்கள் குறித்தும், திருத்தப்பட்ட 500 மில்லியன் அமெரிக்க டொலர் கடன் வசதி குறித்து சீன EXIM வங்கியுடனும் பேச்சுவார்த்தைகள் முழுமையடையாமல் இருப்பதாக அவர் குறிப்பிட்டார்.
-
-...
-
-[Data](articles/2cc9fc49.json)
-
----
-
 ### Harsha question on the change of interest rate configuration
 
 *2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-விகித-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
@@ -643,22 +443,6 @@ The suspect, along with the seized cigarettes, is scheduled to be produced befor
 
 ---
 
-### රිය අනතුරින් තිදෙනකු මරුට
-
-*2025-10-05 12:53:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රය-අනතරන-තදනක-මරට/1-680758) · `si`
-
-කොළඹ සිට අක්කරේපත්තුව දක්වා ධාවනය වූ ලංගම බස් රථයක් හා කුරුණෑගල සිට නාරම්මල දක්වා ධාවනය වූ බට්ටා වර්ගයේ ලොරි රථයක් මුහුණට මුහුණ ගැටී සිදු වු අනතුරින් ලොරි රථයේ ගමන් කළ රියදුරු හා තවත් පුද්ගලයින් දෙදනකු මියගොස්  ඇතැයි පොලීසිය කියයි.
-
-තුවාල ලැබූ තවත් තිදෙනකුද නාරම්මල හා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කර ඇති බව නාරම්වල පොලිසිය සඳහන් කළේය. මෙසේ මියගොස් ඇත්තේ  වයස අවුරුදු 41, 80 සහ 82 හැවිරිදි ලොරි රථයේ ගමන් කළ පොළොන්නරුව ප්‍රදේශයේ පදිංචි කරුවන් බව පොලිසිය කියයි.
-
-මිය ගොස් ඇත්තේ රියදුරු, ඔහුගේ නැන්දම්මා හා මාමණ්ඩිය බවත් තුවාල ලැබූ කාන්තාවක් සහ දරුවන් දෙදෙනෙකු කුරුණෑගල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන බවත් කියයි.
-
-◼️
-
-[Data](articles/608b1cc7.json)
-
----
-
 ### Three killed in accident
 
 *2025-10-05 12:53:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රය-අනතරන-තදනක-මරට/101-680758) · `si`
@@ -719,22 +503,6 @@ The people who engage in trading areas on the road have been transferred to the 
 
 ---
 
-### රංගගේ පුටුව එන සතියේ මැතිසබයට
-
-*2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රගග-පටව-එන-සතය-මතසබයට/1-680757) · `si`
-
-අල්ලස් හෝ  දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජෙනරාල්  රංග දිසානායක මහතාගේ පත්වීම සම්බන්ධයෙන් සමගි  ජන බලවේගය ලබන සතියේ පාර්ලිමේන්තුවේදී දීර්ඝව  ප්‍රශ්න කිරීමට  නියමිතය.
-
-ඔහු පත් කිරීමට අනුමැතිය දී ඇත්තේ විපක්ෂ නායක සජිත් ප්‍රේමදාස සහ කළුතර දිස්ත්‍රික් මන්ත්‍රී අජිත් පී  පෙරේරා යන මහත්වරුන්  නියෝජනය කරන ව්‍යවස්ථා සභාවෙන් යැයි  කර්මාන්ත අමාත්‍ය  සුනිල් හඳුන්නෙත්ති  මහතා පසුගියදා ප්‍රකාශ කර තිබිණ. මෙම ප්‍රකාශය සැලකිල්ලට ගෙන එම පත් කිරීම පිළිබඳව කරුණු දැක්වීමට සමගි  ජන බලවේගය බලාපොරොත්තු වන බව   ආරංචි මාර්ග සඳහන් කළේය.
-
-රංග දිසානායක මහතා ජනතා විමුක්ති පෙරමුණේ නීති අංශයේ කටයුතු කර ඇති බවට එහි හිටපු  නායකයකු වන නන්දන ගුණතිලක මහතා පසුගියදා ප්‍රකාශ කළේය. මෙම ප්‍රකාශය සම්බන්ධයෙන්ද සමාජයේ ආන්දෝලනයක් මතුව ඇත.
-
-◼️
-
-[Data](articles/b42240cb.json)
-
----
-
 ### Ranga's chair to the House in the coming week
 
 *2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රගග-පටව-එන-සතය-මතසබයට/101-680757) · `si`
@@ -750,22 +518,6 @@ Former leader Nandana Gunatilake recently stated that Mr. Ranga Dissanayake has 
 [Data](articles/3b1100a2.json)
 
 [Extended Data](ext_articles/3b1100a2.ext.json)
-
----
-
-### ඒකාබද්ධ විපක්ෂයෙන් ලොකු  ජන  රැලියක්  කොළඹට
-
-*2025-10-05 12:34:25* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඒකබදධ-වපකෂයන-ලක-ජන-රලයක-කළඹට/1-680756) · `si`
-
-ඒකාබද්ධ විපක්ෂය කොළඹදී   ළඟදීම ප්‍රධාන පෙළේ රැස්වීමක් පැවැත්වීමට එම පක්ෂවල නායකයන් තීරණය කර ඇත.
-
-මෙම තීරණය ගෙන ඇත්තේ ඉකුත් බ්‍රහස්පතින්දා කොළඹ හෝටලයකදී  පැවති නායක හමුවකදීය.
-
-එක්සත් ජාතික පක්ෂයේ සම්මේලනය සාර්ථක කර ගැනීමට සහය දුන් දේශපාලන නායකයන්  සහ  ප්‍රධාන පෙළේ  ක්‍රියාකාරීන්ට සංග්‍රහ   කිරීමට  මෙම හමුව සංවිධාන කර තිබිණ.
-
-◼️
-
-[Data](articles/5dfc0bc6.json)
 
 ---
 
@@ -971,26 +723,6 @@ When dealing with certain struggles, it has made false decisions and handling it
 
 ---
 
-### මනම්පේරි මගේ ලේකම් කෙනෙක් නෙමෙයි
-
-*2025-10-05 11:43:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනමපර-මග-ලකම-කනක-නමය/1-680755) · `si`
-
-සම්පත් මනම්පේරි තමන්ගේ සම්බන්ධීකරණ ලේකම්වරයෙක් නොවන බව හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතා අද (5) පැවැසීය.
-
-එවැනි බොරු ප්‍රකාශ කරමින් මඩ ප්‍රහාර  දෙන කණ්ඩායමට එරෙහිව ගත හැකි උපරිම නීතිමය ක්‍රියාමාර්ග ගැනීමට සුදානම් බවද  ජොන්ස්ටන් ප්‍රනාන්දු මහතා ප්‍රකාශ කළේය.
-
-ඔහු මේ මේ බව ප්‍රකාශ කළේ  ශ්‍රී ලංකා පොදු ජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂගේ ප්‍රධානත්වයෙන්  එම පෙරමුණේ කුරුණෑගල දිස්ත්‍රික් කොට්ඨාස සංවිධායකයින් සඳහා පත්වීම් ලිපි ලබා දීමේ උත්සව අවස්ථාවේ පාක්ෂිකයින් අමතමිනි.
-
-“දැන් කියනවා මගේ සම්බන්ධීකරණ ලේකම්වරයෙක් මනම්පේරි කියන පුද්ගලයා කියලා. මතක තියා ගන්න. මම සම්බන්ධීකරණ ලෙකම්වරු පත් කළේ මේ දිස්ත්‍රික්කයේ අය පමණයි"
-
-“මේ බලන්නේ කොහෙන් හරි පහර දෙන්න.  අපට තවම නීතිය පිලිබඳ දැඩි විශ්වාසයක් තියනවා.  ඒ නිසා නීති මගින් ගන්න පුලුවන් උපරිමයෙන් අපි හැම අවස්ථාවකදිම  කටයුතු කරනවා යනුවෙන් ද  ජොන්ස්ටන් ප්‍රනාන්දු මහතා  පැවසුවේය.
-
-◼️
-
-[Data](articles/3ba5b1f5.json)
-
----
-
 ### Manamperi is not my secretary
 
 *2025-10-05 11:43:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනමපර-මග-ලකම-කනක-නමය/101-680755) · `si`
@@ -1030,22 +762,6 @@ With such a substantial number of vacancies, the operations of the Department we
 [Data](articles/09ca16d6.json)
 
 [Extended Data](ext_articles/09ca16d6.ext.json)
-
----
-
-### විසුම්පායටත් ආයෝජකයකු සොයයි
-
-*2025-10-05 11:34:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වසමපයටත-ආයජකයක-සයය/1-680754) · `si`
-
-කොළඹ නගරයේ ප්‍රධාන පෙළේ  රජයේ ගොඩනැගිල්ලක් වන  විසුම්පාය සංචාරක ප්‍රවර්ධන ව්‍යාපෘතියක් වෙනුවෙන්  යොමු කිරීමට  රජය මේ දිනවල සුදුසු   ආයෝජකයකු සොයමින් සිටි.
-
-මේ සම්බන්ධයෙන් අප සමග අදහස් දැක්වූ නාගරික සංවර්ධන නිවාස සහ  ඉදිකිරීම් අමාත්‍ය ආචාර්ය අනුර කරුණාතිලක මහතා පැවසුවේ එම ගොඩනැගිල්ල  දැනට වසා දමා ඇති බවයි.
-
-දේශපාලනඥයෝ රැසක් පසුගිය කාලයේදී   මෙම සුවිසල් ගොඩනැගිල්ල තමන්ගේ නිල නිවාසය ලෙස යොදා ගත්හ. හිටපු අගමැතිනි සිරිමාවෝ බණ්ඩාරනායක, දි.මු. ජයරත්න, අනුරුද්ධ රත්වත්තේ, ලක්ෂ්මන් කදිරගාමර්, මංගල සමරවීර සහ  මහාචාර්ය ජී, එල්. පීරිස්  ආදීහු  එම පිරිස වෙති.
-
-◼️
-
-[Data](articles/7a25813e.json)
 
 ---
 
@@ -2004,5 +1720,345 @@ The family reports that the youth's death is unthinkable for the death of a cric
 [Data](articles/5f745cc5.json)
 
 [Extended Data](ext_articles/5f745cc5.ext.json)
+
+---
+
+### Two arrested with 405 kg of beedi leaves in Kalpitiya
+
+*2025-10-05 09:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கற்பிட்டியில்-405-கிலோ-கிராம்-பீடி-இலைகளுடன்-இருவர்-கைது/175-365733) · `ta`
+
+During a special search operation in the Kalpitiya Kuttawa Sea, the navy has arrested two suspects who have seized about 405 kilograms of beedi leaves and a tinky boat.
+
+The Navy is carrying out regular patrols and search operations, including the sea and beaches around the island to combat illegal activities, including trafficking through sea routes.
+
+Accordingly, the suspicious Tinky (01) was searched during the special search operation conducted by the Sri Lanka Navy Ship of the Northwestern Navy Command in the sea near Kalpitiya on Friday night.
+
+The suspects arrested by the Marines have been identified as from the Kalpitiya Estate and the school sector areas during the operation.. The suspects have said that the Tinky Boat and Beedi leaves have been handed over to the Puttalam Madhuvari Special Division for further legal action.
+
+◼️
+
+[Data](articles/9c2b2a00.json)
+
+[Extended Data](ext_articles/9c2b2a00.ext.json)
+
+---
+
+### Typhoon Matmo strengthens, prompting China to evacuate 150,000 people ahead of landfall
+
+*2025-10-05 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113225/typhoon-matmo-strengthens-prompting-china-to-evacuate-150000-people-ahead-of-landfall) · `en`
+
+Typhoon Matmo strengthened ahead of making landfall on Sunday (Oct 5) in China, prompting the government to evacuate 150,000 people from southern Guangdong province.
+
+The storm had maximum sustained wind speeds of 151 kmh on Sunday morning, according to China’s National Meteorological Center. It is expected to make landfall around midday. The weather authority issued a red level typhoon warning, the highest in its system.
+
+Hainan province, which is also in the pathway of the storm, cancelled flights and shut down public transport and businesses starting on Saturday in preparation for the storm.
+
+Guangdong province, whose southwestern parts will be hit, evacuated 151,000 people, according to official media The Paper. Macau, which is not in the storm’s direct path, said classes and tutoring sessions will not be held due to weather conditions.
+
+Authorities are also warning of heavy rain, with rainfall expected to hit 100 to 249 mm in some parts.
+
+...
+
+[Data](articles/7d120d7d.json)
+
+[Extended Data](ext_articles/7d120d7d.ext.json)
+
+---
+
+### Intensive to confiscate Vijay's propaganda vehicle
+
+*2025-10-05 09:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயின்-பிரச்சார-வாகனத்தை-பறிமுதல்-செய்ய-தீவிரம்/175-365732) · `ta`
+
+The Madras High Court has ordered the Special Investigation Committee to confiscate the campaign vehicle of the Tawaka leader Vijay, and the police have taken action.
+
+In Karur, 41 people were killed in a campaign meeting at Karur last September 27. Following this, lawyer Dinesh had filed a petition in the Madras High Court seeking a ban on the road show and road campaign of political parties.
+
+Judge N. Senthil Kumar, who was hearing the case, said in a order issued on the 3rd of this month that when 41 people were killed during a campaign meeting in Karur, the party's head and other executives were acting as if they had nothing to do with the incident.
+
+They have done no help to those who are trapped or their supporters. The families of the deceased did not express their compassion or comfort. The recklessness left and slipped from there was severely condemned.
+
+...
+
+[Data](articles/ef76efc1.json)
+
+[Extended Data](ext_articles/ef76efc1.ext.json)
+
+---
+
+### Shooting on the house
+
+*2025-10-05 09:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-துப்பாக்கிப்-பிரயோகம்/175-365731) · `ta`
+
+Elpitiya police said that an unidentified gunmen fired at a house in Ihala Omat, Elpitiya, Kanegoda, Elpitiya.
+
+The front window of the house was damaged in the shooting, but no one was injured, police said.
+
+The shooting was on the house of a former soldier who runs many businesses, police said.
+
+Police suspect that the shooting may have been carried out to threaten a former soldier who threatened the underworld in the village and threatened the underworld.
+
+Police say the former soldier, the owner of the house, was fired at the house and two motorbikes may have fired.
+
+Police say the exact cause of the shooting in the house has not yet been released.
+
+◼️
+
+[Data](articles/65e32bb0.json)
+
+[Extended Data](ext_articles/65e32bb0.ext.json)
+
+---
+
+### This evening rain this evening
+
+*2025-10-05 09:04:08* · [`adalk`](https://www.ada.lk/breaking_news/අද-හවස-වැස්ස/11-418916) · `si`
+
+The Department of Meteorology says that there is a positive atmospheric situation for thundershowers during the evening.
+
+Therefore, the Department informs the public to take necessary steps to reduce the dangers of heavy rain, strong winds and strong lightning.
+
+Showers or thundershowers will occur at several places in the country in many parts of the country.
+
+The Department also said that there will be showers in the Western, Sabaragamuwa and North Western provinces and in the Matara, Matara, Jaffna and Mannar districts.
+
+The Department of the Vavuniya and Mullaitivu Districts, the Vavuniya and Mullaitivu Districts, the Western, Sabaragamuwa, Central, North-central and Uva provinces can occur.
+
+◼️
+
+[Data](articles/f8532373.json)
+
+[Extended Data](ext_articles/f8532373.ext.json)
+
+---
+
+### Cryptocurrency: Central Bank Action Notification
+
+*2025-10-05 09:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/கிரிப்டோகரன்சி-மத்திய-வங்கி-அதிரடி-அறிவிப்பு/47-365730) · `ta`
+
+The Central Bank of Sri Lanka has proposed the government of Sri Lanka to appoint a high -level committee to make policy decisions on the scientific way to deal with the controversial cryptocurrency.
+
+The Central Bank of Sri Lanka has also sent a letter to the Ministry of Finance on this requirement. According to the finance ministry sources, the government has also agreed to this practice.
+
+In the assets submitted by government ministers, it has also been mentioned that they have invested in cryptocurrency, which has created a heated debate in the community in recent years.
+
+◼️
+
+[Data](articles/bdff8044.json)
+
+[Extended Data](ext_articles/bdff8044.ext.json)
+
+---
+
+### 158,971 tourists arrived in Sri Lanka in September
+
+*2025-10-05 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215355) · `si`
+
+Sri Lanka Tourism Development Superintendent of Sri Lanka said that the number of tourists arrived in Sri Lanka during September was 158,971.
+
+According to the latest data issued by the Sri Lanka Tourism Development Authority, 49,697 tourists arrived in India in September, 31.3%.
+
+Also, 10,527 people from the UK, 9,344 Germans, 5,144 French and 5,144 French have arrived in Sri Lanka in September.
+
+Accordingly, 1,725,494 tourists from January 1 to September 30, 2025, was 1,725,494.
+
+Sri Lanka Tourism Development Authority stated that 375,292 tourists from India and 161,893 were from India and 161,893 from India and 161,893 were from the United Kingdom.
+
+◼️
+
+[Data](articles/5edb5666.json)
+
+[Extended Data](ext_articles/5edb5666.ext.json)
+
+---
+
+### Shots a house in Alpitty
+
+*2025-10-05 08:26:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටියේ-නිවසකට-වෙඩි-ප්‍රහාරයක්/11-418915) · `si`
+
+Elpitiya Police said that the unidentified gunmen had fled to a house last night.
+
+The shooting was damaged to a nearby window and had not been shot dead.
+
+The shooting has been carried out by calling former military personnel running several businesses.
+
+The former soldiers were a character named the village of the village and was threatened with the underworld that he had been threatened with hearing and to intimidate him.
+
+The shooting had taken place at home yesterday (4), police said.
+
+Police say that the real cause of shooting the house was yet to be revealed yet. Elpitiya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/ce0bccb3.json)
+
+[Extended Data](ext_articles/ce0bccb3.ext.json)
+
+---
+
+### New battery and spinning coaches for Sri Lanka cricket team!
+
+*2025-10-05 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226910) · `ta`
+
+Sri Lanka Cricket (SLC) has announced that two prominent coaches have been appointed to the National Cricket Team.
+
+In that respect, Julian Wood has been appointed as the bowling coach and has been appointed as the spinning coach.
+
+Julian Wood, who has been appointed as a cricket coach, has been appointed for a period of one year with effect from October 1.
+
+Wood is the creator of the "Power Hitting Program". He is the best in enhancing playing techniques with modern training methods and biomechanics and increasing the playing power of the players.
+
+The appointment of Rene Ferdinands, who has been appointed as the spinning coach, comes into effect from September 30.
+
+Renay Ferdinands, who specializes in both wrist and finger spinning, has previously served as Biomechanics Consultant for New Zealand Cricket (NZC).
+
+It is noteworthy that he carried out Performance Evaluations and Injury-Risk Assessments for leading bowlers.
+
+◼️
+
+[Data](articles/4ea4e7cb.json)
+
+[Extended Data](ext_articles/4ea4e7cb.ext.json)
+
+---
+
+### Netanyahu says he hopes to announce hostage release in the ‘coming days’
+
+*2025-10-05 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113224/netanyahu-says-he-hopes-to-announce-hostage-release-in-the-coming-days) · `en`
+
+Israeli Prime Minister Benjamin Netanyahu has said he hopes to announce the release of hostages being held in Gaza “in the coming days”.
+
+In a televised statement, he also said “Hamas will be disarmed and Gaza will be demilitarised – either the easy way or the hard way, but it will be achieved.”
+
+The comments came after Hamas released a statement on Friday in which it agreed to free the hostages under a US peace plan, but did not mention disarmament and sought negotiations on other issues.
+
+Hamas said on Saturday that Israel was continuing to commit “massacres”, after strikes hit Gaza in the morning, and it urged global pressure on Israel.
+
+Indirect ceasefire talks between the parties are set to start in Egypt on Monday.
+
+US President Donald Trump said he would “not tolerate delay” from Hamas to complete a deal.
+
+In a post on his Truth Social platform, Trump said: “Hamas must move quickly, or else all bets will be off... Let’s get this done, FAST.”
+
+...
+
+[Data](articles/f26d9abd.json)
+
+[Extended Data](ext_articles/f26d9abd.ext.json)
+
+---
+
+### Mother of Moda's operation on the army of the Gaza
+
+*2025-10-05 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215354) · `si`
+
+Indian Prime Minister Narendra Modi has expressed his commendation on the attempt to extinguish peace and establish peace by US President Donald Trump.
+
+The Indian Prime Minister says that he has made a note of the account in the Gaza coincidence, as India provides the brutality of the US President.
+
+The Prime Minister of the Prime Minister further stated that India will continue to support all the efforts for the last and reasonable peace, and India will continue to support all those who are in reasonable and reasonable peace.
+
+◼️
+
+[Data](articles/1e634f39.json)
+
+[Extended Data](ext_articles/1e634f39.ext.json)
+
+---
+
+### Shooting Targets House in Omatta, Elpitiya
+
+*2025-10-05 08:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/shooting-targets-house-in-omatta-elpitiya) · `en`
+
+COLOMBO (News 1st);A house in Omatta, Elpitiya was targeted in a shooting last night.According to police, two men on a motorcycle opened fire through a window of the house before fleeing the scene.No injuries were reported.The police said that the motive for the shooting remains unknown
+
+◼️
+
+[Data](articles/36a485c6.json)
+
+[Extended Data](ext_articles/36a485c6.ext.json)
+
+---
+
+### Crypto Money: The Central Bank is a decision
+
+*2025-10-05 08:13:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කරපට-මදල-මහ-බකවන-තරණයක/1-680746) · `si`
+
+The Central Bank has proposed to the government to appoint a high level of committee to make policy decisions on the scientific management of the controversial crypto cash.
+
+The Central Bank of Sri Lanka has sent a letter to the Ministry of Finance. According to sources, the government has agreed to the party regarding this program.
+
+The financial conversation was created in the event of the recent incidents as stated that the assets statements presented by the government ministers have been investing in the money of the money.
+
+◼️
+
+[Data](articles/14f1ea53.json)
+
+[Extended Data](ext_articles/14f1ea53.ext.json)
+
+---
+
+### Crypto Money: The Central Bank is a decision
+
+*2025-10-05 08:13:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරපට-මදල-මහ-බකවන-තරණයක/101-680746) · `si`
+
+The Central Bank has proposed to the government to appoint a high level of committee to make policy decisions on the scientific management of the controversial crypto cash.
+
+The Central Bank of Sri Lanka has sent a letter to the Ministry of Finance. According to sources, the government has agreed to the party regarding this program.
+
+The financial conversation was created in the event of the recent incidents as stated that the assets statements presented by the government ministers have been investing in the money of the money.
+
+◼️
+
+[Data](articles/01d443c0.json)
+
+[Extended Data](ext_articles/01d443c0.ext.json)
+
+---
+
+### The random weather will continue for a few days
+
+*2025-10-05 08:04:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலை-சில-நாட்களுக்கு-தொடரும்/175-365728) · `ta`
+
+The Department of Meteorology has announced that the inclement weather in the country will continue for the next few days.
+
+Accordingly, in some parts of the country, heavy thunderstorms are expected to occur today.
+
+அதன்படி, இன்று மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, யாழ்ப்பாணம் மற்றும் மன்னார் ஆகிய மாவட்டங்களிலும் 75 மில்லி மீற்றர வரை மழைவீழ்ச்சி பதிவாகக்கூடும் தெரிவிக்கப்பட்டுள்ளது. (A)
+
+◼️
+
+[Data](articles/4f96c48e.json)
+
+[Extended Data](ext_articles/4f96c48e.ext.json)
+
+---
+
+### Fatal accidents - two killed in two youths
+
+*2025-10-05 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215353) · `si`
+
+Six persons including two men and women were killed in several areas in several areas.
+
+The accident occurred yesterday (04) at the police divisions, Horana, Pinnawala, Thirukkovil, Katuwana and Central Camp.
+
+The roof of the road was to collided with a lorry, collided with a lorry, which was unable to control the title of Horana - Maharagama road.
+
+The motorcyclist and the victim died after being admitted to the Horana hospital.
+
+The victim was a 24-year-old man and a 21 year old girl.
+
+Police said they were a couple, a resident of Kiriwattuduwa.
+
+Meanwhile, a motorcycle who had been collided with a motorcycle to control the motorcyclist in the Hatton-Balangoda road.
+
+The victim died on the rushed to the Balangoda hospital and was admitted to the Balangoda hospital.
+
+The deceased has been identified as a 23 year old resident of Aranayaka.
+
+...
+
+[Data](articles/4501ebf9.json)
+
+[Extended Data](ext_articles/4501ebf9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 23:05:59**
+As of **2025-10-05 23:20:15**
 
 ## Newspaper Stats
 
-*Scraped **81,359** Articles*
+*Scraped **81,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,95 @@ islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,795
 adaderanalk | 10,456
-tamilmirrorlk | 12,081
+tamilmirrorlk | 12,082
 virakesarilk | 13,359
-adaderanasinhalalk | 13,988
+adaderanasinhalalk | 13,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,359 (100.0%) of 81,359 articles have been extended.
+81,359 (100.0%) of 81,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### විදුලිබල මණ්ඩලයේ ඉංජිනේරු සංගමයෙන් රතු එළියක්
+
+*2025-10-05 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215383) · `si`
+
+සිය වෘත්තිය සමිති ක්‍රියාමාර්ගය හෙට දිනයේ සිට තවදුරටත් තීව්‍ර කරන බව ලංකා විදුලිබල මණ්ඩලයේ ඉංජිනේරු සංගමය පවසයි.
+
+එහි විධායක කමිටු සාමාජික ධනුෂ්ක පරාක්‍රමසිංහ මහතා සදහන් කළේ ඒ අනුව විදුලි බල මණ්ඩලයේ ඉහළ නිළධාරීන් සමඟ සිදුකරන වැඩකටයුතු හෙට දිනයේ සිට නතර කරන බවය.
+
+සිය ඉල්ලීම්වලට යහපත් ප්‍රතිචාර නොලැබුණහොත් ඉදිරියේදී දැඩි වෘත්තීය සමිති ක්‍රියාමාර්ගවල නිරත වන බව ධනුෂ්ක පරාක්‍රමසිංහ මහතා සදහන් කළේය.
+
+මේ අතර යළිත් වරක් විදුලි ගාස්තු ඉහළ දැමීමට රජය ගෙන යන වැඩපිළිවෙලට විරෝධය පළ කරන බව විදුලිය පාවිච්චිකරන්නගේ සංගමය පවසයි.
+
+එහි සභාපති එම්.ඩී ආර් අතුල මහතා කොළඹ අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් මේ බව සදහන් කළේය.
+
+කිසිසේත් මේ මොහොතේ විදුලි ගාස්තු ඉහළ දැමීමට අවශ්‍යතාවක් නොමැති බව ද ලංකා විදුලි බල මණ්ඩල නව සේවක සංගමයේ ප්‍රධාන ලේකම් ප්‍රියන්ත වික්‍රමසිංහ මහතා පැවසුවේය.
+
+එමෙන්ම විදුලි ගාස්තු ඉහළ දැමීමක් සිදු කළහොත් එය ඉදිකිරීම් ක්ෂේත්‍රයට බරපතළ ගැටලුවක් සිදුවිය හැකි බව ජාතික ඉදිකිරීම් සේවක සංගමයේ ලේකම් සුපුන් අබේසේකර මහතා පෙන්වා දුන්නේය.
+
+◼️
+
+[Data](articles/9c2f80e3.json)
+
+---
+
+### ඊශ්‍රායල - හමාස් සාම සාකච්ඡා හෙට ඊජිප්තුවේදී
+
+*2025-10-05 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215382) · `si`
+
+ඊශ්‍රායල සහ හමාස් නියෝජිතයින් අතර නිල නොවන සාකච්ඡා හෙට (06) ඊජිප්තුවේ කයිරෝ නුවරදී ආරම්භ වීමට නියමිතව තිබේ.
+
+ප්‍රාණ ඇපකරුවන් සහ සිරකරුවන් නිදහස් කිරීම ඇතුළු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ගේ සාම සැලසුමේ කරුණු ක්‍රියාත්මක කිරීම සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කිරීමට නියමිත බව වාර්තා වේ.
+
+ඒ සඳහා දෙපාර්ශ්වයේ නියෝජිතයින්ට අමතරව අමෙරිකානු ජනාධිපතිගේ විශේෂ නියෝජිතයින් ලෙස ස්ටීව් විට්කොෆ් සහ ජනපතිගේ බෑණා වන ජෙරාඩ් කුෂ්නර් ද සහභාගී වන බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/03e08e7e.json)
+
+---
+
+### TV දෙරණ 20 වැනි සංවත්සර පිරිත් සජ්ඣායනාව සහ දානමය පින්කම
+
+*2025-10-05 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215381) · `si`
+
+අපේ දේ රැකගෙන අලුත් දේ අරගෙන තේමාවෙන් ශ්‍රී ලාංකේය ප්‍රේක්ෂකයා දැනුමෙන් වින්දනයෙන් පෝෂණය කරන TV දෙරණ 20 වැනි සංවත්සරය මෙම වසරේ දී සමරනු ලබයි.
+
+ඒ නිමිත්තෙන් සර්ව රාත්‍රික පිරිත් සජ්ඣායනාවක් හා දානමය පින්කමක් කොළඹ පිහිටි දෙරණ ප්‍රධාන කාර්යාල පරිශ්‍රයේදී පැවැත්විණි.
+
+මහා සංඝරත්නය විෂයෙහි සංඝගත දක්ෂිණාව සඳහා කෝට්ටේ ශ්‍රී කල්‍යාණි සාමග්‍රී ධර්ම මහා සංඝ සභාවේ මහානායක අතිපූජ්‍ය අග්ගමහා පණ්ඩිත ආචාර්ය ඉත්තෑපාන ශ්‍රී ධම්මාලංකාර මහ නාහිමි, අමරපුර මහ නිකායේ ශ්‍රී කල්‍යාණි වංශ පාර්ශ්වයේ අනුනායක අග්ගමහා පණ්ඩිත ආචාර්ය පූජ්‍ය කොටපොළ අමරකිත්ති, ශ්‍රී ලංකා රාමඤ්ඤ මහ නිකායේ අනුනායක වලේබොඩ ගුණසිරි, බස්නාහිර පළාත් ප්‍රධාන සංඝනායක අග්ගමහා පණ්ඩිත ආචාර්ය පූජ්‍ය අකුරැටියේ නන්ද හිමි වැඩම කළහ.
+
+එමෙන්ම දිවයිනේ කීර්තිමත් විහාරස්ථාන රැසක නායක ස්වාමීන් වහන්සේ, ආරණ්‍ය සේනාසනාධිපති ස්වාමීන්වහන්සේ, විසි වසරක් පුරා දෙරණ හා සම්බන්ධව ආගමික වැඩසටහන්වලට සම්බන්ධ වූ විචිත්‍ර ධර්ම කථිකයාණන් වහන්සේ, විශ්වවිද්‍යාල රැසක ආචාර්ය මහාචාර්ය ස්වාමීන්වහන්සේ ඇතුළු කොළඹ විහාරස්ථාන රැසක නායක ස්වාමීන්වහන්සේ මෙම අවස්ථාවට වැඩම කළහ.
+
+...
+
+[Data](articles/c7b0c036.json)
+
+---
+
+### ”ஒரு தலைவராகப் பெறக்கூடிய பெரும் மகிழ்ச்சியை அனுபவித்தேன்”
+
+*2025-10-05 21:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-தலைவராகப்-பெறக்கூடிய-பெரும்-மகிழ்ச்சியை-அனுபவித்தேன்/175-365786) · `ta`
+
+ஒரு தலைவர் அனுபவிக்கக்கூடிய மிகப்பெரிய மகிழ்ச்சி மக்களுடன் நேரத்தை செலவிடுவதிலிருந்தே கிடைக்கிறது என்று முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ கூறினார்.
+
+தனது உத்தியோகபூர்வ முகநூல் பக்கத்தில் ஒரு பதிவில், ஒரு தலைவருக்கும் பொதுமக்களுக்கும் இடையிலான பிணைப்பு அரசியலுக்கு அப்பாற்பட்டது என்றும் அது நம்பிக்கை மற்றும் பரஸ்பர மரியாதையில் வேரூன்றியுள்ளது என்றும் ராஜபக்ச எடுத்துரைத்தார்.
+
+"எனது வாழ்நாளின் பெரும்பகுதியை மக்களிடையே கழித்ததால், அவர்களின் அன்பை நான் நன்கு அறிந்திருக்கிறேன். லாப நோக்கங்கள் இல்லாத இந்த அன்பு, எப்போதும் இல்லாத அளவுக்கு மதிப்புமிக்கது. இது ஒரு அரசியல் உறவு மட்டுமல்ல, இதயப்பூர்வமான பிணைப்பு, அதை உடைப்பதும் கடினம். அதைக் குறைமதிப்பிற்கு உட்படுத்தும் முயற்சிகள் அதை இன்னும் பலப்படுத்தும்," என்று அவர் தெரிவித்தார்.
+
+பொதுமக்களுடன் இருந்த காலம் முழுவதும், "ஒரு தலைவராகப் பெறக்கூடிய மிகப்பெரிய மகிழ்ச்சியை" தான் அனுபவித்ததாகவும், அனைவருக்கும் தனது மரியாதைக்குரிய நன்றியைத் தெரிவித்துக் கொள்வதாகவும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/f6d5340b.json)
+
+---
 
 ### The CID says he will make a statement from the son of Khajja
 
@@ -1952,83 +2028,5 @@ Therefore, its value is more than ever. It is important to say that this is diff
 [Data](articles/0a191eb3.json)
 
 [Extended Data](ext_articles/0a191eb3.ext.json)
-
----
-
-### '' Developing ties is strengthened ''
-
-*2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/101-680750) · `si`
-
-Former President Mahinda Rajapaksa said that the attempts to break up could be strengthened.
-
-Mr. Mahinda Rajapaksa said this to his official Facebook page.
-
-I am familiar with the people who have spent a lot of life in life. People's love is free of profit goals based on the facts of trust and mutual respect.
-
-Therefore, its value is more than ever. It is important to say that this is difficult to break as a heartfelt bond not just a political relationship.. Trys to break up can be strengthened. I have experienced the maximum happiness that is possible as a folk leader. I will give glory to honor.
-
-◼️
-
-[Data](articles/cf3fc139.json)
-
-[Extended Data](ext_articles/cf3fc139.ext.json)
-
----
-
-### Arrest by someone with foreign cigarettes
-
-*2025-10-05 10:42:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-ஒருவர்-கைது/175-365745) · `ta`
-
-A man who illegally brought foreign cigarettes into the country and tried to get out of the Katunayake airport, which was arrested by the airport police drug detention unit on Sunday morning.
-
-The arrested person has been identified as a 44 -year -old fisherman from Kalpitiya area.
-
-The person arrived at the Katunayake airport from Dubai by UL-226 at around 05.25 am on Sunday (05).
-
-When he checked the 02 passengers he had brought, 150 cigarette cartons contained 30,000 "platinum" cigarettes were seized.
-
-The suspect and the seized cigarettes will be produced at the Negombo Magistrate's Court on Wednesday (08).
-
-◼️
-
-[Data](articles/8c1758e7.json)
-
-[Extended Data](ext_articles/8c1758e7.ext.json)
-
----
-
-### Couple left in stock of gold
-
-*2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රන-බඩ-සරකම-ගය-යවළ-මටට/1-680749) · `si`
-
-Police say that the jewelery bought to enter the jewelery and jewelery, he was arrested and he was arrested and he was arrested and he was arrested.
-
-According to the Kandy Headquarters a jewelery vendor to the Criminal Division of Kandy, according to a telephone call in Kandy.
-
-Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. According to information from them, police investigations have been conducting a stock of stolen jewelery and other jewelery marketing centers that were caught.
-
-◼️
-
-[Data](articles/47238568.json)
-
-[Extended Data](ext_articles/47238568.ext.json)
-
----
-
-### Couple left in stock of gold
-
-*2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රන-බඩ-සරකම-ගය-යවළ-මටට/101-680749) · `si`
-
-Police say that the jewelery bought to enter the jewelery and jewelery, he was arrested and he was arrested and he was arrested and he was arrested.
-
-According to the Kandy Headquarters a jewelery vendor to the Criminal Division of Kandy, according to a telephone call in Kandy.
-
-Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. According to information from them, police investigations have been conducting a stock of stolen jewelery and other jewelery marketing centers that were caught.
-
-◼️
-
-[Data](articles/0359f821.json)
-
-[Extended Data](ext_articles/0359f821.ext.json)
 
 ---

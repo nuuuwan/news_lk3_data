@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 18:19:17**
+As of **2025-10-05 19:06:14**
 
 ## Newspaper Stats
 
-*Scraped **81,338** Articles*
+*Scraped **81,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,71 @@ adalk | 7,789
 adaderanalk | 10,455
 tamilmirrorlk | 12,079
 virakesarilk | 13,359
-adaderanasinhalalk | 13,982
+adaderanasinhalalk | 13,985
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,338 (100.0%) of 81,338 articles have been extended.
+81,338 (100.0%) of 81,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### ඉදිරි පැය 36 දී  කාලගුණය වෙනස් වෙන හැටි
+
+*2025-10-05 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215376) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල පස්වරු 1.00න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී ස්ථාන ස්වල්පයක වැසි ඇති විය හැකි බව එම නිවේදනයේ සඳහන් වේ.
+
+උතුරු, උතුරු - මැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත් වල ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇති විය හැක.
+
+එමෙන්ම ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තද සුළං සහ ප්‍රබල අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/8322810f.json)
+
+---
+
+### අමෙරිකාවේ වෙඩි තැබීමකින් ළමුන් දෙදෙනෙකු මරුට
+
+*2025-10-05 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215375) · `si`
+
+අමෙරිකාවේ ටෙක්සාස්හි වාහන නැවතුම් ස්ථානයක සිදුවු වෙඩි තැබීමකින් ළමුන් දෙදෙනෙකු මියගොස් තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කළේ තවත් ළමුන් දෙදෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර ඇති බවය.
+
+මියගොස් ඇත්තේ 04 හැවිරිදි සහ 13 හැවිරිදි වියේ පසුවන ළමුන් දෙදෙනෙකු බව සඳහන් වේ.
+
+මේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් කිහිප දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් මේ වන විට රඳවාගෙන ප්‍රශ්න කරමින් සිටින බව එරට පොලීසිය විදෙස් මාධ්‍ය වෙත වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/ae30b2f6.json)
+
+---
+
+### ලෝක ජනාවාස දින ජාතික සැමරුම් උත්සවය ජනපති ප්‍රධානත්වයෙන්
+
+*2025-10-05 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215374) · `si`
+
+ලෝක ජනාවාස දින ජාතික සැමරුම් උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (05) පෙරවරුවේ අරලියගහ මන්දිරයේදී පැවැත්විණි.
+
+එක්සත් ජාතීන්ගේ ලෝක ජනාවාස දිනයට සමගාමීව “තමන්ගේම තැනක් - ලස්සන ජීවිතයක්” යන තේමාව යටතේ එහි ජාතික සැමරුම පැවැත්වුණු අතර ඒ හා සමගාමීව ඔක්තෝබර් 01-05 දක්වා ජනාවාස සතියක්ද ප්‍රකාශයට පත්කරමින් විවිධ වැඩසටහන් ක්‍රියාත්මක කර තිබිණි.
+
+නිවසක් ඉදිකර ගැනීමට මූල්‍ය හැකියාවක් නොමැති දිළිඳු පවුල් 4000කට ආසන්න සංඛ්‍යාවක් සඳහා නිවාස ඉදිකර දීම වෙනුවෙන්, නිවාස සංවර්ධන අධිකාරිය විසින් ක්‍රියාත්මක කරනු ලැබ ඇති වැඩසටහන යටතේ දිවයින පුරා වැඩ නිම කළ නිවාස දහසක් ජනතා අයිතියට පවරා දීමද මෙහිදී විද්‍යුත් තාක්ෂණය ඔස්සේ ජනාධිපතිවරයා අතින් සිදු විය.
+
+UN Habitat ශ්‍රී ලංකා කාර්යාලයේ මැදිහත්වීමෙන් ඉන්දියානු රජයේ සහ Coalition for Disaster Resilient Infrastructure (CDRI) ආධාර මත ක්‍රියාත්මක කිරීමට යෝජිත අඹතලේ ජල සැපයුම් ව්‍යාපෘතියේ සංකේතීය ප්‍රදානය ජනාධිපතිවරයා වෙත නිල වශයෙන් භාර දීමද මෙහිදී සිදු කෙරිණි.
+
+...
+
+[Data](articles/622a8abf.json)
+
+---
 
 ### Robot Shankar's wife dance in funeral: Daughter Indraja Description
 
@@ -1994,57 +2048,5 @@ Further investigations have revealed that the suspect is the gunman involved in 
 [Data](articles/e906622b.json)
 
 [Extended Data](ext_articles/e906622b.ext.json)
-
----
-
-### Geneva resolution against Sri Lanka
-
-*2025-10-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226916) · `ta`
-
-The government is actively involved in international supporting the new resolution against Sri Lanka, with the hectic backdrop, which is expected to hold a referendum on Monday or Tuesday.. President Anura Kumara Dissanayake and External Affairs Minister Vijitha Herath. The Sri Lankan delegation, who attended the General Assembly, met with representatives of major Western countries and allies, including the United States and Norway.
-
-A new resolution was submitted against Sri Lanka at the meeting to investigate Sri Lanka's status at the 60th review session of the United Nations Human Rights Council.. The government is actively supporting major Western countries, including the US and Norway, in the wake of the referendum on the resolution.
-
-...
-
-[Data](articles/ad0a6452.json)
-
-[Extended Data](ext_articles/ad0a6452.ext.json)
-
----
-
-### Invitation to Wimal
-
-*2025-10-05 09:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/விமலுக்கு-அழைப்பாணை/150-365735) · `ta`
-
-Former Minister Wimal Weerawansa has been summoned to appear at the Tangalle Police Station on Monday (6).
-
-The invitation is said to have been sent following his comment on a person identified as "Belliah Sana".
-
-◼️
-
-[Data](articles/329f0805.json)
-
-[Extended Data](ext_articles/329f0805.ext.json)
-
----
-
-### The death of a young man
-
-*2025-10-05 09:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காவடி-ஆட்டிக்கொண்டிருந்த-இளைஞன்-மரணம்/175-365734) · `ta`
-
-Ambalangoda police said that a 20 -year -old youth who was dancing during a procession organized by the Swissutharamaya Viharaya in Madampay, Ambalangoda, was suddenly sick.
-
-A 20 -year -old youth, BM Mahish Prabhashana, from Dhanapathegama, Edgandura. The incident took place on Friday (03).
-
-Kavadi dancing while marching on the streets of Madambe was sick. He died after being admitted to Balapitiya Hospital.
-
-The family reports that the youth's death is unthinkable for the death of a cricketer.. Ambalangoda police are conducting further investigations.
-
-◼️
-
-[Data](articles/5f745cc5.json)
-
-[Extended Data](ext_articles/5f745cc5.ext.json)
 
 ---

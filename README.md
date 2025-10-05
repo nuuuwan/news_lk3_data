@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 10:55:27**
+As of **2025-10-05 11:39:29**
 
 ## Newspaper Stats
 
-*Scraped **81,224** Articles*
+*Scraped **81,230** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 598
+newsfirstlk | 599
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 786
+lankadeepalk | 791
 colombotelegraphcom | 809
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,11 +27,99 @@ adaderanasinhalalk | 13,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,224 (100.0%) of 81,224 articles have been extended.
+81,229 (100.0%) of 81,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### '' Developing ties is strengthened ''
+
+*2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/101-680750) · `si`
+
+Former President Mahinda Rajapaksa said that the attempts to break up could be strengthened.
+
+Mr. Mahinda Rajapaksa said this to his official Facebook page.
+
+I am familiar with the people who have spent a lot of life in life. People's love is free of profit goals based on the facts of trust and mutual respect.
+
+Therefore, its value is more than ever. It is important to say that this is difficult to break as a heartfelt bond not just a political relationship.. Trys to break up can be strengthened. I have experienced the maximum happiness that is possible as a folk leader. I will give glory to honor.
+
+◼️
+
+[Data](articles/cf3fc139.json)
+
+[Extended Data](ext_articles/cf3fc139.ext.json)
+
+---
+
+### Couple left in stock of gold
+
+*2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රන-බඩ-සරකම-ගය-යවළ-මටට/101-680749) · `si`
+
+Police say that the jewelery bought to enter the jewelery and jewelery, he was arrested and he was arrested and he was arrested and he was arrested.
+
+According to the Kandy Headquarters a jewelery vendor to the Criminal Division of Kandy, according to a telephone call in Kandy.
+
+Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. According to information from them, police investigations have been conducting a stock of stolen jewelery and other jewelery marketing centers that were caught.
+
+◼️
+
+[Data](articles/0359f821.json)
+
+[Extended Data](ext_articles/0359f821.ext.json)
+
+---
+
+### 731 new assistants to the mail
+
+*2025-10-05 10:26:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තපලට-අලතන-සහයකයන-731ක/101-680748) · `si`
+
+The Ministry of Health and Mass Meditime states that 731 persons were selected for the post of postal assistant in Grade III of the Department of Mass Department of the Sri Lanka Postal Department.
+
+After the year 2021, the Sri Lanka Postal Assembly has not been recruited to the Sri Lanka Postal Department and by the end of the previous year.. The Ministry of Health and Mass Media, Dr. Nalinda Jayatissa, the Minister of Health and Mass Media Dr. Nalinda Jayatissa has been given the approval of the Ministry of Health and Mass Media Dr. Nalinda Jayatissa to carry out the activities of the department with such a number of vacancies.
+
+Accordingly, out of which 731 persons were selected to recruit the proper qualifications as registered as substitute employees of the Department of Posts.. Another 269 post-directives are being recruited in the future.
+
+Awarding permanent appointment letters to the selected group will be held tomorrow (6th) at Temple Trees, Dr. Nalinda Jayatissa at Temple Trees.
+
+◼️
+
+[Data](articles/730dff7d.json)
+
+[Extended Data](ext_articles/730dff7d.ext.json)
+
+---
+
+### Married Couple Killed in Road Accident
+
+*2025-10-05 10:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/married-couple-killed-in-road-accident) · `en`
+
+COLOMBO (News 1st): A tragic road accident claimed the lives of a young married couple in Kananwila along the Horana–Maharagama road.According to police reports, the accident occurred when the motorcycle the couple was riding overturned and collided with a lorry. Both individuals sustained critical injuries and were rushed to the hospital, where they later succumbed to their injuries.The deceased have been identified as residents of Kiriwatthuduwa, aged 21 and 24.
+
+◼️
+
+[Data](articles/8a5b832f.json)
+
+---
+
+### The Land Commission removes the boss
+
+*2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉඩම-කමසම-ලකක-ඉවත-කරය/101-680747) · `si`
+
+Mr. Padmasiri Liyanage has been removed from the post of Director General of Land Reforms Commission.
+
+According to sources, the government has taken this step after the government has taken over information on the Commonwealth Parliamentary Select Committee on several irregularities of the Land Reform Commission.
+
+According to Mrs. Diywnka Jayasuriya, the acting Director General of the Commission was appointed as the Acting Director General.
+
+◼️
+
+[Data](articles/6c4f096a.json)
+
+[Extended Data](ext_articles/6c4f096a.ext.json)
+
+---
 
 ### A boy who swim in the sea
 
@@ -1868,111 +1956,5 @@ From the Portuguese-inspired baila that once drifted through coastal taverns, to
 [Data](articles/d15ff5b6.json)
 
 [Extended Data](ext_articles/d15ff5b6.ext.json)
-
----
-
-### #SriPOP - The Sound of a New Sri Lanka
-
-*2025-10-04 16:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sripoposrilanka) · `en`
-
-In Stein Studios, in the outskirts of Colombo, a dancer moves as if the earth itself is breathing beneath her feet.
-
-The rhythm isn’t rushed. It’s human imperfectly perfect, like the heartbeat that drives it. A drum echoes, a synth sighs, and something ancient awakens.
-
-It’s not a beat born in a studio, nor a formula cooked up for virality. It’s a call a return to the rhythm that has always pulsed through this island’s soul.
-
-To understand #SriPop, you have to first understand the strange, beautiful chaos of Sri Lanka’s musical DNA.
-
-From the Portuguese-inspired baila that once drifted through coastal taverns, to the rabana circles of rural women who drum while they laugh and sing, to the Nada Bhera & Yak Bera  the ceremonial drumming that summons gods and courage alike this island’s music has never been entertainment alone. It has always been spiritual architecture, a way of being, of remembering, of belonging.
-
-...
-
-[Data](articles/e30f936f.json)
-
-[Extended Data](ext_articles/e30f936f.ext.json)
-
----
-
-### A large number of people arrested by police officers
-
-*2025-10-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215339) · `si`
-
-The Ministry of Defense has issued a statement regarding the daily police operations that aimed at the suppression of drugs and underworld.
-
-It stated that the operations carried out yesterday (03) were arrested by the operation with drugs and various crimes.
-
-Accordingly, 6,644 persons were involved in these operations.
-
-A total of 27,727 people have been inspected and 10,900 vehicles and 8,385 motorbikes have been tested.
-
-971 persons have been arrested in the raids and nine persons directly involved in the drug and 449 persons were arrested.
-
-The Ministry of Defense said that the Narcotics and Parliamentary Affairs Minister Ananda Wijepala also operates with the participation of the Narcotics and Parliamentary Affairs to eliminate the drug in the country.
-
-◼️
-
-[Data](articles/2b412c61.json)
-
-[Extended Data](ext_articles/2b412c61.ext.json)
-
----
-
-### The music release of 'Perandi' starring Aravindaraj
-
-*2025-10-04 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226894) · `ta`
-
-The music launch of the movie 'Perandi', which plays the hero of the story of the newcomer Aravindaraj, was held in Chennai. Thol, the leader of the Liberation Panthers Party and a member of the Indian Lok Sabha. Thirumavalavan released the music of the film about the special guest.
-
-Director r. Aravindaraj, Vindhuja Nair, Lata, Karate Raja, Power Star Srinivasan, Lalitha, Hosur Tony and many others have starred in the film 'Perandi' directed by Thangamani.
-
-D. Hitesh Murugavel has composed the film, which has been recorded by Maipalan. The film is being produced as Family Entertainment and produced by Veda Media Entertainment Company. The film is presented by Rajesh on behalf of Padma Kandaswamy Estates.
-
-The music launch of the film, which is ready for release, was held in Chennai. 'Rise Tamil' with the film crew at the event. Thirumavalavan, Padma Kandasamy Estates founder Rajesh, businessman Ramachandran and Attorney Uma Sankari were the special guests.
-
-...
-
-[Data](articles/5fe07bb9.json)
-
-[Extended Data](ext_articles/5fe07bb9.ext.json)
-
----
-
-### Natural-Nain-man- Speaking of the relationship between 'Kumki 2'
-
-*2025-10-04 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226893) · `ta`
-
-The release date of the film 'Kumki 2' has been officially announced.
-
-Directed by Prabhu Solomon, directed by Prabhu Solomon, 'Kumki 2', Mathi, Shrita Rao, Andrews, Arjun Das, Akash, Harish Peradi, Srinath and many others.
-
-M.. Niwas K is the cinematography by Sukumar. Prasanna has composed music. Focusing on the relationship between a wildlife elephant and a young man in the backdrop of a dense forest, the film is produced by Ben Studios on behalf of Ben Studios.
-
-The film is presented by Dr. Jayanthi Lal Kata. The film will be released on the 14th of November at the film House around the world.
-
-'Kumki' was released 13 years ago in the Prabhu Solomon movement. The second part of the film is currently being created as the hero of the newcomer Mathi story.
-
-The film 'Kumki 2', which consciously describes the relationship between natural, elephant-man-man, is also expected to make his stamp.
-
-◼️
-
-[Data](articles/6e845cc9.json)
-
-[Extended Data](ext_articles/6e845cc9.ext.json)
-
----
-
-### Selling electronic cigarettes targeting school students: suspect arrested
-
-*2025-10-04 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226890) · `ta`
-
-A team of members of the Moneragala Police Station has raped the electronic cigarette fraud on the target of schoolchildren in Moneragala.
-
-Preliminary inquiries have revealed that the suspect had sold electronic cigarettes to students for various amounts.
-
-◼️
-
-[Data](articles/1c01c6b2.json)
-
-[Extended Data](ext_articles/1c01c6b2.ext.json)
 
 ---

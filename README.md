@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 23:05:59**
+As of **2025-10-05 23:39:10**
 
 ## Newspaper Stats
 
-*Scraped **81,359** Articles*
+*Scraped **81,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,103 @@ islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,795
 adaderanalk | 10,456
-tamilmirrorlk | 12,081
+tamilmirrorlk | 12,082
 virakesarilk | 13,359
-adaderanasinhalalk | 13,988
+adaderanasinhalalk | 13,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,359 (100.0%) of 81,359 articles have been extended.
+81,363 (100.0%) of 81,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### Red light from the Electricity Board Engineering Association
+
+*2025-10-05 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215383) · `si`
+
+The Ceylon Electricity Board Engineering Association (CEB) says its trade union action will be escalated tomorrow.
+
+Its Executive Committee Member Dhanushka Parakrakhasinghe said that the work of the Tower Officers will stop from tomorrow.
+
+Dhanushka Parakrasinghe said if he was not responding to their demands.
+
+In the meantime, the power is used by the use of electricity to obtain the government's program to increase the electricity tariffs.
+
+He was speaking at a media briefing in Colombo today.
+
+The Ceylon Electricity Board (CEB) is no need to increase electricity tariffs at the moment.
+
+The Secretary of the National Construction Employees Association Secretary Supun Abeysekara pointed out that if an increase in electricity tariffs can take place in the construction industry.
+
+◼️
+
+[Data](articles/9c2f80e3.json)
+
+[Extended Data](ext_articles/9c2f80e3.ext.json)
+
+---
+
+### Israel - Hamas peace talks in Egypt tomorrow
+
+*2025-10-05 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215382) · `si`
+
+Non-unofficial negotiations between Israeli and Hamas representatives will commence tomorrow (06) in Cairo.
+
+It is reported that the US President of America President, Donald Trump's peace plan, is to be discussed.
+
+In addition to the delegation of both parties, Steve Whitcoff and President's son-in-law Gerard Kushner have also participated as the special representatives of the American president.
+
+◼️
+
+[Data](articles/03e08e7e.json)
+
+[Extended Data](ext_articles/03e08e7e.ext.json)
+
+---
+
+### Tv Derana 20th Anniversary Pirith Chantledge & Palinking
+
+*2025-10-05 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215381) · `si`
+
+The TV Derana 20th Anniversary is celebrated with the theme from the theme from the theme with knowledge of the Sri Lankan audience with our own.
+
+Nightly Pirith chanting and alms were held at the Derana Herana Herana Herana Herana Herana Herana Head Office in Colombo.
+
+Kotte Sangha Sangha Sabha Maha Sangha Sangha Sangha Sangha Sangha Sangha Sangha Sangha Sangha Sangha Sangha Sangha Sangha Sabha Pandithi Dr. Kottara Dr. Kottara Dr. Kottara Dr. Kottara Dr. Kottara Dr. Kottara Dr. Kottara Danasiri, Sri Lanka Ramanya Nikaya, Sri Lanka Ramanna Sect, Sri Lanka Ramanna Sect, Sri Lanka Ramange Mawatha Nikaya East, Panditha Panditha Dr. Akanda, Ven. Aktanda, the Chief Sanganayake.
+
+The Leader of the Arayane Commissioner, the monastery of the Most Venerable Thero, the monastery of the Arayamantic Speech, who joined the religious programs for Derana, has worked on the occasion.
+
+...
+
+[Data](articles/c7b0c036.json)
+
+[Extended Data](ext_articles/c7b0c036.ext.json)
+
+---
+
+### “I enjoyed the great joy of getting a leader"
+
+*2025-10-05 21:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-தலைவராகப்-பெறக்கூடிய-பெரும்-மகிழ்ச்சியை-அனுபவித்தேன்/175-365786) · `ta`
+
+Former President Mahinda Rajapakse said that the greatest joy a leader can enjoy is from spending time with people.
+
+In a post on his official Facebook page, Rajapakse pointed out that the bond between a leader and the public was beyond politics and it was rooted in confidence and mutual respect.
+
+"I have been well aware of their love because they spent most of my life. This love with no profit motives is worthless. It is not only a political relationship, but a heartfelt bond, it is difficult to break it. Efforts to undermine it will still strengthen it, ”he said.
+
+Throughout the public, he said that he had experienced "the greatest happiness that could be a leader" and that he thanked everyone for his respect.
+
+◼️
+
+[Data](articles/f6d5340b.json)
+
+[Extended Data](ext_articles/f6d5340b.ext.json)
+
+---
 
 ### The CID says he will make a statement from the son of Khajja
 
@@ -1952,83 +2036,5 @@ Therefore, its value is more than ever. It is important to say that this is diff
 [Data](articles/0a191eb3.json)
 
 [Extended Data](ext_articles/0a191eb3.ext.json)
-
----
-
-### '' Developing ties is strengthened ''
-
-*2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/101-680750) · `si`
-
-Former President Mahinda Rajapaksa said that the attempts to break up could be strengthened.
-
-Mr. Mahinda Rajapaksa said this to his official Facebook page.
-
-I am familiar with the people who have spent a lot of life in life. People's love is free of profit goals based on the facts of trust and mutual respect.
-
-Therefore, its value is more than ever. It is important to say that this is difficult to break as a heartfelt bond not just a political relationship.. Trys to break up can be strengthened. I have experienced the maximum happiness that is possible as a folk leader. I will give glory to honor.
-
-◼️
-
-[Data](articles/cf3fc139.json)
-
-[Extended Data](ext_articles/cf3fc139.ext.json)
-
----
-
-### Arrest by someone with foreign cigarettes
-
-*2025-10-05 10:42:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-ஒருவர்-கைது/175-365745) · `ta`
-
-A man who illegally brought foreign cigarettes into the country and tried to get out of the Katunayake airport, which was arrested by the airport police drug detention unit on Sunday morning.
-
-The arrested person has been identified as a 44 -year -old fisherman from Kalpitiya area.
-
-The person arrived at the Katunayake airport from Dubai by UL-226 at around 05.25 am on Sunday (05).
-
-When he checked the 02 passengers he had brought, 150 cigarette cartons contained 30,000 "platinum" cigarettes were seized.
-
-The suspect and the seized cigarettes will be produced at the Negombo Magistrate's Court on Wednesday (08).
-
-◼️
-
-[Data](articles/8c1758e7.json)
-
-[Extended Data](ext_articles/8c1758e7.ext.json)
-
----
-
-### Couple left in stock of gold
-
-*2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රන-බඩ-සරකම-ගය-යවළ-මටට/1-680749) · `si`
-
-Police say that the jewelery bought to enter the jewelery and jewelery, he was arrested and he was arrested and he was arrested and he was arrested.
-
-According to the Kandy Headquarters a jewelery vendor to the Criminal Division of Kandy, according to a telephone call in Kandy.
-
-Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. According to information from them, police investigations have been conducting a stock of stolen jewelery and other jewelery marketing centers that were caught.
-
-◼️
-
-[Data](articles/47238568.json)
-
-[Extended Data](ext_articles/47238568.ext.json)
-
----
-
-### Couple left in stock of gold
-
-*2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රන-බඩ-සරකම-ගය-යවළ-මටට/101-680749) · `si`
-
-Police say that the jewelery bought to enter the jewelery and jewelery, he was arrested and he was arrested and he was arrested and he was arrested.
-
-According to the Kandy Headquarters a jewelery vendor to the Criminal Division of Kandy, according to a telephone call in Kandy.
-
-Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. According to information from them, police investigations have been conducting a stock of stolen jewelery and other jewelery marketing centers that were caught.
-
-◼️
-
-[Data](articles/0359f821.json)
-
-[Extended Data](ext_articles/0359f821.ext.json)
 
 ---

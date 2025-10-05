@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 10:19:57**
+As of **2025-10-05 10:55:27**
 
 ## Newspaper Stats
 
-*Scraped **81,216** Articles*
+*Scraped **81,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,784
 adaderanalk | 10,441
-tamilmirrorlk | 12,056
+tamilmirrorlk | 12,064
 virakesarilk | 13,341
 adaderanasinhalalk | 13,963
 
@@ -27,31 +27,171 @@ adaderanasinhalalk | 13,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,215 (100.0%) of 81,216 articles have been extended.
+81,224 (100.0%) of 81,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
 
-### ඇල්පිටියේ නිවසකට වෙඩි ප්‍රහාරයක්
+### A boy who swim in the sea
+
+*2025-10-05 09:36:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-நீந்தி-சாதித்த-மாற்றுத்திறனாளி-சிறுவன்/175-365736) · `ta`
+
+A 12 -year -old boy who was suffering from knee to the achievement of swimming and achievement of the inability and achievement was set on a record of the Pakistani Strait from Sri Lanka to Dhanushkodi on Friday (3).
+
+The Pakjalasandi Sea is a source of separation of Tamil Nadu and Sri Lanka. Rameshwaram island and 13 sand dunes that followed and separate the Bagh Strait from the Gulf of Mannar. In Tamil Nadu, the most deeper and rocks are a sea of ​​dangerous jellyfish.
+
+So far, more than 30 people have set a record of swimming the Bagh Strait alone. Most of them were swimming from Sri Lanka's Dhanushkodi to Dhanushkodi or Dhanushkodi to Talaimannar. In addition to this, some people have swimmed at the Riley and Marathon system.
+
+In this case, Periyar Selvan, a 12 -year -old boy from Padmapriya couple from Mukherjee West, Chennai, is attending eighth grade at a private school in Mukherjee.
+
+...
+
+[Data](articles/7430a768.json)
+
+[Extended Data](ext_articles/7430a768.ext.json)
+
+---
+
+### Invitation to Wimal
+
+*2025-10-05 09:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/விமலுக்கு-அழைப்பாணை/150-365735) · `ta`
+
+Former Minister Wimal Weerawansa has been summoned to appear at the Tangalle Police Station on Monday (6).
+
+The invitation is said to have been sent following his comment on a person identified as "Belliah Sana".
+
+◼️
+
+[Data](articles/329f0805.json)
+
+[Extended Data](ext_articles/329f0805.ext.json)
+
+---
+
+### The death of a young man
+
+*2025-10-05 09:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காவடி-ஆட்டிக்கொண்டிருந்த-இளைஞன்-மரணம்/175-365734) · `ta`
+
+Ambalangoda police said that a 20 -year -old youth who was dancing during a procession organized by the Swissutharamaya Viharaya in Madampay, Ambalangoda, was suddenly sick.
+
+A 20 -year -old youth, BM Mahish Prabhashana, from Dhanapathegama, Edgandura. The incident took place on Friday (03).
+
+Kavadi dancing while marching on the streets of Madambe was sick. He died after being admitted to Balapitiya Hospital.
+
+The family reports that the youth's death is unthinkable for the death of a cricketer.. Ambalangoda police are conducting further investigations.
+
+◼️
+
+[Data](articles/5f745cc5.json)
+
+[Extended Data](ext_articles/5f745cc5.ext.json)
+
+---
+
+### Two arrested with 405 kg of beedi leaves in Kalpitiya
+
+*2025-10-05 09:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கற்பிட்டியில்-405-கிலோ-கிராம்-பீடி-இலைகளுடன்-இருவர்-கைது/175-365733) · `ta`
+
+During a special search operation in the Kalpitiya Kuttawa Sea, the navy has arrested two suspects who have seized about 405 kilograms of beedi leaves and a tinky boat.
+
+The Navy is carrying out regular patrols and search operations, including the sea and beaches around the island to combat illegal activities, including trafficking through sea routes.
+
+Accordingly, the suspicious Tinky (01) was searched during the special search operation conducted by the Sri Lanka Navy Ship of the Northwestern Navy Command in the sea near Kalpitiya on Friday night.
+
+The suspects arrested by the Marines have been identified as from the Kalpitiya Estate and the school sector areas during the operation.. The suspects have said that the Tinky Boat and Beedi leaves have been handed over to the Puttalam Madhuvari Special Division for further legal action.
+
+◼️
+
+[Data](articles/9c2b2a00.json)
+
+[Extended Data](ext_articles/9c2b2a00.ext.json)
+
+---
+
+### Intensive to confiscate Vijay's propaganda vehicle
+
+*2025-10-05 09:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயின்-பிரச்சார-வாகனத்தை-பறிமுதல்-செய்ய-தீவிரம்/175-365732) · `ta`
+
+The Madras High Court has ordered the Special Investigation Committee to confiscate the campaign vehicle of the Tawaka leader Vijay, and the police have taken action.
+
+In Karur, 41 people were killed in a campaign meeting at Karur last September 27. Following this, lawyer Dinesh had filed a petition in the Madras High Court seeking a ban on the road show and road campaign of political parties.
+
+Judge N. Senthil Kumar, who was hearing the case, said in a order issued on the 3rd of this month that when 41 people were killed during a campaign meeting in Karur, the party's head and other executives were acting as if they had nothing to do with the incident.
+
+They have done no help to those who are trapped or their supporters. The families of the deceased did not express their compassion or comfort. The recklessness left and slipped from there was severely condemned.
+
+...
+
+[Data](articles/ef76efc1.json)
+
+[Extended Data](ext_articles/ef76efc1.ext.json)
+
+---
+
+### Shooting on the house
+
+*2025-10-05 09:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-துப்பாக்கிப்-பிரயோகம்/175-365731) · `ta`
+
+Elpitiya police said that an unidentified gunmen fired at a house in Ihala Omat, Elpitiya, Kanegoda, Elpitiya.
+
+The front window of the house was damaged in the shooting, but no one was injured, police said.
+
+The shooting was on the house of a former soldier who runs many businesses, police said.
+
+Police suspect that the shooting may have been carried out to threaten a former soldier who threatened the underworld in the village and threatened the underworld.
+
+Police say the former soldier, the owner of the house, was fired at the house and two motorbikes may have fired.
+
+Police say the exact cause of the shooting in the house has not yet been released.
+
+◼️
+
+[Data](articles/65e32bb0.json)
+
+[Extended Data](ext_articles/65e32bb0.ext.json)
+
+---
+
+### Cryptocurrency: Central Bank Action Notification
+
+*2025-10-05 09:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/கிரிப்டோகரன்சி-மத்திய-வங்கி-அதிரடி-அறிவிப்பு/47-365730) · `ta`
+
+The Central Bank of Sri Lanka has proposed the government of Sri Lanka to appoint a high -level committee to make policy decisions on the scientific way to deal with the controversial cryptocurrency.
+
+The Central Bank of Sri Lanka has also sent a letter to the Ministry of Finance on this requirement. According to the finance ministry sources, the government has also agreed to this practice.
+
+In the assets submitted by government ministers, it has also been mentioned that they have invested in cryptocurrency, which has created a heated debate in the community in recent years.
+
+◼️
+
+[Data](articles/bdff8044.json)
+
+[Extended Data](ext_articles/bdff8044.ext.json)
+
+---
+
+### Shots a house in Alpitty
 
 *2025-10-05 08:26:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටියේ-නිවසකට-වෙඩි-ප්‍රහාරයක්/11-418915) · `si`
 
-ඇල්පිටිය ,ගනේගොඩ ඉහල ඕමත්ත ප්‍රදේශයේදී ඊයේ (4) රෑ නිවසකට නාදුනන තුවක්කුකරුවන් වෙඩි තබා පලා ගොස් ඇතැයි ඇල්පිටිය පොලීසිය කියයි.
+Elpitiya Police said that the unidentified gunmen had fled to a house last night.
 
-වෙඩි තැබීමෙන් එම නිවසේ  ඉදිරිපස ජනේලයකට හානිසිදුව ඇති බවත් කිසිවෙකුට හෝ වෙඩි පහාරයක් එල්ලවී නැති බවත් පොලීසිය කියයි.
+The shooting was damaged to a nearby window and had not been shot dead.
 
-ව්‍යාපාර කිහිපයක් පවත්වාගෙන යනු ලබන හිටපු යුධ හමුදා සෙබලකු ඉල්ලක්ක කර ගනිමින් මේ වෙඩි තැබීම සිදු කර ඇති බවද පොලීසිය කියයි.
+The shooting has been carried out by calling former military personnel running several businesses.
 
-මේ හිටපු හමුදා සෙබලා ගමේ නමක් ගත් චරිතයක් බවත් ඔහුට පාතාලයෙන් තර්ජන තිබී ඇති බවත් ඔහුව බිය ගැන්වීමට මේ වෙඩි තැබීම සිදු කරන්නට ඇති බවට පොලීසිය සැකකරයි.
+The former soldiers were a character named the village of the village and was threatened with the underworld that he had been threatened with hearing and to intimidate him.
 
-නිවෙස් හිමි හිටපු යුධ හමුදා සෙබලා නිවසේ සිටියදී  ඊයේ (4) රෑ 10 යට පමණ මේ වෙඩි තැබීම සිදුව ඇති බවත් යතුරු පැදියකින් පැමිණි දෙදෙනෙක් මේ වෙඩි තැබීම සිදු කරන්නට ඇති බවට  පොලීසිය කරයි.
+The shooting had taken place at home yesterday (4), police said.
 
-මේ නිවසට වෙඩි තැබීමේ නියම හේතුව මෙතෙක් අනාවරණය නොවූ බවද පොලීසිය කියයි. ඇල්පිටිය පොලීසිය මේ පිළිබඳව වැඩි දුර පරීක්ෂණ පවත්වයි.
+Police say that the real cause of shooting the house was yet to be revealed yet. Elpitiya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/ce0bccb3.json)
+
+[Extended Data](ext_articles/ce0bccb3.ext.json)
 
 ---
 
@@ -432,6 +572,22 @@ According to the initial reports, the train staff and passengers are at the scen
 [Data](articles/c9bed78e.json)
 
 [Extended Data](ext_articles/c9bed78e.ext.json)
+
+---
+
+### Driver's Allow Bonds: Action Notice
+
+*2025-10-05 03:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதி-பத்திரங்கள்-அதிரடி-அறிவிப்பு/175-365726) · `ta`
+
+The Department of Motor Transport has decided to extend the validity period of driver's licenses.
+
+Transport Commissioner General Kamal Amarasinghe said a special committee has been appointed to investigate the upcoming time limit.. (A)
+
+◼️
+
+[Data](articles/6f13a18d.json)
+
+[Extended Data](ext_articles/6f13a18d.ext.json)
 
 ---
 
@@ -1818,175 +1974,5 @@ Preliminary inquiries have revealed that the suspect had sold electronic cigaret
 [Data](articles/1c01c6b2.json)
 
 [Extended Data](ext_articles/1c01c6b2.ext.json)
-
----
-
-### Hamas has made investment for the highest health care;  Jaiyatissa
-
-*2025-10-04 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226891) · `ta`
-
-Health and Mass Media Minister Nalinda Jayatissa says that the third level maintenance hospital will become a living institution of continuous learning, novelty, service and trust.
-
-Hemas, which is dedicated to the country's health progress, laid the groundwork for the construction of a third -level hospital with its sophisticated and fully facilities in Talawatukoda on Friday (03) under the patronage of Health and Mass Media Minister Nalinda Jayadissa.
-
-It is planned to hire nearly 900 health professionals and expand with beds for 150 patients. The aim is to introduce modern emergency care units, surgical units and special centers, and the foundation stone is organized under the theme "A new meaning for the future of health".
-
-Hemas has made investment for the highest health care and has taken steps to expand its services in accordance with international standards and strengthen the National Health Organization.
-
-...
-
-[Data](articles/19e67aa2.json)
-
-[Extended Data](ext_articles/19e67aa2.ext.json)
-
----
-
-### Harish Kalyan starring 'Diesel' updates
-
-*2025-10-04 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226892) · `ta`
-
-Actor Harish Kalyan, who is the star of the Tamil cinema, has been released as the star of the Tamil cinema with two series hit films 'Parking' and 'Lapper Ball'.
-
-Directed by director and actor Shanmugam Muthusamy, Harish Kalyan, Atulia Ravi, Vinay Roy, Sai Kumar, Ananya, Karunas, Ramesh Tilak, Kali Venkat, Vivek Prasanna, Maran. M.. S.. Prabhu and Richard M. Tibu Ninan Thomas has composed the film, which is being recorded by Nathan.
-
-The film is being produced by the Excussion Entertainment and produced by producer Thevarajulu Markandean on behalf of Third I Entertainment Company.
-
-The film, which will be released on the 17th of this month, will be released in the film House on the 17th of this month.
-
-This song is written by songwriter Mohan Rajan, playback singer G.. Ravi has sung. The melody of the song that makes sense of the division between lovers.. The fans are very impressed.
-
-◼️
-
-[Data](articles/eb5818c5.json)
-
-[Extended Data](ext_articles/eb5818c5.ext.json)
-
----
-
-### Notice to drivers on the Ambalangoda - Elpitiya main road
-
-*2025-10-04 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215338) · `si`
-
-The police have not informed the restriction of traffic due to the Perahera of the Ampitiya Devalaya in the Ampitiya Devalaya, Karandeniya Mahagoda.
-
-The procession is due to visit streets from 02.00 pm to 07 pm to 07 pm.
-
-The Peraheera begins near the Ampitiya Devalaya and travels to the Maha Enditiya main road.
-
-The police calling the public as the main road to the Southern Expressway to the Southern Expressway, as the main road to the Southern Expressway is to use alternative routes as possible to reduce traffic congestion.
-
-◼️
-
-[Data](articles/90fec08f.json)
-
-[Extended Data](ext_articles/90fec08f.ext.json)
-
----
-
-### Heavy rainfall expected to continue in several provinces
-
-*2025-10-04 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/113214/heavy-rainfall-expected-to-continue-in-several-provinces) · `en`
-
-The Meteorology Department states that atmospheric conditions are favorable for thunderstorms in the evening.
-
-Therefore, general public is advised to take adequate precautions to minimize damages caused by heavy rain, strong winds and strong lightning during thundershowers.
-
-Showers or thunder showers will occur at several places in most provinces after 1.00 p.m.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, North-central, Uva and Eastern provinces, the Met. Department added.
-
-Showers may occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara, Puttalam, Jaffna and Mannar districts in the morning too.
-
-◼️
-
-[Data](articles/4ab83e77.json)
-
-[Extended Data](ext_articles/4ab83e77.ext.json)
-
----
-
-### The results of the Electricity Tax Correction will be announced in two weeks - the Public Utilities Commission of Sri Lanka
-
-*2025-10-04 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226889) · `ta`
-
-The Sri Lanka Public Utilities Commission has announced that the proposals of the Ceylon Electricity Board (CEB) will be announced in two weeks to increase the power tariff amendment by 6.8 per cent.
-
-Accordingly, the final decision is expected to be issued on or before the 15th.
-
-It is reported that the public consultation process is currently underway to correct the electricity bills.
-
-After the final session of the Western Provincial Council on the 08th of this month, the final decision will be taken on the amendment of the tariffs.
-
-It is also reported that this fee will be followed by the Electricity Act and the Power Prices.
-
-According to reports, the Ceylon Electricity Board (CEB) has registered a compensation of Rs 769 million from October to 2025 to December.
-
-◼️
-
-[Data](articles/30abf6a5.json)
-
-[Extended Data](ext_articles/30abf6a5.ext.json)
-
----
-
-### Arrested for stealing jewelery and foreign money in Jaffna
-
-*2025-10-04 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226888) · `ta`
-
-The main suspect in connection with the crime has been arrested by the Jaffna police as a recent stolen of foreign money and jewelery worth Rs 50 lakhs in a house in Nallurpur.
-
-A house in Nallur, Jaffna, was broken at night and a large amount of foreign money and jewelery were stolen.
-
-A group of people in charge of the Jaffna Police Station Crime Unit, who conducted further investigations, arrested the main suspect and seized large quantities of jewelery and foreign currencies from him.
-
-◼️
-
-[Data](articles/cfb0ad18.json)
-
-[Extended Data](ext_articles/cfb0ad18.ext.json)
-
----
-
-### IMF to pleased Sri Lanka
-
-*2025-10-04 16:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-குறித்து-மகிழ்ச்சி-வெளியிட்ட-IMF/175-365707) · `ta`
-
-After the economic crisis, Sri Lanka's economic growth increased to 5% by 2024, said Julie Kochek, Director of the International Monetary Fund (IMF), said.
-
-At the same time, Kosek added that Sri Lanka's comprehensive economic reform program has made significant improvement.
-
-International reserves are also on the rise. Sri Lanka's economic growth increased to 5% after 2024. This is a significant achievement.
-
-This is a significant increase in the Revenue-Month Domestic Product rate of the budget increased from 8.2% to 13.5% by 2022. Moreover, the debt renovation process is probably complete.
-
-Overall, the performance of the project can be said to be very strong. The government can be said to be committed to the objectives of the comprehensive financial plan.
-
-Our team is currently in consultation with Sri Lankan authorities to hold the fifth value of comprehensive financial facility. Accordingly, our committee will announce the duration of the fifth review in the future. ”. Remble
-
-◼️
-
-[Data](articles/c495423c.json)
-
-[Extended Data](ext_articles/c495423c.ext.json)
-
----
-
-### A place for sale in school targeting school children
-
-*2025-10-04 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215337) · `si`
-
-A suspect racket was raided and arrested by school children as a group of officers who were in Moneragala in Moneragala town.
-
-Preliminary investigations have revealed that the suspect had sold the cigarettes to various amounts of money.
-
-The police have also taken into custody of e cigarettes and money in possession of the suspect.
-
-The suspect is a resident of Moneragala and is to be produced before the Moneragala Magistrate's Court.
-
-◼️
-
-[Data](articles/42d1d311.json)
-
-[Extended Data](ext_articles/42d1d311.ext.json)
 
 ---

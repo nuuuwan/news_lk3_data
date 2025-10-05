@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 16:37:43**
+As of **2025-10-05 16:20:33**
 
 ## Newspaper Stats
 
-*Scraped **81,320** Articles*
+*Scraped **81,301** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 603
 dbsjeyarajcom | 637
 bbccomsinhala | 724
+lankadeepalk | 808
 colombotelegraphcom | 809
-lankadeepalk | 814
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,789
-adaderanalk | 10,454
+adaderanalk | 10,441
 tamilmirrorlk | 12,076
 virakesarilk | 13,359
 adaderanasinhalalk | 13,978
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,978
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,301 (100.0%) of 81,320 articles have been extended.
+81,301 (100.0%) of 81,301 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,28 +50,6 @@ Indian and Pakistan players refrained from their hands on the tournament through
 [Data](articles/a14d7b68.json)
 
 [Extended Data](ext_articles/a14d7b68.ext.json)
-
----
-
-### Police obtain 7-day detention order on Backhoe Saman’s brother-in-law
-
-*2025-10-05 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113234/police-obtain-7-day-detention-order-on-backhoe-samans-brother-in-law) · `en`
-
-The Aluthkade Magistrate’s Court has granted permission to the Western Province North Crime Division to detain and interrogate the brother-in-law of notorious underworld criminal “Backhoe Saman” for seven days.
-
-The suspect was apprehended based on information disclosed by the notorious underworld figure Nedungoda Nirmala Prasanna, alias “Backhoe Saman,” who was previously arrested while residing overseas, police said.
-
-Police have also seized narcotics and a vehicle in the suspect’s possession.
-
-The suspect has been handed over to the Western Province North Crime Division for further investigations.
-
-The arrested suspect, a 27-year-old resident of Welipitiya, Middeniya, was found to have concealed a pistol, a magazine, and 550 grams of heroin in the area, which were recovered after interrogations, police stated.
-
-The Police Media Division stated that further investigations have been initiated regarding the apprehended suspect by the Western Province North Crime Division.
-
-◼️
-
-[Data](articles/e26ba9a3.json)
 
 ---
 
@@ -150,40 +128,6 @@ Sri Lanka's 100-meter running champions champions have also enabled the "Rapana 
 [Data](articles/c52e2f86.json)
 
 [Extended Data](ext_articles/c52e2f86.ext.json)
-
----
-
-### මී කඩන්න ගිය අයකු වෙඩි වැදී වැටිලා
-
-*2025-10-05 14:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/test/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/222-680760) · `si`
-
-යාල ජාතික වනෝද්‍යානයට මී කැඩීම සඳහා ඇතුළු වූ පුද්ගලයකු වෙඩි වැදී තුවාල සහිතව පැමිණ කතරගම කොච්චිපතාන ඝණ දේවාලය සීමාවෙි වැටී සිටියදී කතරගම පොලීසියට ලැබුණු දුරකථන ඇමතුමක් මත එම පුද්ගලයා හම්බන්තොට මහ රෝහලට යැවූ බව කතරගම පොලීසිය කියයි.
-
-මෙලෙස තුවාල ලබා ඇත්තේ කතරගම කඳසුරිඳුගම ප්‍රදේශයේ පදිංචි 56 හැවිරිදි අයෙකි.
-
-මෙම පුද්ගලයා මී කැඩීම සඳහා  යාල උද්‍යානයට ඇතුළුවූ බවත්, මස් බෑගයක් සමඟ පැමිණි දෙදෙනකු ගෙන් අයකු බෙහෙත් කොටන ගිනි අවියකින් වෙඩි තැබූ බවත්, එම ස්ථානයේ ඇදවැටී පැයකීපයකට පසුව සෙමින් සෙමින් මෙලෙස පැමිණි බවත් ඔහු පොලීසියට පවසා ඇත.
-
-පොලීසිය මගින් අත්අඩංගුවට ගත් මෙම පුද්ගලයා කතරගම රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රථිකාර සඳහා හම්බන්තොට මහ රෝහලට යවා ඇත.
-
-◼️
-
-[Data](articles/60b17fa8.json)
-
----
-
-### බඹරු ඇන 9ක් රෝහලේ
-
-*2025-10-05 14:21:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඹර-ඇන-9ක-රහල/101-680759) · `si`
-
-මඩොල්සිම පුංචි ලෝකාන්තය නැරඹීමට  බියගම  මල්වානේ ප්‍රදේශයේ සිට පැමිණි සංචාරක පිරිසකට අද (5) එල්ලවු බඹර ප්‍රහාරයකින් නවදෙනෙකු තුවාල ලබා ලුණුගල රෝහලට ඇතුලත් කළබව මඩොල්සිම පොලිසිය පවසයි .
-
-බියගම මල්වාන ප්‍රදේශයේ  දස දෙනෙකුගෙන් සමන්විත  තරුණයන් පිරිසක් මඩොල්සිම පුංචි ලෝකාන්තය නැරඹීමට ඊයේ (4) පැමිණ රාත්‍රි මඩොල්සිම පුංචි ලෝකාන්තය අසල කුඩාරම් ගසා රාත්‍රි ගතකර අද (5) උදෑසන පුංචි ලෝකාන්තය නැරඹීමට ගොස් සිටියදි මෙසේ එක්වරම ඒ අසල බැද තිබු බඹර කූඩුවක් ඇවිස්සී මොවුන්ට විදීමට පටන් ගෙන ඇතයි පොලිසිය කීය .
-
-පසුව බඹර ප්‍රහාරයට ගොදුරු වූවන් ඒ මේ අත දිවගොස් ඇති බවත් ඔවුන්ට බඹරුන් එළව එළවා ප්‍රහාර එල්ලකර ඇති බවත් පොලිසිය සදහන් කලේය . පසුව ඒ අවට උදවිය මඩොල්සිම පොලිස් නිළධාරින් එක්වී දුම්ගසා බඹරුන් පළවාහැර තුවාල ලැබූවන් ලුණුගල රෝහලට ඇතුලත් කල බවත් පොලිසිය පවසයි .
-
-◼️
-
-[Data](articles/3ad5ff9f.json)
 
 ---
 
@@ -301,28 +245,6 @@ Accordingly, out of which 731 persons were selected to recruit the proper qualif
 
 ---
 
-### Advisory issued for severe lightning
-
-*2025-10-05 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113232/advisory-issued-for-severe-lightning) · `en`
-
-An ‘Amber’ advisory has been issued by the Department of Meteorology for severe lightning in several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in the Northern, North-central, Eastern, Uva and North-western provinces and in Matale district, the department stated.
-
-There may be temporary localized strong winds during thundershowers, it added.
-
-Accordingly, the general public has been requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public has also been requested to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, and also to refrain from using wired telephones and connected electric appliances during thunderstorms.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/d22bb58c.json)
-
----
-
 ### Surya's Mandadi telephone accident: Rs 1 crore damage
 
 *2025-10-05 13:27:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சூரியின்-மண்டாடி-படப்பிடிப்பில்-விபத்து-ரூ-1-கோடி-சேதம்/54-365757) · `ta`
@@ -410,26 +332,6 @@ COLOMBO (News 1st);An illegally imported jeep, registered with the Department of
 [Data](articles/a993e5b2.json)
 
 [Extended Data](ext_articles/a993e5b2.ext.json)
-
----
-
-### Passenger arrested at BIA while attempting to smuggle foreign cigarettes worth over Rs. 4.5 mln
-
-*2025-10-05 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/113231/passenger-arrested-at-bia-while-attempting-to-smuggle-foreign-cigarettes-worth-over-rs-45-mln-) · `en`
-
-A Sri Lankan passenger has been arrested at the Bandaranaike International Airport (BIA) by officers of the Police Narcotics Bureau (PNB) while attempting to smuggle a consignment of foreign-manufactured cigarettes worth Rs. 4.5 million into the country.
-
-The 44-year-old suspect who is identified as a fisherman from Kalpitiya, Puttalam was arrested earlier this morning (05).
-
-He had arrived at the Katunayake Airport from Dubai on SriLankan Airlines flight UL-226 at 05.25 a.m today.
-
-Upon inspection, officials discovered 150 cartons containing 30,000 sticks of foreign cigarettes concealed inside two pieces of luggage.
-
-The suspect, along with the seized cigarettes, is scheduled to be produced before the Negombo Magistrate’s Court on 08 October 2025.
-
-◼️
-
-[Data](articles/328a83b9.json)
 
 ---
 
@@ -543,26 +445,6 @@ The meeting was organized to treat the UNP convention successful and treat leadi
 
 ---
 
-### Trump authorises deployment of 300 National Guard troops to Chicago
-
-*2025-10-05 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113230/trump-authorises-deployment-of-300-national-guard-troops-to-chicago) · `en`
-
-President Donald Trump has authorised the deployment of 300 National Guard troops to Chicago to address what he says is out-of-control crime.
-
-The move came hours after immigration authorities said they faced off with protesters in the Democrat-run city and shot an armed woman when she and others rammed their cars into law enforcement vehicles.
-
-State and local leaders have for weeks criticised Trump’s deployment plans and called it an abuse of power. Illinois Governor JB Pritzker said Trump was “attempting to manufacture a crisis”.
-
-The announcement came as a federal judge in Portland, Oregon - another liberal city - temporarily blocked the Trump administration from deploying 200 troops there.
-
-Judge Karin Immergut called Trump’s statements about conditions in Portland “untethered to the facts,” and said the move violated the Constitution.
-
-...
-
-[Data](articles/e075a218.json)
-
----
-
 ### Power Outages Across Sri Lanka Amid Rainy Weather and Ongoing Strike
 
 *2025-10-05 12:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/power-outages-across-sri-lanka-amid-rainy-weather-and-ongoing-strike) · `en`
@@ -645,22 +527,6 @@ The Prime Minister as the Minister of Education, Higher Education and Vocational
 
 ---
 
-### Ex-President Mahinda calls people’s affection a ‘heartfelt bond beyond politics’
-
-*2025-10-05 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113229/ex-president-mahinda-calls-peoples-affection-a-heartfelt-bond-beyond-politics) · `en`
-
-Former President Mahinda Rajapaksa has declared that the love and support of the people as a bond rooted in trust and mutual respect, free from any profit motives.
-
-In a post on his Facebook account, Rajapaksa reflected on his long years among the public, saying he has experienced firsthand the depth of people’s affection.
-
-“Must say this is not just a political relationship but also a heartfelt bond that is difficult to break. More bonds can be stronger through attempts to break. I have experienced the maximum happiness as a leader of the people, throughout this time spent with the people. I express my respectful thanks to everyone.”
-
-◼️
-
-[Data](articles/76f9380e.json)
-
----
-
 ### Three Dead In Narammala Road Accident
 
 *2025-10-05 12:11:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/three-dead-in-narammala-road-accident) · `en`
@@ -728,24 +594,6 @@ He made this statement addressing the supporters at the Kurunegala District Secr
 [Data](articles/fdefc143.json)
 
 [Extended Data](ext_articles/fdefc143.ext.json)
-
----
-
-### 731 to receive permanent Postal Assistant appointments
-
-*2025-10-05 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/113228/731-to-receive-permanent-postal-assistant-appointments) · `en`
-
-A total of 731 individuals have been selected for appointment to the post of Postal Assistant Grade III under the Primary Non-Skilled Service Category of the Department of Posts.
-
-The permanent appointment letters for the selected group are scheduled to be issued  tomorrow (06) at the Temple Trees premises under the patronage of the Minister of Health and Mass Media, Dr. Nalinda Jayatissa.
-
-The Department of Posts has not made any permanent recruitment for Postal Assistants since 2021, resulting in 1,982 vacancies by the end of last year.
-
-With such a substantial number of vacancies, the operations of the Department were facing a serious crisis. To address this, the Cabinet of Ministers, at the request of Minister Nalinda Jayatissa, approved the recruitment of 1,000 of the relevant vacancies on 19 August 2025.
-
-...
-
-[Data](articles/09ca16d6.json)
 
 ---
 
@@ -1441,30 +1289,6 @@ The driver of the bus was arrested and Narammala police are conducting further i
 
 ---
 
-### Three dead, 3 injured in lorry-bus collision at Narammala
-
-*2025-10-05 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113227/three-dead-3-injured-in-lorry-bus-collision-at-narammala) · `en`
-
-At least three individuals have died and three others have sustained injuries following a collision involving a lorry and a bus near Narammala town on the Narammala-Kurunegala main road, police stated.
-
-According to police, the accident occurred earlier this morning (05).
-
-The driver of the lorry, who was travelling from Kurunegala towards Narammala, had lost control of the vehicle causing it to veer off the right side of the road, colliding with a Sri Lanka Transport Board (SLTB) bus travelling from Katunayake to Akkaraipattu.
-
-The lorry driver, another male, two women, and two children who were traveling in the lorry, sustained injuries and were admitted to Narammala and Kurunegala hospitals.
-
-The driver, the male passenger, and one woman later succumbed to their injuries.
-
-The deceased, aged 41, 80, and 82, were residents of Polonnaruwa, police said.
-
-A 40-year-old woman and two girls, aged 16 and 9, who were traveling in the same lorry, are still receiving treatment at Kurunegala Hospital.
-
-...
-
-[Data](articles/be4cd4bf.json)
-
----
-
 ### The Land Commission removes the boss
 
 *2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉඩම-කමසම-ලකක-ඉවත-කරය/101-680747) · `si`
@@ -1631,26 +1455,6 @@ In this case, Periyar Selvan, a 12 -year -old boy from Padmapriya couple from Mu
 
 ---
 
-### Suspect wanted over shooting and attempted murder arrested in Maradana
-
-*2025-10-05 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113226/suspect-wanted-over-shooting-and-attempted-murder-arrested-in-maradana-) · `en`
-
-A suspect wanted by the police in connection with an attempted murder by shooting in Panchikawatta area of Maradana, has been arrested by officers of the Colombo North Divisional Crime Investigation Bureau.
-
-The suspect was arrested yesterday (04) on Abeysingharama Road, within the Maradana Police Division, following a tip-off received by the bureau.
-
-At the time of the arrest, police also recovered 22 grams and 200 milligrams of the narcotic substance known as ‘Ice’ from his possession.
-
-The suspect has been identified as a 40-year-old resident of the Embilipitiya area, police said.
-
-Further investigations have revealed that the suspect is the gunman involved in the attempted murder by shooting that took place in the Panchikawatte area, within the Maradana Police Division, on September 6, 2025.
-
-...
-
-[Data](articles/e906622b.json)
-
----
-
 ### Geneva resolution against Sri Lanka
 
 *2025-10-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226916) · `ta`
@@ -1720,26 +1524,6 @@ The suspects arrested by the Marines have been identified as from the Kalpitiya 
 [Data](articles/9c2b2a00.json)
 
 [Extended Data](ext_articles/9c2b2a00.ext.json)
-
----
-
-### Typhoon Matmo strengthens, prompting China to evacuate 150,000 people ahead of landfall
-
-*2025-10-05 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113225/typhoon-matmo-strengthens-prompting-china-to-evacuate-150000-people-ahead-of-landfall) · `en`
-
-Typhoon Matmo strengthened ahead of making landfall on Sunday (Oct 5) in China, prompting the government to evacuate 150,000 people from southern Guangdong province.
-
-The storm had maximum sustained wind speeds of 151 kmh on Sunday morning, according to China’s National Meteorological Center. It is expected to make landfall around midday. The weather authority issued a red level typhoon warning, the highest in its system.
-
-Hainan province, which is also in the pathway of the storm, cancelled flights and shut down public transport and businesses starting on Saturday in preparation for the storm.
-
-Guangdong province, whose southwestern parts will be hit, evacuated 151,000 people, according to official media The Paper. Macau, which is not in the storm’s direct path, said classes and tutoring sessions will not be held due to weather conditions.
-
-Authorities are also warning of heavy rain, with rainfall expected to hit 100 to 249 mm in some parts.
-
-...
-
-[Data](articles/7d120d7d.json)
 
 ---
 
@@ -1899,30 +1683,6 @@ It is noteworthy that he carried out Performance Evaluations and Injury-Risk Ass
 
 ---
 
-### Netanyahu says he hopes to announce hostage release in the ‘coming days’
-
-*2025-10-05 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113224/netanyahu-says-he-hopes-to-announce-hostage-release-in-the-coming-days) · `en`
-
-Israeli Prime Minister Benjamin Netanyahu has said he hopes to announce the release of hostages being held in Gaza “in the coming days”.
-
-In a televised statement, he also said “Hamas will be disarmed and Gaza will be demilitarised – either the easy way or the hard way, but it will be achieved.”
-
-The comments came after Hamas released a statement on Friday in which it agreed to free the hostages under a US peace plan, but did not mention disarmament and sought negotiations on other issues.
-
-Hamas said on Saturday that Israel was continuing to commit “massacres”, after strikes hit Gaza in the morning, and it urged global pressure on Israel.
-
-Indirect ceasefire talks between the parties are set to start in Egypt on Monday.
-
-US President Donald Trump said he would “not tolerate delay” from Hamas to complete a deal.
-
-In a post on his Truth Social platform, Trump said: “Hamas must move quickly, or else all bets will be off... Let’s get this done, FAST.”
-
-...
-
-[Data](articles/f26d9abd.json)
-
----
-
 ### Mother of Moda's operation on the army of the Gaza
 
 *2025-10-05 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215354) · `si`
@@ -1952,22 +1712,6 @@ COLOMBO (News 1st);A house in Omatta, Elpitiya was targeted in a shooting last n
 [Data](articles/36a485c6.json)
 
 [Extended Data](ext_articles/36a485c6.ext.json)
-
----
-
-### ක්‍රිප්ටෝ මුදල්: මහ බැංකුවෙන් තීරණයක්
-
-*2025-10-05 08:13:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කරපට-මදල-මහ-බකවන-තරණයක/1-680746) · `si`
-
-ආන්දෝලනයට තුඩු දී ඇති ක්‍රිප්ටෝ මුදල්  සම්බන්ධයෙන් ඉදිරියේදී කටයුතු කළ යුතු  විද්‍යාත්මක  ආකාරය  පිළිබඳව  ප්‍රතිපත්තිමය තීරණ ගැනීම සඳහා ඉහළ මට්ටමේ කමිටුවක් පත් කරන්නැයි  ශ්‍රී ලංකා මහ බැංකුව රජයට යෝජනා කර ඇත.
-
-මේ අවශ්‍යතාව දැනුම් දෙමින් ශ්‍රී ලංකා  මහ බැංකුව   මුදල් අමාත්‍යාංශයට ලිපියක්ද  යොමුකර ඇත. මේ වැඩ පිළිවෙල සම්බන්ධයෙන්  රජය පාර්ශ්වයෙන් ද එකඟතාවය  ලැබී  ඇතැයි මුදල් අමාත්‍යාංශ ආරංචිමාර්ගවලින්   පැවසේ.
-
-රජයේ අමාත්‍යවරුන්  ඉදිරිපත් කර ඇති වත්කම් ප්‍රකාශයන්හිද  ක්‍රිප්ටෝ මුදල් ආයෝජන කර ඇති බවට සඳහන් කර තිබීම  හේතුවෙන්  පසුගිය දිනවල මෙම මුදල්  සම්බන්ධයෙන් සමාජයේ  දැඩි කතාබහක්ද  නිර්මාණය විය
-
-◼️
-
-[Data](articles/14f1ea53.json)
 
 ---
 
@@ -2034,5 +1778,261 @@ The deceased has been identified as a 23 year old resident of Aranayaka.
 [Data](articles/4501ebf9.json)
 
 [Extended Data](ext_articles/4501ebf9.ext.json)
+
+---
+
+### Sri Lanka Election Commission won the World Best Elections Commission award!
+
+*2025-10-05 07:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226909) · `ta`
+
+The Sri Lanka Elections Commission has announced that it has won the award for the best Election Commission in the world.
+
+The Sri Lanka Election Commission of Sri Lanka has received this honorable award for the Commissions of Commissions in Democracy and Elections on the International Forum.
+
+The award has been awarded in recognition of the transparency, ability and credibility of the Sri Lanka Elections Commission in the election process.
+
+◼️
+
+[Data](articles/5ca6fe47.json)
+
+[Extended Data](ext_articles/5ca6fe47.ext.json)
+
+---
+
+### Two persons arrested with illegal beedi leaves
+
+*2025-10-05 07:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226908) · `ta`
+
+During a special search operation conducted by the Marines in the Kalpitiya - Tuttawa, two suspects have been arrested with about 405 kilograms of beedi leaves and a dingi boat that illegally attempted to bring it to the country.
+
+The Navy is carrying out regular testing and search operations, including the sea and beaches around the country to counter illegal activities, including smuggling.
+
+Accordingly, the suspicious Tinky (01) boat was raided during the special search operation carried out by the Sri Lanka Navy in the North Western Navy, in the sea near Kalpitiya on the night of the 3rd.
+
+இந்த நடவடிக்கையின் போது, சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்ட சுமார் 405 கிலோகிராம் நிறையுடைய பீடி இலைகள் மற்றும் டிங்கி படகுடன் இரு  சந்தேக நபர்களை  கடற்படையினர் கைதுசெய்தனர்.
+
+In addition, the suspects arrested by the Navy during the operation have been identified as from the Kalpitiya - estate and school areas.
+
+...
+
+[Data](articles/798fae09.json)
+
+[Extended Data](ext_articles/798fae09.ext.json)
+
+---
+
+### Padmasiri Liyanage Removed As DG Of Land Reforms Commission
+
+*2025-10-05 07:21:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/padmasiri-liyanage-removed-as-dg-of-land-reforms-commission) · `en`
+
+COLOMBO (News 1st); Padmasiri Liyanage has been removed from his position as the Director General of the Land Reforms Commission.The decision follows the revelation of several irregularities within the Commission during the proceedings of the COPE Committee.Deputy Minister of Lands and Irrigation, Susil Ranasinghe, stated that Dineka Jayasuriya has been appointed as the Acting Director General of the Land Reforms Commission.
+
+◼️
+
+[Data](articles/56baedf0.json)
+
+[Extended Data](ext_articles/56baedf0.ext.json)
+
+---
+
+### STF, Navy Probe Weapon Find in Weheragala
+
+*2025-10-05 07:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/stf-navy-probe-weapon-find-in-weheragala) · `en`
+
+COLOMBO (News 1st); The Police Special Task Force (STF) conducted a special search operation inside the Yala Sanctuary near the Weheragala Reservoir in Kataragama, following the recent discovery of a stock of empty magazines and equipment in the reservoir.Police said nothing suspicious was found during the STF search operations in the sanctuary.Meanwhile, the Navy concluded its search operations in the Weheragala Reservoir yesterday. Three Navy search teams were deployed for the operation.During the operation, authorities recovered 215 empty T56 magazines, 39 empty LMG drum magazines, 11 MPMG 200 magazines, 9 MPMG 100 magazines, 6 T81 magazines, and 100 empty 12.7mm anti-aircraft gun drums.The recovered stock of items is scheduled to be produced before the Wellawaya Magistrate’s Court next Tuesday, police added.
+
+◼️
+
+[Data](articles/6a1f8f8a.json)
+
+[Extended Data](ext_articles/6a1f8f8a.ext.json)
+
+---
+
+### Stalin, Struggle against Vijay - Northern Province Fishermen's Internet
+
+*2025-10-05 07:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226902) · `ta`
+
+Speaker Annalingam Annarasa has warned that the fishermen's community will soon be able to carry out a massive struggle against both of them if the Tamil Nadu Chief Minister Stalin and the leader of the Tamil Nadu Victory Association, Vijay and the Kachchativu politics of our country are used for politics.
+
+He was speaking at a media briefing held at his residence in Jaffna on Saturday (4).
+
+The Chief Minister of Tamil Nadu, MK Stalin, continues to speak on political platforms against the Northern Fisheries Society that he will rescue Kachchativu.
+
+Chief Minister, on the basis of goodwill, the Northern Fisheries Society sent you three Majors in 2023. You have not given any answer to that. But you are doing a thing that lifted the Kachchativu issue for political existence and hated the Northern fishermen.
+
+Do not speak in Tamil Nadu a false accusation for your political existence that Indian fishermen are suffering from Kachchativu.
+
+...
+
+[Data](articles/43ff2fe9.json)
+
+[Extended Data](ext_articles/43ff2fe9.ext.json)
+
+---
+
+### Suspect arrested for attempting murder
+
+*2025-10-05 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215352) · `si`
+
+The Colombo North North Division Investigation Bureau has been arrested by the Colombo North North Division.
+
+The suspect was arrested on the Maradana Police Division in the Maradana Police Division yesterday (04).
+
+At the time of his arrest, the suspect had discovered 22 ice narcotics.
+
+It was revealed that the shooting was found in the Punchikawatte area in Panchaikatta, the Suspect's police division in the Suspect's police area.
+
+The Colombo North Division Criminal Investigation Bureau has been launched and three suspects including motorcyclists and other suspects involved in the crime have been remanded after being produced before court.
+
+The Colombo North Division Criminal Investigation Bureau is conducting further investigations.
+
+◼️
+
+[Data](articles/c4e9a97f.json)
+
+[Extended Data](ext_articles/c4e9a97f.ext.json)
+
+---
+
+### Rain strongly today
+
+*2025-10-05 07:02:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අදත-තදන-වසස/101-680745) · `si`
+
+The Department of Science has said that a favorable atmosphere is in the evening.
+
+Tighters and strong winds and strong lightning are not necessary.
+
+Thundershowers will develop at several places in many parts of the country.
+
+Showers will occur at the Western, Sabaragamuwa, North Western provinces and in the morning in Galle, Matara, Jaffna and Mannar districts.  In the Vavuniya Districts, the Vavuniya Districts, the Vavuniya Districts, the Vavuniya Districts, the Vavuniya Districts and several millions of highway will occur in the Vavuniya Districts.
+
+◼️
+
+[Data](articles/53af9385.json)
+
+[Extended Data](ext_articles/53af9385.ext.json)
+
+---
+
+### Baco Saman's brother-in-law arrested
+
+*2025-10-05 06:55:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බක-සමනග-මසසන-කඩ-සමග-මටට/101-680744) · `si`
+
+The Western Province, the Western Criminal Division, has been arrested in Indonesian rates in Indonesia, the Western Province North Criminal Division said.
+
+The suspect has been taken into custody by the police with a micro pistol weapon, a micro pistol weapon and 577 g of bullets and 577 g of drugs.
+
+Special Task Force Special Operations Special Operations
+
+◼️
+
+[Data](articles/72c389f5.json)
+
+[Extended Data](ext_articles/72c389f5.ext.json)
+
+---
+
+### Shooting of the Alpitty
+
+*2025-10-05 06:52:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇලපටය-වඩ-තබමක/101-680743) · `si`
+
+Elpitiya Police say that the unidentified gunmen had fled to a high house in Elpitiya.
+
+The shooting has damaged the front window, police said.
+
+The shooting has been carried out by a former army soldier conducting a few businesses.
+
+The former soldiers were a character named the village of the village and was threatened with the underworld that he had been threatened with hearing and to intimidate him.
+
+Two soldiers who had been in the home had taken place at home and two were shot dead.
+
+Police said that the real cause of shooting the house was yet to be revealed.
+
+◼️
+
+[Data](articles/f1d27cd8.json)
+
+[Extended Data](ext_articles/f1d27cd8.ext.json)
+
+---
+
+### Sapugaskanda Refinery Attracts Global Investors
+
+*2025-10-05 06:45:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/sapugaskanda-refinery-attracts-global-investors) · `en`
+
+COLOMBO (News 1st); Twenty international companies have expressed interest in developing the Sapugaskanda Oil Refinery during the recent call for proposals.Chairman of the Ceylon Petroleum Corporation, D. A. Rajakaruna, said the interested firms include those from the Middle East, the United States, China, Russia, India, and Japa
+
+◼️
+
+[Data](articles/77f4307f.json)
+
+[Extended Data](ext_articles/77f4307f.ext.json)
+
+---
+
+### Elpitiya shooting in Omstawaththa
+
+*2025-10-05 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215351) · `si`
+
+Elpitiya has been shot dead at the Oumoththa area yesterday (05).
+
+The shooting was carried out by a man from a motorcycle.
+
+The shooting no one was damaged by the shooting, but there is a window of the house.
+
+The cause of the shooting is yet to be ascertained and the police have been shot against the arrest of drug information in the area.
+
+◼️
+
+[Data](articles/2f12b540.json)
+
+[Extended Data](ext_articles/2f12b540.ext.json)
+
+---
+
+### The weather today
+
+*2025-10-05 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226907) · `ta`
+
+The atmospheric conditions are optimized for thunderstorms in the evening. Heavy rains with strong winds and thunderstorms may have major lightning strikes. The Department of Meteorology has urged the public to take necessary precautions to avoid the losses or damage caused by the public.
+
+Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
+
+Rainfall is expected in many parts of Sabaragamuwa, Upper and North Western Provinces as well as in many parts of Galle, Matara, Jaffna and Mannar districts.
+
+Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper, North Central and Uva provinces, as well as some parts of the Vavuniya and Mullaitivu districts.
+
+Thundershowers will occur in the sea regions from Kankesanthurai to Puttalam, Colombo and Galle.
+
+Rainfall or thunderstorms can occur in many parts of other sea regions around the country in the evening or night.
+
+...
+
+[Data](articles/a7b749c5.json)
+
+[Extended Data](ext_articles/a7b749c5.ext.json)
+
+---
+
+### Heavy rains in several areas today
+
+*2025-10-05 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215350) · `si`
+
+The Meteorological Department says that there is a favorable atmospheric conditions for thundershowers during the evening today (05).
+
+Therefore, the Department of Meteorology has informed the people to take necessary steps to reduce the necessary steps to reduce accidents, strong winds and strong winds.
+
+Showers or thundershowers will occur at several places elsewhere in many parts of the country.
+
+The Department of Meteorology states that there will be showers in the Western, Sabaragamuwa and Northwestern provinces and in the Matara, Matara, Jaffna and Mannar districts.
+
+In some places, the Western, Sabaragamuwa, Central, North-Central and Uva provinces, the Vavuniya and MM. Heavy showers may occur at over 75.
+
+◼️
+
+[Data](articles/11c08603.json)
+
+[Extended Data](ext_articles/11c08603.ext.json)
 
 ---

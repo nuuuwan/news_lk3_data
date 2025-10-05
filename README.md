@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 06:25:07**
+As of **2025-10-05 07:51:52**
 
 ## Newspaper Stats
 
-*Scraped **81,179** Articles*
+*Scraped **81,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ lankadeepalk | 781
 colombotelegraphcom | 809
 dailymirrorlk | 4,733
 economynextcom | 4,774
-islandlk | 4,892
+islandlk | 4,905
 dailyftlk | 5,664
 adalk | 7,782
 adaderanalk | 10,441
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,959
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,179 (100.0%) of 81,179 articles have been extended.
+81,184 (100.0%) of 81,192 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -171,6 +171,22 @@ An magnitude 6 earthquake struck near the east coast of Honshu, Japan, on Saturd
 
 ---
 
+### Dilmah Awards LKR 3 Million to Winners of Unique Photo Competition
+
+*2025-10-04 21:51:00* · [`islandlk`](http://island.lk/dilmah-awards-lkr-3-million-to-winners-of-unique-photo-competition/) · `en`
+
+Dilmah Tea celebrated the Top 70 including 37 award winners of a unique photography competition and exhibition ‘One Earth: Unveiling Sri Lanka’s Biodiversity’, that went beyond conventional wildlife photography competitions to capture the often-overlooked dimensions of biodiversity.
+
+“Inviting both established and aspiring photographers through Open and School categories, One Earth inspired participants to move beyond picturesque jungle scenes and reveal the fragility, urgency, and resilience of nature in backyards, waterways, and nightscapes – resulting in a powerful collection of images carrying compelling conservation messages,” a Dilmah news release explained.
+
+...
+
+[Data](articles/5dfcbc55.json)
+
+[Extended Data](ext_articles/5dfcbc55.ext.json)
+
+---
+
 ### The fatal accident that lost a student
 
 *2025-10-04 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215347) · `si`
@@ -190,6 +206,52 @@ The driver of the lorry has been arrested by the police in connection with the a
 [Data](articles/847e1370.json)
 
 [Extended Data](ext_articles/847e1370.ext.json)
+
+---
+
+### SLIC offers Rs.1 Mn free life cover to parents of children born on World Children’s Day 2025
+
+*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/slic-offers-rs-1-mn-free-life-cover-to-parents-of-children-born-on-world-childrens-day-2025/) · `en`
+
+In celebration of World Children’s Day 2025, Sri Lanka Insurance Life (SLIC Life) proudly extended a Rs. 1 million free life insurance cover to the parents of every child born on October 1st across the island. Now in its fourth consecutive year, the initiative reflects SLIC Life’s mission to provide financial protection to families at crucial moments while reinforcing the value of life insurance as a safety net.
+
+This free life cover provides parents of newborns with vital financial security during uncertain times, helping families lay a stable foundation for the future. On October 1st, SLIC Life implemented the programme nationwide, covering every hospital in Sri Lanka to ensure parents across the country benefitted from this unique offering.
+
+...
+
+[Data](articles/d5d307dd.json)
+
+[Extended Data](ext_articles/d5d307dd.ext.json)
+
+---
+
+### Sanjaya Gunawardana begins tenure as MD/CEO of Sampath Bank PLC
+
+*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/sanjaya-gunawardana-begins-tenure-as-md-ceo-of-sampath-bank-plc/) · `en`
+
+Sampath Bank PLC announced that Sanjaya Gunawardana officially commenced his tenure as the 9th Managing Director/Chief Executive Officer of the Bank on 24th September 2025. He succeeds Mrs. Ayodhya Iddawela Perera, who concluded her term in office after steering the Bank through a period of growth and transformation, leaving behind a legacy of commitment, excellence, and service.
+
+Sanjaya Gunawardana is a distinguished banking professional with over 36 years of experience across Retail Banking, Trade Finance, Information Technology, Strategic Planning, and Organisational Development. His multidimensional expertise and forward-looking approach to leadership have positioned him as a transformative figure in Sri Lanka’s banking industry.
+
+...
+
+[Data](articles/e1a00a2b.json)
+
+[Extended Data](ext_articles/e1a00a2b.ext.json)
+
+---
+
+### Gehenu Lamayi in Sri Lanka
+
+*2025-10-04 21:33:00* · [`islandlk`](http://island.lk/gehenu-lamayi-in-sri-lanka/) · `en`
+
+After what seems to have been an eternity, it was refreshing to hear a Prime Minister who knew what she was talking about and whom she was talking to. Last Friday, 26 September, Dr. Harini Amarasuriya was the Chief Guest at the Sri Lanka premiere of the 4K restoration of Gehenu Lamayi. Reflecting on the film, Amarasuriya noted its director Sumitra Peries as a trendsetter and a trailblazer. She went on to add that she was more than a director, arguing that she broadened our understanding of feminism in South Asia.
+
+...
+
+[Data](articles/9e6b0e43.json)
+
+[Extended Data](ext_articles/9e6b0e43.ext.json)
 
 ---
 
@@ -290,6 +352,54 @@ They have tented their young and older groups from various parts of the island.
 [Data](articles/17681c9d.json)
 
 [Extended Data](ext_articles/17681c9d.ext.json)
+
+---
+
+### Combination of circumstances gives CBK the opportunity to dissolve Parliament
+
+*2025-10-04 21:10:00* · [`islandlk`](http://island.lk/combination-of-circumstances-gives-cbk-the-opportunity-to-dissolve-parliament/) · `en`
+
+Bradman takes final bow after a period on intense political manoeuvering
+
+Ranil’s strength, according to the Constitution, came from his supremacy in Parliament. With great managerial skill he managed to keep at all times a sizable majority in place. The UNF never lost a vote in Parliament during those two years (Ranil was PM). The UNF itself was a coalition bringing together five parties which contested the election together. It must have brought much credit to his political acumen and management skills that in spite of severe stresses and strains, the UNF held together. It was also quite remarkable in a country where party political loyalties are notably fickle, that during the period of his government there was not a single resignation from party or office.
+
+...
+
+[Data](articles/e46bd8c3.json)
+
+[Extended Data](ext_articles/e46bd8c3.ext.json)
+
+---
+
+### More fruit for their labour
+
+*2025-10-04 21:07:00* · [`islandlk`](http://island.lk/more-fruit-for-their-labour/) · `en`
+
+“They look close to dead,” says Sri Lankan farmer Shantha Dissanayake looking at his pruned mango trees.
+
+“They looked close to dead,” says Sri Lankan farmer, Shantha Dissanayake, about his mango trees.
+
+“However, this experiment has turned out to be a complete success.”
+
+Shantha has spent a lot of time worrying about elephants stomping over his mango orchards. But he became even more scared when agricultural experts came from abroad and hacked his trees down to relative shadows of their former selves. The trees are much shorter than before, with fewer but wider branches that allow sunlight to boost fruit quality and naturally prevent plant diseases.
+
+Zengxian Zhao, the man who cut the trees in the first place, laughed at Shantha’s memory of the event. “He was initially shocked, but he’s been convinced and is spreading the word,” said Zengxian, an expert on crop cultivation.
+
+...
+
+[Data](articles/4638013d.json)
+
+---
+
+### Why APEC Cannot Save Asia?
+
+*2025-10-04 21:05:00* · [`islandlk`](http://island.lk/why-apec-cannot-save-asia/) · `en`
+
+There is no rosy picture on the horizon for Asia, nor for much of the planet. West Asia will continue to burn, its embers fanned by the possibility of fresh escalations with Iran, even as the Gaza war drags towards a brutal close by the first quarter of next year. Ukraine remains the grand theatre for warmongers, with NATO edging towards deeper intervention against Russia, threatening to drag the world into a legal and moral limbo from which there may be no escape. Latin America fractures under its own contradictions: Argentina sinks into crisis under Javier Milei’s economic experiments, while Colombia’s Gustavo Petro, Brazil’s Lula da Silva, and others tilt eastwards in defiance of Washington’s grip.
+
+...
+
+[Data](articles/8fda0634.json)
 
 ---
 
@@ -452,6 +562,36 @@ Investigations have been conducted further investigations to ensure resource Man
 [Data](articles/5bcf346c.json)
 
 [Extended Data](ext_articles/5bcf346c.ext.json)
+
+---
+
+### Some faces and lives from the mid 20th century
+
+*2025-10-04 19:56:00* · [`islandlk`](http://island.lk/some-faces-and-lives-from-the-mid-20th-century/) · `en`
+
+I have lived in exile in the United Kingdom for more years than I care to remember. Now, in retirement, my thoughts often drift back to my youth recalling the faces and names that once filled the media and shaped our lives, in our island paradise.
+
+The mid-twentieth century was a time of great upheaval, shaping not only the course of nations but also the lives of ordinary people like us. In Ceylon, the Second World War and the struggle for independence from British rule cast long shadows over our families and communities. These were the years in which we grew—from infants in our mothers’ arms to adults carrying the weight of responsibility in a changing world. It was a period of transition and enormous transformation.
+
+As a newly independent nation, unity among all its people was crucial for progress and prosperity, although at times this wisdom was overshadowed by the chaos of politics.
+
+...
+
+[Data](articles/4e3b312e.json)
+
+---
+
+### Lumumba alumni gather for nostalgic 50th anniversary
+
+*2025-10-04 19:49:00* · [`islandlk`](http://island.lk/lumumba-alumni-gather-for-nostalgic-50th-anniversary/) · `en`
+
+In the latter part of 1970, a group of us left for Moscow on scholarships—young, eager, and filled with dreams. Five years later, in 1975, we returned home with flying colours. Today, more than half a century later, some of us remain active in our professions, many have retired, while a few have drifted away from contact—and sadly, some are no longer with us.
+
+From the very first day we set foot in Moscow, our lives changed forever. That moment marked the beginning of a new chapter and a turning point in our personal journeys. The initial days were challenging—adjusting to the harsh Russian winter, adapting to a new culture, and finding our footing in an unfamiliar land. Yet, the years we spent at the prestigious Peoples’ Friendship University (then Lumumba University) with students from across the globe in the Soviet Union were nothing short of transformative.
+
+...
+
+[Data](articles/0b7883f4.json)
 
 ---
 
@@ -1848,179 +1988,5 @@ In Jaffna, Anuradhapura Bentota and Colombo, Colombo, Jaffna, Jaffna, Jaffna.
 [Data](articles/15bf675b.json)
 
 [Extended Data](ext_articles/15bf675b.ext.json)
-
----
-
-### President pays eight million in Bungalow in maintenance
-
-*2025-10-04 14:36:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-බගල-නඩතතවට-කට-අටක-ගවල/1-680727) · `si`
-
-The Presidential Secretariat has spent Rs.
-
-Three hundred and two civil servants have been deployed in this presidential Pressure. Thirty million rupees (13,741,080 million) had been spent on the payment of salaries and allowances for 16 civil servants.
-
-The audit report included in the 2024 Annual Performance Report of the Presidential Secretariat
-
-In Jaffna, Anuradhapura Bentota and Colombo, Colombo, Jaffna, Jaffna, Jaffna.
-
-◼️
-
-[Data](articles/9edeaaf2.json)
-
-[Extended Data](ext_articles/9edeaaf2.ext.json)
-
----
-
-### Sri Lankan people warned of heavy lightning impact
-
-*2025-10-04 14:17:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மின்னல்-தாக்கம்-குறித்து-இலங்கை-மக்களுக்கு-எச்சரிக்கை/175-365705) · `ta`
-
-The Department of Meteorology has said that thunderstorms and heavy lightning are likely to occur in the Northern, North Central, Eastern and Uva provinces, Kurunegala and Matale districts.
-
-When thunderstorms are rained, the area may be temporarily blowing.
-
-The Department of Meteorology has issued a warning of heavy lightning impacts to be valid till 11 pm today.
-
-The Department of Meteorology asks the public to take necessary steps to reduce the risk of lightning. Remble
-
-◼️
-
-[Data](articles/c9106b8a.json)
-
-[Extended Data](ext_articles/c9106b8a.ext.json)
-
----
-
-### The 29th General Bureau of the Eastern University
-
-*2025-10-04 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226874) · `ta`
-
-The 29th General Ceremony of the Eastern University commenced on Saturday (04) at the Nallaiya Memorial Hall in Vandarumoolai.
-
-The Secretary to the Chief Minister G.. Pradeep Saputhandri was the chief guests.
-
-At this event, 1966 will be confirmed by the Graduation and Degree Degree for Internal Students and External Affairs.
-
-Sivasubramaniam Pathmanathan was awarded a doctor's degree during the first session on Saturday (04) of the first day. During the second session of 240 graduates, 345 during the second session, 400 graduates were awarded degrees in the Department of Agriculture, Arts, Business Management and Aesthetics, Medical, Science and Siddharthas.
-
-Senior Professor Kapila Seneviratne, Chairman of the University Grants Commission, will be the chief guest at the second day (05).
-
-...
-
-[Data](articles/d34a7ac0.json)
-
-[Extended Data](ext_articles/d34a7ac0.ext.json)
-
----
-
-### Chance to appoint Sane Takachi as Japan's first woman prime minister!
-
-*2025-10-04 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226875) · `ta`
-
-International media reports that Japan's ruling conservative party, the Liberal Democratic Party (LDP), has chosen Sanae Takaichi as its new leader.
-
-International media reports that 64 -year -old Sane Takichi is likely to be appointed as the first female prime minister in Japan.
-
-A referendum to elect a new prime minister will be held in Parliament in the country on October 15.
-
-In a country that is worse in gender equality internationally, Takachi has made history as the first female leader of the ruling conservative Liberal Democratic Party in Japan.
-
-Takachi, a former Prime Minister of British Prime Minister Margaret Thatcher, is the disciple of the radical conservative perspective of former Japanese Prime Minister Shinzo Abe and is a regular attendant at the Yasukuni Temple, which is considered to be a symbol of Japan's war militarism.
-
-...
-
-[Data](articles/2aa5337b.json)
-
-[Extended Data](ext_articles/2aa5337b.ext.json)
-
----
-
-### Sri Lankan loan rating level up
-
-*2025-10-04 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215331) · `si`
-
-S & P Global Ratings has been promoted to Long-term and short-term foreign currency lending in Sri Lanka to the CCC + / C.
-
-The Long Term and Short Terminal Loan Ranking has decided to maintain the CCC + / C level.
-
-The announcement further stated that these ratings of Sri Lanka have taken into consideration the sustainable economic entertainment, fast financial integration and reform of financial risk conditions and financial risk of financial risk and state enterprises.
-
-මේ අතර ෆිච් රේටින්ස් ආයතනයද විදේශ මුදල්වලින් මෙරටට නිකුත් කරන ලද දිගුකාලීන ණය ආපසු ගෙවීමට ශ්‍රී ලංකාවට ඇති හැකියාව පිළිබඳ වූ ශ්‍රේණිගත කිරීම CCC+ මට්ටමේම පවත්වාගෙන යෑමට තීරණය කර තිබේ.
-
-In a statement, they have indicated that Sri Lanka ended at 2024, but the general debt of the government's average debt to maintain a CCC + level at the same rating.
-
-The belief in the country and foreign investors have increased in the face of positive responses and rankings of the Sri Lankan economy.
-
-...
-
-[Data](articles/8932886b.json)
-
-[Extended Data](ext_articles/8932886b.ext.json)
-
----
-
-### Lorry traveled at high speed; A schoolgirl who died miserably
-
-*2025-10-04 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226873) · `ta`
-
-A school student was killed in an accident at the road at the Gampaha - Minuwangodai road, Gampaha police said.
-
-The accident occurred when a lorry collided with a schoolgirl who was traveling on the road and crashed into a car and a three -wheeler, police said.
-
-Gampaha police said that a schoolgirl who was injured in the accident died on the spot.
-
-The driver of the lorry has escaped after the accident.
-
-◼️
-
-[Data](articles/60116934.json)
-
-[Extended Data](ext_articles/60116934.ext.json)
-
----
-
-### Mahinda's bulletproof vehicle also handed over
-
-*2025-10-04 14:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-குண்டு-துளைக்காத-வாகனமும்-கையளிப்பு/175-365704) · `ta`
-
-In a statement issued by Mahinda Rajapaksa's media spokesman, Mahinda Rajapaksa said that the bombing of former President Mahinda Rajapaksa has been handed over.
-
-After the implementation of the President's Rights Act, Mahinda Rajapaksa's official residence and vehicles were announced.
-
-Mahinda Rajapaksa's media spokesman, who has warned that Mahinda Rajapaksa's life may be in danger, will meet with the Inspector General of Police, Defense Secretary and Principal next week and make a request for the safety of Mahinda Rajapaksa.  R
-
-◼️
-
-[Data](articles/35d09f9d.json)
-
-[Extended Data](ext_articles/35d09f9d.ext.json)
-
----
-
-### Vendors Fined for Selling Rice Above Controlled Price
-
-*2025-10-04 14:03:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/vendors-fined-for-selling-rice-above-controlled-price) · `en`
-
-COLOMBO (News 1st); The Consumer Affairs Authority (CAA) has conducted special raids to identify vendors selling rice above the controlled prices announced by the Government.The Authority stated that special teams have been deployed across the country for these operations.During recent raids, vendors selling Keeri Samba rice at inflated prices were taken into custody and produced in court.The CAA added that three shop owners in Panadura, Matara, and Nagoda in Kalutara were each fined Rs.100,000 by the court for selling Keeri Samba rice above the regulated price.One individual in Horana was fined Rs. 20,000 while authorities seized 25 five kilogram packs of Keeri Samba rice in his possession.
-
-◼️
-
-[Data](articles/3f54ffbb.json)
-
-[Extended Data](ext_articles/3f54ffbb.ext.json)
-
----
-
-### Validity Period of Driving Licenses to Be Extended
-
-*2025-10-04 14:00:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/validity-period-of-driving-licenses-to-be-extended) · `en`
-
-COLOMBO (News 1st); The Department of Motor Traffic has decided to extend the validity period of driving licenses.Commissioner General of Motor Traffic, Kamal Amarasinghe, said that a special committee has been appointed to study the possible extension period.The committee comprises technical officers from the Ministry of Transport and Highways and the Department of Motor Traffic.He further said the committee has been instructed to conduct a detailed study and submit a report on the matter, after which discussions will be held with the Minister of Transport and Highways, Bimal Rathnayake, and other officials to determine the next steps.At present, the validity period of a driving license for light vehicles is eight years, while period for heavy vehicles, is four years.Under the new proposal, these validity periods are expected to be extended considerably.
-
-◼️
-
-[Data](articles/31710abe.json)
-
-[Extended Data](ext_articles/31710abe.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 01:38:08**
+As of **2025-10-06 01:55:47**
 
 ## Newspaper Stats
 
-*Scraped **81,363** Articles*
+*Scraped **81,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 609
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 colombotelegraphcom | 809
-lankadeepalk | 824
+lankadeepalk | 826
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
@@ -21,17 +21,45 @@ adalk | 7,795
 adaderanalk | 10,456
 tamilmirrorlk | 12,082
 virakesarilk | 13,359
-adaderanasinhalalk | 13,991
+adaderanasinhalalk | 13,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,363 (100.0%) of 81,363 articles have been extended.
+81,363 (100.0%) of 81,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### එංගලන්තයේ පූජනීය ස්ථානවලට විශේෂ ආරක්ෂාවක්
+
+*2025-10-05 23:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215384) · `si`
+
+එංගලන්තයේ නැගෙනහිර සසෙක්ස් හි මුස්ලිම් පල්ලියකට එල්ල වූ ප්‍රහාරයෙන් පසු එම ප්‍රාන්තය පුරා පූජනීය ස්ථානවලට විශේෂ ආරක්ෂාවක් ලබා දී ඇත.
+
+ඊට අමතරව ප්‍රාන්තය පුරා අතිරේක මුර සංචාර සිදුකිරීමට සඳහා එරට හමුදාව යොදවා තිබේ.
+
+එංගලන්ත වෙලාවෙන් ඊයේ (4) රාත්‍රී 9.30ට පමණ සසෙක්හි පිහිටි මුස්ලිම් පල්ලියකට කිසියම් පිරිසක් ගිනිතැබීමක් සිදුකළේය.
+
+ඉන් කිසිවෙකුට තුවාල සිදු නොවූවත්, ගොඩනැගිල්ලේ ඉදිරිපස දොරටුවට සහ පිටත නවතා තිබූ වාහනයකට හානි සිදුවිය.
+
+එම ගිනිතැබීම වෛරී අපරාධයක් ලෙස සලකා විමර්ශනය කරන බව සසෙක්ස් පොලිසිය පවසයි.
+
+මේ වනවිට අදාළ ප්‍රහාරයට පැමිණි බවට සැකකෙරෙන දෙදෙනෙකුගේ ඡායාරූප මාධ්‍ය වෙත  මුදාහැර ඇත.
+
+අදාළ ප්‍රහාරය පිළිබඳ විමර්ශන සිදුකරන බලධාරීන් පෙන්වා දෙන්නේ මෙම ගිනිතැබීම, ජීවිත අනතුරේ හෙළීමේ අරමුණින් සිදු කරන ලද්දක් ලෙස සලකන බවය.
+
+ඒ අනුව වගකිවයුත්තන් හඳුනා ගැනීම සඳහා පරීක්ෂණ රැසක් සිදුකරන බව ඔවුන් පවසයි.
+
+නම සඳහන් කිරීමට අකමැති වූ පල්ලියේ ස්වේච්ඡා සේවකයෙකු බීබීසී ප්‍රවෘත්ති සේවයට පවසා ඇත්තේ, දෙදෙනෙකු ඉදිරිපස දොරෙන් ඇතුළු වීමට උත්සාහ කළ නමුත්, එය අගුළු දමා තිබූ බවය.
+
+...
+
+[Data](articles/4f0bc037.json)
+
+---
 
 ### Red light from the Electricity Board Engineering Association
 
@@ -485,6 +513,24 @@ Further investigations are underway into the incident and is due to the Governme
 
 ---
 
+### අඩු ආදායම්ලාභී  නිවාස 1000ක් ජනතා අයිතියට
+
+*2025-10-05 16:12:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අඩ-ආදයමලභ-නවස-1000ක-ජනත-අයතයට/101-680761) · `si`
+
+ලෝක ජනාවාස දින ජාතික සැමරුම් උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන්  අරලියගහ මන්දිරයේදී අද(5) පැවැත්විණි.
+
+එක්සත් ජාතීන්ගේ ලෝක ජනාවාස දිනයට සමගාමීව  “තමන්ගේම තැනක් - ලස්සන ජීවිතයක්” යන තේමාව යටතේ එම ජාතික සැමරුම පැවැත්වුණු අතර ඒ හා සමගාමීව ඔක්තෝබර් 01-05 දක්වා ජනාවාස සතියක්ද ප්‍රකාශයට පත්කරමින් විවිධ වැඩසටහන් ක්‍රියාත්මක කර තිබිණි.
+
+නිවසක් ඉදිකර ගැනීමට මූල්‍ය හැකියාවක් නොමැති දිළිඳු පවුල් 4000කට ආසන්න සංඛ්‍යාවක් සඳහා නිවාස ඉදිකර දීම වෙනුවෙන්, නිවාස සංවර්ධන අධිකාරිය විසින් ක්‍රියාත්මක කරනු ලැබ ඇති වැඩසටහන යටතේ දිවයින පුරා වැඩ නිම කළ නිවාස දහසක් ජනතා අයිතියට පවරා දීමද මෙහිදී විද්‍යුත් තාක්ෂණය ඔස්සේ ජනාධිපතිවරයා අතින් සිදු විය.
+
+UN Habitat ශ්‍රී ලංකා කාර්යාලයේ මැදිහත්වීමෙන් ඉන්දියානු රජයේ සහ Coalition for Disaster Resilient Infrastructure (CDRI) ආධාර මත ක්‍රියාත්මක කිරීමට යෝජිත අඹතලේ ජල සැපයුම් ව්‍යාපෘතියේ සංකේතීය ප්‍රදානය ජනාධිපතිවරයා වෙත නිල වශයෙන් භාර දීමද මෙහිදී සිදු කෙරිණි.
+
+...
+
+[Data](articles/27c95ea9.json)
+
+---
+
 ### 1000 low income families vested with the public
 
 *2025-10-05 16:12:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අඩ-ආදයමලභ-නවස-1000ක-ජනත-අයතයට/1-680761) · `si`
@@ -774,6 +820,24 @@ The arrested person was admitted to the Kataragama hospital and later sent to th
 [Data](articles/cf22b608.json)
 
 [Extended Data](ext_articles/cf22b608.ext.json)
+
+---
+
+### මී කඩන්න ගිය අයකු වෙඩි වැදී වැටිලා
+
+*2025-10-05 14:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/101-680760) · `si`
+
+යාල ජාතික වනෝද්‍යානයට මී කැඩීම සඳහා ඇතුළු වූ පුද්ගලයකු වෙඩි වැදී තුවාල සහිතව පැමිණ කතරගම කොච්චිපතාන ඝණ දේවාලය සීමාවෙි වැටී සිටියදී කතරගම පොලීසියට ලැබුණු දුරකථන ඇමතුමක් මත එම පුද්ගලයා හම්බන්තොට මහ රෝහලට යැවූ බව කතරගම පොලීසිය කියයි.
+
+මෙලෙස තුවාල ලබා ඇත්තේ කතරගම කඳසුරිඳුගම ප්‍රදේශයේ පදිංචි 56 හැවිරිදි අයෙකි.
+
+මෙම පුද්ගලයා මී කැඩීම සඳහා  යාල උද්‍යානයට ඇතුළුවූ බවත්, මස් බෑගයක් සමඟ පැමිණි දෙදෙනකු ගෙන් අයකු බෙහෙත් කොටන ගිනි අවියකින් වෙඩි තැබූ බවත්, එම ස්ථානයේ ඇදවැටී පැයකීපයකට පසුව සෙමින් සෙමින් මෙලෙස පැමිණි බවත් ඔහු පොලීසියට පවසා ඇත.
+
+පොලීසිය මගින් අත්අඩංගුවට ගත් මෙම පුද්ගලයා කතරගම රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රථිකාර සඳහා හම්බන්තොට මහ රෝහලට යවා ඇත.
+
+◼️
+
+[Data](articles/ab8cc62e.json)
 
 ---
 
@@ -1970,71 +2034,5 @@ Meanwhile, the driver of the Sri Lanka Transport Board's bus has been arrested i
 [Data](articles/4fbfa67e.json)
 
 [Extended Data](ext_articles/4fbfa67e.ext.json)
-
----
-
-### Lorry in Naramalai - Bus collision
-
-*2025-10-05 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226924) · `ta`
-
-Three persons were killed when a lorry collided with a Sri Lankan transport bus near Naramala Nagar on the Naramala -Kurunegala road.
-
-The accident occurred when the driver of the lorry traveling from Kurunegala to Narammala, lost control of the driver and left the right side of the road and collided with a bus from Katunayake to Akkaraipattu.
-
-The lorry driver, a male, two women and two boys were injured and admitted to the Naramala and Kurunegala hospitals.
-
-The driver, a male and a woman died in a lorry without treatment, police said.
-
-Investigations have revealed that the victims were aged 41, 80 and 82 from Polonnaruwa.
-
-Meanwhile, a 40 -year -old woman who was traveling in the lorry and two boys 16 and 9 years old are being treated at the Kurunegala Hospital.
-
-The driver of the bus has been arrested in connection with the accident and the Narammala police are conducting further investigations.
-
-◼️
-
-[Data](articles/3426ca6a.json)
-
-[Extended Data](ext_articles/3426ca6a.ext.json)
-
----
-
-### A new coin of the dollar for the US Independence Day for 250
-
-*2025-10-05 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215358) · `si`
-
-The Treasury is planning to issue a dollar for 250th American Independence Day for the year 2026.
-
-The word 'FIIT', created with the help of President Donald Trump's image, has been referred to the word 'FIT'.
-
-In the other side of the coin, Trump's dear is the deadline of the independence of the United States 1776-120s with the word 'Liberty' with 'Liberty'.
-
-However, this is the first approach of the coin face and has not yet received a final decision.
-
-◼️
-
-[Data](articles/c77630a4.json)
-
-[Extended Data](ext_articles/c77630a4.ext.json)
-
----
-
-### '' Developing ties is strengthened ''
-
-*2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/1-680750) · `si`
-
-Former President Mahinda Rajapaksa said that the attempts to break up could be strengthened.
-
-Mr. Mahinda Rajapaksa said this to his official Facebook page.
-
-I am familiar with the people who have spent a lot of life in life. People's love is free of profit goals based on the facts of trust and mutual respect.
-
-Therefore, its value is more than ever. It is important to say that this is difficult to break as a heartfelt bond not just a political relationship.. Trys to break up can be strengthened. I have experienced the maximum happiness that is possible as a folk leader. I will give glory to honor.
-
-◼️
-
-[Data](articles/0a191eb3.json)
-
-[Extended Data](ext_articles/0a191eb3.ext.json)
 
 ---

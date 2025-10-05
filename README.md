@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 10:08:15**
+As of **2025-10-05 10:19:57**
 
 ## Newspaper Stats
 
-*Scraped **81,215** Articles*
+*Scraped **81,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
-adalk | 7,783
+adalk | 7,784
 adaderanalk | 10,441
 tamilmirrorlk | 12,056
 virakesarilk | 13,341
@@ -27,11 +27,33 @@ adaderanasinhalalk | 13,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,215 (100.0%) of 81,215 articles have been extended.
+81,215 (100.0%) of 81,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### ඇල්පිටියේ නිවසකට වෙඩි ප්‍රහාරයක්
+
+*2025-10-05 08:26:12* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටියේ-නිවසකට-වෙඩි-ප්‍රහාරයක්/11-418915) · `si`
+
+ඇල්පිටිය ,ගනේගොඩ ඉහල ඕමත්ත ප්‍රදේශයේදී ඊයේ (4) රෑ නිවසකට නාදුනන තුවක්කුකරුවන් වෙඩි තබා පලා ගොස් ඇතැයි ඇල්පිටිය පොලීසිය කියයි.
+
+වෙඩි තැබීමෙන් එම නිවසේ  ඉදිරිපස ජනේලයකට හානිසිදුව ඇති බවත් කිසිවෙකුට හෝ වෙඩි පහාරයක් එල්ලවී නැති බවත් පොලීසිය කියයි.
+
+ව්‍යාපාර කිහිපයක් පවත්වාගෙන යනු ලබන හිටපු යුධ හමුදා සෙබලකු ඉල්ලක්ක කර ගනිමින් මේ වෙඩි තැබීම සිදු කර ඇති බවද පොලීසිය කියයි.
+
+මේ හිටපු හමුදා සෙබලා ගමේ නමක් ගත් චරිතයක් බවත් ඔහුට පාතාලයෙන් තර්ජන තිබී ඇති බවත් ඔහුව බිය ගැන්වීමට මේ වෙඩි තැබීම සිදු කරන්නට ඇති බවට පොලීසිය සැකකරයි.
+
+නිවෙස් හිමි හිටපු යුධ හමුදා සෙබලා නිවසේ සිටියදී  ඊයේ (4) රෑ 10 යට පමණ මේ වෙඩි තැබීම සිදුව ඇති බවත් යතුරු පැදියකින් පැමිණි දෙදෙනෙක් මේ වෙඩි තැබීම සිදු කරන්නට ඇති බවට  පොලීසිය කරයි.
+
+මේ නිවසට වෙඩි තැබීමේ නියම හේතුව මෙතෙක් අනාවරණය නොවූ බවද පොලීසිය කියයි. ඇල්පිටිය පොලීසිය මේ පිළිබඳව වැඩි දුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/ce0bccb3.json)
+
+---
 
 ### New battery and spinning coaches for Sri Lanka cricket team!
 
@@ -1966,29 +1988,5 @@ The suspect is a resident of Moneragala and is to be produced before the Monerag
 [Data](articles/42d1d311.json)
 
 [Extended Data](ext_articles/42d1d311.ext.json)
-
----
-
-### Two youths arrested in car with ridiculous drug pills
-
-*2025-10-04 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/226887) · `ta`
-
-Two youths who were traveling in a car with rituals in Badulla, Welimada and Nivala area have been arrested by the Welimada police.
-
-Two youths have been arrested in a suspicious car that was carried out in a suspicious car on information received by the Welimada police.
-
-The arrested were two youths aged 21 and 23, living in Paravagumbura and Diyathalawa.
-
-44 packages have been seized from two youths.
-
-Police investigations have revealed that the two youths have been taken to the car for sale in the Welimada area.
-
-Further investigations conducted by the arrested youth have been seized by 44 cannabis plants at a garden in Ulpathambura area in Nawella.
-
-◼️
-
-[Data](articles/d460c07f.json)
-
-[Extended Data](ext_articles/d460c07f.ext.json)
 
 ---

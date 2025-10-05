@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 13:05:46**
+As of **2025-10-05 12:53:39**
 
 ## Newspaper Stats
 
@@ -27,65 +27,57 @@ adaderanasinhalalk | 13,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,253 (100.0%) of 81,256 articles have been extended.
+81,234 (100.0%) of 81,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
 
-### The "confidence" station that transforms the lives of children with special needs
+### விசேட தேவையுடைய சிறுவர்களின் வாழ்வை மாற்றியமைக்கும் “நம்பிக்கை” நிலையம் அயத்தி
 
 *2025-10-05 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226933) · `ta`
 
-"I thought life was over…" - the emotional partitions of the parents of the children with special need!
+“வாழ்க்கையே முடிந்தது என எண்ணினேன்…” – விசேட தேவையுடைய பிள்ளைகளின் பெற்றோர்களின் உணர்வுபூர்வ பகிர்வுகள்!
 
-A milestone on Sri Lanka's health and social platform, "Ayati", which has been created with all the amenities for children with special needs, is lighting the lives of tens of thousands of families.. The station, which means “faith” in Sanskrit, has begun the second chapter of life for children and their parents who face challenges.
+இலங்கையின் சுகாதார மற்றும் சமூகத் தளத்தில் ஒரு மைல்கல்லாக, விசேட தேவையுடைய சிறுவர்களுக்காக சகல வசதிகளுடன் உருவாக்கப்பட்ட முதலாவது தேசிய நிலையமான “அயத்தி” (Ayati), பல்லாயிரக்கணக்கான குடும்பங்களின் வாழ்க்கையில் ஒளியேற்றி வருகிறது. சமஸ்கிருதத்தில் “நம்பிக்கை” எனப் பொருள்படும் இந்த நிலையம், சவால்களை எதிர்கொள்ளும் சிறுவர்களுக்கும் அவர்களது பெற்றோர்களுக்கும் வாழ்வின் இரண்டாவது அத்தியாயத்தை ஆரம்பித்துள்ளது.
 
-The station has been established as a Foundation in 2016 and has been operating since 2020. The station, which was built with the contribution of the University of Kelaniya, Hemas Holdings, Mass Holdings and the Army, is a gift to the community of special needs in Sri Lanka.
+இந்த நிலையம் 2016 ஆம் ஆண்டு அறக்கட்டளையாக நிறுவப்பட்டு, 2020 முதல் செயல்பட்டு வருகிறது. களனி பல்கலைக்கழகம், ஹேமாஸ் ஹோல்டிங்ஸ், மாஸ் ஹோல்டிங்ஸ் மற்றும் இராணுவத்தின் பங்களிப்புடன் நிர்மாணிக்கப்பட்ட இந்த நிலையம், இலங்கையின் விசேட தேவையுடைய சமூகத்துக்கு ஒரு வரப்பிரசாதமாக அமைந்துள்ளது.
 
-The station is located within the Medical Faculty of the University of Kelaniya in Ragama in Gampaha District.
+இந்த நிலையம் கம்பஹா மாவட்டத்தில், ராகமையில் களனி பல்கலைக்கழகத்தின் மருத்துவ பீடத்திற்குள் அமைந்துள்ளது.
 
 ...
 
 [Data](articles/0bde7712.json)
 
-[Extended Data](ext_articles/0bde7712.ext.json)
-
 ---
 
-### The Mannar struggle is a lesson taught
+### மன்னார் போராட்டம் கற்றுத் தரும் பாடம்
 
 *2025-10-05 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226917) · `ta`
 
-சில போராட்­டங்­களைக் கையாளும் போது தவ­றான முடி­வு­களை எடுத்து, அதனை கையா­ளு­வது அர­சாங்­கங்­களின் வீழ்ச்­சிக்கு கார­ண­மா­கி­யி­ருக்­கி­றது. This is history.
+சில போராட்­டங்­களைக் கையாளும் போது தவ­றான முடி­வு­களை எடுத்து, அதனை கையா­ளு­வது அர­சாங்­கங்­களின் வீழ்ச்­சிக்கு கார­ண­மா­கி­யி­ருக்­கி­றது. இது வர­லாறு.
 
 ◼️
 
 [Data](articles/6edd7e70.json)
 
-[Extended Data](ext_articles/6edd7e70.ext.json)
-
 ---
 
-### Baku Strait from Talaimannar to Dhanushkodi
+### தலைமன்னாரில் இருந்து தனுஷ்கோடி வரையிலான பாக்கு நீரிணையை மாற்றுத்திறனாளி சிறுவன் நீந்தி சாதனை!
 
 *2025-10-05 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226923) · `ta`
 
-The attempt by a 12 -year -old boy, a 12 -year -old boy who was affected by the knee, was a success, with the ambition to swim and achieve the distance from the loss and achievement.
+இயலாமைக்கும் சாதனைக்கும் உள்ள தூரத்தை நீந்தி கடந்துச்சென்று சாதனை படைக்க வேண்டும் என்ற இலட்சியத்துடன்,  முழங்காலுக்கு கீழே பாதிக்கப்பட்ட மாற்றுத்திறனாளியான 12 வயதுச் சிறுவன் எடுத்த முயற்சி வெற்றியை கொடுத்துள்ளது.
 
-The boy has set a record of swimming from Sri Lanka Talaimannar to Tamil Nadu Dhanushkodi in 9 pm and 11 minutes last Friday.
+குறித்த சிறுவன் கடந்த வெள்ளிக்கிழமை (03) இலங்கை தலைமன்னாரிலிருந்து தமிழகம் தனுஷ்கோடி வரையிலான பாக்கு நீரிணை 9 மணி 11 நிமிடத்தில் நீந்தி கடந்து சாதனை படைத்துள்ளார்.
 
-The Rameshwaram Island and the 13 Sand Fails that followed it and the Baku Strait are separated from the Gulf of Mannar. It is the most depth of Tamil Nadu, while the rocks and the dangerous jelly fishes are part of the sea.
+ராமேஸ்வரம் தீவும் அதை தொடர்ந்துள்ள 13 மணல் தீடைகளும், பாக்கு நீரிணை கடற்பகுதியை மன்னார் வளைகுடாவில் இருந்தும் பிரிக்கிறது. இது தமிழகத்திலேயே மிகவும் ஆழம் குறைந்த அதே சமயம் பாறைகளும் ஆபத்தான ஜெல்லி மீன்கள் நிறைந்த கடல் பகுதியாகும் .
 
-So far, more than 30 people have set a record of swimming in the Baku Strait alone. Most of them swimmed from Sri Lanka's Dhanushkodi to Dhanushkodi or Dhanushkodi to Talaimannar. In addition to this, some people have swimmed at the sea of ​​relay and marathon.
-
-In this case, a 12 -year -old Global Energy of Chennai Mukherjee has set a record.
+இதுவரை 30 க்கும் மேற்பட்டோர் பாக்கு நீரிணையை தனியாக நீந்தி கடந்து சாதனை புரிந்துள்ளனர். இவர்களில் பெரும்பாலானோர் இலங்கையின் தலைமன்னாரிலிருந்து இந்தியாவின் தனுஷ்கோடிக்கு அல்லது தனுஷ்கோடியில் இருந்து தலைமன்னாருக்கு நீந்திச் சென்றவர்கள். இது தவிர மேலும் சிலர் குழுவாக ரிலே மற்றும் மரதன் முறையில் பாக்கு நீரிணை கடலை நீந்தி கடந்துள்ளனர்.
 
 ...
 
 [Data](articles/6236e6dd.json)
-
-[Extended Data](ext_articles/6236e6dd.ext.json)
 
 ---
 
@@ -113,121 +105,105 @@ The Health and Mass Media minister said that he would not follow the "promising 
 
 ---
 
-### 400 Language Skills: fluent speech in 46 languages: Mahmood Akram
+### 400 மொழிகளில் திறமை: 46 மொழிகளில் சரளமான பேச்சு: உலகை வியக்க வைத்த மஹ்மூத் அக்ரம்
 
 *2025-10-05 11:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/400-மொழிகளில்-திறமை-46-மொழிகளில்-சரளமான-பேச்சு-உலகை-வியக்க-வைத்த-மஹ்மூத்-அக்ரம்/97-365752) · `ta`
 
-At the age of 19, he was honored with the Mahmood Akram Award, which is capable of reading and typing in 400 languages.
+19 வயதில் 46 மொழிகளை சரளமாக பேசி,400 மொழிகளில் வாசிக்கவும், எழுதவும், தட்டச்சு செய்யும் திறன்கொண்ட மஹ்மூத் அக்ரம் விருது வழங்கி கௌரவிக்கப்பட்டார்.
 
-19 -year -old Mahmood from Chennai is amazed by the rare ability to write and type.
+சென்னையைச் சேர்ந்த 19 வயது மஹ்மூத் அக்ரம் எழுத, வாசிக்க தட்டச்சு செய்யும் அபூர்வ திறமையால் வியக்கவைத்துள்ளார்.
 
-He began to study languages ​​at the age of 4 and set the first record of being a young multilingual typewriter at the age of 8.
+4 வயதிலேயே மொழிகளை படிக்கத் தொடங்கிய இவர்,  8 வயதில் இளம் பன்மொழி தட்டச்சுக்காரர், என்ற முதலாவது சாதனையை படைத்தார்.
 
 ◼️
 
 [Data](articles/08a7182b.json)
 
-[Extended Data](ext_articles/08a7182b.ext.json)
-
 ---
 
-### National People's Power Government on Hitler's path; Ranil Sadal is trying to control the judiciary
+### ஹிட்லரின் பாதையில் தேசிய மக்கள் சக்தி அரசு ; நீதித்துறையைக் கட்டுப்படுத்த முயல்வதாக ரணில் சாடல்
 
 *2025-10-05 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226927) · `ta`
 
-UNP leader and former president Ranil Wickremesinghe has strongly criticized the government, fearing the increase in the influence of the opposition and their unity.
+எதிர்க்கட்சிகளின் செல்வாக்கு அதிகரிப்பு மற்றும் அவற்றின் ஒன்றிணைவு குறித்து அச்சம் கொண்டுள்ள அரசாங்கம், ஒரு ஹிட்லர் போக்கிலான செயற்பாட்டை வெளிப்படுத்துவதாக ஐக்கிய தேசிய கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க கடுமையாகச் சாடியுள்ளார்.
 
-He noted that whatever political issues with the opposition were, it was improper to comment on local political platforms, and that it was improper to go abroad and to criticize Sri Lanka and the political situation here.
+எதிரணியினருடன் அரசியல் ரீதியான எந்தப் பிரச்சினைகளாக இருந்தாலும், உள்ளூர் அரசியல் மேடைகளில் கருத்து தெரிவித்திருக்க வேண்டும் என்றும், வெளிநாடுகளுக்குச் சென்று இலங்கை குறித்தும் இங்குள்ள அரசியல் நிலைமைகள் தொடர்பிலும் விமர்சனங்களை முன்வைப்பது முறையற்றது என்றும் அவர் குறிப்பிட்டுள்ளார்.
 
-He made these comments during a discussion with members of the United National Party and other parties on Thursday and condemned the current activities of the National People's Power Government with historical examples.
-
-When Hitler came to power in Germany in 1933, he did not support more than 50 percent. Hitler's party received just 44 percent votes. Therefore, Hitler destroyed the opposition parties on that day to keep his power.
+ஐக்கிய தேசிய கட்சியின் உறுப்பினர்கள் மற்றும் ஏனைய கட்சிகளின் பிரதிநிதிகளுடன் வியாழக்கிழமை இடம்பெற்ற கலந்துரையாடலின் போதே அவர் இந்தக் கருத்துக்களைத் தெரிவித்ததோடு, தேசிய மக்கள் சக்தி அரசாங்கத்தின் தற்போதைய செயற்பாடுகளுக்கு வரலாற்று உதாரணங்களைக் கொண்டு பலத்த கண்டனம் தெரிவித்தார்.
 
 ...
 
 [Data](articles/c80e36cd.json)
 
-[Extended Data](ext_articles/c80e36cd.ext.json)
-
 ---
 
-### Great protest rally in Colombo against state repression; 25 parties united - Ranil, Namal, Peiris meets
+### அரச அடக்குமுறைக்கு எதிராக கொழும்பில் மாபெரும் எதிர்ப்புப் பேரணி ; 25 கட்சிகள் ஒன்றிணைந்து தீர்மானம் - ரணில், நாமல், பீரிஸ் சந்திப்பு
 
 *2025-10-05 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226914) · `ta`
 
-Opposition parties, which have decided to hold a massive protest rally in Colombo against the dictatorship of the National People's Power Government, have discussed this.. United National Party (UNP) President Ranil Wickremesinghe, National Organizer of the Sri Lanka Peoples Alliance (PA) Namal Rajapaksa and Professor GL. The decision was taken while major political parties, including Peiris, had a meeting in Colombo.
+தேசிய மக்கள் சக்தி அரசாங்கம் முன்னெடுத்து வரும் சர்வாதிகார அடக்குமுறைகளுக்கு எதிராக ஒன்றிணைந்த மாபெரும் எதிர்ப்பு பேரணியை கொழும்பில் நடத்துவதற்பு தீர்மானித்துள்ள எதிர்க்கட்சிகள், இது குறித்து விசேடமாக கலந்துரையாடியுள்ளன. ஐக்கிய தேசிய கட்சியின் தலைவர் ரணில் விக்கிரமசிங்க, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ மற்றும் பேராசிரியர் ஜீ.எல். பீரிஸ் உட்பட முக்கிய அரசியல் கட்சிகள் கொழும்பில் ஒன்றுக்கூடி கலந்துரையாடிய போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
 
-A special meeting and dinner event of party leaders and members of the opposition parties was held last Thursday night at a private hotel in Colombo.
+எதிர்க்கட்சிகளைச் சேர்ந்த கட்சித் தலைவர்கள், உறுப்பினர்களின் விசேட சந்திப்பு மற்றும் இரவு விருந்துபச்சார நிகழ்வு கடந்த வியாழக்கிழமை இரவு கொழும்பில் உள்ள ஒரு தனியார் ஹோட்டலில் நடைபெற்றது.
 
-Representatives of more than 25 political parties were present at the invitation of UNP Chairman Vajira Abeywardena.
+ஐக்கிய தேசியக் கட்சியின் தவிசாளர் வஜிர அபேவர்தனவின் அழைப்பின் பேரில் இந்த நிகழ்வில் 25க்கும் மேற்பட்ட அரசியல் கட்சிகளின் பிரதிநிதிகள் கலந்துகொண்டனர்.
 
 ...
 
 [Data](articles/02df28b6.json)
 
-[Extended Data](ext_articles/02df28b6.ext.json)
-
 ---
 
-### The woman standing on the edge of the 8th floor sill
+### 8ஆவது மாடிச் சன்னல் விளிம்பில் நின்ற பெண்
 
 *2025-10-05 11:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/8ஆவது-மாடிச்-சன்னல்-விளிம்பில்-நின்ற-பெண்/50-365751) · `ta`
 
-The incident took place on the 8th floor of the Singapore Clement Street 13 and the 8th floor of the Flog 118.
+சிங்கபூர் கிளமெண்டி ஸ்ட்ரீட் 13, புளோக் 118இன் 8ஆவது மாடியிலேயே இந்த சம்பவம் நடந்தது.
 
-Singapore Civil Defense Officers are trying to save him from home. There were also officers on the lower floor of the house.
+சிங்கப்பூர்க் குடிமைத் தற்காப்புப் படை அதிகாரிகள் வீட்டுக்குள்ளே இருந்து அவரைக் காப்பாற்ற முயற்சி செய்கின்றனர். கீழ் மாடியில் இருக்கும் வீட்டிலும் அதிகாரிகள் இருந்தனர்.
 
-Authorities said the airbag was prepared as a precautionary. A 24 -year -old woman on the edge of the sill was later saved.
+முன்னெச்சரிக்கையாக காற்றுப்பையும் (airbag) தயார்செய்யப்பட்டதாக அதிகாரிகள் கூறினர். சன்னல் விளிம்பில் இருந்த 24 வயதுப் பெண் பின்னர் காப்பாற்றப்பட்டார்.
 
 ◼️
 
 [Data](articles/e1a916c0.json)
 
-[Extended Data](ext_articles/e1a916c0.ext.json)
-
 ---
 
-### Jab Ban's first woman prime minister Sane Dagichi?
+### ஜப்​பானின் முதல் பெண் பிரதம​ர்  சனே டகைச்சி?
 
 *2025-10-05 11:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்-பானின்-முதல்-பெண்-பிரதம-ர்-சனே-டகைச்சி/50-365750) · `ta`
 
-Jab Ban Not in Liberal Democratic Party (LTP). Prime Minister Shikheru Ishi Ba Ba, the head of the cut -off, has been appointed as the post of Oran Tuk Kup.
+ஜப்​பான் நாட்​டில் லிபரல் ஜனநாயகக் கட்சி (எல்​டிபி) ஆட்​சி​யில் உள்​ளது. இக்​கட்​சி​யின் தலை​வர் மற்​றும் ஜப்​பான் பிரதமர் ஷிகெரு இஷி​பா, ஓராண்​டுக்​குப் பிறகு பதவி வில​கு​வ​தாக ஏற்​கெனவே அறி​வித்​திருந்​தார்.
 
-In the meantime, the Liberal Democratic Party lost a great deal of jubilee.. As a result, Shikheru held the post of Prime Minister last month.
+இதற்​கிடை​யில், ஜப்​பான் பாராளு​மன்​றத்​தின் இரு அவை​களி​லும் லிபரல் ஜனநாயகக் கட்சி பெரும்​பான்மை இழந்​தது. இதனால் பிரதமர் பதவியை ஷிகெரு கடந்த மாதம் இராஜி​னாமா செய்​தார்.
 
-So, the new head of the ruling Liberal Damage Radik Cut C's new head was held yesterday in Tok Kio. Previously, Sir Sane Tagichi (64) and Agriculture Minister Sinch Chiro Koi Sumi were the Bott De Yit Danner.
+அதனால், ஆளும் லிபரல் டெமாக்​ரடிக் கட்​சி​யின் புதிய தலை​வரை தேர்ந்​தெடுப்​ப​தற்​கான தேர்​தல் நேற்று டோக்​கியோ​வில் நடை​பெற்​றது. இதில் முன்​னாள் பொருளா​தார பாது​காப்பு அமைச்​சர் சனே டகைச்சி (64), வேளாண் அமைச்​சர் ஷிஞ்​சிரோ கொய்​சுமி ஆகியோர் போட்​டி​யிட்​டனர்.
 
-In the Wood Party, Sanes have 183 wags and Koi Sumi 164. Subsequently, the Liberal Democratic Cut Sidi Raga Sane Tagichi on Saturday (04). He is the first female prime minister of Jab Ban Not Tin
+உட்​கட்சி தேர்​தலில் சனே 183 வாக்​கு​களும் கொய்​சுமி 164 வாக்​கு​களும் பெற்​றனர். இதையடுத்து, லிபரல் ஜனநாயகக் கட்​சித் தலை​வ​ராக சனே டகைச்சி சனிக்கிழமை (04) அன்று அதி​காரப்​பூர்​வ​மாக பொறுப்​பேற்று கொண்​டார். அவர் ஜப்​பான் நாட்​டின் முதல் பெண் பிரதம​ராக
 
-After taking office. But, Liberal Democratic Cut Sikku. At the same time, a series of financial harm by a series. Such challenges are said to be a winner, and that our Pick Walk Bill Bill Tagichi will win.
-
-◼️
+...
 
 [Data](articles/7cb1a64f.json)
 
-[Extended Data](ext_articles/7cb1a64f.ext.json)
-
 ---
 
-### Pandemon
+### படுக்கை அறையில் வைத்து மகளை வன்புணர்ந்த தந்தை
 
 *2025-10-05 11:17:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படுக்கை-அறையில்-வைத்து-மகளை-வன்புணர்ந்த-தந்தை/76-365748) · `ta`
 
-A 10 -year -old daughter from Meegahamure estate in the Moneragala, Bibila Police Division has been arrested on Friday (03).
+மொனராகலை, பிபில பொலிஸ் பிரிவுக்குட்பட்ட குருவாம்ப தல்கஸ் சந்தி   மீகஹமுரே  தோட்ட பகுதியைச் சேர்ந்த ஒருவர், 10 வயதுடைய தனது மகளை கடுமையாக பாலியல் வன்கொடுமை செய்த சம்பவம் தொடர்பாக வெள்ளிக்கிழமை (03) அன்று கைது செய்யப்பட்டுள்ளார்.
 
-The girl's mother is reportedly working abroad. It is also reported that their hometown is a village in Bibila's Badulla village and is currently living in a rented house in the Guruvambha Talkas junction.
+சிறுமியின் தாய் வெளிநாட்டில் பணிபுரிந்து வருவதாக தெரியவந்துள்ளது. மேலும் அவர்களின் சொந்த ஊர் பிபிலவின் பதுளை கிராமம் எனவும் தற்போது குருவாம்ப தல்கஸ் சந்தி மீகஹமுரே  தோட்ட பகுதியில் ஒரு வாடகை வீட்டில் வசித்து வருவதாகவும் தெரியவருகிறது.
 
-The little girl sleeps in the same room with her older brother and father. For several days last June, it was revealed that her father had sexually abused her while the girl was sleeping.
+சிறுமி தனது மூத்த சகோதரன் மற்றும் தந்தையுடன் ஒரே அறையில் ஒரே கட்டிலில் தூங்கியுள்ளார். இந்நிலையில் கடந்த ஜூன் மாதம் பல நாட்கள், சிறுமி தூங்கிக் கொண்டிருந்த போது அவளுடைய தந்தை அவளை கடுமையாக பாலியல் வன்கொடுமை செய்துள்ளதாக தெரியவந்துள்ளது.
 
-The matter was revealed when she was admitted to the Moneragala District Hospital with severe pain and injuries.
+சிறுமியின் பிறப்புறுப்பு பகுதி கடுமையான வலி மற்றும் காயங்களுக்குள்ளான நிலையில் அவர் மொனராகலை மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது இவ் விடயம் தொடர்பாக தெரியவந்துள்ளது.
 
-The 38 -year -old chef, the 38 -year -old chef, has been arrested by the police and is to be produced before the Bibila Magistrate's Court.
+சந்தேக நபரான 38 வயதுடைய சமையல்காரரான தந்தை பொலிஸாரால் கைது செய்யப்பட்டு, பிபில நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளார்.
 
 ◼️
 
 [Data](articles/0d708d9f.json)
-
-[Extended Data](ext_articles/0d708d9f.ext.json)
 
 ---
 
@@ -251,49 +227,39 @@ To be produced before the Negombo Magistrate's Court on 10/08 to the Negombo Mag
 
 ---
 
-### Nipple. Children's Park
+### பாவிக்க முடியாது நிலையில் காணப்படும் மட்டு. முகத்துவாரம் வெளிச்ச வீடு சிறுவர் பூங்கா - பொதுமக்கள் கடும் விசனம்
 
 *2025-10-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226926) · `ta`
 
-The public is concerned that the children are facing various inconveniences as the boys cannot play as the Batticaloa Municipal Council owned by the Batticaloa Municipal Council.
+மட்டக்களப்பு மாநகர சபைக்கு சொந்தமான முகத்துவாரம்  வெளிச்சவீடு சிறுவர் பூங்கா குப்பைகள் நிறைந்து துர்நாற்றம் வீசி வருவதால் சிறுவர்கள் விளையாட முடியாது பல்வேறு அசௌகரியங்களை எதிர்நோக்கி வருவதாக பொதுமக்கள் கடும் விசனம் தெரிவிக்கின்றனர்.
 
-At the end of the war in 2009, the US -owned company set up a children's park with a multi -billion rupee, through the financial contribution of the American people on the banks of the area, to improve the tourism sector.
+2009 ம் ஆண்டு யுத்தம் முடிவுற்ற நிலையில் சுற்றுலா துறையை மேம்படுத்துவதற்கு அந்த பகுதியில் அமைந்துள்ள வெளிச்ச வீடு மற்றும் அதற்கு அருகில் வாவிக்கரையில் அமெரிக்க மக்களின் நிதி பங்களிப்பின் ஊடாக யூ.எஸ்.எய்ட்ஸ்  நிறுவனம் பல இலட்சங்களை கொண்டு சிறுவர் பூங்கா அமைத்து மாநகரசபையிடம் கையளித்து மக்கள் பாவனைக்காக திறந்து விடப்பட்டது.
 
-Bore. The children's park, which is under the administration of the Municipal Council, has been observed for a long time, where there is a fragmentation of swings, drops, and animals that have been fitted at a cost of several lakhs of rupees.
-
-At the same time, the toes that have been set up there are unable to use the doors and the doors are damaged, and the sewage in the area is not removed.
+மட்டு. மாநகரசபையின் நிர்வாகத்தின் கீழ் உள்ள இந்த சிறுவர் பூங்கா பல காலங்களாக கவனிப்பார் அற்று கிடக்கின்றதுடன், அங்கு பல இலட்சம் ரூபா செலவில் பொருத்தப்பட்ட ஊஞ்சல்கள், சறுக்கல், மற்றும் மிருகங்கள் உருவம் கொண்ட விளையாட்டு உபகரணங்கள் உடைந்து துண்டு துண்டாக இருக்கின்றது.
 
 ...
 
 [Data](articles/4b561bb7.json)
 
-[Extended Data](ext_articles/4b561bb7.ext.json)
-
 ---
 
-### Seizure of sea cards attempted by India
+### இந்தியாவிலிருந்து இலங்கைக்கு கடத்த முயன்ற கடல் அட்டைகள் கைப்பற்றல்
 
 *2025-10-05 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226915) · `ta`
 
-In India, Ramanathapuram, the Tamil Nadu police have seized banned sea cards worth Rs 10 lakh for smuggling to Sri Lanka.
+இந்தியாவில், ராமநாதபுரத்திலிருந்து, இலங்கைக்கு கடத்துவதற்காக வைத்திருந்த 10 இலட்சம் ரூபாய் பெறுமதியான தடை செய்யப்பட்ட கடல் அட்டைகள் தமிழக பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளது.
 
-It is reported that 250 kilograms of banned sea cards have been seized near Ramanathapuram.
+ராமநாதபுரம் அருகே பதுக்கி வைத்திருந்த, தடை செய்யப்பட்ட 250 கிலோகிராம் எடையுடைய கடல் அட்டைகள் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
 
-The CU police have recovered the processed sea cards and are being arrested and are conducting investigations.
+பதப்படுத்தப்பட்ட குறித்த கடல் அட்டைகளை மீட்ட கியூ பிரிவு பொலிஸார்,  அதனை பதுக்கி வைத்த ஒருவரையும் கைது செய்து, விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
 
-Intensive tests have been conducted on Saturday night on the basis of information received by CU A inspector Janaki that sea cards are being processed in Ramanathapuram - Chakrakottai municipal garbage warehouse.
+ராமநாதபுரம் - சக்கரக்கோட்டை நகராட்சி குப்பை கிடங்கு பகுதியில், கடல் அட்டைகள் பதப்படுத்தி வருவதாக கியூ பிரிவு ஆய்வாளர் ஜானகிக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று சனிக்கிழமை (04) இரவு குறித்த பகுதியில் தீவிர சோதனைகள் நடத்தப்பட்டுள்ளன.
 
-It has been revealed that the municipal garbage warehouse has been set up by the Government of Tamil Nadu.
+இதன்போது, நகராட்சி குப்பை கிடங்கு அருகே குடோன் அமைத்து அதில் தமிழக அரசால் தடை செய்யப்பட்ட கடல் அட்டைகளை பதப்படுத்தி வந்தமை தெரியவந்துள்ளது.
 
-In addition, a man from the Devi hunger was arrested in a group of sea cards and three persons who had escaped the raid during the raid, Tamil Nadu police said.
-
-Investigations into him, it was revealed that the banned sea cards were purchased from the Devipattinam and had been planning to smuggle in Sri Lanka via the Wheat Fort garbage warehouse.
-
-◼️
+...
 
 [Data](articles/b9c0cee2.json)
-
-[Extended Data](ext_articles/b9c0cee2.ext.json)
 
 ---
 
@@ -317,51 +283,43 @@ The police are detained by the police on detention orders, who was arrested in c
 
 ---
 
-### Three killed in Naramala accident
+### நாரம்மல விபத்தில் மூவர் பலி
 
 *2025-10-05 10:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-விபத்தில்-மூவர்-பலி/175-365746) · `ta`
 
-Three people were killed in a tragic road accident in the early hours of Sunday (05) near Naramala Nagar on the Naramala-Gurunagala road.
+நாரம்மல-குருநாகல வீதியில் நாரம்மல நகருக்கு அருகில் ஞாயிற்றுக்கிழமை (05) அதிகாலை நடந்த ஒரு துயரமான வீதி விபத்தில் மூன்று பேர் உயிரிழந்துள்ளனர்.
 
-Police said the accident occurred when the lorry from Kurunegala to Narammala lost control of the driver and crashed into a bus traveling from Katunayake to Akkaraipattu and turned to the right side of the road.
+குருநாகலிலிருந்து நாரம்மல நோக்கிச் சென்ற லாரி, ஓட்டுநர் கட்டுப்பாட்டை இழந்து கட்டுநாயக்கவிலிருந்து அக்கரைப்பற்று நோக்கிச் சென்ற பேருந்தின் மீது மோதி  சாலையின் வலது பக்கமாகத் திரும்பியதில் இந்த விபத்து நிகழ்ந்ததாக பொலிஸார் தெரிவித்தனர்.
 
-The driver of the lorry, a man in the vehicle, two women and two children were seriously injured and admitted to Naramala and Kurunegala hospitals. The driver, a man and a woman later died. The people have been identified as 41, 80 and 82 years old.
+லாரியின் ஓட்டுநர், வாகனத்தில் இருந்த ஒரு ஆண், இரண்டு பெண்கள் மற்றும் இரண்டு குழந்தைகள் பலத்த காயமடைந்து நாரம்மல மற்றும் குருநாகல் மருத்துவமனைகளில் அனுமதிக்கப்பட்டனர். ஓட்டுநர், ஒரு ஆண் மற்றும் ஒரு பெண் பின்னர் உயிரிழந்தனர்.இறந்தவர்கள் பொலன்னறுவையைச் சேர்ந்தவர்கள், 41, 80 மற்றும் 82 வயதுடையவர்கள் என அடையாளம் காணப்பட்டுள்ளனர்.
 
-A 40 -year -old woman in the lorry and two girls aged 16 and 9 are still being treated at Kurunegala Hospital.
+லாரியில் இருந்த 40 வயதுடைய ஒரு பெண் மற்றும் 16 மற்றும் 9 வயதுடைய இரண்டு சிறுமிகள் இன்னும் குருநாகல் மருத்துவமனையில் சிகிச்சை பெற்று வருகின்றனர்.
 
-Meanwhile, the driver of the Sri Lanka Transport Board's bus has been arrested in connection with the incident and further investigations are being carried out by the Narammala police.
-
-◼️
+...
 
 [Data](articles/4fbfa67e.json)
 
-[Extended Data](ext_articles/4fbfa67e.ext.json)
-
 ---
 
-### Lorry in Naramalai - Bus collision
+### நாரம்மலையில் லொறி - பஸ் மோதி கோர விபத்து: மூவர் உயிரிழப்பு!
 
 *2025-10-05 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226924) · `ta`
 
-Three persons were killed when a lorry collided with a Sri Lankan transport bus near Naramala Nagar on the Naramala -Kurunegala road.
+நாரம்மல – குருணாகல் வீதியில் நாரம்மல நகருக்கு அருகில் லொறி ஒன்று இலங்கை போக்குவரத்துக்குச் சொந்தமான சபை பஸ்ஸூடன் மோதி விபத்துக்குள்ளானதில் மூவர் உயிரிழந்துள்ளனர்.
 
-The accident occurred when a driver who was traveling from Kurunegala to Naramala, lost control of the driver and left the right side of the road and collided with a bus from Katunayake to Akkaraipattu.
+குருநாகலிலிருந்து நாரம்மல நோக்கி பயணித்த லொறியின், சாரதி கட்டுப்பாட்டை இழந்து வீதியின் வலது பக்கத்தை விட்டு விலகி, கட்டுநாயக்காவிலிருந்து அக்கரைப்பற்று நோக்கி பயணித்த பஸ்ஸூடன் மோதியதில் இந்த விபத்து நேர்ந்துள்ளது.
 
-The lorry driver, a male, two women and two boys were injured and admitted to the Naramala and Kurunegala hospitals.
+இந்த விபத்தில் லொறி சாரதி, ஆண் ஒருவர், பெண்கள் இருவர் மற்றும் சிறுவர்கள் இருவர் ஆகியோர் காயமடைந்து நாரம்மல மற்றும் குருநாகல் வைத்தியசாலைகளில் அனுமதிக்கப்பட்டனர்.
 
-The driver, a male and a woman died in a lorry without treatment, police said.
+இதன்போது, சிகிச்சை பலனின்றி லொறியில் சாரதி, ஆண் ஒருவர் மற்றும் பெண் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-Investigations have revealed that the victims were aged 41, 80 and 82 from Polonnaruwa.
+இந்த விபத்தில் உயிரிழந்தவர்கள் பொலன்னறுவையைச் சேர்ந்த 41, 80 மற்றும் 82 வயதுடையவர்கள் என விசாரணைகளில் தெரியவந்துள்ளது.
 
-Meanwhile, a 40 -year -old woman who was traveling in the lorry and two boys 16 and 9 years old are being treated at the Kurunegala Hospital.
+அதேவேளை,  லொறியில் பயணித்த 40 வயதுடைய பெண், 16 மற்றும் 9 வயதுடைய  சிறுவர்கள் இருவர் குருநாகல் வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
 
-The driver of the bus has been arrested in connection with the accident and the Narammala police are conducting further investigations.
-
-◼️
+...
 
 [Data](articles/3426ca6a.json)
-
-[Extended Data](ext_articles/3426ca6a.ext.json)
 
 ---
 
@@ -385,25 +343,23 @@ Therefore, its value is more than ever. It is important to say that this is diff
 
 ---
 
-### Arrest someone with foreign cigarettes
+### வெளிநாட்டு சிகரெட்டுகளுடன் ஒருவர் கைது
 
 *2025-10-05 10:42:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-ஒருவர்-கைது/175-365745) · `ta`
 
-A man who illegally brought foreign cigarettes into the country and tried to get out of the Katunayake airport, which was arrested by the Airport Police Narcotics Unit on Sunday morning.
+சுமார் 45 இலட்சம் ரூபாய் பெறுமதியுடை  வெளிநாட்டு சிகரெட்டுகளை சட்டவிரோதமாக நாட்டிற்குள் கொண்டு வந்து, கட்டுநாயக்க விமான நிலையத்தில் இருந்து வெளியேற முயன்ற ஒருவர், ஞாயிற்றுக்கிழமை (05) அதிகாலை விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவு அதிகாரிகளால் கைது செய்யப்பட்டார்.
 
-The arrested person has been identified as a 44 -year -old fisherman from Kalpitiya area.
+கைது செய்யப்பட்டவர் புத்தளம்,கற்பிட்டி பிரதேசத்தைச் சேர்ந்த 44 வயதுடைய மீனவர் என தெரியவந்துள்ளது.
 
-The person arrived at the Katunayake airport from Dubai by UL-226 at around 05.25 am on Sunday (05).
+குறித்த நபர் ஞாயிற்றுக்கிழமை (05) அதிகாலை 05.25 மணியளவில் இலங்கை ஏர்லைன்ஸ் விமானம் UL-226 மூலம் துபாயிலிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்திருந்தார்.
 
-When he checked the 02 passengers he had brought, 150 cigarette cartons contained 30,000 "platinum" cigarettes were seized.
+அவர் கொண்டு வந்த 02 பயணப் பைகளை சோதனையிட்ட போது அதில் இருந்து 30,000 "பிளாட்டினம்" சிகரெட்டுகள் அடங்கிய 150 சிகரெட் அட்டைப்பெட்டிகள் கைப்பற்றப்பட்டுள்ளது.
 
-The suspect and the seized cigarettes will be produced at the Negombo Magistrate's Court on Wednesday (08).
+சந்தேக நபர் மற்றும் கைப்பற்றப்பட்ட சிகரெட்டுகளை புதன்கிழமை (08) அன்று நீர்கொழும்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/8c1758e7.json)
-
-[Extended Data](ext_articles/8c1758e7.ext.json)
 
 ---
 
@@ -425,41 +381,33 @@ Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. Acco
 
 ---
 
-### India lifted the team leader
+### அணித் தலைவரை தூக்கியது இந்தியா
 
 *2025-10-05 10:36:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/அணித்-தலைவரை-தூக்கியது-இந்தியா/44-365744) · `ta`
 
-Shub Man Kill Capbott is appointed as the team that will play in the one -day Crick Gate Series against Az Therai Ya.. Rohit Sharma's release from the post of Cape Ton has been released in the team.
+ஆஸ்​திரேலி​யா​வுக்கு எதி​ரான ஒரு நாள் கிரிக்​கெட் தொடரில் பங்​கேற்​கும் இந்​திய அணிக்கு ஷுப்​மன் கில் கேப்​ட​னாக நியமிக்​கப்​பட்​டுள்​ளார். கேப்​டன் பதவியி​லிருந்து ரோஹித் சர்மா விடுவிக்​கப்​பட்​டுள்ள நிலை​யில், அவர் அணி​யில் தொடர்​கிறார்.
 
-The team is in the West Test series. With the end of the series, the team will be the result of the Sir Veda T20 series with 5 bottles, with 3 bottles of 3 bottles against the team.. The series begins on the 19th of this month. The team was selected by the Crigg Get Cuttup song (BCCI) yesterday.
+மேற்கு இந்​தி​யத் தீவு​கள் அணிக்​கெ​தி​ரான டெஸ்ட் தொடரில் இந்​திய அணி தற்​போது விளை​யாடி வரு​கிறது. இந்த தொடர் முடிந்​தவுடன் இந்​திய அணி ஆஸ்​திரேலியா சென்​று, அந்த அணிக்கு எதி​ராக 3 போட்​டிகள் கொண்ட ஒரு​நாள் தொடர், 5 போட்​டிகள் கொண்ட சர்​வ​தேச டி20 தொடரில் விளை​யாட உள்​ளது. இந்​தத் தொடர் வரும் 19-ம் திகதி தொடங்​கு​கிறது. இந்​தத் தொடருக்​கான இந்​திய அணியை இந்​திய கிரிக்​கெட் கட்​டுப்​பாட்டு வாரி​யம்​(பிசிசிஐ) நேற்று தேர்வு செய்து அறி​வித்​துள்​ளது.
 
-Rohit Sir Ma, who has been acting as the Cape Till this day, is released from office.. Shub Man Kill La and Shrei Yas Iyer as the new Cape Till. At the same time, Rohit Sharma and Virat Kohli were in the squad.
+இது​நாள் வரை இந்​திய அணி​யின் கேப்​ட​னாக செயல்​பட்டு வந்த ரோஹித் சர்​மா, பதவியி​லிருந்து விடுவிக்​கப்​பட்​டுள்​ளார். புதிய கேப்​ட​னாக ஷுப்​மன் கில்​லும், துணை கேப்​ட​னாக ஸ்ரே​யாஸ் ஐயரும் நியமிக்​கப்​பட்​டுள்​ளனர். அதே​நேரத்​தில் அணி​யில் ரோஹித் சர்​மா, விராட் கோலி இடம் பெற்​றுள்​ளனர்.
 
-Similarly, the team for the T20 bottles will be selected as Sur Yaku Mar Yadav as Cape and Shub Man Kill.
-
-One Day Continued Team: Shub Man Gill (Cap Ton), Rohit Sir Ma, Virat Kohli, Shre Yas Iyer, Aq Sir Patel, KL Rahul (Wick Gate Keep Bur) Mohammad Siraj, Ar Shdeep Singh, Prasith Krishna.
-
-◼️
+...
 
 [Data](articles/b467ddca.json)
 
-[Extended Data](ext_articles/b467ddca.ext.json)
-
 ---
 
-### Fuel station in Neduntivu
+### நெடுந்தீவில் எரிபொருள் நிலையம்
 
 *2025-10-05 10:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தீவில்-எரிபொருள்-நிலையம்/175-365743) · `ta`
 
-Highways, Ports and Civil Aviation Minister and Chairman Bimal Ratnayake said the agreement was reached with the Petroleum Corporation of Sri Lanka to set up a refueling station in Nedundi.
+வரலாற்றில் முதல் முறையாக நெடுந்தீவில் எரிபொருள் நிரப்பு நிலையத்தை அமைப்பதற்காக இலங்கை பெட்ரோலியக் கூட்டுத்தாபனத்துடன் ஒப்பந்தம் எட்டப்பட்டதாக நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சரும் சபைத் தலைவருமான பிமல் ரத்நாயக்க தெரிவித்தார்.
 
-Speaking at a function in Jaffna, the Minister said the project would be implemented with the cooperation of the Sri Lankan Navy and that the residents of Long Island would allow the residents to buy fuel at the same price in Colombo.. He noted that it takes nearly seven hours to carry the fuel to the generator in Nedundi.
+யாழ்ப்பாணத்தில் நடந்த ஒரு நிகழ்வில் உரையாற்றிய அமைச்சர், இந்தத் திட்டம் இலங்கை கடற்படையின் ஒத்துழைப்புடன் செயல்படுத்தப்படும் என்றும், நெடுந்தீவு குடியிருப்பாளர்கள் கொழும்பில் உள்ள அதே விலையில் எரிபொருளை வாங்க அனுமதிக்கும் என்றும் கூறினார்.  ​நெடுந்தீவில் உள்ள ​​ ஜெனரேட்டருக்கு எரிபொருளைக் கொண்டு செல்ல கிட்டத்தட்ட ஏழு மணி நேரம் எடுக்கும் என்று அவர் குறிப்பிட்டார்.
 
 ◼️
 
 [Data](articles/3d997d91.json)
-
-[Extended Data](ext_articles/3d997d91.ext.json)
 
 ---
 
@@ -497,21 +445,19 @@ COLOMBO (News 1st): A tragic road accident claimed the lives of a young married 
 
 ---
 
-### One person killed in accident
+### பின்னவல பகுதியில் இடம்பெற்ற விபத்தில் ஒருவர் பலி!
 
 *2025-10-05 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226913) · `ta`
 
-The buses collided with a motorcycle in the opposite direction, losing control of the motorcycle at the Hatton -Balangoda road, which belongs to the Pinnawala Police Division.
+பின்னவல பொலிஸ் பிரிவுக்குட்பட்ட ஹட்டன் - பலாங்கொடை வீதியில் 08ஆம் மைல் கல் அருகில், மோட்டார் சைக்கிள் கட்டுப்பாட்டை இழந்து வீதியில் கவிழ்ந்து எதிர் திசையில் வந்த பஸ்ஸூடன் மோதியதியுள்ளது..
 
-A motorcycle driver and a woman traveling with her were injured and admitted to the Balangoda hospital.. The woman has died without treatment.
+இதன்போது, மோட்டார் சைக்கிள் ஓட்டுநரும், அவருடன் பயணித்த பெண் ஒருவரும் காயமடைந்த நிலையில், பலாங்கொடை வைத்தியசாலையில் அனுமதிக்கப்பட்டனர். சிகிச்சை பலனின்றி பெண் உயிரிழந்துள்ளார்.
 
-The body has been placed in the funeral room of the Balangoda Hospital and Pinnawala police are conducting further investigations.
+சடலம் பலாங்கொடை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், பின்னவல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/f2b8c75a.json)
-
-[Extended Data](ext_articles/f2b8c75a.ext.json)
 
 ---
 
@@ -533,51 +479,45 @@ According to Mrs. Diywnka Jayasuriya, the acting Director General of the Commiss
 
 ---
 
-### Suspect Information in Prevention: R-56
+### தடுப்புக்காவலில் இருந்த சந்தேகநபர் தகவல்: ரி-56 ரக வெடிமருந்துகள் மீட்பு
 
 *2025-10-05 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226912) · `ta`
 
-Under the detention order, the T-56 ammunition was found from the suspect who was detained and interrogated at the Nagoda Police Station.
+தடுப்புக்காவல் உத்தரவின் கீழ், நாகொடை  பொலிஸ் நிலையத்தில், தடுத்து வைக்கப்பட்டு, விசாரிக்கப்பட்ட சந்தேக நபரிடமிருந்து, கிடைத்த தகவலுக்கமைய ரி-56 ரக வெடிமருந்துகள் கண்டுபிடிக்கப்பட்டன.
 
-On the first day of October, the person was arrested by the Nagoda Police Station officials with a revolver rifle and 02 grams of 700 milligrams of heroin.
+நாகொடை பொலிஸ் நிலைய அதிகாரிகள் குழுவினால், ஒக்டோபர் மாதம் முதலாம் திகதி, நாட்டில் தயாரிக்கப்பட்ட ரிவால்வர் ரக துப்பாக்கி மற்றும் 02 கிராம் 700 மில்லிகிராம் ஹெரோயின் போதைப்பொருளுடன் குறித்த நபர் கைது செய்யப்பட்டார்.
 
-On October 2, the Baddegama Magistrate's Court was produced before the court and ordered to be interrogated for seven days under the detention order.
+ஒக்டோபர் மாதம் 2ஆம் திகதி, பத்தேகம நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தியதுடன், தடுப்புக்காவல் உத்தரவின் கீழ் 07 நாட்கள் தடுத்து, விசாரிக்க உத்தரவிடப்பட்டது.
 
-Accordingly, during his investigation, 4 and empty ammunition envelopes were found by the suspect in the Dunganda area.
+அதற்கமைய, அவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே, துங்கந்த பகுதியில் சந்தேக நபரால் மறைத்து வைக்கப்பட்டிருந்த ரி -56 ரக வெடிமருந்துகள் 4 மற்றும் வெற்று வெடிமருந்து உறைகள் கண்டுபிடிக்கப்பட்டன.
 
-Investigations have revealed that the suspect is a 32 -year -old from Yatalamaththa.
+சந்தேக நபர் யதலமத்த பகுதியைச் சேர்ந்த 32 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
 
-He has been detained at the Nagoda Police Station on a detention order and further investigations are underway.
+அவர் தடுப்புக்காவல் உத்தரவின் பேரில் நாகொட பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகள் நடத்தப்பட்டு வருகின்றன.
 
 ◼️
 
 [Data](articles/b83b7f52.json)
 
-[Extended Data](ext_articles/b83b7f52.ext.json)
-
 ---
 
-### Suspect arrested for firing and murder
+### துப்பாக்கிச் சூடு நடத்தி கொலை முயற்சியில் ஈடுபட்ட சந்தேக நபர், ஐஸ் போதைப்பொருளுடன் கைது!
 
 *2025-10-05 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226911) · `ta`
 
-A suspect has been arrested by the Criminal Investigation Department of the Colombo Northern Division with an ice drug on the Abeysingarama Road, Maradana Police Division.
+மருதானை பொலிஸ் பிரிவிற்குட்பட்ட, அபேசிங்காராம வீதியில் ஐஸ் போதைப்பொருளுடன் சந்தேகநபர் ஒருவர், கொழும்பு வடக்கு பிரிவு குற்றப் புலனாய்வுப் திணைக்களத்தினரால் கைது செய்யப்பட்டுள்ளார்.
 
-22 grams of 200 milligrams of ice was seized from him and the suspect was arrested and handed over to the Maradana police station.
+அவரிடமிருந்து 22 கிராம் 200 மில்லிகிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டதுடன், சந்தேகநபர் கைது செய்யப்பட்டு மருதானை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
 
-He was arrested on Saturday (04) following information received by officials of the Colombo Northern Division Criminal Investigation Department.
+கொழும்பு வடக்கு பிரிவு குற்றப் புலனாய்வுப் திணைக்களத்தின் அதிகாரிகளுக்குக் கிடைத்த தகவலுக்கமைய, நேற்று சனிக்கிழமை (04) அவர் கைது செய்யப்பட்டுள்ளார்.
 
-Investigations conducted by him revealed that on September 6 last year, it was revealed that he was a gunman in the Panjikawatte area of ​​the Maradana police division.
+மேலும், அவரிடம் நடத்தப்பட்ட விசாரணைகளின்போது, கடந்த செப்டம்பர் 06ஆம் திகதி மருதானை பொலிஸ் பிரிவிற்குட்பட்ட பஞ்சிகாவத்தை பகுதியில், துப்பாக்கிச் சூடு நடத்தி, கொலை முயற்சி குற்றத்தில் ஈடுபட்ட துப்பாக்கிதாரி என்பதும் தெரியவந்துள்ளது.
 
-In addition, three suspects, including a motorcycle driver, were arrested and produced in court after being produced in court.
+மேலும், துப்பாக்கி சூடு சம்பவத்துடன் தொடர்புடைய, மோட்டார் சைக்கிள் ஓட்டுநர் உட்பட மூன்று சந்தேக நபர்கள் முன்னர் கைது செய்யப்பட்டு, நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் விளக்கமறியலில் வைக்கப்பட்டனர்.
 
-The Criminal Investigation Department of the Colombo Northern Division is conducting further investigations into the incident.
-
-◼️
+...
 
 [Data](articles/4f2b7635.json)
-
-[Extended Data](ext_articles/4f2b7635.ext.json)
 
 ---
 

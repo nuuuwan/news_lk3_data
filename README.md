@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 19:37:02**
+As of **2025-10-05 19:20:40**
 
 ## Newspaper Stats
 
-*Scraped **81,345** Articles*
+*Scraped **81,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,144 +18,72 @@ economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,789
-adaderanalk | 10,456
-tamilmirrorlk | 12,081
+adaderanalk | 10,455
+tamilmirrorlk | 12,079
 virakesarilk | 13,359
-adaderanasinhalalk | 13,986
+adaderanasinhalalk | 13,985
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,341 (100.0%) of 81,345 articles have been extended.
+81,338 (100.0%) of 81,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
 
-### කාන්තාවකගේ රත්‍රංවලට විද්ද අමුතු උඟුලක්
-
-*2025-10-05 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215377) · `si`
-
-ආණමඩුව ප්‍රදේශයේ කාන්තාවක් රවටා නිධානයක් ලබාගැනීම සඳහා තැම්පත් කිරීමට යැයි පවසමින් ඇයගේ රුපියල් ලක්ෂ 22කට ආසන්න රන් ආභරණ සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට එකම පවුලේ මව, පියා හා දියණිය පල්ලම පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ බිංගිරිය ඌරාපොත්ත ප්‍රදේශයෙ පදිංචි 67 හැවිරිදි සැමියා, 48 හැවිරිදි බිරිද හා ඔවුන්ගේ දියණිය යැයි කියන 22 හැවිරිදි තරුණියක්ය.
-
-සිද්ධියට මුහුණ දුන් කාන්තාව වසර 10කට ආසන්න කාලයක් ඩුබායි රාජ්‍යයේ සේවය කර ඇති අතර ඇය දෙදරු මවක් වේ.
-
-ඇයගේ පල්ලම, කම්මන්දළුව ප්‍රදේශයේ පිහිටි තවත් ඉඩමක කුලී පදනමට රැදී සිටි එකම පවුලේ සැමියා, බිරිද හා දියණිය එක්ව මෙම සොරකම සිදු කර ඇත.
-
-එම සැකකරුවන් තමන්ගේ කම්මන්දළුව නිවසේ රැදී සිටින අතරතුර එම නිවසට ආරක්ෂාවක් කිරීම සඳහා යැයි පවසමින් අවස්ථා කිපයකදී මෙම කාන්තාවගෙන් ලක්ෂ 5කට ආසන්න මුදලක් ලබාගෙන තිබේ.
-
-එම ආරක්ෂාව මෙම සොරකම කළ සැකකාර පවුලේ කාන්තාව විසින් සිදු කළ බවත්, ඒ පිළිබඳව ඇති වූ විශ්වාසය මත ඔවුන් ගැන සැකයක් නොතිබූ බව ඇය පොලීසියට පවසා තිබේ.
-
-...
-
-[Data](articles/ab0670f6.json)
-
----
-
-### How weather changes in the next 36 hours
+### ඉදිරි පැය 36 දී  කාලගුණය වෙනස් වෙන හැටි
 
 *2025-10-05 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215376) · `si`
 
-Showers or thundershowers will occur at several places in many parts of the island.
+දිවයිනේ බොහෝ ප්‍රදේශවල පස්වරු 1.00න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
-Showers will occur at several places in the Western and North Western Provinces and in the Galle and Matara districts.
+බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී ස්ථාන ස්වල්පයක වැසි ඇති විය හැකි බව එම නිවේදනයේ සඳහන් වේ.
 
-In some places in the North, North, East, Eastern, Central and Uva provinces. Heavy rains may occur more than 50.
+උතුරු, උතුරු - මැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත් වල ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇති විය හැක.
 
-The Meteorological Department also requests the public to take necessary steps to minimize the damaged winds and strong lightning accidents with thunderstorms.
+එමෙන්ම ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තද සුළං සහ ප්‍රබල අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
 
 ◼️
 
 [Data](articles/8322810f.json)
 
-[Extended Data](ext_articles/8322810f.ext.json)
-
 ---
 
-### Almost 1,000 trapped on Tibetan side of Mount Everest by blizzard
-
-*2025-10-05 17:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113236/almost-1000-trapped-on-tibetan-side-of-mount-everest-by-blizzard) · `en`
-
-Rescue efforts were underway on Sunday to clear access to campsites on Tibet’s eastern slope of Mount Everest, where nearly 1,000 people have been trapped by a blizzard that has blocked roads, according to Chinese state media reports.
-
-Hundreds of local villagers and rescue teams have been deployed to help remove snow blocking access to the area, which sits at an altitude above 4,900 metres (16,000 feet), according to a report in Jimu News.
-
-Some tourists on the mountain have already been brought down, it added.
-
-The snowfall began on Friday evening and continued throughout Saturday, according to notices on the official WeChat accounts of the local Tingri County Tourism Company, which said ticket sales and entry to the Everest Scenic Area were suspended from late Saturday.
-
-Just across the border in Nepal, heavy rains triggered landslides and flash floods that have blocked roads, washed away bridges and killed at least 47 people since Friday, police said.
-
-...
-
-[Data](articles/06417a77.json)
-
----
-
-### Two killed in US shooting
+### අමෙරිකාවේ වෙඩි තැබීමකින් ළමුන් දෙදෙනෙකු මරුට
 
 *2025-10-05 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215375) · `si`
 
-Two children were killed in a shooting at Texas, USA.
+අමෙරිකාවේ ටෙක්සාස්හි වාහන නැවතුම් ස්ථානයක සිදුවු වෙඩි තැබීමකින් ළමුන් දෙදෙනෙකු මියගොස් තිබේ.
 
-Foreign media reports that two other children were seriously injured.
+විදෙස් මාධ්‍ය වාර්තා කළේ තවත් ළමුන් දෙදෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර ඇති බවය.
 
-The deceased has been identified as 4-year-old and 13 year old children.
+මියගොස් ඇත්තේ 04 හැවිරිදි සහ 13 හැවිරිදි වියේ පසුවන ළමුන් දෙදෙනෙකු බව සඳහන් වේ.
 
-Several suspects have been arrested in connection with the incident and are currently being interrogated and questioned by the police.
+මේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් කිහිප දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර ඔවුන් මේ වන විට රඳවාගෙන ප්‍රශ්න කරමින් සිටින බව එරට පොලීසිය විදෙස් මාධ්‍ය වෙත වාර්තා කර ඇත.
 
 ◼️
 
 [Data](articles/ae30b2f6.json)
 
-[Extended Data](ext_articles/ae30b2f6.ext.json)
-
 ---
 
-### அந்தரங்க உறுப்புக்குள் மனைவி வைத்திருந்த பொருள்:   கணவருக்கு தீவிர சிகிச்சை
-
-*2025-10-05 17:02:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தரங்க-உறுப்புக்குள்-மனைவி-வைத்திருந்த-பொருள்-கணவருக்கு-தீவிர-சிகிச்சை/175-365773) · `ta`
-
-உத்தரப் பிரதேசத்தின் சம்பல் மாவட்டத்தில், தௌலத்பூர் கிராமத்தில் நடந்த கொடூர சம்பவம் மக்களை அதிர்ச்சிக்கு உள்ளாக்கியுள்ளது. தனது கணவன் கள்ளத்தனத்தில் ஈடுபட்டிருப்பதாக சந்தேகித்த மனைவி, அவர் தூங்கிக் கொண்டிருக்கும் போது அவரது அந்தரங்க உறுப்பை கத்தியால் துண்டித்து வீசி விட்டார்.
-
-இந்தச் சம்பவம்  அக்டோபர் (04) இரவு நடந்தது. பாதிக்கப்பட்ட கணவர் ராஜு (வயது 32) தற்போது உயிருக்காக போராடி வருகிறார்.
-
-தௌலத்பூர் கிராமத்தில் வசிக்கும் ராஜு மற்றும் அவரது மனைவி நேஹா (வயது 28) திருமணமாகி ஐந்து ஆண்டுகளானது. இருவருக்கும் 4 வயது சிறுவன் உள்ளார்.
-
-உள்ளூர் தகவல்களின்படி, ராஜு அடிக்கடி வீட்டை விட்டு வெளியே சென்று திரும்புவதில்லை என்பதால், நேஹாவுக்கு அவரது கள்ளத்தனத்தைப் பற்றிய சந்தேகம் எழுந்தது.
-
-இந்த சந்தேகம் கடந்த சில மாதங்களாக வலுக்கியது.சனிக்கிழமை (04) இரவு ராஜு தனது அறையில் ஆழ்ந்த உறக்கத்தில் இருந்தபோது, கோபத்தில் கொதித்த நேஹா அவரது பக்கத்தில் வந்து, மறைவாக வைத்திருந்த கத்தியை எடுத்து அவரது அந்தரங்க உறுப்பை முழுமையாக துண்டித்தார்.
-
-...
-
-[Data](articles/133200b7.json)
-
----
-
-### World Contact Day National Celebration
+### ලෝක ජනාවාස දින ජාතික සැමරුම් උත්සවය ජනපති ප්‍රධානත්වයෙන්
 
 *2025-10-05 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215374) · `si`
 
-World Resources Day National Commemoration Day was held at Temple Trees this morning under the patronage of President Anura Kumara Dissanayake.
+ලෝක ජනාවාස දින ජාතික සැමරුම් උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (05) පෙරවරුවේ අරලියගහ මන්දිරයේදී පැවැත්විණි.
 
-The national celebration was held under the theme "A Beautiful Life" in parallel to the United Nations World Hostering Day.
+එක්සත් ජාතීන්ගේ ලෝක ජනාවාස දිනයට සමගාමීව “තමන්ගේම තැනක් - ලස්සන ජීවිතයක්” යන තේමාව යටතේ එහි ජාතික සැමරුම පැවැත්වුණු අතර ඒ හා සමගාමීව ඔක්තෝබර් 01-05 දක්වා ජනාවාස සතියක්ද ප්‍රකාශයට පත්කරමින් විවිධ වැඩසටහන් ක්‍රියාත්මක කර තිබිණි.
 
-The President also handed over a half of the working houses throughout the country to build houses for nearly 4,000 poor families who have not been able to build a house to build a house.
+නිවසක් ඉදිකර ගැනීමට මූල්‍ය හැකියාවක් නොමැති දිළිඳු පවුල් 4000කට ආසන්න සංඛ්‍යාවක් සඳහා නිවාස ඉදිකර දීම වෙනුවෙන්, නිවාස සංවර්ධන අධිකාරිය විසින් ක්‍රියාත්මක කරනු ලැබ ඇති වැඩසටහන යටතේ දිවයින පුරා වැඩ නිම කළ නිවාස දහසක් ජනතා අයිතියට පවරා දීමද මෙහිදී විද්‍යුත් තාක්ෂණය ඔස්සේ ජනාධිපතිවරයා අතින් සිදු විය.
 
 UN Habitat ශ්‍රී ලංකා කාර්යාලයේ මැදිහත්වීමෙන් ඉන්දියානු රජයේ සහ Coalition for Disaster Resilient Infrastructure (CDRI) ආධාර මත ක්‍රියාත්මක කිරීමට යෝජිත අඹතලේ ජල සැපයුම් ව්‍යාපෘතියේ සංකේතීය ප්‍රදානය ජනාධිපතිවරයා වෙත නිල වශයෙන් භාර දීමද මෙහිදී සිදු කෙරිණි.
-
-Giving housing deeds on various reasons
-
-The President also presented awards to winners of the winners and the winners of the winners and the Urban Development Authority, which was widely implemented by the World Holding Day.
 
 ...
 
 [Data](articles/622a8abf.json)
-
-[Extended Data](ext_articles/622a8abf.ext.json)
 
 ---
 
@@ -229,13 +157,7 @@ The suspects have been arrested following raids conducted in the Habaraduwa and 
 
 The estimated street value of the seized narcotics is around Rs. 40 million.
 
-The arrested suspects have allegedly been distributing drugs to several areas in the Southern Province and have been engaged in this drug trafficking racket under the guise of engaging in fishing activities.
-
-The arrestees include ‘Midigama Rana’, a close associate of organized criminal and drug trafficker known by the alias ‘Midigama Ruwan’. The remaining suspects have been arrested following interrogation of ‘Midigama Rana’.
-
-The suspects have claimed that they brought the stock of drugs, which was found floating in the sea, to land and then sold it.
-
-...
+◼️
 
 [Data](articles/94e1fafe.json)
 
@@ -1349,22 +1271,6 @@ He began to study languages ​​at the age of 4 and set the first record of be
 
 ---
 
-### 46 மொழிகளில் சரளமான பேச்சு: உலகை வியக்க வைத்த மஹ்மூத் அக்ரம்
-
-*2025-10-05 11:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/46-மொழிகளில்-சரளமான-பேச்சு-உலகை-வியக்க-வைத்த-மஹ்மூத்-அக்ரம்/97-365752) · `ta`
-
-19 வயதில் 46 மொழிகளை சரளமாக பேசி,400 மொழிகளில் வாசிக்கவும், எழுதவும், தட்டச்சு செய்யும் திறன்கொண்ட மஹ்மூத் அக்ரம் விருது வழங்கி கௌரவிக்கப்பட்டார்.
-
-சென்னையைச் சேர்ந்த 19 வயது மஹ்மூத் அக்ரம் எழுத, வாசிக்க தட்டச்சு செய்யும் அபூர்வ திறமையால் வியக்கவைத்துள்ளார்.
-
-4 வயதிலேயே மொழிகளை படிக்கத் தொடங்கிய இவர்,  8 வயதில் இளம் பன்மொழி தட்டச்சுக்காரர், என்ற முதலாவது சாதனையை படைத்தார்.
-
-◼️
-
-[Data](articles/9123d283.json)
-
----
-
 ### National People's Power Government on Hitler's path; Ranil Sadal is trying to control the judiciary
 
 *2025-10-05 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226927) · `ta`
@@ -2058,5 +1964,89 @@ Those who are aware of the young man have requested the family to contact 076- 7
 [Data](articles/e6da87b0.json)
 
 [Extended Data](ext_articles/e6da87b0.ext.json)
+
+---
+
+### Firing at Elpitiya
+
+*2025-10-05 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226920) · `ta`
+
+An unidentified person who was riding a motorcycle on a motorbike was shot dead on a house in Omata area in Elpitiya, police said.
+
+Police said no casualties were injured in the shooting.
+
+The cause of the shooting has not yet been revealed, while police suspect that the incident may have been a revenge for informing the police about drug activities in the area.
+
+◼️
+
+[Data](articles/113b367d.json)
+
+[Extended Data](ext_articles/113b367d.ext.json)
+
+---
+
+### 731 permanent postal assistant to the Sri Lanka Postal Department
+
+*2025-10-05 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215356) · `si`
+
+731 persons have been selected for the post of postal assistant in Grade III of the Department of Mass Technology Department of Mass Technology.
+
+The appointment letters to those selected persons will be held at Temple Trees, Dr. Nalinda Jayatissa at Temple Trees, tomorrow.
+
+After the year 2021, he had not taken permanent postal assistant to the Sri Lanka Postal Department.
+
+The departmental work with such a number of vacancies had arisen and was approved by the Cabinet approval on 19 August 205 to the request of Health and Mass Media Dr. Nalinda Jayatissa to recruit 1,000 vacancies.
+
+Accordingly, 731 of the above was selected for recruitment of the proper qualifications registered as substitute employees of the Department of Posts.
+
+The Ministry of Health and Mass Mediti has already taken action to recruit 269 other postvers.
+
+◼️
+
+[Data](articles/fa0b8266.json)
+
+[Extended Data](ext_articles/fa0b8266.ext.json)
+
+---
+
+### A boy who swim in the sea
+
+*2025-10-05 09:36:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-நீந்தி-சாதித்த-மாற்றுத்திறனாளி-சிறுவன்/175-365736) · `ta`
+
+A 12 -year -old boy who was suffering from knee to the achievement of swimming and achievement of the inability and achievement was set on a record of the Pakistani Strait from Sri Lanka to Dhanushkodi on Friday (3).
+
+The Pakjalasandi Sea is a source of separation of Tamil Nadu and Sri Lanka. Rameshwaram island and 13 sand dunes that followed and separate the Bagh Strait from the Gulf of Mannar. In Tamil Nadu, the most deeper and rocks are a sea of ​​dangerous jellyfish.
+
+So far, more than 30 people have set a record of swimming the Bagh Strait alone. Most of them were swimming from Sri Lanka's Dhanushkodi to Dhanushkodi or Dhanushkodi to Talaimannar. In addition to this, some people have swimmed at the Riley and Marathon system.
+
+In this case, Periyar Selvan, a 12 -year -old boy from Padmapriya couple from Mukherjee West, Chennai, is attending eighth grade at a private school in Mukherjee.
+
+...
+
+[Data](articles/7430a768.json)
+
+[Extended Data](ext_articles/7430a768.ext.json)
+
+---
+
+### Suspect wanted over shooting and attempted murder arrested in Maradana
+
+*2025-10-05 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113226/suspect-wanted-over-shooting-and-attempted-murder-arrested-in-maradana-) · `en`
+
+A suspect wanted by the police in connection with an attempted murder by shooting in Panchikawatta area of Maradana, has been arrested by officers of the Colombo North Divisional Crime Investigation Bureau.
+
+The suspect was arrested yesterday (04) on Abeysingharama Road, within the Maradana Police Division, following a tip-off received by the bureau.
+
+At the time of the arrest, police also recovered 22 grams and 200 milligrams of the narcotic substance known as ‘Ice’ from his possession.
+
+The suspect has been identified as a 40-year-old resident of the Embilipitiya area, police said.
+
+Further investigations have revealed that the suspect is the gunman involved in the attempted murder by shooting that took place in the Panchikawatte area, within the Maradana Police Division, on September 6, 2025.
+
+...
+
+[Data](articles/e906622b.json)
+
+[Extended Data](ext_articles/e906622b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 15:05:42**
+As of **2025-10-05 15:37:33**
 
 ## Newspaper Stats
 
-*Scraped **81,295** Articles*
+*Scraped **81,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,155 @@ islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,789
 adaderanalk | 10,441
-tamilmirrorlk | 12,075
+tamilmirrorlk | 12,076
 virakesarilk | 13,359
-adaderanasinhalalk | 13,973
+adaderanasinhalalk | 13,978
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,295 (100.0%) of 81,295 articles have been extended.
+81,301 (100.0%) of 81,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### Indo-Pakistani Vihara to women cricket
+
+*2025-10-05 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215369) · `si`
+
+Indo-Pakistani cricket match in the Oney Day Women's World Cup Colombo. Will be held today (5) at the Premadasa Stadium.
+
+Pakistani leader won the toss and won the toss.
+
+Meanwhile, the Indo-Pakistani leaders also refrained from the match.
+
+Indian and Pakistan players refrained from their hands on the tournament throughout the tournament.
+
+◼️
+
+[Data](articles/a14d7b68.json)
+
+[Extended Data](ext_articles/a14d7b68.ext.json)
+
+---
+
+### Sri Lankan Air trace arrested with foreign cigarettes
+
+*2025-10-05 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215368) · `si`
+
+A Sri Lankan Airport Traftsman has arrested a Sri Lankan Airport's Bureau today (05).
+
+The suspect was arrested, but they were taken to the country to take the cigarettes country and they were taken to take the Katunayake airport premises.
+
+Police said that the suspect is a 44 year old resident of Kalpitiya, Puttalam.
+
+The suspect had come to Sri Lanka from Dubai and hid 15,000 cigarettes containing 30,000 cigarettes.
+
+The suspect is to be produced before the Negombo Magistrate's Court on the 8th.
+
+◼️
+
+[Data](articles/2cc6f339.json)
+
+[Extended Data](ext_articles/2cc6f339.ext.json)
+
+---
+
+### 4,500 jumps in bribery - 58 people arrested
+
+*2025-10-05 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215367) · `si`
+
+More than 4,500 complaints have been received regarding the bribery incidents this year, the Commission said.
+
+They point out that 4,626 complaints have been received from 1st January to 31st this year.
+
+In that period 85 raids have been carried out and 58 persons have been arrested, he said.
+
+Most of the suspects are police officers and the number is 19.
+
+Among the arrested were eight police sergeants, five police constables and three sub-inspectors.
+
+The Bribery Commission (Ceylon Transport Forctors) said that between three Grama Niladhari, two public health inspectors, two public health inspectors, and two General Hospital Officers in the Ministry of Justice.
+
+Thirty more people have been arrested in connection with investigations except the arrests carried out by the raids this year.
+
+The bribery or corruption of correspondent in charge of the bribery, including politicians, including politicians, doctors, are people including politicians.
+
+...
+
+[Data](articles/5fb8907b.json)
+
+[Extended Data](ext_articles/5fb8907b.ext.json)
+
+---
+
+### Dearanneen heroes - a resource for the country for 20th anniversary
+
+*2025-10-05 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215366) · `si`
+
+Derana was a hero to the country - a resource for the country - a resource for the country today (05).
+
+This is a reality tournament, exploring inherent innovative town in Gennugama, town.
+
+The program aims to achieve the Olympic dream after 25 years.
+
+Tv Derana, who was the theme of the country, celebrates his twenty-day anniversary of the country's Television Network.
+
+Derana joined his media outlets and social service projects, including a manner, and social service projects, including the country's duty to the country.
+
+Fast bowler Eshan Malinga also rewarded the local cricket team and the Sri Lankan national women's cricket team.
+
+The Derana Media Network, which was intended to be perfect, and the integrated media in Sri Lanka, the Derana Media Network was established under the "Maha Derana Media Network to the Ada Derana Media Network.
+
+Sri Lanka's 100-meter running champions champions have also enabled the "Rapana Derana" project.
+
+...
+
+[Data](articles/c52e2f86.json)
+
+[Extended Data](ext_articles/c52e2f86.ext.json)
+
+---
+
+### 07 days detention orders for Backwo Samina
+
+*2025-10-05 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215365) · `si`
+
+The Court of Justice has been given permission to the police for detaining and investigate and investigate and investigate and investigate and investigate.
+
+The Western Province has been granted permission to the Northern Province Criminal Division to keep the Aluthkade Magistrate's Court.
+
+According to interrogation from Nedungagala Prasanna, or in the 'interrogation from Nedungagala Prasanna alias' Bacquan', was arrested by his brother-in-law.
+
+The suspect has also seized a drug and car from the possession of the suspect and the suspect was handed over to the Western Criminal Division for further investigations.
+
+The suspect is 27-year-old residents of Welipitiya, a resident of Welipitiya.
+
+The Western Province North Criminal Division has commenced further investigations into the suspect, the Police Media Division said.
+
+◼️
+
+[Data](articles/ecb3f3b9.json)
+
+[Extended Data](ext_articles/ecb3f3b9.ext.json)
+
+---
+
+### Actress Simran arrived
+
+*2025-10-05 14:16:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகை-சிம்ரன்-வந்தடைந்தார்/54-365762) · `ta`
+
+Actress Simran Katunayake Bandaranaike has arrived in the country through the International Airport to participate in the Greatest Bride and Graduation Ceremony.
+
+◼️
+
+[Data](articles/9aeca434.json)
+
+[Extended Data](ext_articles/9aeca434.ext.json)
+
+---
 
 ### Post Master General reveals
 
@@ -1898,115 +2034,5 @@ In some places, the Western, Sabaragamuwa, Central, North-Central and Uva provin
 [Data](articles/11c08603.json)
 
 [Extended Data](ext_articles/11c08603.ext.json)
-
----
-
-### Russia attack at Ukraine railway station
-
-*2025-10-05 03:54:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைன்-ரயில்-நிலையத்தில்-ரஷ்யா-தாக்குதல்/50-365727) · `ta`
-
-About 30 people were injured in Russia's attack at Shostaka railway station in Sumi, Ukraine, said Ukraine President Voladimir Jelensky.
-
-He said that all the information about the injured is being verified and all emergency services have already come to the scene to help the people.
-
-According to the initial reports, the train staff and passengers are at the scene of the attack. (A)
-
-◼️
-
-[Data](articles/c9bed78e.json)
-
-[Extended Data](ext_articles/c9bed78e.ext.json)
-
----
-
-### Driver's Allow Bonds: Action Notice
-
-*2025-10-05 03:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதி-பத்திரங்கள்-அதிரடி-அறிவிப்பு/175-365726) · `ta`
-
-The Department of Motor Transport has decided to extend the validity period of driver's licenses.
-
-Transport Commissioner General Kamal Amarasinghe said a special committee has been appointed to investigate the upcoming time limit.. (A)
-
-◼️
-
-[Data](articles/6f13a18d.json)
-
-[Extended Data](ext_articles/6f13a18d.ext.json)
-
----
-
-### Driver's licenses are prolonged period of time
-
-*2025-10-05 03:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிபத்திரங்கள்-செல்லுபடியாகும்-காலம்-நீடிப்பு/175-365726) · `ta`
-
-The Department of Motor Transport has decided to extend the validity period of driver's licenses.
-
-Transport Commissioner General Kamal Amarasinghe said that a special committee has been appointed to investigate the upcoming time limit.. (A)
-
-◼️
-
-[Data](articles/20fe3788.json)
-
-[Extended Data](ext_articles/20fe3788.ext.json)
-
----
-
-### The shop owner's death
-
-*2025-10-05 03:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்துக்கு-இலக்காகி-கடை-உரிமையாளர்-மரணம்/175-365725) · `ta`
-
-The owner of the shop has died due to the rhetoric at the commercial station in the East of the East of the East of the Jaffna and Lunagam Police Division.
-
-Two youths who had been intoxicated to the commercial station found in the east of Ezhalai have been asked to give a mixer. When the shop owner asked for the money, the shop owners had the logic of the shop owners.
-
-Those who come to buy a mixer on the shop owner have carried out a knife. The shop owner died on the spot.
-
-The death of Singaravell Danavan, 35, from East East, was killed in the incident.
-
-◼️
-
-[Data](articles/66d113ed.json)
-
-[Extended Data](ext_articles/66d113ed.ext.json)
-
----
-
-### 2025-10-04 (Saturday)
-
-### Minister Saroja Paulraj leaves the 68th Commonwealth Heads
-
-*2025-10-04 23:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215349) · `si`
-
-Minister Sarja Paulraj is due to leave the country tomorrow (05) to attend the 68th Commonwealth Parliamentary Conference.
-
-The Commonwealth Parliamentary Association organizes annually organizing the Commonwealth Parliamentary Association with the aim of discussing global parliamentary and political issues annually from tomorrow to the Barbados Branch of Babados Branch.
-
-The Members of the Commonwealth countries are participating in the women's former opposition to the Sri Lankan Parliament and the General Secretary General of Parliament.
-
-Minister Saroja Saroja Saroja Saroja Saroja Saroja Savitri Ukraine and the group will leave for the island tomorrow (05).
-
-◼️
-
-[Data](articles/c9b2f986.json)
-
-[Extended Data](ext_articles/c9b2f986.ext.json)
-
----
-
-### Will Aswesa be canceled?
-
-*2025-10-04 22:47:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-இரத்து-செய்யப்படுமா/175-365724) · `ta`
-
-Opposition leader Sajith Premadasa has accused the government of decision to abolish the Assuming welfare program soon.
-
-The Opposition Leader also pointed out that the Assembly project has failed to reduce the poverty of the people.
-
-Sajith Premadasa has said that a social security program should ensure poverty alleviation, investment, savings, production and exports.. Remble
-
-◼️
-
-[Data](articles/9a5ce97b.json)
-
-[Extended Data](ext_articles/9a5ce97b.ext.json)
 
 ---

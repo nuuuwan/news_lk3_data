@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 10:37:50**
+As of **2025-10-05 10:19:57**
 
 ## Newspaper Stats
 
-*Scraped **81,224** Articles*
+*Scraped **81,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,784
 adaderanalk | 10,441
-tamilmirrorlk | 12,064
+tamilmirrorlk | 12,056
 virakesarilk | 13,341
 adaderanasinhalalk | 13,963
 
@@ -27,129 +27,11 @@ adaderanasinhalalk | 13,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,215 (100.0%) of 81,224 articles have been extended.
+81,215 (100.0%) of 81,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
-
-### கடலில் நீந்தி சாதித்த மாற்றுத்திறனாளி சிறுவன்
-
-*2025-10-05 09:36:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-நீந்தி-சாதித்த-மாற்றுத்திறனாளி-சிறுவன்/175-365736) · `ta`
-
-இயலாமைக்கும் சாதனைக்கும் உள்ள தூரத்தை நீந்தி கடந்து சாதனை படைக்க வேண்டும் என்ற லட்சியத்துடன் முழங்காலுக்கு கீழே பாதிக்கப்பட்ட 12 வயது மாற்றுத்திறனாளி சிறுவன் கடந்த வெள்ளிக்கிழமை (3) அன்று இலங்கை தலைமன்னாரிலிருந்து தனுஷ்கோடி வரையிலான பாக் ஜலசந்தி கடலை 9 மணி 11 நிமிடத்தில் நீந்தி கடந்து சாதனை படைத்துள்ளார்.
-
-பாக்ஜலசந்தி கடல் பகுதி தமிழகத்தையும் இலங்கையையும் பிரிக்கும் நீரிணை ஆகும். ராமேஸ்வரம் தீவும், அதை தொடர்ந்துள்ள 13 மணல் தீடைகளும், பாக் ஜலசந்தி கடற்பகுதியை மன்னார் வளைகுடாவில் இருந்தும் பிரிக்கிறது. தமிழகத்திலேயே மிகவும் ஆழம் குறைந்த அதே சமயம் பாறைகளும் ஆபத்தான ஜெல்லி மீன்கள் நிறைந்த கடல் பகுதியாகும் .
-
-இதுவரை 30 க்கும் மேற்பட்டோர் பாக் ஜலசந்தியை தனியாக நீந்தி கடந்து சாதனை புரிந்துள்ளனர். இவர்களில் பெரும்பாலானோர் இலங்கையின் தலைமன்னாரிலிருந்து இந்தியாவின் தனுஷ்கோடிக்கு அல்லது தனுஷ்கோடியில் இருந்து தலைமன்னாருக்கு நீந்திச் சென்றவர்கள். இது தவிர மேலும் சிலர் குழுவாக ரிலே மற்றும் மாரத்தான் முறையில் பாக் ஜலசந்தி கடலை நீந்தி கடந்துள்ளனர்.
-
-...
-
-[Data](articles/7430a768.json)
-
----
-
-### விமலுக்கு அழைப்பாணை
-
-*2025-10-05 09:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/விமலுக்கு-அழைப்பாணை/150-365735) · `ta`
-
-முன்னாள் அமைச்சர் விமல் வீரவன்சவை தங்காலை பொலிஸ் நிலையத்தில் திங்கள்கிழமை (6) ஆஜராகுமாறு அழைப்பாணைஅனுப்பப்பட்டுள்ளது.
-
-"பெலியத்த சனா" என்று அடையாளம் காணப்பட்ட ஒரு நபரைப் பற்றி அவர் தெரிவித்த கருத்தைத் தொடர்ந்து இந்த அழைப்பாணை அனுப்பப்பட்டுள்ளதாக கூறப்படுகிறது.
-
-◼️
-
-[Data](articles/329f0805.json)
-
----
-
-### காவடி ஆட்டிக்கொண்டிருந்த இளைஞன் மரணம்
-
-*2025-10-05 09:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காவடி-ஆட்டிக்கொண்டிருந்த-இளைஞன்-மரணம்/175-365734) · `ta`
-
-அம்பலாங்கொடை, மாதம்பேயில் உள்ள சுவிசுத்தாராமய விஹாரையில் ஏற்பாடு செய்த ஊர்வலத்தின் போது காவடி நடனமாடிக்கொண்டிருந்த 20 வயது இளைஞர் ஒருவர் திடீரென நோய்வாய்ப்பட்டு உயிரிழந்ததாக அம்பலாங்கொடை பொலிஸார் தெரிவித்துள்ளனர்.
-
-எட்கந்துர, தனபத்தேகம பகுதியைச் சேர்ந்த பி.எம்.மஹிஷ பிரபாஷன என்ற 20 வயது இளைஞர் உயிரிழந்துள்ளார். இந்த சம்பவம், வெள்ளிக்கிழமை (03) இடம்பெற்றுள்ளது.
-
-மதம்பே நகர வீதிகளில் ஊர்வலம் சென்று கொண்டிருந்தபோது காவடி நடனமாடிக்கொண்டிருந்த இளைஞர் நோய்வாய்ப்பட்டார். அவர், பலபிட்டிய மருத்துவமனையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்தார்.
-
-கிரிக்கெட் வீரரான உயிரிழந்த இளைஞருக்கு எந்தவிதமான தொற்று நோயும் இல்லை என்றும், இளைஞனின் மரணம் நினைத்துப் பார்க்க முடியாதது என்றும் குடும்பத்தினர் தெரிவிக்கின்றனர். அம்பலாங்கொடை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/5f745cc5.json)
-
----
-
-### கற்பிட்டியில் 405 கிலோ கிராம் பீடி இலைகளுடன் இருவர் கைது
-
-*2025-10-05 09:20:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கற்பிட்டியில்-405-கிலோ-கிராம்-பீடி-இலைகளுடன்-இருவர்-கைது/175-365733) · `ta`
-
-கற்பிட்டி குடாவ கடல் பகுதியில் நடத்திய சிறப்பு தேடுதல் நடவடிக்கையின் போது, ​​சட்டவிரோதமாக நாட்டிற்குள் கொண்டு வர முயன்ற சுமார்  405 கிலோ கிராம் பீடி இலைகள், ஒரு  டிங்கி படகை கைப்பற்றியுள்ள கடற்படையினர், இரண்டு   சந்தேக நபர்களை கைது செய்துள்ளனர்.
-
-கடல் வழிகள் ஊடாக கடத்தல் உட்பட சட்டவிரோத நடவடிக்கைகளை எதிர்த்து தீவைச் சுற்றியுள்ள கடல் மற்றும் கடற்கரைகள் உள்ளடக்கி கடற்படை வழக்கமான ரோந்து மற்றும் தேடுதல் நடவடிக்கைகளை மேற்கொள்கின்றது.
-
-அதன்படி வெள்ளிக்கிழமை (03)  இரவு கற்பிட்டிக்கு அருகில் உள்ள கடல் பகுதியில் வடமேற்கு கடற்படை கட்டளையின் இலங்கை கடற்படை கப்பல் விஜய நடத்திய இந்த சிறப்பு தேடுதல் நடவடிக்கையின் போது, ​​சந்தேகத்திற்கிடமான டிங்கி (01) படகு சோதனை செய்யப்பட்டது.
-
-...
-
-[Data](articles/9c2b2a00.json)
-
----
-
-### விஜயின் பிரச்சார வாகனத்தை பறிமுதல் செய்ய தீவிரம்
-
-*2025-10-05 09:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயின்-பிரச்சார-வாகனத்தை-பறிமுதல்-செய்ய-தீவிரம்/175-365732) · `ta`
-
-தவெக தலைவர் விஜய்யின் பிரச்சார வாகனத்தை பறிமுதல் செய்யுமாறு சிறப்பு புலனாய்வுக் குழுவுக்கு சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ள நிலையில், அதற்கான நடவடிக்கையில் பொலிஸார் தீவிரமாக இறங்கியுள்ளனர்.
-
-கரூரில் கடந்த செப்.27-ம் திகதி தவெக தலைவர் விஜய் பங்கேற்ற பிரச்சாரக் கூட்டத்தில் நெரிசல் ஏற்பட்டு 41 பேர் உயிரிழந்தனர். இதை தொடர்ந்து, அரசியல் கட்சிகளின் ‘ரோடு ஷோ’ நிகழ்வுகள் மற்றும் சாலை பிரச்சாரத்துக்கு அனுமதி வழங்க தடை விதிக்கக் கோரி சென்னை உயர் நீதிமன்றத்தில் வழக்கறிஞர் தினேஷ் என்பவர் மனு தாக்கல் செய்திருந்தார்.
-
-இந்த வழக்கை விசாரித்த நீதிபதி என்.செந்தில்குமார் கடந்த 3-ம் திகதி பிறப்பித்த உத்தரவில் கூறியுள்ளதாவது: கரூரில் பிரச்சாரக் கூட்டத்தின்போது நெரிசலில் சிக்கி 41 பேர் உயிரிழந்தபோது, சம்பவ இடத்தில் இருந்த கட்சித் தலை வரும், பிற நிர்வாகிகளும் தங்களுக்கும், நடந்த சம்பவத்துக்கும் எந்த சம்பந்தமும் இல்லாததுபோல நடந்துகொண்டுள்ளனர்.
-
-...
-
-[Data](articles/ef76efc1.json)
-
----
-
-### வீட்டின் மீது துப்பாக்கிப் பிரயோகம்
-
-*2025-10-05 09:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-துப்பாக்கிப்-பிரயோகம்/175-365731) · `ta`
-
-எல்பிட்டிய, கனேகொட, இஹல ஓமட்டவில் உள்ள ஒரு வீட்டின மீது இனந்தெரியாத துப்பாக்கிதாரிகள் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக எல்பிட்டிய பொலிஸார் தெரிவித்துள்ளனர்.
-
-துப்பாக்கிச் சூட்டில் வீட்டின் முன்பக்க ஜன்னல் சேதமடைந்துள்ளதாகவும், ஆனால் யாருக்கும் காயம் ஏற்படவில்லை என்றும் பொலிஸார் தெரிவிக்கின்றனர்.
-
-பல வணிகங்களை நடத்தும் முன்னாள் இராணுவ வீரரின் வீட்டின் மீதே   இந்த துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
-
-கிராமத்தில் நன்கு அறியப்பட்ட நபராகவும், பாதாள உலகத்தினரிடமிருந்து அச்சுறுத்தல்களைப் பெற்ற முன்னாள் இராணுவ வீரரை அச்சுறுத்துவதற்காக இந்த துப்பாக்கிச் சூடு நடத்தப்பட்டிருக்கலாம் என்று பொலிஸார் சந்தேகிக்கின்றனர்.
-
-வீட்டின் உரிமையாளரான முன்னாள் இராணுவ வீரர், வீட்டில் இருந்தபோது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், மோட்டார் சைக்கிளில் வந்த இரண்டு பேர் துப்பாக்கிச் சூடு நடத்தியிருக்கலாம் என்றும் பொலிஸார் தெரிவிக்கின்றனர்.
-
-இந்த வீட்டில் துப்பாக்கிச் சூடு நடத்தப்பட்டதற்கான சரியான காரணம் இன்னும் வெளியாகவில்லை என்று பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/65e32bb0.json)
-
----
-
-### கிரிப்டோகரன்சி:மத்திய வங்கி அதிரடி அறிவிப்பு
-
-*2025-10-05 09:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/கிரிப்டோகரன்சி-மத்திய-வங்கி-அதிரடி-அறிவிப்பு/47-365730) · `ta`
-
-சர்ச்சைக்குரிய கிரிப்டோகரன்சியை கையாள்வதற்கான அறிவியல் வழி குறித்து கொள்கை முடிவுகளை எடுக்க உயர் மட்டக் குழுவை நியமிக்க இலங்கை மத்திய வங்கி அரசாங்கத்திற்கு முன்மொழிந்துள்ளது.
-
-இந்தத் தேவை குறித்து நிதி அமைச்சகத்திற்கு இலங்கை மத்திய வங்கி ஒரு கடிதத்தையும் அனுப்பியுள்ளது. நிதி அமைச்சக வட்டாரங்களின்படி, இந்த நடைமுறைக்கு அரசாங்கமும் ஒப்புக்கொண்டுள்ளது.
-
-அரசாங்க அமைச்சர்கள் சமர்ப்பித்த சொத்து அறிவிப்புகளில், அவர்கள் கிரிப்டோகரன்சியில் முதலீடு செய்துள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது, இது சமீபத்திய நாட்களில் சமூகத்தில் ஒரு சூடான விவாதத்தை உருவாக்கியுள்ளது.
-
-◼️
-
-[Data](articles/bdff8044.json)
-
----
 
 ### ඇල්පිටියේ නිවසකට වෙඩි ප්‍රහාරයක්
 
@@ -550,20 +432,6 @@ According to the initial reports, the train staff and passengers are at the scen
 [Data](articles/c9bed78e.json)
 
 [Extended Data](ext_articles/c9bed78e.ext.json)
-
----
-
-### சாரதி அனுமதி பத்திரங்கள்: அதிரடி அறிவிப்பு
-
-*2025-10-05 03:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதி-பத்திரங்கள்-அதிரடி-அறிவிப்பு/175-365726) · `ta`
-
-சாரதி அனுமதிபத்திரங்களின் செல்லுபடியாகும் காலத்தை நீடிப்பதற்கு மோட்டார் வாகனப் போக்குவரத்து திணைக்களம் தீர்மானித்துள்ளது.
-
-நீடிக்கப்படவுள்ள கால எல்லை தொடர்பில் ஆராய்வதற்காக விசேட குழுவொன்று நியமிக்கப்பட்டுள்ளதாக போக்குவரத்து ஆணையாளர் நாயகம் கமல் அமரசிங்க தெரிவித்தார். (a)
-
-◼️
-
-[Data](articles/6f13a18d.json)
 
 ---
 
@@ -1950,5 +1818,175 @@ Preliminary inquiries have revealed that the suspect had sold electronic cigaret
 [Data](articles/1c01c6b2.json)
 
 [Extended Data](ext_articles/1c01c6b2.ext.json)
+
+---
+
+### Hamas has made investment for the highest health care;  Jaiyatissa
+
+*2025-10-04 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226891) · `ta`
+
+Health and Mass Media Minister Nalinda Jayatissa says that the third level maintenance hospital will become a living institution of continuous learning, novelty, service and trust.
+
+Hemas, which is dedicated to the country's health progress, laid the groundwork for the construction of a third -level hospital with its sophisticated and fully facilities in Talawatukoda on Friday (03) under the patronage of Health and Mass Media Minister Nalinda Jayadissa.
+
+It is planned to hire nearly 900 health professionals and expand with beds for 150 patients. The aim is to introduce modern emergency care units, surgical units and special centers, and the foundation stone is organized under the theme "A new meaning for the future of health".
+
+Hemas has made investment for the highest health care and has taken steps to expand its services in accordance with international standards and strengthen the National Health Organization.
+
+...
+
+[Data](articles/19e67aa2.json)
+
+[Extended Data](ext_articles/19e67aa2.ext.json)
+
+---
+
+### Harish Kalyan starring 'Diesel' updates
+
+*2025-10-04 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226892) · `ta`
+
+Actor Harish Kalyan, who is the star of the Tamil cinema, has been released as the star of the Tamil cinema with two series hit films 'Parking' and 'Lapper Ball'.
+
+Directed by director and actor Shanmugam Muthusamy, Harish Kalyan, Atulia Ravi, Vinay Roy, Sai Kumar, Ananya, Karunas, Ramesh Tilak, Kali Venkat, Vivek Prasanna, Maran. M.. S.. Prabhu and Richard M. Tibu Ninan Thomas has composed the film, which is being recorded by Nathan.
+
+The film is being produced by the Excussion Entertainment and produced by producer Thevarajulu Markandean on behalf of Third I Entertainment Company.
+
+The film, which will be released on the 17th of this month, will be released in the film House on the 17th of this month.
+
+This song is written by songwriter Mohan Rajan, playback singer G.. Ravi has sung. The melody of the song that makes sense of the division between lovers.. The fans are very impressed.
+
+◼️
+
+[Data](articles/eb5818c5.json)
+
+[Extended Data](ext_articles/eb5818c5.ext.json)
+
+---
+
+### Notice to drivers on the Ambalangoda - Elpitiya main road
+
+*2025-10-04 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215338) · `si`
+
+The police have not informed the restriction of traffic due to the Perahera of the Ampitiya Devalaya in the Ampitiya Devalaya, Karandeniya Mahagoda.
+
+The procession is due to visit streets from 02.00 pm to 07 pm to 07 pm.
+
+The Peraheera begins near the Ampitiya Devalaya and travels to the Maha Enditiya main road.
+
+The police calling the public as the main road to the Southern Expressway to the Southern Expressway, as the main road to the Southern Expressway is to use alternative routes as possible to reduce traffic congestion.
+
+◼️
+
+[Data](articles/90fec08f.json)
+
+[Extended Data](ext_articles/90fec08f.ext.json)
+
+---
+
+### Heavy rainfall expected to continue in several provinces
+
+*2025-10-04 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/113214/heavy-rainfall-expected-to-continue-in-several-provinces) · `en`
+
+The Meteorology Department states that atmospheric conditions are favorable for thunderstorms in the evening.
+
+Therefore, general public is advised to take adequate precautions to minimize damages caused by heavy rain, strong winds and strong lightning during thundershowers.
+
+Showers or thunder showers will occur at several places in most provinces after 1.00 p.m.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, North-central, Uva and Eastern provinces, the Met. Department added.
+
+Showers may occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara, Puttalam, Jaffna and Mannar districts in the morning too.
+
+◼️
+
+[Data](articles/4ab83e77.json)
+
+[Extended Data](ext_articles/4ab83e77.ext.json)
+
+---
+
+### The results of the Electricity Tax Correction will be announced in two weeks - the Public Utilities Commission of Sri Lanka
+
+*2025-10-04 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226889) · `ta`
+
+The Sri Lanka Public Utilities Commission has announced that the proposals of the Ceylon Electricity Board (CEB) will be announced in two weeks to increase the power tariff amendment by 6.8 per cent.
+
+Accordingly, the final decision is expected to be issued on or before the 15th.
+
+It is reported that the public consultation process is currently underway to correct the electricity bills.
+
+After the final session of the Western Provincial Council on the 08th of this month, the final decision will be taken on the amendment of the tariffs.
+
+It is also reported that this fee will be followed by the Electricity Act and the Power Prices.
+
+According to reports, the Ceylon Electricity Board (CEB) has registered a compensation of Rs 769 million from October to 2025 to December.
+
+◼️
+
+[Data](articles/30abf6a5.json)
+
+[Extended Data](ext_articles/30abf6a5.ext.json)
+
+---
+
+### Arrested for stealing jewelery and foreign money in Jaffna
+
+*2025-10-04 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/226888) · `ta`
+
+The main suspect in connection with the crime has been arrested by the Jaffna police as a recent stolen of foreign money and jewelery worth Rs 50 lakhs in a house in Nallurpur.
+
+A house in Nallur, Jaffna, was broken at night and a large amount of foreign money and jewelery were stolen.
+
+A group of people in charge of the Jaffna Police Station Crime Unit, who conducted further investigations, arrested the main suspect and seized large quantities of jewelery and foreign currencies from him.
+
+◼️
+
+[Data](articles/cfb0ad18.json)
+
+[Extended Data](ext_articles/cfb0ad18.ext.json)
+
+---
+
+### IMF to pleased Sri Lanka
+
+*2025-10-04 16:08:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-குறித்து-மகிழ்ச்சி-வெளியிட்ட-IMF/175-365707) · `ta`
+
+After the economic crisis, Sri Lanka's economic growth increased to 5% by 2024, said Julie Kochek, Director of the International Monetary Fund (IMF), said.
+
+At the same time, Kosek added that Sri Lanka's comprehensive economic reform program has made significant improvement.
+
+International reserves are also on the rise. Sri Lanka's economic growth increased to 5% after 2024. This is a significant achievement.
+
+This is a significant increase in the Revenue-Month Domestic Product rate of the budget increased from 8.2% to 13.5% by 2022. Moreover, the debt renovation process is probably complete.
+
+Overall, the performance of the project can be said to be very strong. The government can be said to be committed to the objectives of the comprehensive financial plan.
+
+Our team is currently in consultation with Sri Lankan authorities to hold the fifth value of comprehensive financial facility. Accordingly, our committee will announce the duration of the fifth review in the future. ”. Remble
+
+◼️
+
+[Data](articles/c495423c.json)
+
+[Extended Data](ext_articles/c495423c.ext.json)
+
+---
+
+### A place for sale in school targeting school children
+
+*2025-10-04 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215337) · `si`
+
+A suspect racket was raided and arrested by school children as a group of officers who were in Moneragala in Moneragala town.
+
+Preliminary investigations have revealed that the suspect had sold the cigarettes to various amounts of money.
+
+The police have also taken into custody of e cigarettes and money in possession of the suspect.
+
+The suspect is a resident of Moneragala and is to be produced before the Moneragala Magistrate's Court.
+
+◼️
+
+[Data](articles/42d1d311.json)
+
+[Extended Data](ext_articles/42d1d311.ext.json)
 
 ---

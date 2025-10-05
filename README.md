@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 01:55:47**
+As of **2025-10-06 02:20:30**
 
 ## Newspaper Stats
 
-*Scraped **81,366** Articles*
+*Scraped **81,367** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 609
+newsfirstlk | 610
 dbsjeyarajcom | 637
 bbccomsinhala | 724
 colombotelegraphcom | 809
@@ -27,37 +27,41 @@ adaderanasinhalalk | 13,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,363 (100.0%) of 81,366 articles have been extended.
+81,367 (100.0%) of 81,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
 
-### එංගලන්තයේ පූජනීය ස්ථානවලට විශේෂ ආරක්ෂාවක්
+### Special protection to sacred places in England
 
 *2025-10-05 23:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215384) · `si`
 
-එංගලන්තයේ නැගෙනහිර සසෙක්ස් හි මුස්ලිම් පල්ලියකට එල්ල වූ ප්‍රහාරයෙන් පසු එම ප්‍රාන්තය පුරා පූජනීය ස්ථානවලට විශේෂ ආරක්ෂාවක් ලබා දී ඇත.
+After the attack on a mosque in the eastern Susx, in the eastern Susx, has been given special security to the sacred places.
 
-ඊට අමතරව ප්‍රාන්තය පුරා අතිරේක මුර සංචාර සිදුකිරීමට සඳහා එරට හමුදාව යොදවා තිබේ.
+In addition, the army has been deployed to carry out additional patrols throughout the state.
 
-එංගලන්ත වෙලාවෙන් ඊයේ (4) රාත්‍රී 9.30ට පමණ සසෙක්හි පිහිටි මුස්ලිම් පල්ලියකට කිසියම් පිරිසක් ගිනිතැබීමක් සිදුකළේය.
+At the time of England, a mosque in Sastek was on fire at 9.30 pm yesterday (4).
 
-ඉන් කිසිවෙකුට තුවාල සිදු නොවූවත්, ගොඩනැගිල්ලේ ඉදිරිපස දොරටුවට සහ පිටත නවතා තිබූ වාහනයකට හානි සිදුවිය.
+Although no one was injured, a vehicle that was parked and outside the building was damaged.
 
-එම ගිනිතැබීම වෛරී අපරාධයක් ලෙස සලකා විමර්ශනය කරන බව සසෙක්ස් පොලිසිය පවසයි.
+Sussex Police say that the burning of fire is considered a crime.
 
-මේ වනවිට අදාළ ප්‍රහාරයට පැමිණි බවට සැකකෙරෙන දෙදෙනෙකුගේ ඡායාරූප මාධ්‍ය වෙත  මුදාහැර ඇත.
+Photos of two suspected to attack the attack have been released to the media.
 
-අදාළ ප්‍රහාරය පිළිබඳ විමර්ශන සිදුකරන බලධාරීන් පෙන්වා දෙන්නේ මෙම ගිනිතැබීම, ජීවිත අනතුරේ හෙළීමේ අරමුණින් සිදු කරන ලද්දක් ලෙස සලකන බවය.
+The authorities who are investigating the attack are shown that this burning is considered to be done in danger.
 
-ඒ අනුව වගකිවයුත්තන් හඳුනා ගැනීම සඳහා පරීක්ෂණ රැසක් සිදුකරන බව ඔවුන් පවසයි.
+Accordingly, many investigations are conducted to identify responsible persons.
 
-නම සඳහන් කිරීමට අකමැති වූ පල්ලියේ ස්වේච්ඡා සේවකයෙකු බීබීසී ප්‍රවෘත්ති සේවයට පවසා ඇත්තේ, දෙදෙනෙකු ඉදිරිපස දොරෙන් ඇතුළු වීමට උත්සාහ කළ නමුත්, එය අගුළු දමා තිබූ බවය.
+The Volunteer of the Church, who refused to name the name, has told BBC News, two people tried to enter the front door, but it was locked.
+
+Then they poured a liquid near the entrance and the outside car, said they were set on fire.
 
 ...
 
 [Data](articles/4f0bc037.json)
+
+[Extended Data](ext_articles/4f0bc037.ext.json)
 
 ---
 
@@ -84,6 +88,20 @@ The Secretary of the National Construction Employees Association Secretary Supun
 [Data](articles/9c2f80e3.json)
 
 [Extended Data](ext_articles/9c2f80e3.ext.json)
+
+---
+
+### Power to Transfer Police Officers to Return to IGP Next Week
+
+*2025-10-05 22:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/power-to-transfer-police-officers-to-return-to-igp-next-week) · `en`
+
+COLOMBO (News 1st): The authority for transfers, promotions, and other matters concerning police officers, currently held by the National Police Commission (NPC), is set to be delegated back to the Inspector General of Police (IGP) next week.A gazette notification formalizing this is scheduled to be issued in the coming week.The move follows a decision taken by the National Police Commission, during a meeting held last Wednesday.The National Police Commission currently holds authority over key personnel matters.
+
+◼️
+
+[Data](articles/ae9a039c.json)
+
+[Extended Data](ext_articles/ae9a039c.ext.json)
 
 ---
 
@@ -513,21 +531,27 @@ Further investigations are underway into the incident and is due to the Governme
 
 ---
 
-### අඩු ආදායම්ලාභී  නිවාස 1000ක් ජනතා අයිතියට
+### 1000 low income families vested with the public
 
 *2025-10-05 16:12:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අඩ-ආදයමලභ-නවස-1000ක-ජනත-අයතයට/101-680761) · `si`
 
-ලෝක ජනාවාස දින ජාතික සැමරුම් උත්සවය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන්  අරලියගහ මන්දිරයේදී අද(5) පැවැත්විණි.
+World Resources Day National Commerce was held at Temple Trees today (5) under the patronage of President Anura Kumara Dissanayake.
 
-එක්සත් ජාතීන්ගේ ලෝක ජනාවාස දිනයට සමගාමීව  “තමන්ගේම තැනක් - ලස්සන ජීවිතයක්” යන තේමාව යටතේ එම ජාතික සැමරුම පැවැත්වුණු අතර ඒ හා සමගාමීව ඔක්තෝබර් 01-05 දක්වා ජනාවාස සතියක්ද ප්‍රකාශයට පත්කරමින් විවිධ වැඩසටහන් ක්‍රියාත්මක කර තිබිණි.
+The National Celebration was held under the theme "A Beautiful Life" in parallel to the United Nations World Hostering Day.
 
-නිවසක් ඉදිකර ගැනීමට මූල්‍ය හැකියාවක් නොමැති දිළිඳු පවුල් 4000කට ආසන්න සංඛ්‍යාවක් සඳහා නිවාස ඉදිකර දීම වෙනුවෙන්, නිවාස සංවර්ධන අධිකාරිය විසින් ක්‍රියාත්මක කරනු ලැබ ඇති වැඩසටහන යටතේ දිවයින පුරා වැඩ නිම කළ නිවාස දහසක් ජනතා අයිතියට පවරා දීමද මෙහිදී විද්‍යුත් තාක්ෂණය ඔස්සේ ජනාධිපතිවරයා අතින් සිදු විය.
+The President also handed over a half of the working houses throughout the country to build houses for nearly 4,000 poor families who have not been able to build a house to build a house.
 
-UN Habitat ශ්‍රී ලංකා කාර්යාලයේ මැදිහත්වීමෙන් ඉන්දියානු රජයේ සහ Coalition for Disaster Resilient Infrastructure (CDRI) ආධාර මත ක්‍රියාත්මක කිරීමට යෝජිත අඹතලේ ජල සැපයුම් ව්‍යාපෘතියේ සංකේතීය ප්‍රදානය ජනාධිපතිවරයා වෙත නිල වශයෙන් භාර දීමද මෙහිදී සිදු කෙරිණි.
+The official handing over the Symptorian Award to the President is to implement the CDR Water Supply Project to implement the Indian government and Coalition For Disaster Resproductrust (CDRI) by the intervention of the UN Habitat.
+
+Giving housing deeds on various reasons
+
+The President also presented awards to winners of the winners and the winners of the winners and the Urban Development Authority, which was widely implemented by the World Holding Day.
 
 ...
 
 [Data](articles/27c95ea9.json)
+
+[Extended Data](ext_articles/27c95ea9.ext.json)
 
 ---
 
@@ -823,21 +847,23 @@ The arrested person was admitted to the Kataragama hospital and later sent to th
 
 ---
 
-### මී කඩන්න ගිය අයකු වෙඩි වැදී වැටිලා
+### One who had gone broke was shot dead
 
 *2025-10-05 14:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/101-680760) · `si`
 
-යාල ජාතික වනෝද්‍යානයට මී කැඩීම සඳහා ඇතුළු වූ පුද්ගලයකු වෙඩි වැදී තුවාල සහිතව පැමිණ කතරගම කොච්චිපතාන ඝණ දේවාලය සීමාවෙි වැටී සිටියදී කතරගම පොලීසියට ලැබුණු දුරකථන ඇමතුමක් මත එම පුද්ගලයා හම්බන්තොට මහ රෝහලට යැවූ බව කතරගම පොලීසිය කියයි.
+Kataragama Police say that the Kataragama Kochchiya thick temple has fallen from the Yala National Park, Kataragama Kubarapura Police have sent the man to the Hambantota General Hospital while the Kataragama Police.
 
-මෙලෙස තුවාල ලබා ඇත්තේ කතරගම කඳසුරිඳුගම ප්‍රදේශයේ පදිංචි 56 හැවිරිදි අයෙකි.
+The injured were a 56 year old resident of Kandasurdagama, Kataragama.
 
-මෙම පුද්ගලයා මී කැඩීම සඳහා  යාල උද්‍යානයට ඇතුළුවූ බවත්, මස් බෑගයක් සමඟ පැමිණි දෙදෙනකු ගෙන් අයකු බෙහෙත් කොටන ගිනි අවියකින් වෙඩි තැබූ බවත්, එම ස්ථානයේ ඇදවැටී පැයකීපයකට පසුව සෙමින් සෙමින් මෙලෙස පැමිණි බවත් ඔහු පොලීසියට පවසා ඇත.
+He had told the police that the man had entered the Yala Park and shot a meat bag and shooting after a meat bag.
 
-පොලීසිය මගින් අත්අඩංගුවට ගත් මෙම පුද්ගලයා කතරගම රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රථිකාර සඳහා හම්බන්තොට මහ රෝහලට යවා ඇත.
+The arrested person was admitted to the Kataragama hospital and later sent to the Hambantota General Hospital.
 
 ◼️
 
 [Data](articles/ab8cc62e.json)
+
+[Extended Data](ext_articles/ab8cc62e.ext.json)
 
 ---
 
@@ -2012,27 +2038,5 @@ This information is included in the audit report of the performance report issue
 [Data](articles/a425a9e9.json)
 
 [Extended Data](ext_articles/a425a9e9.ext.json)
-
----
-
-### Three killed in Naramala accident
-
-*2025-10-05 10:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-விபத்தில்-மூவர்-பலி/175-365746) · `ta`
-
-Three people were killed in a tragic road accident in the early hours of Sunday (05) near Naramala Nagar on the Naramala-Gurunagala road.
-
-Police said the accident occurred when the lorry from Kurunegala to Narammala lost control and crashed into a bus traveling from Katunayake to Akkaraipattu and returned to the right side of the road.
-
-The driver of the lorry, a man in the vehicle, two women and two children were seriously injured and admitted to Naramala and Kurunegala hospitals. The driver, a man and a woman later died.
-
-A 40 -year -old woman in the lorry and two girls aged 16 and 9 are still being treated at Kurunegala Hospital.
-
-Meanwhile, the driver of the Sri Lanka Transport Board's bus has been arrested in connection with the incident and further investigations are being carried out by the Narammala police.
-
-◼️
-
-[Data](articles/4fbfa67e.json)
-
-[Extended Data](ext_articles/4fbfa67e.ext.json)
 
 ---

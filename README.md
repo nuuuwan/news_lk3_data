@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 14:37:50**
+As of **2025-10-05 14:54:41**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,290 (100.0%) of 81,295 articles have been extended.
+81,295 (100.0%) of 81,295 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -161,6 +161,8 @@ COLOMBO (News 1st);Deputy Minister of Housing T.B. Sarath says that the governme
 
 [Data](articles/71d4b461.json)
 
+[Extended Data](ext_articles/71d4b461.ext.json)
+
 ---
 
 ### Politicians associated with the underworld are disturbed; Minister Ananda Wijebala
@@ -192,6 +194,8 @@ COLOMBO (News 1st);An illegally imported jeep, registered with the Department of
 ◼️
 
 [Data](articles/a993e5b2.json)
+
+[Extended Data](ext_articles/a993e5b2.ext.json)
 
 ---
 
@@ -315,6 +319,8 @@ COLOMBO (News 1st):The Ceylon Electricity Board (CEB) reports that approximately
 
 [Data](articles/6d17daf0.json)
 
+[Extended Data](ext_articles/6d17daf0.ext.json)
+
 ---
 
 ### Increase in cattle cattle in banana; Legal action against owners - Pradeshiya Sabha Chairman
@@ -394,6 +400,8 @@ COLOMBO (News 1st)Three people have died in a road accident on the Narammala-Kur
 ◼️
 
 [Data](articles/f15fd4e6.json)
+
+[Extended Data](ext_articles/f15fd4e6.ext.json)
 
 ---
 

@@ -1,37 +1,245 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 13:39:12**
+As of **2025-10-05 14:08:09**
 
 ## Newspaper Stats
 
-*Scraped **81,256** Articles*
+*Scraped **81,279** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 599
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 795
+lankadeepalk | 807
 colombotelegraphcom | 809
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
-adalk | 7,784
+adalk | 7,788
 adaderanalk | 10,441
-tamilmirrorlk | 12,072
-virakesarilk | 13,355
+tamilmirrorlk | 12,075
+virakesarilk | 13,359
 adaderanasinhalalk | 13,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,256 (100.0%) of 81,256 articles have been extended.
+81,279 (100.0%) of 81,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### A couple arrested in Kandy
+
+*2025-10-05 13:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-கை-வைத்த-ஜோடி-கைது/76-365758) · `ta`
+
+Police say they have arrested a young married couple who allegedly stole the actual jewelery for allegedly buying jewelry in a jewelery shop in Kandy.
+
+Following a telephone call from a jewelery shop in Kandy, the Kandy Police Headquarters Crime Branch immediately accepted the invitation and arrested the suspected couple while hiding the stolen jewelery.
+
+The couple from the Talathuoya Etalgama area are aged 20-22, police said.. According to information received from them, a share of stolen jewelery stolen jewelery at major banks in Kandy has been recovered, and police investigations are underway to find out if any other jewelery shops have gone.
+
+◼️
+
+[Data](articles/f5269901.json)
+
+[Extended Data](ext_articles/f5269901.ext.json)
+
+---
+
+### Surya's Mandadi telephone accident: Rs 1 crore damage
+
+*2025-10-05 13:27:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சூரியின்-மண்டாடி-படப்பிடிப்பில்-விபத்து-ரூ-1-கோடி-சேதம்/54-365757) · `ta`
+
+Suri starring in the shooting of Mandadi. The accident seems to have been damaged by shooting equipment worth Rs 1 crore.
+
+Suri starring Mathimaran. The shooting is taking place in the surrounding area of ​​Ramanathapuram. The film crew filmed the main scenes in the sea area. Unexpectedly, the camera fell into the boat and crashed. Two people in the boat were drowned in the sea. The people around them were safely rescued. There was no casualties in the accident.
+
+But, the cameras fell in the seawater caused severe damage. It is estimated to be worth up to Rs 1 crore.
+
+This is because the film crew has been filming the high -end camera called Red Digital. Although the film crew is shocked by the accident. The police are investigating the matter.
+
+Suhas, Mahima Nambiar, Achut Kumar, Ravinda Vijay, Sathyaraj and many others are starring in the film.. The film is being produced by Elret Kumar. Its cinematographer SR Kathir and GV Prakash as the composer.
+
+◼️
+
+[Data](articles/da803077.json)
+
+[Extended Data](ext_articles/da803077.ext.json)
+
+---
+
+### Harsha question on the change of interest rate configuration
+
+*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-விகித-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
+
+Dr. Harsha de Silva, Chairman of the Public Finance Committee (COPF), has expressed concern over the proposal to change the interest rate structure of the central highway project. He warned that this could increase the country's borrowing costs.
+
+He posted in X in x, said the LKR 226 billion project, which was already burdened with delayed and growing interest payments, has been reviewed due to continuous financial and contract uncertainty.
+
+Although the project was renovated under President Anura Kumara Dissanayake, he said that the negotiations with the main contractor MCC, their claims, and the Chinese EXIM bank on the revised US $ 500 million loan facility were incomplete.
+
+D Silva said the group was confused by the proposal of the Highway Ministry to convert the current 15 -year standard interest from 2.5% to 2.5%, of which 2.5% of the base interest and a 3.5% ceiling of 3.5%.
+
+...
+
+[Data](articles/b1a1d392.json)
+
+[Extended Data](ext_articles/b1a1d392.ext.json)
+
+---
+
+### Politicians associated with the underworld are disturbed; Minister Ananda Wijebala
+
+*2025-10-05 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226941) · `ta`
+
+A formal inquiry is being carried out by members of the underworld groups, including Gehpathere Padme.. Politicians don't need to fear. Minister of Public Security and Parliamentary Affairs Ananda Wijebala said that the wrongdoers and those who were in contact with the underworld groups are well known.
+
+He was speaking to the media after the event held in Colombo on Saturday (04).
+
+According to the law, the police and the Commission on Bribery or Corruption are formally investigating and arresting corrupt people and highlighting the court.. The testimony is submitted.
+
+Opposition parties refer to political revenge when they arrest corrupt and state funds. The government does not need to carry out political revenge.
+
+...
+
+[Data](articles/ef186435.json)
+
+[Extended Data](ext_articles/ef186435.ext.json)
+
+---
+
+### Three killed in accident
+
+*2025-10-05 12:53:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රය-අනතරන-තදනක-මරට/101-680758) · `si`
+
+The driver and two other persons who were traveling from Colombo to Akkarapattuwa have died in a crash, police said.
+
+The injured have been admitted to the Narammala and Kurunegala Teaching Hospital, Naramwala Police said. The deceased has been identified as 41 year old, 80 and 82 years old, the police said.
+
+The deceased has been identified as his mother-in-law and father-in-law and two children and two children are receiving treatment at the Kurunegala Teaching Hospital.
+
+◼️
+
+[Data](articles/62ed9f94.json)
+
+[Extended Data](ext_articles/62ed9f94.ext.json)
+
+---
+
+### Landslides in Darjeeling in India; 14 people die
+
+*2025-10-05 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226937) · `ta`
+
+In India, West Bengal has rained in Darjeeling last night. This has resulted in landslides in Mirik and Sukia Bogari.
+
+And the bridge collapsed at Mirig. It has been reported that 14 people have been killed in the collapse of the landslide and the bridge.
+
+Meanwhile, traffic has been cut off on the main streets of Darjeeling to Sikkim due to landslide. As a result, a large number of tourists who went to Darjeeling to celebrate Navratri holidays are now in a state of disrepair.
+
+◼️
+
+[Data](articles/2fd93732.json)
+
+[Extended Data](ext_articles/2fd93732.ext.json)
+
+---
+
+### Ranga's chair to the House in the coming week
+
+*2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රගග-පටව-එන-සතය-මතසබයට/101-680757) · `si`
+
+The reconciliation ceremony is due to be questioned in parliament next week regarding the appointment of bribery or corruption.
+
+Industry, Minister of Industry Sunil Handunnetti has stated that he has approved him to appoint Opposition Leader Sajith Premadasa and Kalutara District MP Ajith P Perera.. Sources say that the reconciliation force is expected to be taken into consideration the statement.
+
+Former leader Nandana Gunatilake recently stated that Mr. Ranga Dissanayake has worked in the legal department of the JVP.. There is also a controversy of the society regarding this statement.
+
+◼️
+
+[Data](articles/3b1100a2.json)
+
+[Extended Data](ext_articles/3b1100a2.ext.json)
+
+---
+
+### Joint opposition to Colombo
+
+*2025-10-05 12:34:25* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඒකබදධ-වපකෂයන-ලක-ජන-රලයක-කළඹට/101-680756) · `si`
+
+The leaders of the parties have decided to hold a leading meeting in Colombo soon.
+
+This decision was taken at a leading meeting at a hotel in Colombo on Thursday.
+
+The meeting was organized to treat the UNP convention successful and treat leading activists.
+
+◼️
+
+[Data](articles/77b1b5e4.json)
+
+[Extended Data](ext_articles/77b1b5e4.ext.json)
+
+---
+
+### The magical truth commission
+
+*2025-10-05 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226919) · `ta`
+
+ஜெனி­வாவில் கடந்த 26 ஆம் திகதி, வலிந்து காணாமல் ஆக்­கப்­பட்­ட­வர்கள் தொடர்­பான ஐ.நா. The 29th session of the committee was reviewed by Sri Lanka.
+
+◼️
+
+[Data](articles/1a0ab38f.json)
+
+[Extended Data](ext_articles/1a0ab38f.ext.json)
+
+---
+
+### Increase in cattle cattle in banana; Legal action against owners - Pradeshiya Sabha Chairman
+
+*2025-10-05 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226931) · `ta`
+
+Pradeshiya Sabha Chairperson S. Sudhakaran said that the cattle harassment of the cattle in the areas of Koralaipattu Valaichenai Pradeshiya Sabha division is increasing.
+
+Thus, cattle, such as goats, cattle, and livestock, on the streets, continue to cause road accidents.
+
+In addition, cattle cattle are causing great discomfort to foreign, domestic tourists and pedestrians.
+
+Therefore, goats and cattle breeders have requested that their livestock be raised in their homes or sent to pastures.
+
+In spite of this instructions, a strict legal action will be taken against the owners who will leave the livestock on the streets.
+
+◼️
+
+[Data](articles/a0a39256.json)
+
+[Extended Data](ext_articles/a0a39256.ext.json)
+
+---
+
+### ලොරි බස් ගැටී තිදෙනෙක් මරුට
+
+*2025-10-05 12:21:26* · [`adalk`](https://www.ada.lk/picture_story/ලොරි-බස්-ගැටී-තිදෙනෙක්-මරුට/10-418919) · `si`
+
+Naramwala Police have been admitted to the SLTB bus and two other persons who were traveling to Narammala, which was traveling to Narammala at around 200 am today. Says.
+
+Two bodies were placed at the Narammala Hospital and a person who was admitted to Kurunegala Hospital died.
+
+The deceased has been identified as 41 year old, 80 and 82 years old, the police said.
+
+The deceased has been identified as the driver and his mother-in-law and two injured woman and two children were injured in the Kurunegala Teaching.
+
+◼️
+
+[Data](articles/12e2c2fa.json)
+
+[Extended Data](ext_articles/12e2c2fa.ext.json)
+
+---
 
 ### The "confidence" station that transforms the lives of children with special needs
 
@@ -64,6 +272,46 @@ When dealing with certain struggles, it has made false decisions and handling it
 [Data](articles/6edd7e70.json)
 
 [Extended Data](ext_articles/6edd7e70.ext.json)
+
+---
+
+### Manamperi is not my secretary
+
+*2025-10-05 11:43:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනමපර-මග-ලකම-කනක-නමය/101-680755) · `si`
+
+Former Minister Johnston Fernando said that Sampath Manamperi was not a coordinating secretary.
+
+The maximum legal action taken against such lies is being prepared to take the maximum legal action against the mudslinging.
+
+He made this statement addressing the supporters at the Kurunegala District Secretaries to the Kurunegala District Secretariat organizations under the patronage of Namal Rajapaksa.
+
+"Now I say my coordinating secretary says that the person named Manampa. Remember. I was only the only ones who were involved in the coordinating lakmm
+
+"Stay out of somewhere. We still have strong faith in the law. Therefore, Mr. Johnston Fernando said that we are all the best possible opportunity to take on the laws.
+
+◼️
+
+[Data](articles/fdefc143.json)
+
+[Extended Data](ext_articles/fdefc143.ext.json)
+
+---
+
+### Looking for a investor for the Destructure
+
+*2025-10-05 11:34:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වසමපයටත-ආයජකයක-සයය/101-680754) · `si`
+
+The government is looking for a suitable investor to direct the leading government building in Colombo for a tourism development project.
+
+Minister of Urban Development and Construction Minister Dr. Anura Karunatilake said that the building was already closed down.
+
+Many politicians have been used as their quarters recently. Former Prime Minister Sirimavo Bandaranaike, DM. Jayaratne, Anuruddha Ratwatte, Lakshman Kadirgamar, Mangala Samaraweera and Professor G, L. Peiris is also the men.
+
+◼️
+
+[Data](articles/d09cd5d8.json)
+
+[Extended Data](ext_articles/d09cd5d8.ext.json)
 
 ---
 
@@ -110,6 +358,30 @@ The Health and Mass Media minister said that he would not follow the "promising 
 [Data](articles/e32114d3.json)
 
 [Extended Data](ext_articles/e32114d3.ext.json)
+
+---
+
+### News "flower bloom"
+
+*2025-10-05 11:31:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇලපටය-රහලට-මල-පපන-ආරචයක/1-680753) · `si`
+
+Dr. Nalinda Jayatissa said that the priority of the Sri Lankan unwanted hospital development committees is being implemented.
+
+The Minister was speaking at a ceremony of two fifty thousand rupees worth of modern machines and the construction of a building for the hospital police.
+
+The Minister of Active and Strong Hospital Development Committee is essential to regularize the first tasks of the Ministry of Health.
+
+He said that the scattered hospital development committee of the National Hospital to suit the two hospitals from the National Hospital to the Primary Health Care Unit.
+
+The Minister said that the active hospital development committees have been established in a significant number of hospitals, as a result of the resultation and composition of the Hospital Development Committee.
+
+The Health and Mass Media minister said that he would not follow the "promising politics" in the entire country, including the Southern Province.
+
+◼️
+
+[Data](articles/1c0ece1b.json)
+
+[Extended Data](ext_articles/1c0ece1b.ext.json)
 
 ---
 
@@ -251,6 +523,26 @@ To be produced before the Negombo Magistrate's Court on 10/08 to the Negombo Mag
 
 ---
 
+### 40 lakhs cigarettes locked
+
+*2025-10-05 11:15:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකෂ-40ක-දමවට-ගවනතට-හරවය/1-680752) · `si`
+
+A Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport, has been arrested by the Airport Trace of the Airport Trace of the Katunayake airport today (05).
+
+He is a 44 year old fisherman from Kalpitiya, Puttalam.
+
+He was 5.25 this morning at Dubai to SriLankan Airlines UL. The airplane had arrived at the Katunayake Airport on the 226. In two baggage he brought, 150 smoking cartoons containing 30,000 cigarettes.
+
+To be produced before the Negombo Magistrate's Court on 10/08 to the Negombo Magistrate's Court today
+
+◼️
+
+[Data](articles/47eb3847.json)
+
+[Extended Data](ext_articles/47eb3847.ext.json)
+
+---
+
 ### Nipple. Children's Park
 
 *2025-10-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226926) · `ta`
@@ -301,6 +593,26 @@ Investigations into him, it was revealed that the banned sea cards were purchase
 
 ### Minister Wimal calls from Tangalle
 
+*2025-10-05 11:01:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වමලට-තගලල-පලසයන-කඳවමක/1-680751) · `si`
+
+Former Minister Wimal Weerawansa has been asked to appear at Tangalle Headquarters tomorrow (6).
+
+Sources say that he has called for a statement made by the media regarding the media regarding the man in Beliatta.
+
+Weerawansa is due to appear at Tangalle Police at 10.00 am tomorrow.
+
+The police are detained by the police on detention orders, who was arrested in connection with the vessel in Tangalle Sugar incidents.
+
+◼️
+
+[Data](articles/5ecc447a.json)
+
+[Extended Data](ext_articles/5ecc447a.ext.json)
+
+---
+
+### Minister Wimal calls from Tangalle
+
 *2025-10-05 11:01:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වමලට-තගලල-පලසයන-කඳවමක/101-680751) · `si`
 
 Former Minister Wimal Weerawansa has been asked to appear at Tangalle Headquarters tomorrow (6).
@@ -316,6 +628,26 @@ The police are detained by the police on detention orders, who was arrested in c
 [Data](articles/c4e99f98.json)
 
 [Extended Data](ext_articles/c4e99f98.ext.json)
+
+---
+
+### 335 crores of Customs have taken no money in order to not be finanted
+
+*2025-10-05 10:57:00* · [`adalk`](https://www.ada.lk/breaking_news/ඇගිල්ල-නොගහා-රේගුවේ-නිලධාරින්-කෝටි-335-ක-මුදලක්-අරගෙන/11-418918) · `si`
+
+The latest audit report issued by the National Audit Office, which has been paid Rs.
+
+All public servants should use the fingerprint machines to address their arrivals and leave. The Charges of Overtime and the Information Technology Communication Fund (ICTA) had paid Rs.
+
+The employees have been obtained for 24 hours a day, and the audit has revealed that these payments are being carried out without proper proof of the arrival and exit.. The Customs had recommended the authorities in order to formulate the financial marketing machines, or if the fingerprints were used to participate in any raid, or to participate in any such duties.
+
+This information is included in the audit report of the performance report issued by the Customs connection to 2024.
+
+◼️
+
+[Data](articles/a425a9e9.json)
+
+[Extended Data](ext_articles/a425a9e9.ext.json)
 
 ---
 
@@ -369,6 +701,26 @@ The driver of the bus has been arrested in connection with the accident and the 
 
 ### '' Developing ties is strengthened ''
 
+*2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/1-680750) · `si`
+
+Former President Mahinda Rajapaksa said that the attempts to break up could be strengthened.
+
+Mr. Mahinda Rajapaksa said this to his official Facebook page.
+
+I am familiar with the people who have spent a lot of life in life. People's love is free of profit goals based on the facts of trust and mutual respect.
+
+Therefore, its value is more than ever. It is important to say that this is difficult to break as a heartfelt bond not just a political relationship.. Trys to break up can be strengthened. I have experienced the maximum happiness that is possible as a folk leader. I will give glory to honor.
+
+◼️
+
+[Data](articles/0a191eb3.json)
+
+[Extended Data](ext_articles/0a191eb3.ext.json)
+
+---
+
+### '' Developing ties is strengthened ''
+
 *2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/101-680750) · `si`
 
 Former President Mahinda Rajapaksa said that the attempts to break up could be strengthened.
@@ -411,6 +763,24 @@ The suspect and the seized cigarettes will be produced at the Negombo Magistrate
 
 ### Couple left in stock of gold
 
+*2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රන-බඩ-සරකම-ගය-යවළ-මටට/1-680749) · `si`
+
+Police say that the jewelery bought to enter the jewelery and jewelery, he was arrested and he was arrested and he was arrested and he was arrested.
+
+According to the Kandy Headquarters a jewelery vendor to the Criminal Division of Kandy, according to a telephone call in Kandy.
+
+Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. According to information from them, police investigations have been conducting a stock of stolen jewelery and other jewelery marketing centers that were caught.
+
+◼️
+
+[Data](articles/47238568.json)
+
+[Extended Data](ext_articles/47238568.ext.json)
+
+---
+
+### Couple left in stock of gold
+
 *2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රන-බඩ-සරකම-ගය-යවළ-මටට/101-680749) · `si`
 
 Police say that the jewelery bought to enter the jewelery and jewelery, he was arrested and he was arrested and he was arrested and he was arrested.
@@ -447,6 +817,24 @@ Similarly, the team for the T20 bottles will be selected as Sur Yaku Mar Yadav a
 
 ---
 
+### Government potatoes Rs. 210
+
+*2025-10-05 10:35:57* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-අර්තාපල්--කිලෝවට-රජයෙන්-රු--210-ක්/11-418917) · `si`
+
+Plantation Industries Samantha Vidyaratne said the government will purchase two million kilos to prevent the hurricane of the Kandyan potato farmers.
+
+Minister Samantha Vidyaratne said the peasant dealer had taken away with the experiencing Minister Wasantha Samarasinghe.
+
+The Government has decided to buy 210 rupees per kilogram of Rs.
+
+◼️
+
+[Data](articles/e60f54db.json)
+
+[Extended Data](ext_articles/e60f54db.ext.json)
+
+---
+
 ### Fuel station in Neduntivu
 
 *2025-10-05 10:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தீவில்-எரிபொருள்-நிலையம்/175-365743) · `ta`
@@ -460,6 +848,26 @@ Addressing a function in Jaffna, the Minister said the project would be implemen
 [Data](articles/3d997d91.json)
 
 [Extended Data](ext_articles/3d997d91.ext.json)
+
+---
+
+### 731 new assistants to the mail
+
+*2025-10-05 10:26:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපලට-අලතන-සහයකයන-731ක/1-680748) · `si`
+
+The Ministry of Health and Mass Meditime states that 731 persons were selected for the post of postal assistant in Grade III of the Department of Mass Department of the Sri Lanka Postal Department.
+
+After the year 2021, the Sri Lanka Postal Assembly has not been recruited to the Sri Lanka Postal Department and by the end of the previous year.. The Ministry of Health and Mass Media, Dr. Nalinda Jayatissa, the Minister of Health and Mass Media Dr. Nalinda Jayatissa has been given the approval of the Ministry of Health and Mass Media Dr. Nalinda Jayatissa to carry out the activities of the department with such a number of vacancies.
+
+Accordingly, out of which 731 persons were selected to recruit the proper qualifications as registered as substitute employees of the Department of Posts.. Another 269 post-directives are being recruited in the future.
+
+Awarding permanent appointment letters to the selected group will be held tomorrow (6th) at Temple Trees, Dr. Nalinda Jayatissa at Temple Trees.
+
+◼️
+
+[Data](articles/316dbcbb.json)
+
+[Extended Data](ext_articles/316dbcbb.ext.json)
 
 ---
 
@@ -530,6 +938,24 @@ According to Mrs. Diywnka Jayasuriya, the acting Director General of the Commiss
 [Data](articles/6c4f096a.json)
 
 [Extended Data](ext_articles/6c4f096a.ext.json)
+
+---
+
+### The Land Commission removes the boss
+
+*2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඉඩම-කමසම-ලකක-ඉවත-කරය/1-680747) · `si`
+
+Mr. Padmasiri Liyanage has been removed from the post of Director General of Land Reforms Commission.
+
+According to sources, the government has taken this step after the government has taken over information on the Commonwealth Parliamentary Select Committee on several irregularities of the Land Reform Commission.
+
+According to Mrs. Diywnka Jayasuriya, the acting Director General of the Commission was appointed as the Acting Director General.
+
+◼️
+
+[Data](articles/af5f730e.json)
+
+[Extended Data](ext_articles/af5f730e.ext.json)
 
 ---
 
@@ -752,6 +1178,28 @@ Police say the exact cause of the shooting in the house has not yet been release
 [Data](articles/65e32bb0.json)
 
 [Extended Data](ext_articles/65e32bb0.ext.json)
+
+---
+
+### This evening rain this evening
+
+*2025-10-05 09:04:08* · [`adalk`](https://www.ada.lk/breaking_news/අද-හවස-වැස්ස/11-418916) · `si`
+
+The Department of Meteorology says that there is a positive atmospheric situation for thundershowers during the evening.
+
+Therefore, the Department informs the public to take necessary steps to reduce the dangers of heavy rain, strong winds and strong lightning.
+
+Showers or thundershowers will occur at several places in the country in many parts of the country.
+
+The Department also said that there will be showers in the Western, Sabaragamuwa and North Western provinces and in the Matara, Matara, Jaffna and Mannar districts.
+
+The Department of the Vavuniya and Mullaitivu Districts, the Vavuniya and Mullaitivu Districts, the Western, Sabaragamuwa, Central, North-central and Uva provinces can occur.
+
+◼️
+
+[Data](articles/f8532373.json)
+
+[Extended Data](ext_articles/f8532373.ext.json)
 
 ---
 
@@ -1548,463 +1996,5 @@ Ranil’s strength, according to the Constitution, came from his supremacy in Pa
 [Data](articles/e46bd8c3.json)
 
 [Extended Data](ext_articles/e46bd8c3.ext.json)
-
----
-
-### More fruit for their labour
-
-*2025-10-04 21:07:00* · [`islandlk`](http://island.lk/more-fruit-for-their-labour/) · `en`
-
-“They look close to dead,” says Sri Lankan farmer Shantha Dissanayake looking at his pruned mango trees.
-
-“They looked close to dead,” says Sri Lankan farmer, Shantha Dissanayake, about his mango trees.
-
-“However, this experiment has turned out to be a complete success.”
-
-Shantha has spent a lot of time worrying about elephants stomping over his mango orchards. But he became even more scared when agricultural experts came from abroad and hacked his trees down to relative shadows of their former selves. The trees are much shorter than before, with fewer but wider branches that allow sunlight to boost fruit quality and naturally prevent plant diseases.
-
-Zengxian Zhao, the man who cut the trees in the first place, laughed at Shantha’s memory of the event. “He was initially shocked, but he’s been convinced and is spreading the word,” said Zengxian, an expert on crop cultivation.
-
-...
-
-[Data](articles/4638013d.json)
-
-[Extended Data](ext_articles/4638013d.ext.json)
-
----
-
-### Why APEC Cannot Save Asia?
-
-*2025-10-04 21:05:00* · [`islandlk`](http://island.lk/why-apec-cannot-save-asia/) · `en`
-
-There is no rosy picture on the horizon for Asia, nor for much of the planet. West Asia will continue to burn, its embers fanned by the possibility of fresh escalations with Iran, even as the Gaza war drags towards a brutal close by the first quarter of next year. Ukraine remains the grand theatre for warmongers, with NATO edging towards deeper intervention against Russia, threatening to drag the world into a legal and moral limbo from which there may be no escape. Latin America fractures under its own contradictions: Argentina sinks into crisis under Javier Milei’s economic experiments, while Colombia’s Gustavo Petro, Brazil’s Lula da Silva, and others tilt eastwards in defiance of Washington’s grip.
-
-...
-
-[Data](articles/8fda0634.json)
-
-[Extended Data](ext_articles/8fda0634.ext.json)
-
----
-
-### CID confirms ‘Kajja’ followed Wasim Thajudeen’s car before murder
-
-*2025-10-04 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113219/cid-confirms-kajja-followed-wasim-thajudeens-car-before-murder-) · `en`
-
-The Criminal Investigation Department (CID) has confirmed that Aruna Vidanagamage, also known as “Kajja”, was travelling in the jeep that followed rugby player Wasim Thajudeen’s car moments before his death.
-
-The CID has been conducting investigations into the murder of Thajudeen for the past 13 years.
-
-However, investigators have not yet been able to conclusively identify the individual directly responsible for committing the murder.
-
-In recent developments, Kajja’s wife had provided a statement to the investigators, confirming that Aruna Vidanagamage, who was recently killed in a shooting in Middeniya, was the person travelling in the jeep that followed Thajudeen’s car prior to his death.
-
-This identification was made after she was shown the relevant CCTV footage during questioning.
-
-Following this, CID investigations have verified that the individual seen in the footage is indeed Kajja, according to the department.
-
-...
-
-[Data](articles/a62c649a.json)
-
-[Extended Data](ext_articles/a62c649a.ext.json)
-
----
-
-### Reclaiming The Nation We Deserve, From The Shackles Of A Hollow Democracy: A Response
-
-*2025-10-04 20:55:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reclaiming-the-nation-we-deserve-from-the-shackles-of-a-hollow-democracy-a-response/) · `en`
-
-I refer to the above headed article by Mr. Anura K.T. De Silva (AKTDS) in the Colombo Telegraph of 17th September 2025, and wish to add more with my views as follows:
-
-1. The transition from British Colonial rule to Sri Lanka’s Independence came in stages. The Donoughmore Constitution of 1931 paved the way for the grant of Universal Adult Francise and for elections to the State Council. This gave rise to Political Parties amongst which Ceylon National Congress, the precursor of the United National Party, was in the vanguard for the struggle for Independence from colonial rule. There were other left wing Political Parties as Sama Samaja Party, and the Communist Party, Tamil Congress.
-
-...
-
-[Data](articles/36a31cbb.json)
-
-[Extended Data](ext_articles/36a31cbb.ext.json)
-
----
-
-### Fourth year kills four-year-old child
-
-*2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/101-680740) · `si`
-
-A four-year-old pre-school child died on the night school
-
-The deceased is the child's league with his grandfather and grandmother with his grandfather, while he was leaving a carnival in the Neguma area.
-
-The police said that due to the death of the child to vomit at home and severely ill in the house.
-
-The deceased has been identified as a four year old pre-school student, Haputhante, who was residing in Lenegala Saurada Mawatha.
-
-The death touguration of Homagama Sudden Death Inspector has ordered the bodies to send a bodic shares to the Tasquet after he was conducted by peacekeraq.
-
-Meegoda Police Constable Randikal Lakmalal was investigated.
-
-◼️
-
-[Data](articles/1116ebbb.json)
-
-[Extended Data](ext_articles/1116ebbb.ext.json)
-
----
-
-### විෂ සතෙකු සපා කෑමෙන් සිව් හැවිරිදි දරුවා මරුට
-
-*2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/1-680740) · `si`
-
-A four-year-old pre-school child died on the night school
-
-The deceased is the child's league with his grandfather and grandmother with his grandfather, while he was leaving a carnival in the Neguma area.
-
-The police said that due to the death of the child to vomit at home and severely ill in the house.
-
-The deceased has been identified as a four year old pre-school student, Haputhante, who was residing in Lenegala Saurada Mawatha.
-
-The death touguration of Homagama Sudden Death Inspector has ordered the bodies to send a bodic shares to the Tasquet after he was conducted by peacekeraq.
-
-Meegoda Police Constable Randikal Lakmalal was investigated.
-
-◼️
-
-[Data](articles/9d33e02c.json)
-
-[Extended Data](ext_articles/9d33e02c.ext.json)
-
----
-
-### Ice rain to side in Badulla
-
-*2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බදලල-පතතකට-අයස-වස/101-680739) · `si`
-
-Wednesday, the Dasadalawala Disaster Management Center (DMC) says that about thirty houses have been damaged in the Divulaphalawela Region.
-
-The OIC of the Divulapalessa Police Inspector MDDA said that the trees blocked by road collas.
-
-The ice rained across the area for nearly a few months, the ice rained across the area nearly two hours this afternoon.
-
-He said that a number of houses were roofed roofed roofing, the roofs of the roofs of the houses, and the trees were damaged.
-
-Police have also interrupted the traffic on the Divulapurass Tharasa Teldeniya road in the Divulapurale Waltiya area on the Wallt 33000 Vallt in the Walasgala area.
-
-◼️
-
-[Data](articles/1b918964.json)
-
-[Extended Data](ext_articles/1b918964.ext.json)
-
----
-
-### Ice rain to side in Badulla
-
-*2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බදලල-පතතකට-අයස-වස/1-680739) · `si`
-
-Wednesday, the Dasadalawala Disaster Management Center (DMC) says that about thirty houses have been damaged in the Divulaphalawela Region.
-
-The OIC of the Divulapalessa Police Inspector MDDA said that the trees blocked by road collas.
-
-The ice rained across the area for nearly a few months, the ice rained across the area nearly two hours this afternoon.
-
-He said that a number of houses were roofed roofed roofing, the roofs of the roofs of the houses, and the trees were damaged.
-
-Police have also interrupted the traffic on the Divulapurass Tharasa Teldeniya road in the Divulapurale Waltiya area on the Wallt 33000 Vallt in the Walasgala area.
-
-◼️
-
-[Data](articles/c69e9294.json)
-
-[Extended Data](ext_articles/c69e9294.ext.json)
-
----
-
-### Baca Saman's confessigence
-
-*2025-10-04 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215346) · `si`
-
-Bako Saman has said that after another group of criminals were prepared to take responsibility after the killing of the Kirajah assassination, but they had not accepted the responsibility of their two children.
-
-That was during interrogation in the Western Province North Criminal Division.
-
-The suspect had said that the cafe is killed due to revealing his drug network.
-
-Backwo Saman has been recognized that he has credited a sum of Rs.
-
-He has said that he was trying to have a relationship with the Kjgina family.
-
-It is reported that Baka Saman has said that he had no need to kill the kjja children.
-
-In the meantime, Sampath Manampara has said that he was aware of the killing of the Kibhara.
-
-The suspect said that he had given firearms for a murder on the instructions of Beaka Saman's advice, police said.
-
-Investigations have been conducted further investigations to ensure resource Manamparai statements.
-
-...
-
-[Data](articles/5bcf346c.json)
-
-[Extended Data](ext_articles/5bcf346c.ext.json)
-
----
-
-### Some faces and lives from the mid 20th century
-
-*2025-10-04 19:56:00* · [`islandlk`](http://island.lk/some-faces-and-lives-from-the-mid-20th-century/) · `en`
-
-I have lived in exile in the United Kingdom for more years than I care to remember. Now, in retirement, my thoughts often drift back to my youth recalling the faces and names that once filled the media and shaped our lives, in our island paradise.
-
-The mid-twentieth century was a time of great upheaval, shaping not only the course of nations but also the lives of ordinary people like us. In Ceylon, the Second World War and the struggle for independence from British rule cast long shadows over our families and communities. These were the years in which we grew—from infants in our mothers’ arms to adults carrying the weight of responsibility in a changing world. It was a period of transition and enormous transformation.
-
-As a newly independent nation, unity among all its people was crucial for progress and prosperity, although at times this wisdom was overshadowed by the chaos of politics.
-
-...
-
-[Data](articles/4e3b312e.json)
-
-[Extended Data](ext_articles/4e3b312e.ext.json)
-
----
-
-### Lumumba alumni gather for nostalgic 50th anniversary
-
-*2025-10-04 19:49:00* · [`islandlk`](http://island.lk/lumumba-alumni-gather-for-nostalgic-50th-anniversary/) · `en`
-
-In the latter part of 1970, a group of us left for Moscow on scholarships—young, eager, and filled with dreams. Five years later, in 1975, we returned home with flying colours. Today, more than half a century later, some of us remain active in our professions, many have retired, while a few have drifted away from contact—and sadly, some are no longer with us.
-
-From the very first day we set foot in Moscow, our lives changed forever. That moment marked the beginning of a new chapter and a turning point in our personal journeys. The initial days were challenging—adjusting to the harsh Russian winter, adapting to a new culture, and finding our footing in an unfamiliar land. Yet, the years we spent at the prestigious Peoples’ Friendship University (then Lumumba University) with students from across the globe in the Soviet Union were nothing short of transformative.
-
-...
-
-[Data](articles/0b7883f4.json)
-
-[Extended Data](ext_articles/0b7883f4.ext.json)
-
----
-
-### Sampath Manamperi's brother -in -law arrested
-
-*2025-10-04 19:48:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரியின்-மைத்துனர்-கைது/175-365710) · `ta`
-
-Sampath Manamperi's brother -in -law was arrested this afternoon by the Northern Provincial Criminal Investigation Division in Biyagama.
-
-In this case, 555 grams of heroin, handgun and mehasin have been found ready for sale from the suspect.
-
-Further inquiries into the incident are being carried out by Linden Silva on the instructions of Western Province Assistant Superintendent of Police Rohan Olugala.. Remble
-
-◼️
-
-[Data](articles/1103f0f6.json)
-
-[Extended Data](ext_articles/1103f0f6.ext.json)
-
----
-
-### It is confirmed that the car was previously the car of the Thajadeen's car - CID says CID
-
-*2025-10-04 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215345) · `si`
-
-The Criminal Investigations Department (CID) has confirmed that the inquiry made by the jeep of the jeep that traveled by the jeep before the killing of his car before the killing of his car before the killing of his car before the killing of his car before murdered Tajadeen.
-
-The Criminal Investigation Department (CID) is investigated for 13 years on the murder of rugby playing Tajudine.
-
-However, he has not been able to identify the person who was still killed.
-
-His wife recently gave a statement to investigations into the investigation officials that he was assassinated in the jeep of the jeep that followed his car before the assassination of Thajdeen.
-
-Accordingly, the investigation officials have proved to be a man in the diagram in the relevant diagrams.
-
-The Department added that investigations are conducted to further confirm this.
-
-◼️
-
-[Data](articles/d42943a9.json)
-
-[Extended Data](ext_articles/d42943a9.ext.json)
-
----
-
-### Australian Monk Bhante Dhammika in Sri Lanka
-
-*2025-10-04 19:48:00* · [`islandlk`](http://island.lk/australian-monk-bhante-dhammika-in-sri-lanka-2/) · `en`
-
-Thank you. Last year I came briefly after being away for nearly 20 years. Now I’m delighted to be back again.
-
-I first visited your county when I was 14-years old when my parents took me to the UK. Our ship  stopped in Colombo for a day. I remember travelling from Fort to the Mount Lavinia Hotel and seeing all the coconut trees on each side of the road. I notice that there are none there now. Then I came in 1976 as a monk and I ended up staying for 20 years. I became a monk in India but it was in Sri Lanka that I learned Buddhism at a deeper level.
-
-Hasala – Over the last decades you have become quite well-known for your writings. How and why did you start writing?
-
-...
-
-[Data](articles/9997cdc1.json)
-
-[Extended Data](ext_articles/9997cdc1.ext.json)
-
----
-
-### Vijay's propaganda bus
-
-*2025-10-04 19:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்யின்-பிரச்சார-பேருந்தை-பறிமுதல்-செய்ய-உத்தரவு/54-365709) · `ta`
-
-41 people were killed in a congestion during a public meeting in Karur led by Vijay.
-
-Preliminary inquiries revealed that the reduction in the meeting was the cause of the incident.
-
-The Madras High Court has set up a special investigation team to investigate the Karur district incident. The court ordered the Karur police department to immediately hand over all the relevant documents to the Special Investigation Committee.
-
-In addition, the court has also banned political rallies, vehicle rallies and such public events on the state and national highways until the standard operational procedures are set.
-
-The order was issued when the four welfare petitions demanded to formulate the sustainable operational procedures for large gatherings to prevent incidents such as Karur congestion.
-
-The government also assured the court that no meetings would be allowed on the state and national highways, except for the reserved seats, until the standard operational procedures were finalized.
-
-...
-
-[Data](articles/9fb9f87f.json)
-
-[Extended Data](ext_articles/9fb9f87f.ext.json)
-
----
-
-### Young couple killed in accident
-
-*2025-10-04 19:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இளம்-தம்பதி-பலி/175-365708) · `ta`
-
-A young couple was killed when a motorcycle crashed into a lorry this afternoon at Kananwila area on the Horana-Moragahahena road.
-
-◼️
-
-[Data](articles/5d20f932.json)
-
-[Extended Data](ext_articles/5d20f932.ext.json)
-
----
-
-### Govt to continue renewable energy projects uninterrupted - Energy Minister
-
-*2025-10-04 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113218/govt-to-continue-renewable-energy-projects-uninterrupted-energy-minister) · `en`
-
-The Minister of Energy Kumara Jayakody has stated that the renewable energy projects initiated by the government will continue to implemented without interruption.
-
-However, the Minister added that any issues faced by the public due to these projects will be addressed humanely, and all possible measures will be taken to resolve them.
-
-The Minister said this while participating in the opening of the 5 megawatts solar power project constructed in the Hiyare area in Galle today (04).
-
-Speaking at the event, Minister Jayakody emphasized that renewable energy generation is a national necessity and an integral part of the country’s development program, and that everyone should recognize its importance.
-
-...
-
-[Data](articles/7bba4e0d.json)
-
-[Extended Data](ext_articles/7bba4e0d.ext.json)
-
----
-
-### Minister Saroja Bolraj Barbados to attend the 68th Commonwealth Parliamentary Conference
-
-*2025-10-04 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226905) · `ta`
-
-The Commonwealth Parliamentary Association (CPA), organized by the Commonwealth Parliamentary Association (CPC), will be held on Sunday (October 5) to 12th October, with the aim of discussing global parliament and political issues.
-
-The conference will be attended by Members of Parliament and MPs in the Commonwealth, representing Sri Lanka and the President of the Sri Lanka Parliamentary Women's Council (WPC), Minister of Women and Child Affairs, Saroja Savitri, Sukat Vasantha de Silva (Member of Parliament), Lawyer Sagarika Atavuda and the Route Member of Parliament, Rohanni, Member of Parliament, Rohanni, Member of Parliament, and Opposition Parliamentary Party.
-
-In this backdrop, a group of Minister Saroja Savitri Bolraj will be traveling to Barbados tomorrow (5th) to attend the conference, which will be held for a week, including various sub -seminars and various activities.
-
-◼️
-
-[Data](articles/adeb733a.json)
-
-[Extended Data](ext_articles/adeb733a.ext.json)
-
----
-
-### Underworld Group Member Pekho Saman's brother -in -law arrested in Biyagama
-
-*2025-10-04 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226906) · `ta`
-
-The brother -in -law of Pekho Saman, a member of the underworld group, has been arrested in Biyagama with narcotics and weapons, police said.
-
-The suspect was arrested during the raid carried out on the basis of confidential information received by the police.
-
-Police said 555 grams of heroin, a handgun and its bullets were recovered from the suspect.
-
-◼️
-
-[Data](articles/a9bdfeea.json)
-
-[Extended Data](ext_articles/a9bdfeea.ext.json)
-
----
-
-### Youth dies of Kavadi
-
-*2025-10-04 19:22:36* · [`adalk`](https://www.ada.lk/breaking_news/කාවඩි-නටමින්-සිටි-තරුණයා-හදිසියේ-මරුට/11-418912) · `si`
-
-A 20-year-old youth who was organized by the Medimba, Land in Ambalangoda, had sick suddenly sick.
-
-The victim is PM UK, a 20 year old, a 21 year old residents.
-
-The young man who was involved in the Kavadi dance was killed after the death of Kavadi dance to the Madampe Town.
-
-Family Relatives say that the deceased young man, who is a cricketer, had no infected diseases and the young man could not believe that the young man could not believe. The Ambalangoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/382fdbf7.json)
-
-[Extended Data](ext_articles/382fdbf7.ext.json)
-
----
-
-### Landslide warning announcement for several districts
-
-*2025-10-04 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215344) · `si`
-
-The National Building Research Organization has taken steps to issue a landslide warning announcements at several districts in several districts in several districts.
-
-The organization said that the warning announces will be effective from 6.00 pm to 6:00 pm tomorrow.
-
-Accordingly, the organization has taken steps to issue the alarm statement to Kothumbura, Bibile, Rattota, Bibila, Bibile, Bibile, Bibile, Bibile, Bibile, Biwala, Bibile in Matale District, Ukuwela, Bibile in Matale District, Badulla District.
-
-◼️
-
-[Data](articles/26d23a3c.json)
-
-[Extended Data](ext_articles/26d23a3c.ext.json)
-
----
-
-### Whatever the renewable energy is continuous
-
-*2025-10-04 19:13:08* · [`adalk`](https://www.ada.lk/breaking_news/පුනර්ජනනීය-බලශක්ති-කුමන-බාධක-ආවත්-අඛණ්ඩව-ක්‍රියාත්මක-කරනවා/11-418911) · `si`
-
-"Renewable energy projects continue. Because of the projects, all the steps that hindfully consider the problems of the people and solve them. The Energy Minister stated that everyone should understand that renewable energy generation was a national requirement and part of the national program.
-
-"It is like that as well as the restructuring program of the Ceylon Electricity Board. There is a government policy to ensure the government's government ownership in the electricity sector. We launched this program discussions with trade union representatives at all times being protected by employee rights privileges.. It is vital that the implementation of the restructuring program to win the objectives of the country's energy fields is essential. Therefore, it will continue to implement the program. "
-
-...
-
-[Data](articles/7272872c.json)
-
-[Extended Data](ext_articles/7272872c.ext.json)
-
----
-
-### Lands accident to five districts
-
-*2025-10-04 19:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දසතරකක-පහකට-නය-අනතර/1-680738) · `si`
-
-With the excessive heavy rains, the National Building Research Institute has issued a landslide warning to 10 Divisional Secretariats in five districts tomorrow (4) at 6.00 pm.
-
-The landslides were issued today 4 pm on the Badulla, Ella, Hali-Ela, Passara, Kurunegala District, Kotmale, Kurunegala District, Kothuwela, and Matale District.
-
-Meanwhile, the Disaster Management Center (DMC) stated that two cows were killed in the Lightning Rahara, Hali, Hali, Hali, Haliela.
-
-◼️
-
-[Data](articles/90c481a7.json)
-
-[Extended Data](ext_articles/90c481a7.ext.json)
 
 ---

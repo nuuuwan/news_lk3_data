@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 05:20:24**
+As of **2025-10-05 05:59:27**
 
 ## Newspaper Stats
 
-*Scraped **81,175** Articles*
+*Scraped **81,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,892
 dailyftlk | 5,664
 adalk | 7,782
 adaderanalk | 10,441
-tamilmirrorlk | 12,049
+tamilmirrorlk | 12,053
 virakesarilk | 13,336
 adaderanasinhalalk | 13,959
 
@@ -27,9 +27,43 @@ adaderanasinhalalk | 13,959
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,175 (100.0%) of 81,175 articles have been extended.
+81,175 (100.0%) of 81,179 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-10-05 (Sunday)
+
+### சாரதி அனுமதிபத்திரங்கள் செல்லுபடியாகும் காலம் நீடிப்பு
+
+*2025-10-05 03:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிபத்திரங்கள்-செல்லுபடியாகும்-காலம்-நீடிப்பு/175-365726) · `ta`
+
+சாரதி அனுமதிபத்திரங்களின் செல்லுபடியாகும் காலத்தை நீடிப்பதற்கு மோட்டார் வாகனப் போக்குவரத்து திணைக்களம் தீர்மானித்துள்ளது.
+
+நீடிக்கப்படவுள்ள கால எல்லை தொடர்பில் ஆராய்வதற்காக விசேட குழுவொன்று நியமிக்கப்பட்டுள்ளதாக போக்குவரத்து ஆணையாளர் நாயகம் கமல் அமரசிங்க தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/20fe3788.json)
+
+---
+
+### கத்திக்குத்துக்கு இலக்காகி கடை உரிமையாளர் மரணம்
+
+*2025-10-05 03:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்குத்துக்கு-இலக்காகி-கடை-உரிமையாளர்-மரணம்/175-365725) · `ta`
+
+யாழ்ப்பாணம், சுண்ணாகம் பொலிஸ் பிரிவிற்குட்பட்ட ஏழாலை கிழக்கு பகுதியில் வாணிப நிலையத்தில் ஏற்பட்ட வாய்த்தர்க்கம் காரணமாக கத்திக்குத்துக்கு இலக்காகி கடை உரிமையாளர் மரணமடைந்துள்ளார்.
+
+ஏழாலை  கிழக்கு பகுதியில் காணப்பட்ட வாணிப நிலையத்திற்கு மது போதையில் வந்த இரண்டு இளைஞர்கள் மிக்சர் தருமாறு கேட்டுள்ளார்கள். அப்போது கடை உரிமையாளர் மிக்சர் குரிய பணத்தை தருமாறு கேட்டபோது மிக்சரை வாங்க வந்தவர்களுக்கும் கடை உரிமையாளர்களுடைய வாய் தர்க்கம் ஏற்பட்டது.
+
+இதன்போது கடை உரிமையாளர் மீது மிக்ஸர் வாங்க வந்தவர்கள் கத்திக்குத்தை மேற்கொண்டுள்ளார்கள். இதன்போது கடை உரிமையாளர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+இச் சம்பவத்தில் ஏழாலை கிழக்கு பகுதியை சேர்ந்த சிங்காராவேல் தானவன் வயது 35 என்பவரே உயிரிழந்துள்ளார்
+
+◼️
+
+[Data](articles/66d113ed.json)
+
+---
 
 ### 2025-10-04 (Saturday)
 
@@ -50,6 +84,42 @@ Minister Saroja Saroja Saroja Saroja Saroja Saroja Savitri Ukraine and the group
 [Data](articles/c9b2f986.json)
 
 [Extended Data](ext_articles/c9b2f986.ext.json)
+
+---
+
+### அஸ்வெசும இரத்து செய்யப்படுமா?
+
+*2025-10-04 22:47:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-இரத்து-செய்யப்படுமா/175-365724) · `ta`
+
+அஸ்வெசும நலன்புரித்திட்டத்தை விரைவில் இரத்து செய்வதற்கு அரசாங்கம் தீர்மானித்துள்ளதாக எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச குற்றம் சுமத்தியுள்ளார்.
+
+அத்துடன், அஸ்வெசும திட்டம் மக்களின் வறுமையைக் குறைப்பதற்குத் தவறிவிட்டதாகவும் எதிர்க்கட்சி தலைவர் சுட்டிக்காட்டியுள்ளார்.
+
+ஒரு சமூகப் பாதுகாப்பு திட்டமானது, வறுமை ஒழிப்பு, முதலீடு, சேமிப்பு, உற்பத்தி மற்றும் ஏற்றுமதியை உறுதி செய்ய வேண்டும் எனவும் சஜித் பிரேமதாஸ தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/9a5ce97b.json)
+
+---
+
+### கச்சத்தீவை அரசியலுக்காக பயன்படுத்தினால் பாரிய போராட்டம் வெடிக்கும்
+
+*2025-10-04 22:45:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சத்தீவை-அரசியலுக்காக-பயன்படுத்தினால்-பாரிய-போராட்டம்-வெடிக்கும்/175-365723) · `ta`
+
+தமிழக முதலமைச்சர் மு.க.ஸ்டாலினும், தமிழக வெற்றிக் கழகத்தின் தலைவர் விஜய்யும், கச்சத்தீவை அரசியலுக்காக பயன்படுத்தினால், அவர்களுக்கு எதிராக பாரிய போராட்டம் முன்னெடுக்கப்படும் என கடற்றொழில் சமூகம் எச்சரிக்கை விடுத்துள்ளது.
+
+வடக்கு மாகாண கடற்றொழிலாளர் இணையத்தின் ஊடக பேச்சாளர் அன்னலிங்கம் அன்னராசா இந்த எச்சரிக்கையை விடுத்துள்ளார்.
+
+தமிழகத்தின் முதலமைச்சர் மு.க.ஸ்டாலின், கச்சத்தீவை மீட்பேன் என தொடர்ச்சியாக அரசியல் மேடைகளில் பேசி வருகின்றார்.
+
+இவ்வாறு தொடர்ச்சியாக கூறி தமிழக கடற்றொழிலாளர்களை வடக்கு கடற்றொழிலாளர்களுக்கு எதிராகத் தூண்டுவீர்களாக இருந்தால் பாரிய போராட்டத்தை முன்னெடுப்போம் என அன்னலிங்கம் அன்னராசா குறிப்பிட்டுள்ளார்.
+
+அத்துடன் தமிழக வெற்றி கழகத்தின் விஜய் அரசியல் இருப்புக்காக கச்சத்தீவு விவகாரம் குறித்து பேசுவதாகவும் அவர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/3c413888.json)
 
 ---
 
@@ -1942,65 +2012,5 @@ COLOMBO (News 1st); The Department of Motor Traffic has decided to extend the va
 [Data](articles/31710abe.json)
 
 [Extended Data](ext_articles/31710abe.ext.json)
-
----
-
-### 50 Bus Conductors Fined for Failing to Issue Passenger Tickets
-
-*2025-10-04 13:56:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/50-bus-conductors-fined-for-failing-to-issue-passenger-tickets) · `en`
-
-COLOMBO (News 1st); The Western Province Road Passenger Transport Authority reported that 50 private bus conductors have been fined for failing to issue tickets to passengers.Chairman Gamini Jasinghe said that inspections began on the 1st of this month with the enforcement of the law mandating ticket issuance for passengers in private buses operating within the Western Province.Accordingly, several teams are conducting inspections across the Colombo, Gampaha, and Kalutara districts.The Authority further announced that bus conductors who fail to issue tickets will be fined Rs. 750, required to attend a one-day discipline training program, and suspended from duty for three days.
-
-◼️
-
-[Data](articles/4270f6a7.json)
-
-[Extended Data](ext_articles/4270f6a7.ext.json)
-
----
-
-### Police Question Suspect in Ice Drug Trafficking Case
-
-*2025-10-04 13:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/police-question-suspect-in-ice-drug-trafficking-case) · `en`
-
-COLOMBO (News 1st); A suspect arrested in the Horowpathana in connection with an ice drug trafficking case is currently being questioned under a detention order.The police said that the suspect was produced before the Kabitigollawa Magistrate yesterday, following which a five-day detention order was granted.Authorities discovered 410 milligrams of ice found in the suspect’s possession. The 55-year-old suspect had previously contested the recent local government elections as a candidate of the Samagi Jana Balawegaya.
-
-◼️
-
-[Data](articles/05e6c5ac.json)
-
-[Extended Data](ext_articles/05e6c5ac.ext.json)
-
----
-
-### 14 drivers arrested for driving vehicles
-
-*2025-10-04 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226872) · `ta`
-
-14 drivers have been arrested in connection with the driver of liquor during a special roundup, which was carried out yesterday (03), the police media unit said.
-
-Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
-
-Meanwhile, 631 persons with evidence of various crimes, 21 on suspicion, 276 persons have been issued, 173 people who have been issued an opening order, 23 drivers and 3835 violations of the transport regulations.
-
-◼️
-
-[Data](articles/99207831.json)
-
-[Extended Data](ext_articles/99207831.ext.json)
-
----
-
-### Over 1,200 Kilograms of Heroin, and 1,800 Kilograms of ICE seized in 9 months
-
-*2025-10-04 13:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/over-1-200-kilograms-of-heroin-and-1-800-kilograms-of-ice-seized-in-9-months) · `en`
-
-COLOMBO (News 1st); Acting Police Spokesperson, Assistant Super of Police Minura Senerath, said that police have seized 1,248 kg of Heroin.He said and 1,852 kg of ICE have been seized over the past nine months.Additionally, The police have also introduced new contact numbers for the public to provide information on narcotic seizures.Accordingly Public can contact Deputy Inspector Generals on District Levels and Senior Police Officers on Divisional Levels to report drug-related information confidentially.Additionally, Police vowed to keep the Drug Tips confidential.
-
-◼️
-
-[Data](articles/1293e214.json)
-
-[Extended Data](ext_articles/1293e214.ext.json)
 
 ---

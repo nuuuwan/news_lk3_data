@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 11:39:29**
+As of **2025-10-05 12:11:04**
 
 ## Newspaper Stats
 
-*Scraped **81,230** Articles*
+*Scraped **81,234** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 599
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 791
+lankadeepalk | 795
 colombotelegraphcom | 809
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,11 +27,75 @@ adaderanasinhalalk | 13,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,229 (100.0%) of 81,230 articles have been extended.
+81,234 (100.0%) of 81,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### News "flower bloom"
+
+*2025-10-05 11:31:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇලපටය-රහලට-මල-පපන-ආරචයක/101-680753) · `si`
+
+Dr. Nalinda Jayatissa said that the priority of the Sri Lankan unwanted hospital development committees is being implemented.
+
+The Minister was speaking at a ceremony of two fifty thousand rupees worth of modern machines and the construction of a building for the hospital police.
+
+The Minister of Active and Strong Hospital Development Committee is essential to regularize the first tasks of the Ministry of Health.
+
+He said that the scattered hospital development committee of the National Hospital to suit the two hospitals from the National Hospital to the Primary Health Care Unit.
+
+The Minister said that the active hospital development committees have been established in a significant number of hospitals, as a result of the resultation and composition of the Hospital Development Committee.
+
+The Health and Mass Media minister said that he would not follow the "promising politics" in the entire country, including the Southern Province.
+
+◼️
+
+[Data](articles/e32114d3.json)
+
+[Extended Data](ext_articles/e32114d3.ext.json)
+
+---
+
+### 40 lakhs cigarettes locked
+
+*2025-10-05 11:15:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලකෂ-40ක-දමවට-ගවනතට-හරවය/101-680752) · `si`
+
+A Sri Lankan Airport Bureau of Sri Lanka, a Sri Lankan Airport, has been arrested by the Airport Trace of the Airport Trace of the Katunayake airport today (05).
+
+He is a 44 year old fisherman from Kalpitiya, Puttalam.
+
+He was 5.25 this morning at Dubai to SriLankan Airlines UL. The airplane had arrived at the Katunayake Airport on the 226. In two baggage he brought, 150 smoking cartoons containing 30,000 cigarettes.
+
+To be produced before the Negombo Magistrate's Court on 10/08 to the Negombo Magistrate's Court today
+
+◼️
+
+[Data](articles/39594c38.json)
+
+[Extended Data](ext_articles/39594c38.ext.json)
+
+---
+
+### Minister Wimal calls from Tangalle
+
+*2025-10-05 11:01:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වමලට-තගලල-පලසයන-කඳවමක/101-680751) · `si`
+
+Former Minister Wimal Weerawansa has been asked to appear at Tangalle Headquarters tomorrow (6).
+
+Sources say that he has called for a statement made by the media regarding the media regarding the man in Beliatta.
+
+Weerawansa is due to appear at Tangalle Police at 10.00 am tomorrow.
+
+The police are detained by the police on detention orders, who was arrested in connection with the vessel in Tangalle Sugar incidents.
+
+◼️
+
+[Data](articles/c4e99f98.json)
+
+[Extended Data](ext_articles/c4e99f98.ext.json)
+
+---
 
 ### '' Developing ties is strengthened ''
 
@@ -100,6 +164,8 @@ COLOMBO (News 1st): A tragic road accident claimed the lives of a young married 
 ◼️
 
 [Data](articles/8a5b832f.json)
+
+[Extended Data](ext_articles/8a5b832f.ext.json)
 
 ---
 
@@ -1892,69 +1958,5 @@ Protests were carried out by the people in front of the Presidential Secretariat
 [Data](articles/9784c088.json)
 
 [Extended Data](ext_articles/9784c088.ext.json)
-
----
-
-### Principals an informed of new education reforms
-
-*2025-10-04 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215340) · `si`
-
-At present, the National Institute of Education will be implemented at the district level, organized by the National Institute of Education, which is organized by the National Institute of Education.
-
-Under this program, many districts in the country have been covered by the Minister of Education, Harari Amarasuriya and Minister of Buddha Sasana and Cultural Education.
-
-The Director General of Matale, District Secretary General, Provincial Directors of National Institute of Education, and various innovations in the Matale District participated in the event.
-
-The objective of the program is being carried out under the guidance of the National Institute of Education.
-
-Accordingly, the program will also be implemented in other districts in the country.
-
-◼️
-
-[Data](articles/ae3013f3.json)
-
-[Extended Data](ext_articles/ae3013f3.ext.json)
-
----
-
-### Dy. Minister clarifies misleading reports on President’s 2026 expenditure
-
-*2025-10-04 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/113215/dy-minister-clarifies-misleading-reports-on-presidents-2026-expenditure) · `en`
-
-Reports circulating on social media claiming that the President’s expenditure allocation for 2026 has been increased threefold has been clarified by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.
-
-Accordingly, the Minister points out that the relevant information is incorrect and misleading to the general public.
-
-Explaining further in this regard, Deputy Minister Anil Jayantha said:
-
-...
-
-[Data](articles/82e19816.json)
-
-[Extended Data](ext_articles/82e19816.ext.json)
-
----
-
-### #SriPOP - The Sound of a New Sri Lanka
-
-*2025-10-04 16:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/sripop-the-sound-of-a-new-sri-lanka) · `en`
-
-In Stein Studios, in the outskirts of Colombo, a dancer moves as if the earth itself is breathing beneath her feet.
-
-It’s human — imperfectly perfect, like the heartbeat that drives it. A drum echoes, a synth sighs, and something ancient awakens.
-
-It’s not a beat born in a studio, nor a formula cooked up for virality.
-
-It’s a call — a return — to the rhythm that has always pulsed through this island’s soul.
-
-To understand #SriPop, you have to first understand the strange, beautiful chaos of Sri Lanka’s musical DNA.
-
-From the Portuguese-inspired baila that once drifted through coastal taverns, to the rabana circles of rural women who drum while they laugh and sing, to the Nada Bhera & Yak Bera— the ceremonial drumming that summons gods and courage alike — this island’s music has never been entertainment alone. It has always been spiritual architecture, a way of being, of remembering, of belonging.
-
-...
-
-[Data](articles/d15ff5b6.json)
-
-[Extended Data](ext_articles/d15ff5b6.ext.json)
 
 ---

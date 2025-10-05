@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 09:39:01**
+As of **2025-10-05 10:08:15**
 
 ## Newspaper Stats
 
@@ -27,29 +27,35 @@ adaderanasinhalalk | 13,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,210 (100.0%) of 81,215 articles have been extended.
+81,215 (100.0%) of 81,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
 
-### இலங்கை கிரிக்கெட் அணிக்கு புதிய துடுப்பாட்ட மற்றும் சுழற்பந்து வீச்சுப் பயிற்சியாளர்கள் !
+### New battery and spinning coaches for Sri Lanka cricket team!
 
 *2025-10-05 08:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/226910) · `ta`
 
-இலங்கை கிரிக்கெட் நிறுவனம் (SLC) தேசிய கிரிக்கெட் அணிக்கு இரு முக்கியப் பயிற்சியாளர்களை நியமித்துள்ளதாக அறிவித்துள்ளது.
+Sri Lanka Cricket (SLC) has announced that two prominent coaches have been appointed to the National Cricket Team.
 
-அந்த வகையில், துடுப்பாட்ட பயிற்சியாளராக ஜூலியன் வூட் நியமிக்கப்பட்டுள்ளதுடன், சுழற்பந்து வீச்சுப் பயிற்சியாளராக ரெனே ஃபெர்டினாண்ட்ஸ் நியமிக்கப்பட்டுள்ளார்.
+In that respect, Julian Wood has been appointed as the bowling coach and has been appointed as the spinning coach.
 
-துடுப்பாட்டப் பயிற்சியாளராக நியமிக்கப்பட்டுள்ள, ஜூலியன் வூட், க்கு  ஒக்டோபர் முதலாம் திகதி முதல் அமுலுக்கு வரும் வகையில்,  ஓராண்டு காலத்திற்கு நியமனம் வழங்கப்பட்டுள்ளது.
+Julian Wood, who has been appointed as a cricket coach, has been appointed for a period of one year with effect from October 1.
 
-"பவர் ஹிட்டிங் திட்டத்தை" (Power Hitting Program) உருவாக்கியவர் வூட். இவர் துடுப்பாட்ட நுட்பங்களை நவீன பயிற்சி முறைகள் மற்றும் உயிரியக்கவியல் (Biomechanics)உடன் ஒருங்கிணைத்து வீரர்களின் துடுப்பாட்டத் திறனை (Hitting Power) அதிகரிக்கச் செய்வதில் சிறந்தவர் .
+Wood is the creator of the "Power Hitting Program". He is the best in enhancing playing techniques with modern training methods and biomechanics and increasing the playing power of the players.
 
-சுழற்பந்து வீச்சுப் பயிற்சியாளராக நியமிக்கப்பட்டுள்ள, ரெனே ஃபெர்டினாண்ட்ஸ் இன் நியமனம் செப்டம்பர் 30ஆம் திகதி முதல் அமுலுக்கு வருகிறது.
+The appointment of Rene Ferdinands, who has been appointed as the spinning coach, comes into effect from September 30.
 
-...
+Renay Ferdinands, who specializes in both wrist and finger spinning, has previously served as Biomechanics Consultant for New Zealand Cricket (NZC).
+
+It is noteworthy that he carried out Performance Evaluations and Injury-Risk Assessments for leading bowlers.
+
+◼️
 
 [Data](articles/4ea4e7cb.json)
+
+[Extended Data](ext_articles/4ea4e7cb.ext.json)
 
 ---
 
@@ -133,37 +139,43 @@ The deceased has been identified as a 23 year old resident of Aranayaka.
 
 ---
 
-### உலகின் சிறந்த தேர்தல்கள் ஆணைக்குழுவிற்கான விருதை இலங்கை தேர்தல் ஆணைக்குழு சுவீகரித்தது!
+### Sri Lanka Election Commission won the World Best Elections Commission award!
 
 *2025-10-05 07:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226909) · `ta`
 
-இலங்கை தேர்தல்கள் ஆணைக்குழுவானது, உலகின் மிகச் சிறந்த தேர்தல் ஆணைக்குழுவிற்கான விருதை வென்றுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+The Sri Lanka Elections Commission has announced that it has won the award for the best Election Commission in the world.
 
-சர்வதேச அரங்கில், ஜனநாயகம் மற்றும் தேர்தல் செயற்பாடுகளில் சிறந்து விளங்கும் ஆணைக்குழுக்களுக்கு வழங்கப்படும் இந்த கௌரவமான விருதை, இலங்கை தேர்தல் ஆணைக்குழு (Election Commission of Sri Lanka)பெற்றுள்ளது.
+The Sri Lanka Election Commission of Sri Lanka has received this honorable award for the Commissions of Commissions in Democracy and Elections on the International Forum.
 
-தேர்தல் செயற்பாடுகளில் இலங்கை தேர்தல்கள் ஆணைக்குழுவின் வெளிப்படைத்தன்மை, திறன், மற்றும் நம்பகத்தன்மை ஆகியவற்றை அங்கீகரிக்கும் வகையில் இந்த விருது வழங்கப்பட்டுள்ளது.
+The award has been awarded in recognition of the transparency, ability and credibility of the Sri Lanka Elections Commission in the election process.
 
 ◼️
 
 [Data](articles/5ca6fe47.json)
 
+[Extended Data](ext_articles/5ca6fe47.ext.json)
+
 ---
 
-### சட்டவிரோதமாக கொண்டுவரப்பட்ட பெருந்தொகையான பீடி இலைகளுடன் இருவர் கைது !
+### Two persons arrested with illegal beedi leaves
 
 *2025-10-05 07:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226908) · `ta`
 
-கற்பிட்டி - துடாவ கடற் பகுதியில், கடற்படையினர் நடத்திய விசேட தேடுதல் நடவடிக்கையின் போது, சட்டவிரோதமாக நாட்டிற்கு கொண்டு வர முயன்ற சுமார் 405 கிலோகிராம் பீடி இலைகள் மற்றும் ஒரு டிங்கி படகுடன் இரண்டு சந்தேக நபர்களை கடற்படையினர் கைதுசெய்துள்ளனர்.
+During a special search operation conducted by the Marines in the Kalpitiya - Tuttawa, two suspects have been arrested with about 405 kilograms of beedi leaves and a dingi boat that illegally attempted to bring it to the country.
 
-கடல் வழியூடாக கடத்தல் உள்ளிட்ட சட்டவிரோத நடவடிக்கைகளை எதிர்த்து நாட்டைச் சுற்றியுள்ள கடல் மற்றும் கடற்கரைகளை உள்ளடக்கி கடற்படை வழக்கமான சோதனை மற்றும் தேடுதல் நடவடிக்கைகளை மேற்கொண்டு வருகின்றது.
+The Navy is carrying out regular testing and search operations, including the sea and beaches around the country to counter illegal activities, including smuggling.
 
-அதன்படி, கடந்த 3 ஆம் திகதி இரவு கற்பிட்டிக்கு அருகிலுள்ள கடல் பகுதியில், வடமேல் கடற்படை கட்டளையின் இலங்கை கடற்படை கப்பல் நடத்திய இந்த விசேட தேடுதல் நடவடிக்கையின் போது, சந்தேகத்திற்கிடமான டிங்கி (01) படகு சோதனை செய்யப்பட்டது.
+Accordingly, the suspicious Tinky (01) boat was raided during the special search operation carried out by the Sri Lanka Navy in the North Western Navy, in the sea near Kalpitiya on the night of the 3rd.
 
 இந்த நடவடிக்கையின் போது, சட்டவிரோதமாக நாட்டிற்கு கொண்டு வரப்பட்ட சுமார் 405 கிலோகிராம் நிறையுடைய பீடி இலைகள் மற்றும் டிங்கி படகுடன் இரு  சந்தேக நபர்களை  கடற்படையினர் கைதுசெய்தனர்.
+
+In addition, the suspects arrested by the Navy during the operation have been identified as from the Kalpitiya - estate and school areas.
 
 ...
 
 [Data](articles/798fae09.json)
+
+[Extended Data](ext_articles/798fae09.ext.json)
 
 ---
 
@@ -195,21 +207,25 @@ COLOMBO (News 1st); The Police Special Task Force (STF) conducted a special sear
 
 ---
 
-### ஸ்டாலின், விஜய்க்கு எதிராக போராட்டம் - வடமாகாண கடற்றொழிலாளர் இணையம் எச்சரிக்கை
+### Stalin, Struggle against Vijay - Northern Province Fishermen's Internet
 
 *2025-10-05 07:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/226902) · `ta`
 
-தமிழக முதலமைச்சர் ஸ்டாலினும், தமிழக வெற்றிக் கழகத்தின் தலைவர் விஜய்யும் எமது நாட்டின் இறைமையில் உள்ள கச்சதீவை அரசியலுக்காக பயன்படுத்தினால் அவர்கள் இருவருக்கும் எதிராக கடற்றொழில் சமூகம் மிக விரைவில் பாரிய போராட்டத்தை முன்னெடுக்குமென வடக்கு மாகாண கடற்றொழிலாளர் இணையத்தின் ஊடாக பேச்சாளர் அன்னலிங்கம் அன்னராசா எச்சரிக்கை விடுத்துள்ளார்.
+Speaker Annalingam Annarasa has warned that the fishermen's community will soon be able to carry out a massive struggle against both of them if the Tamil Nadu Chief Minister Stalin and the leader of the Tamil Nadu Victory Association, Vijay and the Kachchativu politics of our country are used for politics.
 
-யாழ்ப்பாணத்தில் உள்ள அவரது இல்லத்தில் சனிக்கிழமை (4) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+He was speaking at a media briefing held at his residence in Jaffna on Saturday (4).
 
-தமிழகத்தின் முதலமைச்சர் மு.க.ஸ்டாலின், கச்சதீவை மீட்பேன் என வடக்கு கடற்றொழில் சமூகத்திற்கு எதிரான ஒரு கருத்தை தொடர்ச்சியாக அரசியல் மேடைகளில் பேசி வருகின்றார்.
+The Chief Minister of Tamil Nadu, MK Stalin, continues to speak on political platforms against the Northern Fisheries Society that he will rescue Kachchativu.
 
-முதலமைச்சரே, நல்லெண்ண அடிப்படையில் வடக்கு கடற்றொழில் சமூகம் கடந்த 2023ஆம் ஆண்டு மூன்று மகஜர்களை உங்களுக்கு அனுப்பியது. அதற்கு நீங்கள் எதுவித பதிலும் வழங்கவில்லை. ஆனால் அரசியல் இருப்புக்காக கச்சதீவு விவகாரத்தை தூக்கி வைத்து வடக்கு கடற்றொழிலாளர்களை பகைக்கின்ற ஒரு விடயத்தை நீங்கள் செய்கின்றீர்கள்.
+Chief Minister, on the basis of goodwill, the Northern Fisheries Society sent you three Majors in 2023. You have not given any answer to that. But you are doing a thing that lifted the Kachchativu issue for political existence and hated the Northern fishermen.
+
+Do not speak in Tamil Nadu a false accusation for your political existence that Indian fishermen are suffering from Kachchativu.
 
 ...
 
 [Data](articles/43ff2fe9.json)
+
+[Extended Data](ext_articles/43ff2fe9.ext.json)
 
 ---
 
@@ -333,21 +349,27 @@ The cause of the shooting is yet to be ascertained and the police have been shot
 
 ---
 
-### இன்றைய வானிலை
+### The weather today
 
 *2025-10-05 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226907) · `ta`
 
-மாலை வேளையில் இடியுடன் கூடிய மழை பெய்வதற்கு வளிமண்டலவியல் நிலைமைகள் உகந்ததாகக் காணப்படுகின்றது. பலத்த காற்றுடன் கூடிய கனத்த மழை அத்துடன் இடியுடன் கூடிய பாரிய மின்னல் தாக்கங்கள் ஏற்படக்கூடும். ஆனபடியினால் பொதுமக்கள் இவற்றினால் ஏற்படுகின்ற இழப்புக்களை அல்லது சேதங்களை தவிர்த்துக் கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் கேட்டுக் கொண்டுள்ளது.
+The atmospheric conditions are optimized for thunderstorms in the evening. Heavy rains with strong winds and thunderstorms may have major lightning strikes. The Department of Meteorology has urged the public to take necessary precautions to avoid the losses or damage caused by the public.
 
-நாட்டின் பெரும்பாலான பகுதிகளின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+Showers or thunderstorms are likely to occur after one o'clock in the afternoon.
 
-சப்ரகமுவ, மேல் மற்றும் வடமேல் மாகாணங்களின் பல இடங்களிலும் அத்துடன் காலி, மாத்தறை, யாழ்ப்பாணம் மற்றும் மன்னார் மாவட்டங்களின் பல இடங்களிலும் காலை வேளையிலும் மழை பெய்யக்கூடும்.
+Rainfall is expected in many parts of Sabaragamuwa, Upper and North Western Provinces as well as in many parts of Galle, Matara, Jaffna and Mannar districts.
 
-மத்திய, சப்ரகமுவ, மேல், வடமத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களிலும் அத்துடன் வவுனியா மற்றும் முல்லைத்தீவு மாவட்டங்களின் சில இடங்களிலும் 75 மில்லிமீற்றரிலும் கூடிய  பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper, North Central and Uva provinces, as well as some parts of the Vavuniya and Mullaitivu districts.
+
+Thundershowers will occur in the sea regions from Kankesanthurai to Puttalam, Colombo and Galle.
+
+Rainfall or thunderstorms can occur in many parts of other sea regions around the country in the evening or night.
 
 ...
 
 [Data](articles/a7b749c5.json)
+
+[Extended Data](ext_articles/a7b749c5.ext.json)
 
 ---
 

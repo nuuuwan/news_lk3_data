@@ -1,37 +1,217 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 13:39:12**
+As of **2025-10-05 13:56:15**
 
 ## Newspaper Stats
 
-*Scraped **81,256** Articles*
+*Scraped **81,279** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 599
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 795
+lankadeepalk | 807
 colombotelegraphcom | 809
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,906
 dailyftlk | 5,664
-adalk | 7,784
+adalk | 7,788
 adaderanalk | 10,441
-tamilmirrorlk | 12,072
-virakesarilk | 13,355
+tamilmirrorlk | 12,075
+virakesarilk | 13,359
 adaderanasinhalalk | 13,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,256 (100.0%) of 81,256 articles have been extended.
+81,256 (100.0%) of 81,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### கண்டியில் கை வைத்த ஜோடி கைது
+
+*2025-10-05 13:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-கை-வைத்த-ஜோடி-கைது/76-365758) · `ta`
+
+கண்டியில் உள்ள ஒரு நகைக் கடைக்குள் நகை வாங்குவதாகக் கூறி உள்ளே நுழைந்து உண்மையான நகைகளைத் திருடியதாகக் கூறப்படும் ஒரு இளம் திருமணமான தம்பதியினரை கைது செய்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கண்டியில் உள்ள ஒரு நகைக் கடையிலிருந்து வந்த தொலைபேசி அழைப்பைத் தொடர்ந்து, கண்டி காவல் தலைமையகத்தின் குற்றப்பிரிவு உடனடியாக அந்த அழைப்பை ஏற்று, அதிகாரிகள் நகைக் கடைக்குச் சென்று, திருடப்பட்ட நகைகளை மறைத்து வைத்திருந்தபோது சந்தேகத்திற்கிடமான தம்பதியினரைக் கைது செய்தனர்.
+
+தலத்துஓயா எதுல்கம பகுதியைச் சேர்ந்த இந்த தம்பதியினர் 20-22 வயதுக்குட்பட்டவர்கள் என்று பொலிஸார் தெரிவிக்கின்றனர். அவர்களிடமிருந்து கிடைத்த தகவலின்படி, கண்டி பகுதியில் உள்ள முக்கிய வங்கிகளில் அடகு வைக்கப்பட்டிருந்த திருடப்பட்ட நகைகளின் ஒரு பங்கு மீட்கப்பட்டுள்ளது, மேலும் இந்த ஜோடி  வேறு ஏதேனும் நகைக் கடைகளுக்கு சென்றுள்ளதா என்பதைக் கண்டறிய பொலிஸ் விசாரணைகள் நடந்து வருகின்றன.
+
+◼️
+
+[Data](articles/f5269901.json)
+
+---
+
+### சூரியின் ‘மண்டாடி’ படப்பிடிப்பில் விபத்து: ரூ.1 கோடி  சேதம்
+
+*2025-10-05 13:27:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சூரியின்-மண்டாடி-படப்பிடிப்பில்-விபத்து-ரூ-1-கோடி-சேதம்/54-365757) · `ta`
+
+சூரி நடித்து வரும் ‘மண்டாடி’ படப்பிடிப்பில் விபத்து ஏற்பட்டுள்ளது. இந்த விபத்தில் ரூ.1 கோடி மதிப்பிலான படப்பிடிப்பு உபகரணங்கள் சேதமடைந்துள்ளதாகத் தெரிகிறது.
+
+மதிமாறன் இயக்கத்தில் சூரி நடித்து வரும் படம் ‘மண்டாடி’. இதன் படப்பிடிப்பு ராமநாதபுரம் சுற்றியுள்ள பகுதியில் நடைபெற்று வருகிறது. இதில் தொண்டி என்ற பகுதியில் கடலில் முக்கிய காட்சிகளை படமாக்கி வந்தது படக்குழு. அப்போது எதிர்பாராத விதமாக கேமரா இருந்த படகு கவிழ்ந்து விபத்துக்குள்ளானது. இதில் படகில் இருந்த 2 பேர் கடலில் மூழ்கினர். அவர்களை சுற்றியிருந்தவர்கள் பத்திரமாக மீட்டார்கள். இந்த விபத்தில் எந்தவொரு உயிர்ச் சேதமும் ஏற்படவில்லை.
+
+ஆனால், கேமராக்கள் கடல் நீரில் வீழ்ந்ததில் கடும் சேதம் ஏற்பட்டுள்ளது. இதன் மதிப்பு மட்டும் ரூ.1 கோடி வரை இருக்கும் என மதிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/da803077.json)
+
+---
+
+### வட்டி விகித கட்டமைப்பு மாற்றம் குறித்து  ஹர்ஷ கேள்வி
+
+*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-விகித-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
+
+மத்திய அதிவேக நெடுஞ்சாலை திட்டத்தின் நிதியுதவியின் வட்டி விகித கட்டமைப்பை மாற்றுவதற்கான முன்மொழிவு குறித்து பொது நிதி குழுவின் (CoPF) தலைவர் கலாநிதி ஹர்ஷ டி சில்வா கவலை தெரிவித்துள்ளார். இது நாட்டின் கடன் வாங்கும் செலவுகளை அதிகரிக்கக்கூடும் என்று எச்சரித்துள்ளார்.
+
+Xஇல் பதிவிட்ட அவர், ஏற்கனவே தாமதமான மற்றும் வளர்ந்து வரும் வட்டி செலுத்துதல்களால் சுமையாக இருந்த LKR 226 பில்லியன் திட்டம், தொடர்ச்சியான நிதி மற்றும் ஒப்பந்த நிச்சயமற்ற தன்மைகள் காரணமாக மதிப்பாய்வு செய்யப்பட்டதாக கூறினார்.
+
+ஜனாதிபதி அனுர குமார திசாநாயக்கவின் கீழ் இந்த திட்டம் மிகுந்த ஆரவாரத்துடன் மீண்டும் தொடங்கப்பட்ட போதிலும், முக்கிய ஒப்பந்தக்காரரான MCC உடனான பேச்சுவார்த்தைகள், அவர்களின் உரிமைகோரல்கள் குறித்தும், திருத்தப்பட்ட 500 மில்லியன் அமெரிக்க டொலர் கடன் வசதி குறித்து சீன EXIM வங்கியுடனும் பேச்சுவார்த்தைகள் முழுமையடையாமல் இருப்பதாக அவர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/b1a1d392.json)
+
+---
+
+### பாதாளக்குழுக்களுடன் தொடர்புள்ள  அரசியல்வாதிகள் கலக்கமடைந்துள்ளனர் ; அமைச்சர் ஆனந்த விஜேபால தெரிவிப்பு
+
+*2025-10-05 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226941) · `ta`
+
+தடுப்புக் காவலில் வைக்கப்பட்டுள்ள பாதாளக் குழுக்களின் உறுப்பினர்களான கெஹல்பத்தரே பத்மே உள்ளிட்ட தரப்பினரிடம் முறையான விசாரணைகள் மேற்கொள்ளப்படுகின்றன. அரசியல்வாதிகள் அச்சமடைய தேவையில்லை. தவறு செய்தவர்கள், பாதாள குழுக்களுடன் தொடர்பில் இருந்தவர்கள் கலக்கடைந்துள்ளமை நன்றாக தெரிகிறதென பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+கொழும்பில் சனிக்கிழமை (04)  நடைபெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+சட்டத்தின் பிரகாரம் பொலிஸார் மற்றும் இலஞ்சம் அல்லது ஊழல் பற்றிய ஆணைக்குழுவின் அதிகாரிகள் முறையாக விசாரணைகளை மேற்கொண்டு ஊழல்வாதிகளை கைது செய்து நீதிமன்றத்தில் முன்னிலைப்படுத்துகிறது. சாட்சியங்கள் சமர்ப்பிக்கப்படுகிறது.
+
+ஊழல்வாதிகள் மற்றும் அரச நிதியை மோசடி செய்தவர்களை கைது செய்யும் போது அதனை அரசியல் பழிவாங்கல் என்று எதிர்க்கட்சியினர் குறிப்பிடுகிறார்கள். அரசியல் பழிவாங்கல்களை முன்னெடுக்க வேண்டிய தேவை அரசாங்கத்துக்கு கிடையாது.
+
+...
+
+[Data](articles/ef186435.json)
+
+---
+
+### රිය අනතුරින් තිදෙනකු මරුට
+
+*2025-10-05 12:53:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රය-අනතරන-තදනක-මරට/101-680758) · `si`
+
+කොළඹ සිට අක්කරේපත්තුව දක්වා ධාවනය වූ ලංගම බස් රථයක් හා කුරුණෑගල සිට නාරම්මල දක්වා ධාවනය වූ බට්ටා වර්ගයේ ලොරි රථයක් මුහුණට මුහුණ ගැටී සිදු වු අනතුරින් ලොරි රථයේ ගමන් කළ රියදුරු හා තවත් පුද්ගලයින් දෙදනකු මියගොස්  ඇතැයි පොලීසිය කියයි.
+
+තුවාල ලැබූ තවත් තිදෙනකුද නාරම්මල හා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කර ඇති බව නාරම්වල පොලිසිය සඳහන් කළේය. මෙසේ මියගොස් ඇත්තේ  වයස අවුරුදු 41, 80 සහ 82 හැවිරිදි ලොරි රථයේ ගමන් කළ පොළොන්නරුව ප්‍රදේශයේ පදිංචි කරුවන් බව පොලිසිය කියයි.
+
+මිය ගොස් ඇත්තේ රියදුරු, ඔහුගේ නැන්දම්මා හා මාමණ්ඩිය බවත් තුවාල ලැබූ කාන්තාවක් සහ දරුවන් දෙදෙනෙකු කුරුණෑගල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන බවත් කියයි.
+
+◼️
+
+[Data](articles/62ed9f94.json)
+
+---
+
+### இந்தியாவில் டார்ஜிலிங்கில் மண்சரிவு; 14 பேர் உயிரிழப்பு
+
+*2025-10-05 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226937) · `ta`
+
+இந்தியாவில், மேற்கு வங்காள மாநிலம் டார்ஜிலிங்கில் நேற்று இரவு கடுமழை மழை பெய்துள்ளது. இதனால் அங்குள்ள மிரிக் மற்றும் சுகியா பொகாரி ஆகிய இடங்களில் மண்சரிவுகள் ஏற்பட்டுள்ளன.
+
+மேலும் மிரிக் என்ற இடத்தில் பாலம் இடிந்து விழுந்தது. மண்சரிவு மற்றும் பாலம் இடிந்து விழுந்த சம்பவத்தில் சிக்கி அங்கு இதுவரை 14 பேர் உயிரிழந்துள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+இதனிடையே நிலச்சரிவு காரணமாக டார்ஜிலிங்கில் இருந்து சிக்கிம் செல்லும் முக்கிய வீதிகளில் போக்குவரத்து முழுவதுமாக துண்டிக்கப்பட்டுள்ளது. இதனால் நவராத்திரி விடுமுறையை கொண்டாட டார்ஜிலிங் சென்ற ஏராளமான சுற்றுலா பயணிகள், தற்போது அங்கேயே சிக்கித் தவிக்கும் நிலை ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2fd93732.json)
+
+---
+
+### රංගගේ පුටුව එන සතියේ මැතිසබයට
+
+*2025-10-05 12:38:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රගග-පටව-එන-සතය-මතසබයට/101-680757) · `si`
+
+අල්ලස් හෝ  දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජෙනරාල්  රංග දිසානායක මහතාගේ පත්වීම සම්බන්ධයෙන් සමගි  ජන බලවේගය ලබන සතියේ පාර්ලිමේන්තුවේදී දීර්ඝව  ප්‍රශ්න කිරීමට  නියමිතය.
+
+ඔහු පත් කිරීමට අනුමැතිය දී ඇත්තේ විපක්ෂ නායක සජිත් ප්‍රේමදාස සහ කළුතර දිස්ත්‍රික් මන්ත්‍රී අජිත් පී  පෙරේරා යන මහත්වරුන්  නියෝජනය කරන ව්‍යවස්ථා සභාවෙන් යැයි  කර්මාන්ත අමාත්‍ය  සුනිල් හඳුන්නෙත්ති  මහතා පසුගියදා ප්‍රකාශ කර තිබිණ. මෙම ප්‍රකාශය සැලකිල්ලට ගෙන එම පත් කිරීම පිළිබඳව කරුණු දැක්වීමට සමගි  ජන බලවේගය බලාපොරොත්තු වන බව   ආරංචි මාර්ග සඳහන් කළේය.
+
+රංග දිසානායක මහතා ජනතා විමුක්ති පෙරමුණේ නීති අංශයේ කටයුතු කර ඇති බවට එහි හිටපු  නායකයකු වන නන්දන ගුණතිලක මහතා පසුගියදා ප්‍රකාශ කළේය. මෙම ප්‍රකාශය සම්බන්ධයෙන්ද සමාජයේ ආන්දෝලනයක් මතුව ඇත.
+
+◼️
+
+[Data](articles/3b1100a2.json)
+
+---
+
+### ඒකාබද්ධ විපක්ෂයෙන් ලොකු  ජන  රැලියක්  කොළඹට
+
+*2025-10-05 12:34:25* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඒකබදධ-වපකෂයන-ලක-ජන-රලයක-කළඹට/101-680756) · `si`
+
+ඒකාබද්ධ විපක්ෂය කොළඹදී   ළඟදීම ප්‍රධාන පෙළේ රැස්වීමක් පැවැත්වීමට එම පක්ෂවල නායකයන් තීරණය කර ඇත.
+
+මෙම තීරණය ගෙන ඇත්තේ ඉකුත් බ්‍රහස්පතින්දා කොළඹ හෝටලයකදී  පැවති නායක හමුවකදීය.
+
+එක්සත් ජාතික පක්ෂයේ සම්මේලනය සාර්ථක කර ගැනීමට සහය දුන් දේශපාලන නායකයන්  සහ  ප්‍රධාන පෙළේ  ක්‍රියාකාරීන්ට සංග්‍රහ   කිරීමට  මෙම හමුව සංවිධාන කර තිබිණ.
+
+◼️
+
+[Data](articles/77b1b5e4.json)
+
+---
+
+### மாய­மான உண்மை ஆணைக்­குழு
+
+*2025-10-05 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/226919) · `ta`
+
+ஜெனி­வாவில் கடந்த 26 ஆம் திகதி, வலிந்து காணாமல் ஆக்­கப்­பட்­ட­வர்கள் தொடர்­பான ஐ.நா. குழுவின் 29  ஆவது அமர்வில் இலங்கை பற்­றிய மீளாய்வு இடம்­பெற்­றி­ருந்­தது.
+
+◼️
+
+[Data](articles/1a0ab38f.json)
+
+---
+
+### வாழைச்சேனையில் கட்டாக்காலி கால்நடைகள் அதிகரிப்பு ; உரிமையாளர்களுக்கு எதிராக சட்டநடவடிக்கை - பிரதேச சபை தவிசாளர்
+
+*2025-10-05 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226931) · `ta`
+
+கோறளைப்பற்று வாழைச்சேனை பிரதேச சபை பிரிவுக்குட்பட்ட பகுதிகளில் கட்டாக்காலி கால்நடைகளின் தொல்லை அதிகரித்துக் காணப்படுவதாக பிரதேச சபை தவிசாளர் எஸ்.சுதாகரன் தெரிவித்தார்.
+
+இவ்வாறு கட்டாக்காலியாக வீதிகளில் திரியும் ஆடு, மாடு, போன்ற கால்நடைகளினால் தொடர்ந்தும் வீதி விபத்துக்கள் ஏற்படுகின்றன.
+
+அத்துடன், காட்டாக்காலி கால்நடைகள் வெளிநாட்டு, உள்நாட்டு சுற்றுலாப் பயணிகள் மற்றும் பாதசாரிகளுக்கு பெரும் அசௌகரியங்களை ஏற்படுத்தி வருகின்றன.
+
+எனவே, ஆடு, மாடு வளர்ப்பாளர்கள் தங்களுடைய கால்நடைகளை வீதிகளில் விடாமல் தங்களுடைய வீடுகளில் வளர்க்குமாறும் அல்லது மேய்ச்சல் நிலங்களுக்கு அனுப்பி அதனை பராமரிக்குமாறும் தவிசாளர் வேண்டிக் கொண்டுள்ளார்.
+
+இந்த அறிவுறுத்தலை மீறி கால்நடைகளை வீதிகளில் விடும் உரிமையாளர்களுக்கு எதிராக கடும் சட்டநடவடிக்கை எடுக்கப்படும் எனவும் தவிசாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a0a39256.json)
+
+---
+
+### ලොරි බස් ගැටී තිදෙනෙක් මරුට
+
+*2025-10-05 12:21:26* · [`adalk`](https://www.ada.lk/picture_story/ලොරි-බස්-ගැටී-තිදෙනෙක්-මරුට/10-418919) · `si`
+
+අද 05 අලුයම 0230 ට පමණ කොළඹ සිට අක්කරේපත්තු දක්වා ධාවනය වූ ලංගම බස් රථය හා කුරුණෑගල දෙස සිට නාරම්මල දෙසට ධාවනය වූ මැක්සිමෝ බට්ටා වර්ගයේ ලොරි රථය නාරම්මල පොලිස් ස්ථානයට මීටර් 200 පමණ දුරින් පිහිටි රිවසයිඩ් හෝටලය අසල දී මුහුණට මුහුණ ගැටීමෙන් සිදු අනතුරින් ලොරි රථයේ ගමන් කළ රියදුරු හා තවත් පුද්ගලයින් දෙදනකු මියගොස් තිදෙනෙකු තුවාල ලබා නාරම්වල හා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුලත් කර ඇති බව නාරම්වල පොලිසිය කියයි.
+
+මෘත ශරීර දෙකක් නාරම්මල රෝහලේ තැන්පත් කර ඇති අතර කුරුණෑගල රෝහලට ඇතුලත් කල පුද්ගයකුද මිය ගොස් ඇත.
+
+මෙසේ මියගොස් ඇත්තේ  වයස අවුරුදු 41, 80 සහ 82 හැවිරිදි ලොරි රථයේ ගමන් කළ පොළොන්නරුව ප්‍රදේශයේ පදිංචි කරුවන් බවත් පොලිසිය කියයි.
+
+මෙසේ මිය ගොස් ඇත්තේ රියදුරු හා ඔහුගේ නැන්දම්මා හා මාමණ්ඩිය බවත් තුවාල ලැබූ කාන්තාවක් සහ දරුවන් දෙදෙනෙකු කුරුණෑගල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබන අතර බස් රථයේ ගමන් කළ මගීන් කිසිවෙකුට තුවාල සිදු වී නොමැත.
+
+◼️
+
+[Data](articles/12e2c2fa.json)
+
+---
 
 ### The "confidence" station that transforms the lives of children with special needs
 
@@ -64,6 +244,42 @@ When dealing with certain struggles, it has made false decisions and handling it
 [Data](articles/6edd7e70.json)
 
 [Extended Data](ext_articles/6edd7e70.ext.json)
+
+---
+
+### මනම්පේරි මගේ ලේකම් කෙනෙක් නෙමෙයි
+
+*2025-10-05 11:43:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනමපර-මග-ලකම-කනක-නමය/101-680755) · `si`
+
+සම්පත් මනම්පේරි තමන්ගේ සම්බන්ධීකරණ ලේකම්වරයෙක් නොවන බව හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතා අද (5) පැවැසීය.
+
+එවැනි බොරු ප්‍රකාශ කරමින් මඩ ප්‍රහාර  දෙන කණ්ඩායමට එරෙහිව ගත හැකි උපරිම නීතිමය ක්‍රියාමාර්ග ගැනීමට සුදානම් බවද  ජොන්ස්ටන් ප්‍රනාන්දු මහතා ප්‍රකාශ කළේය.
+
+ඔහු මේ මේ බව ප්‍රකාශ කළේ  ශ්‍රී ලංකා පොදු ජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂගේ ප්‍රධානත්වයෙන්  එම පෙරමුණේ කුරුණෑගල දිස්ත්‍රික් කොට්ඨාස සංවිධායකයින් සඳහා පත්වීම් ලිපි ලබා දීමේ උත්සව අවස්ථාවේ පාක්ෂිකයින් අමතමිනි.
+
+“දැන් කියනවා මගේ සම්බන්ධීකරණ ලේකම්වරයෙක් මනම්පේරි කියන පුද්ගලයා කියලා. මතක තියා ගන්න. මම සම්බන්ධීකරණ ලෙකම්වරු පත් කළේ මේ දිස්ත්‍රික්කයේ අය පමණයි"
+
+“මේ බලන්නේ කොහෙන් හරි පහර දෙන්න.  අපට තවම නීතිය පිලිබඳ දැඩි විශ්වාසයක් තියනවා.  ඒ නිසා නීති මගින් ගන්න පුලුවන් උපරිමයෙන් අපි හැම අවස්ථාවකදිම  කටයුතු කරනවා යනුවෙන් ද  ජොන්ස්ටන් ප්‍රනාන්දු මහතා  පැවසුවේය.
+
+◼️
+
+[Data](articles/fdefc143.json)
+
+---
+
+### විසුම්පායටත් ආයෝජකයකු සොයයි
+
+*2025-10-05 11:34:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වසමපයටත-ආයජකයක-සයය/101-680754) · `si`
+
+කොළඹ නගරයේ ප්‍රධාන පෙළේ  රජයේ ගොඩනැගිල්ලක් වන  විසුම්පාය සංචාරක ප්‍රවර්ධන ව්‍යාපෘතියක් වෙනුවෙන්  යොමු කිරීමට  රජය මේ දිනවල සුදුසු   ආයෝජකයකු සොයමින් සිටි.
+
+මේ සම්බන්ධයෙන් අප සමග අදහස් දැක්වූ නාගරික සංවර්ධන නිවාස සහ  ඉදිකිරීම් අමාත්‍ය ආචාර්ය අනුර කරුණාතිලක මහතා පැවසුවේ එම ගොඩනැගිල්ල  දැනට වසා දමා ඇති බවයි.
+
+දේශපාලනඥයෝ රැසක් පසුගිය කාලයේදී   මෙම සුවිසල් ගොඩනැගිල්ල තමන්ගේ නිල නිවාසය ලෙස යොදා ගත්හ. හිටපු අගමැතිනි සිරිමාවෝ බණ්ඩාරනායක, දි.මු. ජයරත්න, අනුරුද්ධ රත්වත්තේ, ලක්ෂ්මන් කදිරගාමර්, මංගල සමරවීර සහ  මහාචාර්ය ජී, එල්. පීරිස්  ආදීහු  එම පිරිස වෙති.
+
+◼️
+
+[Data](articles/d09cd5d8.json)
 
 ---
 
@@ -110,6 +326,24 @@ The Health and Mass Media minister said that he would not follow the "promising 
 [Data](articles/e32114d3.json)
 
 [Extended Data](ext_articles/e32114d3.ext.json)
+
+---
+
+### ඇල්පිටිය රෝහලට ’’මල් පිපෙන’’ ආරංචියක්
+
+*2025-10-05 11:31:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇලපටය-රහලට-මල-පපන-ආරචයක/1-680753) · `si`
+
+මෙරට අක්‍රීයව, විසිරී තිබුණු රෝහල් සංවර්ධන කමිටු  සක්‍රීය කිරීමට ප්‍රමුඛතාවය ලබාදී කටයුතු කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+අමාත්‍යවරයා මේ බව කීවේ ඇල්පිටිය මූලික රෝහලේ රෝහල් සංවර්ධන  කමිටුවේ දායකත්වයෙන් රෝහලේ භෞත චිකිත්සක ඒකකයට රුපියල් පහළොස් ලක්ෂ පනස් දහසක් වටිනා නවීන යන්ත්‍ර දෙකක් පිරිනැමීම සහ රෝහල් පොලීසිය සඳහා රුපියල් ලක්ෂ 12 ක වියදමින් ගොඩනැගිල්ලක් ඉදිකිරීම වෙනුවෙන් මුල්ගල් තැබීමේ උත්සවයේදීය.
+
+සක්‍රීය සහ ශක්තිමත් රෝහල් සංවර්ධන කමිටු සෞඛ්‍ය ක්ෂේත්‍රය තුළ ක්‍රියාත්මක වීම  අත්‍යාවශ්‍ය බවත්, සෞඛ්‍ය අමාත්‍යාංශයේ රාජකාරි භාරගෙන සිදු කළ ප්‍රථම කාර්ය රොහල් සංවර්ධන කමිටු විධිමත් කිරීමට කටයුතු කිරීම බවත් අමාත්‍යවරයා කීය.
+
+අක්‍රීයව, විසිරී තිබුණු රෝහල් සංවර්ධන කමිටු  ජාතික රෝහලේ සිට ප්‍රාථමික සෞඛ්‍ය සත්කාර ඒකකය දක්වා ඒ ඒ රෝහල් වලට ගැලපෙන ලෙස සක්‍රීය කිරීමට කටයුතු කළ බව ද අමාත්‍යවරයා පැවැසීය.
+
+...
+
+[Data](articles/1c0ece1b.json)
 
 ---
 
@@ -251,6 +485,24 @@ To be produced before the Negombo Magistrate's Court on 10/08 to the Negombo Mag
 
 ---
 
+### ලක්ෂ 40ක දුම්වැටි ගුවන්තොටේ හිරවෙයි
+
+*2025-10-05 11:15:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ලකෂ-40ක-දමවට-ගවනතට-හරවය/1-680752) · `si`
+
+රුපියල් ලක්ෂ හතලිස් පහක් වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීතිවිරෝධී ලෙස මෙරටට රැගෙන විත් , ඒවා කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි ශ්‍රී ලාංකික ගුවන් මගියෙකු අද(05)  අලුයම ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මොහු පුත්තලම , කල්පිටිය ප්‍රදේශයේ පදිංචි 44 හැවිරිදි ධීවර කාර්මිකයෙකි .
+
+මොහු අද  අලුයම 05.25 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි . ඔහු විසින් රැගෙන ආ ගමන් මලු 02 ක් තුළ " ප්ලැටිනම්'' වර්ගයේ දුම්වැටි 30,000 ක් අඩංගු දුම්වැටි කාටූන් 150 ක් සගවා ගෙන තිබුණි .
+
+මෙම ගුවන් මගියා සහ ඔහු විසින් නීතිවිරෝධී ලෙස මෙරටට රැගෙන ආ දුම්වැටි තොගය එළඹෙන 10/08 දින මීගමුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට
+
+◼️
+
+[Data](articles/47eb3847.json)
+
+---
+
 ### Nipple. Children's Park
 
 *2025-10-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226926) · `ta`
@@ -299,6 +551,24 @@ Investigations into him, it was revealed that the banned sea cards were purchase
 
 ---
 
+### විමල්ට තංගල්ල  පොලිසියෙන් කැඳවීමක්
+
+*2025-10-05 11:01:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වමලට-තගලල-පලසයන-කඳවමක/1-680751) · `si`
+
+හිටපු අමාත්‍ය විමල් වීරවංශ මහතාට හෙට(6) තංගල්ල මූලස්ථානයේ  පෙනී සිටින්නැයි  දැනුම් දී ඇත.
+
+බෙලිඅත්තේ සනා නමැත්තා සම්බන්ධයෙන් මාධ්‍යයට කළ ප්‍රකාශයක් සම්බන්ධයෙන් කරුණු විමසීම සඳහා ඔහු මෙසේ කැඳවා ඇතැයි ආරංචි මාර්ග සඳහන් කරයි.
+
+වීරවංශ මහතා හෙට පෙරවරු 10.00 ට තංගල්ල පොලිසියේ පෙනී සිටීමට නියමිතය.
+
+තංගල්ල  සීනි මෝදර දී මත්ද්‍රව්‍ය සොයා ගැනීමේ සිද්ධිය සම්බන්ධයෙන්  යාත්‍රාව සමඟ අත්අඩංගුවට ගත් බෙලිඅත්තේ සනා නැමැත්තා පොලිසිය විසින්  රැඳවුම් නියෝග මත රඳවාගෙන ප්‍රශ්න කරගෙන  යනු ලැබේ.
+
+◼️
+
+[Data](articles/5ecc447a.json)
+
+---
+
 ### Minister Wimal calls from Tangalle
 
 *2025-10-05 11:01:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වමලට-තගලල-පලසයන-කඳවමක/101-680751) · `si`
@@ -316,6 +586,20 @@ The police are detained by the police on detention orders, who was arrested in c
 [Data](articles/c4e99f98.json)
 
 [Extended Data](ext_articles/c4e99f98.ext.json)
+
+---
+
+### ඇගිල්ල නොගහා රේගුවේ නිලධාරින් කෝටි 335 ක මුදලක් අරගෙන
+
+*2025-10-05 10:57:00* · [`adalk`](https://www.ada.lk/breaking_news/ඇගිල්ල-නොගහා-රේගුවේ-නිලධාරින්-කෝටි-335-ක-මුදලක්-අරගෙන/11-418918) · `si`
+
+ඇගිලි සලකුණු යන්ත්‍ර භාවිතා කිරිමකින් තොරව  ශ්‍රි ලංකා රේගුවේ නිලධාරින් 2335 දෙනෙකු සදහා  වැටුප්,වේතන,අතිකාල, නිවාඩු දින වැටුප් සහ  දිරිදිමනා වශයෙන් ඉකුත් වර්ෂයේ දි (2024)  රුපියල් තුන්සිය තිස්නම කෝටි, පනස්අටලක්ෂ, හැටහත්දහස් එකසිය විසි එකක (3,395,867,121)  මුදලක් ගෙවා ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති නවතම විගණන වාර්තාවක් මගින් අනාවරණය වි ඇත.
+
+සියලු රජයේ සේවකයින්  සිය පැමිණිම සහ පිටවිම සටහන් කිරිම සදහා  ඇගිලි සලකුණු යන්ත්‍ර භාවිතා කළ යුතුය.එහෙත්  ශ්‍රිලංකා රේගුවේ නිලධාරින්ට ඇගිලි සලකුණු යන්ත්‍ර භාවිතා කිරිමකින් තොරව වැටුප්,වේතන,අතිකාල, නිවාඩු දින වැටුප් සහ  දිරිදිමනා වශයෙන් රජයේ ඒකාබද්ධ අරමුදලින් ගෙවා ඇති මුදල රුපියල් දෙසියතිස්කෝටි,අසුහයලක්ෂ,අනුහතර දහස් හත්සිය හෑත්තැහතකි.(2,308,694,777)  රේගු අතිකාල නැව්බඩු පිරික්ෂා කිරිමේ  ගාස්තු හා තොරතුරු තාක්ෂණ සන්නිවේදන අරමුදල මගින් රුපියල්  එකසියඅටකෝටි,හැත්තැඑක්ලක්ෂ,හැත්තැදෙදහස්,තුන්සියහතලිස්හතරක මුදලක් (1,087,172,344) ගෙවා තිබුණි.
+
+...
+
+[Data](articles/a425a9e9.json)
 
 ---
 
@@ -367,6 +651,24 @@ The driver of the bus has been arrested in connection with the accident and the 
 
 ---
 
+### ’’බිඳින්න හදන කොට බැඳීම් ශක්තිමත් වෙනවා’’
+
+*2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/1-680750) · `si`
+
+බිඳ දැමීමට කරන උත්සහයන් තුළින් තව තවත් බැඳීම් ශක්තිමත් විය හැකි බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා සඳහන් කරයි.
+
+මහින්ද රාජපක්ෂ මහතා මේ බව පවසන්නේ සිය නිල ෆේස්බුක් පිටුවේ සටහනක් තබමිනි.
+
+ජීවිතයෙන් බොහෝ කාලයක් ජනතාව අතර ගතකළ මට ජනතාවගේ ආදරය හුරුපුරුදුය. විශ්වාසය සහ අන්‍යෝන්‍ය ගෞරවය යන කරුණු මත පදනම් වූ ජනතා ආදරය ලාභ අරමුණු වලින් තොර වූවකි.
+
+එමනිසා, එහි වටිනාකම අන් කිසිදාටත් වඩා වැඩිය. මෙය දේශපාලනික සම්බන්ධතාවයක් පමණක් නොවූ හෘදයාංගම බැඳීමක් නිසාම බිඳ හෙලීමට ද අපහසු බව කිව යුතුමය. බිඳ දැමීමට කරන උත්සහයන් තුළින් තව තවත් බැඳීම් ශක්තිමත් විය හැක. ජන නායකයෙකු ලෙස ලැබිය හැකි උපරිම සතුට, ජනතාව සමඟ ගෙවන මෙම කාලය පුරාවටම මම අත්විඳිමි. සැමට ගෞරවනීය ස්තුතිය පුද කරමි.
+
+◼️
+
+[Data](articles/0a191eb3.json)
+
+---
+
 ### '' Developing ties is strengthened ''
 
 *2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/101-680750) · `si`
@@ -409,6 +711,22 @@ The suspect and the seized cigarettes will be produced at the Negombo Magistrate
 
 ---
 
+### රන් බඩු සොරකමේ ගිය යුවළ මාට්ටු
+
+*2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රන-බඩ-සරකම-ගය-යවළ-මටට/1-680749) · `si`
+
+ස්වර්ණාභරණ මිලදීගන්නා මුවාවෙන් මහනුවර නගරයේ ස්වර්ණාභරණ ආයතන වලට ඇතුළු වී ස්වර්ණාභරණ පරීක්ෂා කරන අතරතුර ඊට ව්‍යාජ ස්වර්ණාභරණ තබා නියම ස්වර්ණාභරණ සොරකමේ යෙදුණ බව කියන තරුණ විවාහක යුවළක් අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+මහනුවර නගරයේ ස්වර්ණාභරණ අලෙවි සැලකින් මහනුවර මූලස්ථාන පොලිසියේ අපරාධ අංශයට ලද දුරකථන ඇමතුමකට අනුව වහාම ක්‍රියාත්මක වී ඇති එහි නිලධාරීන් අදාළ ස්වර්ණාභරණ ආයතනයට ගොස් සැක කටයුතු යුවළ පරීක්ෂා කිරීමේදී ඔවුන් විසින් සොරකම් කරන ලද ස්වර්ණාභරණ සඟවාගෙන සිටියදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+කළාතුඔය ඇතුල්ගම ප්‍රදේශයේ පදිංචිකරුවන් වන එමයුවළ අවුරුදු 20-22 වයසේ පසුවන්නන් බව පොලිසිය කියයි. ඔවුන්ගෙන් ලද තොරතුරු වලට අනුව මහනුවර ප්‍රදේශයේ ප්‍රධාන පෙළේ බැංකු වලට උගස්කොට තිබූ සොරකම් කරන ලද ස්වර්ණාභරණ තොගයක් සොයාගෙන ඇති අතර මෙම යුවළට හසු වූ වෙනත් ස්වර්ණාභරණ අලෙවි මධ්‍යස්ථාන ඇත්දැයි සොයා පොලිස් විමර්ශන සිදු කෙරෙමින් පවතී.
+
+◼️
+
+[Data](articles/47238568.json)
+
+---
+
 ### Couple left in stock of gold
 
 *2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රන-බඩ-සරකම-ගය-යවළ-මටට/101-680749) · `si`
@@ -447,6 +765,22 @@ Similarly, the team for the T20 bottles will be selected as Sur Yaku Mar Yadav a
 
 ---
 
+### උඩරට අර්තාපල්  කිලෝවට රජයෙන් රු. 210 ක්
+
+*2025-10-05 10:35:57* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-අර්තාපල්--කිලෝවට-රජයෙන්-රු--210-ක්/11-418917) · `si`
+
+උඩරට අර්තාපල් ගොවීන්ගේ අස්වනු කුණු කොල්ලයට යෑම වැළැක්වීම සඳහා  එක් ගොවියකුගෙන් කිලෝ දෙදාහක්  බැගින් රජය  මිලදී ගන්නා බව වැවිලි කර්මාන්ත ඇමැති සමන්ත විද්‍යාරත්න මහතා  පැවසීය .
+
+මේ දිනවල අර්තාපල් අස්වනු නෙළීම ආරම්භ කර ඇති අතර මිල පහල යාම හේතුවෙන්  ගොවි ජනතාව අසීරුවට පත් වී ඇති බවත් මේ නිසා  වෙළෙඳ ඇමති වසන්ත සමරසිංහ මහතා සමග සාකච්ඡා කර මෙම තීරණයට එළඹුණු බවත්  ඇමැති  සමන්ත  විද්‍යාරත්න  මහතා පැවසීය.
+
+අතර  මැදියන්ගෙන් තොරව කිලෝවක්  රුපියල් 210 බැගින්  මිලදී  ගැනීමට රජය  තීරණය  කර තිබේ .මෙම  අර්තාපල්  අස්වැන්න  සතොස  සහ කාගිල්ස් ෆුඩ් සිටි  මගින්  රට පුරා අලෙවි කෙරේ.
+
+◼️
+
+[Data](articles/e60f54db.json)
+
+---
+
 ### Fuel station in Neduntivu
 
 *2025-10-05 10:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தீவில்-எரிபொருள்-நிலையம்/175-365743) · `ta`
@@ -460,6 +794,22 @@ Addressing a function in Jaffna, the Minister said the project would be implemen
 [Data](articles/3d997d91.json)
 
 [Extended Data](ext_articles/3d997d91.ext.json)
+
+---
+
+### තැපෑලට අලුතින් සහායකයන් 731ක්
+
+*2025-10-05 10:26:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපලට-අලතන-සහයකයන-731ක/1-680748) · `si`
+
+ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවේ ප්‍රථමික ශිල්පීය නොවන සේවා ගණයේ III ශ්‍රේණියේ තැපැල් සහයක තනතුරට 731 දෙනකු තෝරා ගත් බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය පවසයි.
+
+2021 වර්ෂයෙන් පසු ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක බඳවාගැනීම් සිදුකර නොමැති අතර ඒ හේතුවෙන් පසුගිය වර්ෂය අවසානය වන විට තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයක පුරප්පාඩු 1982 ක් පැවතිණි. එවන් පුරප්පාඩු සංඛ්‍යාවක් සමඟ දෙපාර්තුමේන්තුවේ කටයුතු පවත්වා ගෙන යාම දැඩි අර්බුදකාරී තත්වයක් මතු වු හෙයින් ඊට විසැදුමක් ලෙස අදාල පුරප්පාඩු සංඛ්‍යාවෙන් 1000 ක් බඳවා ගැනීම සඳහා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ඉල්ලීම පරිදි 2025 අගෝස්තු 19 වන දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇතැයි අමාත්‍යාංශය කියයි.
+
+ඒ අනුව මේ දක්වා තැපැල් දෙපාර්තුමේන්තුවේ ආදේශක සේවකයින් ලෙස ලියාපදිංචි වී සිටි නිසි සුදුසුකම් සම්පුර්ණ කළ පිරිස අතරින් ඉහත 731 දෙනෙකු මෙලෙස බඳවා ගැනීම සඳහා තෝරාගනු ලැබීය. තවත් තැපැල් සහයකයන් 269 දෙනෙකු ඉදිරියේ දී බඳවා ගැනීමට කටයුතු කරමින් සිටින බව  අමාත්‍යංශය පවසයි.
+
+...
+
+[Data](articles/316dbcbb.json)
 
 ---
 
@@ -530,6 +880,22 @@ According to Mrs. Diywnka Jayasuriya, the acting Director General of the Commiss
 [Data](articles/6c4f096a.json)
 
 [Extended Data](ext_articles/6c4f096a.ext.json)
+
+---
+
+### ඉඩම් කොමිසමේ ලොක්කා ඉවත් කරයි
+
+*2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඉඩම-කමසම-ලකක-ඉවත-කරය/1-680747) · `si`
+
+පද්මසිරි ලියනගේ මහතා ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් ධූරයෙන් ඉවත් කරනු ලැබ ඇත.
+
+ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවේ  අක්‍රමිකතා රැසක් පිළිබඳව පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේදී තොරතුරු අනාවරණය වීමෙන් පසු රජය මෙම පියවර ගෙන ඇතැයි  ආරංචි මාර්ග සඳහන් කරයි.
+
+ඒ අනූව දිනේකා  ජයසූරිය මහත්මිය එම කොමිෂන් සභාවේ  වැඩබලන අධ්‍යක්ෂ ජනරාල් ලෙස පත් කරනු ලැබ සිටින්නීය.
+
+◼️
+
+[Data](articles/af5f730e.json)
 
 ---
 
@@ -752,6 +1118,26 @@ Police say the exact cause of the shooting in the house has not yet been release
 [Data](articles/65e32bb0.json)
 
 [Extended Data](ext_articles/65e32bb0.ext.json)
+
+---
+
+### අද හවස වැස්ස
+
+*2025-10-05 09:04:08* · [`adalk`](https://www.ada.lk/breaking_news/අද-හවස-වැස්ස/11-418916) · `si`
+
+සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීම සඳහා හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එබැවින් ඒ සමඟ ඇති විය හැකි තද වැසි, තද සුළං සහ ප්‍රබල අකුණු මඟින් සිදු වන් අන්‍තුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවට දැනුම් දෙයි.
+
+දිවයිනේ බොහෝ පළාත්වල පස්වරු 1.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව එම දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව හා වයඹ පළාත්වලත් ගාල්ල, මාතර, යාපනය හා මන්නාරම දිස්ත්‍රික්කවලත් තැනින් තැන උදෑසන කාලයේදී වැසි ඇති විය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, උතුරු-මැද හා ඌව පළාත්වලත් වව්නියාව සහ මුලතිව් දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මිලි මීටර් 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+◼️
+
+[Data](articles/f8532373.json)
 
 ---
 
@@ -1548,463 +1934,5 @@ Ranil’s strength, according to the Constitution, came from his supremacy in Pa
 [Data](articles/e46bd8c3.json)
 
 [Extended Data](ext_articles/e46bd8c3.ext.json)
-
----
-
-### More fruit for their labour
-
-*2025-10-04 21:07:00* · [`islandlk`](http://island.lk/more-fruit-for-their-labour/) · `en`
-
-“They look close to dead,” says Sri Lankan farmer Shantha Dissanayake looking at his pruned mango trees.
-
-“They looked close to dead,” says Sri Lankan farmer, Shantha Dissanayake, about his mango trees.
-
-“However, this experiment has turned out to be a complete success.”
-
-Shantha has spent a lot of time worrying about elephants stomping over his mango orchards. But he became even more scared when agricultural experts came from abroad and hacked his trees down to relative shadows of their former selves. The trees are much shorter than before, with fewer but wider branches that allow sunlight to boost fruit quality and naturally prevent plant diseases.
-
-Zengxian Zhao, the man who cut the trees in the first place, laughed at Shantha’s memory of the event. “He was initially shocked, but he’s been convinced and is spreading the word,” said Zengxian, an expert on crop cultivation.
-
-...
-
-[Data](articles/4638013d.json)
-
-[Extended Data](ext_articles/4638013d.ext.json)
-
----
-
-### Why APEC Cannot Save Asia?
-
-*2025-10-04 21:05:00* · [`islandlk`](http://island.lk/why-apec-cannot-save-asia/) · `en`
-
-There is no rosy picture on the horizon for Asia, nor for much of the planet. West Asia will continue to burn, its embers fanned by the possibility of fresh escalations with Iran, even as the Gaza war drags towards a brutal close by the first quarter of next year. Ukraine remains the grand theatre for warmongers, with NATO edging towards deeper intervention against Russia, threatening to drag the world into a legal and moral limbo from which there may be no escape. Latin America fractures under its own contradictions: Argentina sinks into crisis under Javier Milei’s economic experiments, while Colombia’s Gustavo Petro, Brazil’s Lula da Silva, and others tilt eastwards in defiance of Washington’s grip.
-
-...
-
-[Data](articles/8fda0634.json)
-
-[Extended Data](ext_articles/8fda0634.ext.json)
-
----
-
-### CID confirms ‘Kajja’ followed Wasim Thajudeen’s car before murder
-
-*2025-10-04 21:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/113219/cid-confirms-kajja-followed-wasim-thajudeens-car-before-murder-) · `en`
-
-The Criminal Investigation Department (CID) has confirmed that Aruna Vidanagamage, also known as “Kajja”, was travelling in the jeep that followed rugby player Wasim Thajudeen’s car moments before his death.
-
-The CID has been conducting investigations into the murder of Thajudeen for the past 13 years.
-
-However, investigators have not yet been able to conclusively identify the individual directly responsible for committing the murder.
-
-In recent developments, Kajja’s wife had provided a statement to the investigators, confirming that Aruna Vidanagamage, who was recently killed in a shooting in Middeniya, was the person travelling in the jeep that followed Thajudeen’s car prior to his death.
-
-This identification was made after she was shown the relevant CCTV footage during questioning.
-
-Following this, CID investigations have verified that the individual seen in the footage is indeed Kajja, according to the department.
-
-...
-
-[Data](articles/a62c649a.json)
-
-[Extended Data](ext_articles/a62c649a.ext.json)
-
----
-
-### Reclaiming The Nation We Deserve, From The Shackles Of A Hollow Democracy: A Response
-
-*2025-10-04 20:55:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reclaiming-the-nation-we-deserve-from-the-shackles-of-a-hollow-democracy-a-response/) · `en`
-
-I refer to the above headed article by Mr. Anura K.T. De Silva (AKTDS) in the Colombo Telegraph of 17th September 2025, and wish to add more with my views as follows:
-
-1. The transition from British Colonial rule to Sri Lanka’s Independence came in stages. The Donoughmore Constitution of 1931 paved the way for the grant of Universal Adult Francise and for elections to the State Council. This gave rise to Political Parties amongst which Ceylon National Congress, the precursor of the United National Party, was in the vanguard for the struggle for Independence from colonial rule. There were other left wing Political Parties as Sama Samaja Party, and the Communist Party, Tamil Congress.
-
-...
-
-[Data](articles/36a31cbb.json)
-
-[Extended Data](ext_articles/36a31cbb.ext.json)
-
----
-
-### Fourth year kills four-year-old child
-
-*2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/101-680740) · `si`
-
-A four-year-old pre-school child died on the night school
-
-The deceased is the child's league with his grandfather and grandmother with his grandfather, while he was leaving a carnival in the Neguma area.
-
-The police said that due to the death of the child to vomit at home and severely ill in the house.
-
-The deceased has been identified as a four year old pre-school student, Haputhante, who was residing in Lenegala Saurada Mawatha.
-
-The death touguration of Homagama Sudden Death Inspector has ordered the bodies to send a bodic shares to the Tasquet after he was conducted by peacekeraq.
-
-Meegoda Police Constable Randikal Lakmalal was investigated.
-
-◼️
-
-[Data](articles/1116ebbb.json)
-
-[Extended Data](ext_articles/1116ebbb.ext.json)
-
----
-
-### විෂ සතෙකු සපා කෑමෙන් සිව් හැවිරිදි දරුවා මරුට
-
-*2025-10-04 20:47:29* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වෂ-සතක-සප-කමන-සව-හවරද-දරව-මරට/1-680740) · `si`
-
-A four-year-old pre-school child died on the night school
-
-The deceased is the child's league with his grandfather and grandmother with his grandfather, while he was leaving a carnival in the Neguma area.
-
-The police said that due to the death of the child to vomit at home and severely ill in the house.
-
-The deceased has been identified as a four year old pre-school student, Haputhante, who was residing in Lenegala Saurada Mawatha.
-
-The death touguration of Homagama Sudden Death Inspector has ordered the bodies to send a bodic shares to the Tasquet after he was conducted by peacekeraq.
-
-Meegoda Police Constable Randikal Lakmalal was investigated.
-
-◼️
-
-[Data](articles/9d33e02c.json)
-
-[Extended Data](ext_articles/9d33e02c.ext.json)
-
----
-
-### Ice rain to side in Badulla
-
-*2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බදලල-පතතකට-අයස-වස/101-680739) · `si`
-
-Wednesday, the Dasadalawala Disaster Management Center (DMC) says that about thirty houses have been damaged in the Divulaphalawela Region.
-
-The OIC of the Divulapalessa Police Inspector MDDA said that the trees blocked by road collas.
-
-The ice rained across the area for nearly a few months, the ice rained across the area nearly two hours this afternoon.
-
-He said that a number of houses were roofed roofed roofing, the roofs of the roofs of the houses, and the trees were damaged.
-
-Police have also interrupted the traffic on the Divulapurass Tharasa Teldeniya road in the Divulapurale Waltiya area on the Wallt 33000 Vallt in the Walasgala area.
-
-◼️
-
-[Data](articles/1b918964.json)
-
-[Extended Data](ext_articles/1b918964.ext.json)
-
----
-
-### Ice rain to side in Badulla
-
-*2025-10-04 20:46:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බදලල-පතතකට-අයස-වස/1-680739) · `si`
-
-Wednesday, the Dasadalawala Disaster Management Center (DMC) says that about thirty houses have been damaged in the Divulaphalawela Region.
-
-The OIC of the Divulapalessa Police Inspector MDDA said that the trees blocked by road collas.
-
-The ice rained across the area for nearly a few months, the ice rained across the area nearly two hours this afternoon.
-
-He said that a number of houses were roofed roofed roofing, the roofs of the roofs of the houses, and the trees were damaged.
-
-Police have also interrupted the traffic on the Divulapurass Tharasa Teldeniya road in the Divulapurale Waltiya area on the Wallt 33000 Vallt in the Walasgala area.
-
-◼️
-
-[Data](articles/c69e9294.json)
-
-[Extended Data](ext_articles/c69e9294.ext.json)
-
----
-
-### Baca Saman's confessigence
-
-*2025-10-04 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215346) · `si`
-
-Bako Saman has said that after another group of criminals were prepared to take responsibility after the killing of the Kirajah assassination, but they had not accepted the responsibility of their two children.
-
-That was during interrogation in the Western Province North Criminal Division.
-
-The suspect had said that the cafe is killed due to revealing his drug network.
-
-Backwo Saman has been recognized that he has credited a sum of Rs.
-
-He has said that he was trying to have a relationship with the Kjgina family.
-
-It is reported that Baka Saman has said that he had no need to kill the kjja children.
-
-In the meantime, Sampath Manampara has said that he was aware of the killing of the Kibhara.
-
-The suspect said that he had given firearms for a murder on the instructions of Beaka Saman's advice, police said.
-
-Investigations have been conducted further investigations to ensure resource Manamparai statements.
-
-...
-
-[Data](articles/5bcf346c.json)
-
-[Extended Data](ext_articles/5bcf346c.ext.json)
-
----
-
-### Some faces and lives from the mid 20th century
-
-*2025-10-04 19:56:00* · [`islandlk`](http://island.lk/some-faces-and-lives-from-the-mid-20th-century/) · `en`
-
-I have lived in exile in the United Kingdom for more years than I care to remember. Now, in retirement, my thoughts often drift back to my youth recalling the faces and names that once filled the media and shaped our lives, in our island paradise.
-
-The mid-twentieth century was a time of great upheaval, shaping not only the course of nations but also the lives of ordinary people like us. In Ceylon, the Second World War and the struggle for independence from British rule cast long shadows over our families and communities. These were the years in which we grew—from infants in our mothers’ arms to adults carrying the weight of responsibility in a changing world. It was a period of transition and enormous transformation.
-
-As a newly independent nation, unity among all its people was crucial for progress and prosperity, although at times this wisdom was overshadowed by the chaos of politics.
-
-...
-
-[Data](articles/4e3b312e.json)
-
-[Extended Data](ext_articles/4e3b312e.ext.json)
-
----
-
-### Lumumba alumni gather for nostalgic 50th anniversary
-
-*2025-10-04 19:49:00* · [`islandlk`](http://island.lk/lumumba-alumni-gather-for-nostalgic-50th-anniversary/) · `en`
-
-In the latter part of 1970, a group of us left for Moscow on scholarships—young, eager, and filled with dreams. Five years later, in 1975, we returned home with flying colours. Today, more than half a century later, some of us remain active in our professions, many have retired, while a few have drifted away from contact—and sadly, some are no longer with us.
-
-From the very first day we set foot in Moscow, our lives changed forever. That moment marked the beginning of a new chapter and a turning point in our personal journeys. The initial days were challenging—adjusting to the harsh Russian winter, adapting to a new culture, and finding our footing in an unfamiliar land. Yet, the years we spent at the prestigious Peoples’ Friendship University (then Lumumba University) with students from across the globe in the Soviet Union were nothing short of transformative.
-
-...
-
-[Data](articles/0b7883f4.json)
-
-[Extended Data](ext_articles/0b7883f4.ext.json)
-
----
-
-### Sampath Manamperi's brother -in -law arrested
-
-*2025-10-04 19:48:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரியின்-மைத்துனர்-கைது/175-365710) · `ta`
-
-Sampath Manamperi's brother -in -law was arrested this afternoon by the Northern Provincial Criminal Investigation Division in Biyagama.
-
-In this case, 555 grams of heroin, handgun and mehasin have been found ready for sale from the suspect.
-
-Further inquiries into the incident are being carried out by Linden Silva on the instructions of Western Province Assistant Superintendent of Police Rohan Olugala.. Remble
-
-◼️
-
-[Data](articles/1103f0f6.json)
-
-[Extended Data](ext_articles/1103f0f6.ext.json)
-
----
-
-### It is confirmed that the car was previously the car of the Thajadeen's car - CID says CID
-
-*2025-10-04 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215345) · `si`
-
-The Criminal Investigations Department (CID) has confirmed that the inquiry made by the jeep of the jeep that traveled by the jeep before the killing of his car before the killing of his car before the killing of his car before the killing of his car before murdered Tajadeen.
-
-The Criminal Investigation Department (CID) is investigated for 13 years on the murder of rugby playing Tajudine.
-
-However, he has not been able to identify the person who was still killed.
-
-His wife recently gave a statement to investigations into the investigation officials that he was assassinated in the jeep of the jeep that followed his car before the assassination of Thajdeen.
-
-Accordingly, the investigation officials have proved to be a man in the diagram in the relevant diagrams.
-
-The Department added that investigations are conducted to further confirm this.
-
-◼️
-
-[Data](articles/d42943a9.json)
-
-[Extended Data](ext_articles/d42943a9.ext.json)
-
----
-
-### Australian Monk Bhante Dhammika in Sri Lanka
-
-*2025-10-04 19:48:00* · [`islandlk`](http://island.lk/australian-monk-bhante-dhammika-in-sri-lanka-2/) · `en`
-
-Thank you. Last year I came briefly after being away for nearly 20 years. Now I’m delighted to be back again.
-
-I first visited your county when I was 14-years old when my parents took me to the UK. Our ship  stopped in Colombo for a day. I remember travelling from Fort to the Mount Lavinia Hotel and seeing all the coconut trees on each side of the road. I notice that there are none there now. Then I came in 1976 as a monk and I ended up staying for 20 years. I became a monk in India but it was in Sri Lanka that I learned Buddhism at a deeper level.
-
-Hasala – Over the last decades you have become quite well-known for your writings. How and why did you start writing?
-
-...
-
-[Data](articles/9997cdc1.json)
-
-[Extended Data](ext_articles/9997cdc1.ext.json)
-
----
-
-### Vijay's propaganda bus
-
-*2025-10-04 19:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விஜய்யின்-பிரச்சார-பேருந்தை-பறிமுதல்-செய்ய-உத்தரவு/54-365709) · `ta`
-
-41 people were killed in a congestion during a public meeting in Karur led by Vijay.
-
-Preliminary inquiries revealed that the reduction in the meeting was the cause of the incident.
-
-The Madras High Court has set up a special investigation team to investigate the Karur district incident. The court ordered the Karur police department to immediately hand over all the relevant documents to the Special Investigation Committee.
-
-In addition, the court has also banned political rallies, vehicle rallies and such public events on the state and national highways until the standard operational procedures are set.
-
-The order was issued when the four welfare petitions demanded to formulate the sustainable operational procedures for large gatherings to prevent incidents such as Karur congestion.
-
-The government also assured the court that no meetings would be allowed on the state and national highways, except for the reserved seats, until the standard operational procedures were finalized.
-
-...
-
-[Data](articles/9fb9f87f.json)
-
-[Extended Data](ext_articles/9fb9f87f.ext.json)
-
----
-
-### Young couple killed in accident
-
-*2025-10-04 19:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இளம்-தம்பதி-பலி/175-365708) · `ta`
-
-A young couple was killed when a motorcycle crashed into a lorry this afternoon at Kananwila area on the Horana-Moragahahena road.
-
-◼️
-
-[Data](articles/5d20f932.json)
-
-[Extended Data](ext_articles/5d20f932.ext.json)
-
----
-
-### Govt to continue renewable energy projects uninterrupted - Energy Minister
-
-*2025-10-04 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113218/govt-to-continue-renewable-energy-projects-uninterrupted-energy-minister) · `en`
-
-The Minister of Energy Kumara Jayakody has stated that the renewable energy projects initiated by the government will continue to implemented without interruption.
-
-However, the Minister added that any issues faced by the public due to these projects will be addressed humanely, and all possible measures will be taken to resolve them.
-
-The Minister said this while participating in the opening of the 5 megawatts solar power project constructed in the Hiyare area in Galle today (04).
-
-Speaking at the event, Minister Jayakody emphasized that renewable energy generation is a national necessity and an integral part of the country’s development program, and that everyone should recognize its importance.
-
-...
-
-[Data](articles/7bba4e0d.json)
-
-[Extended Data](ext_articles/7bba4e0d.ext.json)
-
----
-
-### Minister Saroja Bolraj Barbados to attend the 68th Commonwealth Parliamentary Conference
-
-*2025-10-04 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226905) · `ta`
-
-The Commonwealth Parliamentary Association (CPA), organized by the Commonwealth Parliamentary Association (CPC), will be held on Sunday (October 5) to 12th October, with the aim of discussing global parliament and political issues.
-
-The conference will be attended by Members of Parliament and MPs in the Commonwealth, representing Sri Lanka and the President of the Sri Lanka Parliamentary Women's Council (WPC), Minister of Women and Child Affairs, Saroja Savitri, Sukat Vasantha de Silva (Member of Parliament), Lawyer Sagarika Atavuda and the Route Member of Parliament, Rohanni, Member of Parliament, Rohanni, Member of Parliament, and Opposition Parliamentary Party.
-
-In this backdrop, a group of Minister Saroja Savitri Bolraj will be traveling to Barbados tomorrow (5th) to attend the conference, which will be held for a week, including various sub -seminars and various activities.
-
-◼️
-
-[Data](articles/adeb733a.json)
-
-[Extended Data](ext_articles/adeb733a.ext.json)
-
----
-
-### Underworld Group Member Pekho Saman's brother -in -law arrested in Biyagama
-
-*2025-10-04 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226906) · `ta`
-
-The brother -in -law of Pekho Saman, a member of the underworld group, has been arrested in Biyagama with narcotics and weapons, police said.
-
-The suspect was arrested during the raid carried out on the basis of confidential information received by the police.
-
-Police said 555 grams of heroin, a handgun and its bullets were recovered from the suspect.
-
-◼️
-
-[Data](articles/a9bdfeea.json)
-
-[Extended Data](ext_articles/a9bdfeea.ext.json)
-
----
-
-### Youth dies of Kavadi
-
-*2025-10-04 19:22:36* · [`adalk`](https://www.ada.lk/breaking_news/කාවඩි-නටමින්-සිටි-තරුණයා-හදිසියේ-මරුට/11-418912) · `si`
-
-A 20-year-old youth who was organized by the Medimba, Land in Ambalangoda, had sick suddenly sick.
-
-The victim is PM UK, a 20 year old, a 21 year old residents.
-
-The young man who was involved in the Kavadi dance was killed after the death of Kavadi dance to the Madampe Town.
-
-Family Relatives say that the deceased young man, who is a cricketer, had no infected diseases and the young man could not believe that the young man could not believe. The Ambalangoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/382fdbf7.json)
-
-[Extended Data](ext_articles/382fdbf7.ext.json)
-
----
-
-### Landslide warning announcement for several districts
-
-*2025-10-04 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215344) · `si`
-
-The National Building Research Organization has taken steps to issue a landslide warning announcements at several districts in several districts in several districts.
-
-The organization said that the warning announces will be effective from 6.00 pm to 6:00 pm tomorrow.
-
-Accordingly, the organization has taken steps to issue the alarm statement to Kothumbura, Bibile, Rattota, Bibila, Bibile, Bibile, Bibile, Bibile, Bibile, Biwala, Bibile in Matale District, Ukuwela, Bibile in Matale District, Badulla District.
-
-◼️
-
-[Data](articles/26d23a3c.json)
-
-[Extended Data](ext_articles/26d23a3c.ext.json)
-
----
-
-### Whatever the renewable energy is continuous
-
-*2025-10-04 19:13:08* · [`adalk`](https://www.ada.lk/breaking_news/පුනර්ජනනීය-බලශක්ති-කුමන-බාධක-ආවත්-අඛණ්ඩව-ක්‍රියාත්මක-කරනවා/11-418911) · `si`
-
-"Renewable energy projects continue. Because of the projects, all the steps that hindfully consider the problems of the people and solve them. The Energy Minister stated that everyone should understand that renewable energy generation was a national requirement and part of the national program.
-
-"It is like that as well as the restructuring program of the Ceylon Electricity Board. There is a government policy to ensure the government's government ownership in the electricity sector. We launched this program discussions with trade union representatives at all times being protected by employee rights privileges.. It is vital that the implementation of the restructuring program to win the objectives of the country's energy fields is essential. Therefore, it will continue to implement the program. "
-
-...
-
-[Data](articles/7272872c.json)
-
-[Extended Data](ext_articles/7272872c.ext.json)
-
----
-
-### Lands accident to five districts
-
-*2025-10-04 19:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/දසතරකක-පහකට-නය-අනතර/1-680738) · `si`
-
-With the excessive heavy rains, the National Building Research Institute has issued a landslide warning to 10 Divisional Secretariats in five districts tomorrow (4) at 6.00 pm.
-
-The landslides were issued today 4 pm on the Badulla, Ella, Hali-Ela, Passara, Kurunegala District, Kotmale, Kurunegala District, Kothuwela, and Matale District.
-
-Meanwhile, the Disaster Management Center (DMC) stated that two cows were killed in the Lightning Rahara, Hali, Hali, Hali, Haliela.
-
-◼️
-
-[Data](articles/90c481a7.json)
-
-[Extended Data](ext_articles/90c481a7.ext.json)
 
 ---

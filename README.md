@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 11:06:17**
+As of **2025-10-05 10:55:27**
 
 ## Newspaper Stats
 
-*Scraped **81,229** Articles*
+*Scraped **81,224** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 598
 dbsjeyarajcom | 637
 bbccomsinhala | 724
-lankadeepalk | 791
+lankadeepalk | 786
 colombotelegraphcom | 809
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,77 +27,11 @@ adaderanasinhalalk | 13,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,224 (100.0%) of 81,229 articles have been extended.
+81,224 (100.0%) of 81,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
-
-### ’’බිඳින්න හදන කොට බැඳීම් ශක්තිමත් වෙනවා’’
-
-*2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/101-680750) · `si`
-
-බිඳ දැමීමට කරන උත්සහයන් තුළින් තව තවත් බැඳීම් ශක්තිමත් විය හැකි බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා සඳහන් කරයි.
-
-මහින්ද රාජපක්ෂ මහතා මේ බව පවසන්නේ සිය නිල ෆේස්බුක් පිටුවේ සටහනක් තබමිනි.
-
-ජීවිතයෙන් බොහෝ කාලයක් ජනතාව අතර ගතකළ මට ජනතාවගේ ආදරය හුරුපුරුදුය. විශ්වාසය සහ අන්‍යෝන්‍ය ගෞරවය යන කරුණු මත පදනම් වූ ජනතා ආදරය ලාභ අරමුණු වලින් තොර වූවකි.
-
-එමනිසා, එහි වටිනාකම අන් කිසිදාටත් වඩා වැඩිය. මෙය දේශපාලනික සම්බන්ධතාවයක් පමණක් නොවූ හෘදයාංගම බැඳීමක් නිසාම බිඳ හෙලීමට ද අපහසු බව කිව යුතුමය. බිඳ දැමීමට කරන උත්සහයන් තුළින් තව තවත් බැඳීම් ශක්තිමත් විය හැක. ජන නායකයෙකු ලෙස ලැබිය හැකි උපරිම සතුට, ජනතාව සමඟ ගෙවන මෙම කාලය පුරාවටම මම අත්විඳිමි. සැමට ගෞරවනීය ස්තුතිය පුද කරමි.
-
-◼️
-
-[Data](articles/cf3fc139.json)
-
----
-
-### රන් බඩු සොරකමේ ගිය යුවළ මාට්ටු
-
-*2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රන-බඩ-සරකම-ගය-යවළ-මටට/101-680749) · `si`
-
-ස්වර්ණාභරණ මිලදීගන්නා මුවාවෙන් මහනුවර නගරයේ ස්වර්ණාභරණ ආයතන වලට ඇතුළු වී ස්වර්ණාභරණ පරීක්ෂා කරන අතරතුර ඊට ව්‍යාජ ස්වර්ණාභරණ තබා නියම ස්වර්ණාභරණ සොරකමේ යෙදුණ බව කියන තරුණ විවාහක යුවළක් අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
-
-මහනුවර නගරයේ ස්වර්ණාභරණ අලෙවි සැලකින් මහනුවර මූලස්ථාන පොලිසියේ අපරාධ අංශයට ලද දුරකථන ඇමතුමකට අනුව වහාම ක්‍රියාත්මක වී ඇති එහි නිලධාරීන් අදාළ ස්වර්ණාභරණ ආයතනයට ගොස් සැක කටයුතු යුවළ පරීක්ෂා කිරීමේදී ඔවුන් විසින් සොරකම් කරන ලද ස්වර්ණාභරණ සඟවාගෙන සිටියදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
-
-කළාතුඔය ඇතුල්ගම ප්‍රදේශයේ පදිංචිකරුවන් වන එමයුවළ අවුරුදු 20-22 වයසේ පසුවන්නන් බව පොලිසිය කියයි. ඔවුන්ගෙන් ලද තොරතුරු වලට අනුව මහනුවර ප්‍රදේශයේ ප්‍රධාන පෙළේ බැංකු වලට උගස්කොට තිබූ සොරකම් කරන ලද ස්වර්ණාභරණ තොගයක් සොයාගෙන ඇති අතර මෙම යුවළට හසු වූ වෙනත් ස්වර්ණාභරණ අලෙවි මධ්‍යස්ථාන ඇත්දැයි සොයා පොලිස් විමර්ශන සිදු කෙරෙමින් පවතී.
-
-◼️
-
-[Data](articles/0359f821.json)
-
----
-
-### තැපෑලට අලුතින් සහායකයන් 731ක්
-
-*2025-10-05 10:26:29* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තපලට-අලතන-සහයකයන-731ක/101-680748) · `si`
-
-ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවේ ප්‍රථමික ශිල්පීය නොවන සේවා ගණයේ III ශ්‍රේණියේ තැපැල් සහයක තනතුරට 731 දෙනකු තෝරා ගත් බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශය පවසයි.
-
-2021 වර්ෂයෙන් පසු ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක බඳවාගැනීම් සිදුකර නොමැති අතර ඒ හේතුවෙන් පසුගිය වර්ෂය අවසානය වන විට තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයක පුරප්පාඩු 1982 ක් පැවතිණි. එවන් පුරප්පාඩු සංඛ්‍යාවක් සමඟ දෙපාර්තුමේන්තුවේ කටයුතු පවත්වා ගෙන යාම දැඩි අර්බුදකාරී තත්වයක් මතු වු හෙයින් ඊට විසැදුමක් ලෙස අදාල පුරප්පාඩු සංඛ්‍යාවෙන් 1000 ක් බඳවා ගැනීම සඳහා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ඉල්ලීම පරිදි 2025 අගෝස්තු 19 වන දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇතැයි අමාත්‍යාංශය කියයි.
-
-ඒ අනුව මේ දක්වා තැපැල් දෙපාර්තුමේන්තුවේ ආදේශක සේවකයින් ලෙස ලියාපදිංචි වී සිටි නිසි සුදුසුකම් සම්පුර්ණ කළ පිරිස අතරින් ඉහත 731 දෙනෙකු මෙලෙස බඳවා ගැනීම සඳහා තෝරාගනු ලැබීය. තවත් තැපැල් සහයකයන් 269 දෙනෙකු ඉදිරියේ දී බඳවා ගැනීමට කටයුතු කරමින් සිටින බව  අමාත්‍යංශය පවසයි.
-
-...
-
-[Data](articles/730dff7d.json)
-
----
-
-### ඉඩම් කොමිසමේ ලොක්කා ඉවත් කරයි
-
-*2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉඩම-කමසම-ලකක-ඉවත-කරය/101-680747) · `si`
-
-පද්මසිරි ලියනගේ මහතා ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් ධූරයෙන් ඉවත් කරනු ලැබ ඇත.
-
-ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවේ  අක්‍රමිකතා රැසක් පිළිබඳව පොදු ව්‍යාපාර පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේදී තොරතුරු අනාවරණය වීමෙන් පසු රජය මෙම පියවර ගෙන ඇතැයි  ආරංචි මාර්ග සඳහන් කරයි.
-
-ඒ අනූව දිනේකා  ජයසූරිය මහත්මිය එම කොමිෂන් සභාවේ  වැඩබලන අධ්‍යක්ෂ ජනරාල් ලෙස පත් කරනු ලැබ සිටින්නීය.
-
-◼️
-
-[Data](articles/6c4f096a.json)
-
----
 
 ### A boy who swim in the sea
 
@@ -1956,5 +1890,89 @@ From the Portuguese-inspired baila that once drifted through coastal taverns, to
 [Data](articles/e30f936f.json)
 
 [Extended Data](ext_articles/e30f936f.ext.json)
+
+---
+
+### A large number of people arrested by police officers
+
+*2025-10-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215339) · `si`
+
+The Ministry of Defense has issued a statement regarding the daily police operations that aimed at the suppression of drugs and underworld.
+
+It stated that the operations carried out yesterday (03) were arrested by the operation with drugs and various crimes.
+
+Accordingly, 6,644 persons were involved in these operations.
+
+A total of 27,727 people have been inspected and 10,900 vehicles and 8,385 motorbikes have been tested.
+
+971 persons have been arrested in the raids and nine persons directly involved in the drug and 449 persons were arrested.
+
+The Ministry of Defense said that the Narcotics and Parliamentary Affairs Minister Ananda Wijepala also operates with the participation of the Narcotics and Parliamentary Affairs to eliminate the drug in the country.
+
+◼️
+
+[Data](articles/2b412c61.json)
+
+[Extended Data](ext_articles/2b412c61.ext.json)
+
+---
+
+### The music release of 'Perandi' starring Aravindaraj
+
+*2025-10-04 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226894) · `ta`
+
+The music launch of the movie 'Perandi', which plays the hero of the story of the newcomer Aravindaraj, was held in Chennai. Thol, the leader of the Liberation Panthers Party and a member of the Indian Lok Sabha. Thirumavalavan released the music of the film about the special guest.
+
+Director r. Aravindaraj, Vindhuja Nair, Lata, Karate Raja, Power Star Srinivasan, Lalitha, Hosur Tony and many others have starred in the film 'Perandi' directed by Thangamani.
+
+D. Hitesh Murugavel has composed the film, which has been recorded by Maipalan. The film is being produced as Family Entertainment and produced by Veda Media Entertainment Company. The film is presented by Rajesh on behalf of Padma Kandaswamy Estates.
+
+The music launch of the film, which is ready for release, was held in Chennai. 'Rise Tamil' with the film crew at the event. Thirumavalavan, Padma Kandasamy Estates founder Rajesh, businessman Ramachandran and Attorney Uma Sankari were the special guests.
+
+...
+
+[Data](articles/5fe07bb9.json)
+
+[Extended Data](ext_articles/5fe07bb9.ext.json)
+
+---
+
+### Natural-Nain-man- Speaking of the relationship between 'Kumki 2'
+
+*2025-10-04 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226893) · `ta`
+
+The release date of the film 'Kumki 2' has been officially announced.
+
+Directed by Prabhu Solomon, directed by Prabhu Solomon, 'Kumki 2', Mathi, Shrita Rao, Andrews, Arjun Das, Akash, Harish Peradi, Srinath and many others.
+
+M.. Niwas K is the cinematography by Sukumar. Prasanna has composed music. Focusing on the relationship between a wildlife elephant and a young man in the backdrop of a dense forest, the film is produced by Ben Studios on behalf of Ben Studios.
+
+The film is presented by Dr. Jayanthi Lal Kata. The film will be released on the 14th of November at the film House around the world.
+
+'Kumki' was released 13 years ago in the Prabhu Solomon movement. The second part of the film is currently being created as the hero of the newcomer Mathi story.
+
+The film 'Kumki 2', which consciously describes the relationship between natural, elephant-man-man, is also expected to make his stamp.
+
+◼️
+
+[Data](articles/6e845cc9.json)
+
+[Extended Data](ext_articles/6e845cc9.ext.json)
+
+---
+
+### Selling electronic cigarettes targeting school students: suspect arrested
+
+*2025-10-04 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226890) · `ta`
+
+A team of members of the Moneragala Police Station has raped the electronic cigarette fraud on the target of schoolchildren in Moneragala.
+
+Preliminary inquiries have revealed that the suspect had sold electronic cigarettes to students for various amounts.
+
+◼️
+
+[Data](articles/1c01c6b2.json)
+
+[Extended Data](ext_articles/1c01c6b2.ext.json)
 
 ---

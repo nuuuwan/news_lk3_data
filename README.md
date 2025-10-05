@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-05 12:11:04**
+As of **2025-10-05 12:37:44**
 
 ## Newspaper Stats
 
-*Scraped **81,234** Articles*
+*Scraped **81,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,67 @@ islandlk | 4,906
 dailyftlk | 5,664
 adalk | 7,784
 adaderanalk | 10,441
-tamilmirrorlk | 12,064
-virakesarilk | 13,341
+tamilmirrorlk | 12,072
+virakesarilk | 13,355
 adaderanasinhalalk | 13,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,234 (100.0%) of 81,234 articles have been extended.
+81,234 (100.0%) of 81,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-05 (Sunday)
+
+### விசேட தேவையுடைய சிறுவர்களின் வாழ்வை மாற்றியமைக்கும் “நம்பிக்கை” நிலையம் அயத்தி
+
+*2025-10-05 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/226933) · `ta`
+
+“வாழ்க்கையே முடிந்தது என எண்ணினேன்…” – விசேட தேவையுடைய பிள்ளைகளின் பெற்றோர்களின் உணர்வுபூர்வ பகிர்வுகள்!
+
+இலங்கையின் சுகாதார மற்றும் சமூகத் தளத்தில் ஒரு மைல்கல்லாக, விசேட தேவையுடைய சிறுவர்களுக்காக சகல வசதிகளுடன் உருவாக்கப்பட்ட முதலாவது தேசிய நிலையமான “அயத்தி” (Ayati), பல்லாயிரக்கணக்கான குடும்பங்களின் வாழ்க்கையில் ஒளியேற்றி வருகிறது. சமஸ்கிருதத்தில் “நம்பிக்கை” எனப் பொருள்படும் இந்த நிலையம், சவால்களை எதிர்கொள்ளும் சிறுவர்களுக்கும் அவர்களது பெற்றோர்களுக்கும் வாழ்வின் இரண்டாவது அத்தியாயத்தை ஆரம்பித்துள்ளது.
+
+இந்த நிலையம் 2016 ஆம் ஆண்டு அறக்கட்டளையாக நிறுவப்பட்டு, 2020 முதல் செயல்பட்டு வருகிறது. களனி பல்கலைக்கழகம், ஹேமாஸ் ஹோல்டிங்ஸ், மாஸ் ஹோல்டிங்ஸ் மற்றும் இராணுவத்தின் பங்களிப்புடன் நிர்மாணிக்கப்பட்ட இந்த நிலையம், இலங்கையின் விசேட தேவையுடைய சமூகத்துக்கு ஒரு வரப்பிரசாதமாக அமைந்துள்ளது.
+
+இந்த நிலையம் கம்பஹா மாவட்டத்தில், ராகமையில் களனி பல்கலைக்கழகத்தின் மருத்துவ பீடத்திற்குள் அமைந்துள்ளது.
+
+...
+
+[Data](articles/0bde7712.json)
+
+---
+
+### மன்னார் போராட்டம் கற்றுத் தரும் பாடம்
+
+*2025-10-05 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/226917) · `ta`
+
+சில போராட்­டங்­களைக் கையாளும் போது தவ­றான முடி­வு­களை எடுத்து, அதனை கையா­ளு­வது அர­சாங்­கங்­களின் வீழ்ச்­சிக்கு கார­ண­மா­கி­யி­ருக்­கி­றது. இது வர­லாறு.
+
+◼️
+
+[Data](articles/6edd7e70.json)
+
+---
+
+### தலைமன்னாரில் இருந்து தனுஷ்கோடி வரையிலான பாக்கு நீரிணையை மாற்றுத்திறனாளி சிறுவன் நீந்தி சாதனை!
+
+*2025-10-05 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/226923) · `ta`
+
+இயலாமைக்கும் சாதனைக்கும் உள்ள தூரத்தை நீந்தி கடந்துச்சென்று சாதனை படைக்க வேண்டும் என்ற இலட்சியத்துடன்,  முழங்காலுக்கு கீழே பாதிக்கப்பட்ட மாற்றுத்திறனாளியான 12 வயதுச் சிறுவன் எடுத்த முயற்சி வெற்றியை கொடுத்துள்ளது.
+
+குறித்த சிறுவன் கடந்த வெள்ளிக்கிழமை (03) இலங்கை தலைமன்னாரிலிருந்து தமிழகம் தனுஷ்கோடி வரையிலான பாக்கு நீரிணை 9 மணி 11 நிமிடத்தில் நீந்தி கடந்து சாதனை படைத்துள்ளார்.
+
+ராமேஸ்வரம் தீவும் அதை தொடர்ந்துள்ள 13 மணல் தீடைகளும், பாக்கு நீரிணை கடற்பகுதியை மன்னார் வளைகுடாவில் இருந்தும் பிரிக்கிறது. இது தமிழகத்திலேயே மிகவும் ஆழம் குறைந்த அதே சமயம் பாறைகளும் ஆபத்தான ஜெல்லி மீன்கள் நிறைந்த கடல் பகுதியாகும் .
+
+இதுவரை 30 க்கும் மேற்பட்டோர் பாக்கு நீரிணையை தனியாக நீந்தி கடந்து சாதனை புரிந்துள்ளனர். இவர்களில் பெரும்பாலானோர் இலங்கையின் தலைமன்னாரிலிருந்து இந்தியாவின் தனுஷ்கோடிக்கு அல்லது தனுஷ்கோடியில் இருந்து தலைமன்னாருக்கு நீந்திச் சென்றவர்கள். இது தவிர மேலும் சிலர் குழுவாக ரிலே மற்றும் மரதன் முறையில் பாக்கு நீரிணை கடலை நீந்தி கடந்துள்ளனர்.
+
+...
+
+[Data](articles/6236e6dd.json)
+
+---
 
 ### News "flower bloom"
 
@@ -57,6 +105,108 @@ The Health and Mass Media minister said that he would not follow the "promising 
 
 ---
 
+### 400 மொழிகளில் திறமை: 46 மொழிகளில் சரளமான பேச்சு: உலகை வியக்க வைத்த மஹ்மூத் அக்ரம்
+
+*2025-10-05 11:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விசித்திர-பிரபலங்கள்/400-மொழிகளில்-திறமை-46-மொழிகளில்-சரளமான-பேச்சு-உலகை-வியக்க-வைத்த-மஹ்மூத்-அக்ரம்/97-365752) · `ta`
+
+19 வயதில் 46 மொழிகளை சரளமாக பேசி,400 மொழிகளில் வாசிக்கவும், எழுதவும், தட்டச்சு செய்யும் திறன்கொண்ட மஹ்மூத் அக்ரம் விருது வழங்கி கௌரவிக்கப்பட்டார்.
+
+சென்னையைச் சேர்ந்த 19 வயது மஹ்மூத் அக்ரம் எழுத, வாசிக்க தட்டச்சு செய்யும் அபூர்வ திறமையால் வியக்கவைத்துள்ளார்.
+
+4 வயதிலேயே மொழிகளை படிக்கத் தொடங்கிய இவர்,  8 வயதில் இளம் பன்மொழி தட்டச்சுக்காரர், என்ற முதலாவது சாதனையை படைத்தார்.
+
+◼️
+
+[Data](articles/08a7182b.json)
+
+---
+
+### ஹிட்லரின் பாதையில் தேசிய மக்கள் சக்தி அரசு ; நீதித்துறையைக் கட்டுப்படுத்த முயல்வதாக ரணில் சாடல்
+
+*2025-10-05 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226927) · `ta`
+
+எதிர்க்கட்சிகளின் செல்வாக்கு அதிகரிப்பு மற்றும் அவற்றின் ஒன்றிணைவு குறித்து அச்சம் கொண்டுள்ள அரசாங்கம், ஒரு ஹிட்லர் போக்கிலான செயற்பாட்டை வெளிப்படுத்துவதாக ஐக்கிய தேசிய கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க கடுமையாகச் சாடியுள்ளார்.
+
+எதிரணியினருடன் அரசியல் ரீதியான எந்தப் பிரச்சினைகளாக இருந்தாலும், உள்ளூர் அரசியல் மேடைகளில் கருத்து தெரிவித்திருக்க வேண்டும் என்றும், வெளிநாடுகளுக்குச் சென்று இலங்கை குறித்தும் இங்குள்ள அரசியல் நிலைமைகள் தொடர்பிலும் விமர்சனங்களை முன்வைப்பது முறையற்றது என்றும் அவர் குறிப்பிட்டுள்ளார்.
+
+ஐக்கிய தேசிய கட்சியின் உறுப்பினர்கள் மற்றும் ஏனைய கட்சிகளின் பிரதிநிதிகளுடன் வியாழக்கிழமை இடம்பெற்ற கலந்துரையாடலின் போதே அவர் இந்தக் கருத்துக்களைத் தெரிவித்ததோடு, தேசிய மக்கள் சக்தி அரசாங்கத்தின் தற்போதைய செயற்பாடுகளுக்கு வரலாற்று உதாரணங்களைக் கொண்டு பலத்த கண்டனம் தெரிவித்தார்.
+
+...
+
+[Data](articles/c80e36cd.json)
+
+---
+
+### அரச அடக்குமுறைக்கு எதிராக கொழும்பில் மாபெரும் எதிர்ப்புப் பேரணி ; 25 கட்சிகள் ஒன்றிணைந்து தீர்மானம் - ரணில், நாமல், பீரிஸ் சந்திப்பு
+
+*2025-10-05 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/226914) · `ta`
+
+தேசிய மக்கள் சக்தி அரசாங்கம் முன்னெடுத்து வரும் சர்வாதிகார அடக்குமுறைகளுக்கு எதிராக ஒன்றிணைந்த மாபெரும் எதிர்ப்பு பேரணியை கொழும்பில் நடத்துவதற்பு தீர்மானித்துள்ள எதிர்க்கட்சிகள், இது குறித்து விசேடமாக கலந்துரையாடியுள்ளன. ஐக்கிய தேசிய கட்சியின் தலைவர் ரணில் விக்கிரமசிங்க, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ மற்றும் பேராசிரியர் ஜீ.எல். பீரிஸ் உட்பட முக்கிய அரசியல் கட்சிகள் கொழும்பில் ஒன்றுக்கூடி கலந்துரையாடிய போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+எதிர்க்கட்சிகளைச் சேர்ந்த கட்சித் தலைவர்கள், உறுப்பினர்களின் விசேட சந்திப்பு மற்றும் இரவு விருந்துபச்சார நிகழ்வு கடந்த வியாழக்கிழமை இரவு கொழும்பில் உள்ள ஒரு தனியார் ஹோட்டலில் நடைபெற்றது.
+
+ஐக்கிய தேசியக் கட்சியின் தவிசாளர் வஜிர அபேவர்தனவின் அழைப்பின் பேரில் இந்த நிகழ்வில் 25க்கும் மேற்பட்ட அரசியல் கட்சிகளின் பிரதிநிதிகள் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/02df28b6.json)
+
+---
+
+### 8ஆவது மாடிச் சன்னல் விளிம்பில் நின்ற பெண்
+
+*2025-10-05 11:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/8ஆவது-மாடிச்-சன்னல்-விளிம்பில்-நின்ற-பெண்/50-365751) · `ta`
+
+சிங்கபூர் கிளமெண்டி ஸ்ட்ரீட் 13, புளோக் 118இன் 8ஆவது மாடியிலேயே இந்த சம்பவம் நடந்தது.
+
+சிங்கப்பூர்க் குடிமைத் தற்காப்புப் படை அதிகாரிகள் வீட்டுக்குள்ளே இருந்து அவரைக் காப்பாற்ற முயற்சி செய்கின்றனர். கீழ் மாடியில் இருக்கும் வீட்டிலும் அதிகாரிகள் இருந்தனர்.
+
+முன்னெச்சரிக்கையாக காற்றுப்பையும் (airbag) தயார்செய்யப்பட்டதாக அதிகாரிகள் கூறினர். சன்னல் விளிம்பில் இருந்த 24 வயதுப் பெண் பின்னர் காப்பாற்றப்பட்டார்.
+
+◼️
+
+[Data](articles/e1a916c0.json)
+
+---
+
+### ஜப்​பானின் முதல் பெண் பிரதம​ர்  சனே டகைச்சி?
+
+*2025-10-05 11:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்-பானின்-முதல்-பெண்-பிரதம-ர்-சனே-டகைச்சி/50-365750) · `ta`
+
+ஜப்​பான் நாட்​டில் லிபரல் ஜனநாயகக் கட்சி (எல்​டிபி) ஆட்​சி​யில் உள்​ளது. இக்​கட்​சி​யின் தலை​வர் மற்​றும் ஜப்​பான் பிரதமர் ஷிகெரு இஷி​பா, ஓராண்​டுக்​குப் பிறகு பதவி வில​கு​வ​தாக ஏற்​கெனவே அறி​வித்​திருந்​தார்.
+
+இதற்​கிடை​யில், ஜப்​பான் பாராளு​மன்​றத்​தின் இரு அவை​களி​லும் லிபரல் ஜனநாயகக் கட்சி பெரும்​பான்மை இழந்​தது. இதனால் பிரதமர் பதவியை ஷிகெரு கடந்த மாதம் இராஜி​னாமா செய்​தார்.
+
+அதனால், ஆளும் லிபரல் டெமாக்​ரடிக் கட்​சி​யின் புதிய தலை​வரை தேர்ந்​தெடுப்​ப​தற்​கான தேர்​தல் நேற்று டோக்​கியோ​வில் நடை​பெற்​றது. இதில் முன்​னாள் பொருளா​தார பாது​காப்பு அமைச்​சர் சனே டகைச்சி (64), வேளாண் அமைச்​சர் ஷிஞ்​சிரோ கொய்​சுமி ஆகியோர் போட்​டி​யிட்​டனர்.
+
+உட்​கட்சி தேர்​தலில் சனே 183 வாக்​கு​களும் கொய்​சுமி 164 வாக்​கு​களும் பெற்​றனர். இதையடுத்து, லிபரல் ஜனநாயகக் கட்​சித் தலை​வ​ராக சனே டகைச்சி சனிக்கிழமை (04) அன்று அதி​காரப்​பூர்​வ​மாக பொறுப்​பேற்று கொண்​டார். அவர் ஜப்​பான் நாட்​டின் முதல் பெண் பிரதம​ராக
+
+...
+
+[Data](articles/7cb1a64f.json)
+
+---
+
+### படுக்கை அறையில் வைத்து மகளை வன்புணர்ந்த தந்தை
+
+*2025-10-05 11:17:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/படுக்கை-அறையில்-வைத்து-மகளை-வன்புணர்ந்த-தந்தை/76-365748) · `ta`
+
+மொனராகலை, பிபில பொலிஸ் பிரிவுக்குட்பட்ட குருவாம்ப தல்கஸ் சந்தி   மீகஹமுரே  தோட்ட பகுதியைச் சேர்ந்த ஒருவர், 10 வயதுடைய தனது மகளை கடுமையாக பாலியல் வன்கொடுமை செய்த சம்பவம் தொடர்பாக வெள்ளிக்கிழமை (03) அன்று கைது செய்யப்பட்டுள்ளார்.
+
+சிறுமியின் தாய் வெளிநாட்டில் பணிபுரிந்து வருவதாக தெரியவந்துள்ளது. மேலும் அவர்களின் சொந்த ஊர் பிபிலவின் பதுளை கிராமம் எனவும் தற்போது குருவாம்ப தல்கஸ் சந்தி மீகஹமுரே  தோட்ட பகுதியில் ஒரு வாடகை வீட்டில் வசித்து வருவதாகவும் தெரியவருகிறது.
+
+சிறுமி தனது மூத்த சகோதரன் மற்றும் தந்தையுடன் ஒரே அறையில் ஒரே கட்டிலில் தூங்கியுள்ளார். இந்நிலையில் கடந்த ஜூன் மாதம் பல நாட்கள், சிறுமி தூங்கிக் கொண்டிருந்த போது அவளுடைய தந்தை அவளை கடுமையாக பாலியல் வன்கொடுமை செய்துள்ளதாக தெரியவந்துள்ளது.
+
+சிறுமியின் பிறப்புறுப்பு பகுதி கடுமையான வலி மற்றும் காயங்களுக்குள்ளான நிலையில் அவர் மொனராகலை மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது இவ் விடயம் தொடர்பாக தெரியவந்துள்ளது.
+
+சந்தேக நபரான 38 வயதுடைய சமையல்காரரான தந்தை பொலிஸாரால் கைது செய்யப்பட்டு, பிபில நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளார்.
+
+◼️
+
+[Data](articles/0d708d9f.json)
+
+---
+
 ### 40 lakhs cigarettes locked
 
 *2025-10-05 11:15:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලකෂ-40ක-දමවට-ගවනතට-හරවය/101-680752) · `si`
@@ -74,6 +224,42 @@ To be produced before the Negombo Magistrate's Court on 10/08 to the Negombo Mag
 [Data](articles/39594c38.json)
 
 [Extended Data](ext_articles/39594c38.ext.json)
+
+---
+
+### பாவிக்க முடியாது நிலையில் காணப்படும் மட்டு. முகத்துவாரம் வெளிச்ச வீடு சிறுவர் பூங்கா - பொதுமக்கள் கடும் விசனம்
+
+*2025-10-05 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226926) · `ta`
+
+மட்டக்களப்பு மாநகர சபைக்கு சொந்தமான முகத்துவாரம்  வெளிச்சவீடு சிறுவர் பூங்கா குப்பைகள் நிறைந்து துர்நாற்றம் வீசி வருவதால் சிறுவர்கள் விளையாட முடியாது பல்வேறு அசௌகரியங்களை எதிர்நோக்கி வருவதாக பொதுமக்கள் கடும் விசனம் தெரிவிக்கின்றனர்.
+
+2009 ம் ஆண்டு யுத்தம் முடிவுற்ற நிலையில் சுற்றுலா துறையை மேம்படுத்துவதற்கு அந்த பகுதியில் அமைந்துள்ள வெளிச்ச வீடு மற்றும் அதற்கு அருகில் வாவிக்கரையில் அமெரிக்க மக்களின் நிதி பங்களிப்பின் ஊடாக யூ.எஸ்.எய்ட்ஸ்  நிறுவனம் பல இலட்சங்களை கொண்டு சிறுவர் பூங்கா அமைத்து மாநகரசபையிடம் கையளித்து மக்கள் பாவனைக்காக திறந்து விடப்பட்டது.
+
+மட்டு. மாநகரசபையின் நிர்வாகத்தின் கீழ் உள்ள இந்த சிறுவர் பூங்கா பல காலங்களாக கவனிப்பார் அற்று கிடக்கின்றதுடன், அங்கு பல இலட்சம் ரூபா செலவில் பொருத்தப்பட்ட ஊஞ்சல்கள், சறுக்கல், மற்றும் மிருகங்கள் உருவம் கொண்ட விளையாட்டு உபகரணங்கள் உடைந்து துண்டு துண்டாக இருக்கின்றது.
+
+...
+
+[Data](articles/4b561bb7.json)
+
+---
+
+### இந்தியாவிலிருந்து இலங்கைக்கு கடத்த முயன்ற கடல் அட்டைகள் கைப்பற்றல்
+
+*2025-10-05 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/226915) · `ta`
+
+இந்தியாவில், ராமநாதபுரத்திலிருந்து, இலங்கைக்கு கடத்துவதற்காக வைத்திருந்த 10 இலட்சம் ரூபாய் பெறுமதியான தடை செய்யப்பட்ட கடல் அட்டைகள் தமிழக பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளது.
+
+ராமநாதபுரம் அருகே பதுக்கி வைத்திருந்த, தடை செய்யப்பட்ட 250 கிலோகிராம் எடையுடைய கடல் அட்டைகள் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+பதப்படுத்தப்பட்ட குறித்த கடல் அட்டைகளை மீட்ட கியூ பிரிவு பொலிஸார்,  அதனை பதுக்கி வைத்த ஒருவரையும் கைது செய்து, விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+ராமநாதபுரம் - சக்கரக்கோட்டை நகராட்சி குப்பை கிடங்கு பகுதியில், கடல் அட்டைகள் பதப்படுத்தி வருவதாக கியூ பிரிவு ஆய்வாளர் ஜானகிக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று சனிக்கிழமை (04) இரவு குறித்த பகுதியில் தீவிர சோதனைகள் நடத்தப்பட்டுள்ளன.
+
+இதன்போது, நகராட்சி குப்பை கிடங்கு அருகே குடோன் அமைத்து அதில் தமிழக அரசால் தடை செய்யப்பட்ட கடல் அட்டைகளை பதப்படுத்தி வந்தமை தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/b9c0cee2.json)
 
 ---
 
@@ -97,6 +283,46 @@ The police are detained by the police on detention orders, who was arrested in c
 
 ---
 
+### நாரம்மல விபத்தில் மூவர் பலி
+
+*2025-10-05 10:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-விபத்தில்-மூவர்-பலி/175-365746) · `ta`
+
+நாரம்மல-குருநாகல வீதியில் நாரம்மல நகருக்கு அருகில் ஞாயிற்றுக்கிழமை (05) அதிகாலை நடந்த ஒரு துயரமான வீதி விபத்தில் மூன்று பேர் உயிரிழந்துள்ளனர்.
+
+குருநாகலிலிருந்து நாரம்மல நோக்கிச் சென்ற லாரி, ஓட்டுநர் கட்டுப்பாட்டை இழந்து கட்டுநாயக்கவிலிருந்து அக்கரைப்பற்று நோக்கிச் சென்ற பேருந்தின் மீது மோதி  சாலையின் வலது பக்கமாகத் திரும்பியதில் இந்த விபத்து நிகழ்ந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+லாரியின் ஓட்டுநர், வாகனத்தில் இருந்த ஒரு ஆண், இரண்டு பெண்கள் மற்றும் இரண்டு குழந்தைகள் பலத்த காயமடைந்து நாரம்மல மற்றும் குருநாகல் மருத்துவமனைகளில் அனுமதிக்கப்பட்டனர். ஓட்டுநர், ஒரு ஆண் மற்றும் ஒரு பெண் பின்னர் உயிரிழந்தனர்.இறந்தவர்கள் பொலன்னறுவையைச் சேர்ந்தவர்கள், 41, 80 மற்றும் 82 வயதுடையவர்கள் என அடையாளம் காணப்பட்டுள்ளனர்.
+
+லாரியில் இருந்த 40 வயதுடைய ஒரு பெண் மற்றும் 16 மற்றும் 9 வயதுடைய இரண்டு சிறுமிகள் இன்னும் குருநாகல் மருத்துவமனையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+...
+
+[Data](articles/4fbfa67e.json)
+
+---
+
+### நாரம்மலையில் லொறி - பஸ் மோதி கோர விபத்து: மூவர் உயிரிழப்பு!
+
+*2025-10-05 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226924) · `ta`
+
+நாரம்மல – குருணாகல் வீதியில் நாரம்மல நகருக்கு அருகில் லொறி ஒன்று இலங்கை போக்குவரத்துக்குச் சொந்தமான சபை பஸ்ஸூடன் மோதி விபத்துக்குள்ளானதில் மூவர் உயிரிழந்துள்ளனர்.
+
+குருநாகலிலிருந்து நாரம்மல நோக்கி பயணித்த லொறியின், சாரதி கட்டுப்பாட்டை இழந்து வீதியின் வலது பக்கத்தை விட்டு விலகி, கட்டுநாயக்காவிலிருந்து அக்கரைப்பற்று நோக்கி பயணித்த பஸ்ஸூடன் மோதியதில் இந்த விபத்து நேர்ந்துள்ளது.
+
+இந்த விபத்தில் லொறி சாரதி, ஆண் ஒருவர், பெண்கள் இருவர் மற்றும் சிறுவர்கள் இருவர் ஆகியோர் காயமடைந்து நாரம்மல மற்றும் குருநாகல் வைத்தியசாலைகளில் அனுமதிக்கப்பட்டனர்.
+
+இதன்போது, சிகிச்சை பலனின்றி லொறியில் சாரதி, ஆண் ஒருவர் மற்றும் பெண் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்தில் உயிரிழந்தவர்கள் பொலன்னறுவையைச் சேர்ந்த 41, 80 மற்றும் 82 வயதுடையவர்கள் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+அதேவேளை,  லொறியில் பயணித்த 40 வயதுடைய பெண், 16 மற்றும் 9 வயதுடைய  சிறுவர்கள் இருவர் குருநாகல் வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+...
+
+[Data](articles/3426ca6a.json)
+
+---
+
 ### '' Developing ties is strengthened ''
 
 *2025-10-05 10:46:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඳනන-හදන-කට-බඳම-ශකතමත-වනව/101-680750) · `si`
@@ -117,6 +343,26 @@ Therefore, its value is more than ever. It is important to say that this is diff
 
 ---
 
+### வெளிநாட்டு சிகரெட்டுகளுடன் ஒருவர் கைது
+
+*2025-10-05 10:42:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-ஒருவர்-கைது/175-365745) · `ta`
+
+சுமார் 45 இலட்சம் ரூபாய் பெறுமதியுடை  வெளிநாட்டு சிகரெட்டுகளை சட்டவிரோதமாக நாட்டிற்குள் கொண்டு வந்து, கட்டுநாயக்க விமான நிலையத்தில் இருந்து வெளியேற முயன்ற ஒருவர், ஞாயிற்றுக்கிழமை (05) அதிகாலை விமான நிலைய பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவு அதிகாரிகளால் கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்டவர் புத்தளம்,கற்பிட்டி பிரதேசத்தைச் சேர்ந்த 44 வயதுடைய மீனவர் என தெரியவந்துள்ளது.
+
+குறித்த நபர் ஞாயிற்றுக்கிழமை (05) அதிகாலை 05.25 மணியளவில் இலங்கை ஏர்லைன்ஸ் விமானம் UL-226 மூலம் துபாயிலிருந்து கட்டுநாயக்க விமான நிலையத்திற்கு வந்திருந்தார்.
+
+அவர் கொண்டு வந்த 02 பயணப் பைகளை சோதனையிட்ட போது அதில் இருந்து 30,000 "பிளாட்டினம்" சிகரெட்டுகள் அடங்கிய 150 சிகரெட் அட்டைப்பெட்டிகள் கைப்பற்றப்பட்டுள்ளது.
+
+சந்தேக நபர் மற்றும் கைப்பற்றப்பட்ட சிகரெட்டுகளை புதன்கிழமை (08) அன்று நீர்கொழும்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8c1758e7.json)
+
+---
+
 ### Couple left in stock of gold
 
 *2025-10-05 10:37:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රන-බඩ-සරකම-ගය-යවළ-මටට/101-680749) · `si`
@@ -132,6 +378,36 @@ Police say that the residents of Ethugama, Kalatithoya, is 20-22 years old. Acco
 [Data](articles/0359f821.json)
 
 [Extended Data](ext_articles/0359f821.ext.json)
+
+---
+
+### அணித் தலைவரை தூக்கியது இந்தியா
+
+*2025-10-05 10:36:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/அணித்-தலைவரை-தூக்கியது-இந்தியா/44-365744) · `ta`
+
+ஆஸ்​திரேலி​யா​வுக்கு எதி​ரான ஒரு நாள் கிரிக்​கெட் தொடரில் பங்​கேற்​கும் இந்​திய அணிக்கு ஷுப்​மன் கில் கேப்​ட​னாக நியமிக்​கப்​பட்​டுள்​ளார். கேப்​டன் பதவியி​லிருந்து ரோஹித் சர்மா விடுவிக்​கப்​பட்​டுள்ள நிலை​யில், அவர் அணி​யில் தொடர்​கிறார்.
+
+மேற்கு இந்​தி​யத் தீவு​கள் அணிக்​கெ​தி​ரான டெஸ்ட் தொடரில் இந்​திய அணி தற்​போது விளை​யாடி வரு​கிறது. இந்த தொடர் முடிந்​தவுடன் இந்​திய அணி ஆஸ்​திரேலியா சென்​று, அந்த அணிக்கு எதி​ராக 3 போட்​டிகள் கொண்ட ஒரு​நாள் தொடர், 5 போட்​டிகள் கொண்ட சர்​வ​தேச டி20 தொடரில் விளை​யாட உள்​ளது. இந்​தத் தொடர் வரும் 19-ம் திகதி தொடங்​கு​கிறது. இந்​தத் தொடருக்​கான இந்​திய அணியை இந்​திய கிரிக்​கெட் கட்​டுப்​பாட்டு வாரி​யம்​(பிசிசிஐ) நேற்று தேர்வு செய்து அறி​வித்​துள்​ளது.
+
+இது​நாள் வரை இந்​திய அணி​யின் கேப்​ட​னாக செயல்​பட்டு வந்த ரோஹித் சர்​மா, பதவியி​லிருந்து விடுவிக்​கப்​பட்​டுள்​ளார். புதிய கேப்​ட​னாக ஷுப்​மன் கில்​லும், துணை கேப்​ட​னாக ஸ்ரே​யாஸ் ஐயரும் நியமிக்​கப்​பட்​டுள்​ளனர். அதே​நேரத்​தில் அணி​யில் ரோஹித் சர்​மா, விராட் கோலி இடம் பெற்​றுள்​ளனர்.
+
+...
+
+[Data](articles/b467ddca.json)
+
+---
+
+### நெடுந்தீவில் எரிபொருள் நிலையம்
+
+*2025-10-05 10:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தீவில்-எரிபொருள்-நிலையம்/175-365743) · `ta`
+
+வரலாற்றில் முதல் முறையாக நெடுந்தீவில் எரிபொருள் நிரப்பு நிலையத்தை அமைப்பதற்காக இலங்கை பெட்ரோலியக் கூட்டுத்தாபனத்துடன் ஒப்பந்தம் எட்டப்பட்டதாக நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சரும் சபைத் தலைவருமான பிமல் ரத்நாயக்க தெரிவித்தார்.
+
+யாழ்ப்பாணத்தில் நடந்த ஒரு நிகழ்வில் உரையாற்றிய அமைச்சர், இந்தத் திட்டம் இலங்கை கடற்படையின் ஒத்துழைப்புடன் செயல்படுத்தப்படும் என்றும், நெடுந்தீவு குடியிருப்பாளர்கள் கொழும்பில் உள்ள அதே விலையில் எரிபொருளை வாங்க அனுமதிக்கும் என்றும் கூறினார்.  ​நெடுந்தீவில் உள்ள ​​ ஜெனரேட்டருக்கு எரிபொருளைக் கொண்டு செல்ல கிட்டத்தட்ட ஏழு மணி நேரம் எடுக்கும் என்று அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/3d997d91.json)
 
 ---
 
@@ -169,6 +445,22 @@ COLOMBO (News 1st): A tragic road accident claimed the lives of a young married 
 
 ---
 
+### பின்னவல பகுதியில் இடம்பெற்ற விபத்தில் ஒருவர் பலி!
+
+*2025-10-05 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/226913) · `ta`
+
+பின்னவல பொலிஸ் பிரிவுக்குட்பட்ட ஹட்டன் - பலாங்கொடை வீதியில் 08ஆம் மைல் கல் அருகில், மோட்டார் சைக்கிள் கட்டுப்பாட்டை இழந்து வீதியில் கவிழ்ந்து எதிர் திசையில் வந்த பஸ்ஸூடன் மோதியதியுள்ளது..
+
+இதன்போது, மோட்டார் சைக்கிள் ஓட்டுநரும், அவருடன் பயணித்த பெண் ஒருவரும் காயமடைந்த நிலையில், பலாங்கொடை வைத்தியசாலையில் அனுமதிக்கப்பட்டனர். சிகிச்சை பலனின்றி பெண் உயிரிழந்துள்ளார்.
+
+சடலம் பலாங்கொடை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், பின்னவல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/f2b8c75a.json)
+
+---
+
 ### The Land Commission removes the boss
 
 *2025-10-05 10:03:55* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉඩම-කමසම-ලකක-ඉවත-කරය/101-680747) · `si`
@@ -184,6 +476,82 @@ According to Mrs. Diywnka Jayasuriya, the acting Director General of the Commiss
 [Data](articles/6c4f096a.json)
 
 [Extended Data](ext_articles/6c4f096a.ext.json)
+
+---
+
+### தடுப்புக்காவலில் இருந்த சந்தேகநபர் தகவல்: ரி-56 ரக வெடிமருந்துகள் மீட்பு
+
+*2025-10-05 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226912) · `ta`
+
+தடுப்புக்காவல் உத்தரவின் கீழ், நாகொடை  பொலிஸ் நிலையத்தில், தடுத்து வைக்கப்பட்டு, விசாரிக்கப்பட்ட சந்தேக நபரிடமிருந்து, கிடைத்த தகவலுக்கமைய ரி-56 ரக வெடிமருந்துகள் கண்டுபிடிக்கப்பட்டன.
+
+நாகொடை பொலிஸ் நிலைய அதிகாரிகள் குழுவினால், ஒக்டோபர் மாதம் முதலாம் திகதி, நாட்டில் தயாரிக்கப்பட்ட ரிவால்வர் ரக துப்பாக்கி மற்றும் 02 கிராம் 700 மில்லிகிராம் ஹெரோயின் போதைப்பொருளுடன் குறித்த நபர் கைது செய்யப்பட்டார்.
+
+ஒக்டோபர் மாதம் 2ஆம் திகதி, பத்தேகம நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தியதுடன், தடுப்புக்காவல் உத்தரவின் கீழ் 07 நாட்கள் தடுத்து, விசாரிக்க உத்தரவிடப்பட்டது.
+
+அதற்கமைய, அவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே, துங்கந்த பகுதியில் சந்தேக நபரால் மறைத்து வைக்கப்பட்டிருந்த ரி -56 ரக வெடிமருந்துகள் 4 மற்றும் வெற்று வெடிமருந்து உறைகள் கண்டுபிடிக்கப்பட்டன.
+
+சந்தேக நபர் யதலமத்த பகுதியைச் சேர்ந்த 32 வயதுடையவர் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+அவர் தடுப்புக்காவல் உத்தரவின் பேரில் நாகொட பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகள் நடத்தப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/b83b7f52.json)
+
+---
+
+### துப்பாக்கிச் சூடு நடத்தி கொலை முயற்சியில் ஈடுபட்ட சந்தேக நபர், ஐஸ் போதைப்பொருளுடன் கைது!
+
+*2025-10-05 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226911) · `ta`
+
+மருதானை பொலிஸ் பிரிவிற்குட்பட்ட, அபேசிங்காராம வீதியில் ஐஸ் போதைப்பொருளுடன் சந்தேகநபர் ஒருவர், கொழும்பு வடக்கு பிரிவு குற்றப் புலனாய்வுப் திணைக்களத்தினரால் கைது செய்யப்பட்டுள்ளார்.
+
+அவரிடமிருந்து 22 கிராம் 200 மில்லிகிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டதுடன், சந்தேகநபர் கைது செய்யப்பட்டு மருதானை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+
+கொழும்பு வடக்கு பிரிவு குற்றப் புலனாய்வுப் திணைக்களத்தின் அதிகாரிகளுக்குக் கிடைத்த தகவலுக்கமைய, நேற்று சனிக்கிழமை (04) அவர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், அவரிடம் நடத்தப்பட்ட விசாரணைகளின்போது, கடந்த செப்டம்பர் 06ஆம் திகதி மருதானை பொலிஸ் பிரிவிற்குட்பட்ட பஞ்சிகாவத்தை பகுதியில், துப்பாக்கிச் சூடு நடத்தி, கொலை முயற்சி குற்றத்தில் ஈடுபட்ட துப்பாக்கிதாரி என்பதும் தெரியவந்துள்ளது.
+
+மேலும், துப்பாக்கி சூடு சம்பவத்துடன் தொடர்புடைய, மோட்டார் சைக்கிள் ஓட்டுநர் உட்பட மூன்று சந்தேக நபர்கள் முன்னர் கைது செய்யப்பட்டு, நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் விளக்கமறியலில் வைக்கப்பட்டனர்.
+
+...
+
+[Data](articles/4f2b7635.json)
+
+---
+
+### மன்னார் - அடம்பன் புளியங்குளம் பகுதியைச் சேர்ந்த இளைஞரை காணவில்லை ; கண்டுபிடிக்க பொதுமக்களின் உதவியை கோரும் குடும்பத்தினர்
+
+*2025-10-05 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/226918) · `ta`
+
+மன்னார்  - மாந்தை மேற்கு பிரதேச செயலாளர் பிரிவிற்குட்பட்ட அடம்பன் புளியங்குளம் பகுதியைச் சேர்ந்த சங்கர் அருண் (வயது-24) என்ற இளைஞர் கடந்த செப்டம்பர் 30ஆம் திகதி முதல் காணாமல் போயுள்ளதாக அவரது தந்தை  அடம்பன் பொலிஸ் நிலையத்தில் முறைப்பாடளித்துள்ளார்.
+
+குறித்த இளைஞன் கடந்த 30 ஆம் திகதி தனது வீட்டில் இருந்து அடம்பன் பகுதிக்குச் சென்று வருவதாக கூறிச் சென்ற நிலையிலே இதுவரை வீடு திரும்பவில்லை என தெரிவிக்கப்படுகிறது.
+
+மகன் வீடு திரும்பாத  நிலையில் அவரது தந்தை அடம்பன் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+
+குறித்த இளைஞன் பற்றிய தகவல் தெரிந்தவர்கள் 076- 712 1294 மற்றும் 077- 063 1135 ஆகிய தொலைபேசி இலக்கங்களுக்கு தொடர்புகொண்டு தெரிவிக்குமாறு குடும்பத்தார் வேண்டுகோள் விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/e6da87b0.json)
+
+---
+
+### எல்பிட்டியவில் துப்பாக்கிச் சூடு
+
+*2025-10-05 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226920) · `ta`
+
+எல்பிட்டிய, ஓமத்த பகுதியில் உள்ள  வீட்டொன்றின் மீது நேற்று சனிக்கிழமை (04) இரவு மோட்டார் சைக்கிளில் சென்ற அடையாளம் தெரியாத நபர் ஒருவர் துப்பாக்கிச் சூடு நடத்தியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த துப்பாக்கிச் சூட்டு சம்பவத்தில் எவ்வித உயிரிழப்போ, எவருக்கும் காயமோ ஏற்படவில்ல  என பொலிஸார் மேலும் தெரிவித்தனர்.
+
+துப்பாக்கிச் சூட்டுக்கான காரணம் இன்னும் வெளியாகவில்லை, அதே நேரத்தில் இந்த சம்பவம் அப்பகுதியில் போதைப்பொருள் தொடர்பான நடவடிக்கைகள்  தொடர்பில் பொலிஸாருக்கு தகவல் வழங்கியதற்கு பழிவாங்கும் விதமாக நடத்தப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+◼️
+
+[Data](articles/113b367d.json)
 
 ---
 
@@ -204,6 +572,20 @@ In this case, Periyar Selvan, a 12 -year -old boy from Padmapriya couple from Mu
 [Data](articles/7430a768.json)
 
 [Extended Data](ext_articles/7430a768.ext.json)
+
+---
+
+### இலங்கைக்கு எதிரான ஜெனிவா தீர்மானம் : வாக்கெடுப்பைத் தவிர்க்க அமெரிக்கா, நோர்வேயிடம் ஆதரவு கோரிய அரசு
+
+*2025-10-05 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226916) · `ta`
+
+இலங்கைக்கு எதிராக ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையில் சமர்ப்பிக்கப்பட்டுள்ள புதிய தீர்மானம் மீது, திங்கட்கிழமை அல்லது செவ்வாய்க்கிழமை வாக்கெடுப்பு நடத்தப்படலாம் என எதிர்பார்க்கப்படும் பரபரப்பான பின்னணியில், அரசாங்கம் சர்வதேச அளவில் ஆதரவு திரட்டும் பணியில் தீவிரமாக ஈடுபட்டுள்ளது. ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் வெளிவிவகார அமைச்சர் விஜித ஹேராத் ஆகியோர் தலைமையில் ஐ.நா. பொதுச் சபைக் கூட்டத்தில் கலந்துகொண்ட இலங்கைத் தூதுக்குழு, அமெரிக்கா, நோர்வே உள்ளிட்ட முக்கிய மேற்குலக நாடுகள் மற்றும் நட்பு நாடுகளின் பிரதிநிதிகளைச் சந்தித்து ஒத்துழைப்புக் கோரியுள்ளது.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது மீளாய்வு கூட்டத்தொடரில் இலங்கையின் நிலை குறித்து ஆராயும் விதமாக, அக்கூட்டத்தில் இலங்கைக்கு எதிராக புதிய தீர்மானம் ஒன்று சமர்ப்பிக்கப்பட்டது. இந்தத் தீர்மானம் மீது வாக்கெடுப்பு நடத்தப்படலாம் என்ற பின்னணியில் அமெரிக்கா, நோர்வே உள்ளிட்ட முக்கிய மேற்குலக நாடுகளிடம் அரசாங்கம் தீவிரமாக ஆதரவு திரட்டி வருகின்றது.
+
+...
+
+[Data](articles/ad0a6452.json)
 
 ---
 
@@ -1558,405 +1940,5 @@ Meanwhile, the Disaster Management Center (DMC) stated that two cows were killed
 [Data](articles/90c481a7.json)
 
 [Extended Data](ext_articles/90c481a7.ext.json)
-
----
-
-### Lands accident to five districts
-
-*2025-10-04 19:08:48* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දසතරකක-පහකට-නය-අනතර/101-680738) · `si`
-
-With the excessive heavy rains, the National Building Research Institute has issued a landslide warning to 10 Divisional Secretariats in five districts tomorrow (4) at 6.00 pm.
-
-The landslides were issued today 4 pm on the Badulla, Ella, Hali-Ela, Passara, Kurunegala District, Kotmale, Kurunegala District, Kothuwela, and Matale District.
-
-Meanwhile, the Disaster Management Center (DMC) stated that two cows were killed in the Lightning Rahara, Hali, Hali, Hali, Haliela.
-
-◼️
-
-[Data](articles/741e3c87.json)
-
-[Extended Data](ext_articles/741e3c87.ext.json)
-
----
-
-### Issuing landslide warnings
-
-*2025-10-04 19:07:41* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-ඇඟවීම්-නිකුත්-කරයි/11-418910) · `si`
-
-With the highlights of the highlights, the National Building Research Institute has issued a landslide warning to 10 Divisional Secretariats in five districts tomorrow (4).
-
-The Landslides in the Badulla, Ella, Hali ,la, Passara, Galle, Kurunegala District were released to the Ukule and Raththota Divisional Secretariat Divisions in the Kothuwela, Kurunegala District, Kothuwela, and Matale District.
-
-The Disaster Management Center (DMC) says that two cows were killed in the Lightning Station, Haliya, Hali, Haliela.
-
-◼️
-
-[Data](articles/6e702b0c.json)
-
-[Extended Data](ext_articles/6e702b0c.ext.json)
-
----
-
-### Backhoe Saman’s brother-in-law arrested in Biyagama
-
-*2025-10-04 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113217/backhoe-samans-brother-in-law-arrested-in-biyagama) · `en`
-
-The brother-in-law of notorious underworld criminal “Backhoe Saman” has been arrested in Biyagama along with drugs and a firearm.
-
-Police said the suspect was arrested while in possession of 555 grams of heroin, a pistol and a magazine.
-
-◼️
-
-[Data](articles/2cb1328d.json)
-
-[Extended Data](ext_articles/2cb1328d.ext.json)
-
----
-
-### An announcement of the weather on heavy rains
-
-*2025-10-04 19:02:12* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-පිළිබඳ-කාලගුණයෙන්-අවවාදාත්මක-නිවේදනයක්/11-418909) · `si`
-
-An announcement of weather has been released in heavy rains. The announcement was issued at 5.30 pm today for a 24-hour period. The announcement is issued to be valid for the Western, North Western and Sabaragamuwa Province and Galle, Matara, Kandy and Nuwara Eliya districts.
-
-◼️
-
-[Data](articles/a43b9709.json)
-
-[Extended Data](ext_articles/a43b9709.ext.json)
-
----
-
-### Sampath Manamperi's brother-in-law seized
-
-*2025-10-04 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215343) · `si`
-
-Sampath Manamperi's brother-in-law has been arrested this 4 (4).
-
-The suspect was arrested by the Western North Criminal Division in the Biyagama area this afternoon.
-
-He has controlled all the financial activities of Saman and has found 555 grams of heroin, a pistol, and magazine that he had
-
-The Western Province Criminal Investigations Department (Western Province Criminal) Director of the Western Province Criminal Criminal Criminal Secretariat is the advice of the OIC Lynton Silva.
-
-◼️
-
-[Data](articles/7e0eccea.json)
-
-[Extended Data](ext_articles/7e0eccea.ext.json)
-
----
-
-### Youth dances falling down by Kavadi at Perahera
-
-*2025-10-04 18:58:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පරහර-කවඩ-නටමන-සට-තරණය-ඇද-වට-මරට/1-680737) · `si`
-
-A 20-year-old youth who had been identified as a Ambalangoda temple, was suddenly being sick and said.
-
-The victim was a 20 year old youth, a 20 year old residents of Tanabaddiygama.
-
-The young man who was engaged in the Madampe city of Ambalangoda was not taken to the Balapitiya Hospital after illnesses were unable to dance.
-
-The victim was admitted to the hospital when he was admitted to the hospital while he was rushed to the hospital.
-
-Family Relatives say that he had no other non-communicable diseases and the death of the young man is an expression.
-
-◼️
-
-[Data](articles/01692a79.json)
-
-[Extended Data](ext_articles/01692a79.ext.json)
-
----
-
-### Youth dances falling down by Kavadi at Perahera
-
-*2025-10-04 18:58:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පරහර-කවඩ-නටමන-සට-තරණය-ඇද-වට-මරට/101-680737) · `si`
-
-A 20-year-old youth who had been identified as a Ambalangoda temple, was suddenly being sick and said.
-
-The victim was a 20 year old youth, a 20 year old residents of Tanabaddiygama.
-
-The young man who was engaged in the Madampe city of Ambalangoda was not taken to the Balapitiya Hospital after illnesses were unable to dance.
-
-The victim was admitted to the hospital when he was admitted to the hospital while he was rushed to the hospital.
-
-Family Relatives say that he had no other non-communicable diseases and the death of the young man is an expression.
-
-◼️
-
-[Data](articles/aee9c48e.json)
-
-[Extended Data](ext_articles/aee9c48e.ext.json)
-
----
-
-### Wimal Weerawansa To Appear Before The Tangalle Police
-
-*2025-10-04 18:49:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/wimal-weerawansa-to-appear-before-the-tangalle-police) · `en`
-
-COLOMBO (News 1st); Former Minister Wimal Weerawansa has been instructed to appear before the Tangalle Police the day after tomorrow.This summons relates to an inquiry concerning a statement he made to the media about an individual named 'Beliatte Sana'He is required to appear at the Tangalle Police Station at 10 a.m. on that day.
-
-◼️
-
-[Data](articles/e125b2b5.json)
-
-[Extended Data](ext_articles/e125b2b5.ext.json)
-
----
-
-### Massive Drug Haul Reported In 2025 Raids
-
-*2025-10-04 18:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/massive-drug-haul-reported-in-2025-raids) · `en`
-
-COLOMBO (News 1st); The Sri Lanka Police have carried out 61,265 ICE raids so far this year, seizing 1,852 kg of the drug.In 52,693 heroin raids, the Police managed to seize 1,248 kg of the drug.They have also seized 14,221 kg of cannabis, 506 kg of hashish, and 29 kg of cocaine so far this year.Additionally, 3,579,339 drug tablets and pills have been confiscated to date.
-
-◼️
-
-[Data](articles/d5823739.json)
-
-[Extended Data](ext_articles/d5823739.ext.json)
-
----
-
-### Accomplice Of ‘Backhoe Saman’ Arrested
-
-*2025-10-04 18:45:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/accomplice-of-%e2%80%98backhoe-saman%e2%80%99-arrested) · `en`
-
-COLOMBO (News 1st); A suspect believed to have coordinated drug trafficking and contract killings in Sri Lanka on behalf of the underworld figure “Backhoe Saman,” who is currently in remand custody, has been arrested.The suspect arrested has been identified as the husband of Backhoe Saman’s sister.Police Special Task Force officers arrested the suspect and handed him over to the Western Province North Crimes Division.Police said that questioning of the suspect, identified as Kaveesha, has begun under a seven-day detention order.During the interrogation, police recovered a pistol and a stock of narcotics hidden in Middeniya.
-
-◼️
-
-[Data](articles/fb7557c6.json)
-
-[Extended Data](ext_articles/fb7557c6.ext.json)
-
----
-
-### NIE expands program to brief principals on new education reforms
-
-*2025-10-04 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113216/nie-expands-program-to-brief-principals-on-new-education-reforms) · `en`
-
-In line with the new education reforms, the National Institute of Education (NIE) has commenced programs to brief principals of both national and provincial schools at the district level across all provinces.
-
-Many districts across the island have already been covered under this initiative.
-
-As part of its continuation, the program to inform principals in the Matale District was held today (04) under the patronage of the Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasooriya, with the participation of the Deputy Minister of Buddhasasana, Religious and Cultural Affairs, Gamagedara Dissanayake.
-
-The Matale District Secretary, the Director General of the NIE, Provincial Directors of Education, various education authorities and a group of nearly 350 school principals of the Matale District participated in this event.
-
-...
-
-[Data](articles/9e931480.json)
-
-[Extended Data](ext_articles/9e931480.ext.json)
-
----
-
-### Death sentence for a person criticizing the president of social media; Incident in Tunisia
-
-*2025-10-04 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/226904) · `ta`
-
-Reuters News Service has been sentenced to death by a tunician worker who criticizes the national security of the country through records that defraud the president on social media.. This was reported by Buddhistja, the leader of the country's Human Rights League and his lawyer.
-
-In the Northern African country of Tunisia, the restrictions on freedom of expression have been tightened since Kais Saeed became president in 2021.
-
-His lawyer, Reuters, told the news service that a 56 -year -old daily wage worker Sabar Chaushene was a low literate man and had written records of criticism of the president before he was arrested last year.
-
-Nabul court judge on Base Book records sentenced him to death. This is a shocking and an incident that has never been preceded by it, ”said Pouvalja.
-
-It is important that the courts of Tunisia have periodically sentenced the death penalty judgments, but have not been convicted for the past three decades.
-
-...
-
-[Data](articles/72dcd138.json)
-
-[Extended Data](ext_articles/72dcd138.ext.json)
-
----
-
-### Minister of Energy continues - Renewable Energy Project
-
-*2025-10-04 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215342) · `si`
-
-Energy Minister Kumara Jayakody says that continuing to implement the government renewable energy projects.
-
-The Minister said that these projects were humanely considering the problems of the public and take all possible steps to solve them.
-
-The Minister was speaking at the opening of the five MW projects built in Hreear area in Galle today (04).
-
-The Minister said that all should be understood that the renewable energy generation should be understood.
-
-"It is like that as well as the Ceylon Electricity Board's Restructuring Program. There is a government policy to ensure the government's government ownership in the electricity sector. We launched the program to discuss with trade union representatives as soon as possible to protect employee rights privileges.. It is vital that the implementation of the restructuring program to win the objectives of the country's energy fields is essential. Therefore, it will continue to implement the program. "
-
-◼️
-
-[Data](articles/90eaf5c5.json)
-
-[Extended Data](ext_articles/90eaf5c5.ext.json)
-
----
-
-### "The government is taking a good trip,"
-
-*2025-10-04 18:03:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආණඩව-හඳ-ගමනක-යනව/101-680736) · `si`
-
-Former minister SBs that the national power will be well presented in the world well. Dissanayake said.
-
-The former minister said that he believed that he believed that the Chinese Communist government did in this journey, it should be convened to the country as the Communist government's commerce.
-
-He pointed out that the government is strengthening and that the opposition is weak.
-
-◼️
-
-[Data](articles/96769321.json)
-
-[Extended Data](ext_articles/96769321.ext.json)
-
----
-
-### "The government is taking a good trip,"
-
-*2025-10-04 18:03:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආණඩව-හඳ-ගමනක-යනව/1-680736) · `si`
-
-Former minister SBs that the national power will be well presented in the world well. Dissanayake said.
-
-The former minister said that he believed that he believed that the Chinese Communist government did in this journey, it should be convened to the country as the Communist government's commerce.
-
-He pointed out that the government is strengthening and that the opposition is weak.
-
-◼️
-
-[Data](articles/623805e2.json)
-
-[Extended Data](ext_articles/623805e2.ext.json)
-
----
-
-### Sri Lankan legendary actor "Ramaiah Chidambaram" passed away
-
-*2025-10-04 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/226901) · `ta`
-
-"Ramaiah Chidambaram", a Sri Lankan legendary actor and owner of many awards, passed away today (04).
-
-◼️
-
-[Data](articles/b4a9378f.json)
-
-[Extended Data](ext_articles/b4a9378f.ext.json)
-
----
-
-### Sri Lanka and Australia gives up
-
-*2025-10-04 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215341) · `si`
-
-The competition between Sri Lanka and Australia, the Sri Lanka and Australia of the Women's ODI World Cup has been abandoned due to rain.
-
-The tournament between Sri Lanka and Australia in the women's World Cup, the commencement of bad weather.
-
-Accordingly, at 3.00 pm in Colombo. Unable to see the toss of the coin that was to start at Premadasa cricket stadium.
-
-This is the second match facing the Sri Lankan team of the tournament and the first match was defeated before the Indian women's group.
-
-Australian women's group won the New Zealand by 89 runs in the first match they faced.
-
-◼️
-
-[Data](articles/88d2841d.json)
-
-[Extended Data](ext_articles/88d2841d.ext.json)
-
----
-
-### Youth and girl killed in accident
-
-*2025-10-04 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/226898) · `ta`
-
-Horana police said that the youth and girl were killed in an accident near Kathanwila Vihara on the Horana - Moragahahena road.
-
-Police said the accident occurred when a motorcycle and lorry collided.
-
-The two men and women riding a bicycle during the accident were injured and the two were admitted to the hospital after being admitted to the hospital, police said.
-
-The deceased are a 21 -year -old girl from Moragahahena and a 24 -year -old youth.
-
-◼️
-
-[Data](articles/6e64a75d.json)
-
-[Extended Data](ext_articles/6e64a75d.ext.json)
-
----
-
-### Change quickly in driver's permit bond distribution; Ministers
-
-*2025-10-04 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/226897) · `ta`
-
-Transport Ministry has decided to increase the validity period from 8 years. A Technical Assessment Committee has also been appointed to review the matter and present the appropriate plan.
-
-Considering the age and physical qualification of the applicants when obtaining a driver's permits, the Ministry of Transport further stated that the validity of the driver's permit bonds is scheduled to increase over 8 years.
-
-The idea has also been proposed to increase the validity period for new applicants and driver's licenses for driver's licenses over the age of 40 and over 40 years.
-
-However, Transport Minister Bimal Ratnayake has said that this is not a decision and only a project. Even if such action is taken, it does not apply to heavy motorists. The Minister added that heavy motorists should renew their driver's permits every 3 years.
-
-...
-
-[Data](articles/1ac6c1b0.json)
-
-[Extended Data](ext_articles/1ac6c1b0.ext.json)
-
----
-
-### Thunderstorms Expected This Evening; Public Advised to Take Precautions
-
-*2025-10-04 17:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/thunderstorms-expected-this-evening-public-advised-to-take-precautions) · `en`
-
-COLOMBO (News 1st); The department of Meteorology announced that, Atmospheric conditions are favorable for thunderstorms in the evening. Therefore, general public is advised to take adequate precautions to minimize damages caused by heavy rain, strong winds and strong lightning during thundershowers.Showers or thunder showers will occur at several places in most parts of the island after 1.00 p.m.Heavy showers above 100 mm are likely at some places in Northcentral, Eastern, Central and Uva provinces.
-
-◼️
-
-[Data](articles/9c962c1d.json)
-
-[Extended Data](ext_articles/9c962c1d.ext.json)
-
----
-
-### Salary Disparities to Be Addressed in Budget
-
-*2025-10-04 17:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/04/salary-disparities-to-be-addressed-in-budget) · `en`
-
-COLOMBO (News 1st); The Ministry of Public Administration, Provincial Councils, and Local Government says that this year’s budget will address salary disparities for certain groups of public servants.Minister of Public Administration, Provincial Councils, and Local Government, Dr. Chandana Aberathna, said that a further portion of the salary increments for public servants announced in the previous budget is planned to be paid in this year’s budget.The Minister also noted that an accelerated program is underway to eliminate salary disparities within the public service.The 2026 budget, which will be the second reading of the budget speech, is scheduled to be presented to Parliament by President Anura Kumara Dissanayake, in his capacity as Minister of Finance, on the 7th of November.
-
-◼️
-
-[Data](articles/e6bb0485.json)
-
-[Extended Data](ext_articles/e6bb0485.ext.json)
-
----
-
-### The Mannar windmill stretches - as the government of the people, the government should come to the contribution;  NM Alam
-
-*2025-10-04 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/226896) · `ta`
-
-The Mannar district is disabled due to the protests in Mannar. As the government is facing massive risks due to this struggle, the Mannar people are fighting for their struggle and the solution to the solution. The Secretary of the Mannar District Fisheries Co -operative Society NM Alam said that the government should come to the government as a government government.
-
-He was speaking at a media briefing held at the office in Mannar on Saturday (4) afternoon.
-
-The problems faced by the people of Mannar district are now the mainstay of the construction of wind power towers for the wind power generation project.
-
-The issue is a speech object at home and internationally, not just the Mannar district.
-
-The windmill project has been clearly illustrated by the people who have been democratically voicing the people in the Mannar Island area.
-
-Protests were carried out by the people in front of the Presidential Secretariat in Mannar District and Colombo against the windmill.
-
-...
-
-[Data](articles/9784c088.json)
-
-[Extended Data](ext_articles/9784c088.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 13:20:26**
+As of **2025-10-06 13:40:26**
 
 ## Newspaper Stats
 
-*Scraped **81,495** Articles*
+*Scraped **81,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 619
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 848
+lankadeepalk | 854
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
@@ -21,17 +21,35 @@ adalk | 7,801
 adaderanalk | 10,468
 tamilmirrorlk | 12,100
 virakesarilk | 13,393
-adaderanasinhalalk | 14,006
+adaderanasinhalalk | 14,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,492 (100.0%) of 81,495 articles have been extended.
+81,492 (100.0%) of 81,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### සෝමාවතියට පුරාවිද්‍යා පර්යේෂණායතනයක්
+
+*2025-10-06 13:03:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සමවතයට-පරවදය-පරයෂණයතනයක/101-680789) · `si`
+
+පොළොන්නරුව ඓතිහාසික සෝමවතී පුද බිමේ අභිනවයෙන් ඉදිකරන ලද පුරාවිද්‍යා කෞතුකාගාරය සහ ජාත්‍යන්තර පුරාවිද්‍යා පර්යේෂණ ආයතනය සහිත දෙමහල් මන්දිරය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (06) පෙරවරුවේ විවෘත කෙරිණි.
+
+පොළොන්නරුව ඓතිහාසික සෝමවතී චෛත්‍ය වන්දනා කිරීමට සහ  අධ්‍යාපනික පර්යේෂණ කටයුතු වල යෙදෙන සියලුදෙනාගේ පහසුව පිණිස මෙම පුරාවිද්‍යා කෞතුකාගාරය සහ ජාත්‍යන්තර පුරාවිද්‍යා පර්යේෂණ ආයතනය ඉදිකර තිබේ.
+
+ඓතිහාසික සෝමවතී රජමහා විහාරාධිපති  මල්වතු පාර්ශ්වයේ ලේඛකාධිකාරී ආචාර්ය  පහමුණේ ශ්‍රී සුමංගල නා හිමිගේ අනුශාසනා පරිදි රත්න සමූහ ව්‍යාපාරයේ සභාපති දේශමාන්‍ය මිත්‍රපාල ලංකේෂ්වර මහතාගේ පූර්ණ ධන පරිත්‍යාගයෙන් මෙම දෙමහල් මන්දිරය පුරාවිද්‍යා දෙපාර්තමේන්තුවේ සැලසුම් සහ අධික්ෂණය යටතේ ඉදිකර ඇත.
+
+ඓතිහාසික සෝමවතී පුදබිම වෙත අද (06)  ගිය ජනාධිපතිවරයා චෛත්‍ය අභියස ආගමික වතාවත්වල නිරතව ආශිර්වාද ලබා ගත්තේය.
+
+...
+
+[Data](articles/710ea53f.json)
+
+---
 
 ### 38-Year-Old Arrested in Hirana With Hashish Worth Over Rs. 8 Million
 
@@ -42,6 +60,44 @@ COLOMBO (News 1st):An individual with Hashish narcotic in his possession was arr
 ◼️
 
 [Data](articles/cc833817.json)
+
+---
+
+### දෙහිවල සත්වෝද්‍යානයේ පරෙවියන් 32ක් සොරකම් කරලා
+
+*2025-10-06 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215399) · `si`
+
+දෙහිවල ජාතික සත්වෝද්‍යානයෙන් පරෙවියන් තිස් දෙදෙනෙකු සොරකම් කර ඇති බව එහි පාලනාධිකාරිය පවසයි.
+
+එහි නියෝජ්‍ය අධ්‍යක්ෂ හේමන්ත සමරසේකර මහතා සඳහන් කළේ මේ සම්බන්ධයෙන් දෙහිවල පොලිසියට පැමිණිලි කර ඇති බවය.
+
+එහි නියෝජ්‍ය අධ්‍යක්ෂවරයා පවසන්නේ පසුගිය සිකුරාදා රාත්‍රී කාලයේදී හෝ සෙනසුරාදා දින අලුයම් කාලයේ දී මෙම සතුන් සොරකම් කරන්නට ඇතැයි සැකකරන බවය.
+
+සතුන් රඳවා සිටි කූඩුවක් කඩා මෙම පරෙවියන් සොරකම් කර ඇති අතර එම පරෙවියන් අධිකරණ නියෝග යටතේ විවිධ අවස්ථාවන්වලදී නඩු භාණ්ඩ ලෙස දෙහිවල සත්වෝද්‍යානයේ රදවා සිට ඇති බව සඳහන් වේ.
+
+සිද්ධිය සම්බන්ධයෙන් විනය ක්‍රියාමාර්ග යටතේ සත්ත්වෝද්‍යානයේ එම සතුන් සිටි අංශය භාරව කටයුතු කළ නිලධාරියාගේ වැඩ තහනම් කිරීමට ද පියවර ගෙන ඇති බව නියෝජ්‍ය අධ්‍යක්ෂ හේමන්ත සමරසේකර මහතා වැඩිදුරටත් පැවසුවේය.
+
+කෙසේවෙතත් මෙතෙක් මෙම සොරකමට සම්බන්ධ පුද්ගලයෙකු හෝ සොරාගත් පරෙවියන් පිළිබඳව කිසිදු තොරතුරක් වාර්තා වී නොමැති බව දෙහිවල පොලිසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/96fce326.json)
+
+---
+
+### සුළඟ වැස්ස  වාර 30000ක් ලයිට් කපලා
+
+*2025-10-06 12:59:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සළඟ-වසස-වර-30000ක-ලයට-කපල/101-680788) · `si`
+
+මේ දිනවල පවතින වැහිබර අයහපත් කාලගුණ තත්වය හේතුවෙන් රට පුරා   විදුලිය බිඳ වැටීම් තිස්දහසක් පමණ සිදුව ඇතැයි විදුලි  බල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක ධම්මික විමලරත්න මහතා පැවසීය.
+
+විදුලිය බිඳ වැටීම් බොහොමයක් සිදුවී ඇතැයි පැවසෙන්නේ  විශාල ප්‍රමාණයේ  ගස් කඩා වැටීම හේතුවෙනි.
+
+මේ අතර විදුලියේ අකුරට වැඩ කිරීමේ ව්‍යාපාරය හේතුවෙන් විදුලිය බිඳ වැටීම් යථා තත්වයට පත් කිරීමේ  කිසියම් ප්‍රමාදයක් මතුව ඇති බව ආරංචි මාර්ග සඳහන් කළේය.
+
+◼️
+
+[Data](articles/3cdeeacf.json)
 
 ---
 
@@ -1193,6 +1249,24 @@ However, it has been revealed that the number of people in 2024 in 2024 in 2024 
 
 ---
 
+### අදත් ප්‍රදේශ රැසකට වැස්ස
+
+*2025-10-06 06:52:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අදත-පරදශ-රසකට-වසස/1-680775) · `si`
+
+ගිගුරුම් සහිත වැසි ඇති වීමේ හිතකර වායු ගෝලිය තත්වයක් සවස් කලයේ බොහෝ ප්‍රදේශවල පවතී.
+
+දිවයිනේ බොහෝ ප්‍රදේශවලට පස්වරු 1.00 පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+උතුරු, උතුරු - මැද, නැගෙනහිර, මධ්‍යම, සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 50ට වැඩි තරමක තද වැසි ඇති වේ  බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදි වැසි ස්වල්පයක් ඇති විය හැකියි.
+
+තද සුළං සහ ප්‍රබල අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නැයි ජනතාවට දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/b3324e70.json)
+
+---
+
 ### Rain in many areas today
 
 *2025-10-06 06:52:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අදත-පරදශ-රසකට-වසස/101-680775) · `si`
@@ -1237,6 +1311,24 @@ Speaking to reporters earlier, Trump said he thought the hostages would start to
 
 ---
 
+### වප් පොහෝය අදයි
+
+*2025-10-06 06:44:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වප-පහය-අදය/1-680774) · `si`
+
+බෞද්ධ ජනයා කඨින චීවරය ප්‍රදානය කරනු ලබන පුණ්‍යෝත්සවය වස් පොහෝ දිනයෙන් ආරම්භවේ. වෙසක්, පොසොන්, ඇසළ පුර පසළොස්වක ථෙරවාද සම්ප්‍රදාය අනුගමනය කරන රටවල,බෞද්ධයන්ට වප්පුර පසළොස්වක පොහෝ දිනය විශේෂ වැදගත්කමක් ඇත.
+
+වර්ෂයකට එක් වරක් එක විහාරස්ථානයක පමණක් කළ හැකි දුර්ලභ ගණයේ පින්කමක් වන මෙම පිංකමට සැදැහැති බෞද්ධයන්ගේ ආරාධනයෙන් ඇසළ පුන් පොහෝ දින සිට මාස තුනක් විනයානුකූලව පෙර වස් විසූ භික්ෂූන් වහන්සේ නමකට පමණක් කඨින චීවරය පූජා කළ හැකිය. එසේ නොවන්නට කඨින පින්කමක් කළ නො හැකිය.
+
+කෙනෙකුට ඇසිය හැකි ප්‍රශ්නයක් නම් කඨින චීවරයක හා වෙනත් චීවරයක පෙනෙන්නට ඇති වෙනසක් නොමැති නිසා මෙය දුර්ලභ ගණයේ පින්කමක් වන්නේ කෙසේ ද යන්නයි. ඒ පිළිබඳව ශාස්ත්‍රපති බම්බලපිටිය වජිරාරාම වාසී ඤාණසීහ හිමියන් සමග කළ සාකච්ඡාවකි.
+
+අතීතයේ නම් පාංශකූලිකව හෝ එදිනම වියා ලබාගත් වස්ත්‍රයක් පඬු පොවා, කඩ කපා මසා පූජා කරන චීරයක වෙනසක් පෙනෙන්නට තිබෙනවා. වර්තමානයේ එවැන්නක් ඉතා විරල දසුනක් වුව ද මාස තුනක් පේ වී ලබා දෙන නිසා වෙනසක් නැත්තේම නොවේ.
+
+...
+
+[Data](articles/39ff7181.json)
+
+---
+
 ### Wap Pohoe is today
 
 *2025-10-06 06:44:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වප-පහය-අදය/101-680774) · `si`
@@ -1274,6 +1366,24 @@ Showers may occur at a few places in Western and North-western provinces and in 
 [Data](articles/e4225fc7.json)
 
 [Extended Data](ext_articles/e4225fc7.ext.json)
+
+---
+
+### පොහොට්ටුවේ නායකයෝ ආරක්ෂක ලේකම් පොලිස්පති හමුවට
+
+*2025-10-06 06:32:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහටටව-නයකය-ආරකෂක-ලකම-පලසපත-හමවට/1-680773) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාව සම්බන්ධයෙන් ආරක්ෂක ලේකම් සහ පොලිස්පතිවරයා එන සතියේ හමුවේ සාකච්ඡා කිරීමට ශ්‍රී ලංකා පොදු ජන පෙරමුණ තීරණය කර ඇත.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ආරක්ෂක නිලධාරීන් පාවිච්චි කළ සියලුම වාහන රජය ලබා ගැනීමෙන් ඔහුට ආරක්ෂාව ලබාදීමට බරපතළ ගැටලුකාරී තත්වයක් පැන නැගී ඇති හෙයින් මෙම තීරණයට පැමිණි බව හිටපු ජනාධිපතිවරයාගේ මාධ්‍ය ප්‍රකාශක නීතිඥ මනෝජ ගමගේ මහතා පැවසීය.
+
+හිටපු ජනාධිපතිවරයාට ලබා දී තිබූ වෙඩි නොවදින රථය සහ තවත් වාහන දෙකක් රජයේ දැනුම් දීම අනුව පසුගියදා බාරදෙනු ලැබීය.
+
+මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂක නිලධාරීන්ට ගමන් කිරීමට මේ වන විට එකම වාහනයක් හෝ නොමැති ඇති බවද මාධ්‍ය ප්‍රකාශකවරයා කීවේය.
+
+◼️
+
+[Data](articles/0570fae1.json)
 
 ---
 
@@ -1318,6 +1428,26 @@ State Counsel Osanasi Regarazer, President's Counsel, appearing on behalf of the
 [Data](articles/30b0c014.json)
 
 [Extended Data](ext_articles/30b0c014.ext.json)
+
+---
+
+### රවීට - ඇලෝසියස්ට එරෙහි නඩු දෙකක් විභාගයට
+
+*2025-10-06 06:26:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රවට-ඇලසයසට-එරහ-නඩ-දකක-වභගයට/1-680772) · `si`
+
+මහල් නිවාසයක් මිලදී ගැනීම සම්බන්ධයෙන් හිටපු මුදල් අමාත්‍ය රවී කරුණානායක සහ අර්ජුන් ඇලෝසියස් යන මහත්වරුන්ට එරෙහිව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව ගොනුකර ඇති නඩුව එළඹෙන නොවැම්බර් මස 28වැනිදා විභාගයට ගැනීමට කොළඹ මහාධිකරණ විනිසුරු මොහොමඩ් මිහායිල් මහතා තීරණය කළේය.
+
+එහිදී චූදිත පාර්ශ්වයේ තර්කය වී තිබුණේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ නිර්වචනයන්ට පටහැනිව යන බැවින් හිටපු කැබිනට අමාත්‍යවරියකුට එරෙහිව අල්ලස් පනත යටතේ නඩු පැවරිය නොහැකි බවයි.
+
+මහාධිකරණය චූදිත පාර්ශ්වයේ විරෝධය ප්‍රතික්ෂේප කරමින් නඩුව විභාග කිරීම සඳහා දින නියම කළේය.
+
+මහල් නිවාසයක් මිලදී ගැනීමට අර්ජුන් ඇලෝසියස් මහතාට අයත් සමාගමක් සමාගමක් විසින් රුපියල් කෝටියකට වැඩි මුදලක් ගෙවීමක් කරනු ලැබ තිබීම සම්බන්ධයෙන් අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව මෙම නඩුව ගොනු කර ඇත.
+
+අධිකරණය මෙම චෝදනාවට අදාළව සාක්ෂි දීමට හය දෙනකු කැඳවා ඇති අතර එම පිරිසට මහා නිවාසය අලෙවි කළ සමාගමේ අධ්‍යක්ෂවරු දෙදෙනෙක්ද පාර්ලිමේන්තු මහ ලේකම්වරයාද ඇතුළත් වෙති.
+
+...
+
+[Data](articles/a5086b32.json)
 
 ---
 
@@ -1882,153 +2012,5 @@ The Criminal Investigations Department (CID) says that due to the controversial 
 [Data](articles/c2e2e96e.json)
 
 [Extended Data](ext_articles/c2e2e96e.ext.json)
-
----
-
-### Syunukorerus caught the entire village pyramids
-
-*2025-10-05 20:15:18* · [`adalk`](https://www.ada.lk/opinion/හදුන්කුරක්-නිසා-මුළු-ගමක්ම-පිරමීඩ-ජාවාරමකට-හසුවෙයි/2-418927) · `si`
-
-All people in Pannalgama village located in the Damana Divisional Secretariat Division have become a pyramid racket. Nearly a few months ago, a location of Paradagama village in Pannalgama has launched a house in the village.
-
-Shortlynly, it was launched as a introductory business and given a chance to participate in the village.
-
-When a person deposits a sum of Rs.
-
-Donated the village of Pannalgama, and a large number of Rs.
-
-The business was also published in the village everywhere in the village and elected representatives to each position and obtain funds through the representatives.
-
-The racketeer subsequently increased Rs.
-
-The business of the village was a huge advantage of the business, the people of the village mortgaged their paddy fields and parked the interests of Rs.
-
-When the raw materials needed for a while, some people have taken their refunds and demanded that others will provide ingredients.
-
-...
-
-[Data](articles/ff7c333e.json)
-
-[Extended Data](ext_articles/ff7c333e.ext.json)
-
----
-
-### 20 years for Derana
-
-*2025-10-05 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215378) · `si`
-
-Adaction of the Television Channels, which have been informed of our heritage in an era where the rest of the television media has been able to explore new concepts is on October 11, 2005.
-
-Derana Today, Televic, Recreation, News, Time and Political Programs, Sri Lanka's reality telephones, as well as the arts of Sri Lanka is overcome.
-
-TV Derana introduced the 'Derana Little Star' to the national level of the Sri Lankan children's generation to national level.
-
-Until then, the country has made the first and the same reality competitions in the international standard of the country.
-
-Miss Srilanka For MISS Univers Tournament in 2006. Derana, Derana Drena Star, Derana Drena City Of Dance, Derana 60 plus, including Drana Film Awards, and Pranama.
-
-The leading TV Dealers, the leader of the artistic art, was highly prosperous to the Sri Lankan television art through teledramas such as second innings, music, school.
-
-...
-
-[Data](articles/89147a77.json)
-
-[Extended Data](ext_articles/89147a77.ext.json)
-
----
-
-### Amber Alert Issued For Severe Lightning Across Several Provinces
-
-*2025-10-05 19:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/amber-alert-issued-for-severe-lightning-across-several-provinces) · `en`
-
-COLOMBO (News 1st); The Department of Meteorology has issued an amber advisory for severe lightning. Accordingly, Thundershowers accompanied with severe lightning are likely to occur in Northern, Northcentral, Eastern, Uva and North-western provinces and in Matale district.There may be temporary localized strong winds during thundershowers. General public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-◼️
-
-[Data](articles/40960b20.json)
-
-[Extended Data](ext_articles/40960b20.ext.json)
-
----
-
-### World Residential Day Events led by President at the Alary House
-
-*2025-10-05 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226979) · `ta`
-
-World Residential Day events were held on Sunday morning (05) at the Alari House under the patronage of President Anuragumara Dissanayake.
-
-Under the theme of 'Own Own - A Beautiful Life', its national event was held and the residential week was announced from October 01-05 and various projects were implemented.
-
-The President handed over a thousand houses completed under electronic technology through electronic technology to construct houses for about 4,000 poor families who do not have funds for the construction of houses.
-
-Under the intervention of the UN Habitat Sri Lanka Office, the Identification of the Ambatale Water Supply Scheme, which is implemented under the help of the Government of India's Coalition for Disaster Resilient Infrastructure (CDRI), was officially handed over to the President.
-
-...
-
-[Data](articles/75216872.json)
-
-[Extended Data](ext_articles/75216872.ext.json)
-
----
-
-### Gunmen kill two, injure 12 in shootout in crowd in Alabama’s Montgomery
-
-*2025-10-05 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113238/gunmen-kill-two-injure-12-in-shootout-in-crowd-in-alabamas-montgomery) · `en`
-
-Rival gunmen started shooting at each other in a crowded downtown nightlife district in Alabama’s capital city Montgomery on Saturday night, killing two people and injuring 12 others, police said.
-
-Montgomery Police Chief James Graboys said three of the injured were hospitalized with life-threatening injuries. Police were called around 11:30 p.m. to what Graboys described as a “mass shooting.”
-
-“This was two parties involved that were basically shooting at each other in the middle of a crowd,” Graboys told reporters near the scene.
-
-The shooters, he said, “did not care about the people around them when they did it.”
-
-Police had reported no arrests Sunday morning, and hadn’t released details about how many people had fired or what kinds of weapons had been used.
-
-...
-
-[Data](articles/f40816e3.json)
-
-[Extended Data](ext_articles/f40816e3.ext.json)
-
----
-
-### Sailor from India missing from merchant ship off Sri Lankan coast – report
-
-*2025-10-05 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113237/sailor-from-india-missing-from-merchant-ship-off-sri-lankan-coast-report) · `en`
-
-A 22-year-old merchant navy cadet from India has gone missing off the coast of Sri Lanka while serving aboard an oil tanker, his family confirmed on Saturday.
-
-Karandeep Singh Rana disappeared on September 20 during the vessel’s voyage from Iraq to China, with a planned stop near Sri Lanka, according to his father, Narendra Singh Rana.
-
-Karandeep had left Dehradun on August 18 and travelled to Singapore, where he boarded the tanker bound for Iraq. From there, the ship set sail towards China via Sri Lanka.
-
-Narendra, a resident of Dehradun’s Patel Nagar area, explained that the family was informed by the Mumbai office of Executive Ship Management (ESM) at around 9.30 pm on September 20 that Karandeep had gone missing despite extensive searches.
-
-“We were shocked to hear this because we had spoken to him that afternoon and he was perfectly fine,” he told PTI.
-
-After further inquiries, company officials told the family that Karandeep had gone to the deck alone and had not been found since.
-
-...
-
-[Data](articles/6e1d13e0.json)
-
-[Extended Data](ext_articles/6e1d13e0.ext.json)
-
----
-
-### Key fintech forum aims to foster collaboration between banks and technology companies
-
-*2025-10-05 18:55:00* · [`islandlk`](http://island.lk/key-fintech-forum-aims-to-foster-collaboration-between-banks-and-technology-companies/) · `en`
-
-In a move to accelerate the evolution of digital financial services, the newly formed Fintech Forum is poised to become a central hub for strengthening collaboration between banks and technology companies in Sri Lanka.According to Sumudu Gunawardhana, Chief Information Officer of Commercial Bank of Ceylon PLC, the Forum creates a vital space for dialogue and partnerships. This comes at a time when banks are actively shifting from being mere custodians of money to becoming comprehensive lifestyle partners for their customers.
-
-“The focus is on growing wallet share. Banks aspire to be the central hubs of consumer spending, evolving into aggregators of services,” Gunawardhana explained. “A bank cannot make and sell all these things consumers want to buy. That is where fintechs play an important role.”
-
-...
-
-[Data](articles/85ea629a.json)
-
-[Extended Data](ext_articles/85ea629a.ext.json)
 
 ---

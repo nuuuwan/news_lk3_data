@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 05:05:53**
+As of **2025-10-07 04:38:29**
 
 ## Newspaper Stats
 
-*Scraped **81,696** Articles*
+*Scraped **81,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 895
+lankadeepalk | 894
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,695 (100.0%) of 81,696 articles have been extended.
+81,695 (100.0%) of 81,695 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -402,24 +402,6 @@ Vijay Deverakonda seems to have survived the wounds without injuries as the car 
 [Data](articles/bc7b5d68.json)
 
 [Extended Data](ext_articles/bc7b5d68.ext.json)
-
----
-
-### උඩු මහලින් වැටුණු හිමි නම අපවත් වෙති
-
-*2025-10-06 21:59:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උඩ-මහලන-වටණ-හම-නම-අපවත-වත/101-680811) · `si`
-
-ශ්‍රී ලංකා බෞද්ධ හා පාලි විශ්වවිද්‍යාලයේ තෙවැනි වසරේ අධ්‍යාපනය හදාරමින් සිටි හිමිනමක විශ්වවිද්‍යාලයේ නේවාසිකාගරයක දෙවන මහලින් බිමට ඇද වැටී බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටිය අපවත් වී ඇතැයි හෝමගම මූලස්ථාන පොලිසිය පවසයි.
-
-මෙලෙස අවසනාවන්ත ලෙස අපවත් වී ඇත්තේ ගම්පහ වේයන්ගොඩ ප්‍රදේශයේ විහාරස්ථානයක පැවිදිව සිටි  දෙහිඅත්තකණ්ඩියේ සුමංගල නැමැති 24 හැවිරිදි හිමිනමකි.
-
-උන්වහන්සේ ඉකුත් 26 දින අලුයම 2.30ට පමණ භික්ෂු නේවාසිකාගාරයේ දෙවන මහලින් ඇද වැටීමෙන් පසු සිසුන් විසින් ම විශ්වවිද්‍යාලයට බාහිරින් ගෙන්වාගෙන ඇති ත්‍රීරෝද රථයකින් හෝමාගම රෝහලට ඇතුළත් කීරීමට උත්සාහය කොට පසුව එම ත්‍රීරෝද රථයයෙන්ම කොළඹ ජාතික රෝහලට රැගෙන ගොස් ඇතැයි ද පොලිසිය පවසයි.
-
-මේ සම්බන්ධයෙන් හෝමගම ශ්‍රී ලංකා බෞද්ධ හා පාලි විශ්වවිද්‍යාලයේ මහෝපාධ්‍ය හෝමාගම ධම්මානන්ද හිමියන්ගෙන් කළ විමසීමකදී මෙසේ පැවසූහ.
-
-...
-
-[Data](articles/d24a913c.json)
 
 ---
 
@@ -2032,5 +2014,27 @@ The Minister said that all services were carried out by recruiting to make the p
 [Data](articles/ee103618.json)
 
 [Extended Data](ext_articles/ee103618.ext.json)
+
+---
+
+### Bail for the arrested lawyer in Jaffna
+
+*2025-10-06 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227037) · `ta`
+
+Attorney -at -Law has been released on bail of Rs.
+
+Attorney -at -Law at the Attorney -at -Law on Monday (06), who had completed the affirmation of the land on the basis of investigations into the fraud of a land affirmation in the outer area of ​​Jaffna.
+
+After investigating the arrested lawyer, the police have been granted a foreign travel ban, as the Mallakam Magistrate's Magistrate's Court has been allowed to go on a two -day bail worth Rs 10 lakhs.
+
+Meanwhile, the police have reportedly entered the house of the lawyer's house on Sunday and were searching for the police without any court orders and the lawyers will be carrying out a protest on Tuesday, denouncing the police.
+
+Police said they have taken steps to arrest them as some lawyers have been directly involved in the land fraud cases in Jaffna.
+
+◼️
+
+[Data](articles/bd7bb87f.json)
+
+[Extended Data](ext_articles/bd7bb87f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 17:20:28**
+As of **2025-10-06 17:43:11**
 
 ## Newspaper Stats
 
-*Scraped **81,600** Articles*
+*Scraped **81,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,35 @@ adalk | 7,806
 adaderanalk | 10,480
 tamilmirrorlk | 12,116
 virakesarilk | 13,425
-adaderanasinhalalk | 14,014
+adaderanasinhalalk | 14,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,600 (100.0%) of 81,600 articles have been extended.
+81,600 (100.0%) of 81,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### අද රෑට සුපර් මූන්
+
+*2025-10-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215408) · `si`
+
+වප් පුර පසළොස්වක පොහොය යෙදී ඇති අද (06) චන්ද්‍රයා "සුපර් මූන්" ලෙස දිස්වන බව නවීන තාක්ෂණය පිළිබඳ ආතර් සී ක්ලාක් ආයතනය පවසයි.
+
+ඒ අනුව, අද දිනයේ චන්ද්‍රයා, සාමාන්‍ය පුර්ණ චන්ද්‍රයාට සාපේක්ෂව සියයට 7ක පමණ විශාලත්වයකින් හා වැඩි දීප්තියකින් දිස්වන බව එම ආයතනයේ පර්යේෂණ විද්‍යාඥ තීක්ෂණ පියදාස මහතා පවසයි.
+
+චන්ද්‍රයා "සුපර් මූන්" ලෙස දිස්වන අවස්ථා වසරකට කිහිප වරක් දැක ගත හැකි වන අතර ඉලිප්සාකාර කක්ෂයේ දී චන්ද්‍රයා පෘථිවියට වඩාත් ආසන්නයෙන් ගමන් කිරීම හේතුවෙන් මෙම තත්ත්වය ඇතිවන බව ඔහු සඳහන් කළේය.
+
+එමෙන්ම අද දිනයේ පුර්ණ චන්ද්‍රයා අසලින් සෙනසුරු ද නිරීක්ෂණය කළ හැකි බව නවීන තාක්ෂණය පිළිබඳ ආතර් සී ක්ලාක් ආයතනයේ පර්යේෂණ විද්‍යාඥ තීක්ෂණ පියදාස මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/86dfe281.json)
+
+---
 
 ### The Breakabout switches and three dead
 
@@ -64,6 +82,20 @@ The tusker had participated in the annual procession of the historic Bellanwila 
 [Data](articles/c67ab589.json)
 
 [Extended Data](ext_articles/c67ab589.ext.json)
+
+---
+
+### බෙල්ලන්විල 'මැණිකා' ජීවිතයට සමුදෙයි
+
+*2025-10-06 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215407) · `si`
+
+බෙල්ලන්විල විහාරයේ සිටි වයස අවුරුදු 76ක් පමණ වූ 'මැණිකා' නම් ඇතින්න අද (06) පස්වරුවේ මියගොස් ඇත.
+
+ඓතිහාසික බෙල්ලන්විල රජමහා විහාරයේ පෙරහැර සඳහා මැණිකා ඇතින්නිය වසර ගණනාවක් පුරා සහභාගී වී තිබේ.
+
+◼️
+
+[Data](articles/4b7bd181.json)
 
 ---
 
@@ -1982,47 +2014,5 @@ The business was advertised in the village and all the surrounding villages, and
 [Data](articles/9a156f66.json)
 
 [Extended Data](ext_articles/9a156f66.ext.json)
-
----
-
-### Children are my friends
-
-*2025-10-06 11:31:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරව-තමය-මග-මතර/101-680784) · `si`
-
-Many days from the day of his visit to Carlton home
-
-"It is a pleasure to be their friend as their friend, who showed a drawing, and telling children who are reading stories," he says.
-
-Mr. Mahinda Rajapaksa is a note on his official Facebook site.
-
-"I think that the best thing I can give me the best thing I can give me for the herd in herborn generation of our country by ending the dark age of the motherland and won a free country. I wish the people of this country were smiling and dreaming and dreamed of their children.
-
-All the teachers of the world and the forefront of the teachers, including the teachers and fathers who are in the forefront of the children, are also honored today, as well as the teachers of the country, including the world's dreams.
-
-◼️
-
-[Data](articles/db0c5051.json)
-
-[Extended Data](ext_articles/db0c5051.ext.json)
-
----
-
-### Dehiwala Zones 32 pigees missing
-
-*2025-10-06 11:25:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දහවල-සතන-වතතන-පරවයන-32ක-අතරදන/101-680783) · `si`
-
-Thirty National Zoo, two pigeons were stolen, Dehiwala police said.
-
-The assistant Director of the National Zoologian has complained to the Dehiwala Police that the theft had taken place on the 4th.
-
-The pigeons were handed over to the Dehiwala National Zoo after a directive in India from Boat from India.
-
-No information has been revealed to the lost pigeons. Police are conducting further investigations.
-
-◼️
-
-[Data](articles/93ae9f13.json)
-
-[Extended Data](ext_articles/93ae9f13.ext.json)
 
 ---

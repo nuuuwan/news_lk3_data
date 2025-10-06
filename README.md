@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 20:21:22**
+As of **2025-10-06 20:38:32**
 
 ## Newspaper Stats
 
-*Scraped **81,612** Articles*
+*Scraped **81,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,8 +18,8 @@ economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,808
-adaderanalk | 10,483
-tamilmirrorlk | 12,117
+adaderanalk | 10,487
+tamilmirrorlk | 12,120
 virakesarilk | 13,425
 adaderanasinhalalk | 14,018
 
@@ -27,11 +27,47 @@ adaderanasinhalalk | 14,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,612 (100.0%) of 81,612 articles have been extended.
+81,612 (100.0%) of 81,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### ”மஹிந்தவை தூக்கிலிட வேண்டும்”
+
+*2025-10-06 19:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-தூக்கிலிட-வேண்டும்/175-365841) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ மீது கடுமையான தாக்குதலைத் தொடங்கிய ஃபீல்ட் மார்ஷல் சரத் பொன்சேகா, அவர் ஊழல், துரோகம் மற்றும் அரசு சொத்துக்களை தவறாகப் பயன்படுத்தியதாகக் குற்றம் சாட்டினார். அதே நேரத்தில், அரசியலமைப்பின் படி, ராஜபக்ஷ "தூக்கு தண்டனைக்கு தகுதியானவர்" என்று கூறினார்.
+
+முன்னாள் ஜனாதிபதியின் விஜேராமவில் உள்ள உத்தியோகபூர்வ இல்லத்தை ஒப்படைப்பதில் ஏற்பட்ட தாமதங்கள் குறித்து ராஜபக்சவின் ஊடகத் தொடர்பாளர் வெளியிட்ட அறிக்கை குறித்து கருத்து தெரிவித்த பொன்சேகா, ஜனாதிபதி மாளிகை மற்றும் அலரி மாளிகையில் இருந்து மதிப்புமிக்க அரசு சொத்துக்கள் சட்டவிரோதமாக தனியார் இல்லத்திற்கு மாற்றப்பட்டுள்ளதாக குற்றம் சாட்டினார்.
+
+ராஜபக்‌ஷ முகாம், தனிப்பட்ட பொருட்களை அகற்றுவதற்கு முன்பு, அரசுத் துறைகள் அரசு சொத்துக்களின் பட்டியலை முடிக்கும் வரை காத்திருப்பதாக ஊடகத் தொடர்பாளரின் கூற்றை மேற்கோள் காட்டி, பொன்சேகா அந்த விளக்கத்தை கேலி செய்தார்.
+
+...
+
+[Data](articles/b0fd73ed.json)
+
+---
+
+### ​​சில அவசரகால பிரச்சினைகளுக்கு தீர்வு காண்பது கடினம்-அமைச்சர்
+
+*2025-10-06 19:39:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-அவசரகால-பிரச்சினைகளுக்கு-தீர்வு-காண்பது-கடினம்-அமைச்சர்/175-365840) · `ta`
+
+தற்போதைய மருந்துப் பற்றாக்குறையைத் தீர்ப்பதில் சில சட்டங்களும் விதிமுறைகளும் தடையாக மாறியுள்ளதாக சுகாதார அமைச்சர் கலாநிதி நளிந்த ஜயதிஸ்ஸ இன்று தெரிவித்தார்.
+
+கொழும்பு தேசிய மருத்துவமனையில் விபாசி பௌத்த மையத்தின் திறப்பு விழாவில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+சில சட்டங்களும் விதிமுறைகளும் பிரிட்டிஷ் காலனித்துவ காலத்திற்கு முந்தையவை என்றாலும், பெரும்பாலான சட்டங்களும் விதிமுறைகளும் ஒன்றோடொன்று தொடர்புடையவை என்பதால் அவற்றை எளிதில் திருத்த முடியாது என்று சுகாதார அமைச்சர் கூறினார்.
+
+"அரசாங்கத்திற்கு மூன்றில் இரண்டு பங்கு பெரும்பான்மை மற்றும் நிர்வாக அதிகாரங்கள் இருக்கும்போது இந்த சட்டங்களை மீற முடியாதா என்று சிலர் கேள்வி எழுப்பலாம். இந்த சட்டங்கள் மற்றும் ஒழுங்குமுறைகளில் பல சமீபத்தியவை அல்ல, ஆனால் பிரிட்டிஷ் சகாப்தத்திற்கு முந்தையவை என்பதை புரிந்து கொள்ள வேண்டும்," என்று அவர் கூறினார்.
+
+சில சட்டங்களைப் பின்பற்றி, குறிப்பிட்ட காலக்கெடுவை எடுத்துக் கொள்ளும்போது, ​​சில அவசரகால பிரச்சினைகளுக்கு தீர்வு காண்பது கடினம் என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/68b4f932.json)
+
+---
 
 ### Four Dead, Three Injured in Road Accidents Across Sri Lanka
 
@@ -44,6 +80,24 @@ COLOMBO (News 1st) : Four people have died and three others sustained injuries i
 [Data](articles/46b6fb2b.json)
 
 [Extended Data](ext_articles/46b6fb2b.ext.json)
+
+---
+
+### ”கம்மன்பிலவும் விமலும் நீண்ட காலமாக லூசு போல் பேசி வருகின்றனர்”
+
+*2025-10-06 19:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பிலவும்-விமலும்-நீண்ட-காலமாக-லூசு-போல்-பேசி-வருகின்றனர்/175-365839) · `ta`
+
+விமல் வீரவன்ச மற்றும் உதய கம்மன்பில போன்ற அரசியல்வாதிகள் தொடர்ந்து முட்டாள்தனமாகப் பேசினால் விசாரணைகளை எதிர்கொள்ளத் தயாராக இருக்க வேண்டும் என்று துணை அமைச்சர் மஹிந்த ஜெயசிங்க இன்று தெரிவித்தார்.
+
+"விமல் வீரவன்ச, கம்மன்பில மற்றும் எதிர்க்கட்சி குழு இது முந்தைய அரசாங்கங்களைப் போலவே இருப்பதாக நினைக்கிறார்கள். அவர்களால் இனி முட்டாள்தனமாகப் பேச முடியாது. அவர்கள் முட்டாள்தனமாகப் பேசினால், அவர்களின் அறிக்கைகள் தொடர்பான விசாரணைகள் மற்றும் விசாரணைகளை எதிர்கொள்ள அவர்கள் தயாராக இருக்க வேண்டும்," என்று அவர் கூறினார்.
+
+விமல் வீரவன்ச வாக்குமூலம் பதிவு செய்ய அழைக்கப்பட்டிருப்பது குறித்த கேள்விக்கு பதிலளிக்கும் போதே பிரதி அமைச்சர் இவ்வாறு கூறினார்.
+
+"கம்மன்பில நீண்ட காலமாக முட்டாள்தனமாகப் பேசி வருகிறார். விமல் வீரவன்ச முட்டாள்தனமாகப் பேசி வருகிறார். இது போன்ற முட்டாள்தனமாகப் பேசும் அனைத்து அரசியல்வாதிகளையும் ஆதாரங்களுடன் விசாரணைகளை எதிர்கொள்ளத் தயாராகுங்கள் என்று கூற விரும்புகிறேன்" என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/3e2b079b.json)
 
 ---
 
@@ -78,6 +132,42 @@ COLOMBO (News 1st): Sri Lankans will have a rare chance to witness a supermoon t
 [Data](articles/aede5154.json)
 
 [Extended Data](ext_articles/aede5154.ext.json)
+
+---
+
+### Israel deports 171 Gaza flotilla activists, including Greta Thunberg
+
+*2025-10-06 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113266/israel-deports-171-gaza-flotilla-activists-including-greta-thunberg) · `en`
+
+Israel said it deported on Monday (Oct 6) campaigner Greta Thunberg and another 170 activists from an international flotilla it had prevented last week from delivering aid to Gaza, sending them to Greece and Slovakia.
+
+Earlier, Swiss and Spanish activists from the flotilla said they were subjected to inhumane conditions during their detention by Israeli forces. Monday’s expulsions brought to 341 the total number deported from 479 detained.
+
+Israel’s foreign ministry issued a statement, accompanied by photos of Thunberg at the airport, saying all participants’ legal rights had been upheld and the only violence involved an activist who bit a female medic at Israel’s Ketziot prison.
+
+An Israeli foreign ministry spokesperson said Thunberg, a Swedish campaigner primarily for climate change, boarded a plane at Ramon airbase in Israel’s Negev Desert. Israel has dismissed the flotilla as a publicity stunt.
+
+...
+
+[Data](articles/bc3c6462.json)
+
+---
+
+### PM Harini to attend NDTV World Summit
+
+*2025-10-06 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113265/pm-harini-to-attend-ndtv-world-summit) · `en`
+
+Prime Minister Dr. Harini Amarasuriya is scheduled to attend the NDTV World Summit 2025 along with Indian Prime Minister Narendra Modi.
+
+The NDTV World Summit 2025 will mark an extraordinary moment in global dialogue, bringing together some of the most influential voices at present.
+
+Among them are two serving Prime Ministers: Narendra Modi of India and Harini Amarasuriya of Sri Lanka; and two former Prime ministers: Rishi Sunak of the United Kingdom and Tony Abbott of Australia.
+
+The Summit is scheduled to be held on 17th and 18th October 2025 in New Delhi and the theme of the 2025 edition will be, ‘Edge of the Unknown: Risk. Resolve. Renewal’.
+
+◼️
+
+[Data](articles/b262e1a9.json)
 
 ---
 
@@ -144,6 +234,22 @@ The accident had occurred when a group of women who had come to join the road to
 [Data](articles/b3155dcd.json)
 
 [Extended Data](ext_articles/b3155dcd.ext.json)
+
+---
+
+### One dead, two hospitalised due to drowning near Blue Beach Island
+
+*2025-10-06 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113264/one-dead-two-hospitalised-due-to-drowning-near-blue-beach-island) · `en`
+
+Three individuals have been swept away due strong currents while bathing in seas near the Blue Beach Island in Dikwella, police stated.
+
+Area residents had then acted swiftly to rescue the trio but one person was pronounced dead, according to police.
+
+The body of the deceased has been taken to the Batheegama Hospital, while the other two individuals have been admitted to the Matara General Hospital and are currently receiving treatment in the Intensive Care Unit (ICU).
+
+◼️
+
+[Data](articles/447b1b95.json)
 
 ---
 
@@ -356,6 +462,26 @@ IGP Priyantha Weerasuriya has been transferred with immediate effect.
 [Data](articles/8e8ef147.json)
 
 [Extended Data](ext_articles/8e8ef147.ext.json)
+
+---
+
+### 32 OICs transferred with immediate effect
+
+*2025-10-06 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113260/32-oics-transferred-with-immediate-effect) · `en`
+
+A total of 32 Officers-in-Charge (OICs) have been transferred and appointed to new positions with the approval of the National Police Commission.
+
+The transfers have been approved by Inspector General of Police Attorney-at-Law Priyantha Weerasooriya and are to be implemented with immediate effect, according to the Police Headquarters.
+
+Among the officers, 26 are Chief Inspectors of Police and six are Inspectors of Police.
+
+A total of nine Chief Inspectors and one Inspector have been reassigned to general duties.
+
+These officers have been relieved of their OIC roles and assigned to other duties as part of the reshuffle, said the Police headquarters.
+
+◼️
+
+[Data](articles/a4d328c1.json)
 
 ---
 
@@ -1882,139 +2008,5 @@ COLOMBO (News 1st): The newly constructed Somawathi Archaeological Museum and th
 [Data](articles/0fba68be.json)
 
 [Extended Data](ext_articles/0fba68be.ext.json)
-
----
-
-### Female lawyer arrested under land guarantee complaint in Jaffna
-
-*2025-10-06 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227014) · `ta`
-
-A female lawyer has been arrested by the Jaffna District Finance Crime Police on Monday (06) for allegedly writing land confirmation in Jaffna.
-
-The arrest was carried out for writing lands in the toyveli area and the lawyer from Mallakam has been arrested.
-
-Investigations are being carried out with the arrested lawyer. Police are taking steps to appear in court after investigations.
-
-◼️
-
-[Data](articles/ddb28d22.json)
-
-[Extended Data](ext_articles/ddb28d22.ext.json)
-
----
-
-### Gun recovery from the trash can
-
-*2025-10-06 12:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குப்பை-மேட்டிலிருந்து-துப்பாக்கி-மீட்பு/175-365810) · `ta`
-
-Grandpass police said that a locally manufactured revolver rifle has been found on the Mathampitiya garbage junk.
-
-The gun was recovered on the basis of information provided to the authorities of the Kelaniya Police Special Task Force Camp.
-
-◼️
-
-[Data](articles/1f68a7c0.json)
-
-[Extended Data](ext_articles/1f68a7c0.ext.json)
-
----
-
-### Eight patients killed in hospital fire in India’s Jaipur
-
-*2025-10-06 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/113249/eight-patients-killed-in-hospital-fire-in-indias-jaipur) · `en`
-
-At least six critical patients were killed in a fire at the trauma centre of the state-run Sawai Man Singh (SMS) Hospital in Jaipur late Sunday, officials said.
-
-Trauma centre in-charge Dr Anurag Dhakad said 11 patients were being treated in the Neuro ICU when the fire erupted in the storage area, suspected to have been caused by a short circuit.
-
-Prime Minister Narendra Modi expressed grief over the tragedy, saying in a post in Hindi on X, “The loss of lives due to a fire tragedy at a hospital in Jaipur, Rajasthan, is deeply saddening. Condolences to those who have lost their loved ones. May the injured recover soon.” While some reports claimed that eight patients died in the fire, Dr Dhakad and hospital superintendent Dr Sushil Bhati maintained that the number of deaths was six.
-
-The state government has formed a high-level committee to probe the incident.
-
-...
-
-[Data](articles/e73f26fc.json)
-
-[Extended Data](ext_articles/e73f26fc.ext.json)
-
----
-
-### The mysterious items from the dilapidated house!
-
-*2025-10-06 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/227013) · `ta`
-
-The Colombo Southern Police Criminal Investigation Department said that weapons including gun, bullets and Magasin have been found from a dilapidated house in the Colombo -Dematagoda area.
-
-The weapons were found in a raid conducted by the Colombo South Police Criminal Investigation Division.
-
-The police said that the T-56 rifle, bullets and Mahasin were found.
-
-Police suspect that these weapons have been hidden in the dilapidated house for the killing of a underworld gang in the Barathillai -Vanathamulla area.
-
-The Colombo South Police Criminal Investigation Division is conducting further investigations.
-
-◼️
-
-[Data](articles/9202a57d.json)
-
-[Extended Data](ext_articles/9202a57d.ext.json)
-
----
-
-### The student who tried to take the ball that fell into the school swimming lake!
-
-*2025-10-06 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/227010) · `ta`
-
-Dikwella police said that a student was drowned in a swimming lake in a school in Dikwella, Matara.
-
-The deceased is a student in 12th grade, police said.
-
-The cricket ball fell into a swimming lake while the student was engaged in a cricket game at school yesterday.
-
-The student was drowned when the student tried to take the ball in the school swimming lake, police investigations revealed.
-
-◼️
-
-[Data](articles/11c270ac.json)
-
-[Extended Data](ext_articles/11c270ac.ext.json)
-
----
-
-### 1,000 people trapped in Everest
-
-*2025-10-06 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227015) · `ta`
-
-Due to heavy blizzards in the Tibet region of the world's tallest mountain, Everest, the world's tallest peak, about 1,000 people, including trekkers, are unable to get off the mountain.
-
-It has been reported that many people from different countries who were working on trekking camps in the mountains were trapped.
-
-The Chinese rescue personnel are actively engaged in the rescue of these thousand people who have been trapped in the blizzard.
-
-◼️
-
-[Data](articles/c93b8856.json)
-
-[Extended Data](ext_articles/c93b8856.ext.json)
-
----
-
-### A student who tried to take a cricket ball drowned
-
-*2025-10-06 12:19:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-பந்தை-எடுக்க-முயன்ற-மாணவன்-நீரில்-மூழ்கி-பலி/175-365809) · `ta`
-
-A 17 -year -old schoolgirl drowned in his school in Dikwella, who tried to take a swimming cricket ball.
-
-The deceased student Dikwella has been identified as a 12th grade student at Vijitha Maha Vidyalaya.
-
-While the student was playing cricket with his classmates, police said the ball accidentally fell into the swimmer.
-
-When he got into the water to recover, he could not come up again, so he drowned and died.
-
-◼️
-
-[Data](articles/c0cc69a9.json)
-
-[Extended Data](ext_articles/c0cc69a9.ext.json)
 
 ---

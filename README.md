@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 21:07:38**
+As of **2025-10-06 21:38:51**
 
 ## Newspaper Stats
 
-*Scraped **81,629** Articles*
+*Scraped **81,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 881
+lankadeepalk | 887
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
-adalk | 7,808
-adaderanalk | 10,487
+adalk | 7,809
+adaderanalk | 10,490
 tamilmirrorlk | 12,120
 virakesarilk | 13,425
 adaderanasinhalalk | 14,021
@@ -27,33 +27,85 @@ adaderanasinhalalk | 14,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,626 (100.0%) of 81,629 articles have been extended.
+81,632 (100.0%) of 81,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
-### අවුරුදු 15 - 29 වයස් අතර HIV ආසාදිතයන් වැඩිවීමක්
+### හෙට ඇරැඹෙන පාර්ලිමේන්තු සතියේ වැඩ වෙන්නෙ මෙහෙමයි
+
+*2025-10-06 21:19:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හට-ඇරඹන-පරලමනත-සතය-වඩ-වනන-මහමය/101-680806) · `si`
+
+පාර්ලිමේන්තුව හෙට(7) සිට 10 වැනි සිකුරාදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+ඔක්තෝබර් 7 වැනි අඟහරුවාදා පෙ.ව 9.30 - පෙ.ව. 10.00 කාලය ස්ථාවර නියෝග 22හි 1 සිට 6 දක්වා සඳහන් පාර්ලිමේන්තු කටයුතු සඳහා වෙන්කර ඇත. පෙ.ව 10.00 - පෙ.ව 11.00 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර තිබේ.පෙ.ව 11.00 - පෙ.ව 11.30 කාලය ස්ථාවර නියෝග 27(2) යටතේ ප්‍රශ්න සඳහා වෙන්කර ඇත. අනතුරුව පෙ.ව 11.30 - ප.ව 5.00 කාලය ක්‍රීඩාවල යෙදීමේ දී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති (සංශෝධන) පනත් කෙටුම්පත දෙවැනිවර කියවීම විවාදයට ගැනීමට නියමිතයි. අනතුරුව ප.ව 5.00 සිට ප.ව 5.30 දක්වා සභාව කල් තබන අවස්ථාවේ ඉදිරිපත් කරනු ලබන ප්‍රශ්න සඳහා කාලය වෙන්කර ඇත.
+
+...
+
+[Data](articles/94abd315.json)
+
+---
+
+### වකුගඩු එන්නත් කටුවෙන් ලොකු ගැහිල්ලක්
+
+*2025-10-06 21:15:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වකගඩ-එනනත-කටවන-ලක-ගහලලක/101-680805) · `si`
+
+වකුගඩු රෝගීන්ගේ රුධිර කාන්දු කරනය සඳහා යොදා ගන්නා එන්නත් කටු රජයේ රෝහල්වල නොමැති වීම හේතුවෙන් ඒවා පෞද්ගලික ඖෂධ සල්වලින් මිලදී ගැනීමට සිදුවීම හේතුවෙන් රුපියල් 100 කට වැනි මුදලකට තිබූ එම එන්නත් කටුවක් රුපියල් 760 ක් වැනි මුදලක් දක්වා ඉහල යාමෙන් රෝගීහු දැඩි අපහසුතාවයට පත්ව සිටිති.
+
+රජයේ රෝහල්වලට එම එන්නත් කටු ලබාදීම සඳහා ටෙන්ඩරය ලබා ගත් අදාල ආයතනය ප්‍රමිතියෙන් තොර එන්නත් කටු 400,000 ක් ආනයනය කිරීම හේතුවෙන් එම එන්නත් කටු ලබා ගැනීම ප්‍රතික්ෂේප කළ බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මහනුවරදී පැවසීය.
+
+එම එන්නත් කටු හිඟය හේතුවෙන් අදාල එන්නත් කටු පෞද්ගලික අංශයෙන් මිළදී ගැනීම සඳහා මුදල් වෙන් කොටදී තිබෙනන බවද අමාත්‍යවරයා පැවසීය.
+
+මෙම තත්ත්වය හමුවේ අදාළ ටෙන්ඩර්කරු පෞද්ගලික අංශයට ද එම එන්නත් කටු ලබාදීම සීමා කොට යම් හිගයක් මවා පා තිබෙන බව සෞඛ්‍ය හා ජනමාධ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හංසක විජේමුණි මහතාගෙන් කළ විමසීමකදී පැවසීය.
+
+◼️
+
+[Data](articles/2931f69f.json)
+
+---
+
+### මුරුතවෙල ජලාශයේ ගිලී ගුරුවරයෙකු මරුට
+
+*2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/101-680804) · `si`
+
+මුරුතවෙල ජලාශයේ දිය නාමින් සිටි 32 හැවිරිදි පාසැල් ගුරුවරයෙකු අද (06) සවස 3.30 ට පමණ  දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇතැයි මිද්දෙණිය පොලිසිය කියයි .
+
+ජීවිතක්ෂයට පත්ව ඇත්තේ වරල්ල මොරවක පදිංචි ඩබ්ලිව් .ජේ.කේ.බී.සුරේෂ් නමැති අයයි .
+
+ඔහු සිය මිතුරන් පිරිසක් සමග විනෝද චාරිකාවක පැමිණ මුරුතවෙල ජලාශයේ දිය නාමින් සිට ඇතැයි පොලිසිය පැවසීය
+
+පසුව සුවසැරිය ගිලන් රථයකින් දියේ ගිලුණු තැනැත්තා වලස්මුල්ල මූලික රෝහලට රැගෙන විත් තිබේ .
+
+◼️
+
+[Data](articles/30fdbb25.json)
+
+---
+
+### An increase in HIV infected agents 15 - 29 years old
 
 *2025-10-06 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215413) · `si`
 
-ශ්‍රී ලංකාවේ අවුරුදු 15 ත් 29ත් යන වයස් කාණ්ඩ අතර HIV ආසාදිතයන් වැඩිවීමේ ප්‍රවණතාවක් ඇති බව සෞඛ්‍ය අංශ අනතුරු අඟවා තිබේ.
+The health sector has warned that there is a trend between the age groups of 15 and three years in Sri Lanka.
 
-වැඩිම ආසාදිතයන් ප්‍රමාණයක් වාර්තා වී ඇත්තේ කොළඹ සහ ගම්පහ දිස්ත්‍රික්කවලින්ය.
+The highest number of infected persons have been reported from Colombo and Gampaha districts.
 
-HIV යනු ලෝකය තුළ ඇති දැඩි ව්‍යසනයක් ඇති කරන දරුණුතම ලිංගාශ්‍රිත වෛරස අතුරින් ප්‍රධාන වෛරසයකි.
+HIV is a major virus of the worst of the most disturbances in the world.
 
-ශරීරයේ ප්‍රතිශක්තිකරණ පද්ධතියට ඍජුවම ප්‍රහාර එල්ල කර ශරීරය දුර්වල කිරීම මෙමඟින් සිදුවන අතර කැස්සක්, හෙම්බිරිස්සාවක් වැනි කුඩා හෝ රෝගයක් වැළඳීමෙන් මරණය පවා සිදුවීම මෙහි ඇති භයානකම තත්ත්වයය.
+It is the most dangerous situation that the body is directly attacked directly to the body's immune system and weakening the body.
 
-HIV ආසාදිතයින් නිර්මාණය විය හැකි ප්‍රධාන ආකාර ත්‍රිත්වයක් සෞඛ්‍ය අංශ පෙන්වා දෙයි.
+The health sector points out the main types of major ways to create HIV infectedists.
 
-HIV රෝගියෙක් සිප වැළඳගැනීමෙන් මෙම රෝගය බෝවන්නේ නැහැ. ලිංගික තරල හරහායි මේ රෝගය බෝවෙන්නේ. ගුද මාර්ගික සංසර්ගය HIV ඇතිවීමට ප්‍රධානම හේතුවක්. මෙවැනි අනාරක්ෂිත ලිංගික සම්බන්ධතා නිසා ශරීරගත විය හැකි HIV වෛරසය මුළු ශරීරය පුරා පැතිරීමට ගතවෙන්නේ පැය 72ක පමණ කෙටි කාලයක්.
+The disease is not contagious by kissing the Patient HIV patient. The disease contagues through sex fluids. The main reason for anal traffic intercourse with HIV. The HIV virus that can lead to such unprotected sex is about 72 hours.
 
-විවිධ මත්ද්‍රව්‍ය එන්නත්කරගැනීමට එකම එන්නත් කටු භාවිත කිරීම මේ තත්තවයට හේතුවන්නට පුළුවන්.
+This situation may cause the use of vaccines to vaccinate various drugs.
 
 ...
 
 [Data](articles/64d79724.json)
+
+[Extended Data](ext_articles/64d79724.ext.json)
 
 ---
 
@@ -103,6 +155,30 @@ Meanwhile, inquiry by Minister of Justice, Hon.
 
 ---
 
+### Surging numbers of children using e-cigarettes: WHO
+
+*2025-10-06 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113270/alarming-number-of-people-now-vape-says-who) · `en`
+
+More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, the World Health Organization (WHO) is warning.
+
+Children are, on average, nine times more likely than adults to vape, it says, based on available global figures.
+
+The WHO’s Dr Etienne Krug said e-cigarettes were fuelling a “new wave” of nicotine addiction. “They are marketed as harm reduction but, in reality, are hooking kids on nicotine earlier and risk undermining decades of progress.”
+
+WHO Director General, Dr Tedros, accused the tobacco industry of “aggressively targeting” young people.
+
+“Millions of people are stopping, or not taking up, tobacco use thanks to tobacco control efforts by countries around the world,” he said.
+
+“In response to this strong progress, the tobacco industry is fighting back with new nicotine products, aggressively targeting young people. Governments must act faster and stronger in implementing proven tobacco-control policies,” he added.
+
+...
+
+[Data](articles/70f9654b.json)
+
+[Extended Data](ext_articles/70f9654b.ext.json)
+
+---
+
 ### "Mahinda should be executed"
 
 *2025-10-06 19:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-தூக்கிலிட-வேண்டும்/175-365841) · `ta`
@@ -123,15 +199,31 @@ Fonseka mocked the explanation of the media spokesman's claim that the Rajapaksa
 
 ---
 
-### රාජපක්ෂලාට එරෙහි වන SF
+### SF against the Rajapaksas
 
 *2025-10-06 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215412) · `si`
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට එරෙහිව දැඩි පියවර ගත යුතු බව ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා පවසයි.
+Field Marshal Sarath Fonseka says he should take strict action against former President Mahinda Rajapaksa.
 
 ...
 
 [Data](articles/3d1aa7be.json)
+
+[Extended Data](ext_articles/3d1aa7be.ext.json)
+
+---
+
+### Ex-President Mahinda should face strict action: Field Marshal Sarath Fonseka
+
+*2025-10-06 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113269/ex-president-mahinda-should-face-strict-action-field-marshal-sarath-fonseka) · `en`
+
+Former President Mahinda Rajapaksa should face strict action, says former Commander of the Sri Lanka Army Field Marshal Sarath Fonseka.
+
+...
+
+[Data](articles/d8e5c7eb.json)
+
+[Extended Data](ext_articles/d8e5c7eb.ext.json)
 
 ---
 
@@ -168,6 +260,30 @@ COLOMBO (News 1st) : Four people have died and three others sustained injuries i
 [Data](articles/46b6fb2b.json)
 
 [Extended Data](ext_articles/46b6fb2b.ext.json)
+
+---
+
+### 36-year-old woman arrested following tragic Gampola accident
+
+*2025-10-06 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113267/36-year-old-woman-arrested-following-tragic-gampola-accident) · `en`
+
+A tragic accident was reported earlier today (06) in Doluwa, Gampola, where three women lost their lives after being hit by a car.
+
+Police suspect that the cause of the accident was the reckless driving of a woman who was behind the wheel of the vehicle involved.
+
+The victims were among a group of four elderly women from Doluwa who were attempting to cross the road after attending a religious ceremony at around 1:30 p.m.
+
+Police stated a car approaching from behind struck all four women and then collided with a nearby lorry before coming to a stop.
+
+The impact trapped the women between the car and the lorry, causing severe injuries.
+
+Police confirmed that three of the women died at the scene, while the fourth woman was admitted to the Kandy National Hospital in critical condition.
+
+...
+
+[Data](articles/f0d602d7.json)
+
+[Extended Data](ext_articles/f0d602d7.ext.json)
 
 ---
 
@@ -211,27 +327,35 @@ Responding to a question of whether Wimal Weerawansa was invited to record the c
 
 ---
 
-### දොළුවේ මාරක අනතුරේ තවත් තොරතුරු එළියට
+### More information on the fatal accident
 
 *2025-10-06 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215411) · `si`
 
-පොහොය දිනයේ සිල් සමාදන්ව සිටි කාන්තාවන් තිදෙනෙක් මෝටර් රථයක ගැටී ජීවිතක්ෂයට පත්වීමේ අනුවේදනීය පුවතක් ගම්පොළ දොළුව ප්‍රදේශයෙන් අද (06) වාර්තාවුණි.
+Three women who were sil in Poya Daya were reported from the Doluwa area in Gampola today (06).
 
-මෝටර් රථය පැදවූ කාන්තාවගේ අපරික්ෂාකාරී රිය ධාවනය අනතුරට හේතුව බවට පොලීසිය සැක පළ කරයි.
+Police suspect that the car riding woman's unrespective driving accident is suspicious.
 
-අනතුරට ලක්වූයේ වප් පොහෝදා ගම්පොළ දොළුව ශ්‍රී බිම්බාරාම විහාරස්ථානයේ සිල් සමාදන්ව සිටි වැඩිහිටි කාන්තාවන් සිව්දෙනෙකි.
+The accident was four older women who were sillated in the temple of Gampola Doluwa Gampola Doluwa Gampola.
 
-එම කාන්තාවන් දහවල් දානය ගෙන සනීපාරක්ෂක කෘත්‍ය ඉටුකර ගැනීම සඳහා විහාරස්ථානයෙන් පිටත ඇති වැසිකිළි වෙත යමින් සිටිය දී දහවල් 1.30ට පමණ මෙම ඛේදවාචකයට මුහුණ දී තිබුණි.
+These tragedies were faced at 1.30 pm while they were traveling to the toilets outside the temple to help them with the afternoon.
 
-එහිදී ඔවුන් ප්‍රධාන මාර්ගය අයිනෙන් ගමන් කරමින් සිටියදී පිටුපසින් පැමිණි මෝටර් රථයක් ඔවුන් සිව්දෙනාගේ ගැටී අසල තිබූ ලොරි රථයකද ගැටී නතර වී ඇත.
+A car behind the main road from the road, a car from the back had stopped at a nearby lorry.
 
-එලෙස ගැටුණු ඔවුන් මෝටර් රථයට සහ අනෙක් පසෙක වූ ලොරි රථයට මැදිවී බරපතළ තුවාල ලබා තිබුණි.
+They were taken into the car and the lorry, who had been in the other.
 
-කාන්තාවන් සිව්දෙනා අතරින් තිදෙනෙකු එම ස්ථානයේදීම ජීවිතක්ෂයට පත්වූ බව පොලීසිය පැවසීය.
+Three of the four women died on the spot, police said.
+
+The 50-year-old Ramananiwalage Paru Menike, 67 year old Mudinida Wijesuriya, a resident of 67-year-old Mudininiya Wijesuriya and Pallegedara Anulawathi resident of Gampola Gurukele.
+
+Police said she was a person who was trained.
+
+The woman had arrived in Gampola town with her husband and both children and the car was driven by her husband.
 
 ...
 
 [Data](articles/953ed3ed.json)
+
+[Extended Data](ext_articles/953ed3ed.ext.json)
 
 ---
 
@@ -286,6 +410,26 @@ The Summit is scheduled to be held on 17th and 18th October 2025 in New Delhi an
 [Data](articles/b262e1a9.json)
 
 [Extended Data](ext_articles/b262e1a9.ext.json)
+
+---
+
+### එන්නත් කටු හිඟය නිසා රු. 100 රුධිර කාන්දුකරන එන්නත් කටුවක් රු 760ට විකුණයි
+
+*2025-10-06 18:10:24* · [`adalk`](https://www.ada.lk/breaking_news/එන්නත්-කටු-හිඟය-නිසා-රු--100-රුධිර-කාන්දුකරන-එන්නත්-කටුවක්-රු-760ට-විකුණයි/11-418941) · `si`
+
+වකුගඩු රෝගීන්ගේ රුධිර කාන්දු කරනය සඳහා යොදා ගන්නා එන්නත් කටු රජයේ රෝහල්වල නොමැති වීම හේතුවෙන් ඒවා පෞද්ගලික ඖෂධ සැල්වලින් මිලදී ගැනීමට සිදුවීම හේතුවෙන් රුපියල් 100 කට වැනි මුදලකට තිබූ එම එන්නත් කටුවක් රුපියල් 760 ක් වැනි මුදලක් දක්වා ඉහල යාමෙන් රෝගීහු දැඩි අපහසුතාවයට පත්ව සිටි.
+
+රජයේ රෝහල්වලට එම එන්නත් කටු ලබාදීම සඳහා ටෙන්ඩරය ලබා ගත් අදාල ආයතනය  ප්‍රමිතියෙන් තොර එන්නත් කටු 400,000 ක් ආනයනය කිරීම හේතුවෙන් එම එන්නත් කටු ලබා ගැනීම ප්‍රතික්ෂේප කළ බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා ඉකුත්දා මහනුවරදී පැවසීය.
+
+එම එන්නත් කටු හිඟය හේතුවෙන් අදාල එන්නත් කටු පෞද්ගලික අංශයෙන් මිළදී ගැනීම සඳහා මුදල් වෙන් කොටදී තිබෙනන බවද අමාත්‍යවරයා පැවසීය.
+
+මෙම තත්ත්වය හමුවේ අදාළ ටෙන්ඩර්කරු පෞද්ගලික අංශයට ද එම එන්නත් කටු ලබාදීම සීමා කොට යම් හිගයක් මවාපා තිබෙන බව සෞඛ්‍ය හා ජනමාධ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හංසක විජේමුණි මහතාගෙන් කළ විමසීමකදී පැවසීය.
+
+කෙසේ නමුත් එම එන්නත් කටු වලින් යම් කිසි ප්‍රමාණයක් ඉදිරි 10 වෙනිදා වන විට ලැබෙනු ඇති බවත් එවිට මෙම ප්‍රශ්නය සමනය වනු ඇති බවද නියෝජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/f9a66cf1.json)
 
 ---
 
@@ -436,6 +580,22 @@ The resolution proposes to “extend the mandate of the Office of the High Commi
 [Data](articles/2ca9d07c.json)
 
 [Extended Data](ext_articles/2ca9d07c.ext.json)
+
+---
+
+### බ්‍රෙික් පැටලය මාරු වී තුනක් මරු තුරුලට
+
+*2025-10-06 16:36:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බරක-පටලය-මර-ව-තනක-මර-තරලට/101-680801) · `si`
+
+ගම්පොළ දොළුව විහාරස්ථානයක් ඉදිරිපිටදී  සිදු වු රිය  අනතුරින් තිදෙනකු මියගොස්  තවත් දෙදෙනකු තුවාල ලබා ඇතැයි ගම්පොල පොලීසිය  කියයි.
+
+මෝටර් රියක් මාර්ගයේ ගමන් කළ කිහිපදෙනකු යටකරගෙන යාමෙන් මෙම අනතුර සිදුව  ඇතැයි කියයි. අනතුර සිදුවන අවස්ථාවේදී මෝටර් රිය ධාවන  කර ඇත්තේ රියදුරු පුහුණු ලබමින්  සිටි කාන්තාවක්  බවද පොලීසිය පවසයි.
+
+මෝටර් රිය ලොරියකට ඉස්සර කිරිමට යාමේදී   බ්‍රෙික් පැටලය යැයි සිතා  ඇක්සලේටරය පැගීමෙන්  අධික වේගයෙන් ධාවන වූ මෝටර් රිය  විහාරස්ථානයට ගොස් ආපසු නිවෙස්බලා යමින් සිටි පිිරිසක් මෙලෙස යටකරගෙන ගොස් ඇතැයි පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/8bfcb957.json)
 
 ---
 
@@ -1876,163 +2036,5 @@ The suspect, along with the seized cigarettes, is scheduled to be produced befor
 [Data](articles/fd00e2e5.json)
 
 [Extended Data](ext_articles/fd00e2e5.ext.json)
-
----
-
-### Seven Suspects Arrested in Matara with Hashish and Ice
-
-*2025-10-06 13:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/seven-suspects-arrested-in-matara-with-hashish-and-ice) · `en`
-
-COLOMBO (News 1st): Matara District Crime Division has reported that seven suspects were taken into custody yesterday in Habaraduwa, Baddegama, and Matara and were presented to the respective police stations.Sri Lanka Police said that the arrested group included a close associate of organized crime figure, Midigama Ruwan.Police recovered approximately 5.6 kilograms of Hashish and 11.8 grams of Ice from the suspects.The suspects have been identified as residents of Baddegama, Koggala, and Habaraduwa areas.
-
-◼️
-
-[Data](articles/5174f82f.json)
-
-[Extended Data](ext_articles/5174f82f.ext.json)
-
----
-
-### An archaeological research in Somawathiya
-
-*2025-10-06 13:03:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සමවතයට-පරවදය-පරයෂණයතනයක/1-680789) · `si`
-
-President Anura Kumara Dissanayake declared open the two storied House with the newly built Archaeological Museum of Polonnaruwa.
-
-The Archaeological Museum and the International Archaeological Research Institute have been built for the convenience of all those who worship the historical research and educational research in Polonnaruwa.
-
-The two-hubs have been constructed with the full donation of the Chairman of the Department of Deshamanya Group Palama Langena, Chairman of the Manwatte Viharaya of the Historic Somathi Rajamaha Viharaya.
-
-The President visited the historic Somother today (06) and acquired religious observances.
-
-The President also opened the new two-hub of the Archaeological Museum and the International Archaeological Research Institute, which has been unveiled and the International Archaeological Research Institute has been placed there.
-
-Chairman of Ratna Group, Deshamanya Mithnappala Lanceepa Langee also presented a souvenir to the President.
-
-◼️
-
-[Data](articles/37eb196b.json)
-
-[Extended Data](ext_articles/37eb196b.ext.json)
-
----
-
-### An archaeological research in Somawathiya
-
-*2025-10-06 13:03:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සමවතයට-පරවදය-පරයෂණයතනයක/101-680789) · `si`
-
-President Anura Kumara Dissanayake declared open the two storied House with the newly built Archaeological Museum of Polonnaruwa.
-
-The Archaeological Museum and the International Archaeological Research Institute have been built for the convenience of all those who worship the historical research and educational research in Polonnaruwa.
-
-The two-hubs have been constructed with the full donation of the Chairman of the Department of Deshamanya Group Palama Langena, Chairman of the Manwatte Viharaya of the Historic Somathi Rajamaha Viharaya.
-
-The President visited the historic Somother today (06) and acquired religious observances.
-
-The President also opened the new two-hub of the Archaeological Museum and the International Archaeological Research Institute, which has been unveiled and the International Archaeological Research Institute has been placed there.
-
-Chairman of Ratna Group, Deshamanya Mithnappala Lanceepa Langee also presented a souvenir to the President.
-
-◼️
-
-[Data](articles/710ea53f.json)
-
-[Extended Data](ext_articles/710ea53f.ext.json)
-
----
-
-### 38-Year-Old Arrested in Hirana With Hashish Worth Over Rs. 8 Million
-
-*2025-10-06 13:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/38-year-old-arrested-in-hirana-with-hashish-worth-over-rs-8-million) · `en`
-
-COLOMBO (News 1st):An individual with Hashish narcotic in his possession was arrested by Sri Lanka police in Hirana, Panadura.The stock of Hashish in his possession was valued at over Rs. 8 million.Police said the arrest was made following a tip-off received by the Hirana Police.According to Police, approximately one kilogram of hashish was recovered from the suspect, a 38-year-old resident of Telawala, Mount Lavinia.The suspect is currently being questioned under detention orders.
-
-◼️
-
-[Data](articles/cc833817.json)
-
-[Extended Data](ext_articles/cc833817.ext.json)
-
----
-
-### 32 doves stolen in Dehiwala Zoo
-
-*2025-10-06 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215399) · `si`
-
-The administration says that thirty-two doves have been stolen from the Dehiwala National Zoo.
-
-Deputy Director Hemantha Sarasekera said that he had lodged a complaint with the Dehiwala Police.
-
-The Deputy Director says that these animals have been stolen during the night or on Saturdays.
-
-The doves have collapsed on the collapse of the animals and have stolen the doves, which have been detained in the Dehiwala Zoo as suitable cases under the court order.
-
-Deputy Director Hemantha Samarasekera added that steps have been taken to ban the work of the area in charge of the sector of the Zoo.
-
-However, no information about the robbery has been reported so far, the Dehiwala Police said.
-
-◼️
-
-[Data](articles/96fce326.json)
-
-[Extended Data](ext_articles/96fce326.ext.json)
-
----
-
-### Winds cut 30000 times lights
-
-*2025-10-06 12:59:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සළඟ-වසස-වර-30000ක-ලයට-කපල/101-680788) · `si`
-
-The CEB Press Spokesman Dhammika Wimalaratne said that about 30,000 electricity crashes throughout the country due to the existing bad weather conditions have occurred throughout the country.
-
-It is said that many of the collapses of electricity crashes due to large number of trees.
-
-Meanwhile, sources say that there is a delay in restoring electricity crashes due to the false work of electricity.
-
-◼️
-
-[Data](articles/3cdeeacf.json)
-
-[Extended Data](ext_articles/3cdeeacf.ext.json)
-
----
-
-### Winds cut 30000 times lights
-
-*2025-10-06 12:59:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සළඟ-වසස-වර-30000ක-ලයට-කපල/1-680788) · `si`
-
-The CEB Press Spokesman Dhammika Wimalaratne said that about 30,000 electricity crashes throughout the country due to the existing bad weather conditions have occurred throughout the country.
-
-It is said that many of the collapses of electricity crashes due to large number of trees.
-
-Meanwhile, sources say that there is a delay in restoring electricity crashes due to the false work of electricity.
-
-◼️
-
-[Data](articles/031f7d3b.json)
-
-[Extended Data](ext_articles/031f7d3b.ext.json)
-
----
-
-### Instructions to solve the shortage of drugs have been hampered by existing legal procedures - nervous Jayatissa
-
-*2025-10-06 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227012) · `ta`
-
-When government tasks are carried out too quickly as a hundred meters. Health and Mass Media Minister Nalinda Jayatissa said that some of the existing laws are barred from addressing the drug deficiency.
-
-The Vibasi Buddhist Center, headed by the Supreme Amarapura Maha Sangam Sabha, the Supreme of the All Ceylon Amarapura Maha Sangam, was recently opened under the leadership of the Vibasi Buddhist Center, Health and Mass Media Minister Nalinda Jayadissa.
-
-The Colombo National Hospital was also donated by medical equipment worth about Rs 2 crore.
-
-68 lakhs of rupees to renovate the Vibasi Buddhist Center located on the National Hospital complex. The Ministry of Health has donated Rs 45 lakh.
-
-The remaining amount has been spent on the Hospital Services Council, and the Navy has contributed its contribution to the construction of the hospital
-
-...
-
-[Data](articles/423b953a.json)
-
-[Extended Data](ext_articles/423b953a.ext.json)
 
 ---

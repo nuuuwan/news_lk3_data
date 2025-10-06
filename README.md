@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 00:14:15**
+As of **2025-10-07 00:23:39**
 
 ## Newspaper Stats
 
@@ -27,31 +27,33 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,672 (100.0%) of 81,673 articles have been extended.
+81,673 (100.0%) of 81,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
-### விபத்தில் சிக்கினார் விஜய் தேவரகொண்டா
+### Vijay Deverakonda
 
 *2025-10-06 22:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விபத்தில்-சிக்கினார்-விஜய்-தேவரகொண்டா/54-365856) · `ta`
 
-நடிகர் விஜய் தேவரகொண்டா பயணித்த கார் தெலங்கானாவில் விபத்தில் சிக்கியதால் பரபரப்பு ஏற்பட்டுள்ளது.
+Actor Vijay Deverakonda has been hit by an accident in Telangana.
 
-தெலுங்கு சினிமாவில் முன்னணி நடிகர்களுள் ஒருவராக வலம் வரும் விஜய் தேவரகொண்டாவுக்கு தமிழிழும் அதிக ரசிகர்கள் இருக்கின்றார்கள்.
+Vijay Deverakonda, one of the leading actors in Telugu cinema, has a lot of fans.
 
-இவருக்கும் நடிகை ரஷ்மிகா மந்தனாவுக்கும் இடையில் காதல் உறவு இருப்பதாகவும், அண்மையில் திருமண நிச்சயதார்த்தம் நடைபெற்றதாகவும் தகவல் உலா வருகின்றன.
+There are reports that she and actress Rashmika Mandana have a romantic relationship and a recent wedding engagement.
 
-இந்நிலையில் தெலங்கானா மாநிலம் உந்தவல்லி என்ற பகுதியில் விஜய் தேவரகொண்டா சென்ற கார் விபத்தில் சிக்கியது.
+In the meantime, Vijay Deverakonda was involved in a car accident in Undavalli, Telangana.
 
-ஆடுகளை ஏற்றி வந்த ட்ரக் ஒன்று, திடீரென பிரேக் போட்டபோது, விஜய் தேவரகொண்டா சென்ற காரும் மற்றொரு வாகனமும் மோதி விபத்துக்குள்ளானதாக கூறப்படுகிறது.
+A truck carrying the goats suddenly hit the brake, and the car and another vehicle that went to Vijay Deverakonda were reportedly crashed.
 
-கார் சேதமடைந்த நிலையில் விஜய் தேவரகொண்டா காயங்கள் இன்றி நல்வாய்ப்பாக தப்பியதாக தெரிகிறது.
+Vijay Deverakonda seems to have survived the wounds without injuries as the car was damaged.
 
 ◼️
 
 [Data](articles/bc7b5d68.json)
+
+[Extended Data](ext_articles/bc7b5d68.ext.json)
 
 ---
 

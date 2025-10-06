@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 19:14:25**
+As of **2025-10-06 19:23:39**
 
 ## Newspaper Stats
 
-*Scraped **81,606** Articles*
+*Scraped **81,607** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 625
+newsfirstlk | 626
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
@@ -27,11 +27,23 @@ adaderanasinhalalk | 14,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,606 (100.0%) of 81,606 articles have been extended.
+81,606 (100.0%) of 81,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### Sri Lankans to Witness Supermoon Today
+
+*2025-10-06 19:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/sri-lankans-to-witness-supermoon-today) · `en`
+
+COLOMBO (News 1st): Sri Lankans will have a rare chance to witness a supermoon today. According to the Arthur C. Clarke Institute for Advanced Technology, the moon will appear larger and brighter than the usual full moon, approximately 7 percent bigger than normal.The institute also noted that the planet Saturn will be visible close to the full moon, providing a spectacular sight for skywatchers.Caution is advised near coastal areas as experts warn that the supermoon may cause higher tides along the coast compared to other days.Sky enthusiasts are encouraged to step outside after sunset to enjoy this celestial display.
+
+◼️
+
+[Data](articles/aede5154.json)
+
+---
 
 ### India's players to 1325 LPL fight to 2025 LPL fight
 
@@ -1990,35 +2002,5 @@ More than Rs.. This information is included in the Audit Regulation, which has b
 [Data](articles/a36fa870.json)
 
 [Extended Data](ext_articles/a36fa870.ext.json)
-
----
-
-### 200 attempts were found in the Everasat climb due to inclement weather
-
-*2025-10-06 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215397) · `si`
-
-Foreign media reports that nearly 200 hurricanes have been trapped with the fierce snow founding of the Mount Mount Everest in China.
-
-Everest continues to the continuous snowfall of the Mount Tibetan valley, from the East of Mount Everest, is affected by Friday.
-
-As a result, a large number of mountains are trapped there and some have traveled to small villages nearby.
-
-The Chinese government has launched a massive operation to liberate the crowds on the top of the mountain top.
-
-The Chinese media reported that nearly 200 people stuck.
-
-Meanwhile, it is reported that the number of dissemination of people in the face of the weather conditions is also difficult.
-
-However, nearly 350 people who traveled to the nearby Kudon village, however, are now said in Chinese media reports.
-
-Many Chinese are working to climb Mount Everest on the face of 8 days on the 8-day vacation in parallel to the Chinese National Day.
-
-Chinese regional reports had previously reported that 1,000 climbers were lost.
-
-...
-
-[Data](articles/0fbdd605.json)
-
-[Extended Data](ext_articles/0fbdd605.ext.json)
 
 ---

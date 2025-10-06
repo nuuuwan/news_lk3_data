@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 23:57:44**
+As of **2025-10-07 00:14:15**
 
 ## Newspaper Stats
 
-*Scraped **81,672** Articles*
+*Scraped **81,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,809
 adaderanalk | 10,493
-tamilmirrorlk | 12,120
+tamilmirrorlk | 12,121
 virakesarilk | 13,446
 adaderanasinhalalk | 14,023
 
@@ -27,11 +27,33 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,672 (100.0%) of 81,672 articles have been extended.
+81,672 (100.0%) of 81,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### விபத்தில் சிக்கினார் விஜய் தேவரகொண்டா
+
+*2025-10-06 22:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விபத்தில்-சிக்கினார்-விஜய்-தேவரகொண்டா/54-365856) · `ta`
+
+நடிகர் விஜய் தேவரகொண்டா பயணித்த கார் தெலங்கானாவில் விபத்தில் சிக்கியதால் பரபரப்பு ஏற்பட்டுள்ளது.
+
+தெலுங்கு சினிமாவில் முன்னணி நடிகர்களுள் ஒருவராக வலம் வரும் விஜய் தேவரகொண்டாவுக்கு தமிழிழும் அதிக ரசிகர்கள் இருக்கின்றார்கள்.
+
+இவருக்கும் நடிகை ரஷ்மிகா மந்தனாவுக்கும் இடையில் காதல் உறவு இருப்பதாகவும், அண்மையில் திருமண நிச்சயதார்த்தம் நடைபெற்றதாகவும் தகவல் உலா வருகின்றன.
+
+இந்நிலையில் தெலங்கானா மாநிலம் உந்தவல்லி என்ற பகுதியில் விஜய் தேவரகொண்டா சென்ற கார் விபத்தில் சிக்கியது.
+
+ஆடுகளை ஏற்றி வந்த ட்ரக் ஒன்று, திடீரென பிரேக் போட்டபோது, விஜய் தேவரகொண்டா சென்ற காரும் மற்றொரு வாகனமும் மோதி விபத்துக்குள்ளானதாக கூறப்படுகிறது.
+
+கார் சேதமடைந்த நிலையில் விஜய் தேவரகொண்டா காயங்கள் இன்றி நல்வாய்ப்பாக தப்பியதாக தெரிகிறது.
+
+◼️
+
+[Data](articles/bc7b5d68.json)
+
+---
 
 ### Nothing felling name
 
@@ -2064,23 +2086,5 @@ Sources said that all the officers appointed at the BMICH station have been temp
 [Data](articles/1c7d23da.json)
 
 [Extended Data](ext_articles/1c7d23da.ext.json)
-
----
-
-### 1500 kg of vehicle tied up in the ear
-
-*2025-10-06 14:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1500-கிலோ-கிராம்-வாகனத்தை-காதில்-கட்டி-இழுத்து-மகிழ்விப்பு/175-365818) · `ta`
-
-On the occasion of International Elders' Day, an adventure event has been held at the Kaithadi Elderly Home by World Achievement.
-
-On Monday morning, the elderly home was entertained by the elderly people who tied a 1500 -kilogram vehicle in his ear at the elderly home premises.
-
-It is noteworthy that 62 -year -old Sen Thiruchelvam belongs to 5 world records.
-
-◼️
-
-[Data](articles/5728b88c.json)
-
-[Extended Data](ext_articles/5728b88c.ext.json)
 
 ---

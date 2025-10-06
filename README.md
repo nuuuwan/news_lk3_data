@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 21:38:51**
+As of **2025-10-06 22:21:57**
 
 ## Newspaper Stats
 
-*Scraped **81,639** Articles*
+*Scraped **81,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,74 +12,322 @@ newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 887
+lankadeepalk | 894
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,809
-adaderanalk | 10,490
+adaderanalk | 10,492
 tamilmirrorlk | 12,120
-virakesarilk | 13,425
-adaderanasinhalalk | 14,021
+virakesarilk | 13,446
+adaderanasinhalalk | 14,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,632 (100.0%) of 81,639 articles have been extended.
+81,660 (100.0%) of 81,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
-### හෙට ඇරැඹෙන පාර්ලිමේන්තු සතියේ වැඩ වෙන්නෙ මෙහෙමයි
+### උඩු මහලින් වැටුණු හිමි නම අපවත් වෙති
+
+*2025-10-06 21:59:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උඩ-මහලන-වටණ-හම-නම-අපවත-වත/1-680811) · `si`
+
+ශ්‍රී ලංකා බෞද්ධ හා පාලි විශ්වවිද්‍යාලයේ තෙවැනි වසරේ අධ්‍යාපනය හදාරමින් සිටි හිමිනමක විශ්වවිද්‍යාලයේ නේවාසිකාගරයක දෙවන මහලින් බිමට ඇද වැටී බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටිය අපවත් වී ඇතැයි හෝමගම මූලස්ථාන පොලිසිය පවසයි.
+
+මෙලෙස අවසනාවන්ත ලෙස අපවත් වී ඇත්තේ ගම්පහ වේයන්ගොඩ ප්‍රදේශයේ විහාරස්ථානයක පැවිදිව සිටි  දෙහිඅත්තකණ්ඩියේ සුමංගල නැමැති 24 හැවිරිදි හිමිනමකි.
+
+උන්වහන්සේ ඉකුත් 26 දින අලුයම 2.30ට පමණ භික්ෂු නේවාසිකාගාරයේ දෙවන මහලින් ඇද වැටීමෙන් පසු සිසුන් විසින් ම විශ්වවිද්‍යාලයට බාහිරින් ගෙන්වාගෙන ඇති ත්‍රීරෝද රථයකින් හෝමාගම රෝහලට ඇතුළත් කීරීමට උත්සාහය කොට පසුව එම ත්‍රීරෝද රථයයෙන්ම කොළඹ ජාතික රෝහලට රැගෙන ගොස් ඇතැයි ද පොලිසිය පවසයි.
+
+මේ සම්බන්ධයෙන් හෝමගම ශ්‍රී ලංකා බෞද්ධ හා පාලි විශ්වවිද්‍යාලයේ මහෝපාධ්‍ය හෝමාගම ධම්මානන්ද හිමියන්ගෙන් කළ විමසීමකදී මෙසේ පැවසූහ.
+
+...
+
+[Data](articles/dfcb30b7.json)
+
+---
+
+### யாழில் போதைப்பொருள் வாங்குவதற்கு சகோதரி பணம் கொடுக்காததால் சகோதரன் உயிர்மாய்ப்பு!
+
+*2025-10-06 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227064) · `ta`
+
+யாழில் போதைக்கு அடிமையான ஆணொருவர் இன்றையதினம் தவறா. முடிவெடுத்து உயிர் மாய்த்துள்ளார். சுழிபுரம் - மூளாய் பகுதியைச் சேர்ந்த தயாபரன் முரளிவாசன் (வயது 34) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் போதைக்கு அடிமையாகியிருந்த நிலையில் தனது சகோதரியிடம் போதைப்பொருளுக்கு பணத்தினை கேட்டுள்ளார். சகோதரி அதற்கு மறுப்பு தெரிவித்துள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். வட்டுக்கோட்டை பொலிஸார் சாட்சிகளை நெறிப்படுத்தினர்.
+
+◼️
+
+[Data](articles/369a603c.json)
+
+---
+
+### බෝලය ගන්න තටාකයට පැන්න සිසුවා ගිලි මරුට
+
+*2025-10-06 21:47:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බලය-ගනන-තටකයට-පනන-සසව-ගල-මරට/1-680810) · `si`
+
+පාසලේ පිහිනුම් තටාකයට වැටී තිබූ බෝලය ගන්න පිහිනුම් තටාකයට පැන්න පාසල් සිසුවකු දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇතැයි බතීගම රෝහල් ආරංචි මාර්ග පවසයි.
+
+‍විද්‍යාලයේ ක්‍රීඩාංගනයේ ක්‍රිකට් ක්‍රීඩා කරමින් සිටියදී බෝලය අසල තිබූ පිහිනුම් තටාකයට වැටී තිබෙි
+
+එම බෝලය ගැනීමට පිහිනුම් තටාකයට පනින ලද සිසුවා දියේ ගිලීම හේතුවෙන් බතිගම රෝහලට ඇතුළත් කිරීමෙන් පසුව ජීවිතක්ෂයට පත්ව ඇතැයි රෝහල් ආරංචි මාර්ග පවසයි. මෙම අනතුර (5 ) දින පස්වරු 6:30 පමන සිදුව ඇති බව සදහන් වන අතර මෙම අනතුරින් මියගොස් ඇත්තේ දික්වැල්ල විජිත මහා විද්‍යාලයේ 12 වැනි වසරේ ඉගෙනුම ලබන වයස 17 පමන වන සේජාන් විස්මිත සචින්ත දේශප්‍රිය ඉල්ලන්නාථ නැමති දික්වැල්ල දොඩම්පහළ ප්‍රදේශයේ පදිංචි ශිෂ්‍යයෙකු බව සඳහන්.
+
+◼️
+
+[Data](articles/64437099.json)
+
+---
+
+### Student dies to the pool to take the ball
+
+*2025-10-06 21:47:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බලය-ගනන-තටකයට-පනන-සසව-ගල-මරට/101-680810) · `si`
+
+The school student drowned in the swimming pool, police said.
+
+While playing cricket at the college stadium, the ball had fallen into the pool near the ball
+
+Hospital sources say that the victim was admitted to the Batagama hospital due to the drowning student to the swimming pool to take the ball, hospital sources said.. The accident had been reportedly stated that about 6:30 pm Dickwella Vijitha Maha Vidyalaya, Dickwella Vijitha Maha Vihara.
+
+◼️
+
+[Data](articles/dcbd73a4.json)
+
+[Extended Data](ext_articles/dcbd73a4.ext.json)
+
+---
+
+### தலைமன்னார் கட்டுகாரன் குடியிருப்பு குடிநீர் திட்டம் ; வைபவ ரீதியாக ஆரம்பித்து வைப்பு
+
+*2025-10-06 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/227063) · `ta`
+
+மன்னார் பிரதேச செயலக பிரிவுக்குட்பட்ட மன்னார்-தலைமன்னார் பிரதான வீதி, கட்டுகாரன் குடியிருப்பு கிராமத்தில் உள்ள பாடசாலை மாணவர்கள் மற்றும் பொதுமக்களின் குடிநீர் தேவையை பூர்த்தி செய்யும் வகையில் அமைக்கப்பட்ட கட்டுகாரன் குடியிருப்பு சுத்திகரிக்கப்பட்ட குடிநீர் திட்டம் திங்கட்கிழமை (06) காலை  மக்களின் பாவனைக்காக வைபவ ரீதியாக திறந்து  வைக்கப்பட்டது.
+
+மன்னார் கட்டுகாரன் குடியிருப்பு பகுதியில் உள்ள பொதுமக்கள் நீண்ட காலமாக குடிநீர் பெறுவதில் பல்வேறு சவால்களை எதிர் கொண்டு வந்த நிலையில் அவர்களின் கோரிக்கைக்கு அமைவாக இராணுவத்தின் 543 ஆவது காலாட்படையின் ஒழுங்கமைப்பில் வைத்தியர் ஜினஞ்சலா சானிக்க விஜயகுண சேகர அவர்களின் நிதி உதவியுடன் குறித்த கிராம பாடசாலை மாணவர்கள் மற்றும் மக்கள் குடிநீர் பெறும் வகையில் குறித்த குடிநீர் திட்டம் அமைக்கப்பட்டு மக்களின் பாவனைக்கு கையளிக்கப்பட்டது.
+
+...
+
+[Data](articles/0288bc4a.json)
+
+---
+
+### නිල්වැල්ල මුහුදේ තිදෙනෙක් ගසාන යති
+
+*2025-10-06 21:39:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නලවලල-මහද-තදනක-ගසන-යත/1-680809) · `si`
+
+දික්වැල්ල නිල්වැල්ල මුහුදු තීරයේ දිය නාමින් සිටිය දි දියවැලකට හසුවීමෙන් එක් අයකු මිය ගොස් තවත් දෙදෙනකු රෝහල් ගත කොට ඇති බව රෝහල් ආරංචි මාර්ග පවසයි.
+
+මාතර යටියන ප්‍රදේශයෙන් පැමිණි පුද්ගලයන් තිදෙනකු අද පස්වරුවේදී දික්වැල්ල නිල්වැල්ල බ්ලූබීචි දුපත අසල මුහුදේ දිය දිය නාමින් සිට තිබේ,
+
+එම අවස්ථාවේදී දිය වැලකට හසුවීමෙන් ඔවුන් තිදෙනා ගසාගෙන ගොස් තිබූ අතර එහිදි ප්‍රදේශවාසීන් විසින් ඔවුන් බේරා ගැනීමට කටයුතු කොට තිබූ නමුත් එහිදි එක් අයකු මිය ගොස් තිබු බව සදහන් බේරාගත් අනිත් පුද්ගලයන් දෙදෙනා ප්‍රතිකාර සඳහා මාතර මහ රෝහලට ඇතුළත් කොට තිබේ.
+
+සිද්ධියෙන් මිය ගොස් ඇත්තේ හේවා තමදුරගේ නිපුණ තාරක ලක්මාල් නැමති වයස 32 වන අයකු බව පැවසේ
+
+◼️
+
+[Data](articles/614562ba.json)
+
+---
+
+### Three people in Nilwella
+
+*2025-10-06 21:39:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නලවලල-මහද-තදනක-ගසන-යත/101-680809) · `si`
+
+Hospital sources said that two people were killed and two others were hospitalized by the Dikwella Sea.
+
+Three persons from Yatiyana area in Matara
+
+The two other persons who had been rescued by the residents of the area had been rescued by the residents of the area.
+
+The deceased has been identified as a 32-year-old person who was the skilled stars of Moneragala
+
+◼️
+
+[Data](articles/0a7a852f.json)
+
+[Extended Data](ext_articles/0a7a852f.ext.json)
+
+---
+
+### வெடுக்குநாறி மலை ஆதி சிவன் ஆலய முன்னாள் தலைவர் மற்றும் செயலாளரை ரிஐடி விசாரணைக்கு அழைப்பு
+
+*2025-10-06 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227061) · `ta`
+
+வெடுக்குநாறி மலை ஆதி சிவன் ஆலயத்தின் முன்னாள் தலைவர் மற்றும் செயலாளர் ஆகியோரை விசாரணைக்கு வருமாறு பயங்கரவாத தடுப்பு விசாரணைப் பிரிவு பொலிசார் (ரிஐடி) அழைத்துள்ளார்கள்.
+
+வெடுக்குநாறி மலை ஆதிலிங்கேஸ்வரர் ஆலயத்தின் முன்னாள் தலைவர் சசிகுமார் அவர்களும் செயலாளர் தமிழ்ச்செல்வன் அவர்களும் பயங்கரவாத தடுப்பு பிரிவின் விசாரணைக்காக எதிர்வரும் எதிர்வரும் 9 ஆம் திகதி காலை 10 மணிக்கு வவுனியாவுக்கு அழைக்கப்பட்டுள்ளார்கள்.
+
+வாக்குமூலம் ஒன்றை பெறுவதற்காகவே குறித்த இருவரையும் வருகை தருமாறு அழைப்பாணை கடிதத்தில் தெரிவிக்கப்பட்டுள்ளது.
+
+கடந்த வருடம் சிவாரத்திரி தினத்தன்று குறித்த இருவரும் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டு பின்னர் நீதிமன்றத்தால் விடுவிக்கப்பட்டிருந்ததுடன், தற்போது ஆலயத்திற்கு புதிய நிர்வாகம் தெரிவு செய்யப்பட்டு பல மாதங்கள் ஆகியுள்ளமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f61627be.json)
+
+---
+
+### French prime minister resigned from appointment of ministers
+
+*2025-10-06 21:28:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමතවරන-පත-කර-පරශ-අගමත-ඉලල-අසව/101-680808) · `si`
+
+A month after the French Prime Minister Sebastian was appointed as LECORN. LECORNS resigned from his cabinet was a 24-hour before it was 24 hours before.
+
+The fifth Prime Minister of France is the fifth Prime Minister of France for two years and he has created a political crisis in France with resignation. 27 days of the French Prime Minister of French and his government was limited to 14 hours.
+
+The government of Licarin was the most powerful government in the history of modern French.
+
+French news services says that LECORN, French president, has been handed over to the resignation letter and the President accepts the resignation.
+
+President McConon, Licoring Prime Minister was appointed after the resignation of Franchouwa Birer. The majority of the French parliament has the right-wing parties. French President McCron and his ruling party in the center of the country.
+
+It is said that Limoru resigned from his party and other parties.
+
+...
+
+[Data](articles/9f003c71.json)
+
+[Extended Data](ext_articles/9f003c71.ext.json)
+
+---
+
+### Three for the Nobel Prize for Physiology or Medicine
+
+*2025-10-06 21:23:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කයක-වදයව-හ-වදය-වදයව-සඳහ-වන-නබල-තයගයට-තදනක/101-680807) · `si`
+
+The Nobel Committee issued an announcement that the Nobel gifts of the Nobel gifts of physiology or medicine this year were awarded to three scientists.
+
+The three scientists Mary e bronkov, Fred Ramesdel and Shimon Zimon Zimon offered the Nobel Gift for Physiology or Medicine.
+
+Mary e Brenkov, Fred Ramesdel, Fred Ramesdel, is a Japanese.
+
+Thousands of people who are trying to invade our bodies have been awarded the Nobel Gift to find out how to protect us from the immune system of the microorganisms.
+
+◼️
+
+[Data](articles/a1d02725.json)
+
+[Extended Data](ext_articles/a1d02725.ext.json)
+
+---
+
+### Work on the week of the Parliamentary PS on the Tomorrow, this is how
 
 *2025-10-06 21:19:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හට-ඇරඹන-පරලමනත-සතය-වඩ-වනන-මහමය/101-680806) · `si`
 
-පාර්ලිමේන්තුව හෙට(7) සිට 10 වැනි සිකුරාදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+The Secretary General of Parliament Kushani Rohanagadara said that Parliament is scheduled to meet tomorrow (7) to Friday.
 
-ඔක්තෝබර් 7 වැනි අඟහරුවාදා පෙ.ව 9.30 - පෙ.ව. 10.00 කාලය ස්ථාවර නියෝග 22හි 1 සිට 6 දක්වා සඳහන් පාර්ලිමේන්තු කටයුතු සඳහා වෙන්කර ඇත. පෙ.ව 10.00 - පෙ.ව 11.00 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර තිබේ.පෙ.ව 11.00 - පෙ.ව 11.30 කාලය ස්ථාවර නියෝග 27(2) යටතේ ප්‍රශ්න සඳහා වෙන්කර ඇත. අනතුරුව පෙ.ව 11.30 - ප.ව 5.00 කාලය ක්‍රීඩාවල යෙදීමේ දී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති (සංශෝධන) පනත් කෙටුම්පත දෙවැනිවර කියවීම විවාදයට ගැනීමට නියමිතයි. අනතුරුව ප.ව 5.00 සිට ප.ව 5.30 දක්වා සභාව කල් තබන අවස්ථාවේ ඉදිරිපත් කරනු ලබන ප්‍රශ්න සඳහා කාලය වෙන්කර ඇත.
+Tuesday 7th October to 9.30 am -. 10.00 is reserved for Parliamentary Business of the Standing Order 22. 10:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am) Reserved for Question. 11.30 am - 11:30 am - 5:00 am. The time has been set aside for the questions that follow times at the adjournment at the post until 4 pm.
 
 ...
 
 [Data](articles/94abd315.json)
 
+[Extended Data](ext_articles/94abd315.ext.json)
+
 ---
 
-### වකුගඩු එන්නත් කටුවෙන් ලොකු ගැහිල්ලක්
+### The kidney is injection
 
 *2025-10-06 21:15:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වකගඩ-එනනත-කටවන-ලක-ගහලලක/101-680805) · `si`
 
-වකුගඩු රෝගීන්ගේ රුධිර කාන්දු කරනය සඳහා යොදා ගන්නා එන්නත් කටු රජයේ රෝහල්වල නොමැති වීම හේතුවෙන් ඒවා පෞද්ගලික ඖෂධ සල්වලින් මිලදී ගැනීමට සිදුවීම හේතුවෙන් රුපියල් 100 කට වැනි මුදලකට තිබූ එම එන්නත් කටුවක් රුපියල් 760 ක් වැනි මුදලක් දක්වා ඉහල යාමෙන් රෝගීහු දැඩි අපහසුතාවයට පත්ව සිටිති.
+The vaccination of the vaccine for the blood leakage of the kidney patients has been increased to Rs. 100 to Rs.
 
-රජයේ රෝහල්වලට එම එන්නත් කටු ලබාදීම සඳහා ටෙන්ඩරය ලබා ගත් අදාල ආයතනය ප්‍රමිතියෙන් තොර එන්නත් කටු 400,000 ක් ආනයනය කිරීම හේතුවෙන් එම එන්නත් කටු ලබා ගැනීම ප්‍රතික්ෂේප කළ බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මහනුවරදී පැවසීය.
+Health and Mass Media Mass Media Minister Dr. Nalinda Jayatissa said that the relevant institution was obtained to obtain 400,000 acquisitions due to the importation of 400,000 acquisitions to the public hospitals.
 
-එම එන්නත් කටු හිඟය හේතුවෙන් අදාල එන්නත් කටු පෞද්ගලික අංශයෙන් මිළදී ගැනීම සඳහා මුදල් වෙන් කොටදී තිබෙනන බවද අමාත්‍යවරයා පැවසීය.
+The Minister said that due to the deficit deficit, the funds will be allocated to purchase the vaccines from the sector.
 
-මෙම තත්ත්වය හමුවේ අදාළ ටෙන්ඩර්කරු පෞද්ගලික අංශයට ද එම එන්නත් කටු ලබාදීම සීමා කොට යම් හිගයක් මවා පා තිබෙන බව සෞඛ්‍ය හා ජනමාධ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හංසක විජේමුණි මහතාගෙන් කළ විමසීමකදී පැවසීය.
+The tenderer was also limited to the private sector and that the vaccine thoroughle was restricted to the private sector and had a deficit.
 
 ◼️
 
 [Data](articles/2931f69f.json)
 
+[Extended Data](ext_articles/2931f69f.ext.json)
+
 ---
 
-### මුරුතවෙල ජලාශයේ ගිලී ගුරුවරයෙකු මරුට
+### Prime Minister Harinini and Modi on the same platform
+
+*2025-10-06 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215414) · `si`
+
+The NDTV World Conference willingly participated in the event of Prime Minister Dr. Harini Amarasuriya and Indian Prime Minister Narendra Modi.
+
+The convention will be held in New Delhi on October 17 and 18.
+
+2025 - The global dialogue of the NDTV is scheduled to participate in the heads of strategies at present.
+
+India's Prime Minister Narendra Modi, Harini Amarasuriya and two former Prime ministers in Sri Lanka, is due to attend the conference.
+
+◼️
+
+[Data](articles/2ed85689.json)
+
+[Extended Data](ext_articles/2ed85689.ext.json)
+
+---
+
+### Muruthewela reservoir killed
 
 *2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/101-680804) · `si`
 
-මුරුතවෙල ජලාශයේ දිය නාමින් සිටි 32 හැවිරිදි පාසැල් ගුරුවරයෙකු අද (06) සවස 3.30 ට පමණ  දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇතැයි මිද්දෙණිය පොලිසිය කියයි .
+A 32-year-old schoolteacher, a 32-year-old schoolteacher, drowns around 3.30 pm today.
 
-ජීවිතක්ෂයට පත්ව ඇත්තේ වරල්ල මොරවක පදිංචි ඩබ්ලිව් .ජේ.කේ.බී.සුරේෂ් නමැති අයයි .
+The deceased is W.W.W.K.K.B.B.B.BSheles, a resident of Okarale.
 
-ඔහු සිය මිතුරන් පිරිසක් සමග විනෝද චාරිකාවක පැමිණ මුරුතවෙල ජලාශයේ දිය නාමින් සිට ඇතැයි පොලිසිය පැවසීය
+Police said he came to a picnic with his friends and was fired in the Muruthewela Reservoir
 
-පසුව සුවසැරිය ගිලන් රථයකින් දියේ ගිලුණු තැනැත්තා වලස්මුල්ල මූලික රෝහලට රැගෙන විත් තිබේ .
+The sun was subsequently handed over to the Walasmulla Base Hospital.
 
 ◼️
 
 [Data](articles/30fdbb25.json)
+
+[Extended Data](ext_articles/30fdbb25.ext.json)
+
+---
+
+### The demise of Bernard Julian, former all -rounder of the West Indies
+
+*2025-10-06 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/227060) · `ta`
+
+Bernard Julian, a former all -rounder of the West Indies team and a key member of the team in the 1970s. He is 75 years old.
+
+Julian, a left -arm fast bowler and talented player, was the key player who won the West Indies team in the 1975 first World Cup series.
+
+He took 4 wickets against Sri Lanka in the series and set a scorer in the semifinals against New Zealand by 27 runs for 4 wickets.
+
+He also played a key role in the team's victory in the final match against Australia.
+
+◼️
+
+[Data](articles/48c7514e.json)
+
+[Extended Data](ext_articles/48c7514e.ext.json)
+
+---
+
+### Bellanwila Rajamaha Vihara's "Menika" elephant death
+
+*2025-10-06 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227059) · `ta`
+
+Officials have confirmed that the famous female elephant from Bellanwila Rajamaha Vihara has died.
+
+The 76 -year -old Menika has died in the early hours of Monday (6), the Vihara administration said.
+
+For decades of the Vihara's annual Peraheras and other religious and cultural events, Menika has gained great affection among the devotees.
+
+Her death has caused the Bellanwila Rajamaha Vihara and the devotees who worship there.
+
+◼️
+
+[Data](articles/909bff36.json)
+
+[Extended Data](ext_articles/909bff36.ext.json)
 
 ---
 
@@ -106,6 +354,24 @@ This situation may cause the use of vaccines to vaccinate various drugs.
 [Data](articles/64d79724.json)
 
 [Extended Data](ext_articles/64d79724.ext.json)
+
+---
+
+### Experts highlight rise in HIV cases among 15 to 29 age group
+
+*2025-10-06 20:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113271/experts-highlight-rise-in-hiv-cases-among-15-to-29-age-group) · `en`
+
+Health authorities in Sri Lanka have warned of an increasing trend of HIV infections among individuals aged between 15 and 29.
+
+The highest number of infections has been reported from the Colombo and Gampaha districts.
+
+HIV is one of the most serious sexually transmitted viruses in the world, known to cause significant global concern.
+
+It directly attacks the body’s immune system, weakening it, and making the body vulnerable—even a minor illness such as a cough or cold can become fatal. This is one of the most dangerous aspects of the virus, according to health authorities.
+
+◼️
+
+[Data](articles/819e0a3e.json)
 
 ---
 
@@ -152,6 +418,28 @@ Meanwhile, inquiry by Minister of Justice, Hon.
 [Data](articles/72c7fa25.json)
 
 [Extended Data](ext_articles/72c7fa25.ext.json)
+
+---
+
+### Surging numbers of children using e-cigarettes: WHO
+
+*2025-10-06 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113270/surging-numbers-of-children-using-e-cigarettes-who) · `en`
+
+More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, the World Health Organization (WHO) is warning.
+
+Children are, on average, nine times more likely than adults to vape, it says, based on available global figures.
+
+The WHO’s Dr Etienne Krug said e-cigarettes were fuelling a “new wave” of nicotine addiction. “They are marketed as harm reduction but, in reality, are hooking kids on nicotine earlier and risk undermining decades of progress.”
+
+WHO Director General, Dr Tedros, accused the tobacco industry of “aggressively targeting” young people.
+
+“Millions of people are stopping, or not taking up, tobacco use thanks to tobacco control efforts by countries around the world,” he said.
+
+“In response to this strong progress, the tobacco industry is fighting back with new nicotine products, aggressively targeting young people. Governments must act faster and stronger in implementing proven tobacco-control policies,” he added.
+
+...
+
+[Data](articles/b41e83dd.json)
 
 ---
 
@@ -413,23 +701,47 @@ The Summit is scheduled to be held on 17th and 18th October 2025 in New Delhi an
 
 ---
 
-### එන්නත් කටු හිඟය නිසා රු. 100 රුධිර කාන්දුකරන එන්නත් කටුවක් රු 760ට විකුණයි
+### Kammanpila, Wimal to appear before the inquiries - Deputy Minister of Labor Mahinda Jayasinghe
+
+*2025-10-06 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227058) · `ta`
+
+Udaya Kammanpila and Wimal Weerawansa are trying to socialize the fake matters of affairs.. Deputy Minister of Labor Mahinda Jayasinghe said that they are acting in highlighting communalism.
+
+He said this in a statement to the media after a religious event in Colombo on Monday (6).
+
+Those who have lost their defeat without contesting the election during the ongoing general election today speak like patriots. This country is facing many crises by racism.
+
+Udaya Kammanpila and Wimal Weerawansa are still acting as the last government is in power. When trying to socialize fake matters, those issues should be investigated.
+
+They are trying to recapture the lost political influence by highlighting racism.. He said it could not be aimed at socializing the wrong issue among the people.
+
+◼️
+
+[Data](articles/787293ee.json)
+
+[Extended Data](ext_articles/787293ee.ext.json)
+
+---
+
+### Deficiencies due to deficit. 100 selling a blood leakage injection sheet to Rs 760
 
 *2025-10-06 18:10:24* · [`adalk`](https://www.ada.lk/breaking_news/එන්නත්-කටු-හිඟය-නිසා-රු--100-රුධිර-කාන්දුකරන-එන්නත්-කටුවක්-රු-760ට-විකුණයි/11-418941) · `si`
 
-වකුගඩු රෝගීන්ගේ රුධිර කාන්දු කරනය සඳහා යොදා ගන්නා එන්නත් කටු රජයේ රෝහල්වල නොමැති වීම හේතුවෙන් ඒවා පෞද්ගලික ඖෂධ සැල්වලින් මිලදී ගැනීමට සිදුවීම හේතුවෙන් රුපියල් 100 කට වැනි මුදලකට තිබූ එම එන්නත් කටුවක් රුපියල් 760 ක් වැනි මුදලක් දක්වා ඉහල යාමෙන් රෝගීහු දැඩි අපහසුතාවයට පත්ව සිටි.
+Due to the absence of the blood leakage of the kidney patients, the vaccine sheet of Rs. 100 has been increased to Rs.
 
-රජයේ රෝහල්වලට එම එන්නත් කටු ලබාදීම සඳහා ටෙන්ඩරය ලබා ගත් අදාල ආයතනය  ප්‍රමිතියෙන් තොර එන්නත් කටු 400,000 ක් ආනයනය කිරීම හේතුවෙන් එම එන්නත් කටු ලබා ගැනීම ප්‍රතික්ෂේප කළ බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා ඉකුත්දා මහනුවරදී පැවසීය.
+Health and Mass Media Mass Media Minister Dr. Nalinda Jayatissa said that the relevant institution was obtained for the public hospitals to the government hospitals.
 
-එම එන්නත් කටු හිඟය හේතුවෙන් අදාල එන්නත් කටු පෞද්ගලික අංශයෙන් මිළදී ගැනීම සඳහා මුදල් වෙන් කොටදී තිබෙනන බවද අමාත්‍යවරයා පැවසීය.
+The Minister said that due to the deficit deficit, the funds will be allocated to purchase the vaccines from the sector.
 
-මෙම තත්ත්වය හමුවේ අදාළ ටෙන්ඩර්කරු පෞද්ගලික අංශයට ද එම එන්නත් කටු ලබාදීම සීමා කොට යම් හිගයක් මවාපා තිබෙන බව සෞඛ්‍ය හා ජනමාධ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හංසක විජේමුණි මහතාගෙන් කළ විමසීමකදී පැවසීය.
+The tenderer is also limited to the private sector and that the vaccine thoroughle is limited to the private sector and a shortage of apartments said.
 
-කෙසේ නමුත් එම එන්නත් කටු වලින් යම් කිසි ප්‍රමාණයක් ඉදිරි 10 වෙනිදා වන විට ලැබෙනු ඇති බවත් එවිට මෙම ප්‍රශ්නය සමනය වනු ඇති බවද නියෝජ්‍ය අමාත්‍යවරයා පැවසීය.
+However, the issue will be eligible on the next 10th and that the issue will be eligible on the next 10th.
 
 ◼️
 
 [Data](articles/f9a66cf1.json)
+
+[Extended Data](ext_articles/f9a66cf1.ext.json)
 
 ---
 
@@ -499,6 +811,28 @@ The accident had occurred when a group of women who had come to join the road to
 
 ---
 
+### The new Bill is targeted by the school - President of the Sri Lanka Teachers Service Association
+
+*2025-10-06 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/227057) · `ta`
+
+Sri Lanka Teachers Service Association President Priyantha Fernando said that the new Bill would be aimed at the school when the amendment to the Penal Code to prevent all kinds of disturbances against children.
+
+He was speaking at a press conference held in Colombo on Monday (6).
+
+The new Bill is often targeted when the amendment is amended to prevent all kinds of disturbances against children.. Such is the same as the Amendment Bill of the Penal Code (Chapter 19), which is currently being tabled in Parliament.
+
+We see a few ministers in Parliament regarding this Bill.. Students over the age of 16 have stated that there is no restriction on engaging in sexual activity.
+
+Deputy Minister Mahinda Jayasinghe says that the amendment will not affect the school.. But this amendment is targeting the school 80 per cent. Due to this amendment, it is a problem to protect the school's discipline and teachers are facing the issue of action in which they are protecting their careers.
+
+...
+
+[Data](articles/ff4ad0c0.json)
+
+[Extended Data](ext_articles/ff4ad0c0.ext.json)
+
+---
+
 ### One dead, two hospitalised due to drowning near Blue Beach Island
 
 *2025-10-06 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113264/one-dead-two-hospitalised-due-to-drowning-near-blue-beach-island) · `en`
@@ -514,6 +848,106 @@ The body of the deceased has been taken to the Batheegama Hospital, while the ot
 [Data](articles/447b1b95.json)
 
 [Extended Data](ext_articles/447b1b95.ext.json)
+
+---
+
+### Somavati Vihara has the opportunity to enter the history of the Vihara - Minister Sunil Senevi
+
+*2025-10-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227051) · `ta`
+
+The new Archaeological Museum and the International Archaeological Research Institute are found in the history of the Somavati Vihara, said Buddha Sasana, Religious and Cultural Affairs Minister Dr. Hiniduma Sunil Senevi.
+
+He said this while addressing the event at the inauguration of the newly constructed Archaeological Museum and the International Archaeological Research Institute at the historic Somavathi Viharaya under the patronage of President Anura Kumara Dissanayake.
+
+We expect this new Archaeological Museum and the International Archaeological Research Institute to enter the history of the great archaeological Somavati Vihara.
+
+As a result of the systematic development program affiliated with science and technology, the event is being implemented by the historic Somavati Vihara to the people of the world and the people of Sri Lanka.
+
+◼️
+
+[Data](articles/7f141242.json)
+
+[Extended Data](ext_articles/7f141242.ext.json)
+
+---
+
+### Government permits to fill vacancies in universities
+
+*2025-10-06 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/227049) · `ta`
+
+The Ministry of Education, Higher Education and Vocational Education said that all universities have been allowed to obtain new education staff.
+
+Permission has been granted to resume recruitment process in recent months. It is now approved in accordance with the demands submitted by each university for the needs of academic and non -academic staff.
+
+Universities have been recognized by the Prime Minister's Office.
+
+The next step is to carry out related recruitment procedures for universities. There is a little more time to complete the procedures.
+
+It is normal for universities to have a shortage of universities when the recruitment has been stopped for many years, but the process of resurgence has now begun. However, he said it was impossible to fill the vacancies overnight.
+
+At the height of the economic crisis in the country, recruitment operations have not been carried out due to the suspension of work in many public sectors to reduce costs.
+
+...
+
+[Data](articles/401f2324.json)
+
+[Extended Data](ext_articles/401f2324.ext.json)
+
+---
+
+### Birth rate
+
+*2025-10-06 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/227055) · `ta`
+
+The number of births in Sri Lanka is dramatically declining. According to the official data of the Department of Statistics, the number of births in 2018 declined to 2,20,761 in 2024. It was reported to be about 33 percent.
+
+Former Education Minister Susil Premajayantha has recently warned that the annual births of the country have been drastically decreased, with the facts of the Ministry of Health, which will have long -term consequences for the country's schools and staff.
+
+Experts say that the combination of many reasons for this fall. Sri Lanka's fertility rate has been decreasing for many years to reflect the preference for small family sizes and delayed childbirth. Experts note that this long -term decline has worsened by recent crises.
+
+It is noteworthy that the Kovit-19 infection and the economic crisis of 2022 have had a double impact, resulting in a number of couples delaying weddings and pregnancy.
+
+◼️
+
+[Data](articles/1939209e.json)
+
+[Extended Data](ext_articles/1939209e.ext.json)
+
+---
+
+### Sajith 2 crore scandal scam Investigation Function - Kandaswamy Prabhu
+
+*2025-10-06 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227054) · `ta`
+
+When Opposition Leader Sajith Premadasa has been a minister in the past, with the political objective that he should be president, the National People's Power Member Kandasamy Prabhu said that the Commission was conducting an inquiry into the corruption scandal that had spent more than 2 crores of corruption scandal to inscribe the inscription.
+
+He told the media yesterday (5) after handing over the houses constructed by the Government of the Government's program on the occasion of World Residential Day in the Manmunai North Divisional Secretariat Division of Batticaloa on Sunday (5).
+
+In the past, the housing projects launched in the Batticaloa district in the past were abandoned and the houses were abandoned for the political purpose of becoming president at the time he was a minister.
+
+...
+
+[Data](articles/1c48ddda.json)
+
+[Extended Data](ext_articles/1c48ddda.ext.json)
+
+---
+
+### Manamberi is not the Coordinating Secretary appointed by me - Johnston Fernando
+
+*2025-10-06 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/227053) · `ta`
+
+Former Minister Johnston Fernando denies that Sampath Manamberi has not served as one of his coordinating secretaries. He said legal action is ready to take legal action against those who spread false information.
+
+He said this while addressing an event in the Sri Lanka PA.
+
+Currently, Manamberry says that one of my coordinating secretaries. Remember that I have only appointed coordinating secretaries from this district. Johnston Bernanato added that this claim is an attempt to tarnish my name.
+
+◼️
+
+[Data](articles/0667ac08.json)
+
+[Extended Data](ext_articles/0667ac08.ext.json)
 
 ---
 
@@ -540,6 +974,108 @@ Agent Felicity Blunt said Cooper had “defined culture, writing and conversatio
 [Data](articles/c2b08602.json)
 
 [Extended Data](ext_articles/c2b08602.ext.json)
+
+---
+
+### Set up the Presidential Commission and investigate Mahinda - Sarath Fonseka
+
+*2025-10-06 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227047) · `ta`
+
+The Rajapaksas, who are currently making crocodile tears regarding soldiers, paid $ 2 million for the purchase of the Liberation Tigers of Tamil Eelam (LTTE) for the election victory in 2005. Mahinda Rajapaksa has been guilty of the killing of more than 4,000 soldiers by announcing the ceasefire to escape Velupillai Prabhakaran during the final war in 2009.. Field Marshal Sarath Fonseka said it was the government's responsibility to file a charge sheet against him and carry out investigations through the Presidential Investigation Commission.
+
+He was speaking at an event held at Matara on Sunday night (5).
+
+Namal says that Mahinda's action is wrong to imprison me. Now they have an innovative compassion for the soldiers.
+
+But my daughters, who had been learning at the American University that day, were taken to the country at the airport at the airport. Despite the face -to -face face -to -face, the LTTE leader Prabhakaran did not give up on my family.
+
+...
+
+[Data](articles/67358850.json)
+
+[Extended Data](ext_articles/67358850.ext.json)
+
+---
+
+### நான் ஜனாதிபதியாகியிருந்தால் மஹிந்த கைதாகியிருப்பார் - சரத் பொன்சேக்கா
+
+*2025-10-06 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227046) · `ta`
+
+கால்டன் இல்லத்தில் வெறும் 40,000 பெறுமதியான கதிரைகளை வைத்திருக்கும் மஹிந்த ராஜபக்ஷ விஜேராம இல்லத்திலும், ஜனாதிபதி மாளிகையிலும் பயன்படுத்திய தளபாடங்கள் மிகப் பெறுமதி மிக்கவை. அவை அனைத்தும் இறக்குமதி செய்யப்பட்டவையாகும். நான் ஜனாதிபதியாகியிருந்தால் முதலில் அதற்காக அவரை கைது செய்ய நடவடிக்கை எடுத்திருப்பேன் என்று பீல்ட் மார்ஷல் சரத் பொன்சேக்கா தெரிவித்தார்.
+
+மாத்தறையில் நேற்று ஞாயிற்றுக்கிழமை (5) இரவு நடைபெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றியபோதே அவர் இதனைத் தெரிவித்தார்.
+
+நாட்டில் ஊழல்களை ராஜபக்ஷ குடும்பமே நிர்வகிக்கிறது. ஊழல், மோசடிகள் வரையறைகளைத் தகர்த்து சென்றுகொண்டிருக்கின்றன. ஆயிரம் சிறைகளில் அடைத்தாலும் இவர்கள் ஊழல்களை கைவிட மாட்டார்கள்.
+
+ஜனாதிபதிகளுக்குரிய சிறப்புரிமைகளை நீக்குவதற்கான சட்டம் நிறைவேற்றப்பட்டாலும், மூன்று முன்னாள் ஜனாதிபதிகளுமே உத்தியோகபூர்வ இல்லங்களை இன்னும் அரசாங்கத்திடம் கையளிக்கவில்லை.
+
+...
+
+[Data](articles/91d32ecd.json)
+
+---
+
+### Selling liquor on full moon holidays - how the suspect caught?
+
+*2025-10-06 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227050) · `ta`
+
+A suspect who was illegally selling liquor at a home on a full moon holiday was arrested by police today (06).
+
+Kalmunai Regional Assistant Superintendent of Police, MK Ibn Azar, under the direct guidance of the Narcotics Eradication Unit and the Sub -Inspector of Police, KLM Mustafa, has been subjected to the secret information available to the police team headed by the Kalmunai Headquarters Police Officer Lasantha Kaluwarayichi.
+
+An official of the Drug Eradication Unit has taken the action after receiving information about the suspect that he was on sale on Monday, a full moon holiday in Senaikkudiyiruppu, which belongs to the Kalmunai Headquarters Police Division.
+
+More than 25 liquor bottles, including 40 beers, have been seized by the police for sale at home without illegally permits.
+
+Police said they are taking steps to bring the suspect to the Kalmunai Magistrate's Court.
+
+◼️
+
+[Data](articles/d32740c6.json)
+
+[Extended Data](ext_articles/d32740c6.ext.json)
+
+---
+
+### Women traveling on the street
+
+*2025-10-06 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227052) · `ta`
+
+Three women were killed and another woman was injured in an accident in Tholuwa, Kandy, Kandy, Gampola police said.
+
+The accident occurred when a car crashed into four women who were traveling on the road, police said.
+
+The accident occurred while four women were traveling on the street to attend a religious worship event, police said.
+
+Three women died on the spot and another woman was injured and admitted to the Gampola hospital, police said.
+
+◼️
+
+[Data](articles/8e7157ce.json)
+
+[Extended Data](ext_articles/8e7157ce.ext.json)
+
+---
+
+### National Reading Month Events In The Libraries of the Manipay Pradeshiya Sabha
+
+*2025-10-06 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/227045) · `ta`
+
+The National Reading Month Competition for School Students has begun in the public libraries of Manipay, Anaikottai, Madagal and Pandathara, which runs under the Valikamam Southwest Manipay Pradeshiya Sabha on the National Reading Month.
+
+Arrangements have been made to hold various competitions among the reader and students in these public libraries under the theme "Read for Renaissance".
+
+There will be competitions such as Grade 1-3, Grade 4-5, Grade 4-5, Grade 6-8, Grade 9-11, Grade 9-11, Grade 12-13, Competitions such as reading, Tirukkural Mananam Competition, Essay, Poetry, Drawing, Common Knowledge, Legal Release, New Book Exhibition and Children's Entertainment.
+
+The tournament will commence tomorrow (7) and will be held till Tuesday, the 14th.
+
+Therefore, the librarian of the Manipay Pradeshiya Sabha has requested to participate in these competitions and showcase their talents.
+
+◼️
+
+[Data](articles/61e8e094.json)
+
+[Extended Data](ext_articles/61e8e094.ext.json)
 
 ---
 
@@ -583,19 +1119,61 @@ The resolution proposes to “extend the mandate of the Office of the High Commi
 
 ---
 
-### බ්‍රෙික් පැටලය මාරු වී තුනක් මරු තුරුලට
+### One killed in motorcycle accident Two people hurt!
+
+*2025-10-06 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227048) · `ta`
+
+A youth was killed and two men were injured when a motorcycle crashed in the Vavuniya - Rashendramkulam area, Nelukkulam police said.
+
+Three youths are traveling in a motorcycle from Rasendrakulam, Vavuniya.
+
+The motorcycle crashed into a bus station near the Rasendrankulam school after the motorcycle lost control.
+
+A youth who was riding a motorcycle was killed and two others were injured and admitted to the Vavuniya hospital for treatment.
+
+◼️
+
+[Data](articles/2c55953f.json)
+
+[Extended Data](ext_articles/2c55953f.ext.json)
+
+---
+
+### Wimal Weerawansa demands another day to make a statement on Sanaa
+
+*2025-10-06 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227041) · `ta`
+
+The National Freedom Front leader and former parliamentarian Wimal Weerawansa has appealed to the Tangalle Police Station to give the opportunity to make an opportunity for another day to make a statement on the issue of Sanaa, which was recently arrested.
+
+Tangalle Senior Superintendent of Police on Sunday (5) made the call to make a confession on the issues made by Wimal Weerawansa on the political connections of a man named Puwaktandawe Sana.
+
+Former parliamentarian Wimal Weerawansa held a media briefing on the 2nd of this month about the political links of Sanath Weerasinghe alias Sanath Weerasinghe, who was recently arrested in the Tangalle area.
+
+Wimal Weerawansa said that the invitation was received on Sunday. Requested to provide another date. Tangalle police have agreed to provide another day.
+
+◼️
+
+[Data](articles/0bb1c100.json)
+
+[Extended Data](ext_articles/0bb1c100.ext.json)
+
+---
+
+### The Breakabout switches and three dead
 
 *2025-10-06 16:36:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බරක-පටලය-මර-ව-තනක-මර-තරලට/101-680801) · `si`
 
-ගම්පොළ දොළුව විහාරස්ථානයක් ඉදිරිපිටදී  සිදු වු රිය  අනතුරින් තිදෙනකු මියගොස්  තවත් දෙදෙනකු තුවාල ලබා ඇතැයි ගම්පොල පොලීසිය  කියයි.
+Three were killed and two others were injured in an accident in front of a Gampola Doluwa Temple, police said.
 
-මෝටර් රියක් මාර්ගයේ ගමන් කළ කිහිපදෙනකු යටකරගෙන යාමෙන් මෙම අනතුර සිදුව  ඇතැයි කියයි. අනතුර සිදුවන අවස්ථාවේදී මෝටර් රිය ධාවන  කර ඇත්තේ රියදුරු පුහුණු ලබමින්  සිටි කාන්තාවක්  බවද පොලීසිය පවසයි.
+The accident had occurred when several traveled route. The motor vehicle was driving at the time of the accident, police said.
 
-මෝටර් රිය ලොරියකට ඉස්සර කිරිමට යාමේදී   බ්‍රෙික් පැටලය යැයි සිතා  ඇක්සලේටරය පැගීමෙන්  අධික වේගයෙන් ධාවන වූ මෝටර් රිය  විහාරස්ථානයට ගොස් ආපසු නිවෙස්බලා යමින් සිටි පිිරිසක් මෙලෙස යටකරගෙන ගොස් ඇතැයි පොලීසිය පවසයි.
+According to the police, the brick drop to the ride motor vehicle temple was in line with the riding motor vehicle temple, police said,
 
 ◼️
 
 [Data](articles/8bfcb957.json)
+
+[Extended Data](ext_articles/8bfcb957.ext.json)
 
 ---
 
@@ -614,6 +1192,30 @@ According to the police, the brick drop to the ride motor vehicle temple was in 
 [Data](articles/6120e1c5.json)
 
 [Extended Data](ext_articles/6120e1c5.ext.json)
+
+---
+
+### Badulla-Chengaladi Road has returned to usual
+
+*2025-10-06 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/227044) · `ta`
+
+EML Badulla District Disaster Management Center Assistant Officer EML has now returned to normal.. Udayakumara reports.
+
+Traffic was blocked for several days due to the decline in massive boulders in the early part of this year.
+
+This resulted in traffic from Bibil, Moneragala, Batticaloa and Ampara.
+
+This has taken place after a long -standing field surveillance, which has taken place over the past two months after the massive boulders that have fallen on the road have been removed.
+
+The employees of the Road Development Authority have acted swiftly and once again opened the road to a route traffic.
+
+He said that a route traffic will be held at the moment as there is a situation where massive disasters in the area are causing massive disasters.
+
+◼️
+
+[Data](articles/7716bb2d.json)
+
+[Extended Data](ext_articles/7716bb2d.ext.json)
 
 ---
 
@@ -742,6 +1344,22 @@ IGP Priyantha Weerasuriya has been transferred with immediate effect.
 [Data](articles/8e8ef147.json)
 
 [Extended Data](ext_articles/8e8ef147.ext.json)
+
+---
+
+### விமல் வீரவன்சவுக்கு எதிராக சாட்சி கட்டளை  சட்டத்தின் கீழ் நடவடிக்கை எடுக்கப்படும் - அரசாங்கம்
+
+*2025-10-06 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227035) · `ta`
+
+கைது செய்யப்பட்டுள்ள 'பெலியத்த சனா' எனப்படும் சனத் வீரசிங்கவுக்கும் அரசாங்கத்துக்கும் எந்தவொரு தொடர்பும் இல்லை. விமல் வீரவன்ச கூறுவது உண்மையென்றால் அவர் அதனை ஆதாரங்களுடன் நிரூபிக்க வேண்டும். அவ்வாறில்லை எனில் சாட்சி கட்டளை சட்டத்துக்கமைய அவருக்கெதிராக நடவடிக்கை எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் பிரதி அமைச்சர் சுனில் வட்டகல தெரிவித்தார்.
+
+திங்கட்கிழமை (06) ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார். இது தொடர்பில் அவர் மேலும் குறிப்பிடுகையில்,
+
+கைது செய்யப்பட்டுள்ள 'பெலியத்த சனா' எனப்படும் சனத் வீரசிங்கவுக்கும் அரசாங்கத்துக்கும் எந்தவொரு தொடர்பும் இல்லை என்பதை தெளிவாகக் கூறிக் கொள்கின்றோம். அவருக்கெதிரான சட்ட நடவடிக்கைகள் முறையாக முன்னெடுக்கப்பட்டு வருகின்றன. இதில் அவருக்கு அரசாங்கம் எந்த வகையில் ஒத்துழைப்பு வழங்குகிறது? நீர்கொழும்பில் இடம்பெற்றதைப் போன்று, அரசாங்கத்திலுள்ள எவரும் சென்று பெலியத்த சனாவை கட்டியணைத்துக் கொள்ளவில்லை.
+
+...
+
+[Data](articles/495393fa.json)
 
 ---
 
@@ -1424,617 +2042,5 @@ Meanwhile, 760 persons have been arrested during the special roundabout, 23 peop
 [Data](articles/24b9f4fa.json)
 
 [Extended Data](ext_articles/24b9f4fa.ext.json)
-
----
-
-### The first look release of 'Udiram' starring debutant Anish Masilamani
-
-*2025-10-06 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/227025) · `ta`
-
-The first look of the film 'Udiram' has been released as one of the heroes of the story of debutant Anish Masilamani with the best character actors in the Tamil film industry.
-
-Directed by director Hari Venkatesh, Anish Masilamani, Maim Gopi, Deena, Charmi, Kannada actress Yasha Sivakumar and many others have starred in the film 'Udaram'.
-
-Johnny Nash has composed the film for the film. Producer Anish Masilamani has produced the film on behalf of Dakhtam Motion Pictures. The film is provided by Shivani Studios.
-
-The first look of the film, which is scheduled to be completed in November, has been released. The heroes of the story are revealed that the violence has taken over the violence due to the environment.. Has made expectations for fans.
-
-◼️
-
-[Data](articles/285304b2.json)
-
-[Extended Data](ext_articles/285304b2.ext.json)
-
----
-
-### Weapons found hidden in abandoned house in Dematagoda
-
-*2025-10-06 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113255/weapons-found-hidden-in-abandoned-house-in-dematagoda-) · `en`
-
-The Crimes Investigation Division of the Bambalapitiya Police has discovered several weapons hidden in an abandoned house near the Kelani Valley railway line, on the Baseline Road in Dematagoda.
-
-Police recovered a locally manufactured 9mm firearm, two live bullets and a T-56 magazine from the location.
-
-Police suspect that the weapons may have been hidden with the intention of carrying out a murder, possibly linked to the ongoing conflict between two organized criminal gangs operating in Wanathamulla Borella, one led by Wanathamulle Duminda and the other by a gang leader Chathu.
-
-Several previous murders have already taken place as a result of clashes between these two gangs in the Wanathamulla area.
-
-◼️
-
-[Data](articles/109b8002.json)
-
-[Extended Data](ext_articles/109b8002.ext.json)
-
----
-
-### A pronouncement of strong lightning
-
-*2025-10-06 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215402) · `si`
-
-The Department of Meteorology has issued an announcement in powerful lightning.
-
-The announcement is valid until 11 pm today.
-
-The department states that the Northern, North-Central, Eastern and Uva provinces have the potential to cause lightning.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Meteorological Department urges the public to take necessary steps to minimize the damages caused by lightning accidents.
-
-◼️
-
-[Data](articles/f148d179.json)
-
-[Extended Data](ext_articles/f148d179.ext.json)
-
----
-
-### Pradeep Ranganathan's 'Toot' film song
-
-*2025-10-06 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/227024) · `ta`
-
-Director and actor Pradeep Ranganathan, who gave two commercial hit films 'Love Today' and 'Dragon', is the song 'Singari' in the film 'Dood'.. Within a short period of time, more than five million viewers have been visited and achieved.
-
-Pradeep Ranganathan, Mamida Baiju, Sarathkumar, Hird Haroon, Rohini, Aishwarya Sharma and many others have starred in the film 'Dood' directed by debutant director Keerthiswaran.
-
-Sai Abayankar has composed the film, which has been recorded by Niketh Pommy. The film was made on behalf of Maithri Movie Makers Company Producers Naveen Jenerni. Ravi Shankar has co -produced.
-
-The film, which will be released in Tamil and Telugu in Tamil and Telugu, has been released from the world on the 17th of this month to mark the upcoming Diwali day.
-
-...
-
-[Data](articles/1f8c6672.json)
-
-[Extended Data](ext_articles/1f8c6672.ext.json)
-
----
-
-### What is our fate?
-
-*2025-10-06 14:45:35* · [`lankadeepalk`](https://www.lankadeepa.lk/features/අප-ඉරණම-කමකද/2-680797) · `si`
-
-The Democratic Party's candidate after the resignation of Joe Buyon (Democratic Party) was emerged as a real difference in Joe Buyn.. In the event of the election, the View, the View, was also saved in the speech program.
-
-When she asked if she had to change from President Biden in the past four years, her answer was to '' There's nothing such things coming to my mind. '
-
-The reply of her "nothing" replied to the Democratic Particians. The Republicans were thrilled with joy in that answer. (They used many presidential election.) The talk was the turning point in the Presidential election. If she released '107 days', "Harris likened her answer to her answer (pin) to a grenade. Reminded the virtual failure that Bideen's presidency was held in that answer. The inability to commemorate his inability to implement against the folk massacre of Gaza. Many voters were to abandon inflation and bring peace to the Gaza and the Democratic Party in November 2024.
-
-...
-
-[Data](articles/c0c3a87c.json)
-
-[Extended Data](ext_articles/c0c3a87c.ext.json)
-
----
-
-### 'Rampo' of the Blessed Fund directly on the digital site
-
-*2025-10-06 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/227023) · `ta`
-
-In Tamil film industry ... Giving the best performance ... The preview of the movie 'Rampo', which plays the hero of the actor Arulnidhi, has been released.
-
-Arulnidhi, Tanya Ravichandran, Aisha, VDV Ganesh, Harish Peradi, and many others have starred in the film 'Rampo', directed by the creator Muttiah.
-
-Sun Entertainment Company has produced the film, which is centered on the game known as Kick Boxing. The film will be released directly on the Sun Next Digital site on the 10th.
-
-Arulnidhi- Muttiah Alliance, which has millions of fans around the world.. Creating an Excise Entertainment work ... The filmmakers are worried that it is not releasing it in the film mansion directly on the digital site.
-
-◼️
-
-[Data](articles/00a37cd0.json)
-
-[Extended Data](ext_articles/00a37cd0.ext.json)
-
----
-
-### Does history want to study?
-
-*2025-10-06 14:39:09* · [`lankadeepalk`](https://www.lankadeepa.lk/monday_meeting/ඉතහසය-අධයයනය-අවශයද/118-680796) · `si`
-
-History is a huge subject area that is the past heritage and its identity to the present. It is essential to explain what history is before the inquiry, why history should be studied. Various historians and scholars are present on various or definitions of what history.
-
-History is simply understood as an analytical study of past cases, or an analytical study of the underlying. That is, the main role of a historian should look at past phenomena and propose to solve the problems and challenges we face today. Historily use historical knowledge to see the historian not to love the past or to get rid of the past.
-
-...
-
-[Data](articles/f015d0c5.json)
-
-[Extended Data](ext_articles/f015d0c5.ext.json)
-
----
-
-### Does history want to study?
-
-*2025-10-06 14:39:09* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ඉතහසය-අධයයනය-අවශයද/2-680796) · `si`
-
-History is a huge subject area that is the past heritage and its identity to the present. It is essential to explain what history is before the inquiry, why history should be studied. Various historians and scholars are present on various or definitions of what history.
-
-History is simply understood as an analytical study of past cases, or an analytical study of the underlying. That is, the main role of a historian should look at past phenomena and propose to solve the problems and challenges we face today. Historily use historical knowledge to see the historian not to love the past or to get rid of the past.
-
-...
-
-[Data](articles/6188b8e1.json)
-
-[Extended Data](ext_articles/6188b8e1.ext.json)
-
----
-
-### The husband dies after his wife's seven day
-
-*2025-10-06 14:38:17* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳගේ-හත්-දවසේ-බණ-දිනයේ-සැමියාත්-මිය-යයි/11-418937) · `si`
-
-Returning a pilgrimage to Badulla has been injured in the Van of the Shasinga Van accident, Badulla has been injured in the Van area in the Thugsha Van, Badulla. Police say.
-
-The father of a three have died of a hedge subscriber, RM Dharmasena.
-
-The pension at the Teaching Hospital, Ranjali Prane (52) died, died on the 1st day.
-
-The van and two others, including a group of people who were returning from Badulla to Badulla to Badulla, had been receiving treatment from the Trincomalee Drive in the thunders of the Sanka Girasur.
-
-The van was severely damaged at the accident.
-
-DIG in charge of the DIG Laksiri Wijesena, Badulla South Police OIC, Chief Inspector Sisira Herath, Chief Inspector Sisira Herath is conducting further investigations.
-
-◼️
-
-[Data](articles/74cbbbd4.json)
-
-[Extended Data](ext_articles/74cbbbd4.ext.json)
-
----
-
-### Advisory issued for severe lightning in several provinces
-
-*2025-10-06 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113254/advisory-issued-for-severe-lightning-in-several-provinces) · `en`
-
-An ‘Amber’ advisory has been issued by the Department of Meteorology for severe lightning in several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in the Northern, North-central, Eastern and Uva provinces, the department stated.
-
-There may be temporary localized strong winds during thundershowers, it added.
-
-Accordingly, the general public has been requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public has also been requested to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, and also to refrain from using wired telephones and connected electric appliances during thunderstorms.
-
-For emergency assistance, the public has been requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/ab9ea54f.json)
-
-[Extended Data](ext_articles/ab9ea54f.ext.json)
-
----
-
-### UNHRC Adopts Key Resolution on Sri Lanka Despite Colombo’s Rejection
-
-*2025-10-06 14:32:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/unhrc-adopts-key-resolution-on-sri-lanka-despite-colombo%e2%80%99s-rejection) · `en`
-
-COLOMBO (News 1st); The resolution A/HRC/60/L.1/Rev.1 Promoting reconciliation, accountability and human rights in Sri Lanka was adopted without a vote at the United Nations Human Rights Council
-
-During the 41st meeting of the 60th session of the UN Human Rights Council, Sri Lanka rejected the resolution.
-
-On the 10th of September Sri Lanka Core Group, comprising Canada, Malawi, Montenegro, North Macedonia, and the United Kingdom, tabled a resolution at the 60th Session of the United Nations Human Rights Council (UNHRC), urging Sri Lanka to take concrete steps toward reconciliation, accountability, and the protection of human rights.
-
-...
-
-[Data](articles/e66695cb.json)
-
-[Extended Data](ext_articles/e66695cb.ext.json)
-
----
-
-### French Prime Minister resigns
-
-*2025-10-06 14:31:59* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශ-අගමැති-ඉල්ලා-අස්වෙයි/11-418936) · `si`
-
-අග්‍රාමාත්‍ය ධුරයට පත්ව දින 26 වැනි කෙටි කාලයක් තුළ ඔහු මෙලෙස ඉල්ලා අස්වීමට කටයුතු කර ඇත.
-
-The decision has been taken after President Emanuel Mcroon was meeting today (06).
-
-◼️
-
-[Data](articles/8babcf84.json)
-
-[Extended Data](ext_articles/8babcf84.ext.json)
-
----
-
-### Dematagoda finds several weapons found in desolate house
-
-*2025-10-06 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215401) · `si`
-
-The Bambalapitiya Division Criminal Investigation Bureau has found several arms near the Kelani Railway near the Kelani Railway Line.
-
-There are two millimeters of land, a local manufacturers of nine millimeters, and two T-56 magazine.
-
-Police suspect that these weapons have been hidden to kill anyone in the area of ​​two organized crime gangs operating in the Borella area.
-
-There have been several killings in the Borella Wanathamulla area earlier.
-
-◼️
-
-[Data](articles/d2d1837d.json)
-
-[Extended Data](ext_articles/d2d1837d.ext.json)
-
----
-
-### Miracle of the sky today
-
-*2025-10-06 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/227019) · `ta`
-
-Supermoon will be seen in the sky today (06). Arthur C is about 7 percent larger than the full moon. Clark Modern Technology Agency (ACCIMT) said.
-
-Compared to other full moon on full moon days, the full moon is called Super Moon, as the full moon size and brightness increase tonight. When the moon moves near the earth on its elliptical orbit, super mons occur many times a year.
-
-Arthur C is said to be in both stages of the full moon and full moon. Experts from Clark Modern Technology Company noted.
-
-Residents in the coastal areas may be able to meet a slightly more tidal rise than usual. Also, astronomers may have a rare opportunity to see Saturn's planet positioning near the bright full moon tonight.
-
-Super Moon offers a great opportunity to see a wonderful natural event when referring to full moon day.
-
-◼️
-
-[Data](articles/26725124.json)
-
-[Extended Data](ext_articles/26725124.ext.json)
-
----
-
-### Does the COPE committee need new powers?
-
-*2025-10-06 14:21:44* · [`lankadeepalk`](https://www.lankadeepa.lk/friday/කප-කමටවට-අලත-බලතල-අවශයද/122-680791) · `si`
-
-This year's discussion is based on the Committee of the Public Enterprises or COPE Committee. It was thought to discuss it because the current Chairman of the committee presented to Parliament last week was a proposal.
-
-The Chairman's proposal is to be given to the IGP or the bribery commission to the Inspector General of Investigation and Bribery Commission.. The Standing Order 120 will be revised if recognized.
-
-First, I should say that I am against this amendment proposal. There is no opposition to carry on the role of the COPE committee. But if the COPE is responsible for the increase in powers this way, the COPE is responsible for a huge predatory. The COPE committee already performs questions in a court. Some of the country are some kind of question. If these new proposals are implemented in such a situation, you need to ask what can happen.
-
-...
-
-[Data](articles/f26e0909.json)
-
-[Extended Data](ext_articles/f26e0909.ext.json)
-
----
-
-### Does the COPE committee need new powers?
-
-*2025-10-06 14:21:44* · [`lankadeepalk`](https://www.lankadeepa.lk/features/කප-කමටවට-අලත-බලතල-අවශයද/2-680791) · `si`
-
-This year's discussion is based on the Committee of the Public Enterprises or COPE Committee. It was thought to discuss it because the current Chairman of the committee presented to Parliament last week was a proposal.
-
-The Chairman's proposal is to be given to the IGP or the bribery commission to the Inspector General of Investigation and Bribery Commission.. The Standing Order 120 will be revised if recognized.
-
-First, I should say that I am against this amendment proposal. There is no opposition to carry on the role of the COPE committee. But if the COPE is responsible for the increase in powers this way, the COPE is responsible for a huge predatory. The COPE committee already performs questions in a court. Some of the country are some kind of question. If these new proposals are implemented in such a situation, you need to ask what can happen.
-
-...
-
-[Data](articles/7fcbe251.json)
-
-[Extended Data](ext_articles/7fcbe251.ext.json)
-
----
-
-### Thirty-two pigeons stolen from Dehiwala National Zoo, officials say
-
-*2025-10-06 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113253/thirty-two-pigeons-stolen-from-dehiwala-national-zoo-officials-say) · `en`
-
-A total of 32 pigeons have been stolen from the Dehiwala National Zoological Gardens, according to the administration of the zoo.
-
-The Deputy Director of the zoo, Hemanta Samarasekara stated that a complaint regarding the theft has been lodged with the Dehiwala Police.
-
-He mentioned that the theft is suspected to have taken place either on Friday night (03) or in the early hours of Saturday (04).
-
-The pigeons were reportedly stolen by breaking open a cage in which they were kept. These pigeons had been housed at the Dehiwala Zoo under court orders, having been presented as evidence in various legal cases.
-
-As a disciplinary measure, the officer in charge of the section where the pigeons were kept has been suspended, according to Deputy Director Samarasekara.
-
-However, the Dehiwala Police have stated that no information has yet been reported regarding any suspects or the whereabouts of the stolen pigeons.
-
-A special investigation into the incident has now been launched by the Dehiwala Police.
-
-◼️
-
-[Data](articles/406a3612.json)
-
-[Extended Data](ext_articles/406a3612.ext.json)
-
----
-
-### Opening of International Archaeological Research Institute
-
-*2025-10-06 14:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-தொல்பொருள்-ஆராய்ச்சி-நிறுவனம்-திறப்பு/175-365815) · `ta`
-
-The inauguration of a two -storey building of the newly constructed Archaeological Museum and International Archaeological Research Institute was held on Monday (06) under the patronage of President Anura Kumara Dissanayake.
-
-For the convenience of those who worship and engage in educational research work, the historic Somavati Rajamaha Vikarapati Mahavihara Vansika Siyamopali Maha Nikkaya, the recruitment of the Malwathu Nikaya, the recruitment of Dr. The two -storey building has been constructed under the planning and supervision of the Archaeological Department, with the full funding of Chairman Deshamanya Mithrapala Langeswara.
-
-The president, who went to the historic Somavati Vihara, was blessed with religious rituals.
-
-The President then opened the name board and opened the new two -storey building of the Archaeological Museum and International Archaeological Research Institute and floral to the Buddha statue and Tandadadu.
-
-...
-
-[Data](articles/dc969ff1.json)
-
-[Extended Data](ext_articles/dc969ff1.ext.json)
-
----
-
-### Prosecutor arrested for playing a prostitute
-
-*2025-10-06 14:02:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபச்சாரியாக-நடித்த-வழக்கறிஞர்-கைது/175-365814) · `ta`
-
-A lawyer has been arrested on the Internet and on social media, who has been a prostitute and has been involved in various misconduct.
-
-It has also been revealed that the suspect has produced naked photos and posted on the Internet and social media.
-
-He has been arrested in connection with the CIT's Computer Criminal Investigation Department (CID) for allegedly harassing the suspect.
-
-◼️
-
-[Data](articles/19e43d09.json)
-
-[Extended Data](ext_articles/19e43d09.ext.json)
-
----
-
-### Recovery of weapons in Thematagoda
-
-*2025-10-06 13:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெமட்டகொடையில்-ஆயுதங்கள்-மீட்பு/175-365812) · `ta`
-
-The Criminal Investigation Department of the Colombo Southern Division said that from an abandoned house behind the Dematagoda railway station, a locally manufactured 9mm rifle, a Magasin for a T-56 rifle and two direct T-56 bullets were seized.
-
-According to the confidential information, when the abandoned home test behind the train station, a suspicious package used in a bag used for the sale of rice was discovered.
-
-Later, when checking the house, police said that the locally manufactured 9mm rifle, one magic for the T-56 rifle and two direct T-57 bullets found inside.
-
-Police suspect that someone may have brought these guns to the place, and further investigations will be carried out by inspection of the security camera footage.
-
-◼️
-
-[Data](articles/7feb6f49.json)
-
-[Extended Data](ext_articles/7feb6f49.ext.json)
-
----
-
-### French Prime Minister Sébastien Lecornu resigns after less than a month
-
-*2025-10-06 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113252/french-prime-minister-sbastien-lecornu-resigns-after-less-than-a-month) · `en`
-
-France’s new Prime Minister Sebastien Lecornu resigned on Monday (Oct 6), barely 14 hours after appointing his new Cabinet, after allies and foes alike threatened to topple his government, driving French stocks and the euro sharply lower.
-
-His swift resignation was unexpected and unprecedented, and marked another major deepening of France’s political crisis.
-
-The far-right National Rally immediately urged President Emmanuel Macron to call a snap parliamentary election.
-
-After weeks of consultations with political parties across the board, Lecornu, a close ally of Macron, had appointed his ministers on Sunday and they had been set to hold their first meeting on Monday afternoon.
-
-But the new Cabinet line-up had angered opponents and allies alike, who either found it too right-wing or not sufficiently so, raising questions on how long it could last, at a time when France is already mired deep in political crisis, with no group holding a majority in a fragmented parliament.
-
-...
-
-[Data](articles/b0e8dc8b.json)
-
-[Extended Data](ext_articles/b0e8dc8b.ext.json)
-
----
-
-### French Prime Minister resigns
-
-*2025-10-06 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215400) · `si`
-
-ෆ්‍රැන්කොයිස් බයිරූගේ පෙර රජය බිඳ වැටීමෙන් පසු ලෙකෝර්නු අගමැති ධුරයට පත් වී දින 26ක් ඇතුළත මෙම තීරණ ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තාකරයි.
-
-The Prime Minister announced that the Prime Minister resigned in the Elizel in Elizi after meeting LECORN and French President Emanuel McConon this morning.
-
-◼️
-
-[Data](articles/14efd3b7.json)
-
-[Extended Data](ext_articles/14efd3b7.ext.json)
-
----
-
-### 30 Pigeons Stolen from Dehiwala National Zoological Gardens; Police Launch Investigation
-
-*2025-10-06 13:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/30-pigeons-stolen-from-dehiwala-national-zoological-gardens-police-launch-investigation) · `en`
-
-COLOMBO (News 1st): 30 Pigeons have reportedly been stolen from the Dehiwala National Zoological Gardens.According to police, the theft had taken place around 2 a.m. on lasy Sunday, October 04.Investigations are currently underway to apprehend the suspects involved.
-
-◼️
-
-[Data](articles/689ae475.json)
-
-[Extended Data](ext_articles/689ae475.ext.json)
-
----
-
-### President inaugurates Museum and International Research Institute at Somawathi Sacred Site
-
-*2025-10-06 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113251/president-inaugurates-museum-and-international-research-institute-at-somawathi-sacred-site) · `en`
-
-The newly constructed two-storey building housing the Archaeological Museum and the International Archaeological Research Institute at the historic Somawathi sacred area in Polonnaruwa was declared open today (06) under the patronage of President Anura Kumara Dissanayake.
-
-The two-storey building was constructed under the supervision of the Department of Archaeology, following the guidance of the Chief Incumbent of the historic Somawathi Raja Maha Vihara and Registrar of the Mahavihara Vansika Syamopali Maha Nikaya of the Malwatta Chapter, the Most Venerable Dr. Pahamune Sri Sumangala Nayaka Thero.
-
-The project was fully funded through private funding to facilitate the convenience of devotees from around the world who visit the historic Somawathi Chaityarajaya in Polonnaruwa where the Sacred Right Tooth Relic of Lord Buddha is enshrined, as well as those engaged in educational and research activities, the President’s Media Division (PMD) said.
-
-...
-
-[Data](articles/8ed846b4.json)
-
-[Extended Data](ext_articles/8ed846b4.ext.json)
-
----
-
-### WhatsApp Group, named "Dubai"; Young couple arrested!
-
-*2025-10-06 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/227016) · `ta`
-
-Polgahawela police said that a young couple has been arrested in the city of Kurunegala - Polgahawela on Sunday afternoon.
-
-The suspects have been arrested in connection with the information received by the Polgahawela police.
-
-The arrested persons, aged 21 and 27, were a young couple, police said.
-
-A raid carried out a house in the Polgahawela -Mawatha area during the information received during the inquiries conducted by the suspects.
-
-The total mass of heroin, which was seized from the young couple, is 50 grams.
-
-Police investigations have revealed that the suspects were selling heroin using the Easy Cash system in the WhatsApp group as the suspects were operating a WhatsApp group under the name "Dubai".
-
-◼️
-
-[Data](articles/6d6a74f8.json)
-
-[Extended Data](ext_articles/6d6a74f8.ext.json)
-
----
-
-### A stick to the government from the land of land
-
-*2025-10-06 13:32:43* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-කට්ටිකරුවන්ගෙන්-රජයට-දෙකෝටියක-පොල්ලක්/11-418935) · `si`
-
-The latest audit report issued by the Land Survey of Rs.
-
-Under the distribution of a million land deed, landscaped lands had been launched in the construction of the land surveillance (2019,202021) in the past three years (2019,202021). The Commission had paid a sum of money (33,229,486.36).
-
-Surveys were taken to recover from the land of the Land Surveys at the Commission's lands belonging to the Land Survey. The landmen have recovered a sum of Rs.
-
-(9,954,377.00) The audit recommended that the lands should be charged at the Land of Lands. The Audit Report which has released the year 2024 by the Land Reform Commission of the Commission.
-
-◼️
-
-[Data](articles/c3585e3a.json)
-
-[Extended Data](ext_articles/c3585e3a.ext.json)
-
----
-
-### Piliyandala Drug Bust: Duo Nabbed with Heroin and Ice
-
-*2025-10-06 13:32:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/piliyandala-drug-bust-duo-nabbed-with-heroin-and-ice) · `en`
-
-COLOMBO (News 1st): Two suspects have been arrested in Bokundara, Piliyandala with two kilograms of heroin and 500 grams of Ice in their possession.Police stated that the arrests were made during a raid carried out by officers of the Police Special Task Force (STF).According to Police, the two suspects are believed to be operatives of a local drug network linked to a wanted organized criminal named Avishka, who is currently hiding overseas.The suspects and the seized narcotics have been handed over to the Police Narcotics Bureau for further investigations.
-
-◼️
-
-[Data](articles/54f11211.json)
-
-[Extended Data](ext_articles/54f11211.ext.json)
-
----
-
-### 339 crores were paid to customs without anxilla
-
-*2025-10-06 13:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇගලල-නතව-රගවට-කට-339-ක-පඩ-ගවල/1-680790) · `si`
-
-2335 Sri Lanka Customs Officers in Sri Lanka, Overtime, Holidays, have been issued by Rs 339 million rupees (3,35,867,121) without using the finger print.
-
-According to administrative law and circulars, all public servants are essential to address their attendance and leave.
-
-The total amount of Rs.. (2,308,694,777)
-
-The Charges of Customs and the Information Technology Communications fund (1,087,172,344) were paid by Rs.
-
-Audit sections say that these employees will be opened up to 24 hours a day and have been proved to prove that all payments are paid to all payments.
-
-Public Accounts Committee (Capa) had recommended that the relevant authorities should be made to form properly in order to formulate the fingerprints or any such officials.
-
-This is stated in the audit of the 2024 Performance Report on Customs.
-
-◼️
-
-[Data](articles/7e0df75f.json)
-
-[Extended Data](ext_articles/7e0df75f.ext.json)
-
----
-
-### 339 crores were paid to customs without anxilla
-
-*2025-10-06 13:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇගලල-නතව-රගවට-කට-339-ක-පඩ-ගවල/101-680790) · `si`
-
-2335 Sri Lanka Customs Officers in Sri Lanka, Overtime, Holidays, have been issued by Rs 339 million rupees (3,35,867,121) without using the finger print.
-
-According to administrative law and circulars, all public servants are essential to address their attendance and leave.
-
-The total amount of Rs.. (2,308,694,777)
-
-The Charges of Customs and the Information Technology Communications fund (1,087,172,344) were paid by Rs.
-
-Audit sections say that these employees will be opened up to 24 hours a day and have been proved to prove that all payments are paid to all payments.
-
-Public Accounts Committee (Capa) had recommended that the relevant authorities should be made to form properly in order to formulate the fingerprints or any such officials.
-
-This is stated in the audit of the 2024 Performance Report on Customs.
-
-◼️
-
-[Data](articles/4640c030.json)
-
-[Extended Data](ext_articles/4640c030.ext.json)
-
----
-
-### Police Probe Over 8,000 Complaints via IGP’s WhatsApp Hotline
-
-*2025-10-06 13:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/police-probe-over-8-000-complaints-via-igp%e2%80%99s-whatsapp-hotline) · `en`
-
-COLOMBO (News 1st): Sri Lanka Police have launched investigations into complaints received via the WhatsApp number introduced by the Inspector General of Police (IGP) to report on illegal drugs and organized crime.According to police, these complaints are being forwarded to the relevant police stations for further inquiries and follow-up action.Over 8,000 complaints have been received through the dedicated WhatsApp number (071–8598888), which was introduced by IGP Attorney-at-law Priyantha Weerasuriya, to allow the public to report information related to illegal drugs, organized crime, and other issues.However, police further noted that some of the messages received are unrelated to their responsibilities. Therefore, the public is requested to submit only police-relevant complaints through this number to ensure effective response and investigation.
-
-◼️
-
-[Data](articles/eeb87e04.json)
-
-[Extended Data](ext_articles/eeb87e04.ext.json)
-
----
-
-### Passenger arrested at BIA while attempting to smuggle foreign cigarettes worth over Rs. 1.35 mln
-
-*2025-10-06 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113250/passenger-arrested-at-bia-while-attempting-to-smuggle-foreign-cigarettes-worth-over-rs-135-mln) · `en`
-
-A Sri Lankan passenger has been arrested at the Bandaranaike International Airport (BIA) by officers of the Police Narcotics Bureau (PNB) while attempting to smuggle a consignment of foreign-manufactured cigarettes worth Rs.1.35 million into the country.
-
-The 48-year-old suspect who had worked as an electrician in Dubai, for three and a half years was arrested earlier this morning (06).
-
-He had arrived at the Katunayake Airport from Dubai on FitsAir 8D 822 at 05.20 a.m. today.
-
-Upon inspection, officials discovered 45 cartons of cigarettes containing 9,000 sticks of foreign cigarettes concealed in his luggage, disguised as boxes containing laundry detergent, chocolates and perfumes.
-
-The suspect, along with the seized cigarettes, is scheduled to be produced before the Negombo Magistrate’s Court on 08 October 2025.
-
-◼️
-
-[Data](articles/fd00e2e5.json)
-
-[Extended Data](ext_articles/fd00e2e5.ext.json)
 
 ---

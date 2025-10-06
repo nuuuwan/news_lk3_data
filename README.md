@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 18:21:03**
+As of **2025-10-06 18:45:15**
 
 ## Newspaper Stats
 
-*Scraped **81,602** Articles*
+*Scraped **81,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,81 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
-adalk | 7,806
+adalk | 7,808
 adaderanalk | 10,480
 tamilmirrorlk | 12,116
 virakesarilk | 13,425
-adaderanasinhalalk | 14,016
+adaderanasinhalalk | 14,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,602 (100.0%) of 81,602 articles have been extended.
+81,602 (100.0%) of 81,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### ඉතිහාසය වෙනස් කරමින් 2025 LPL සටනට ඉන්දීය කණ්ඩායමේ ක්‍රීඩකයින්
+
+*2025-10-06 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215410) · `si`
+
+ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ හයවන අදියර සඳහා ඉන්දීය කණ්ඩායමේ ක්‍රීඩාකරන ක්‍රීඩකයින් සහභාගී වන බව LPL සංවිධායකයින් නිවේදනය කර තිබේ.
+
+ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ 6 වන අදියර සඳහා ඉන්දීය කණ්ඩායමේ ක්‍රීඩාකරන ක්‍රීඩකයින් සහභාගී වන බව LPL සංවිධායකයින් නිවේදනය කර තිබේ.
+
+ඉන්දීය කණ්ඩායමේ දැනට ක්‍රීඩාකරන ක්‍රීඩකයින් මෙලෙස ලංකා ප්‍රිමියර් ලීග් තරගාවලි සඳහා සහභාගී වන්නේ පළමු වරටය.
+
+මීට පෙර ලංකා ප්‍රිමියර් ලීග් තරගාවලි සඳහා ඉන්දීය කණ්ඩායම නියෝජනය කළ එහෙත් ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගන්නා ලද ඉන්දීය ක්‍රීඩයින් ක්‍රීඩා කර තිබුණි.
+
+එසේ වන්නේ, ඉන්දිය සංචිත ගත හෝ IPL සඳහා ක්‍රීඩා කරන ඉන්දීය කිසිදු ක්‍රීඩකයෙකුට ලෝකයේ වෙනත් ක්‍රිකට් ලීගයක් සඳහා සහභාගී වීමට ඉන්දීය ක්‍රිකට් ආයතනය අවසර ලබානොදීම හේතුවෙනි.
+
+‍ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ හයවන අදියර දෙසැම්බර් 1 වනදා ආරම්භ වීමට නියමිතය.
+
+එළැඹෙන 2026 විස්සයි20 ලෝක කුසලානයට පෙරහුරුවක් ලෙස මෙම කාල සීමාවේ තරගාවලිය පැවැත්වෙන බව තරග සංවිධායකින් පවසයි.
+
+විස්සයි20 තරගාවලි රටාවේ ලීග් තරග 20ක් සහ පිළිමළුන් පිටුදැකීමේ තරග 4ක් ඇතුළුව මුළු තරග 24ක් ඇතුළත්ය.
+
+...
+
+[Data](articles/a0131a03.json)
+
+---
+
+### මානව හිමිකම් කවුන්සිලයේ දී ශ්‍රී ලංකාව පිළිබඳ යෝජනාවක් සම්මත කරයි
+
+*2025-10-06 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215409) · `si`
+
+ශ්‍රී ලංකාවේ සංහිඳියාව, වගවීම සහ මානව හිමිකම් ප්‍රවර්ධනය කිරීම පිළිබඳ යෝජනාවක් ජිනීවාහි එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේදී සම්මත කරගෙන තිබේ.
+
+මානව හිමිකම් කවුන්සිලයේ 60 වන සැසිවාරයේදී ඡන්දයකින් තොරව මෙම යෝජනාව සම්මත කර ගෙන ඇත.
+
+ඊට අදාළව මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් කාර්යාලය ශ්‍රී ලංකාව පිළිබඳ සිදුකරන ක්‍රියාදාමය තවත් වසර දෙකකට දීර්ඝ කර ඇති අතර, එම යෝජනාවට රටවල් 22ක් සම අනුග්‍රාහකයින් ලෙස අත්සන් කර තිබේ.
+
+මේ සම්බන්ධයෙන් යාවත්කාලීන කරන ලද කෙටුම්පත ඔක්තෝබර් 1 වන දින ජිනීවාහිදී ඉදිරිපත් කර ඇත.
+
+යෝජනාවේ ප්‍රධාන අනුග්‍රාහකයින් ලෙස එක්සත් රාජධානිය, කැනඩාව, මලාවි, මොන්ටිනිග්‍රෝ සහ උතුරු මැසිඩෝනියාව අත්සන් තබා ඇති අතර, අතිරේක අනුග්‍රාහකයින්ගෙන් බහුතරයක් යුරෝපීය රාජ්‍යයන් වේ.
+
+◼️
+
+[Data](articles/c3881a0f.json)
+
+---
+
+### ගම්පොල අනතුරකින් තිදෙනෙක් මරුට
+
+*2025-10-06 18:02:37* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පොල-අනතුරකින්-තිදෙනෙක්-මරුට/11-418940) · `si`
+
+ගම්පොල දොළුව ප්‍ර දේශයේ සිදුවූ රිය අනතුරකින් කාන්තාවක් තිදෙනෙක් ජීවිතක්ෂයට පත්ව තවත් කාන්තාවන් දෙදෙනෙක් තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+දොළුව ප්‍ර දේශයේ විහාරස්ථානයක පැවැති ආගමික වැඩසටහනකට එක්වීමට පැමිණි කාන්තාවන් පිරිසක් පාර හරහා ගමන් කිරීමට යාමේදී මෝටර් රථයක ගැටී මෙම අනතුර සිදුව තිබේ.  අනතුරින් කාන්තාවන් තිදෙනා එම ස්ථානයේදිම මිය ගොස් තිබේ.
+
+◼️
+
+[Data](articles/b3155dcd.json)
+
+---
 
 ### Super Moon tonight
 
@@ -626,6 +686,22 @@ Former minister and leader of the National Freedom Front, Wimal Weerawansa, was 
 [Data](articles/6af632a5.json)
 
 [Extended Data](ext_articles/6af632a5.ext.json)
+
+---
+
+### සෝමාවතී පුදබිමේ ඉදිකිරීම් කිහිපයක් ජනපති විවෘත කරයි
+
+*2025-10-06 15:12:07* · [`adalk`](https://www.ada.lk/breaking_news/සෝමාවතී-පුදබිමේ-ඉදිකිරීම්-කිහිපයක්-ජනපති-විවෘත-කරයි/11-418939) · `si`
+
+පොළොන්නරුව ඓතිහාසික සෝමවතී පුද බිමේ අභිනවයෙන් ඉදිකරන ලද පුරාවිද්‍යා කෞතුකාගාරය සහ ජාත්‍යන්තර පුරාවිද්‍යා පර්යේෂණ ආයතනය ඇතුළත් දෙමහල් මන්දිරය විවෘත කිරීම ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (06) පෙරවරුවේ සිදු විය.
+
+සම්මා සම්බුදුරජාණන් වහන්සේගේ ශ්‍රී දකුණු දළදා වහන්සේ වැඩ වසන පොළොන්නරුව ඓතිහාසික සෝමවතී චෛත්‍යරාජයාණන් වහන්සේ වැඳපුදා ගැනීමට ලොව නන් දෙසින් පැමිණෙන සහ අධ්‍යාපනික පර්යේෂණ කටයුතුවල යෙදෙන සියලුදෙනාගේ පහසුව පිණිස මෙම පුරාවිද්‍යා කෞතුකාගාරය සහ ජාත්‍යන්තර පුරාවිද්‍යා පර්යේෂණ ආයතනය ඉදිකර තිබේ.
+
+ඓතිහාසික සෝමවතී රජමහා විහාරාධිපති මහාවිහාර වංශික ස්‍යාමෝපාලි මහා නිකායේ මල්වතු පාර්ශ්වයේ ලේඛකාධිකාරි ආචාර්ය අතිපූජ්‍ය පහමුණේ ශ්‍රී සුමංගල නායක හිමිපාණන් වහන්සේගේ අනුශාසනා පරිදි රත්න සමූහ ව්‍යාපාරයේ සභාපති දේශමාන්‍ය මිත්‍රපාල ලංකේෂ්වර මහතාගේ පූර්ණ ධන පරිත්‍යාගයෙන් ඉදිකෙරුණු මෙම දෙමහල් මන්දිරය පුරාවිද්‍යා දෙපාර්තමේන්තුවේ සැලසුම් සහ අධික්ෂණය යටතේ ඉදිකර ඇත.
+
+...
+
+[Data](articles/c93e22d7.json)
 
 ---
 
@@ -1932,91 +2008,5 @@ Chinese regional reports had previously reported that 1,000 climbers were lost.
 [Data](articles/0fbdd605.json)
 
 [Extended Data](ext_articles/0fbdd605.ext.json)
-
----
-
-### Identify 100 new cancer patients daily in Sri Lanka
-
-*2025-10-06 11:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-தினசரி-100-புதிய-புற்றுநோய்-நோயாளிகள்-அடையாளம்/175-365805) · `ta`
-
-About 100 new cancer patients are diagnosed every day in Sri Lanka and nearly 35,000 people are affected annually.
-
-According to Minister of Health and Media Nalinda Jayatissa, oral cancer is the most commonly diagnosed form in the country.
-
-The Minister further pointed out that cancer treatment is a heavy burden on the health department and that nearly 30 percent of the total drug cost is allocated to cancer drugs.
-
-"The number of cancer drugs is relatively low but their costs are very high," the minister said.
-
-Minister Nalinda Jayatissa said the widespread threat to Sri Lankans aged 30 to 70, the cause of most deaths (NCDS).
-
-As a result, the Minister urged the public to focus on the ongoing detection and lifestyle changes to relieve cancer and other infectious diseases.
-
-◼️
-
-[Data](articles/fa0329f1.json)
-
-[Extended Data](ext_articles/fa0329f1.ext.json)
-
----
-
-### 32 pigeons theft
-
-*2025-10-06 11:47:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/32-புறாக்கள்-திருட்டு/175-365804) · `ta`
-
-Dehiwala police say 32 pigeons have been stolen from the National Zoo in Dehiwala.
-
-Assistant Director of National Zoo. The theft took place in the early hours of the morning, according to a complaint lodged by the Samanmali and Dehiwala police.
-
-The 63 pigeons, who were illegally brought to the country by boat from India, were seized by the police and handed over to the Dehiwala National Zoo on the orders of the Mannar Magistrate's Court.
-
-No information has yet been released about the missing pigeons. The Dehiwala police are conducting investigations.
-
-◼️
-
-[Data](articles/880c099a.json)
-
-[Extended Data](ext_articles/880c099a.ext.json)
-
----
-
-### Shooting in Australia; 20 people injured; Injury
-
-*2025-10-06 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227006) · `ta`
-
-At least 20 people were injured and injured in a shooting in Sydney, Australia.
-
-Police officers rushed to the scene after information was received about the incident. 60 -year -old suspect has been arrested. Two rifle guns have been seized.
-
-New South Wales Superintendent Stephen Barry said that the suspect may have shot a firearm from 7:45 pm to 9:30 pm on Sunday night at the suburbs of the suburbs.
-
-◼️
-
-[Data](articles/91b69e05.json)
-
-[Extended Data](ext_articles/91b69e05.ext.json)
-
----
-
-### The entire village trapped by the column:
-
-*2025-10-06 11:37:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பத்தியால்-சிக்கிய-முழு-கிராமம்-நடுவீதியில்-திண்டாட்டம்/150-365803) · `ta`
-
-All the villagers of Pannagama, who are located in the Damana Divisional Secretariat Division of the Ampara District, have become trapped within the Pyramid Project.
-
-A few months ago, a house in a house in Pannagama village was carried out in the name of Arunalu Bahansilu.
-
-After a while, it was started as a paragraph industry, and the villagers were given the opportunity to participate.
-
-One person. When depositing 50,000, they are given 1,000 columns and boxes. When the columns are stuffed in the boxes, prepared, and handed over, the company is Rs.. 75,000.
-
-Started in the village of Pannagama, this trade, a large number of people in the village. 50,000, take the columns, pack and return, Rs.. 75,000.
-
-The business was advertised in the village and all the surrounding villages, and in the second phase, representatives were appointed in each place, and the money was received by those representatives to further expand the business.
-
-...
-
-[Data](articles/9a156f66.json)
-
-[Extended Data](ext_articles/9a156f66.ext.json)
 
 ---

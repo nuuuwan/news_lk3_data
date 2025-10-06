@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 19:01:45**
+As of **2025-10-06 19:14:25**
 
 ## Newspaper Stats
 
@@ -27,55 +27,59 @@ adaderanasinhalalk | 14,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,602 (100.0%) of 81,606 articles have been extended.
+81,606 (100.0%) of 81,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
-### ඉතිහාසය වෙනස් කරමින් 2025 LPL සටනට ඉන්දීය කණ්ඩායමේ ක්‍රීඩකයින්
+### India's players to 1325 LPL fight to 2025 LPL fight
 
 *2025-10-06 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215410) · `si`
 
-ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ හයවන අදියර සඳහා ඉන්දීය කණ්ඩායමේ ක්‍රීඩාකරන ක්‍රීඩකයින් සහභාගී වන බව LPL සංවිධායකයින් නිවේදනය කර තිබේ.
+LPL organizers have announced that the Indian team players will participate in the sixth phase of the Lanka Premier League.
 
-ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ 6 වන අදියර සඳහා ඉන්දීය කණ්ඩායමේ ක්‍රීඩාකරන ක්‍රීඩකයින් සහභාගී වන බව LPL සංවිධායකයින් නිවේදනය කර තිබේ.
+LPL organizers have announced that the Indian team players will participate in Phase 6 of the Lanka Premier League.
 
-ඉන්දීය කණ්ඩායමේ දැනට ක්‍රීඩාකරන ක්‍රීඩකයින් මෙලෙස ලංකා ප්‍රිමියර් ලීග් තරගාවලි සඳහා සහභාගී වන්නේ පළමු වරටය.
+The first players of the Indian team participate in Lanka Premier League Tournament.
 
-මීට පෙර ලංකා ප්‍රිමියර් ලීග් තරගාවලි සඳහා ඉන්දීය කණ්ඩායම නියෝජනය කළ එහෙත් ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගන්නා ලද ඉන්දීය ක්‍රීඩයින් ක්‍රීඩා කර තිබුණි.
+The Indian Games, who had previously represented the Indian players for Lanka Premier League.
 
-එසේ වන්නේ, ඉන්දිය සංචිත ගත හෝ IPL සඳහා ක්‍රීඩා කරන ඉන්දීය කිසිදු ක්‍රීඩකයෙකුට ලෝකයේ වෙනත් ක්‍රිකට් ලීගයක් සඳහා සහභාගී වීමට ඉන්දීය ක්‍රිකට් ආයතනය අවසර ලබානොදීම හේතුවෙනි.
+The Indian Cricket is not allowed to attend any of the Indian cricket league to any of the Indian cricket league that is playing for Indian reserves or IPL.
 
-‍ලංකා ප්‍රිමියර් ලීග් තරගාවලියේ හයවන අදියර දෙසැම්බර් 1 වනදා ආරම්භ වීමට නියමිතය.
+The sixth phase of the Lanka Premier League will commence on December 1.
 
-එළැඹෙන 2026 විස්සයි20 ලෝක කුසලානයට පෙරහුරුවක් ලෙස මෙම කාල සීමාවේ තරගාවලිය පැවැත්වෙන බව තරග සංවිධායකින් පවසයි.
+The tournament will be held as a rehearsal for the next 2026 World Cup.
 
-විස්සයි20 තරගාවලි රටාවේ ලීග් තරග 20ක් සහ පිළිමළුන් පිටුදැකීමේ තරග 4ක් ඇතුළුව මුළු තරග 24ක් ඇතුළත්ය.
+Twenty20 tournament pattern includes 24 matches including 20 league matches and four foolishment matches.
 
 ...
 
 [Data](articles/a0131a03.json)
 
+[Extended Data](ext_articles/a0131a03.ext.json)
+
 ---
 
-### මානව හිමිකම් කවුන්සිලයේ දී ශ්‍රී ලංකාව පිළිබඳ යෝජනාවක් සම්මත කරයි
+### Sri Lanka adopts a proposal on Sri Lanka at Human Rights Council
 
 *2025-10-06 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215409) · `si`
 
-ශ්‍රී ලංකාවේ සංහිඳියාව, වගවීම සහ මානව හිමිකම් ප්‍රවර්ධනය කිරීම පිළිබඳ යෝජනාවක් ජිනීවාහි එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේදී සම්මත කරගෙන තිබේ.
+A proposal on reconciliation, accountability and human rights in Sri Lanka has been adopted at the UN Human Rights Council in Geneva.
 
-මානව හිමිකම් කවුන්සිලයේ 60 වන සැසිවාරයේදී ඡන්දයකින් තොරව මෙම යෝජනාව සම්මත කර ගෙන ඇත.
+The resolution was adopted without a vote in the 60th session of the Human Rights Council.
 
-ඊට අදාළව මානව හිමිකම් පිළිබඳ මහ කොමසාරිස් කාර්යාලය ශ්‍රී ලංකාව පිළිබඳ සිදුකරන ක්‍රියාදාමය තවත් වසර දෙකකට දීර්ඝ කර ඇති අතර, එම යෝජනාවට රටවල් 22ක් සම අනුග්‍රාහකයින් ලෙස අත්සන් කර තිබේ.
+The High Commissioner for Human Rights has extended its proceedings to Sri Lanka two more years, and the proposal has signed the same proposal as equal sponsors.
 
-මේ සම්බන්ධයෙන් යාවත්කාලීන කරන ලද කෙටුම්පත ඔක්තෝබර් 1 වන දින ජිනීවාහිදී ඉදිරිපත් කර ඇත.
+The updated draft has been submitted in Geneva on October 1.
 
-යෝජනාවේ ප්‍රධාන අනුග්‍රාහකයින් ලෙස එක්සත් රාජධානිය, කැනඩාව, මලාවි, මොන්ටිනිග්‍රෝ සහ උතුරු මැසිඩෝනියාව අත්සන් තබා ඇති අතර, අතිරේක අනුග්‍රාහකයින්ගෙන් බහුතරයක් යුරෝපීය රාජ්‍යයන් වේ.
+The UK, Canada, Malawi, Montenegro and Northern Macedonia have signed as major patrons in the proposal.
 
 ◼️
 
 [Data](articles/c3881a0f.json)
+
+[Extended Data](ext_articles/c3881a0f.ext.json)
 
 ---
 
@@ -83,13 +87,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-10-06 18:02:37* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පොල-අනතුරකින්-තිදෙනෙක්-මරුට/11-418940) · `si`
 
-ගම්පොල දොළුව ප්‍ර දේශයේ සිදුවූ රිය අනතුරකින් කාන්තාවක් තිදෙනෙක් ජීවිතක්ෂයට පත්ව තවත් කාන්තාවන් දෙදෙනෙක් තුවාල ලබා රෝහල් ගත කර තිබේ.
+Three other women were injured in a road accident in Gampola Dayuwala area in Gampola.
 
-දොළුව ප්‍ර දේශයේ විහාරස්ථානයක පැවැති ආගමික වැඩසටහනකට එක්වීමට පැමිණි කාන්තාවන් පිරිසක් පාර හරහා ගමන් කිරීමට යාමේදී මෝටර් රථයක ගැටී මෙම අනතුර සිදුව තිබේ.  අනතුරින් කාන්තාවන් තිදෙනා එම ස්ථානයේදිම මිය ගොස් තිබේ.
+The accident had occurred when a group of women who had come to join the road to travel through the road to a religious program in the temple.  The three women have died in this place.
 
 ◼️
 
 [Data](articles/b3155dcd.json)
+
+[Extended Data](ext_articles/b3155dcd.ext.json)
 
 ---
 
@@ -689,19 +695,25 @@ Former minister and leader of the National Freedom Front, Wimal Weerawansa, was 
 
 ---
 
-### සෝමාවතී පුදබිමේ ඉදිකිරීම් කිහිපයක් ජනපති විවෘත කරයි
+### President opens several construction work of Somawathi salag
 
 *2025-10-06 15:12:07* · [`adalk`](https://www.ada.lk/breaking_news/සෝමාවතී-පුදබිමේ-ඉදිකිරීම්-කිහිපයක්-ජනපති-විවෘත-කරයි/11-418939) · `si`
 
-පොළොන්නරුව ඓතිහාසික සෝමවතී පුද බිමේ අභිනවයෙන් ඉදිකරන ලද පුරාවිද්‍යා කෞතුකාගාරය සහ ජාත්‍යන්තර පුරාවිද්‍යා පර්යේෂණ ආයතනය ඇතුළත් දෙමහල් මන්දිරය විවෘත කිරීම ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (06) පෙරවරුවේ සිදු විය.
+President Anura Kumara Dissanayake took place this morning under the patronage of President Anura Kumara Dissanayake today (06).
 
-සම්මා සම්බුදුරජාණන් වහන්සේගේ ශ්‍රී දකුණු දළදා වහන්සේ වැඩ වසන පොළොන්නරුව ඓතිහාසික සෝමවතී චෛත්‍යරාජයාණන් වහන්සේ වැඳපුදා ගැනීමට ලොව නන් දෙසින් පැමිණෙන සහ අධ්‍යාපනික පර්යේෂණ කටයුතුවල යෙදෙන සියලුදෙනාගේ පහසුව පිණිස මෙම පුරාවිද්‍යා කෞතුකාගාරය සහ ජාත්‍යන්තර පුරාවිද්‍යා පර්යේෂණ ආයතනය ඉදිකර තිබේ.
+The Archaeological Museum and the International Archaeological Research Institute has been constructed to facilitate everyone in the world to worship the historic research and educational research in the world.
 
-ඓතිහාසික සෝමවතී රජමහා විහාරාධිපති මහාවිහාර වංශික ස්‍යාමෝපාලි මහා නිකායේ මල්වතු පාර්ශ්වයේ ලේඛකාධිකාරි ආචාර්ය අතිපූජ්‍ය පහමුණේ ශ්‍රී සුමංගල නායක හිමිපාණන් වහන්සේගේ අනුශාසනා පරිදි රත්න සමූහ ව්‍යාපාරයේ සභාපති දේශමාන්‍ය මිත්‍රපාල ලංකේෂ්වර මහතාගේ පූර්ණ ධන පරිත්‍යාගයෙන් ඉදිකෙරුණු මෙම දෙමහල් මන්දිරය පුරාවිද්‍යා දෙපාර්තමේන්තුවේ සැලසුම් සහ අධික්ෂණය යටතේ ඉදිකර ඇත.
+The two-storied house was built with the full donation of the Chairman of the Chairman of the Department of Dr. Dana Group, Chairman of the Department of Dr. Dana Phamelly Langera, Chief Secretary of the Historic Somhoviya Rajamaha Viharaya.
+
+The President who went to the historic Somother this morning (06), the President obtained blessings in the face of religious observances.
+
+The President also opened the new two-hub of the Archaeological Museum and the International Archaeological Research Institute, which has been unveiled and the International Archaeological Research Institute has been placed there.
 
 ...
 
 [Data](articles/c93e22d7.json)
+
+[Extended Data](ext_articles/c93e22d7.ext.json)
 
 ---
 

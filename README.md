@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 05:20:21**
+As of **2025-10-06 05:57:42**
 
 ## Newspaper Stats
 
-*Scraped **81,405** Articles*
+*Scraped **81,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,23 +15,61 @@ colombotelegraphcom | 811
 lankadeepalk | 826
 dailymirrorlk | 4,733
 economynextcom | 4,774
-islandlk | 4,906
+islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,795
 adaderanalk | 10,460
-tamilmirrorlk | 12,082
-virakesarilk | 13,391
+tamilmirrorlk | 12,083
+virakesarilk | 13,392
 adaderanasinhalalk | 13,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,405 (100.0%) of 81,405 articles have been extended.
+81,407 (100.0%) of 81,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### World Residential Day Event led by President
+
+*2025-10-06 04:15:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-உலக-குடியிருப்பு-தின-நிகழ்வு/175-365787) · `ta`
+
+World Residential Day events were held yesterday at the Alari House under the patronage of President Anura Kumara Dissanayake.
+
+Under the theme of 'Own Own - A Beautiful Life', its national event was held and the residential week was announced from October 01-05 and various projects were implemented.
+
+The President handed over a thousand houses completed under electronic technology through electronic technology to construct houses for about 4,000 poor families who do not have funds for the construction of houses.
+
+Under the intervention of the UN Habitat Sri Lanka Office, the Identification of the Ambatale Water Supply Scheme, which is implemented under the help of the Government of India's Coalition for Disaster Resilient Infrastructure (CDRI), was officially handed over to the President.
+
+...
+
+[Data](articles/f09a18e4.json)
+
+[Extended Data](ext_articles/f09a18e4.ext.json)
+
+---
+
+### The Sathiyak Planet Struggle of Muthu Nagar Farmers continues for the 19th day
+
+*2025-10-06 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/226990) · `ta`
+
+For the 19th day, the Sadiyak Planet struggle of the pearl peasants continues.
+
+The farmers have been fighting for their agricultural lands for their agricultural lands on Sunday (05) in the Satyak Plans.
+
+Their agricultural lands have begun after the private companies have been deployed for solar power for solar power. The Prime Minister's Office has said that the Prime Minister's Office has said that the Prime Minister's Office will be given a deadline till the 20th of this month.
+
+◼️
+
+[Data](articles/987f14d7.json)
+
+[Extended Data](ext_articles/987f14d7.ext.json)
+
+---
 
 ### Upcountry Authority; Decision in the hands of the president…!
 
@@ -515,6 +553,60 @@ After further inquiries, company officials told the family that Karandeep had go
 
 ---
 
+### Key fintech forum aims to foster collaboration between banks and technology companies
+
+*2025-10-05 18:55:00* · [`islandlk`](http://island.lk/key-fintech-forum-aims-to-foster-collaboration-between-banks-and-technology-companies/) · `en`
+
+In a move to accelerate the evolution of digital financial services, the newly formed Fintech Forum is poised to become a central hub for strengthening collaboration between banks and technology companies in Sri Lanka.According to Sumudu Gunawardhana, Chief Information Officer of Commercial Bank of Ceylon PLC, the Forum creates a vital space for dialogue and partnerships. This comes at a time when banks are actively shifting from being mere custodians of money to becoming comprehensive lifestyle partners for their customers.
+
+“The focus is on growing wallet share. Banks aspire to be the central hubs of consumer spending, evolving into aggregators of services,” Gunawardhana explained. “A bank cannot make and sell all these things consumers want to buy. That is where fintechs play an important role.”
+
+...
+
+[Data](articles/85ea629a.json)
+
+---
+
+### Fitch Lanka issues September 2025 corporate ratings
+
+*2025-10-05 18:55:00* · [`islandlk`](http://island.lk/fitch-lanka-issues-september-2025-corporate-ratings/) · `en`
+
+Fitch Ratings Lanka has released its updated list of national ratings for Sri Lankan corporations as of September 30, 2025. The report provides a snapshot of the long-term financial stability of numerous Public Limited Companies (PLCs) operating in the country.
+
+The list details a spectrum of credit ratings, including high investment grades such as ‘AAA’ and ‘AA-‘. According to the report’s key, issuers whose ratings were reviewed or subject to a rating action during the month are highlighted, though specific changes were not discernible in the provided document.
+
+The publication also included a separate, older list of international ratings from September 30, 2020. The monthly national ratings update serves as a critical tool for investors and stakeholders to gauge the creditworthiness of Sri Lanka’s corporate sector.
+
+Key fintech forum aims to foster collaboration between banks and technology companies
+
+JXG partners with Foundation of Goodness to empower Monaragala community
+
+...
+
+[Data](articles/f2d754d0.json)
+
+---
+
+### Nation Lanka Finance clarifies fraud allegations
+
+*2025-10-05 18:55:00* · [`islandlk`](http://island.lk/nation-lanka-finance-clarifies-fraud-allegations/) · `en`
+
+Nation Lanka Finance PLC (NLFP) would like to address and correct the inaccuracies circulating in certain media reports and on social media platforms concerning the Company, its Chairman, Victor Ramanan, and its Board of Directors stated in a press release, issued last week.
+
+The contents of the report issued by the Board of Directors of NLFP are reproduced below.
+
+These reports have incorrectly linked NLFP to alleged fraudulent deposit-taking activities that are the subject of ongoing legal proceedings. The Company wishes to set the record straight for the benefit of the public, its valued customers, and stakeholders.
+
+The media reports in question reference two specific court cases: Magistrate’s Court of Negombo Case No. 560/25 and Magistrate’s Court of Colombo Case No. 53896/1/25.
+
+NLFP vehemently denies any involvement in the alleged fraudulent scheme and wishes to clarify the factual context of these proceedings, which have been misrepresented in public discourse.
+
+...
+
+[Data](articles/a0f581dc.json)
+
+---
+
 ### A scholar odd rivers of a woman's gold
 
 *2025-10-05 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215377) · `si`
@@ -616,6 +708,62 @@ Just across the border in Nepal, heavy rains triggered landslides and flash floo
 [Data](articles/06417a77.json)
 
 [Extended Data](ext_articles/06417a77.ext.json)
+
+---
+
+### Dijital Team reinforces commitment to Sri Lankan IT industry Opens an office in Kandy
+
+*2025-10-05 17:30:00* · [`islandlk`](http://island.lk/dijital-team-reinforces-commitment-to-sri-lankan-it-industry-opens-an-office-in-kandy/) · `en`
+
+Dijital Team recently marked a new milestone on the 23rd of September 2025 with the opening of its second office in Sri Lanka, located in Kandy. Situated within the Odel Mall, Kandy, the new office’s launch coincides with tremendous growth in the business. This latest location is an opportunity to support Dijital Team’s ongoing business growth and create job opportunities for tech and IT professionals while advancing regional economic growth.
+
+In establishing a new office in Kandy, Dijital Team aims to increase employment opportunities for IT professionals in the Central Province. Additionally, through its newest branch, Dijital Team offers team members the opportunity to work without leaving their hometown.
+
+...
+
+[Data](articles/576a8848.json)
+
+---
+
+### JXG partners with Foundation of Goodness to empower Monaragala community
+
+*2025-10-05 17:30:00* · [`islandlk`](http://island.lk/jxg-partners-with-foundation-of-goodness-to-empower-monaragala-community/) · `en`
+
+Janashakthi Group (JXG) has partnered with the Foundation of Goodness as a key supporter of the Monaragala Village Heartbeat Empowerment Centre, reinforcing its commitment to creating sustainable impact in underserved communities.
+
+The initiative has demonstrated significant immediate results. In June 2025, the Centre supported 1,233 beneficiaries, and in July, it reached 1,168 individuals across 29 villages and 17 schools. The programmes offered are holistic, covering a wide range of subjects from Computer Training and English Language to Dress Making, Agriculture, and traditional dancing.
+
+Ramesh Schaffter, MD/Group CEO of JXG, stated that the partnership aligns with their philanthropic foundation’s purpose of “uplifting lives and empowering communities.” Kushil Gunasekera, Founder of the Foundation of Goodness, emphasized that the collaboration helps “bridge the urban-rural divide by creating equal opportunities.”
+
+...
+
+[Data](articles/fac32713.json)
+
+---
+
+### Luxury retirement living in Negombo by Grand Leisure Care
+
+*2025-10-05 17:29:00* · [`islandlk`](http://island.lk/luxury-retirement-living-in-negombo-by-grand-leisure-care/) · `en`
+
+Sri Lanka’s premier luxury aged care facility, Grand Leisure Care & Wellness Resort, (www.grandleisure.lk) is now open in Negombo, offering seniors a unique blend of comfort, professional care, and resort-style living. To celebrate its grand opening, the resort is offering an exclusive 40% discount for new residents.
+
+...
+
+[Data](articles/6afecba7.json)
+
+---
+
+### Fusing human imagination with AI-powered innovation: Arimac Digital marks 14 years
+
+*2025-10-05 17:29:00* · [`islandlk`](http://island.lk/fusing-human-imagination-with-ai-powered-innovation-arimac-digital-marks-14-years/) · `en`
+
+Arimac Digital, a global leader in AI-powered digital solutions, marks its 14th anniversary by reaffirming its mission to fuse human imagination with technological innovation. From its founding in 2011 as a four-person startup, the company has evolved into a trusted technology partner for over 180 global clients, including Etihad, VISA, Emirates, and Samsung, delivering more than 850 solutions across 11 countries.
+
+Arimac’s journey has been defined by a human-centric philosophy. Its proprietary Design Anthropology framework ensures that every digital solution from pioneering humanoid robotics and empathetic AI to redefining financial services with Arimac FinSpace and aviation with Arimac AirSpace is not only functional but deeply meaningful. This approach has empowered the company to solve complex, real-world problems for industries worldwide, including developing next-generation trading platforms and customer-first super apps that serve millions.
+
+...
+
+[Data](articles/fe652019.json)
 
 ---
 
@@ -1782,163 +1930,5 @@ The second death happened half way across the world fourteen years after the ass
 [Data](articles/21b855d0.json)
 
 [Extended Data](ext_articles/21b855d0.ext.json)
-
----
-
-### Trys to break up can be strengthened
-
-*2025-10-05 13:12:47* · [`adalk`](https://www.ada.lk/breaking_news/බිඳ-දැමීමට-කරන-උත්සහයන්-තුළින්-තව-තවත්-බැඳීම්-ශක්තිමත්-විය-හැක/11-418920) · `si`
-
-Former President Mahinda Rajapaksa, mentioned in his social media, said that the attempts to break trials will further strengthen further ties.
-
-Former President Mahinda Rajapaksa has said this in the note.
-
-"People's love is familiar with the people who spent many people in life. People's love is free of profit goals based on facts and mutual respect. Therefore, its value is more than ever. It is important to say that this is difficult to break as a heartfelt bond not just a political relationship.. Trys to break up can be strengthened. I have experienced the maximum happiness that is possible as a folk leader. I will give dignity to all. "
-
-◼️
-
-[Data](articles/818ec5b0.json)
-
-[Extended Data](ext_articles/818ec5b0.ext.json)
-
----
-
-### KKS Port: A Missed Opportunity Or A Strategic Gateway For Sri Lanka–India Relations?
-
-*2025-10-05 13:03:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kks-port-a-missed-opportunity-or-a-strategic-gateway-for-sri-lanka-india-relations/) · `en`
-
-Recent remarks by Minister Bimal Rathnayake, suggesting that the development of the Kankesanthurai (KKS) Port should be deprioritised, overlook both the economic and strategic realities facing Sri Lanka today. Available data, feasibility assessments, and the operational success of the Nagapattinam–KKS passenger ferry all point to one conclusion — the KKS Port is not only viable but essential for building a sustainable bilateral partnership between India and Sri Lanka.
-
-The Northern Province, and particularly Jaffna, remains one of Sri Lanka’s most underutilised economic regions. A functional port at KKS can directly link northern producers — fisheries, agriculture, dairy, and Palmyra-based industries — to regional markets across the Palk Strait.
-
-...
-
-[Data](articles/2c4360ff.json)
-
-[Extended Data](ext_articles/2c4360ff.ext.json)
-
----
-
-### Government Aims To Provide A Home For Every Citizen
-
-*2025-10-05 13:03:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/government-aims-to-provide-a-home-for-every-citizen) · `en`
-
-COLOMBO (News 1st);Deputy Minister of Housing T.B. Sarath says that the government's goal is to provide a house to every person.He stated this while participating in the World Habitat Day celebrations held at Temple Trees this morning.It was held under the patronage of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/71d4b461.json)
-
-[Extended Data](ext_articles/71d4b461.ext.json)
-
----
-
-### Politicians associated with the underworld are disturbed; Minister Ananda Wijebala
-
-*2025-10-05 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/226941) · `ta`
-
-A formal inquiry is being carried out by members of the underworld groups, including Gehpathere Padme.. Politicians don't need to fear. Minister of Public Security and Parliamentary Affairs Ananda Wijebala said that the wrongdoers and those who were in contact with the underworld groups are well known.
-
-He was speaking to the media after the event held in Colombo on Saturday (04).
-
-According to the law, the police and the Commission on Bribery or Corruption are formally investigating and arresting corrupt people and highlighting the court.. The testimony is submitted.
-
-Opposition parties refer to political revenge when they arrest corrupt and state funds. The government does not need to carry out political revenge.
-
-...
-
-[Data](articles/ef186435.json)
-
-[Extended Data](ext_articles/ef186435.ext.json)
-
----
-
-### Fraudulently Registered Jeep Seized By Authorities
-
-*2025-10-05 13:01:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/fraudulently-registered-jeep-seized-by-authorities) · `en`
-
-COLOMBO (News 1st);An illegally imported jeep, registered with the Department of Motor Traffic using false information, has been recovered.The Central Crime Investigation Division conducted a raid, leading to the seizure. A statement has been recorded from the suspect regarding the incident.Police confirmed that the jeep has been handed over to the local police, and around 20 other similar vehicles have been identified. Investigations are ongoing to bring them into police custody.
-
-◼️
-
-[Data](articles/a993e5b2.json)
-
-[Extended Data](ext_articles/a993e5b2.ext.json)
-
----
-
-### Passenger arrested at BIA while attempting to smuggle foreign cigarettes worth over Rs. 4.5 mln
-
-*2025-10-05 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/113231/passenger-arrested-at-bia-while-attempting-to-smuggle-foreign-cigarettes-worth-over-rs-45-mln-) · `en`
-
-A Sri Lankan passenger has been arrested at the Bandaranaike International Airport (BIA) by officers of the Police Narcotics Bureau (PNB) while attempting to smuggle a consignment of foreign-manufactured cigarettes worth Rs. 4.5 million into the country.
-
-The 44-year-old suspect who is identified as a fisherman from Kalpitiya, Puttalam was arrested earlier this morning (05).
-
-He had arrived at the Katunayake Airport from Dubai on SriLankan Airlines flight UL-226 at 05.25 a.m today.
-
-Upon inspection, officials discovered 150 cartons containing 30,000 sticks of foreign cigarettes concealed inside two pieces of luggage.
-
-The suspect, along with the seized cigarettes, is scheduled to be produced before the Negombo Magistrate’s Court on 08 October 2025.
-
-◼️
-
-[Data](articles/328a83b9.json)
-
-[Extended Data](ext_articles/328a83b9.ext.json)
-
----
-
-### Three killed in accident
-
-*2025-10-05 12:53:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රය-අනතරන-තදනක-මරට/1-680758) · `si`
-
-The driver and two other persons who were traveling from Colombo to Akkarapattuwa have died in a crash, police said.
-
-The injured have been admitted to the Narammala and Kurunegala Teaching Hospital, Naramwala Police said. The deceased has been identified as 41 year old, 80 and 82 years old, the police said.
-
-The deceased has been identified as his mother-in-law and father-in-law and two children and two children are receiving treatment at the Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/608b1cc7.json)
-
-[Extended Data](ext_articles/608b1cc7.ext.json)
-
----
-
-### Three killed in accident
-
-*2025-10-05 12:53:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රය-අනතරන-තදනක-මරට/101-680758) · `si`
-
-The driver and two other persons who were traveling from Colombo to Akkarapattuwa have died in a crash, police said.
-
-The injured have been admitted to the Narammala and Kurunegala Teaching Hospital, Naramwala Police said. The deceased has been identified as 41 year old, 80 and 82 years old, the police said.
-
-The deceased has been identified as his mother-in-law and father-in-law and two children and two children are receiving treatment at the Kurunegala Teaching Hospital.
-
-◼️
-
-[Data](articles/62ed9f94.json)
-
-[Extended Data](ext_articles/62ed9f94.ext.json)
-
----
-
-### Landslides in Darjeeling in India; 14 people die
-
-*2025-10-05 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/226937) · `ta`
-
-In India, West Bengal has rained in Darjeeling last night. This has resulted in landslides in Mirik and Sukia Bogari.
-
-And the bridge collapsed at Mirig. It has been reported that 14 people have been killed in the collapse of the landslide and the bridge.
-
-Meanwhile, traffic has been cut off on the main streets of Darjeeling to Sikkim due to landslide. As a result, a large number of tourists who went to Darjeeling to celebrate Navratri holidays are now in a state of disrepair.
-
-◼️
-
-[Data](articles/2fd93732.json)
-
-[Extended Data](ext_articles/2fd93732.ext.json)
 
 ---

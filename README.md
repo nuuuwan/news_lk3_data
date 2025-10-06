@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 17:43:11**
+As of **2025-10-06 17:58:37**
 
 ## Newspaper Stats
 
@@ -27,27 +27,29 @@ adaderanasinhalalk | 14,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,600 (100.0%) of 81,602 articles have been extended.
+81,602 (100.0%) of 81,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
-### අද රෑට සුපර් මූන්
+### Super Moon tonight
 
 *2025-10-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215408) · `si`
 
-වප් පුර පසළොස්වක පොහොය යෙදී ඇති අද (06) චන්ද්‍රයා "සුපර් මූන්" ලෙස දිස්වන බව නවීන තාක්ෂණය පිළිබඳ ආතර් සී ක්ලාක් ආයතනය පවසයි.
+Arthur C Clarke Institute of Modern Technology says that the Moon is being seen as "Super Moon".
 
-ඒ අනුව, අද දිනයේ චන්ද්‍රයා, සාමාන්‍ය පුර්ණ චන්ද්‍රයාට සාපේක්ෂව සියයට 7ක පමණ විශාලත්වයකින් හා වැඩි දීප්තියකින් දිස්වන බව එම ආයතනයේ පර්යේෂණ විද්‍යාඥ තීක්ෂණ පියදාස මහතා පවසයි.
+Accordingly, the Moon is a 7 percent brighter in this country, researchers of about 7 percent and more brightly.
 
-චන්ද්‍රයා "සුපර් මූන්" ලෙස දිස්වන අවස්ථා වසරකට කිහිප වරක් දැක ගත හැකි වන අතර ඉලිප්සාකාර කක්ෂයේ දී චන්ද්‍රයා පෘථිවියට වඩාත් ආසන්නයෙන් ගමන් කිරීම හේතුවෙන් මෙම තත්ත්වය ඇතිවන බව ඔහු සඳහන් කළේය.
+He said that when the Moon appears as "Super Moon", he said that this situation would occur as a result of the Eleepastern orbit.
 
-එමෙන්ම අද දිනයේ පුර්ණ චන්ද්‍රයා අසලින් සෙනසුරු ද නිරීක්ෂණය කළ හැකි බව නවීන තාක්ෂණය පිළිබඳ ආතර් සී ක්ලාක් ආයතනයේ පර්යේෂණ විද්‍යාඥ තීක්ෂණ පියදාස මහතා සඳහන් කළේය.
+The Arthur C Clark, Research Scientist Supervisor, Experts, Information of Modern Technology said that Saturn could be observed today.
 
 ◼️
 
 [Data](articles/86dfe281.json)
+
+[Extended Data](ext_articles/86dfe281.ext.json)
 
 ---
 
@@ -85,17 +87,19 @@ The tusker had participated in the annual procession of the historic Bellanwila 
 
 ---
 
-### බෙල්ලන්විල 'මැණිකා' ජීවිතයට සමුදෙයි
+### Bellanwila 'Geika "
 
 *2025-10-06 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215407) · `si`
 
-බෙල්ලන්විල විහාරයේ සිටි වයස අවුරුදු 76ක් පමණ වූ 'මැණිකා' නම් ඇතින්න අද (06) පස්වරුවේ මියගොස් ඇත.
+Around 76-year-old Geika, the age of 76 years of the Bellanwila Viharaya, has died this afternoon.
 
-ඓතිහාසික බෙල්ලන්විල රජමහා විහාරයේ පෙරහැර සඳහා මැණිකා ඇතින්නිය වසර ගණනාවක් පුරා සහභාගී වී තිබේ.
+Generic to the procession of the historic Bellanwila Raja Maha Viharaya has participated in the event.
 
 ◼️
 
 [Data](articles/4b7bd181.json)
+
+[Extended Data](ext_articles/4b7bd181.ext.json)
 
 ---
 

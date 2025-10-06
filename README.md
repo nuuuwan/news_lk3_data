@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 12:38:52**
+As of **2025-10-06 13:20:26**
 
 ## Newspaper Stats
 
-*Scraped **81,490** Articles*
+*Scraped **81,495** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 616
+newsfirstlk | 619
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
@@ -19,67 +19,151 @@ islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,801
 adaderanalk | 10,468
-tamilmirrorlk | 12,099
+tamilmirrorlk | 12,100
 virakesarilk | 13,393
-adaderanasinhalalk | 14,005
+adaderanasinhalalk | 14,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,485 (100.0%) of 81,490 articles have been extended.
+81,492 (100.0%) of 81,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
-### கிரிக்கெட் பந்தை எடுக்க முயன்ற  மாணவன் நீரில் மூழ்கி பலி
+### 38-Year-Old Arrested in Hirana With Hashish Worth Over Rs. 8 Million
+
+*2025-10-06 13:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/38-year-old-arrested-in-hirana-with-hashish-worth-over-rs-8-million) · `en`
+
+COLOMBO (News 1st):An individual with Hashish narcotic in his possession was arrested by Sri Lanka police in Hirana, Panadura.The stock of Hashish in his possession was valued at over Rs. 8 million.Police said the arrest was made following a tip-off received by the Hirana Police.According to Police, approximately one kilogram of hashish was recovered from the suspect, a 38-year-old resident of Telawala, Mount Lavinia.The suspect is currently being questioned under detention orders.
+
+◼️
+
+[Data](articles/cc833817.json)
+
+---
+
+### President declares open the Archaeological Museum and International Archaeological Research Institute
+
+*2025-10-06 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215398) · `si`
+
+President declares open the Archaeological Museum and International Archaeological Research Institute
+
+President Anura Kumara Dissanayake took place this morning under the patronage of President Anura Kumara Dissanayake today (06).
+
+The Archaeological Museum and the International Archaeological Research Institute has been built for the convenience of all those who are working on the world and educational research in the world, to serve the historical research on the Sri Jayawathi Cyrhea which is in the world.
+
+The President who went to the historic Somother this morning (06), the President obtained blessings in the face of religious observances.
+
+The President also opened the new two-hub of the Archaeological Museum and the International Archaeological Research Institute, which has been unveiled and the International Archaeological Research Institute has been placed there.
+
+...
+
+[Data](articles/796adaf5.json)
+
+[Extended Data](ext_articles/796adaf5.ext.json)
+
+---
+
+### T-56 Ammuniton Discovered in Kanadarawa; 9mm Gun Seized in Dematagoda
+
+*2025-10-06 12:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/t-56-ammuniton-discovered-in-kanadarawa-9mm-gun-seized-in-dematagoda) · `en`
+
+COLOMBO (News 1st): 46 rounds of ammunition used for a T-56 assault rifle have been discovered in paddy fields across Kanadarawa area in Kallanchiya.According to Police, the ammunition rounds were recovered yesterday evening, following a tip-off received through the 119 emergency hotline.Police added that the recovered ammunition rounds appeared to be partially corroded at the time of discovery.Meanwhile, police have recovered a locally manufactured 9mm firearm in Dematagoda, along with a magazine containing two T-56 bullets.According to the police, officers from the Western Province South Crimes Division made the discovery during an operation carried out on a vacant plot of land near the Kelani Valley railway line in Dematagoda.Police said investigations have been launched to identify the owner of the firearm and ammunition.
+
+◼️
+
+[Data](articles/4e83f3dc.json)
+
+---
+
+### President Inaugurates Somawathi Museum & International Archaeological Research Institute
+
+*2025-10-06 12:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/president-inaugurates-somawathi-museum-international-archaeological-research-institute) · `en`
+
+COLOMBO (News 1st): The newly constructed Somawathi Archaeological Museum and the two-storied building of the International Archaeological Research Institute at the historic Somawathi Raja Maha Vihara in Polonnaruwa were declared open this morning under the patronage of President Anura Kumara Dissanayake.Meanwhile, today’s Sirasa Namami Vap Poya program was also held at the sacred Somawathi temple premises.The Chief Incumbent of the Somawathi Raja Maha Viharaya, Ven. Pahamune Sumangala Thero, along with members of the Maha Sangha, attended the ceremony. The event also marked the official presentation of the first copy of the Somiwath Thupabhivandana publication to President Anura Kumara Dissanayake and Chief Incumbent of Somawathi Raja Maha Viharaya, Ven. Pahamune Sumangala Thero.
+
+◼️
+
+[Data](articles/0fba68be.json)
+
+---
+
+### Gun recovery from the trash can
+
+*2025-10-06 12:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குப்பை-மேட்டிலிருந்து-துப்பாக்கி-மீட்பு/175-365810) · `ta`
+
+Grandpass police said that a locally manufactured revolver rifle has been found on the Mathampitiya garbage junk.
+
+The gun was recovered on the basis of information provided to the authorities of the Kelaniya Police Special Task Force Camp.
+
+◼️
+
+[Data](articles/1f68a7c0.json)
+
+[Extended Data](ext_articles/1f68a7c0.ext.json)
+
+---
+
+### A student who tried to take a cricket ball drowned
 
 *2025-10-06 12:19:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-பந்தை-எடுக்க-முயன்ற-மாணவன்-நீரில்-மூழ்கி-பலி/175-365809) · `ta`
 
-திக்வெல்லவில் உள்ள தனது பாடசாலையில் நீச்சல் குளத்தில் விழுந்த கிரிக்கெட் பந்தை எடுக்க முயன்ற 17 வயது பாடசாலை மாணவன் நீரில் மூழ்கி உயிரிழந்தார்.
+A 17 -year -old schoolgirl drowned in his school in Dikwella, who tried to take a swimming cricket ball.
 
-உயிரிழந்த மாணவன் திக்வெல்ல, விஜித மகா வித்தியாலயத்தில் 12 ஆம் வகுப்பு படிக்கும் மாணவர் என அடையாளம் காணப்பட்டுள்ளார்.
+The deceased student Dikwella has been identified as a 12th grade student at Vijitha Maha Vidyalaya.
 
-மாணவர் தனது வகுப்பு நண்பர்களுடன் கிரிக்கெட் விளையாடிக் கொண்டிருந்த போது, பந்து தற்செயலாக குளத்தில் விழுந்ததாக பொலிஸார் தெரிவித்தனர்.
+While the student was playing cricket with his classmates, police said the ball accidentally fell into the swimmer.
 
-மீட்க அவர் தண்ணீரில் இறங்கிய போது மீண்டும் மேலே வர முடியவில்லை அதனால் நீரில் மூழ்கி உயிரிழந்தார்
+When he got into the water to recover, he could not come up again, so he drowned and died.
 
 ◼️
 
 [Data](articles/c0cc69a9.json)
 
+[Extended Data](ext_articles/c0cc69a9.ext.json)
+
 ---
 
-### කුණු කන්දෙන් රිවෝල්වරයක් මතුවෙයි
+### A revolver emerge from the garbage
 
 *2025-10-06 12:18:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කණ-කනදන-රවලවරයක-මතවය/101-680786) · `si`
 
-මාදම්පිටිය කුණු කන්දේ තිබී මෙරට නිෂ්පාදිත රිවොල්වර වර්ගයේ ගිනි අවියක් හමුවී ඇතැයි ග්‍රෑන්ඩ්පාස්  පොලිසිය කියයි.
+The Grandpass police say that the country's manufacturers have been found in the country where the country's donation was found on the garbage of Madampitiya.
 
-එම ගිනි ගිනි අවිය මලකඩ පැහැයෙන් යුක්ත බව පොලිසිය සඳහන් කරයි.
+Police said that the fire fire was rust.
 
-කැලණිය පොලිසි විශේෂ කාර්ය බළකා කඳවුරේ නිලධාරීන්ට එම ස්ථානයෙන් යමින් සිටි පුද්ගලයකු මෙම ගිනි අවිය සම්බන්ධයෙන් ලබා දුන් තොරතුරකට  අනුව ගිනි අවිය සොයාගෙන ඇත.
+Kelaniya Police Special Task Force officials, a person who was traveling from the site, found firearm according to information received by the firearm.
 
-එම ගිනි අවිය කිසියම් පුද්ගලයකුයි එම ස්ථානයට දමන්නට ඇතැයි පොලිසිය සැක කරයි.
+Police suspect that the firearm has been put into the scene.
 
 ◼️
 
 [Data](articles/5c6d9f5f.json)
 
+[Extended Data](ext_articles/5c6d9f5f.ext.json)
+
 ---
 
-### தினமும் உல்லாசத்திற்கு அழைப்பார்: மனைவி மீது வாலிபர் பரபரப்பு புகார்
+### Everyday calls for fun: the plaintiff complains to his wife
 
 *2025-10-06 12:13:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தினமும்-உல்லாசத்திற்கு-அழைப்பார்-மனைவி-மீது-வாலிபர்-பரபரப்பு-புகார்/175-365808) · `ta`
 
-படுக்கை அறை நெருக்கத்தை வீடியோ எடுத்து நண்பர்களுக்கு பகிர்ந்ததாக மனைவி அளித்த புகாரை வாலிபர் மறுத்துள்ளார். தினமும் தன்னை தனது மனைவி தான் தாம்பத்தியத்துக்கு அழைத்து சித்ரவதை செய்வார் என குற்றச்சாட்டு கூறியுள்ளார்.
+The plaintiff denies his wife's complaint that he has taken video of the bedroom close. He has accused his wife of hearing every day and torture.
 
-பெங்களூரு புட்டேனஹள்ளி பொலிஸ் நிலையத்தில் கடந்த சில நாட்களுக்கு முன்பு 32 வயது பெண் ஒருவர் தனது கணவர் மீது பரபரப்பு புகார் ஒன்றை அளித்தார். அதில் படுக்கை அறையில் ரகசிய கேமரா பொருத்தி தாம்பத்தியத்தில் ஈடுபட்டதை எனது கணவர் வீடியோ பதிவு செய்து அவரது நண்பர்களுக்கு பகிர்ந்ததாக கூறியிருந்தார்.இதைத்தொடர்ந்து அந்த பெண்ணின் கணவரான சையது இனாமுல்(வயது 35) மீது போலீசார் நடவடிக்கை எடுக்க தயாராகி வந்தனர்.
+A 32 -year -old woman lodged a complaint with her husband a few days ago at the Puthenahalli police station in Bangalore. My husband had recorded the video of the secret camera in the bedroom and said that the video was recorded and shared it with her friends.
 
-...
+Syed Inamul has denied the complaint lodged by her wife on her. He has posted a video record on social networks. In it, he said, "I am not married, just once married. I'm just a wife. I have no contact with any other women. My wife has bought me Rs.17 lakh from me. I was married to my wife for Rs 13 lakh.
+
+My wife will insist on engaging in marriage every day after marriage. On that occasion he would behave like a psychiatrist. My wife was just tortured me. Thus Syed Inamul says in the video. The video is currently going viral on social networks.
+
+◼️
 
 [Data](articles/7cb2d363.json)
+
+[Extended Data](ext_articles/7cb2d363.ext.json)
 
 ---
 
@@ -101,17 +185,19 @@ We tried so hard to resurrect them by CPR but couldn't save them. Six of the pat
 
 ---
 
-### ගොවි මණ්ඩලයේ ලොක්කන් 19කට  හොර පාරෙන්   දීමනා
+### Granting gifts from the farm bosses
 
 *2025-10-06 12:06:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගව-මණඩලය-ලකකන-19කට-හර-පරන-දමන/101-680785) · `si`
 
-කෘෂිකාර්මික හා ගොවි ජන රක්ෂණ මණ්ඩලයේ නිලධාරීන් 19 දෙනකුට රාජ්‍ය ව්‍යාපාර චක්‍රලේඛයට පටහැනිව රුපියල් ලක්ෂ තිස් එකක ප්‍රවාහන දීමනා ගෙවා ඇතැයි  ජාතික විගණන කාර්යාලය පවසයි.
+The National Audit office said that the transportation allowance of the State Business Circular has paid up to 19 lakhs in contrast to the Public Enterprises Circular.
 
-ප්‍රවාහන දීමනා වශයෙන් නීතියට පිටින් 2022 වර්ෂයේ දී ලක්ෂ දහතුනකට වැඩි මුදලක්ද 2023 වර්ෂයේදී ලක්‍ෂ දහඅටකට වැඩි මුදලක්ද  ගෙවා ඇත. මේ තොරතුරු සඳහන් වන්නේ  කෘෂිකාර්මික හා ගොවි ජනරක්ෂණ මණ්ඩලයේ  කාර්ය සාධන වාර්තාවට ඇතුළත් කරනු ලැබ ඇති විගණන ලේඛනයේය.
+More than Rs.. This information is included in the Audit Regulation, which has been included in the Performance Report of the Agricultural and Farm and Farm Council.
 
 ◼️
 
 [Data](articles/a36fa870.json)
+
+[Extended Data](ext_articles/a36fa870.ext.json)
 
 ---
 
@@ -465,7 +551,7 @@ The Minister said that the Minister of Health and Mass Media Media Dr. Nalinda J
 
 *2025-10-06 10:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/former-minister-wimal-weerawansa-postpones-appearance-at-tangalle-crimes-unit) · `en`
 
-COLOMBO (News 1st): Former Minister Wimal Weerawansa has informed authorities that he is unable to appear before the Tangalle Divisional Crime Investigation Unit today.He has requested that an alternative date be scheduled for his appearance. Accordingly, Weerawansa has been asked to appear before the Tangalle CID on Sunday, September 12. He was initially summoned at 10:00 a.m. today to provide a statement regarding comments he made about an individual named Beliatte Sana.Beliatte Sana, who was recently arrested along with a vessel in connection with a drug-related operation in Tangalle, is currently being questioned under a detention order.
+COLOMBO (News 1st): Former Minister Wimal Weerawansa has informed authorities that he is unable to appear before the Tangalle Divisional Crime Investigation Unit today.He has requested that an alternative date be scheduled for his appearance. Accordingly, Weerawansa has been asked to appear before the Tangalle CID on Sunday, October12. He was initially summoned at 10:00 a.m. today to provide a statement regarding comments he made about an individual named Beliatte Sana.Beliatte Sana, who was recently arrested along with a vessel in connection with a drug-related operation in Tangalle, is currently being questioned under a detention order.
 
 ◼️
 
@@ -1944,109 +2030,5 @@ In a move to accelerate the evolution of digital financial services, the newly f
 [Data](articles/85ea629a.json)
 
 [Extended Data](ext_articles/85ea629a.ext.json)
-
----
-
-### Fitch Lanka issues September 2025 corporate ratings
-
-*2025-10-05 18:55:00* · [`islandlk`](http://island.lk/fitch-lanka-issues-september-2025-corporate-ratings/) · `en`
-
-Fitch Ratings Lanka has released its updated list of national ratings for Sri Lankan corporations as of September 30, 2025. The report provides a snapshot of the long-term financial stability of numerous Public Limited Companies (PLCs) operating in the country.
-
-The list details a spectrum of credit ratings, including high investment grades such as ‘AAA’ and ‘AA-‘. According to the report’s key, issuers whose ratings were reviewed or subject to a rating action during the month are highlighted, though specific changes were not discernible in the provided document.
-
-The publication also included a separate, older list of international ratings from September 30, 2020. The monthly national ratings update serves as a critical tool for investors and stakeholders to gauge the creditworthiness of Sri Lanka’s corporate sector.
-
-Key fintech forum aims to foster collaboration between banks and technology companies
-
-JXG partners with Foundation of Goodness to empower Monaragala community
-
-...
-
-[Data](articles/f2d754d0.json)
-
-[Extended Data](ext_articles/f2d754d0.ext.json)
-
----
-
-### Nation Lanka Finance clarifies fraud allegations
-
-*2025-10-05 18:55:00* · [`islandlk`](http://island.lk/nation-lanka-finance-clarifies-fraud-allegations/) · `en`
-
-Nation Lanka Finance PLC (NLFP) would like to address and correct the inaccuracies circulating in certain media reports and on social media platforms concerning the Company, its Chairman, Victor Ramanan, and its Board of Directors stated in a press release, issued last week.
-
-The contents of the report issued by the Board of Directors of NLFP are reproduced below.
-
-These reports have incorrectly linked NLFP to alleged fraudulent deposit-taking activities that are the subject of ongoing legal proceedings. The Company wishes to set the record straight for the benefit of the public, its valued customers, and stakeholders.
-
-The media reports in question reference two specific court cases: Magistrate’s Court of Negombo Case No. 560/25 and Magistrate’s Court of Colombo Case No. 53896/1/25.
-
-NLFP vehemently denies any involvement in the alleged fraudulent scheme and wishes to clarify the factual context of these proceedings, which have been misrepresented in public discourse.
-
-...
-
-[Data](articles/a0f581dc.json)
-
-[Extended Data](ext_articles/a0f581dc.ext.json)
-
----
-
-### A scholar odd rivers of a woman's gold
-
-*2025-10-05 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215377) · `si`
-
-A woman in Anamaduwa area has arrested the mother, father and daughter Pallama Police have arrested the same number of gold jewelery.
-
-The suspects were arrested by the 67-year-old husband, 48-year-old girl and their daughter.
-
-The woman who faced the incident has served in Dubai for nearly 10 years and is a mother of two.
-
-The robbery had joined the same family husband, wife and daughter who was on another land on another land in Kirumanduwa.
-
-The suspects have obtained nearly 500,000 cases while claiming to protect the residence while staying at home.
-
-She had told the police that the suspect had performed the robbery and had no doubts about the confidence.
-
-The suspect, fraud, has said that the woman who was fraudulent was found to be resided at the residents of Adigama Renagal, who had a trereck of the land.
-
-However, at first, however, the woman has been reluctant, but the suspects have prevailed to get her treasure.
-
-...
-
-[Data](articles/ab0670f6.json)
-
-[Extended Data](ext_articles/ab0670f6.ext.json)
-
----
-
-### Two Cricket Star in the World Cup
-
-*2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-කසලනය-අතර-කරකට-තර-දකක-වවහ-ගවස-ගනත/101-680765) · `si`
-
-While he was in Sri Lanka, England indoor males leader Nain Patel and Malory Marryal Bartosh were engaged in today.
-
-The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be held at the Austyresia Domestic Cricket Stadium in Thalawathugoda.
-
-◼️
-
-[Data](articles/a9b89d08.json)
-
-[Extended Data](ext_articles/a9b89d08.ext.json)
-
----
-
-### Cricket Test among the World Cup is essential at the Mount Lavinia Hotel
-
-*2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-කසලනය-අතර-කරකට-තරදකක-ගලකසස-හටලයද-අතනත-ගනත/101-680765) · `si`
-
-While he was in Sri Lanka, England indoor males leader Nain Patel and Malory Marryal Bartosh were engaged in today.
-
-The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be held at the Austyresia Domestic Cricket Stadium in Thalawathugoda.
-
-◼️
-
-[Data](articles/4dc745e9.json)
-
-[Extended Data](ext_articles/4dc745e9.ext.json)
 
 ---

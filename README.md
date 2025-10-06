@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 17:05:56**
+As of **2025-10-06 16:54:32**
 
 ## Newspaper Stats
 
-*Scraped **81,600** Articles*
+*Scraped **81,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,14 +12,14 @@ newsfirstlk | 625
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 874
+lankadeepalk | 873
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,806
-adaderanalk | 10,480
-tamilmirrorlk | 12,116
+adaderanalk | 10,472
+tamilmirrorlk | 12,112
 virakesarilk | 13,425
 adaderanasinhalalk | 14,014
 
@@ -27,111 +27,11 @@ adaderanasinhalalk | 14,014
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,586 (100.0%) of 81,600 articles have been extended.
+81,586 (100.0%) of 81,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
-
-### බ්‍රෙික් පැටලය මාරු වී තුනක් මරු තුරුලට
-
-*2025-10-06 16:36:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බරක-පටලය-මර-ව-තනක-මර-තරලට/1-680801) · `si`
-
-ගම්පොළ දොළුව විහාරස්ථානයක් ඉදිරිපිටදී  සිදු වු රිය  අනතුරින් තිදෙනකු මියගොස්  තවත් දෙදෙනකු තුවාල ලබා ඇතැයි ගම්පොල පොලීසිය  කියයි.
-
-මෝටර් රියක් මාර්ගයේ ගමන් කළ කිහිපදෙනකු යටකරගෙන යාමෙන් මෙම අනතුර සිදුව  ඇතැයි කියයි. අනතුර සිදුවන අවස්ථාවේදී මෝටර් රිය ධාවන  කර ඇත්තේ රියදුරු පුහුණු ලබමින්  සිටි කාන්තාවක්  බවද පොලීසිය පවසයි.
-
-මෝටර් රිය ලොරියකට ඉස්සර කිරිමට යාමේදී   බ්‍රෙික් පැටලය යැයි සිතා  ඇක්සලේටරය පැගීමෙන්  අධික වේගයෙන් ධාවන වූ මෝටර් රිය  විහාරස්ථානයට ගොස් ආපසු නිවෙස්බලා යමින් සිටි පිිරිසක් මෙලෙස යටකරගෙන ගොස් ඇතැයි පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/6120e1c5.json)
-
----
-
-### Tusker ‘Manika’ of Bellanwila Temple passes away
-
-*2025-10-06 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113261/tusker-manika-of-bellanwila-temple-passes-away) · `en`
-
-‘Manika,’ a majestic tusker lived at the Bellanwila Temple and was around 76 years old, passed away this afternoon (October 6).
-
-The tusker had participated in the annual procession of the historic Bellanwila Rajamaha Viharaya for many years, becoming a beloved figure in the temple’s traditions.
-
-◼️
-
-[Data](articles/c67ab589.json)
-
----
-
-### கணவனின் ஆணுறையுடன் கள்ளக்காதலனுடன் ஓடிய புதுப்பெண்
-
-*2025-10-06 16:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனின்-ஆணுறையுடன்-கள்ளக்காதலனுடன்-ஓடிய-புதுப்பெண்/175-365834) · `ta`
-
-வேலூரின் அழகிய பாலாறு ஆற்றங்கரை ஓரத்தில், விருதம்பட்டு அருகிலுள்ள சர்ச் காலனி என்ற அமைதியான பகுதியில், புதிதாகத் திருமணமான அர்வின் ஜான் மற்றும் ஸ்டெல்லா என்ற தம்பதியினரின் வாழ்க்கை ஒரு கனவு போலத் தொடங்கியது.
-
-நல்ல வேலை, ஊதியம், அமைதியான வீடு – எல்லாம் சரியாக இருந்தது. ஆனால், கடந்த செப்டம்பர் 25-ஆம் திகதி, அந்த அமைதி சிதறியது. ஸ்டெல்லா திடீரென மாயமானார்.
-
-அர்வின் ஜான், உறவினர்கள், தோழிகள் என எல்லா இடங்களிலும் தேடினார். கடைசியில், காவல் நிலையத்தில் புகார் கொடுத்தார்.காவல்துறை விசாரணை தொடங்கியது. ஸ்டெல்லாவின் தொலைபேசி அழைப்பு வரலாறு ஆய்வு செய்யப்பட்டது.
-
-அதில், சிவகுமாரன் என்ற ஒரு நபருக்கு அடிக்கடி அழைப்புகள் சென்றிருந்தது தெரியவந்தது. அர்வின் மற்றும் குடும்பத்தினரிடம் விசாரித்தபோது, "சிவகுமாரன் யார் என்றே தெரியாது" என்று கூறினர். சிவகுமாரனை தொடர்பு கொண்டபோது, "எனக்கும் ஸ்டெல்லாவுக்கும் எந்த சம்பந்தமும் இல்லை. நான் பெங்களூரில் இருக்கிறேன்" என்று மறுத்தார். நேரில் விசாரணைக்கு வர மறுத்து, "போனிலேயே கேளுங்கள்" என்று சொன்னார்.
-
-...
-
-[Data](articles/f31ab98e.json)
-
----
-
-### மூன்று விஞ்ஞானிகளுக்கு மருத்துவத்திற்கான நோபல் பரிசு
-
-*2025-10-06 16:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-விஞ்ஞானிகளுக்கு-மருத்துவத்திற்கான-நோபல்-பரிசு/175-365833) · `ta`
-
-2025ஆம் ஆண்டுக்கான உடலியல் அல்லது மருத்துவத்திற்கான நோபல் பரிசு, நமது உடலை ஆக்கிரமிக்க முயற்சிக்கும் ஆயிரக்கணக்கான வெவ்வேறு நுண்ணுயிரிகளிலிருந்து நோயெதிர்ப்பு அமைப்பு நம்மை எவ்வாறு பாதுகாக்கிறது என்பதைக் கண்டுபிடித்ததற்காக, அமெரிக்கர்கள் மற்றும் ஜப்பானியர்கள் என மூவருக்கும் வழங்கப்பட்டுள்ளது.
-
-மேரி இ. பிரன்கோவ், பிரெட் ராம்ஸ்டெல் மற்றும் ஷிமோன் சகாகுச்சி ஆகியோர் இந்த பரிசைப் பகிர்ந்து கொள்வார்கள் என்று ஸ்வீடனின் ஸ்டாக்ஹோமில் நடந்த விழாவில் திங்களன்று நோபல் குழு அறிவித்தது.
-
-பரிசு பெற்றவர்கள் ‘ஒழுங்குமுறை டி செல்களை’ அடையாளம் கண்டனர், அவை நோயெதிர்ப்பு மண்டலத்தின் பாதுகாப்பு காவலர்களைப் போல செயல்படுகின்றன மற்றும் நோயெதிர்ப்பு செல்கள் நம் சொந்த உடலைத் தாக்குவதைத் தடுக்கின்றன.
-
-"நோயெதிர்ப்பு அமைப்பு எவ்வாறு செயல்படுகிறது மற்றும் நாம் அனைவரும் ஏன் கடுமையான தன்னுடல் தாக்க நோய்களை உருவாக்கவில்லை என்பதைப் புரிந்துகொள்வதற்கு அவர்களின் கண்டுபிடிப்புகள் தீர்க்கமானவை" என்று நோபல் குழுவின் தலைவர் ஓலே காம்பே கூறினார்.
-
-...
-
-[Data](articles/e3f9c9b3.json)
-
----
-
-### போயா நாளில் மதுபானம் விற்றவர் கைது
-
-*2025-10-06 16:11:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போயா-நாளில்-மதுபானம்-விற்றவர்-கைது/175-365832) · `ta`
-
-கல்முனை, தலைமையக பொலிஸாரால்  சேனைக்குடியிருப்பு பகுதியில் மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பின் போது வீடொன்றில் சட்டவிரோதமாக மதுபானம் விற்பனையில் ஈடுபட்ட ஒருவர் கைது செய்யப்பட்டு  மதுபான போத்தல்கள்  கைப்பற்றப்பட்டுள்ளன.
-
-போயா விடுமுறை நாளான திங்கட்கிழமை (06) அன்று மதுபான விற்பனையில்  ஈடுபடுவதாக கிடைக்கப்பெற்ற தகவலுக்கமைய  போதைப்பொருள் ஒழிப்பு பிரிவின் உத்தியோகத்தர்கள்  மாறுவேடத்தில் சென்று  இக் கைது நடவடிக்கை மேற்கொண்டுள்ளனர்.
-
-கைதானவர் சட்ட விரோதமான முறையில் அனுமதிப்பத்திரமின்றி வீட்டில் விற்பனைக்காக மறைத்து வைத்திருந்த 40 க்கும்  மேற்பட்ட பியர்கள் உட்பட 25 க்கும் மேற்பட்ட  மதுபான போத்தல்கள்   கைப்பற்றப்பட்டுள்ளன.
-
-மேலும் இது தொடர்பான விசாரணைகளை பொலிஸார் மேற்கொண்டு வருவதுடன் சந்தேக நபரை கல்முனை நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கைகளை மேற்கொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/11386055.json)
-
----
-
-### கம்பளை விபத்தில் மூவர் பலி
-
-*2025-10-06 16:11:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கம்பளை-விபத்தில்-மூவர்-பலி/76-365831) · `ta`
-
-கம்பளையில் தொழுவ விஹாரை ஒன்றின் முன் நடந்த வீதி விபத்தில் மூன்று பேர் உயிரிழந்துள்ளனர், மேலும் இருவர் காயமடைந்துள்ளனர் என்று கம்பளை பொலிஸார் தெரிவித்தனர்.
-
-வீதியில் நடந்து சென்றுக்கொண்டிருந்த பலர் மீது மோட்டார் வாகனம் மோதியதால் இந்த விபத்து ஏற்பட்டதாகக் கூறப்படுகிறது. விபத்து நடந்த நேரத்தில் ஓட்டுநர் பயிற்சி பெற்று வந்த ஒரு பெண் அந்த வாகனத்தை ஓட்டிச் சென்றதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-வேகமாக வந்த மோட்டார் வாகனம், லாரியை முந்திச் செல்லும் போது பிரேக்கைப் பிடித்ததாக நினைத்து, எக்ஸ்லேட்டரை அமத்தியதால்  மோட்டார் வாகனம், வேகமாகச் சென்று, வீதியில் பயணித்தவர்களை மோதித்தள்ளியுள்ளது. விஹாரைக்கு சென்று, வீடு திரும்பியவர்களே இந்த விபத்தில் பாதிக்கப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/bd0eb81c.json)
-
----
 
 ### Transfers to 32 OIC La 32
 
@@ -333,24 +233,6 @@ A car traveled by a car collided with a lorry.
 
 ---
 
-### Three killed, one injured in road accident in Gampola
-
-*2025-10-06 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113259/three-killed-one-injured-in-road-accident-in-gampola) · `en`
-
-Three women have died while another has sustained injuries in a road accident that occurred in Doluwa, Gampola, police stated.
-
-Police stated that the four women were attempting to cross the road when they were hit by a motor vehicle.
-
-It is reported that the women had come to the area to attend a religious program at a nearby temple when the incident occurred.
-
-Three of the women died at the scene, while the injured woman has been admitted to the Gampola Hospital for treatment.
-
-◼️
-
-[Data](articles/0e9ed750.json)
-
----
-
 ### French Prime Minister resigns
 
 *2025-10-06 15:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரான்ஸ்-பிரதமர்-திடீர்-இராஜினாமா/50-365827) · `ta`
@@ -366,24 +248,6 @@ At the same time, President Macron is reportedly considering who can elect Franc
 [Data](articles/f4654237.json)
 
 [Extended Data](ext_articles/f4654237.ext.json)
-
----
-
-### Existing regulations hinder efforts to resolve the medicine shortage – Health Minister
-
-*2025-10-06 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113258/existing-regulations-hinder-efforts-to-resolve-the-medicine-shortage-health-minister-) · `en`
-
-Certain existing laws and regulations have become obstacles in addressing the current medicine shortage, Minister of Health and Mass Media Dr. Nalinda Jayatissa has said.
-
-The Health Minister stated that although some may question why the government, even with a two-thirds majority, cannot amend these laws, it must be understood that many of these regulations are not recent, but date back to the British colonial era.
-
-He made these remarks while attending the opening ceremony of the Vipassi Buddhist Center, located within the premises of the Colombo National Hospital.
-
-Speaking at the event, Minister Dr. Nalinda Jayatissa emphasised that any attempt to amend the current laws and regulations must be done with great care, as they are interconnected and cannot be changed in isolation.
-
-...
-
-[Data](articles/e21eeaf4.json)
 
 ---
 
@@ -513,26 +377,6 @@ France has been stirred by the resignation of Legurnu, who was elected as the fo
 
 ---
 
-### Three scientists get Nobel Prize in Medicine for discovery of peripheral immune tolerance
-
-*2025-10-06 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113257/three-scientists-get-nobel-prize-in-medicine-for-discovery-of-peripheral-immune-tolerance) · `en`
-
-Scientists Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi won the 2025 Nobel Prize in Physiology or Medicine for “their discoveries concerning peripheral immune tolerance”, the award-giving body said on Monday.
-
-This year’s prize “relates to how we keep our immune system under control so we can fight all imaginable microbes and still avoid autoimmune disease,” said Marie Wahren-Herlenius, a rheumatology professor at the Karolinska Institute.
-
-The winners for medicine are selected by the Nobel Assembly of Sweden’s Karolinska Institute medical university and receive a prize sum of 11 million Swedish crowns ($1.2 million), as well as a gold medal presented by Sweden’s king.
-
-Brunkow and Ramsdell are based in the United States, and Sakaguchi in Japan.
-
-“Their discoveries have laid the foundation for a new field of research and spurred the development of new treatments, for example for cancer and autoimmune diseases,” the prize-awarding body said in a statement.
-
-...
-
-[Data](articles/0daddd0d.json)
-
----
-
 ### Coughing is banned in 3 states in India
 
 *2025-10-06 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/227017) · `ta`
@@ -608,30 +452,6 @@ Fernando made these comments during the Sri Lanka PA (SLPP) event in Kurunegala.
 [Data](articles/525f663f.json)
 
 [Extended Data](ext_articles/525f663f.ext.json)
-
----
-
-### First supermoon of 2025, the Harvest Moon, rises tonight
-
-*2025-10-06 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/113256/first-supermoon-of-2025-the-harvest-moon-rises-tonight) · `en`
-
-The first supermoon of 2025 will appear in our skies tonight kicking off a series of lunar events.
-
-The full Harvest Moon rises in Sri Lanka this evening and will be visible until early hours of tomorrow.
-
-However, it will depend on weather conditions and cloud cover.
-
-This will mark the start of a run of three consecutive supermoons in the final three months of 2025.
-
-It will be the largest and brightest full Moon of the year so far and the first supermoon since November 2024.
-
-The Moon will be about 224,600 miles from Earth compared to the average distance of 238,900 miles. According to NASA, this proximity will make the Moon appear about 30% brighter and 14% larger than a typical full Moon.
-
-Scientifically, a supermoon happens when a full moon coincides with the Moon’s closest approach to Earth in its elliptical orbit, called the perigee.
-
-...
-
-[Data](articles/703a8b0c.json)
 
 ---
 
@@ -775,24 +595,6 @@ The first look of the film, which is scheduled to be completed in November, has 
 
 ---
 
-### Weapons found hidden in abandoned house in Dematagoda
-
-*2025-10-06 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113255/weapons-found-hidden-in-abandoned-house-in-dematagoda-) · `en`
-
-The Crimes Investigation Division of the Bambalapitiya Police has discovered several weapons hidden in an abandoned house near the Kelani Valley railway line, on the Baseline Road in Dematagoda.
-
-Police recovered a locally manufactured 9mm firearm, two live bullets and a T-56 magazine from the location.
-
-Police suspect that the weapons may have been hidden with the intention of carrying out a murder, possibly linked to the ongoing conflict between two organized criminal gangs operating in Wanathamulla Borella, one led by Wanathamulle Duminda and the other by a gang leader Chathu.
-
-Several previous murders have already taken place as a result of clashes between these two gangs in the Wanathamulla area.
-
-◼️
-
-[Data](articles/109b8002.json)
-
----
-
 ### A pronouncement of strong lightning
 
 *2025-10-06 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215402) · `si`
@@ -929,28 +731,6 @@ DIG in charge of the DIG Laksiri Wijesena, Badulla South Police OIC, Chief Inspe
 
 ---
 
-### Advisory issued for severe lightning in several provinces
-
-*2025-10-06 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113254/advisory-issued-for-severe-lightning-in-several-provinces) · `en`
-
-An ‘Amber’ advisory has been issued by the Department of Meteorology for severe lightning in several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in the Northern, North-central, Eastern and Uva provinces, the department stated.
-
-There may be temporary localized strong winds during thundershowers, it added.
-
-Accordingly, the general public has been requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public has also been requested to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, and also to refrain from using wired telephones and connected electric appliances during thunderstorms.
-
-For emergency assistance, the public has been requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/ab9ea54f.json)
-
----
-
 ### UNHRC Adopts Key Resolution on Sri Lanka Despite Colombo’s Rejection
 
 *2025-10-06 14:32:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/unhrc-adopts-key-resolution-on-sri-lanka-despite-colombo%e2%80%99s-rejection) · `en`
@@ -1063,30 +843,6 @@ First, I should say that I am against this amendment proposal. There is no oppos
 
 ---
 
-### Thirty-two pigeons stolen from Dehiwala National Zoo, officials say
-
-*2025-10-06 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113253/thirty-two-pigeons-stolen-from-dehiwala-national-zoo-officials-say) · `en`
-
-A total of 32 pigeons have been stolen from the Dehiwala National Zoological Gardens, according to the administration of the zoo.
-
-The Deputy Director of the zoo, Hemanta Samarasekara stated that a complaint regarding the theft has been lodged with the Dehiwala Police.
-
-He mentioned that the theft is suspected to have taken place either on Friday night (03) or in the early hours of Saturday (04).
-
-The pigeons were reportedly stolen by breaking open a cage in which they were kept. These pigeons had been housed at the Dehiwala Zoo under court orders, having been presented as evidence in various legal cases.
-
-As a disciplinary measure, the officer in charge of the section where the pigeons were kept has been suspended, according to Deputy Director Samarasekara.
-
-However, the Dehiwala Police have stated that no information has yet been reported regarding any suspects or the whereabouts of the stolen pigeons.
-
-A special investigation into the incident has now been launched by the Dehiwala Police.
-
-◼️
-
-[Data](articles/406a3612.json)
-
----
-
 ### Opening of International Archaeological Research Institute
 
 *2025-10-06 14:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-தொல்பொருள்-ஆராய்ச்சி-நிறுவனம்-திறப்பு/175-365815) · `ta`
@@ -1149,17 +905,15 @@ Police suspect that someone may have brought these guns to the place, and furthe
 
 *2025-10-06 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113252/french-prime-minister-sbastien-lecornu-resigns-after-less-than-a-month) · `en`
 
-France’s new Prime Minister Sebastien Lecornu resigned on Monday (Oct 6), barely 14 hours after appointing his new Cabinet, after allies and foes alike threatened to topple his government, driving French stocks and the euro sharply lower.
+France’s Prime Minister Sébastien Lecornu has resigned, hours after his cabinet was unveiled.
 
-His swift resignation was unexpected and unprecedented, and marked another major deepening of France’s political crisis.
+The Elysée palace made the announcement after Lecornu met President Emmanuel Macron for an hour on Monday morning.
 
-The far-right National Rally immediately urged President Emmanuel Macron to call a snap parliamentary election.
+The shock move comes only 26 days Lecornu was appointed prime minister following the collapse of the previous government of Francois Bayrou.
 
-After weeks of consultations with political parties across the board, Lecornu, a close ally of Macron, had appointed his ministers on Sunday and they had been set to hold their first meeting on Monday afternoon.
+Several parties in the National Assembly had fiercely criticised the composition of Lecornu’s cabinet, which was largely unchanged from Bayrou’s, and threatened to vote it down.
 
-But the new Cabinet line-up had angered opponents and allies alike, who either found it too right-wing or not sufficiently so, raising questions on how long it could last, at a time when France is already mired deep in political crisis, with no group holding a majority in a fragmented parliament.
-
-...
+◼️
 
 [Data](articles/b0e8dc8b.json)
 
@@ -1994,5 +1748,283 @@ No information has been revealed to the lost pigeons. Police are conducting furt
 [Data](articles/93ae9f13.json)
 
 [Extended Data](ext_articles/93ae9f13.ext.json)
+
+---
+
+### Israel's talk today with Hamas Organization: The main meeting in Cairo
+
+*2025-10-06 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/227008) · `ta`
+
+A key talks to end the two -year war between Hamas and Israel, which manages Palestine, will be held in Cairo, the capital of Egypt on Monday (6).
+
+The decision for the next talks has been made following the acceptance of both sides accepting the 20 -point peace plan recommended by US President Donald Trump.
+
+This 20 -feature plan is a key feature of turning Gaza into a terrorist, neighboring peace park.
+
+In a discussion held at the White House on September 30, Israeli Prime Minister Benjamin Netanyahu agreed to the project.
+
+72 hours of deadline for Hamas to accept contract. At the end of the deadline, Hamas has announced that it has accepted the 20 -point plan and demanded that talks in the mediation countries to speak extensively.
+
+Following this, Netanyahu announced that he would withdraw from some parts of Gaza. The move was taken after he said he was ready to implement Trump's peace plan.
+
+...
+
+[Data](articles/becd9fcb.json)
+
+[Extended Data](ext_articles/becd9fcb.ext.json)
+
+---
+
+### Some laws crosses some of the laws to address the shortage of drugs
+
+*2025-10-06 11:22:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඖෂධ-හඟයට-පළයම-හයනන-සමහර-නත-හරසවල/101-680782) · `si`
+
+Some of the rules that have been taken to address the shortage of drugs have been disturbed by Health and Mass Media Dr. Nalinda Jayatissa.
+
+He said to be a problem, whether there is no two-thirds power and change the rules.
+
+The Minister pointed out that some of the rules clashes yesterday, but from the British period.
+
+The Minister was opening the Wipshi Buddhist Center at the Colombo National Hospital premises.
+
+The opening of the Amaraiyapura Maha Sangha Sangha Sangha Sangha Sangha Sangha Sangamini Parithanda Patternisha, who was appointed as the Advanced General of the Amaramean Magistrate, was held under the patronage of Health and Mass Media Dr. Nalinda Jayatissa recently.
+
+A large quantity of housing and medical equipment worth Rs.
+
+The estimated cost of renovation of the Vipassi Buddhist Center at the National Hospital premises is Rs. 68 lakhs. The Ministry of Health has provided Rs.. The balance has been spent by the hospital service board and the Sri Lanka Navy has given the labor.
+
+◼️
+
+[Data](articles/8190f2ae.json)
+
+[Extended Data](ext_articles/8190f2ae.ext.json)
+
+---
+
+### Fire injured in a hospital in India
+
+*2025-10-06 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215396) · `si`
+
+Eight patients were killed in a fire at a hospital in Jaipur, India.
+
+Eight patients have been identified in the ICU of the hospital, foreign media reports said.
+
+The fire erupted in a hospital store and a leak on a power circuit has led to the fire.
+
+◼️
+
+[Data](articles/2f09d357.json)
+
+[Extended Data](ext_articles/2f09d357.ext.json)
+
+---
+
+### 17-year-old drowns in school swimming pool in Dikwella
+
+*2025-10-06 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113248/17-year-old-drowns-in-school-swimming-pool-in-dikwella-) · `en`
+
+A 17-year-old schoolboy has reportedly drowned while attempting to retrieve a cricket ball that had fallen into the swimming pool at his school in Dikwella.
+
+According to reports, the student had been playing cricket with several classmates on the school grounds when the ball landed in the pool. The tragic incident occurred as he entered the water to recover it.
+
+The deceased has been identified as a grade 12 student of Vijitha Maha Vidyalaya, Dikwella.
+
+The body has been placed at the Batheegama Hospital morgue and the Dickwella Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/0a9b6f77.json)
+
+[Extended Data](ext_articles/0a9b6f77.ext.json)
+
+---
+
+### Two trains killed
+
+*2025-10-06 11:14:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-ரயில்களில்-மோதி-இருவர்-பலி/175-365800) · `ta`
+
+A man was killed when a train from Talaimannar to Colombo Fort was killed on Sunday morning (05) in the Mannar -Mannar Police Division.
+
+The deceased is a 32 -year -old from Pudukudiyiruppu. The body has been handed over to relatives after the autopsy and Mannar police are conducting further investigations.
+
+A train collided with a train traveling from Kandy to Polgahawela on Sunday evening (05) near the Kadukannawa Police Division of Kadugannawa Police Division.
+
+The deceased is Akuresa, a 27 -year -old from the cub. The body is placed in the funeral room of the Peradeniya Hospital and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/ab617b1b.json)
+
+[Extended Data](ext_articles/ab617b1b.ext.json)
+
+---
+
+### Army-ammunition-ammunition-ammunition in Demodagoda
+
+*2025-10-06 11:12:35* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දමඩගඩ-පළ-නවසක-ගනඅව-උණඩ-මගසනයක-සයගන/101-680781) · `si`
+
+The Colombo South's Criminal Investigation Bureau says that the name of the country is located in a manufactured firearm, a T-56 riffle and T-56 live bullets in the back of the land.
+
+Sub Inspector Suphan Suphan Bandara has said that the abandoned house in a lonegent land behind the railway station is said to have been found in a bag of suspicious parcel.
+
+The police said that it was later inspected by the name of the SLFP and two T-57 live bullets.
+
+Police suspect that these firearms have been brought to this location and inspecting the surrounding safe camera views on the matter and investigate further investigations into the area
+
+◼️
+
+[Data](articles/f4290da5.json)
+
+[Extended Data](ext_articles/f4290da5.ext.json)
+
+---
+
+### Innovation in Sri Lanka
+
+*2025-10-06 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227002) · `ta`
+
+Professor Sameera R. Sameera R.R.. Said Samarakoon.
+
+One of the deadly diseases that threaten human life is focusing on the discovery of medical medicine worldwide.
+
+In this context, the University of Colombo has succeeded in finding an important nutritional medicine that kills cancer cells.
+
+The uncontrolled growth of abnormal cells in a part of the human body is called cancer. If this is not detected and treated at an early stage, death can be caused.
+
+Worldwide, about 10 million people die of cancer every year. In Sri Lanka, the number of people who die of cancer annually is 15,000 to 20,000.
+
+Considering this dangerous situation, the world's focus is on the need to fight it as the spread of cancer worldwide is rapidly increasing.
+
+...
+
+[Data](articles/22199927.json)
+
+[Extended Data](ext_articles/22199927.ext.json)
+
+---
+
+### Theft at Dehiwala Zoo
+
+*2025-10-06 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227007) · `ta`
+
+Director General of the Dehiwala Zoo. Rajapaksa said.
+
+Director General of the Dehiwala Zoo. Rajapaksa said.
+
+He said that someone had entered the Dehiwala Zoo at night and stole 32 pigeons placed in cages.
+
+Director General of the Dehiwala Zoo RC to arrest the suspects. Rajapakse has asked the police.
+
+◼️
+
+[Data](articles/c8df7881.json)
+
+[Extended Data](ext_articles/c8df7881.ext.json)
+
+---
+
+### A student drowns in swimming pool
+
+*2025-10-06 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215395) · `si`
+
+A schoolgirl who went to take the ball to fall into the swimming pool was drowned in the swimming pool.
+
+The student was playing cricket in the school at the school stadium with another group of students.
+
+The deceased has been identified as 17 year old schoolgirl at the age of 12, Dickwella Vijitha Maha Vidyalaya.
+
+The deceased Dickwella police are conducting further investigations.
+
+◼️
+
+[Data](articles/489d47b1.json)
+
+[Extended Data](ext_articles/489d47b1.ext.json)
+
+---
+
+### Birth and marriage decreased in the country
+
+*2025-10-06 10:55:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-பிறப்பும்-திருமணமும்-குறைந்துள்ளது/175-365799) · `ta`
+
+The number of births in the country declined by 80,945 in 2024 compared to 2020, the Registrar General Department said.
+
+Most of the births were recorded in the Colombo district by 2024, while the lowest births were reported in the Mullaitivu area.
+
+According to the Registrar's Department, the number of deaths has increased significantly from 2021 to 2024.
+
+According to reports, the number of marriages in 2023 has declined by 12,066 compared to 2023.
+
+◼️
+
+[Data](articles/8b7218ed.json)
+
+[Extended Data](ext_articles/8b7218ed.ext.json)
+
+---
+
+### Postal Associations protest against post-mail fraud
+
+*2025-10-06 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215394) · `si`
+
+Postcalcular Societies say that the PostCard is obviously displeased with postal employees.
+
+Accordingly, the Chairman of the Postal and Telecommunication Office Association, JGC Nirosena said that he would oppose the announcement of the postmary of the Postcaries on the 9th.
+
+Meanwhile, the Co-convener of the Joint Post Trade Union Front, Chinthanka Bandara also stated that he strongly opposed the allegations of the postal employees without any investigation.
+
+Speaking at a ceremony in the Haputale area, Mr. Ruwan Sayakumara recently added that the postal employees had obtained Rs.
+
+...
+
+[Data](articles/a4e82064.json)
+
+[Extended Data](ext_articles/a4e82064.ext.json)
+
+---
+
+### Fire on school in Britain: hate crime? ; Police investigations!
+
+*2025-10-06 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/226996) · `ta`
+
+British police are investigating whether the fire attack on the school was a crime.
+
+International media reports that police are investigating the fire at a school in the southern part of Britain as a "hate crime".
+
+Officers have summoned the authorities to the site of the fire attack at 10 pm on Saturday (04) at the Philiss Avenue in East Sachex's Payment.
+
+The country's authorities have requested the public to share pictures of two masked men suspected of carrying out the attack.
+
+This disgusting act does not represent their community or their city. It is the place of grace, respect and mutual support, and we will continue to include those values. ”
+
+We urge everyone to reject the separation and respond to the unity and compassion for hatred.
+
+◼️
+
+[Data](articles/5e0b1a70.json)
+
+[Extended Data](ext_articles/5e0b1a70.ext.json)
+
+---
+
+### Keep Keepu Yapa in China
+
+*2025-10-06 10:44:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බල-ජය-කහල-යප-පටන/101-680780) · `si`
+
+The first district sports festival was launched by the Youth Sports Festival.
+
+Youth athletes representing the 15 Divisional Secretariat Divisions in the Jaffna District participated in the event that commenced at Alfred Doykere Stadium in Jaffna.
+
+JV and field competitions were held, marking the conclusion of the district sports festival, and its championship occupied the Tiipai Pradeshiya Sabha. Subordinate, Point Palawaturuwa Pradeshiya Sabha and third place owned by Nallur Pradeshiya Sabha.
+
+The National Sports Festival will be held at the end of the local sports event.
+
+Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar, Director General of the National Youth Services Council were also present.
+
+◼️
+
+[Data](articles/c36e932b.json)
+
+[Extended Data](ext_articles/c36e932b.ext.json)
 
 ---

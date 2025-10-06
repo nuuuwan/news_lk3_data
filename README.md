@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 21:07:38**
+As of **2025-10-06 21:20:36**
 
 ## Newspaper Stats
 
-*Scraped **81,629** Articles*
+*Scraped **81,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,808
-adaderanalk | 10,487
+adaderanalk | 10,490
 tamilmirrorlk | 12,120
 virakesarilk | 13,425
 adaderanasinhalalk | 14,021
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,626 (100.0%) of 81,629 articles have been extended.
+81,626 (100.0%) of 81,632 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -103,6 +103,28 @@ Meanwhile, inquiry by Minister of Justice, Hon.
 
 ---
 
+### Surging numbers of children using e-cigarettes: WHO
+
+*2025-10-06 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113270/alarming-number-of-people-now-vape-says-who) · `en`
+
+More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, the World Health Organization (WHO) is warning.
+
+Children are, on average, nine times more likely than adults to vape, it says, based on available global figures.
+
+The WHO’s Dr Etienne Krug said e-cigarettes were fuelling a “new wave” of nicotine addiction. “They are marketed as harm reduction but, in reality, are hooking kids on nicotine earlier and risk undermining decades of progress.”
+
+WHO Director General, Dr Tedros, accused the tobacco industry of “aggressively targeting” young people.
+
+“Millions of people are stopping, or not taking up, tobacco use thanks to tobacco control efforts by countries around the world,” he said.
+
+“In response to this strong progress, the tobacco industry is fighting back with new nicotine products, aggressively targeting young people. Governments must act faster and stronger in implementing proven tobacco-control policies,” he added.
+
+...
+
+[Data](articles/70f9654b.json)
+
+---
+
 ### "Mahinda should be executed"
 
 *2025-10-06 19:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-தூக்கிலிட-வேண்டும்/175-365841) · `ta`
@@ -132,6 +154,18 @@ Fonseka mocked the explanation of the media spokesman's claim that the Rajapaksa
 ...
 
 [Data](articles/3d1aa7be.json)
+
+---
+
+### Ex-President Mahinda should face strict action: Field Marshal Sarath Fonseka
+
+*2025-10-06 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113269/ex-president-mahinda-should-face-strict-action-field-marshal-sarath-fonseka) · `en`
+
+Former President Mahinda Rajapaksa should face strict action, says former Commander of the Sri Lanka Army Field Marshal Sarath Fonseka.
+
+...
+
+[Data](articles/d8e5c7eb.json)
 
 ---
 
@@ -168,6 +202,28 @@ COLOMBO (News 1st) : Four people have died and three others sustained injuries i
 [Data](articles/46b6fb2b.json)
 
 [Extended Data](ext_articles/46b6fb2b.ext.json)
+
+---
+
+### 36-year-old woman arrested following tragic Gampola accident
+
+*2025-10-06 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113267/36-year-old-woman-arrested-following-tragic-gampola-accident) · `en`
+
+A tragic accident was reported earlier today (06) in Doluwa, Gampola, where three women lost their lives after being hit by a car.
+
+Police suspect that the cause of the accident was the reckless driving of a woman who was behind the wheel of the vehicle involved.
+
+The victims were among a group of four elderly women from Doluwa who were attempting to cross the road after attending a religious ceremony at around 1:30 p.m.
+
+Police stated a car approaching from behind struck all four women and then collided with a nearby lorry before coming to a stop.
+
+The impact trapped the women between the car and the lorry, causing severe injuries.
+
+Police confirmed that three of the women died at the scene, while the fourth woman was admitted to the Kandy National Hospital in critical condition.
+
+...
+
+[Data](articles/f0d602d7.json)
 
 ---
 
@@ -1976,63 +2032,5 @@ However, no information about the robbery has been reported so far, the Dehiwala
 [Data](articles/96fce326.json)
 
 [Extended Data](ext_articles/96fce326.ext.json)
-
----
-
-### Winds cut 30000 times lights
-
-*2025-10-06 12:59:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සළඟ-වසස-වර-30000ක-ලයට-කපල/101-680788) · `si`
-
-The CEB Press Spokesman Dhammika Wimalaratne said that about 30,000 electricity crashes throughout the country due to the existing bad weather conditions have occurred throughout the country.
-
-It is said that many of the collapses of electricity crashes due to large number of trees.
-
-Meanwhile, sources say that there is a delay in restoring electricity crashes due to the false work of electricity.
-
-◼️
-
-[Data](articles/3cdeeacf.json)
-
-[Extended Data](ext_articles/3cdeeacf.ext.json)
-
----
-
-### Winds cut 30000 times lights
-
-*2025-10-06 12:59:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සළඟ-වසස-වර-30000ක-ලයට-කපල/1-680788) · `si`
-
-The CEB Press Spokesman Dhammika Wimalaratne said that about 30,000 electricity crashes throughout the country due to the existing bad weather conditions have occurred throughout the country.
-
-It is said that many of the collapses of electricity crashes due to large number of trees.
-
-Meanwhile, sources say that there is a delay in restoring electricity crashes due to the false work of electricity.
-
-◼️
-
-[Data](articles/031f7d3b.json)
-
-[Extended Data](ext_articles/031f7d3b.ext.json)
-
----
-
-### Instructions to solve the shortage of drugs have been hampered by existing legal procedures - nervous Jayatissa
-
-*2025-10-06 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227012) · `ta`
-
-When government tasks are carried out too quickly as a hundred meters. Health and Mass Media Minister Nalinda Jayatissa said that some of the existing laws are barred from addressing the drug deficiency.
-
-The Vibasi Buddhist Center, headed by the Supreme Amarapura Maha Sangam Sabha, the Supreme of the All Ceylon Amarapura Maha Sangam, was recently opened under the leadership of the Vibasi Buddhist Center, Health and Mass Media Minister Nalinda Jayadissa.
-
-The Colombo National Hospital was also donated by medical equipment worth about Rs 2 crore.
-
-68 lakhs of rupees to renovate the Vibasi Buddhist Center located on the National Hospital complex. The Ministry of Health has donated Rs 45 lakh.
-
-The remaining amount has been spent on the Hospital Services Council, and the Navy has contributed its contribution to the construction of the hospital
-
-...
-
-[Data](articles/423b953a.json)
-
-[Extended Data](ext_articles/423b953a.ext.json)
 
 ---

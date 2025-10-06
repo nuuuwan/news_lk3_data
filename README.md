@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 02:07:47**
+As of **2025-10-07 02:38:57**
 
 ## Newspaper Stats
 
-*Scraped **81,680** Articles*
+*Scraped **81,688** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
-colombotelegraphcom | 812
+colombotelegraphcom | 813
 lankadeepalk | 894
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
-dailyftlk | 5,669
+dailyftlk | 5,676
 adalk | 7,809
 adaderanalk | 10,493
 tamilmirrorlk | 12,121
@@ -27,11 +27,145 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,680 (100.0%) of 81,680 articles have been extended.
+81,686 (100.0%) of 81,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### All Island Dairy Association commits support to boost local production
+
+*2025-10-07 02:10:36* · [`dailyftlk`](https://www.ft.lk/business/All-Island-Dairy-Association-commits-support-to-boost-local-production/34-782653) · `en`
+
+Holds fifth AGM with Agriculture Minister K.D. Lalkantha as Chief Guest
+
+The fifth Annual General Meeting (AGM) of the All Island Dairy Association (AIDA) was recently held at The Ceylon Chamber of Commerce in Colombo, with Agriculture Minister K.D. Lalkantha as Chief Guest.
+
+Speaking at the AGM, AIDA President Asoka Bandara thanked the Government for removing the Value Added Tax (VAT) imposed on fresh milk from the last Budget.
+
+He explained the role of the AIDA, which represents the country’s leading dairy collectors and product processors, producers such as large- and medium-scale farms, service providers of the value chain, as well as milk importers.
+
+He stressed that the Association as the main focal point is fully committed towards the country’s dairy development process and is a willing partner to support the Government in achieving these objectives in collaboration with public sector institutions and Governmental authorities.
+
+...
+
+[Data](articles/94e303be.json)
+
+---
+
+### KPMG flags urgent compliance prep after SVAT repeal
+
+*2025-10-07 02:04:26* · [`dailyftlk`](https://www.ft.lk/business/KPMG-flags-urgent-compliance-prep-after-SVAT-repeal/34-782652) · `en`
+
+Low- and medium-risk taxpayers will have refunds processed without pre-verification
+
+With the abolition of the Simplified VAT (SVAT) scheme expected to tighten liquidity and trigger short-term cash pressures for exporters and project suppliers, KPMG Sri Lanka is urging firms to begin compliance preparations immediately.
+
+The firm advises businesses to verify their eligibility under the new Risk-Based VAT Refund Scheme, which took effect on 1 October, and ensure operational readiness in the Revenue Administration Management Information System (RAMIS) for electronic refund processing.
+
+The Inland Revenue Department (IRD) has issued a regulation under Section 22(5)(f) of the Value Added Tax Act, No. 14 of 2002 (as amended), introducing “The Operation of Risk-Based Refund Scheme,” effective 1 October.
+
+...
+
+[Data](articles/4fef287a.json)
+
+[Extended Data](ext_articles/4fef287a.ext.json)
+
+---
+
+### Xeptagon opens first office at Colombo Port City IT Park
+
+*2025-10-07 02:02:45* · [`dailyftlk`](https://www.ft.lk/business/Xeptagon-opens-first-office-at-Colombo-Port-City-IT-Park/34-782651) · `en`
+
+From left: Co-Founder and CEO Palinda Attanayake, Co-Founder Lien Nguyen, Co-Founder and Director Irandi Panditha, Co-Founder and Adviser Prof. Tuan Phan, Co-Founder and Managing Director Dr. Sapumal Ahangama
+
+Xeptagon has opened its new office at the Colombo Port City Business Centre, becoming the first company to operationalise within the Port City IT Park and the first in the climate finance technology sector to establish a presence there.
+
+This milestone reflects both Sri Lanka’s emergence as a base for innovation and Xeptagon’s growing reputation as an international leader in delivering trusted climate finance infrastructure.
+
+...
+
+[Data](articles/760ee3fa.json)
+
+[Extended Data](ext_articles/760ee3fa.ext.json)
+
+---
+
+### Ceylon Specialty Estate Tea  of the Year 2025 charity auction
+
+*2025-10-07 01:58:00* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Specialty-Estate-Tea-of-the-Year-2025-charity-auction/34-782650) · `en`
+
+Sri Lanka showcased the rich diversity of its tea industry at a landmark charity auction of specialty estate teas representing the 7 agro-climatic regions of Sri Lanka. Renowned globally for producing the world’s finest Orthodox black teas, a Charity Tea Sale in celebration of the successful completion of the Sri Lanka Pavilion at EXPO 2025 was held in Osaka, Japan on 26 September.
+
+The charity auction was organised in collaboration with the Sri Lanka Tea Board and the Colombo Tea Traders’ Association, assisted by the Colombo Brokers’ Association, The Planters’ Association of Ceylon and the Sri Lanka Tea Factory Owners Association.
+
+All proceeds from the auction will be dedicated to uplifting the lives of tea estate communities by funding educational programs and health facilities.
+
+This event not only highlights the excellence of Ceylon Tea, but also demonstrates the industry’s deep commitment to social responsibility and sustainable development.
+
+...
+
+[Data](articles/7c734a50.json)
+
+[Extended Data](ext_articles/7c734a50.ext.json)
+
+---
+
+### Bernard Philknit unveils ‘Boths  By Bernards’ with new apparel line
+
+*2025-10-07 01:57:12* · [`dailyftlk`](https://www.ft.lk/business/Bernard-Philknit-unveils-Boths-By-Bernards-with-new-apparel-line/34-782649) · `en`
+
+Bernard Philknit (Ceylon) Ltd., has launched its new collection of vests and T-shirts.
+
+This launch marks a significant step in the company’s rebranding efforts, reaffirming commitment to quality and innovation under the new brand identity “Boths By Bernards.”
+
+Under the leadership of Bernards Managing Director Suveksha Botejue, the company has focused on modernising its product range while staying true to the principles of comfort and durability that have made its products a household name.
+
+The new collection, developed at the company’s factory in Colombo, is crafted from the highest quality materials, offering a luxurious feel and exceptional breathability. The designs have been thoughtfully developed to be uniquely comfortable and lengthened for a modern, relaxed fit.
+
+...
+
+[Data](articles/e689f5ac.json)
+
+[Extended Data](ext_articles/e689f5ac.ext.json)
+
+---
+
+### SLID and ACCA launch National Director Awards
+
+*2025-10-07 01:27:35* · [`dailyftlk`](https://www.ft.lk/business/SLID-and-ACCA-launch-National-Director-Awards/34-782647) · `en`
+
+The Sri Lanka Institute of Directors (SLID), in collaboration with the Association of Chartered Certified Accountants (ACCA) Sri Lanka, has announced the launch of the SLID – ACCA National Director Awards — a landmark initiative to honour exemplary leadership and governance excellence across Sri Lanka’s corporate sector.
+
+The awards will recognise directors who demonstrate integrity, foresight, and impact, going beyond compliance to set new benchmarks in sustainable value creation and responsible
+
+In an era of rapid economic transformation, robust governance is critical to resilience and long-term growth. The National Director Awards have been established to:
+
+Strengthen stakeholder trust and position Sri Lanka as a hub of responsible corporate leadership in the region.
+
+...
+
+[Data](articles/1beaa583.json)
+
+[Extended Data](ext_articles/1beaa583.ext.json)
+
+---
+
+### CM Holdings to dispose Rs. 382.2 m property
+
+*2025-10-07 01:25:18* · [`dailyftlk`](https://www.ft.lk/business/CM-Holdings-to-dispose-Rs-382-2-m-property/34-782646) · `en`
+
+CM Holdings PLC yesterday said that it was seeking shareholder approval to dispose of a 109.2 perches property owned by the company valued at Rs. 382.2 million.
+
+The property located in Thalangama South, Battaramulla was valued in 31 March, the company said.
+
+◼️
+
+[Data](articles/19852e8b.json)
+
+[Extended Data](ext_articles/19852e8b.ext.json)
+
+---
 
 ### Condemning surveillance, harassment, and intimidation of journalist Kumanan Kanapathipillai
 
@@ -1912,147 +2046,5 @@ After investigating the suspect, the Kalmunai Special Task Force (STF) has taken
 [Data](articles/c98a473d.json)
 
 [Extended Data](ext_articles/c98a473d.ext.json)
-
----
-
-### Chairman
-
-*2025-10-06 15:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-கல்வி-நிலையத்திற்குள்-நுழைந்த-தவிசாளர்/175-365824) · `ta`
-
-Two weeks ago, the Manmunai South Eruvil Pradeshiya Sabha had announced that private educational institutions should be locked on Sundays to protect the psychological welfare of the students due to the welfare of the students.
-
-Later last week, all private educational institutions in Manmunai South Eruvil Bad Pradeshiya Sabha were locked on Sundays.
-
-Meanwhile, the Pradeshiya Sabha Chairman visited a private educational institute in the village of Mahiyur on Sunday (05) on Sunday (05).
-
-We have asked for the closure of private educational institutions on Sundays only on Sundays to protect students' psychological welfare due to increasing teaching activities.. To provide better education to students. We are not anti -teaching. However, students should be free on Sundays, students should go to moral school on Sundays, relatives should go home and we have decided to leave their children free on Sundays, "said Vinoraj.
-
-◼️
-
-[Data](articles/8ceb7cd5.json)
-
-[Extended Data](ext_articles/8ceb7cd5.ext.json)
-
----
-
-### The UN. Fulfillment of a new motion on Sri Lanka of the Human Rights Commission
-
-*2025-10-06 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/227033) · `ta`
-
-UN on Sri Lanka. The motion submitted at the Human Rights Council finally on Monday, 6th, was passed without a referendum.
-
-The proposal was submitted by the British -led co -sponsorship titled Reconciliation, Liability and Human Rights Improvement in Sri Lanka.
-
-The first draft of the proposal was already submitted in early last month. Then several amendments were made in it. The final draft of the revised in that way was submitted today and today it was passed without a promise.
-
-More than 22 countries have co -sponsored more than the five major countries presented on Monday to the decision to extend the power of the High Commissioner's Office in Sri Lanka.
-
-The first draft of the new brand was released on September 9, led by Britain, Canada, Malawi, Montenegro and North Masitonia.
-
-Meanwhile, the Sri Lankan government has decided not to claim the referendum when the proposal is fulfilled at the United Nations Human Rights Council.
-
-...
-
-[Data](articles/fe485749.json)
-
-[Extended Data](ext_articles/fe485749.ext.json)
-
----
-
-### 2025 scientists in medical science or physiology
-
-*2025-10-06 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215404) · `si`
-
-The Swedish Nobel Prize Committee was announced today (6) awarding the Nobel Prize for Medical Science or Physiology in 2025.
-
-It is connected with research to prevent the human immune system to prevent harm to man's body.
-
-The two scientists, Mary e Brencov, Fred Ramesdel is US nationals, and scientist is a Japanese national.
-
-◼️
-
-[Data](articles/d5adf33d.json)
-
-[Extended Data](ext_articles/d5adf33d.ext.json)
-
----
-
-### French Prime Minister Jebastian Legurn resigns
-
-*2025-10-06 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/227030) · `ta`
-
-He has suddenly resigned from his post as France's 47th prime minister on September 9, after just 27 days.
-
-Her resignation has caused further confusion in France's politics, with President Emmanuel Macron has accepted his resignation.
-
-At the same time, President Macron is reportedly considering who can choose the next Prime Minister of France.. The details of the appointment of the new Prime Minister have not yet been released.
-
-France has been stirred by the resignation of Legurnu, who was elected as the fourth prime minister within a year.
-
-◼️
-
-[Data](articles/f3732655.json)
-
-[Extended Data](ext_articles/f3732655.ext.json)
-
----
-
-### Three scientists get Nobel Prize in Medicine for discovery of peripheral immune tolerance
-
-*2025-10-06 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113257/three-scientists-get-nobel-prize-in-medicine-for-discovery-of-peripheral-immune-tolerance) · `en`
-
-Scientists Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi won the 2025 Nobel Prize in Physiology or Medicine for “their discoveries concerning peripheral immune tolerance”, the award-giving body said on Monday.
-
-This year’s prize “relates to how we keep our immune system under control so we can fight all imaginable microbes and still avoid autoimmune disease,” said Marie Wahren-Herlenius, a rheumatology professor at the Karolinska Institute.
-
-The winners for medicine are selected by the Nobel Assembly of Sweden’s Karolinska Institute medical university and receive a prize sum of 11 million Swedish crowns ($1.2 million), as well as a gold medal presented by Sweden’s king.
-
-Brunkow and Ramsdell are based in the United States, and Sakaguchi in Japan.
-
-“Their discoveries have laid the foundation for a new field of research and spurred the development of new treatments, for example for cancer and autoimmune diseases,” the prize-awarding body said in a statement.
-
-...
-
-[Data](articles/0daddd0d.json)
-
-[Extended Data](ext_articles/0daddd0d.ext.json)
-
----
-
-### Coughing is banned in 3 states in India
-
-*2025-10-06 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/227017) · `ta`
-
-Coughing is prohibited in three states in India. The ban has been issued as about nine children who drank coughing have died.
-
-The Madhya Pradesh Pharmaceutical Department of India on Saturday banned the cough produced in Tamil Nadu.
-
-Following the deaths of children, the Madhya Pradesh government wrote a letter to the Tamil Nadu government on October 1, in which the pharmaceutical company was asked to investigate.
-
-Subsequently, the Tamil Nadu Drug Control Department has confirmed that the "contamination" of cough medicine has been made.
-
-Local media reports that Tamil Nadu and its neighboring state of Kerala have banned medicine.
-
-Meanwhile, The Hindu has reported that the public has been warned of cough medicine in the southern state of Telangana.
-
-◼️
-
-[Data](articles/15d20400.json)
-
-[Extended Data](ext_articles/15d20400.ext.json)
-
----
-
-### Wimal Weerawansa did not come
-
-*2025-10-06 15:13:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-வீரவன்ச-வரவில்லை/175-365821) · `ta`
-
-Former minister and leader of the National Freedom Front, Wimal Weerawansa, was summoned to the Tangalle Regional Criminal Investigation Division at 10 am on Monday (06).  But it is known that he has not appeared today and has demanded another date.
-
-◼️
-
-[Data](articles/6af632a5.json)
-
-[Extended Data](ext_articles/6af632a5.ext.json)
 
 ---

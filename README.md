@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 13:20:26**
+As of **2025-10-06 13:57:15**
 
 ## Newspaper Stats
 
-*Scraped **81,495** Articles*
+*Scraped **81,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 619
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 848
+lankadeepalk | 857
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
@@ -21,17 +21,41 @@ adalk | 7,801
 adaderanalk | 10,468
 tamilmirrorlk | 12,100
 virakesarilk | 13,393
-adaderanasinhalalk | 14,006
+adaderanasinhalalk | 14,007
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,492 (100.0%) of 81,495 articles have been extended.
+81,502 (100.0%) of 81,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### An archaeological research in Somawathiya
+
+*2025-10-06 13:03:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සමවතයට-පරවදය-පරයෂණයතනයක/101-680789) · `si`
+
+President Anura Kumara Dissanayake declared open the two storied House with the newly built Archaeological Museum of Polonnaruwa.
+
+The Archaeological Museum and the International Archaeological Research Institute have been built for the convenience of all those who worship the historical research and educational research in Polonnaruwa.
+
+The two-hubs have been constructed with the full donation of the Chairman of the Department of Deshamanya Group Palama Langena, Chairman of the Manwatte Viharaya of the Historic Somathi Rajamaha Viharaya.
+
+The President visited the historic Somother today (06) and acquired religious observances.
+
+The President also opened the new two-hub of the Archaeological Museum and the International Archaeological Research Institute, which has been unveiled and the International Archaeological Research Institute has been placed there.
+
+Chairman of Ratna Group, Deshamanya Mithnappala Lanceepa Langee also presented a souvenir to the President.
+
+◼️
+
+[Data](articles/710ea53f.json)
+
+[Extended Data](ext_articles/710ea53f.ext.json)
+
+---
 
 ### 38-Year-Old Arrested in Hirana With Hashish Worth Over Rs. 8 Million
 
@@ -42,6 +66,50 @@ COLOMBO (News 1st):An individual with Hashish narcotic in his possession was arr
 ◼️
 
 [Data](articles/cc833817.json)
+
+[Extended Data](ext_articles/cc833817.ext.json)
+
+---
+
+### 32 doves stolen in Dehiwala Zoo
+
+*2025-10-06 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215399) · `si`
+
+The administration says that thirty-two doves have been stolen from the Dehiwala National Zoo.
+
+Deputy Director Hemantha Sarasekera said that he had lodged a complaint with the Dehiwala Police.
+
+The Deputy Director says that these animals have been stolen during the night or on Saturdays.
+
+The doves have collapsed on the collapse of the animals and have stolen the doves, which have been detained in the Dehiwala Zoo as suitable cases under the court order.
+
+Deputy Director Hemantha Samarasekera added that steps have been taken to ban the work of the area in charge of the sector of the Zoo.
+
+However, no information about the robbery has been reported so far, the Dehiwala Police said.
+
+◼️
+
+[Data](articles/96fce326.json)
+
+[Extended Data](ext_articles/96fce326.ext.json)
+
+---
+
+### Winds cut 30000 times lights
+
+*2025-10-06 12:59:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සළඟ-වසස-වර-30000ක-ලයට-කපල/101-680788) · `si`
+
+The CEB Press Spokesman Dhammika Wimalaratne said that about 30,000 electricity crashes throughout the country due to the existing bad weather conditions have occurred throughout the country.
+
+It is said that many of the collapses of electricity crashes due to large number of trees.
+
+Meanwhile, sources say that there is a delay in restoring electricity crashes due to the false work of electricity.
+
+◼️
+
+[Data](articles/3cdeeacf.json)
+
+[Extended Data](ext_articles/3cdeeacf.ext.json)
 
 ---
 
@@ -77,6 +145,28 @@ COLOMBO (News 1st): 46 rounds of ammunition used for a T-56 assault rifle have b
 
 [Data](articles/4e83f3dc.json)
 
+[Extended Data](ext_articles/4e83f3dc.ext.json)
+
+---
+
+### සෞඛ්‍ය ගැන ලොකු  තීරණ ගන්න ලෝක සැසියක් ලංකාවේ
+
+*2025-10-06 12:41:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සඛය-ගන-ලක-තරණ-ගනන-ලක-සසයක-ලකව/101-680787) · `si`
+
+ලෝක සෞඛ්‍ය සංවිධානයේ අග්නිදිග ආසියාව සඳහා වන 78 වන කලාපිය කමිටුව ලබන සතියේ කොළඹදී පැවැත්වීමට තීරණය කර ඇත.
+
+ශක්තිමත් ප්‍රාථමික සෞඛ්‍ය සේවා හරහා සෞඛ්‍ය සම්පන්න වයස්ගත වීම සහ දුම් රහිත දුම්කොළ වලට එරෙහිව සටන් කිරීම මෙම සැසියේදී සෞඛ්‍ය නායකයින් සාකච්ඡා කරනු ලබන කරුණු අතර ප්‍රමුඛ වේ.
+
+ඔක්තෝබර් 13 සිට 15 දක්වා පැවැත්වෙන මෙම සැසිය  ලෝක සෞඛ්‍ය සංවිධානයේ අග්නිදිග ආසියාවේ 78 වන කලාපිය කමිටු සැසියයි.
+
+අග්නිදිග ආසියානු කලාපීය සෞඛ්‍ය හදිසි අරමුදලේ සංචිතය පුළුල් කිරීම සහ ක්ෂුද්‍ර ජීවී ප්‍රතිරෝධයට එරෙහි ක්‍රියාමාර්ග වේගවත් කිරීම පිළිබඳව සාමාජික රටවල සෞඛ්‍ය අමාත්‍යවරුන් සහ ජ්‍යෙෂ්ඨ නිලධාරීන් මෙහිදී සාකච්ඡා කරනු ඇතැයි ද අපේක්ෂා කෙරේ.
+
+ලෝක සෞඛ්‍ය සංවිධානයේ අධ්‍යක්ෂ ජනරාල් වෛද්‍ය ටෙඩ්‍රොස් අට්නාම් ගෙබ්‍රෙයිසස්, ලෝක සෞඛ්‍ය සංවිධානයේ අග්නිදිග ආසියා ආයතන භාර නිලධාරී වෛද්‍ය කැතරිනා බොමේ ඇතුළු අනෙකුත් ලෝක සෞඛ්‍ය සංවිධානයේ විශේෂඥයින් ඉදිරි වසර සඳහා කලාපයේ සෞඛ්‍ය න්‍යාය පත්‍රය සකස් කිරීම සඳහා මෙම සැසියට සහභාගී වනු ඇත.
+
+...
+
+[Data](articles/27468e0e.json)
+
 ---
 
 ### President Inaugurates Somawathi Museum & International Archaeological Research Institute
@@ -88,6 +178,8 @@ COLOMBO (News 1st): The newly constructed Somawathi Archaeological Museum and th
 ◼️
 
 [Data](articles/0fba68be.json)
+
+[Extended Data](ext_articles/0fba68be.ext.json)
 
 ---
 
@@ -857,6 +949,22 @@ The 24 and 25-year-old residents of Piliyala have been handed over to the Police
 
 ---
 
+### කෝටියක හෂිෂ් සමඟ අයෙක් අල්ලයි
+
+*2025-10-06 08:31:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටයක-හෂෂ-සමඟ-අයක-අලලය/1-680777) · `si`
+
+රුපියල් කෝටියකට අධික වටිනා හෂිෂ් සමග පුද්ගලයෙක් අත්අඩංගුවට ගත් බව හිරණ පොලිසිය කියයි.
+
+එම පුද්ගලයා සන්තකයේ තිබී හෂිෂ් කිලෝ ගෑම්  1 ක්  උපයා ගත් බවට සැක කරන මුදල් රුපියල් 18000 ක් පොලිස් භාරයට ගෙන ඇත.
+
+පුද්ගලයකු මත්ද්‍රව්‍ය රැගෙන හිරන ඒජන්ත වංගුව  ප්‍රදේශයට පැමිණෙන බවට හිරන පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක සමීර සිල්වා මහතාට ලද තොරතුරකට අනුව සැකකරු අත්අඩංගුවට ගෙන ඇත.සැකකරු මීට මාස දෙකකට පමණ ඉහතදී එම ප්‍රදේශයේ නිවසකට ගල්කිස්ස ප්‍රදේශයේ සිට  කුලී පදනම මත පැමිණ ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/8e55a9c9.json)
+
+---
+
 ### Someone caught with Hashish on a corte
 
 *2025-10-06 08:31:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කටයක-හෂෂ-සමඟ-අයක-අලලය/101-680777) · `si`
@@ -1195,6 +1303,26 @@ However, it has been revealed that the number of people in 2024 in 2024 in 2024 
 
 ### Rain in many areas today
 
+*2025-10-06 06:52:14* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අදත-පරදශ-රසකට-වසස/1-680775) · `si`
+
+There are many areas in most parts of the evening a good atmosphere.
+
+Showers or thundershowers will occur at several places in the island.
+
+In the North, North, the East, Central and Uva provinces, there may be a few more likely showers in the Western and Uva provinces and in the Western and Uva districts.
+
+Strong winds and strong lightning informit the necessary steps to be taken to minimize the damages caused by lightning.
+
+◼️
+
+[Data](articles/b3324e70.json)
+
+[Extended Data](ext_articles/b3324e70.ext.json)
+
+---
+
+### Rain in many areas today
+
 *2025-10-06 06:52:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අදත-පරදශ-රසකට-වසස/101-680775) · `si`
 
 There are many areas in most parts of the evening a good atmosphere.
@@ -1234,6 +1362,26 @@ Speaking to reporters earlier, Trump said he thought the hostages would start to
 [Data](articles/31bd048a.json)
 
 [Extended Data](ext_articles/31bd048a.ext.json)
+
+---
+
+### Wap Pohoe is today
+
+*2025-10-06 06:44:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වප-පහය-අදය/1-680774) · `si`
+
+Buddhists begin with the charity of the charity that is awarded the Chinese. The Buddhists have special significance in the countries of Vesak, Poson and Eyal moon.
+
+The monk who lived only three months shortly before the invitation of the deficiencies in the same temple per year once a year is only three months shortly from the invitation of the sort of Buddhists.. Otherwise, no pinnacle can be pinnated.
+
+If one can ask a cynician Chinese and other china, how is this is a rare type. A discussion with Vajirama Vasagalarama Vasagalarama.
+
+In the past, the roland, a garment and a garment that is obtained on the same day, seems to be a difference in a sacrificial Chinese sacrifice. It is not a very rare sight of that, but not a change of paddy.
+
+...
+
+[Data](articles/39ff7181.json)
+
+[Extended Data](ext_articles/39ff7181.ext.json)
 
 ---
 
@@ -1279,6 +1427,26 @@ Showers may occur at a few places in Western and North-western provinces and in 
 
 ### Leaders to be appointed to Defense Secretary
 
+*2025-10-06 06:32:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පහටටව-නයකය-ආරකෂක-ලකම-පලසපත-හමවට/1-680773) · `si`
+
+The General Filling Fundamental Front has decided to discuss the safety of former President Mahinda Rajapaksa in the face of the coming meeting.
+
+Former President Mahinda Rajapaksa has come to the decision to protect the government by taking all the vehicles used by the government, the former President's spokesman Manoon said.
+
+The bulletproof and two other vehicles had been handed over to the former President.
+
+The media spokesman said that the security personnel of Mr. Mahinda Rajapaksa will not have the same vehicle or the same vehicle.
+
+◼️
+
+[Data](articles/0570fae1.json)
+
+[Extended Data](ext_articles/0570fae1.ext.json)
+
+---
+
+### Leaders to be appointed to Defense Secretary
+
 *2025-10-06 06:32:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහටටව-නයකය-ආරකෂක-ලකම-පලසපත-හමවට/101-680773) · `si`
 
 The General Filling Fundamental Front has decided to discuss the safety of former President Mahinda Rajapaksa in the face of the coming meeting.
@@ -1318,6 +1486,30 @@ State Counsel Osanasi Regarazer, President's Counsel, appearing on behalf of the
 [Data](articles/30b0c014.json)
 
 [Extended Data](ext_articles/30b0c014.ext.json)
+
+---
+
+### Ravi - Two cases against Alosus
+
+*2025-10-06 06:26:54* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රවට-ඇලසයසට-එරහ-නඩ-දකක-වභගයට/1-680772) · `si`
+
+The former Finance Minister Ravi Karunanayake and Arjun Agel Allegations have to be heard on November on November 28, regarding the purchase of apartment.
+
+The argument was the argument that was contrary to the definition of the Constitution, the former Cabinet could not be prosecuted under the Bribery Act.
+
+The High Court sentenced the date to reject the accused party and to hear the case.
+
+The case has been filed by the Bribery or Corruption Commission to pay more than Rs.
+
+Two directors and directors of the company who sold the Great Housing regarding this allegation include two directors of the Great Housing.
+
+State Counsel Osanasi Regarazer, President's Counsel, appearing on behalf of the adoptive party, appeared for the complaint.
+
+◼️
+
+[Data](articles/a5086b32.json)
+
+[Extended Data](ext_articles/a5086b32.ext.json)
 
 ---
 
@@ -1846,189 +2038,5 @@ Shortly after its inception, TV Derana introduced ‘Derana Little Star’, a gr
 [Data](articles/4183a21a.json)
 
 [Extended Data](ext_articles/4183a21a.ext.json)
-
----
-
-### Medical and Dental Treatments were held at Mannar Basal on the 75th anniversary of the Sri Lankan Navy
-
-*2025-10-05 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/226980) · `ta`
-
-The Navy has organized a special event from October 5 to December 26, to commemorate the 75th anniversary of the Sri Lanka Navy, which is celebrated on December 9, 2025.. At the beginning of the series, a special mobile and dental treatment organized by the Army Medical Association, Naval Medical and Dental Department was held on Sunday (October 5, 2025) at Mannar Basal.
-
-Accordingly, under the guidance of Navy Commander Vice Admiral Consana Banagoda, organized by the Army Medical Association, Naval Medical and Dental Department, in these specially mobile and dental treatments; Emergency, outpatient therapy, pediatric treatment, reproductive health, eye care, orthopedic therapy, surgery, general disease, dental treatment, throat/ear/nasal treatment, leather medical treatment and psychological counseling and blood testing facilities were provided by Mobile Studies.
-
-...
-
-[Data](articles/2e373298.json)
-
-[Extended Data](ext_articles/2e373298.ext.json)
-
----
-
-### The CID says he will make a statement from the son of Khajja
-
-*2025-10-05 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215379) · `si`
-
-The Criminal Investigation Department (CID) had recently told the CID that he was a suspicious car of a suspicious accident behind the death of Rugby Playing Thajuddan.
-
-However, Kjja's 17-year-old son appeared in the face of the media, refused to look at the video and asked why the video was not inspected to relatives of his father.
-
-However, the CID yesterday stated that investigations have been proven to the jeep traveling to the jeep of the jeep before the killing of his car before the killing of his car before the killing of his car before the killing of his car before the killing of his car before the killing of Thajadeen.
-
-The Criminal Investigations Department (CID) says that due to the controversial statement of this contextual statement, the Criminal Investigations Department (CID) says.
-
-...
-
-[Data](articles/c2e2e96e.json)
-
-[Extended Data](ext_articles/c2e2e96e.ext.json)
-
----
-
-### Syunukorerus caught the entire village pyramids
-
-*2025-10-05 20:15:18* · [`adalk`](https://www.ada.lk/opinion/හදුන්කුරක්-නිසා-මුළු-ගමක්ම-පිරමීඩ-ජාවාරමකට-හසුවෙයි/2-418927) · `si`
-
-All people in Pannalgama village located in the Damana Divisional Secretariat Division have become a pyramid racket. Nearly a few months ago, a location of Paradagama village in Pannalgama has launched a house in the village.
-
-Shortlynly, it was launched as a introductory business and given a chance to participate in the village.
-
-When a person deposits a sum of Rs.
-
-Donated the village of Pannalgama, and a large number of Rs.
-
-The business was also published in the village everywhere in the village and elected representatives to each position and obtain funds through the representatives.
-
-The racketeer subsequently increased Rs.
-
-The business of the village was a huge advantage of the business, the people of the village mortgaged their paddy fields and parked the interests of Rs.
-
-When the raw materials needed for a while, some people have taken their refunds and demanded that others will provide ingredients.
-
-...
-
-[Data](articles/ff7c333e.json)
-
-[Extended Data](ext_articles/ff7c333e.ext.json)
-
----
-
-### 20 years for Derana
-
-*2025-10-05 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215378) · `si`
-
-Adaction of the Television Channels, which have been informed of our heritage in an era where the rest of the television media has been able to explore new concepts is on October 11, 2005.
-
-Derana Today, Televic, Recreation, News, Time and Political Programs, Sri Lanka's reality telephones, as well as the arts of Sri Lanka is overcome.
-
-TV Derana introduced the 'Derana Little Star' to the national level of the Sri Lankan children's generation to national level.
-
-Until then, the country has made the first and the same reality competitions in the international standard of the country.
-
-Miss Srilanka For MISS Univers Tournament in 2006. Derana, Derana Drena Star, Derana Drena City Of Dance, Derana 60 plus, including Drana Film Awards, and Pranama.
-
-The leading TV Dealers, the leader of the artistic art, was highly prosperous to the Sri Lankan television art through teledramas such as second innings, music, school.
-
-...
-
-[Data](articles/89147a77.json)
-
-[Extended Data](ext_articles/89147a77.ext.json)
-
----
-
-### Amber Alert Issued For Severe Lightning Across Several Provinces
-
-*2025-10-05 19:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/amber-alert-issued-for-severe-lightning-across-several-provinces) · `en`
-
-COLOMBO (News 1st); The Department of Meteorology has issued an amber advisory for severe lightning. Accordingly, Thundershowers accompanied with severe lightning are likely to occur in Northern, Northcentral, Eastern, Uva and North-western provinces and in Matale district.There may be temporary localized strong winds during thundershowers. General public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-◼️
-
-[Data](articles/40960b20.json)
-
-[Extended Data](ext_articles/40960b20.ext.json)
-
----
-
-### World Residential Day Events led by President at the Alary House
-
-*2025-10-05 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226979) · `ta`
-
-World Residential Day events were held on Sunday morning (05) at the Alari House under the patronage of President Anuragumara Dissanayake.
-
-Under the theme of 'Own Own - A Beautiful Life', its national event was held and the residential week was announced from October 01-05 and various projects were implemented.
-
-The President handed over a thousand houses completed under electronic technology through electronic technology to construct houses for about 4,000 poor families who do not have funds for the construction of houses.
-
-Under the intervention of the UN Habitat Sri Lanka Office, the Identification of the Ambatale Water Supply Scheme, which is implemented under the help of the Government of India's Coalition for Disaster Resilient Infrastructure (CDRI), was officially handed over to the President.
-
-...
-
-[Data](articles/75216872.json)
-
-[Extended Data](ext_articles/75216872.ext.json)
-
----
-
-### Gunmen kill two, injure 12 in shootout in crowd in Alabama’s Montgomery
-
-*2025-10-05 19:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113238/gunmen-kill-two-injure-12-in-shootout-in-crowd-in-alabamas-montgomery) · `en`
-
-Rival gunmen started shooting at each other in a crowded downtown nightlife district in Alabama’s capital city Montgomery on Saturday night, killing two people and injuring 12 others, police said.
-
-Montgomery Police Chief James Graboys said three of the injured were hospitalized with life-threatening injuries. Police were called around 11:30 p.m. to what Graboys described as a “mass shooting.”
-
-“This was two parties involved that were basically shooting at each other in the middle of a crowd,” Graboys told reporters near the scene.
-
-The shooters, he said, “did not care about the people around them when they did it.”
-
-Police had reported no arrests Sunday morning, and hadn’t released details about how many people had fired or what kinds of weapons had been used.
-
-...
-
-[Data](articles/f40816e3.json)
-
-[Extended Data](ext_articles/f40816e3.ext.json)
-
----
-
-### Sailor from India missing from merchant ship off Sri Lankan coast – report
-
-*2025-10-05 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/113237/sailor-from-india-missing-from-merchant-ship-off-sri-lankan-coast-report) · `en`
-
-A 22-year-old merchant navy cadet from India has gone missing off the coast of Sri Lanka while serving aboard an oil tanker, his family confirmed on Saturday.
-
-Karandeep Singh Rana disappeared on September 20 during the vessel’s voyage from Iraq to China, with a planned stop near Sri Lanka, according to his father, Narendra Singh Rana.
-
-Karandeep had left Dehradun on August 18 and travelled to Singapore, where he boarded the tanker bound for Iraq. From there, the ship set sail towards China via Sri Lanka.
-
-Narendra, a resident of Dehradun’s Patel Nagar area, explained that the family was informed by the Mumbai office of Executive Ship Management (ESM) at around 9.30 pm on September 20 that Karandeep had gone missing despite extensive searches.
-
-“We were shocked to hear this because we had spoken to him that afternoon and he was perfectly fine,” he told PTI.
-
-After further inquiries, company officials told the family that Karandeep had gone to the deck alone and had not been found since.
-
-...
-
-[Data](articles/6e1d13e0.json)
-
-[Extended Data](ext_articles/6e1d13e0.ext.json)
-
----
-
-### Key fintech forum aims to foster collaboration between banks and technology companies
-
-*2025-10-05 18:55:00* · [`islandlk`](http://island.lk/key-fintech-forum-aims-to-foster-collaboration-between-banks-and-technology-companies/) · `en`
-
-In a move to accelerate the evolution of digital financial services, the newly formed Fintech Forum is poised to become a central hub for strengthening collaboration between banks and technology companies in Sri Lanka.According to Sumudu Gunawardhana, Chief Information Officer of Commercial Bank of Ceylon PLC, the Forum creates a vital space for dialogue and partnerships. This comes at a time when banks are actively shifting from being mere custodians of money to becoming comprehensive lifestyle partners for their customers.
-
-“The focus is on growing wallet share. Banks aspire to be the central hubs of consumer spending, evolving into aggregators of services,” Gunawardhana explained. “A bank cannot make and sell all these things consumers want to buy. That is where fintechs play an important role.”
-
-...
-
-[Data](articles/85ea629a.json)
-
-[Extended Data](ext_articles/85ea629a.ext.json)
 
 ---

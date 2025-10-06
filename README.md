@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 08:25:07**
+As of **2025-10-06 09:23:34**
 
 ## Newspaper Stats
 
-*Scraped **81,417** Articles*
+*Scraped **81,423** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 610
 dbsjeyarajcom | 637
-bbccomsinhala | 724
+bbccomsinhala | 725
 colombotelegraphcom | 811
 lankadeepalk | 826
 dailymirrorlk | 4,733
@@ -21,17 +21,133 @@ adalk | 7,795
 adaderanalk | 10,460
 tamilmirrorlk | 12,083
 virakesarilk | 13,393
-adaderanasinhalalk | 13,992
+adaderanasinhalalk | 13,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,417 (100.0%) of 81,417 articles have been extended.
+81,423 (100.0%) of 81,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### A shot in Sydney
+
+*2025-10-06 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215389) · `si`
+
+Foreign media reports that 20 shots have been injured in a street shooting in Sydney, Australia.
+
+The 60-year-old man has been arrested in connection with the shooting.
+
+The victim has been launched by the person nearly 100 shots and the police have also targeted the police vehicles.
+
+◼️
+
+[Data](articles/7644d983.json)
+
+[Extended Data](ext_articles/7644d983.ext.json)
+
+---
+
+### All parties involved in the end of the war to terminate the war should move forward - Trump
+
+*2025-10-06 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215388) · `si`
+
+US President Donald Trump has said that all parties involved in the end of the war and the efforts to end the intermediate of the war between the Hamas and Israel are due to meet the war.
+
+The US president has made this statement in a tuth social account.
+
+The release of hostages and the Gaza regime is due to the conclusion of the Hamas for some of the two parties of the US peace plan.
+
+The American president said that the negotiations are very effective and the first phase should be completed this week and as soon as they will be able to come forward and explain to Egypt to explain final information.
+
+The US president's note that the time has been observed for many years and is the most important of the time, or the largest bloodshed.
+
+Meanwhile, a group of Hamas' Head of Hamas Girl Al-- Hayali has come to Egypt yesterday (06) for discussions to stop clashes.
+
+The first visit to Egypt after the survivor of the Qur'atiya, the capital of Qatar, was survived by the Qatar's capital.
+
+...
+
+[Data](articles/f7c5f7da.json)
+
+[Extended Data](ext_articles/f7c5f7da.ext.json)
+
+---
+
+### Four dates from the place
+
+*2025-10-06 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215387) · `si`
+
+A fatal accident occurred in the Gurukwela area on the Daluwatauwa area on Bingiriya police division.
+
+The accident had occurred when a motorcycle driven is not controlled by the motorcyclist.
+
+The motorcyclist and the victim was seriously injured and admitted to the Kuliyapitiya Hospital.
+
+The victim is a 23 year old resident of the Nagollagoda area.
+
+A woman was killed in a car accident who was traveling to Tissamaharama in the Tissamaharama road in the Tissamaharama road.
+
+The victim was a 51 year old resident of the Moragollagama area.
+
+The driver of the three wheeler has been arrested in connection with the accident and the Hungama Police are conducting further investigations.
+
+A 34-year-old man was elected in Karainagar Deely-Karumki Welii Velheliya Velheliya Velheliya.
+
+The accident had occurred when a motorcycle driven out of the arrawal junction and a motorcycle to control the board.
+
+...
+
+[Data](articles/785daa89.json)
+
+[Extended Data](ext_articles/785daa89.ext.json)
+
+---
+
+### Thunder showers in several areas
+
+*2025-10-06 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215386) · `si`
+
+Showers or thundershowers will occur at several places in many parts of the island.
+
+In some places in the North, North, East, Eastern, Central and Uva provinces. Heavy showers may occur more than 50.
+
+The statement will also occur in the Western and North Western Provinces and in the Galle and Matara districts.
+
+The Department of Meteorology has notified the public to take necessary steps to minimize the damaged wings and strong lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/60f087f1.json)
+
+[Extended Data](ext_articles/60f087f1.ext.json)
+
+---
+
+### Today is the prices of Poya Day today
+
+*2025-10-06 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215385) · `si`
+
+Sashana history states that the Buduru, the Buduru, who was working to the restore to the rescue, and said that the Mahavadi has been working to the merge.
+
+During the Visa Season, the monks of the prevalence of the monks to a three months will be held in the current day.
+
+Vop-Pun Day is a highway of Buddhist events, the southern branch of the Southern Bodhiya and the Southern Bodhiya Bodhiya Bodhiya Bodhiya in the Winder Bodhiya. The phenomena occurred today at Wape-tuns.
+
+Meanwhile, Dhamma preaching program organized by TV Derana is being carried out throughout the day today at the Sri Lanka National Institute of Puraithara.
+
+Furthermore, the 127th Harvesting of Life, Polonnaruwa Galuphara Theater centered on the Sri Vijayarama Viharaya, will be held today.
+
+◼️
+
+[Data](articles/9c26ceac.json)
+
+[Extended Data](ext_articles/9c26ceac.ext.json)
+
+---
 
 ### The weather today
 
@@ -166,6 +282,30 @@ Two elderly people were injured on a motorcycle during the accident. Chunnakam p
 [Data](articles/d4fb5cfe.json)
 
 [Extended Data](ext_articles/d4fb5cfe.ext.json)
+
+---
+
+### Vehicles prices down: 90 days of importers in crisis; 'Good chance to get a vehicle for less'
+
+*2025-10-06 01:31:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cm2zr4z0xkxo) · `si`
+
+Vehicles prices down: 90 days of importers in crisis; 'Good chance to get a vehicle for less'
+
+Nearly 8 months have passed since the government granted permission to import vehicles. The government was permitted to import vehicles on January 28 years later.
+
+With the arrival of new vehicles, the vehicle prices were highly enthusiastic and the vehicle prices were on the rise.
+
+With the importation of new vehicles, many buyers accused the prices of used vehicles used in the country to increase a rapidly.
+
+There is a talk that vehicle prices have fallen largely declined in the local market after an 8 months of authorization to import vehicles.
+
+The vehicles importer, Sameera, told the Sinhala service, that the price of vehicles sold in the market worth Rs.. He said that the price of vehicles sold in the price range of Rs 200 lakhs range of vehicles were reduced between Rs.
+
+...
+
+[Data](articles/4ad6f757.json)
+
+[Extended Data](ext_articles/4ad6f757.ext.json)
 
 ---
 
@@ -1832,127 +1972,5 @@ The Department of Meteorology is kindly requested to take necessary steps to min
 [Data](articles/78a0af45.json)
 
 [Extended Data](ext_articles/78a0af45.ext.json)
-
----
-
-### A couple arrested in Kandy
-
-*2025-10-05 13:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-கை-வைத்த-ஜோடி-கைது/76-365758) · `ta`
-
-Police say they have arrested a young married couple who allegedly stole the actual jewelery for allegedly buying jewelry in a jewelery shop in Kandy.
-
-Following a telephone call from a jewelery shop in Kandy, the Kandy Police Headquarters Crime Branch immediately accepted the invitation and arrested the suspected couple while hiding the stolen jewelery.
-
-The couple from the Talathuoya Etalgama area are aged 20-22, police said.. According to information received from them, a share of stolen jewelery stolen jewelery at major banks in Kandy has been recovered, and police investigations are underway to find out if any other jewelery shops have gone.
-
-◼️
-
-[Data](articles/f5269901.json)
-
-[Extended Data](ext_articles/f5269901.ext.json)
-
----
-
-### 731 per permanent postal assistant to the Department of Posts
-
-*2025-10-05 13:33:21* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-දෙපාර්තුමේන්තුවට-ස්ථිර-තැපැල්-සහයක-731-ක්/11-418921) · `si`
-
-731 persons have been selected to the post of postal assistant in Grade III of the Department of Postal Department (III) III of the Department of Movement. Awarding permanent appointment letters to the selected group will be held under the patronage of Health and Mass Media Dr. Nalinda Jayatissa on Monday (015.10.20).
-
-After the year 2021, the Sri Lanka Postal Assembly has not been recruited to the Sri Lanka Postal Department and by the end of the previous year.. The departmental work with such a number of vacancies has arisen and has approved Cabinet approval on August 19, 2025 at the request of Health and Mass Media Dr. Nalinda Jayatissa to recruit 1000 vacancies as a solution.
-
-Accordingly, out of which 731 persons were selected to recruit the proper qualifications as registered as substitute employees of the Department of Posts.. The Ministry of Health and Mass Mediti has already taken action to recruit 269 other postvers.
-
-◼️
-
-[Data](articles/fc97c31b.json)
-
-[Extended Data](ext_articles/fc97c31b.ext.json)
-
----
-
-### Advisory issued for severe lightning
-
-*2025-10-05 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113232/advisory-issued-for-severe-lightning) · `en`
-
-An ‘Amber’ advisory has been issued by the Department of Meteorology for severe lightning in several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in the Northern, North-central, Eastern, Uva and North-western provinces and in Matale district, the department stated.
-
-There may be temporary localized strong winds during thundershowers, it added.
-
-Accordingly, the general public has been requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public has also been requested to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, and also to refrain from using wired telephones and connected electric appliances during thunderstorms.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/d22bb58c.json)
-
-[Extended Data](ext_articles/d22bb58c.ext.json)
-
----
-
-### Surya's Mandadi telephone accident: Rs 1 crore damage
-
-*2025-10-05 13:27:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சூரியின்-மண்டாடி-படப்பிடிப்பில்-விபத்து-ரூ-1-கோடி-சேதம்/54-365757) · `ta`
-
-Suri starring in the shooting of Mandadi. The accident seems to have been damaged by shooting equipment worth Rs 1 crore.
-
-Suri starring Mathimaran. The shooting is taking place in the surrounding area of ​​Ramanathapuram. The film crew filmed the main scenes in the sea area. Unexpectedly, the camera fell into the boat and crashed. Two people in the boat were drowned in the sea. The people around them were safely rescued. There was no casualties in the accident.
-
-But, the cameras fell in the seawater caused severe damage. It is estimated to be worth up to Rs 1 crore.
-
-This is because the film crew has been filming the high -end camera called Red Digital. Although the film crew is shocked by the accident. The police are investigating the matter.
-
-Suhas, Mahima Nambiar, Achut Kumar, Ravinda Vijay, Sathyaraj and many others are starring in the film.. The film is being produced by Elret Kumar. Its cinematographer SR Kathir and GV Prakash as the composer.
-
-◼️
-
-[Data](articles/da803077.json)
-
-[Extended Data](ext_articles/da803077.ext.json)
-
----
-
-### Harsha question on the change of interest percentage
-
-*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-சதவீத-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
-
-Dr. Harsha de Silva, Chairman of the Public Finance Committee (COPF), has expressed concern over the proposal to change the interest rate of the central highway project. He warned that this could increase the country's borrowing costs.
-
-He posted in X in x, said the LKR 226 billion project, which was already burdened with delayed and growing interest payments, has been reviewed due to continuous financial and contract uncertainty.
-
-Although the project was renovated under President Anura Kumara Dissanayake, he said that the negotiations with the main contractor MCC, their claims, and the Chinese EXIM bank on the revised US $ 500 million loan facility were incomplete.
-
-D Silva said the group was confused by the proposal of the Ministry of Highways to convert from 2.5% of the current 15 -year standard interest percentage, of which 2.5% of the basic interest and 3.5% ceiling.
-
-...
-
-[Data](articles/2cc9fc49.json)
-
-[Extended Data](ext_articles/2cc9fc49.ext.json)
-
----
-
-### Harsha question on the change of interest rate configuration
-
-*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-விகித-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
-
-Dr. Harsha de Silva, Chairman of the Public Finance Committee (COPF), has expressed concern over the proposal to change the interest rate structure of the central highway project. He warned that this could increase the country's borrowing costs.
-
-He posted in X in x, said the LKR 226 billion project, which was already burdened with delayed and growing interest payments, has been reviewed due to continuous financial and contract uncertainty.
-
-Although the project was renovated under President Anura Kumara Dissanayake, he said that the negotiations with the main contractor MCC, their claims, and the Chinese EXIM bank on the revised US $ 500 million loan facility were incomplete.
-
-D Silva said the group was confused by the proposal of the Highway Ministry to convert the current 15 -year standard interest from 2.5% to 2.5%, of which 2.5% of the base interest and a 3.5% ceiling of 3.5%.
-
-...
-
-[Data](articles/b1a1d392.json)
-
-[Extended Data](ext_articles/b1a1d392.ext.json)
 
 ---

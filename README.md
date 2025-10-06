@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 11:07:29**
+As of **2025-10-06 11:40:59**
 
 ## Newspaper Stats
 
-*Scraped **81,455** Articles*
+*Scraped **81,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,79 @@ islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,800
 adaderanalk | 10,460
-tamilmirrorlk | 12,088
+tamilmirrorlk | 12,090
 virakesarilk | 13,393
-adaderanasinhalalk | 14,001
+adaderanasinhalalk | 14,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,453 (100.0%) of 81,455 articles have been extended.
+81,459 (100.0%) of 81,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### A student drowns in swimming pool
+
+*2025-10-06 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215395) · `si`
+
+A schoolgirl who went to take the ball to fall into the swimming pool was drowned in the swimming pool.
+
+The student was playing cricket in the school at the school stadium with another group of students.
+
+The deceased has been identified as 17 year old schoolgirl at the age of 12, Dickwella Vijitha Maha Vidyalaya.
+
+The deceased Dickwella police are conducting further investigations.
+
+◼️
+
+[Data](articles/489d47b1.json)
+
+[Extended Data](ext_articles/489d47b1.ext.json)
+
+---
+
+### Birth and marriage decreased in the country
+
+*2025-10-06 10:55:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-பிறப்பும்-திருமணமும்-குறைந்துள்ளது/175-365799) · `ta`
+
+The number of births in the country declined by 80,945 in 2024 compared to 2020, the Registrar General Department said.
+
+Most of the births were recorded in the Colombo district by 2024, while the lowest births were reported in the Mullaitivu area.
+
+According to the Registrar's Department, the number of deaths has increased significantly from 2021 to 2024.
+
+According to reports, the number of marriages in 2023 has declined by 12,066 compared to 2023.
+
+◼️
+
+[Data](articles/8b7218ed.json)
+
+[Extended Data](ext_articles/8b7218ed.ext.json)
+
+---
+
+### Postal Associations protest against post-mail fraud
+
+*2025-10-06 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215394) · `si`
+
+Postcalcular Societies say that the PostCard is obviously displeased with postal employees.
+
+Accordingly, the Chairman of the Postal and Telecommunication Office Association, JGC Nirosena said that he would oppose the announcement of the postmary of the Postcaries on the 9th.
+
+Meanwhile, the Co-convener of the Joint Post Trade Union Front, Chinthanka Bandara also stated that he strongly opposed the allegations of the postal employees without any investigation.
+
+Speaking at a ceremony in the Haputale area, Mr. Ruwan Sayakumara recently added that the postal employees had obtained Rs.
+
+...
+
+[Data](articles/a4e82064.json)
+
+[Extended Data](ext_articles/a4e82064.ext.json)
+
+---
 
 ### Former Minister Wimal Weerawansa Postpones Appearance at Tangalle Crimes Unit
 
@@ -44,6 +104,22 @@ COLOMBO (News 1st): Former Minister Wimal Weerawansa has informed authorities th
 [Data](articles/a37de845.json)
 
 [Extended Data](ext_articles/a37de845.ext.json)
+
+---
+
+### Bisexuals
+
+*2025-10-06 10:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உள்ளக-போட்டியில்-இணைந்த-இரு-உள்ளங்கள்/44-365797) · `ta`
+
+Captain Na Patel of England Men's Internal Cricket Team and England women's internal cricket team, Mallori Bartos, who has come to participate in the 2025 World Cricket Tournament in Sri Lanka.
+
+The newlyweds changed wedding rings in the presence of their family members at Mount Lavinia Hotel. The 2025 ICC Internal World Cup is currently being held at the Australian Internal Cricket Ground in Talawatukoda.
+
+◼️
+
+[Data](articles/85186cd2.json)
+
+[Extended Data](ext_articles/85186cd2.ext.json)
 
 ---
 
@@ -359,33 +435,37 @@ The first visit to Egypt after the survivor of the Qur'atiya, the capital of Qat
 
 ---
 
-### නෞකා ආරක්ෂාව ලබාදීමට නාවික හමුදාව ගිවිසුම්ගත වෙයි
+### Navy contracts to provide shipping protection
 
 *2025-10-06 07:36:55* · [`adalk`](https://www.ada.lk/breaking_news/නෞකා-ආරක්ෂාව-ලබාදීමට-නාවික-හමුදාව-ගිවිසුම්ගත-වෙයි/11-418932) · `si`
 
-නෞකා ආරක්‍ෂක කණ්ඩායම් (Onboard Security Team - OBST) වෙනුවෙන් ගිනිඅවි, උණ්ඩ සහ අනෙකුත් උපාංග ශ්‍රී ලංකා නාවික හමුදාවට අයත් අවි ගබඩා තුල ගබඩා කිරීම සහ එකී ගිනිඅවි, උණ්ඩ සහ අනෙකුත් උපාංග මෙහෙයුම් අවශ්‍යතා අනුව ශ්‍රී ලංකා නාවික හමුදාවේ අධීක්‍ෂණය හා ආරක්‍ෂාව යටතේ විදේශීය පෞද්ගලික ආරක්‍ෂක සමාගම් වල දේශීය නියෝජිතයන් විසින් සපයනු ලබන වාහන හෝ යාත්‍රා උපයෝගී කර ගනිමින් ප්‍රවාහනය කිරීම ඇතුළු කටයුතු වෙනුවෙන්  පහසුකම් සැලසීම සඳහා, ශ්‍රී ලංකා නාවික හමුදාව සමුද්‍රීය ආරක්‍ෂක මෙහෙයුම් සිදුකරනු ලබන විදේශීය සමුද්‍රීය ආරක්‍ෂක සමාගම් දෙකක (02) දේශීය නියෝජිතයෙක්‍ හා ගිවිසුම්ගත විය.
+Firearms and other devices for the OBST security teams, Sri Lanka Navy operates in the Sri Lankan Navy's arms, ammunition and other accessories, and other accessories, and the foreign private security operations. Two (02) of two marine security companies were contracted.
 
-සමුද්‍රීය ආරක්‍ෂක මෙහෙයුම් කටයුතු ස්වාධීනව සිදුකිරීම සඳහා ජාතික සුභසිද්ධිය වෙනුවෙන් ඇති අවශ්‍යතාවය සැලකිල්ලට ගනිමින්, ජනාධිපතිවරයා විසින් ශ්‍රී ලංකා නාවික හමුදාවට ඒ සඳහා බලය පවරන නියමයක්, අංක 2449/27 දරණ අති විශේෂ ගැසට් පත්‍රය මඟින්  2025 අගෝස්තු මස 13 වැනි දින නිකුත් කෙරුණු  අතර, ඒ සම්බන්ධයෙන් පාර්ලිමේන්තුව දැනුවත් කිරීමද සිදුකර ඇත.තවද, මෙම ව්‍යාපෘතිය වෙතින් ලැබෙන සියලූම ආදායම් රජයේ එකාබද්ධ අරමුදල වෙත බැර වෙයි.
+The President was released by the Sri Lanka Navy, with the information on the Jana Navy, the JVP No. 2449/27 by the President of the Sri Lanka Navy, which was held on 2449/27.
 
 ◼️
 
 [Data](articles/a7fa0f67.json)
 
+[Extended Data](ext_articles/a7fa0f67.ext.json)
+
 ---
 
-### ස්ථාන දෙකෙකදී දුම්රියේ ගැටීමෙන් පුද්ගලයන් දෙදෙනෙක් මරුට
+### Two killed in train accident
 
 *2025-10-06 07:30:56* · [`adalk`](https://www.ada.lk/breaking_news/ස්ථාන-දෙකෙකදී-දුම්රියේ-ගැටීමෙන්-පුද්ගලයන්-දෙදෙනෙක්-මරුට/11-418931) · `si`
 
-ස්ථාන දෙකකදී ඊයේ දිනයේදී දුම්රියේ ගැටීමෙන් සිදුවූ අනතුරු දෙකකින් පුද්ගලයන් දෙදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+Two persons were killed in two accidents yesterday.
 
-මන්නාරම - ඊයේ අළුයම් කාලයේ මන්නාරම පොලිස් වසමේ පුදුකුඩිඉරුප්පු ප්‍රදේශයේදී තලෛමන්නාරම සිට කොළඹ කොටුව දක්වා ධාවනය වූ දුම්රියක ගැටී පුද්ගලයෙකු මියගොස් ඇති බවට මන්නාරම පොලිස් ස්ථානයට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර ඇත. මරණකරු වයස අවුරුදු‍ 32 ක් වූ පුදුකුඩිඉරුප්පු ප්‍රදේශයේ පදිංචිකරුවෙකි.  මෘත ශරීරය පශ්චාත් මරණ පරීක්‍ෂණයෙන් පසු ඥාතීන්ට භාර දී ඇති අතර මන්නාරම පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+Mannar - Thaladharipitiya to Colombo Fort. The deceased is a 32 year old resident of Pudukuduirippu.  The body has been handed over to relatives after the post mortem and Mannar Police are conducting further investigations.
 
-කඩුගන්නාව - ඊයේ සවස් කාලයේ කඩුගන්නාව පොලිස් වසමේ කඩුගන්නාව දුම්රියපොල ආසන්නයේදී මහනුවර සිට පොල්ගහවෙල දක්වා ධාවනය වූ දුම්රියක පුද්ගලයෙකු ගැටී මියගොස් ඇති බවට කඩුගන්නාව පොලිස් ස්ථානයට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර ඇත. මරණකරු වයස අවුරුදු‍ 27 ක් වූ කනත්තොට, අකුරැස්ස ප්‍රදේශයේ පදිංචිකරුවෙකි.  මෘත ශරීරය පේරාදෙණිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කඩුගන්නාව පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+Kadugannawa - Ven.. The deceased is a resident of Akuressa, Kanattota, aged 27.  The remains are placed at the Peradeniya hospital morgue and the Kadugannawa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/68f4317a.json)
+
+[Extended Data](ext_articles/68f4317a.ext.json)
 
 ---
 
@@ -1902,83 +1982,5 @@ The interests of the importance of the island of Sri Lanka should be experienced
 [Data](articles/c0e26187.json)
 
 [Extended Data](ext_articles/c0e26187.ext.json)
-
----
-
-### Karur disaster and Vijay's political future
-
-*2025-10-05 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226952) · `ta`
-
-Temple festivals, religious gatherings, sports and railway stations in India are not new.. They can be said to be frequent disasters. People have died in jam even in sports and some film launch events.
-
-◼️
-
-[Data](articles/7f3b28fa.json)
-
-[Extended Data](ext_articles/7f3b28fa.ext.json)
-
----
-
-### Elpitiya was not shot dead by police
-
-*2025-10-05 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215372) · `si`
-
-Elpitiya last night's house was launched last night.
-
-In a statement, the Police Media Division stated that this was revealed at investigations carried out in the house.
-
-The Elpitiya Police had received a complaint that the house was damaged by a window in front of a nearby house due to a shooting.
-
-Accordingly, Elpitiya Police and Criminal Investigations Officers have conducted investigations have been carried out.
-
-Investigations carried out by the Elpitiya Criminal Investigations Officers of the Elpitiya Crimes Officers have revealed that this is not the case due to a shooting.
-
-Investigations have revealed that the eruption caused by exploding after being prepared and dipped with a tube, a 'mobolizer and a' burst.
-
-Further investigations are underway into the incident and is due to the Government Analyst's Analyst.
-
-◼️
-
-[Data](articles/bb25549b.json)
-
-[Extended Data](ext_articles/bb25549b.ext.json)
-
----
-
-### The National People's Power Government is not exceptional
-
-*2025-10-05 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226951) · `ta`
-
-In the Mannar affair, Tamil political parties stand behind the people where they need to stand in front of the people. இது மிகவும் கவலைக்குரியதாகும்.
-
-◼️
-
-[Data](articles/18ad18f4.json)
-
-[Extended Data](ext_articles/18ad18f4.ext.json)
-
----
-
-### 1000 low income families vested with the public
-
-*2025-10-05 16:12:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අඩ-ආදයමලභ-නවස-1000ක-ජනත-අයතයට/101-680761) · `si`
-
-World Resources Day National Commerce was held at Temple Trees today (5) under the patronage of President Anura Kumara Dissanayake.
-
-The National Celebration was held under the theme "A Beautiful Life" in parallel to the United Nations World Hostering Day.
-
-The President also handed over a half of the working houses throughout the country to build houses for nearly 4,000 poor families who have not been able to build a house to build a house.
-
-The official handing over the Symptorian Award to the President is to implement the CDR Water Supply Project to implement the Indian government and Coalition For Disaster Resproductrust (CDRI) by the intervention of the UN Habitat.
-
-Giving housing deeds on various reasons
-
-The President also presented awards to winners of the winners and the winners of the winners and the Urban Development Authority, which was widely implemented by the World Holding Day.
-
-...
-
-[Data](articles/27c95ea9.json)
-
-[Extended Data](ext_articles/27c95ea9.ext.json)
 
 ---

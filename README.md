@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 19:38:45**
+As of **2025-10-06 20:09:20**
 
 ## Newspaper Stats
 
-*Scraped **81,611** Articles*
+*Scraped **81,612** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 626
+newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
@@ -27,27 +27,43 @@ adaderanasinhalalk | 14,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,606 (100.0%) of 81,611 articles have been extended.
+81,612 (100.0%) of 81,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
-### ”கம்மன்பில மற்றும் விமல் நீண்ட காலமாக லூசு போல் பேசி வருகின்றனர்”
+### Four Dead, Three Injured in Road Accidents Across Sri Lanka
+
+*2025-10-06 19:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/four-dead-three-injured-in-road-accidents-across-sri-lanka) · `en`
+
+COLOMBO (News 1st) : Four people have died and three others sustained injuries in separate road accidents across the island.In Guruluwela, Bingiriya, a 23-year-old woman died after a motorcycle veered off the road and hit a lamp post.The motorcyclist who sustained injuries was admitted to the hospital.In the Dandeniya, Hungama, a 51-year-old woman died when a three-wheeler collided with a bus.In Karumkali, Karainagar, a 34-year-old man died and another was injured after a motorcycle lost control and overturned.Meanwhile, in Pandarikulam on the Nedunkerni–Oddusuddan road, a 61-year-old man died when his motorcycle collided with a cow and subsequently a lorry.
+
+◼️
+
+[Data](articles/46b6fb2b.json)
+
+[Extended Data](ext_articles/46b6fb2b.ext.json)
+
+---
+
+### "Kammanpila and Wimal have been talking like Luz for a long time"
 
 *2025-10-06 19:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பில-மற்றும்-விமல்-நீண்ட-காலமாக-லூசு-போல்-பேசி-வருகின்றனர்/175-365839) · `ta`
 
-விமல் வீரவன்ச மற்றும் உதய கம்மன்பில போன்ற அரசியல்வாதிகள் தொடர்ந்து முட்டாள்தனமாகப் பேசினால் விசாரணைகளை எதிர்கொள்ளத் தயாராக இருக்க வேண்டும் என்று துணை அமைச்சர் மஹிந்த ஜெயசிங்க இன்று தெரிவித்தார்.
+Deputy Minister Mahinda Jayasinghe today said that politicians like Wimal Weerawansa and Udaya Kammanpila should be prepared to face the investigation if they continue to speak stupidly.
 
-"விமல் வீரவன்ச, கம்மன்பில மற்றும் எதிர்க்கட்சி குழு இது முந்தைய அரசாங்கங்களைப் போலவே இருப்பதாக நினைக்கிறார்கள். அவர்களால் இனி முட்டாள்தனமாகப் பேச முடியாது. அவர்கள் முட்டாள்தனமாகப் பேசினால், அவர்களின் அறிக்கைகள் தொடர்பான விசாரணைகள் மற்றும் விசாரணைகளை எதிர்கொள்ள அவர்கள் தயாராக இருக்க வேண்டும்," என்று அவர் கூறினார்.
+“Wimal Weerawansa, Kammanpila and Opposition Committee thinks this is just like previous governments. They can no longer speak stupidly. If they speak stupidly, they should be prepared to face inquiries and inquiries into their reports, ”he said.
 
-விமல் வீரவன்ச வாக்குமூலம் பதிவு செய்ய அழைக்கப்பட்டிருப்பது குறித்த கேள்விக்கு பதிலளிக்கும் போதே பிரதி அமைச்சர் இவ்வாறு கூறினார்.
+Responding to a question of whether Wimal Weerawansa was invited to record the confession, Deputy Minister said this.
 
-"கம்மன்பில நீண்ட காலமாக முட்டாள்தனமாகப் பேசி வருகிறார். விமல் வீரவன்ச முட்டாள்தனமாகப் பேசி வருகிறார். இது போன்ற முட்டாள்தனமாகப் பேசும் அனைத்து அரசியல்வாதிகளையும் ஆதாரங்களுடன் விசாரணைகளை எதிர்கொள்ளத் தயாராகுங்கள் என்று கூற விரும்புகிறேன்" என்று அவர் கூறினார்.
+“Kammanpila has been speaking for a long time. Wimal Weerawansa is talking stupidly. I would like to say that all the politicians who speak such a stupid politicians are ready to face investigations with evidence. ”
 
 ◼️
 
 [Data](articles/d0d4801a.json)
+
+[Extended Data](ext_articles/d0d4801a.ext.json)
 
 ---
 
@@ -60,6 +76,8 @@ COLOMBO (News 1st): Sri Lankans will have a rare chance to witness a supermoon t
 ◼️
 
 [Data](articles/aede5154.json)
+
+[Extended Data](ext_articles/aede5154.ext.json)
 
 ---
 
@@ -151,6 +169,8 @@ Agent Felicity Blunt said Cooper had “defined culture, writing and conversatio
 
 [Data](articles/c2b08602.json)
 
+[Extended Data](ext_articles/c2b08602.ext.json)
+
 ---
 
 ### Super Moon tonight
@@ -188,6 +208,8 @@ The resolution proposes to “extend the mandate of the Office of the High Commi
 ...
 
 [Data](articles/2ca9d07c.json)
+
+[Extended Data](ext_articles/2ca9d07c.ext.json)
 
 ---
 
@@ -354,6 +376,8 @@ These officers have been relieved of their OIC roles and assigned to other dutie
 ◼️
 
 [Data](articles/14f0d7e2.json)
+
+[Extended Data](ext_articles/14f0d7e2.ext.json)
 
 ---
 
@@ -1992,25 +2016,5 @@ When he got into the water to recover, he could not come up again, so he drowned
 [Data](articles/c0cc69a9.json)
 
 [Extended Data](ext_articles/c0cc69a9.ext.json)
-
----
-
-### A revolver emerge from the garbage
-
-*2025-10-06 12:18:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කණ-කනදන-රවලවරයක-මතවය/101-680786) · `si`
-
-The Grandpass police say that the country's manufacturers have been found in the country where the country's donation was found on the garbage of Madampitiya.
-
-Police said that the fire fire was rust.
-
-Kelaniya Police Special Task Force officials, a person who was traveling from the site, found firearm according to information received by the firearm.
-
-Police suspect that the firearm has been put into the scene.
-
-◼️
-
-[Data](articles/5c6d9f5f.json)
-
-[Extended Data](ext_articles/5c6d9f5f.ext.json)
 
 ---

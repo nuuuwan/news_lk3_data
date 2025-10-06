@@ -1,37 +1,207 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 09:56:35**
+As of **2025-10-06 10:38:22**
 
 ## Newspaper Stats
 
-*Scraped **81,423** Articles*
+*Scraped **81,449** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 610
+newsfirstlk | 615
 dbsjeyarajcom | 637
-bbccomsinhala | 725
+bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 826
+lankadeepalk | 835
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
-adalk | 7,795
+adalk | 7,798
 adaderanalk | 10,460
-tamilmirrorlk | 12,083
+tamilmirrorlk | 12,088
 virakesarilk | 13,393
-adaderanasinhalalk | 13,997
+adaderanasinhalalk | 14,000
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,423 (100.0%) of 81,423 articles have been extended.
+81,449 (100.0%) of 81,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### Arrest of someone with cigarettes
+
+*2025-10-06 10:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்டுக்களுடன்-ஒருவர்-கைது/175-365794) · `ta`
+
+A Sri Lankan passenger who was trying to leave the Katunayake airport has been arrested on Monday morning (06).
+
+A 48 -year -old man from Kantalai has been arrested and has worked as an electrician in Dubai for three and a half years.
+
+The person arrived at the Katunayake airport from Dubai by Fitz Air aircraft at 05.20 pm on Sunday (06).
+
+When she checked her travel bag, 45 cartons of 9000 "platinum" cigarettes were seized.
+
+◼️
+
+[Data](articles/0d3a9393.json)
+
+[Extended Data](ext_articles/0d3a9393.ext.json)
+
+---
+
+### Tajuddin ...
+
+*2025-10-06 09:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தாஜுதீன்/62-365793) · `ta`
+
+◼️
+
+[Data](articles/af03142f.json)
+
+[Extended Data](ext_articles/af03142f.ext.json)
+
+---
+
+### Government’s Successful Programs Unsettle Opposition, Says Mp Wasantha Pushakumara
+
+*2025-10-06 09:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/government%e2%80%99s-successful-programs-unsettle-opposition-says-mp-wasantha-pushakumara) · `en`
+
+...
+
+[Data](articles/b664487b.json)
+
+[Extended Data](ext_articles/b664487b.ext.json)
+
+---
+
+### A passenger caught with illegal cigarettes
+
+*2025-10-06 09:43:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නත-වරධ-දමවට-සමඟ-ගවන-මඟයක-අලලය/1-680779) · `si`
+
+A Sri Lankan Air Force Bureau of Sri Lanka, a Sri Lankan Airport Bureau, who was illegally led to Sri Lanka to illegally, to Sri Lanka, was illegally led by the Katunayaka airport.
+
+The 48-year-old resident of Dubai, a resident of Kantale, is a 48 year old.
+
+He is traveling from Dubai to 05.20 this morning at Fitz Air. Airport was reached at the Katunayake airport on 822.
+
+Between the bodies he brought, 45 smoking cartoons containing 9,000 cigarettes, which contains 9,000 cigarettes of smoots, which contains 9,000 cigarettes of smoothing.
+
+◼️
+
+[Data](articles/100066ec.json)
+
+[Extended Data](ext_articles/100066ec.ext.json)
+
+---
+
+### Two youth dies after train
+
+*2025-10-06 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215392) · `si`
+
+The suspect had died after collision with train from Kandy to Polgahawela.
+
+The deceased has been identified as a 27 year old resident of Nakattota in Akuressa.
+
+Meanwhile, a person has been killed while collision with a train in the Pudukuduirippu area in Mannar.
+
+The man was killed following a train traveling from Thalaiwoma to Colombo Fort.
+
+◼️
+
+[Data](articles/dc060856.json)
+
+[Extended Data](ext_articles/dc060856.ext.json)
+
+---
+
+### 135 shops charged with more prices
+
+*2025-10-06 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215391) · `si`
+
+Consumer Affairs Authority says that legal action will be taken against over 100 rice sold for more than 100 rice sold.
+
+Accordingly, the authority said that the prosecutions were filed against the traders of 135 shops during the past month.
+
+The Consumer Affairs Authority added that the raids are being sold and hidden in rice and will continue to implement raids against the vendors.
+
+The authority said that if a single individual business selling rice, he was able to be guilty to Rs.
+
+If a private company is convicted, the Authority (SP) has been able to confuse both Rs.
+
+The Court of Affairs has intention to be sentenced to twice the fines as a second situation, and the court is capable of punishment to a year.
+
+In the present, the deficit is still available in the market.
+
+They point out that authorities should take immediate action to pay attention to the problem.
+
+◼️
+
+[Data](articles/e94c21f6.json)
+
+[Extended Data](ext_articles/e94c21f6.ext.json)
+
+---
+
+### The Dudley says the cause of Keera Samba shortage
+
+*2025-10-06 08:56:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කර-සමබ-හඟයට-හතව-ඩඩල-කයය/101-680778) · `si`
+
+Rice Business Dudle Sirisena said that the reason for Keera Sama has causes the deficit is a problem.
+
+He said that the cheaper has been grown too much, he said.
+
+The government stated that Sirisena pointed out that the issue had caused a great crisis in a mid-control price, he said.
+
+◼️
+
+[Data](articles/e8f88a66.json)
+
+[Extended Data](ext_articles/e8f88a66.ext.json)
+
+---
+
+### Kalubowila chuti and his brother arrested
+
+*2025-10-06 08:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215390) · `si`
+
+Two persons with over two kilograms of heroin have been arrested in Piliyandala area in Piliyandala.
+
+The two suspects have been arrested during a raid conducted by the Moratuwa Police Special Task Force.
+
+The Special Task Force has taken 2 kilograms of heroin and 106 grams of heroin.
+
+The arrested persons have been arrested in a foreign criminal and a drug dealer, a drug dealer, "Kalubowila", a chief disciple, "Kalubowila," and his older brother.
+
+The 24 and 25-year-old residents of Piliyala have been handed over to the Police Narcotics Bureau for further investigations.
+
+◼️
+
+[Data](articles/20372b4d.json)
+
+[Extended Data](ext_articles/20372b4d.ext.json)
+
+---
+
+### Someone caught with Hashish on a corte
+
+*2025-10-06 08:31:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කටයක-හෂෂ-සමඟ-අයක-අලලය/101-680777) · `si`
+
+Hichana Police say that a person has been arrested with over Rs.
+
+18000 rupees suspected to earn 1 kg of Hishr had been in possession of the person.
+
+Police investigations have revealed that the suspect had been arrested for a tip off received by a person to the Harana Agent Bend area.
+
+◼️
+
+[Data](articles/2c821dc3.json)
+
+[Extended Data](ext_articles/2c821dc3.ext.json)
+
+---
 
 ### A shot in Sydney
 
@@ -48,6 +218,58 @@ The victim has been launched by the person nearly 100 shots and the police have 
 [Data](articles/7644d983.json)
 
 [Extended Data](ext_articles/7644d983.ext.json)
+
+---
+
+### Lab Report On Suspected ‘Ice’ Stock Found In Kandana To Be Released This Week – NDDCB
+
+*2025-10-06 08:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/lab-report-on-suspected-%e2%80%98ice%e2%80%99-stock-found-in-kandana-to-be-released-this-week-nddcb) · `en`
+
+COLOMBO (News 1st): The National Dangerous Drugs Control Board (NDDCB) says that the laboratory report on the chemical substances discovered in Kandana, suspected to be Ice or Methamphetamine, will be released within this week.The Board added that laboratory testing of the seized chemical substances is currently underway.NDDCB further confirmed that the chemical substances previously discovered in Middeniya and Netolpitiya in Tangalle were identified as Methamphetamine, commonly known as Ice.NDDCB added that the substance found in the possession of a Moldovan national in Weligama was confirmed to be Mephedrone, a highly dangerous synthetic drug.Based on information revealed by members of an organized crime gang arrested in Indonesia, large stocks of chemical substances suspected to be Ice were recently found in Middeniya, Netolpitiya in Tangalle, and in Kandana. Samples from these seizures were sent to the National Dangerous Drugs Control Board for laboratory analysis.
+
+◼️
+
+[Data](articles/65387049.json)
+
+[Extended Data](ext_articles/65387049.ext.json)
+
+---
+
+### Former Minister Wimal Weerawansa Summoned To Tangalle Crime Investigation Unit
+
+*2025-10-06 08:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/former-minister-wimal-weerawansa-summoned-to-tangalle-crime-investigation-unit) · `en`
+
+COLOMBO (News 1st): Former Minister Wimal Weerawansa has been summoned today (6) to the Tangalle Divisional Crime Investigation Unit.Sri Lanka Police said that Weerawansa has been summoned at around 10:00 a.m. today, to record a statement regarding a comment he had made concerning an individual named Beliatte Sana.The individual known as Beliatte Sana was recently arrested along with a vessel linked to a drug trafficking incident in Tangalle and is currently being questioned under a detention order.
+
+◼️
+
+[Data](articles/64cd7d81.json)
+
+[Extended Data](ext_articles/64cd7d81.ext.json)
+
+---
+
+### Trade Union Action Delays Power Restoration: Over 30,000 Outages Reported Islandwide
+
+*2025-10-06 08:06:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/trade-union-action-delays-power-restoration-over-30-000-outages-reported-islandwide) · `en`
+
+...
+
+[Data](articles/2685772e.json)
+
+[Extended Data](ext_articles/2685772e.ext.json)
+
+---
+
+### Met Department Issues Advisory for Severe Lightning: Thundershowers Expected Across Several Provinces
+
+*2025-10-06 07:53:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/met-department-issues-advisory-for-severe-lightning-thundershowers-expected-across-several-provinces) · `en`
+
+...
+
+[Data](articles/b9b058df.json)
+
+[Extended Data](ext_articles/b9b058df.ext.json)
 
 ---
 
@@ -74,6 +296,48 @@ The first visit to Egypt after the survivor of the Qur'atiya, the capital of Qat
 [Data](articles/f7c5f7da.json)
 
 [Extended Data](ext_articles/f7c5f7da.ext.json)
+
+---
+
+### Showers a beneficial atmosphere
+
+*2025-10-06 07:21:21* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-වැසි-ඇතිවෙන්න-හිතකර-වායුගෝලයක්/11-418930) · `si`
+
+The Meteorological Department says that there is an atmospheric conditions for thundershowers during the evening.
+
+Showers or thundershowers will develop at several places in the country today.
+
+In some places in the Northern, North-Central, Central and Uva provinces. The Department has informed heavy showers more than 50.
+
+Showers will occur at several places in the Western and Northwestern provinces and in the Galle and Matara districts.
+
+◼️
+
+[Data](articles/c8303943.json)
+
+[Extended Data](ext_articles/c8303943.ext.json)
+
+---
+
+### Thunderstorms today
+
+*2025-10-06 07:16:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-365791) · `ta`
+
+The Department of Meteorology has advised the thunderstorm this evening.
+
+In addition, the department has advised the public to take necessary steps to reduce the dangers of heavy air and heavy lightning.
+
+Rainfall or thunderstorms are expected after 1.00 pm in most parts of the country.
+
+More than 50 millimeters of heavy rainfall is likely in some places in the North, North Central, Eastern, Central and Uva provinces.
+
+The Department of Meteorology has announced that rainfall is expected in some mornings in the Western and North Western Provinces and Galle and Matara districts.. (A)
+
+◼️
+
+[Data](articles/7a62403a.json)
+
+[Extended Data](ext_articles/7a62403a.ext.json)
 
 ---
 
@@ -104,6 +368,156 @@ The accident had occurred when a motorcycle driven out of the arrawal junction a
 [Data](articles/785daa89.json)
 
 [Extended Data](ext_articles/785daa89.ext.json)
+
+---
+
+### Mother takes overseas, 10 The father of the rage was arrested
+
+*2025-10-06 07:05:38* · [`adalk`](https://www.ada.lk/breaking_news/මව-විදෙස්-ගතයි--10-හැවැරිදි-දියණිය-අපයෝජනය-කළ-පියා-අල්ලයි/11-418929) · `si`
+
+A father from the Meeugas Hentha area of ​​the Bibile police division has been arrested on the police (03) regarding the sexual abuse of her daughter.  The girl's mother is abroad and her hometown is Bibile Badulla.
+
+Currently, they are living in a rented house in Meegahamawela estate area in the Hougahamura area in Kuruvas Junction. The girl sleep in the same bed with her older brother and father
+
+In June 2025, he had seriously sexually abusing her while sleeping in several nights.
+
+The Maha Moneragala district has been admitted to the Kandy district due to severe pain and injuries and the incident has been revealed.
+
+Thirty-eight-year-old chef was arrested by the police and was to be produced before the Bibila Magistrate's Court.. Bibile police are conducting further investigations.
+
+◼️
+
+[Data](articles/6b53c734.json)
+
+[Extended Data](ext_articles/6b53c734.ext.json)
+
+---
+
+### Arrest of someone with drugs
+
+*2025-10-06 07:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருட்களுடன்-ஒருவர்-கைது/175-365790) · `ta`
+
+One person has been arrested in Jaffna - Gurunagar area with drugs and money.
+
+The Jaffna District Criminal Investigation Division (Jaffna District) held an arrest yesterday (05).
+
+8 grams of heroin, 16 grams of ice and 120 drugs and 2 lakhs 70 thousand rupees were recovered from the person.
+
+Police have taken steps to appear in court after investigating the suspect. (A)
+
+◼️
+
+[Data](articles/58fd38a4.json)
+
+[Extended Data](ext_articles/58fd38a4.ext.json)
+
+---
+
+### Diseases of the country
+
+*2025-10-06 06:58:57* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරට-ඉපදමත-අඩ-වල/101-680776) · `si`
+
+The Registrar Department says that 2024 births were fell by 80,945 compared to 2020.
+
+The highest number of births were reported from the Colombo district last year and 846 births were reported from Mullaittivu.
+
+The total number of births in 2020 is 301,706 and the number of births of 220,761 was 222,761. There were 28,848 births in 2021, 2022, 275,321 and 2473 year 2473 year.
+
+According to the Registrar General's Department, the number of deaths until the year 2021 to 2024 has increased significantly.
+
+The death toll was 132,371 deaths in 2020 and the deaths 209,792 deaths in 2023 in 201,239 deaths in 201,194 deaths.
+
+However, it has been revealed that the number of people in 2024 in 2024 in 2024 year of persons in 2024 has been reduced by 1223 compared to the number of the Department.
+
+◼️
+
+[Data](articles/3635dc0d.json)
+
+[Extended Data](ext_articles/3635dc0d.ext.json)
+
+---
+
+### Rain in many areas today
+
+*2025-10-06 06:52:14* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අදත-පරදශ-රසකට-වසස/101-680775) · `si`
+
+There are many areas in most parts of the evening a good atmosphere.
+
+Showers or thundershowers will occur at several places in the island.
+
+In the North, North, the East, Central and Uva provinces, there may be a few more likely showers in the Western and Uva provinces and in the Western and Uva districts.
+
+Strong winds and strong lightning informit the necessary steps to be taken to minimize the damages caused by lightning.
+
+◼️
+
+[Data](articles/4798824e.json)
+
+[Extended Data](ext_articles/4798824e.ext.json)
+
+---
+
+### Wap Pohoe is today
+
+*2025-10-06 06:44:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වප-පහය-අදය/101-680774) · `si`
+
+Buddhists begin with the charity of the charity that is awarded the Chinese. The Buddhists have special significance in the countries of Vesak, Poson and Eyal moon.
+
+The monk who lived only three months shortly before the invitation of the deficiencies in the same temple per year once a year is only three months shortly from the invitation of the sort of Buddhists.. Otherwise, no pinnacle can be pinnated.
+
+If one can ask a cynician Chinese and other china, how is this is a rare type. A discussion with Vajirama Vasagalarama Vasagalarama.
+
+In the past, the roland, a garment and a garment that is obtained on the same day, seems to be a difference in a sacrificial Chinese sacrifice. It is not a very rare sight of that, but not a change of paddy.
+
+...
+
+[Data](articles/84e687b9.json)
+
+[Extended Data](ext_articles/84e687b9.ext.json)
+
+---
+
+### Leaders to be appointed to Defense Secretary
+
+*2025-10-06 06:32:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පහටටව-නයකය-ආරකෂක-ලකම-පලසපත-හමවට/101-680773) · `si`
+
+The General Filling Fundamental Front has decided to discuss the safety of former President Mahinda Rajapaksa in the face of the coming meeting.
+
+Former President Mahinda Rajapaksa has come to the decision to protect the government by taking all the vehicles used by the government, the former President's spokesman Manoon said.
+
+The bulletproof and two other vehicles had been handed over to the former President.
+
+The media spokesman said that the security personnel of Mr. Mahinda Rajapaksa will not have the same vehicle or the same vehicle.
+
+◼️
+
+[Data](articles/c8879f40.json)
+
+[Extended Data](ext_articles/c8879f40.ext.json)
+
+---
+
+### Ravi - Two cases against Alosus
+
+*2025-10-06 06:26:54* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රවට-ඇලසයසට-එරහ-නඩ-දකක-වභගයට/101-680772) · `si`
+
+The former Finance Minister Ravi Karunanayake and Arjun Agel Allegations have to be heard on November on November 28, regarding the purchase of apartment.
+
+The argument was the argument that was contrary to the definition of the Constitution, the former Cabinet could not be prosecuted under the Bribery Act.
+
+The High Court sentenced the date to reject the accused party and to hear the case.
+
+The case has been filed by the Bribery or Corruption Commission to pay more than Rs.
+
+Two directors and directors of the company who sold the Great Housing regarding this allegation include two directors of the Great Housing.
+
+State Counsel Osanasi Regarazer, President's Counsel, appearing on behalf of the adoptive party, appeared for the complaint.
+
+◼️
+
+[Data](articles/30b0c014.json)
+
+[Extended Data](ext_articles/30b0c014.ext.json)
 
 ---
 
@@ -175,6 +589,22 @@ But in the event of thunderstorms, strong winds are blowing and the sea regions 
 
 ---
 
+### Demonstration in London: 500 arrested
+
+*2025-10-06 04:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லண்டனில்-ஆர்ப்பட்டம்-500-பேர்-கைது/50-365788) · `ta`
+
+About 500 people have been arrested in London's London protest in support of Palestine.
+
+London officials said people were arrested for supporting a banned organization. (A)
+
+◼️
+
+[Data](articles/7f027598.json)
+
+[Extended Data](ext_articles/7f027598.ext.json)
+
+---
+
 ### World Residential Day Event led by President
 
 *2025-10-06 04:15:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-உலக-குடியிருப்பு-தின-நிகழ்வு/175-365787) · `ta`
@@ -192,6 +622,30 @@ Under the intervention of the UN Habitat Sri Lanka Office, the Identification of
 [Data](articles/f09a18e4.json)
 
 [Extended Data](ext_articles/f09a18e4.ext.json)
+
+---
+
+### You can meet your own photos in the future you can meet your own photos in the future
+
+*2025-10-06 04:08:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c62n1d92y0ro) · `si`
+
+You can meet your own photos in the future you can meet your own photos in the future
+
+"Thank you Gemini, you have made a picture with my father in the divine world."
+
+This is a dating day of her dead father's birthday a few days ago, a young girl was published on Facebook. She also added a photo with his father designed to create Google Gemini.
+
+As it saw immediately, it was not possible to think that it was created by artificial intelligence, because it was similar to a true photo.
+
+Not only such sensitive events but also filled the media from the Last week of women, who were on beautiful surveillance, and Facebook, all weekly.
+
+It is not true that finding someone who helped with artificial intelligence, finding someone who has not designed to be created is truly impossible. You may be in that caste.
+
+...
+
+[Data](articles/2fb43c5d.json)
+
+[Extended Data](ext_articles/2fb43c5d.ext.json)
 
 ---
 
@@ -615,6 +1069,34 @@ The Criminal Investigations Department (CID) says that due to the controversial 
 
 ---
 
+### Syunukorerus caught the entire village pyramids
+
+*2025-10-05 20:15:18* · [`adalk`](https://www.ada.lk/opinion/හදුන්කුරක්-නිසා-මුළු-ගමක්ම-පිරමීඩ-ජාවාරමකට-හසුවෙයි/2-418927) · `si`
+
+All people in Pannalgama village located in the Damana Divisional Secretariat Division have become a pyramid racket. Nearly a few months ago, a location of Paradagama village in Pannalgama has launched a house in the village.
+
+Shortlynly, it was launched as a introductory business and given a chance to participate in the village.
+
+When a person deposits a sum of Rs.
+
+Donated the village of Pannalgama, and a large number of Rs.
+
+The business was also published in the village everywhere in the village and elected representatives to each position and obtain funds through the representatives.
+
+The racketeer subsequently increased Rs.
+
+The business of the village was a huge advantage of the business, the people of the village mortgaged their paddy fields and parked the interests of Rs.
+
+When the raw materials needed for a while, some people have taken their refunds and demanded that others will provide ingredients.
+
+...
+
+[Data](articles/ff7c333e.json)
+
+[Extended Data](ext_articles/ff7c333e.ext.json)
+
+---
+
 ### 20 years for Derana
 
 *2025-10-05 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215378) · `si`
@@ -804,6 +1286,22 @@ However, at first, however, the woman has been reluctant, but the suspects have 
 [Data](articles/ab0670f6.json)
 
 [Extended Data](ext_articles/ab0670f6.ext.json)
+
+---
+
+### Two Cricket Star in the World Cup
+
+*2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-කසලනය-අතර-කරකට-තර-දකක-වවහ-ගවස-ගනත/101-680765) · `si`
+
+While he was in Sri Lanka, England indoor males leader Nain Patel and Malory Marryal Bartosh were engaged in today.
+
+The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be held at the Austyresia Domestic Cricket Stadium in Thalawathugoda.
+
+◼️
+
+[Data](articles/a9b89d08.json)
+
+[Extended Data](ext_articles/a9b89d08.ext.json)
 
 ---
 
@@ -1494,483 +1992,5 @@ COLOMBO (News 1st); A 15-year-old boy has died in an accident at the Veediyawant
 [Data](articles/22b31800.json)
 
 [Extended Data](ext_articles/22b31800.ext.json)
-
----
-
-### Drug Raids Lead To Seven Arrests In South, Two Arrested In Polonnaruwa For Selling Ice
-
-*2025-10-05 15:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/drug-raids-lead-to-seven-arrests-in-south-two-arrested-in-polonnaruwa-for-selling-ice) · `en`
-
-COLOMBO (News 1st); Seven suspects have been arrested with Hash and ice narcotics in Baddegama, Habaraduwa, and Midigama areas.The arrests were made, during raids conducted by the Matara and Hambantota Divisional Crime Units based on a tip off received. Over 5 kilograms of Hash were found in suspect's possession. Meanwhile, two individuals involved in selling ice narcotics were arrested, in Katuwanwila area of,Welikanda, Polonnaruwa. Police seized several packets of ice drugs along with cash amounting to approximately Rs. 70,000 during arrest. The suspects are reportedly residents of the area.
-
-◼️
-
-[Data](articles/c24a3b43.json)
-
-[Extended Data](ext_articles/c24a3b43.ext.json)
-
----
-
-### To the coin to Pakistan
-
-*2025-10-05 14:56:34* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-පාකිස්තානයට/9-418924) · `si`
-
-The match between the Indian and Pakistan, the Indian and Pakistan, will begin at a moment.
-
-මෙම තරගයේ කාසියේ වාසිය දිනාගත් පාකිස්තාන නායිකා ෆාතිම සානා පළමුවෙන් පන්දු රැකීමට තීරණය කළාය.
-
-◼️
-
-[Data](articles/2590b6c8.json)
-
-[Extended Data](ext_articles/2590b6c8.ext.json)
-
----
-
-### Hitler's likeness to Anura - Ranil's warning
-
-*2025-10-05 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/226954) · `ta`
-
-Opposition parties have begun to blame President Anura Kumara Dissanayake's visit to Japan. Japan's temporary Prime Minister is to resign. Therefore, the country has not been able to make any benefit from meeting Japan's temporary Prime Minister. Similarly, Foreign Minister Vijitha Herath and Japanese ambassador in Colombo should sign a contract in Tokyo. It may have been done in Sri Lanka. It is therefore the opposition parties that the president's visit to Japan is a public financial fraud.
-
-◼️
-
-[Data](articles/98128d43.json)
-
-[Extended Data](ext_articles/98128d43.ext.json)
-
----
-
-### Indo-Pakistani Vihara to women cricket
-
-*2025-10-05 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215369) · `si`
-
-Indo-Pakistani cricket match in the Oney Day Women's World Cup Colombo. Will be held today (5) at the Premadasa Stadium.
-
-Pakistani leader won the toss and won the toss.
-
-Meanwhile, the Indo-Pakistani leaders also refrained from the match.
-
-Indian and Pakistan players refrained from their hands on the tournament throughout the tournament.
-
-◼️
-
-[Data](articles/a14d7b68.json)
-
-[Extended Data](ext_articles/a14d7b68.ext.json)
-
----
-
-### Police obtain 7-day detention order on Backhoe Saman’s brother-in-law
-
-*2025-10-05 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113234/police-obtain-7-day-detention-order-on-backhoe-samans-brother-in-law) · `en`
-
-The Aluthkade Magistrate’s Court has granted permission to the Western Province North Crime Division to detain and interrogate the brother-in-law of notorious underworld criminal “Backhoe Saman” for seven days.
-
-The suspect was apprehended based on information disclosed by the notorious underworld figure Nedungoda Nirmala Prasanna, alias “Backhoe Saman,” who was previously arrested while residing overseas, police said.
-
-Police have also seized narcotics and a vehicle in the suspect’s possession.
-
-The suspect has been handed over to the Western Province North Crime Division for further investigations.
-
-The arrested suspect, a 27-year-old resident of Welipitiya, Middeniya, was found to have concealed a pistol, a magazine, and 550 grams of heroin in the area, which were recovered after interrogations, police stated.
-
-The Police Media Division stated that further investigations have been initiated regarding the apprehended suspect by the Western Province North Crime Division.
-
-◼️
-
-[Data](articles/e26ba9a3.json)
-
-[Extended Data](ext_articles/e26ba9a3.ext.json)
-
----
-
-### Sri Lankan Air trace arrested with foreign cigarettes
-
-*2025-10-05 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215368) · `si`
-
-A Sri Lankan Airport Traftsman has arrested a Sri Lankan Airport's Bureau today (05).
-
-The suspect was arrested, but they were taken to the country to take the cigarettes country and they were taken to take the Katunayake airport premises.
-
-Police said that the suspect is a 44 year old resident of Kalpitiya, Puttalam.
-
-The suspect had come to Sri Lanka from Dubai and hid 15,000 cigarettes containing 30,000 cigarettes.
-
-The suspect is to be produced before the Negombo Magistrate's Court on the 8th.
-
-◼️
-
-[Data](articles/2cc6f339.json)
-
-[Extended Data](ext_articles/2cc6f339.ext.json)
-
----
-
-### குறுக்குவழி சம்பாத்தியம் அழிவையே கொண்டுவரும்
-
-*2025-10-05 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/226950) · `ta`
-
-If cannabis is harmful to our people, it is harmful to other people in the world to use it. Therefore, the production of cannabis for income is unacceptable.
-
-◼️
-
-[Data](articles/5cd19dfe.json)
-
-[Extended Data](ext_articles/5cd19dfe.ext.json)
-
----
-
-### 4,500 jumps in bribery - 58 people arrested
-
-*2025-10-05 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215367) · `si`
-
-More than 4,500 complaints have been received regarding the bribery incidents this year, the Commission said.
-
-They point out that 4,626 complaints have been received from 1st January to 31st this year.
-
-In that period 85 raids have been carried out and 58 persons have been arrested, he said.
-
-Most of the suspects are police officers and the number is 19.
-
-Among the arrested were eight police sergeants, five police constables and three sub-inspectors.
-
-The Bribery Commission (Ceylon Transport Forctors) said that between three Grama Niladhari, two public health inspectors, two public health inspectors, and two General Hospital Officers in the Ministry of Justice.
-
-Thirty more people have been arrested in connection with investigations except the arrests carried out by the raids this year.
-
-The bribery or corruption of correspondent in charge of the bribery, including politicians, including politicians, doctors, are people including politicians.
-
-...
-
-[Data](articles/5fb8907b.json)
-
-[Extended Data](ext_articles/5fb8907b.ext.json)
-
----
-
-### Sri Lankan tea; Guinness record and Nobel Prize
-
-*2025-10-05 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226940) · `ta`
-
-The government provides subsidies to enrich small tea plantation owners. The reason is that production is high there. But, these are not available for plantations. Members of Parliament who represent plantation workers do not open their mouths.
-
-◼️
-
-[Data](articles/888361f1.json)
-
-[Extended Data](ext_articles/888361f1.ext.json)
-
----
-
-### Moldova: The most confused future?
-
-*2025-10-05 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/226939) · `ta`
-
-Countries are fearing that the invasion could occur through Moldova, as many Western European countries such as Germany, France and Britain have been commenting that Russia is preparing to invade European countries.
-
-◼️
-
-[Data](articles/a37e8487.json)
-
-[Extended Data](ext_articles/a37e8487.ext.json)
-
----
-
-### Dearanneen heroes - a resource for the country for 20th anniversary
-
-*2025-10-05 14:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215366) · `si`
-
-Derana was a hero to the country - a resource for the country - a resource for the country today (05).
-
-This is a reality tournament, exploring inherent innovative town in Gennugama, town.
-
-The program aims to achieve the Olympic dream after 25 years.
-
-Tv Derana, who was the theme of the country, celebrates his twenty-day anniversary of the country's Television Network.
-
-Derana joined his media outlets and social service projects, including a manner, and social service projects, including the country's duty to the country.
-
-Fast bowler Eshan Malinga also rewarded the local cricket team and the Sri Lankan national women's cricket team.
-
-The Derana Media Network, which was intended to be perfect, and the integrated media in Sri Lanka, the Derana Media Network was established under the "Maha Derana Media Network to the Ada Derana Media Network.
-
-Sri Lanka's 100-meter running champions champions have also enabled the "Rapana Derana" project.
-
-...
-
-[Data](articles/c52e2f86.json)
-
-[Extended Data](ext_articles/c52e2f86.ext.json)
-
----
-
-### The disappointment of America
-
-*2025-10-05 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226936) · `ta`
-
-At present, the expectation of US investors is to invest in the most obstacles in Sri Lanka. One of them is the Investment of the Defense Department. To what extent is the current government in the process of implementing plans or carrying out the already already introduced investment plans?
-
-◼️
-
-[Data](articles/955800b8.json)
-
-[Extended Data](ext_articles/955800b8.ext.json)
-
----
-
-### One who had gone broke was shot dead
-
-*2025-10-05 14:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/test/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/222-680760) · `si`
-
-Kataragama Police say that the Kataragama Kochchiya thick temple has fallen from the Yala National Park, Kataragama Kubarapura Police have sent the man to the Hambantota General Hospital while the Kataragama Police.
-
-The injured were a 56 year old resident of Kandasurdagama, Kataragama.
-
-He had told the police that the man had entered the Yala Park and shot a meat bag and shooting after a meat bag.
-
-The arrested person was admitted to the Kataragama hospital and later sent to the Hambantota General Hospital.
-
-◼️
-
-[Data](articles/60b17fa8.json)
-
-[Extended Data](ext_articles/60b17fa8.ext.json)
-
----
-
-### One who had gone broke was shot dead
-
-*2025-10-05 14:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/1-680760) · `si`
-
-Kataragama Police say that the Kataragama Kochchiya thick temple has fallen from the Yala National Park, Kataragama Kubarapura Police have sent the man to the Hambantota General Hospital while the Kataragama Police.
-
-The injured were a 56 year old resident of Kandasurdagama, Kataragama.
-
-He had told the police that the man had entered the Yala Park and shot a meat bag and shooting after a meat bag.
-
-The arrested person was admitted to the Kataragama hospital and later sent to the Hambantota General Hospital.
-
-◼️
-
-[Data](articles/cf22b608.json)
-
-[Extended Data](ext_articles/cf22b608.ext.json)
-
----
-
-### One who had gone broke was shot dead
-
-*2025-10-05 14:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ම-කඩනන-ගය-අයක-වඩ-වද-වටල/101-680760) · `si`
-
-Kataragama Police say that the Kataragama Kochchiya thick temple has fallen from the Yala National Park, Kataragama Kubarapura Police have sent the man to the Hambantota General Hospital while the Kataragama Police.
-
-The injured were a 56 year old resident of Kandasurdagama, Kataragama.
-
-He had told the police that the man had entered the Yala Park and shot a meat bag and shooting after a meat bag.
-
-The arrested person was admitted to the Kataragama hospital and later sent to the Hambantota General Hospital.
-
-◼️
-
-[Data](articles/ab8cc62e.json)
-
-[Extended Data](ext_articles/ab8cc62e.ext.json)
-
----
-
-### Nine was in hospital
-
-*2025-10-05 14:21:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බඹර-ඇන-9ක-රහල/1-680759) · `si`
-
-Nine were injured in a wasp attack from Biyagama Malwane to visit Madolsima Lakitha today (5).
-
-A group of ten youths in Biyagama Madolsima Lakande were kdered, and had to watch the little bath in the morning and began to look at the wasp basket at the time.
-
-The police said that the victims of the wasp attack had come to the attack and they had attacked the wasps.. The police said that those surrounding the police officers have been admitted to the Lunugala hospital, police said.
-
-◼️
-
-[Data](articles/4b69a90c.json)
-
-[Extended Data](ext_articles/4b69a90c.ext.json)
-
----
-
-### Nine was in hospital
-
-*2025-10-05 14:21:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බඹර-ඇන-9ක-රහල/101-680759) · `si`
-
-Nine were injured in a wasp attack from Biyagama Malwane to visit Madolsima Lakitha today (5).
-
-A group of ten youths in Biyagama Madolsima Lakande were kdered, and had to watch the little bath in the morning and began to look at the wasp basket at the time.
-
-The police said that the victims of the wasp attack had come to the attack and they had attacked the wasps.. The police said that those surrounding the police officers have been admitted to the Lunugala hospital, police said.
-
-◼️
-
-[Data](articles/3ad5ff9f.json)
-
-[Extended Data](ext_articles/3ad5ff9f.ext.json)
-
----
-
-### Namal is dragging
-
-*2025-10-05 14:21:30* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-නාන්නේ-ඇදගෙනලු/11-418923) · `si`
-
-"I think Namal Rajapaksa is on this tiny," says Namal Rajapaksa's deputy minister Susil Ranasinghe, the deputy minister of land and war.
-
-He was speaking to the media after a function in Talawa, Anuradhapura.
-
-The deputy minister was handed over to housing owners today (05) in the 140 Talawa District to be opened in the Anuradhapura District.
-
-"Investigations have also been made to send this on a different road, especially on the Passover attack, especially on the Passover attack, especially on the Passover attack. The complex is that the relevant authorities have been handed over to the areas.
-
-Namal Rajapaksa did not say that Namal Rajapaksa had been involved in the incident, which was known by the police spokesman for the incident. Namal Rajapaksa is not on the basis of the issues that have been submitted to the murder of newly collaboratives.
-
-◼️
-
-[Data](articles/7dd3d88c.json)
-
-[Extended Data](ext_articles/7dd3d88c.ext.json)
-
----
-
-### 07 days detention orders for Backwo Samina
-
-*2025-10-05 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215365) · `si`
-
-The Court of Justice has been given permission to the police for detaining and investigate and investigate and investigate and investigate and investigate.
-
-The Western Province has been granted permission to the Northern Province Criminal Division to keep the Aluthkade Magistrate's Court.
-
-According to interrogation from Nedungagala Prasanna, or in the 'interrogation from Nedungagala Prasanna alias' Bacquan', was arrested by his brother-in-law.
-
-The suspect has also seized a drug and car from the possession of the suspect and the suspect was handed over to the Western Criminal Division for further investigations.
-
-The suspect is 27-year-old residents of Welipitiya, a resident of Welipitiya.
-
-The Western Province North Criminal Division has commenced further investigations into the suspect, the Police Media Division said.
-
-◼️
-
-[Data](articles/ecb3f3b9.json)
-
-[Extended Data](ext_articles/ecb3f3b9.ext.json)
-
----
-
-### Actress Simran arrived
-
-*2025-10-05 14:16:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகை-சிம்ரன்-வந்தடைந்தார்/54-365762) · `ta`
-
-Actress Simran Katunayake Bandaranaike has arrived in the country through the International Airport to participate in the Greatest Bride and Graduation Ceremony.
-
-◼️
-
-[Data](articles/9aeca434.json)
-
-[Extended Data](ext_articles/9aeca434.ext.json)
-
----
-
-### Muslims who do not understand world order changes
-
-*2025-10-05 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226932) · `ta`
-
-In Gaza, a boy who has a little pebble in front of the armor in Gaza does not know why the Arab kings were left without a century.
-
-◼️
-
-[Data](articles/6bc54b18.json)
-
-[Extended Data](ext_articles/6bc54b18.ext.json)
-
----
-
-### Prepare
-
-*2025-10-05 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/226928) · `ta`
-
-◼️
-
-[Data](articles/2d0b2e48.json)
-
-[Extended Data](ext_articles/2d0b2e48.ext.json)
-
----
-
-### Post Master General reveals
-
-*2025-10-05 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215364) · `si`
-
-Postal Ruwan Skamama says that he is severely inconvenienced due to the fraudulent and ineffective role of the postal officers.
-
-He was speaking at a function held at the Haputale Post Office in parallel to the post date.
-
-"Billions of billions have been taken to the fingerprints. Don't we need to answer this? There is a Workoop. It builds vehicles.. I don't know if I'm doing or not.. Easy Servant on Sunday. There is two servicing people to serve the OT.. 4 hours pay for a vehicle to servic. It's not a lot of hours,, 4. But these 10 pay for 4 hours. So if you make several vehicles like this, think about.. This is why they can't make vehicles. I'm not saying. We are not the only ones service we are. There is plenty of privatures in the same sect, you leave the vehicles.
-
-...
-
-[Data](articles/972b1a7f.json)
-
-[Extended Data](ext_articles/972b1a7f.ext.json)
-
----
-
-### Mother waiting for her son for 35 years!
-
-*2025-10-05 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/226948) · `ta`
-
-At the age of 86, when he says these words to embrace the voice, Santhamani Gunaratnam, a retired teacher from Trincomalee, falls into a pool.
-
-◼️
-
-[Data](articles/e5d8b594.json)
-
-[Extended Data](ext_articles/e5d8b594.ext.json)
-
----
-
-### 38 telephone allowances obtained 38 telephone allowances in the Kandy Municipal Council
-
-*2025-10-05 13:37:04* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-මහ-නගර-සභාවේ-38ක්-දුරකතන-දීමනා-දෙකක්-ලබාගෙන/11-418922) · `si`
-
-Although there are two telephone allowers in the Kandy Municipal Council, a audit has recommended that 38 telephone allowers have obtained two telephone allowers.
-
-The officials were paid to a monthly allowance for 38 municipal officials.
-
-The Kandya Municipal Council has provided the audit that the mobile phone supplied by the Urban Council as the duty telephone phone telephone.. The Municipal Council has stated that the private mobile phone was paid in accordance with the Karanna, the Dr. Housing Phone and the Dunusha Dr. Circular Circular.
-
-This information is included in the audit report issued by the Kandy Municipal Council of 2024.
-
-◼️
-
-[Data](articles/c45bb24d.json)
-
-[Extended Data](ext_articles/c45bb24d.ext.json)
-
----
-
-### A pronouncement of strong lightning
-
-*2025-10-05 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215363) · `si`
-
-The Department of Meteorology has issued an announcement in powerful lightning.
-
-The announcement is valid until 11 pm today.
-
-The department states that the Northern, North-Central, Eastern, Uva and Uva and Uva and North Western provinces and thundershowers will occur.
-
-There may be temporary localized strong winds during thundershowers.
-
-The Department of Meteorology is kindly requested to take necessary steps to minimize the damages caused by lightning.
-
-◼️
-
-[Data](articles/78a0af45.json)
-
-[Extended Data](ext_articles/78a0af45.ext.json)
 
 ---

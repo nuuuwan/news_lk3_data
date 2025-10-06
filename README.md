@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 04:38:29**
+As of **2025-10-07 05:20:35**
 
 ## Newspaper Stats
 
-*Scraped **81,695** Articles*
+*Scraped **81,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 894
+lankadeepalk | 895
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,695 (100.0%) of 81,695 articles have been extended.
+81,696 (100.0%) of 81,696 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -402,6 +402,30 @@ Vijay Deverakonda seems to have survived the wounds without injuries as the car 
 [Data](articles/bc7b5d68.json)
 
 [Extended Data](ext_articles/bc7b5d68.ext.json)
+
+---
+
+### Nothing felling name
+
+*2025-10-06 21:59:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උඩ-මහලන-වටණ-හම-නම-අපවත-වත/101-680811) · `si`
+
+Humanitarian Police say that we are being treated at the ICU of the Colombo National Hospital with serious injuries in the University of Sri Lanka.
+
+Unlikely, we have been unfortunately a 24-year-old monk named Dehiattakandi was inscribed in the Veyangoda, Gampaha.
+
+He was speaking to the Homagama Hospital with a three-wheeler imported to the University at around 2.30 pm.
+
+In an inquiry by Hamaddhau Homagama, Homagama, Sri Lanka Buddhist and Pali University, said:
+
+We conducted an internal investigation as a Buddhist and Pali University of Sri Lanka.. First, we were told that I had fallen from a building, even though he fell in a stairs.
+
+The report of our internal investigation has been taken to the relevant divisions. Homagama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/d24a913c.json)
+
+[Extended Data](ext_articles/d24a913c.ext.json)
 
 ---
 
@@ -2014,27 +2038,5 @@ The Minister said that all services were carried out by recruiting to make the p
 [Data](articles/ee103618.json)
 
 [Extended Data](ext_articles/ee103618.ext.json)
-
----
-
-### Bail for the arrested lawyer in Jaffna
-
-*2025-10-06 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227037) · `ta`
-
-Attorney -at -Law has been released on bail of Rs.
-
-Attorney -at -Law at the Attorney -at -Law on Monday (06), who had completed the affirmation of the land on the basis of investigations into the fraud of a land affirmation in the outer area of ​​Jaffna.
-
-After investigating the arrested lawyer, the police have been granted a foreign travel ban, as the Mallakam Magistrate's Magistrate's Court has been allowed to go on a two -day bail worth Rs 10 lakhs.
-
-Meanwhile, the police have reportedly entered the house of the lawyer's house on Sunday and were searching for the police without any court orders and the lawyers will be carrying out a protest on Tuesday, denouncing the police.
-
-Police said they have taken steps to arrest them as some lawyers have been directly involved in the land fraud cases in Jaffna.
-
-◼️
-
-[Data](articles/bd7bb87f.json)
-
-[Extended Data](ext_articles/bd7bb87f.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 00:37:53**
+As of **2025-10-07 01:20:24**
 
 ## Newspaper Stats
 
-*Scraped **81,675** Articles*
+*Scraped **81,679** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
-colombotelegraphcom | 811
+colombotelegraphcom | 812
 lankadeepalk | 894
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
-dailyftlk | 5,666
+dailyftlk | 5,669
 adalk | 7,809
 adaderanalk | 10,493
 tamilmirrorlk | 12,121
@@ -27,9 +27,51 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,673 (100.0%) of 81,675 articles have been extended.
+81,676 (100.0%) of 81,679 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-10-07 (Tuesday)
+
+### Condemning surveillance, harassment, and intimidation of journalist Kumanan Kanapathipillai
+
+*2025-10-07 00:43:38* · [`dailyftlk`](https://www.ft.lk/opinion/Condemning-surveillance-harassment-and-intimidation-of-journalist-Kumanan-Kanapathipillai/14-782635) · `en`
+
+Following is a statement by a group of members of the civil society condemning the harassment of Kumanan Kanapathipillai by the authorities
+
+We, the undersigned, condemn Sri Lankan authorities’ continuing surveillance, harassment, and intimidation of Kumanan Kanapathipillai, a prominent Tamil photojournalist from Mullaithivu.
+
+...
+
+[Data](articles/1f894d21.json)
+
+---
+
+### Aruni Shapiro introduces Adam Smith to Sri Lanka’s readers
+
+*2025-10-07 00:37:37* · [`dailyftlk`](https://www.ft.lk/columns/Aruni-Shapiro-introduces-Adam-Smith-to-Sri-Lanka-s-readers/4-782633) · `en`
+
+Aruni Shapiro, sociologist cum advocate for liberty, has published her 10th book introducing Adam Smith to Sri Lanka’s Sinhala readers under the title ‘Adam Smith and the Wealth of Nations’.1 Her previous books have been on diverse themes like guide to mental health, translation of fictions, translation of rare but valuable books on economics, and biographies. In 2015, as I have explained in a previous article2, she published the writings of the French economist and statesman in the early 19th century, Frederic Bastiat under the title Libertarian Economics. This was the first attempt to introduce Bastiat to Sri Lankan readers. All the copies numbering about 2000 were distributed freely to interested readers by the publisher, Sri Lanka Frederic Bastiat Society, of which Shapiro was one of the patrons. That shows the extent of her dedication for promoting sound and advanced economic literacy among the fellow Sri Lankans.
+
+...
+
+[Data](articles/87a1d1eb.json)
+
+---
+
+### Being Buddhist during genocide
+
+*2025-10-07 00:25:42* · [`dailyftlk`](https://www.ft.lk/columns/Being-Buddhist-during-genocide/4-782632) · `en`
+
+A man sits in the rubble of the collapsed Soussi Tower in Gaza City, which was destroyed last month by Israeli bombardment – (Omar al-Qattaa/AFP)
+
+Yesterday was the Vap Poya (full moon) day. Today, on 7 October, the annual rains retreat (vassāvāsa) ends for Buddhist monastics across the Theravāda world, including those in Sri Lanka. In many temples and monasteries where the monastic residents have spent three months in retreat, following the Vinaya and ancient custom, it is time for the Kaṭhina, the ceremonial offering of a robe.
+
+...
+
+[Data](articles/c2a1efff.json)
+
+---
 
 ### 2025-10-06 (Monday)
 
@@ -44,6 +86,8 @@ A graduate of AOD’s BA (Hons) Graphics and Visual Communication Design program
 ...
 
 [Data](articles/f000266a.json)
+
+[Extended Data](ext_articles/f000266a.ext.json)
 
 ---
 
@@ -60,6 +104,8 @@ CH17 Loyalty is built on the principle of understanding customer behaviour and a
 ...
 
 [Data](articles/b20ffc6e.json)
+
+[Extended Data](ext_articles/b20ffc6e.ext.json)
 
 ---
 
@@ -698,6 +744,20 @@ Police confirmed that three of the women died at the scene, while the fourth wom
 [Data](articles/f0d602d7.json)
 
 [Extended Data](ext_articles/f0d602d7.ext.json)
+
+---
+
+### Aruni Shapiro Introduces Adam Smith To Sri Lanka’s Readers
+
+*2025-10-06 19:12:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/aruni-shapiro-introduces-adam-smith-to-sri-lankas-readers/) · `en`
+
+Aruni Shapiro, sociologist cum advocate for liberty, has published her 10th book introducing Adam Smith to Sri Lanka’s Sinhala readers under the title ‘Adam Smith and the Wealth of Nations’[1]. Her previous books have been on diverse themes like guide to mental health, translation of fictions, translation of rare but valuable books on economics, and biographies. In 2015, as I have explained in a previous article[2], she published the writings of the French economist and statesman in the early 19th century, Frederic Bastiat under the title Libertarian Economics. This was the first attempt to introduce Bastiat to Sri Lankan readers. All the copies numbering about 2000 were distributed freely to interested readers by the publisher, Sri Lanka Frederic Bastiat Society, of which Shapiro was one of the patrons. That shows the extent of her dedication for promoting sound and advanced economic literacy among the fellow Sri Lankans.
+
+...
+
+[Data](articles/e7e433a1.json)
+
+[Extended Data](ext_articles/e7e433a1.ext.json)
 
 ---
 
@@ -1988,97 +2048,5 @@ The President also opened the new two-hub of the Archaeological Museum and the I
 [Data](articles/c93e22d7.json)
 
 [Extended Data](ext_articles/c93e22d7.ext.json)
-
----
-
-### Interruptions in search of remedial shortage of drugs
-
-*2025-10-06 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215403) · `si`
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa says that some of the rules that have been interrupted when it comes to remedy the shortage of drugs.
-
-The Minister said that some of the three-thirds of the government could not change the rules, but some rules were not the ones who had arise from the British today.
-
-The Minister made these comments participating at the opening of the Wipshi Buddhist Center at the Colombo National Hospital premises.
-
-He added that the Minister further stated that he should be done very thoughtfully when it comes to trying to change the rules.
-
-He said that some of the laws existing in the country and finding some of the time to maintain the health service and find out the problems of the donor, psychological and dignity.
-
-◼️
-
-[Data](articles/a6a94923.json)
-
-[Extended Data](ext_articles/a6a94923.ext.json)
-
----
-
-### Sampath Manamberi, Johnston's Secretary?
-
-*2025-10-06 15:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-ஜோன்ஸ்டனின்-செயலாளரா/175-365820) · `ta`
-
-Former minister Johnston Fernando has refused to say that Sampath Manamberi is one of his coordinating secretaries and has said that he is ready to take legal action against those who spread false information.
-
-Fernando made these comments during the Sri Lanka PA (SLPP) event in Kurunegala.
-
-"Now the person Manamberry says that one of my coordinating secretaries. I remind you that I have appointed Coordinating Secretaries from this district, ”he said.
-
-◼️
-
-[Data](articles/525f663f.json)
-
-[Extended Data](ext_articles/525f663f.ext.json)
-
----
-
-### First supermoon of 2025, the Harvest Moon, rises tonight
-
-*2025-10-06 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/113256/first-supermoon-of-2025-the-harvest-moon-rises-tonight) · `en`
-
-The first supermoon of 2025 will appear in our skies tonight kicking off a series of lunar events.
-
-The full Harvest Moon rises in Sri Lanka this evening and will be visible until early hours of tomorrow.
-
-However, it will depend on weather conditions and cloud cover.
-
-This will mark the start of a run of three consecutive supermoons in the final three months of 2025.
-
-It will be the largest and brightest full Moon of the year so far and the first supermoon since November 2024.
-
-The Moon will be about 224,600 miles from Earth compared to the average distance of 238,900 miles. According to NASA, this proximity will make the Moon appear about 30% brighter and 14% larger than a typical full Moon.
-
-Scientifically, a supermoon happens when a full moon coincides with the Moon’s closest approach to Earth in its elliptical orbit, called the perigee.
-
-...
-
-[Data](articles/703a8b0c.json)
-
-[Extended Data](ext_articles/703a8b0c.ext.json)
-
----
-
-### Homes to Beneficiaries in Mannar on World Residential Day
-
-*2025-10-06 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227028) · `ta`
-
-Under the 'Sematta Nivana' subsidy scheme in Mannar district, 30 houses built by the Mannar National Housing Development Authority have been opened.
-
-The event was launched on Sunday (5) to mark World Residential Day.
-
-Through the National Housing Authority, a plan to provide housing for families who are not comfortable with Rs.
-
-In the Mannar district, Mannar, Nanattan, Musali, Manthai West and Madhu were selected in a Divisional Secretariat Division of 6 beneficiaries.
-
-Accordingly, the houses of the beneficiaries have been set up at the Additional Financial Cost of the Beneficiaries as a sum of Rs.
-
-The District Manager of the Mannar District National Housing Development Authority AM Ibrahim was inaugurated this morning (6).
-
-Parliamentarian Jagadeeswaran, Divisional Secretaries, Planning Officer, Mannar District National Housing Development Authority staff participated in the event.
-
-◼️
-
-[Data](articles/98bbeb36.json)
-
-[Extended Data](ext_articles/98bbeb36.ext.json)
 
 ---

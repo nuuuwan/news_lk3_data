@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 11:20:32**
+As of **2025-10-06 11:07:29**
 
 ## Newspaper Stats
 
-*Scraped **81,459** Articles*
+*Scraped **81,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,73 +19,19 @@ islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,800
 adaderanalk | 10,460
-tamilmirrorlk | 12,090
+tamilmirrorlk | 12,088
 virakesarilk | 13,393
-adaderanasinhalalk | 14,003
+adaderanasinhalalk | 14,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,453 (100.0%) of 81,459 articles have been extended.
+81,453 (100.0%) of 81,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
-
-### පිහිනුම් තටාකයේ ගිලී සිසුවෙකු ජීවිතක්ෂයට
-
-*2025-10-06 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215395) · `si`
-
-පිහිනුම් තටාකයට වැටුණු ක්‍රිකට් පන්දුව ගැනීමට ගිය පාසල් සිසුවෙකු පිහිනුම් තටාකයේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
-
-අදාළ සිසුවා තවත් සිසුන් පිරිසක් සමග පාසලේ ක්‍රීඩාංගනයේ ක්‍රිකට් ක්‍රීඩා කරමින් සිටියදී ක්‍රිකට් පන්දුව එම විද්‍යාලයේම පිහිනුම් තටාකයට වැටී ඇති අතර ඔහු එය ගැනීමට උත්සාහ කිරීමේ දී මෙම අනතුරට මුහුණ දී ඇත.
-
-මෙලෙස මියගොස් ඇත්තේ දික්වැල්ල විජිත මහා විද්‍යාලයේ 12 වැනි වසරේ ඉගෙනුම ලබන වයස අවුරුදු 17ක් වන පාසල් සිසුවෙකි.
-
-මෘත ශරීරය මෙ වන විට බතිගම රෝහල් මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සිද්ධිය සම්බන්ධයෙන් දික්වැල්ල පොලීසිය වැඩිදුර පරීක්ෂණ පවත්වයි.
-
-◼️
-
-[Data](articles/489d47b1.json)
-
----
-
-### நாட்டில் பிறப்பும் திருமணமும் குறைந்துள்ளது
-
-*2025-10-06 10:55:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-பிறப்பும்-திருமணமும்-குறைந்துள்ளது/175-365799) · `ta`
-
-2020 ஆம் ஆண்டுடன் ஒப்பிடும்போது 2024 ஆம் ஆண்டில் நாட்டில் பிறப்புகளின் எண்ணிக்கை 80,945 குறைந்துள்ளதாக பதிவாளர் நாயகம் திணைக்களம் தெரிவித்துள்ளது.
-
-2024 ஆம் ஆண்டில் அதிக பிறப்புகள் கொழும்பு மாவட்டத்தில் பதிவாகியுள்ளன, அதே நேரத்தில் மிகக் குறைந்த பிறப்புகள் முல்லைத்தீவு பகுதியில் 846  பிறப்புகள் பதிவாகியுள்ளன,
-
-பதிவாளர் நாயகம் துறையின் பதிவுகளின்படி, 2021 முதல் 2024 வரை இறப்புகளின் எண்ணிக்கையும் கணிசமாக அதிகரித்துள்ளது.
-
-2023 உடன் ஒப்பிடும்போது 2024 இல் திருமணம் செய்துகொள்பவர்களின் எண்ணிக்கை 12,066 குறைந்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
-
-◼️
-
-[Data](articles/8b7218ed.json)
-
----
-
-### තැපෑලේ වංචා ගැන කියූ තැපැල්පතිගේ ප්‍රකාශයට තැපැල් වෘත්තිය සංගම්වලින් විරෝධය
-
-*2025-10-06 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215394) · `si`
-
-තැපැල් සේවකයින් විසින් අනීතික ලෙස අතිකාල ලබාගෙන ඇති බවට තැපැල්පතිවරයා සිදුකළ ප්‍රකාශයට දැඩි ලෙස අප්‍රසාදය පල කරන බව තැපැල් වෘත්තීය සමිති පවසයි.
-
-ඒ අනුව තැපැල්පතිවරයාගේ අදාළ ප්‍රකාශයට විරෝධය පල කරමින් එළැඹෙන 09 වැනිදා කළුපටි පැළඳ සේවයට වාර්තා කරන බව තැපැල් හා විදුලි සංදේශ නිලධාරීන්ගේ සංගමයේ සභාපති ජි.ජි.සී.නිරෝෂන මහතා පැවසුවේය.
-
-මේ අතර ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා ද පැවසුවේ කිසිදු විමර්ශනයකින් තොරව තැපැල්පතිවරයා විසින් තැපැල් සේවකයින් හට සිදුකරන චෝදනාවලට දැඩි විරෝධය පල කරන බවත්ය.
-
-ඇඟිලි සළකුණ නොතබා තැපැල් සේවකයින් රුපියල් කෝටි ගණනක අතිකාල ලබාගෙන ඇති බවත් තැපෑලේ සිදුවන තවත් අක්‍රමිකතා රැසක් සම්බන්ධවත් හපුතලේ ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් තැපැල්පති රුවන් සත්කුමාර මහතා පසුගියදා ප්‍රකාශ කළේය.
-
-...
-
-[Data](articles/a4e82064.json)
-
----
 
 ### Former Minister Wimal Weerawansa Postpones Appearance at Tangalle Crimes Unit
 
@@ -98,20 +44,6 @@ COLOMBO (News 1st): Former Minister Wimal Weerawansa has informed authorities th
 [Data](articles/a37de845.json)
 
 [Extended Data](ext_articles/a37de845.ext.json)
-
----
-
-### உள்ளக போட்டியில் இணைந்த இரு உள்ளங்கள்
-
-*2025-10-06 10:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உள்ளக-போட்டியில்-இணைந்த-இரு-உள்ளங்கள்/44-365797) · `ta`
-
-இலங்கையில் தற்போது நடைபெற்றுக்கொண்டிருக்கும் 2025 உலக உள்ளக கிரிக்கெட் போட்டியில் பங்கேற்பதற்காக வந்திருக்கும் இங்கிலாந்து ஆண்கள் உள்ளக கிரிக்கெட் அணியின் கேப்டன் நவ் படேல் மற்றும் இங்கிலாந்து பெண்கள் உள்ளக  கிரிக்கெட் அணியின் உறுப்பினர் மல்லோரி பார்டோஸ் ஆகியோர்   இலங்கையில்   நிச்சயதார்த்தம் செய்து கொண்டனர்.
-
-புதுமணத் தம்பதிகள் மவுண்ட் லாவினியா ஹோட்டலில் தங்கள் குடும்ப உறுப்பினர்கள் முன்னிலையில் திருமண மோதிரங்களை மாற்றிக்கொண்டனர். 2025 ஐசிசி உள்ளக உலகக் கோப்பை தற்போது தலவதுகொடவில் உள்ள ஆஸ்திரேலியா உள்ளக  கிரிக்கெட் மைதானத்தில் நடைபெறுகிறது.
-
-◼️
-
-[Data](articles/85186cd2.json)
 
 ---
 
@@ -1970,5 +1902,83 @@ The interests of the importance of the island of Sri Lanka should be experienced
 [Data](articles/c0e26187.json)
 
 [Extended Data](ext_articles/c0e26187.ext.json)
+
+---
+
+### Karur disaster and Vijay's political future
+
+*2025-10-05 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226952) · `ta`
+
+Temple festivals, religious gatherings, sports and railway stations in India are not new.. They can be said to be frequent disasters. People have died in jam even in sports and some film launch events.
+
+◼️
+
+[Data](articles/7f3b28fa.json)
+
+[Extended Data](ext_articles/7f3b28fa.ext.json)
+
+---
+
+### Elpitiya was not shot dead by police
+
+*2025-10-05 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215372) · `si`
+
+Elpitiya last night's house was launched last night.
+
+In a statement, the Police Media Division stated that this was revealed at investigations carried out in the house.
+
+The Elpitiya Police had received a complaint that the house was damaged by a window in front of a nearby house due to a shooting.
+
+Accordingly, Elpitiya Police and Criminal Investigations Officers have conducted investigations have been carried out.
+
+Investigations carried out by the Elpitiya Criminal Investigations Officers of the Elpitiya Crimes Officers have revealed that this is not the case due to a shooting.
+
+Investigations have revealed that the eruption caused by exploding after being prepared and dipped with a tube, a 'mobolizer and a' burst.
+
+Further investigations are underway into the incident and is due to the Government Analyst's Analyst.
+
+◼️
+
+[Data](articles/bb25549b.json)
+
+[Extended Data](ext_articles/bb25549b.ext.json)
+
+---
+
+### The National People's Power Government is not exceptional
+
+*2025-10-05 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/226951) · `ta`
+
+In the Mannar affair, Tamil political parties stand behind the people where they need to stand in front of the people. இது மிகவும் கவலைக்குரியதாகும்.
+
+◼️
+
+[Data](articles/18ad18f4.json)
+
+[Extended Data](ext_articles/18ad18f4.ext.json)
+
+---
+
+### 1000 low income families vested with the public
+
+*2025-10-05 16:12:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අඩ-ආදයමලභ-නවස-1000ක-ජනත-අයතයට/101-680761) · `si`
+
+World Resources Day National Commerce was held at Temple Trees today (5) under the patronage of President Anura Kumara Dissanayake.
+
+The National Celebration was held under the theme "A Beautiful Life" in parallel to the United Nations World Hostering Day.
+
+The President also handed over a half of the working houses throughout the country to build houses for nearly 4,000 poor families who have not been able to build a house to build a house.
+
+The official handing over the Symptorian Award to the President is to implement the CDR Water Supply Project to implement the Indian government and Coalition For Disaster Resproductrust (CDRI) by the intervention of the UN Habitat.
+
+Giving housing deeds on various reasons
+
+The President also presented awards to winners of the winners and the winners of the winners and the Urban Development Authority, which was widely implemented by the World Holding Day.
+
+...
+
+[Data](articles/27c95ea9.json)
+
+[Extended Data](ext_articles/27c95ea9.ext.json)
 
 ---

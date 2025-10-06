@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 03:20:34**
+As of **2025-10-07 03:55:25**
 
 ## Newspaper Stats
 
-*Scraped **81,688** Articles*
+*Scraped **81,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ lankadeepalk | 894
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
-dailyftlk | 5,676
+dailyftlk | 5,683
 adalk | 7,809
 adaderanalk | 10,493
 tamilmirrorlk | 12,121
@@ -27,11 +27,141 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,688 (100.0%) of 81,688 articles have been extended.
+81,695 (100.0%) of 81,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### International Day for Universal Access to Information
+
+*2025-10-07 03:06:34* · [`dailyftlk`](https://www.ft.lk/news/International-Day-for-Universal-Access-to-Information/56-782667) · `en`
+
+Environmental information systems must be transparent, well-organised, and easily accessible, including for people with disabilities
+
+Following is the statement endorsed by the participants at the International Day for Universal Access to Information held in Manila, Republic of the Philippines on 29-30 September 2025.
+
+In accordance with the 1948 Universal Declaration of Human Rights,
+
+Recalling key international instruments, including the 1992 Rio Declaration, especially Principle 10, and the 2015 Paris Agreement, in particular its Preamble, which affirms the integration of human rights in climate action, and its Article 12, which promotes cooperation to enhance climate change education, training, public awareness, public participation and public access to information.
+
+...
+
+[Data](articles/94582940.json)
+
+[Extended Data](ext_articles/94582940.ext.json)
+
+---
+
+### Series of religious blessing programs to mark 76th anniversary of SL Army
+
+*2025-10-07 03:04:30* · [`dailyftlk`](https://www.ft.lk/news/Series-of-religious-blessing-programs-to-mark-76th-anniversary-of-SL-Army/56-782666) · `en`
+
+The Sri Lanka Army has commenced a series of multi-religious blessing ceremonies in connection with its 76th Anniversary, falling on 10 October.
+
+These programs, held across the country, invoked blessings on the Army, its personnel, and the motherland, reflecting the nation’s rich religious and cultural traditions.
+
+The inaugural ceremony was held on 26 September at the Jaya Sri Maha Bodhi, Anuradhapura, under the patronage of Commander of the Army Lieutenant General Lasantha Rodrigo. A procession, carrying flags of all Army establishments, began near the historic Ruwanweli Seya and proceeded to the Jaya Sri Maha Bodhi, where the flags were blessed before the sacred tree.
+
+Simultaneously, Hindu religious rites were conducted at the Sri Kandasamy Kovil, Vavuniya, also under the patronage of the Army Commander. In addition, the Commander paid a special visit to ‘Abhimansala 1’ wellness resort in Anuradhapura, where he inquired into the wellbeing of disabled veterans undergoing treatment.
+
+...
+
+[Data](articles/7009856e.json)
+
+[Extended Data](ext_articles/7009856e.ext.json)
+
+---
+
+### Lanka IOC ‘brings energy to life’  in partnership with Rescue Animals
+
+*2025-10-07 03:00:27* · [`dailyftlk`](https://www.ft.lk/news/Lanka-IOC-brings-energy-to-life-in-partnership-with-Rescue-Animals/56-782665) · `en`
+
+LIOC Managing Director Dipak Das (right) exchanges partnership agreement with RAS Co-Founder and Trustee Anusha David. Others (from left): LIOC Company Secretary Amali Liyanapatabendi, Senior Vice President – Retail Sales and HR Jitendra Sharma,  Senior Manager – Finance Pradeep De Silva, Senior Manager – Human Resources Sheran Henarathgoda and  Manager – Administration Harry Wilson
+
+Lanka IOC PLC has come on board to partner with Rescue Animals Sri Lanka (RAS), in the latter’s fundraiser, Gabriel’s Charity Auction and Fashion Show in aid of Rescue Animals Sri Lanka, on 31 October at the Cinnamon Grand.
+
+Lanka IOC Managing Director Dipak Das said: “Sustainability is at the heart of our business model. Our decision to partner with RAS stems from our corporate commitment to provide environmentally responsible energy, and help engage communities establish win-win partnerships for humans and nature.”
+
+...
+
+[Data](articles/5f204caa.json)
+
+[Extended Data](ext_articles/5f204caa.ext.json)
+
+---
+
+### Sri Lanka reports third highest child displacements from climate disasters in South Asia
+
+*2025-10-07 02:54:44* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-reports-third-highest-child-displacements-from-climate-disasters-in-South-Asia/56-782664) · `en`
+
+Sri Lanka has recorded the third highest number of child displacements from climate-related disasters in South Asia, following India and Bangladesh, according to a new report by the United Nations Children’s Fund (UNICEF) for South Asia.
+
+“India, given its large population, experienced the highest absolute number of child displacements linked to weather-related disasters during this period, totalling 6.9 million across all hazards,” the report said.
+
+“Bangladesh recorded the highest relative impacts, with child displacements representing an estimated 7.2% of its child population. Sri Lanka followed closely, with an estimated 4.6% of its under-18 population displaced over the past seven years.”
+
+...
+
+[Data](articles/47267f69.json)
+
+[Extended Data](ext_articles/47267f69.ext.json)
+
+---
+
+### ECSL named Electoral Commission of the Year at International Electoral Awards 2025
+
+*2025-10-07 02:53:42* · [`dailyftlk`](https://www.ft.lk/news/ECSL-named-Electoral-Commission-of-the-Year-at-International-Electoral-Awards-2025/56-782663) · `en`
+
+Commissioner General of Elections Saman Sri Ratnayake (left) receiving the Electoral Commission of the Year award
+
+The Election Commission of Sri Lanka (ECSL) was named the Electoral Commission of the Year at 2025 International Electoral Awards Ceremony held in Gaborone, Botswana on Friday (3). The Award was received by the Commissioner General of Elections Saman Sri Ratnayake.
+
+When selecting the recipient, the awards committee takes into consideration the effort taken to foster a community of good citizens among election practitioners and the search for best practice, evidence based research and policy in the field of elections of Electoral Commissions worldwide.
+
+...
+
+[Data](articles/729cf13e.json)
+
+[Extended Data](ext_articles/729cf13e.ext.json)
+
+---
+
+### Outdated laws obstacle to resolving drugs shortages, says Health Minister
+
+*2025-10-07 02:51:51* · [`dailyftlk`](https://www.ft.lk/news/Outdated-laws-obstacle-to-resolving-drugs-shortages-says-Health-Minister/56-782662) · `en`
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa said that several long-standing laws and regulations are obstructing efforts to address the ongoing shortage of medicines in the country.
+
+He noted that while some question why the Government cannot amend these laws despite having a Parliamentary majority, many of the regulations in question are not new but inherited from the British colonial period.
+
+Speaking at the opening of the Vipassi Buddhist Centre at the Colombo National Hospital, Dr. Jayatissa stressed that legal reforms in the health sector must be approached carefully, as existing rules are interlinked and cannot be amended in isolation.
+
+...
+
+[Data](articles/7d61bbe2.json)
+
+[Extended Data](ext_articles/7d61bbe2.ext.json)
+
+---
+
+### President opens Somawathi Archaeological Museum, International Archaeological Research Institute
+
+*2025-10-07 02:49:59* · [`dailyftlk`](https://www.ft.lk/news/President-opens-Somawathi-Archaeological-Museum-International-Archaeological-Research-Institute/56-782661) · `en`
+
+President Anura Kumara Disanayake yesterday declared open the newly constructed two-storey building housing the Archaeological Museum and the International Archaeological Research Institute at the historic Somawathi sacred area in Polonnaruwa.
+
+This two-storey building was constructed under the plans and supervision of the Department of Archaeology, following the guidance of the Chief Incumbent of the historic Somawathi Raja Maha Vihara and Registrar of the Mahavihara Vansika Syamopali Maha Nikaya of the Malwatta Chapter, the Most Venerable Dr. Pahamune Sri Sumangala Nayaka Thero.
+
+The project was fully funded through the generous financial contribution of Rathna Group Chairman Mithrapala Lankeshwara to facilitate the convenience of devotees from around the world who visit the historic Somawathi Chaityarajaya in Polonnaruwa where the Sacred Right Tooth Relic of Lord Buddha is enshrined, as well as those engaged in educational and research activities.
+
+...
+
+[Data](articles/e7e4f39e.json)
+
+[Extended Data](ext_articles/e7e4f39e.ext.json)
+
+---
 
 ### All Island Dairy Association commits support to boost local production
 
@@ -1906,147 +2036,5 @@ Police said they have taken steps to arrest them as some lawyers have been direc
 [Data](articles/bd7bb87f.json)
 
 [Extended Data](ext_articles/bd7bb87f.ext.json)
-
----
-
-### Crookabadia is rivaling Wikipedia
-
-*2025-10-06 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/விக்கிபீடியாவுக்கு-போட்டியாக-வருகிறது-குரோக்பீடியா/57-365828) · `ta`
-
-American businessman Elon Mask has been informed of the information about Vig Gibidi Ya as Bot D Ya as Bott D Y
-
-Vig Gibidia, the world, was operating in the world of 2001. Vic Kmdia Charity Cut Dile. This site provides information on over 300 languages. About 6.5 crores of crores are available.
-
-At the same time, the US businessman Elon Mask has been able to face the new information about Vig Gibidi Ya as Bott D Y. On Sunday (05), he said, “In the next 2 weeks, he said,
-
-In March 2023, the Business Tuber Elon Musk Sir Bill Started in March 2023. X AI Sir Bill 2023 Navam Baril Chat Chat. The next cut -up X -AI Sir Bill, the information called Grok Beedia has been launched.
-
-68 Lut Sum Cut Duras in Ang Kila Language. In addition, there are also services on language dictionary, books, public knowledge, public knowledge, sarvalalalanga.
-
-In the series, the Senior High Care of the Forest Social Web Site. The facts are hidden.
-
-...
-
-[Data](articles/7bd9ea10.json)
-
-[Extended Data](ext_articles/7bd9ea10.ext.json)
-
----
-
-### A fatal accident on the Gampola - Doluwa on the Doluwa Road
-
-*2025-10-06 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215405) · `si`
-
-Three persons were killed and another injured in the road with the road in the Gampola and Doluwa.
-
-A car traveled by a car collided with a lorry.
-
-◼️
-
-[Data](articles/623687d9.json)
-
-[Extended Data](ext_articles/623687d9.ext.json)
-
----
-
-### Three killed, one injured in road accident in Gampola
-
-*2025-10-06 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113259/three-killed-one-injured-in-road-accident-in-gampola) · `en`
-
-Three women have died while another has sustained injuries in a road accident that occurred in Doluwa, Gampola, police stated.
-
-Police stated that the four women were attempting to cross the road when they were hit by a motor vehicle.
-
-It is reported that the women had come to the area to attend a religious program at a nearby temple when the incident occurred.
-
-Three of the women died at the scene, while the injured woman has been admitted to the Gampola Hospital for treatment.
-
-◼️
-
-[Data](articles/0e9ed750.json)
-
-[Extended Data](ext_articles/0e9ed750.ext.json)
-
----
-
-### French Prime Minister resigns
-
-*2025-10-06 15:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரான்ஸ்-பிரதமர்-திடீர்-இராஜினாமா/50-365827) · `ta`
-
-France Prime Minister Jebastian Lecornu has suddenly resigned from his post as the 47th Prime Minister of France on September 9, 2025.
-
-A few hours after he announced his resignation, the deviation was announced, according to the media reports.. Her resignation has caused further confusion in France's politics, with President Emmanuel Macron has accepted his resignation.
-
-At the same time, President Macron is reportedly considering who can elect France's next Prime Minister.. The details of the appointment of the new Prime Minister have not yet been released. The resignation of Legurnu, the 4th Prime Minister within a year, has caused a stir in France.
-
-◼️
-
-[Data](articles/f4654237.json)
-
-[Extended Data](ext_articles/f4654237.ext.json)
-
----
-
-### Existing regulations hinder efforts to resolve the medicine shortage – Health Minister
-
-*2025-10-06 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113258/existing-regulations-hinder-efforts-to-resolve-the-medicine-shortage-health-minister-) · `en`
-
-Certain existing laws and regulations have become obstacles in addressing the current medicine shortage, Minister of Health and Mass Media Dr. Nalinda Jayatissa has said.
-
-The Health Minister stated that although some may question why the government, even with a two-thirds majority, cannot amend these laws, it must be understood that many of these regulations are not recent, but date back to the British colonial era.
-
-He made these remarks while attending the opening ceremony of the Vipassi Buddhist Center, located within the premises of the Colombo National Hospital.
-
-Speaking at the event, Minister Dr. Nalinda Jayatissa emphasised that any attempt to amend the current laws and regulations must be done with great care, as they are interconnected and cannot be changed in isolation.
-
-...
-
-[Data](articles/e21eeaf4.json)
-
-[Extended Data](ext_articles/e21eeaf4.ext.json)
-
----
-
-### The mysterious object invented from the trash mound!
-
-*2025-10-06 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227032) · `ta`
-
-Grandpass police said that a gun has been found from the Colombo -Madhampitti garbage mound.
-
-The gun was found in a roundup carried out on information received by the Grandpass police.
-
-Police suspect that someone may have taken the gun on the trash.
-
-◼️
-
-[Data](articles/267abf40.json)
-
-[Extended Data](ext_articles/267abf40.ext.json)
-
----
-
-### Police investigate two arrested with ice drugs
-
-*2025-10-06 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/227034) · `ta`
-
-Ampara District - A man has been arrested with ice drugs and a sum of money in the area of ​​the big Neelawana Police Division.
-
-The Kalmunai Special Task Force (STF) was carrying out an arrest on Sunday night (05).
-
-A sum of money, including 760 milligrams of ice, was seized from the suspect.
-
-The detainee. 36 years old from the road. It is also worth noting that this person was arrested on a drug charge.
-
-Meanwhile, a 27 -year -old suspect was arrested by the Kalmunai Special Task Force near the school on the Kalmunaikudi -3 coastal road from the Kalmunai Headquarters Police Division.
-
-1,800 milligrams of ice were seized from the suspect. Kalmunai Special Task Force said the suspect was arrested in the guise of a sweet dealer.
-
-After investigating the suspect, the Kalmunai Special Task Force (STF) has taken steps to appear in the Kalmunai Magistrate's Court.
-
-◼️
-
-[Data](articles/c98a473d.json)
-
-[Extended Data](ext_articles/c98a473d.ext.json)
 
 ---

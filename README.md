@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 11:40:59**
+As of **2025-10-06 12:25:20**
 
 ## Newspaper Stats
 
-*Scraped **81,459** Articles*
+*Scraped **81,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,266 @@ newsfirstlk | 616
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 837
+lankadeepalk | 845
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
-adalk | 7,800
-adaderanalk | 10,460
-tamilmirrorlk | 12,090
+adalk | 7,801
+adaderanalk | 10,468
+tamilmirrorlk | 12,097
 virakesarilk | 13,393
-adaderanasinhalalk | 14,003
+adaderanasinhalalk | 14,005
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,459 (100.0%) of 81,459 articles have been extended.
+81,476 (100.0%) of 81,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### மருத்துவமனையில் தீ: 6 நோயாளிகள் கருகினர்
+
+*2025-10-06 12:08:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவமனையில்-தீ-6-நோயாளிகள்-கருகினர்/175-365806) · `ta`
+
+ராஜஸ்தான் மாநிலம் ஜெய்ப்பூரில் உள்ள மருத்துவமனை ஒன்றில்,இன்று (06) அதிகாலை பயங்கர தீ விபத்து ஏற்பட்டது. இந்த தீ விபத்தில் நோயாளிகள் 6 பேர் உயிரிழந்தனர். மேலும் 5 பேர் படுகாயங்களுடன் மீட்கப்பட்டு உள்ளனர். இவர்களது நிலைமை கவலைக்கிடமாக உள்ளது. இதனால் பலி எண்ணிக்கை அதிகரிக்கும் என அஞ்சப்படுகிறது.
+
+இது குறித்து மருத்துவமனை நிர்வாகம் தரப்பில் கூறப்பட்டதாவது: அவசர சிகிச்சை பிரிவில் (ஐசியூ) ஒரு ஷார்ட் சர்க்யூட் ஏற்பட்டதால் தீ விபத்து ஏற்பட்டது. பின்னர் தீ மளமளவென பரவியது. தீ விபத்து ஏற்பட்ட போது ஐசியுவில் 11 நோயாளிகள் இருந்தனர். அவர்களில் பெரும்பாலானோர் கோமா நிலையில் இருந்தனர். தீ விபத்துக்கு பிறகு, உடனடியாக அவர்களை டிராலிகளில் மீட்டு, முடிந்தவரை பல நோயாளிகளை ஐசியுவிலிருந்து வெளியே கொண்டு வந்தோம். பின்னர் நீண்ட நேரம் போராடி சிகிச்சை அளித்தோம்.
+
+...
+
+[Data](articles/7a4c582f.json)
+
+---
+
+### අයහපත් කාලගුණය හේතුවෙන් එවරසට් තරණයට ගිය 200ක් සිරවෙයි
+
+*2025-10-06 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215397) · `si`
+
+චීනයට අයත් එවරස්ට් කන්දේ නැගෙනහිර මුහුණතේ ඇති වූ දරුණු හිමපතනය සමඟ කඳුනගින්නන් 200කට ආසන්න පිරිසක් එහි කොටුවී සිටින බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+අඛණ්ඩව ඇද හැළෙන අධික හිම පතනය හේතුවෙන් එවරස්ට් කන්දේ නැගෙනහිර මුහුණතේ පිහිටි ටිබෙට් නිම්නය ඔස්සේ කන්ද තරණය කරන පිරිසට බලපෑම එල්ල වන්නේ පසුගිය සිකුරාදා දින සිටය.
+
+මේ හේතුවෙන් කඳු නගින්නන් රැසක් එහි සිරවී ඇති අතර ඇතැම් පිරිස් ඒ ආසන්නයේ පිහිටි කුඩා ගම්මාන වෙත ගමන් කර තිබේ.
+
+මෙලෙස කඳු මුදුනතේ සිටින පිරිස මුදා ගැනීමට චීන රජය මේ වන විට දැවැන්ත මෙහෙයුමක්ද ආරම්භ කර ඇත.
+
+චීන මාධ්‍ය වාර්තා කර ඇත්තේ මේ වන විට එහි සිරවී සිටින පිරිස 200කට ආසන්න වන බවය.
+
+මේ අතර පවතින කාලගුණික තත්ත්වය හමුවේ පිරිස මුදා ගැනීමේ මෙහෙයුම්ද අසීරු වී ඇතැයිද වාර්තා වේ.
+
+කෙසේ නමුත් අසීරු කාලගුණය හමුවේ පවා අසල පිහිටි කුඩාන් ගම්මානය වෙත ගමන් කළ පිරිස 350කට  ආසන්න වන බවත් මේ වන විට චීන මාධ්‍ය වාර්තා හී සඳහන් ව තිබේ.
+
+...
+
+[Data](articles/0fbdd605.json)
+
+---
+
+### இலங்கையில் தினசரி 100 புதிய புற்றுநோய் நோயாளிகள் அடையாளம்
+
+*2025-10-06 11:48:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-தினசரி-100-புதிய-புற்றுநோய்-நோயாளிகள்-அடையாளம்/175-365805) · `ta`
+
+இலங்கையில் ஒவ்வொரு நாளும் சுமார் 100 புதிய புற்றுநோய் நோயாளிகள் கண்டறியபடுவதாகவும், ஆண்டுதோறும் கிட்டத்தட்ட 35,000 பேர் பாதிக்கப்படுவதாகவும் தெரியவந்துள்ளது.
+
+சுகாதார மற்றும்  ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸவின் கூற்றுப்படி, நாட்டில் வாய்வழி புற்றுநோய் மிகவும் பொதுவாக கண்டறியப்படும் வடிவமாக உள்ளது.
+
+புற்றுநோய் சிகிச்சை சுகாதாரத் துறையின் மீது பெரும் சுமையை ஏற்படுத்துகிறது என்றும், மொத்த மருந்து செலவில் கிட்டத்தட்ட 30 சதவீதம் புற்றுநோய் மருந்துகளுக்கு ஒதுக்கப்படுகிறது என்றும் அமைச்சர் மேலும் சுட்டிக்காட்டினார்.
+
+"புற்று நோய் மருந்துகளின் எண்ணிக்கை ஒப்பீட்டளவில் குறைவாக இருந்தாலும், அவற்றின் செலவுகள் மிக அதிகம்" என்று அமைச்சர் குறிப்பிட்டார்.
+
+30 முதல் 70 வயதுடைய இலங்கையர்களிடம் பெரும்பாலான இறப்புகளுக்கு காரணம் தொற்றா நோய்கள்(NCDs) ஏற்படுத்தும் பரந்த அச்சுறுத்தல் குறித்து அமைச்சர் நளிந்த ஜயதிஸ்ஸ குறிப்பிட்டார்.
+
+...
+
+[Data](articles/fa0329f1.json)
+
+---
+
+### 32 புறாக்கள் திருட்டு
+
+*2025-10-06 11:47:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/32-புறாக்கள்-திருட்டு/175-365804) · `ta`
+
+தெஹிவளை தேசிய மிருகக்காட்சிசாலையில் இருந்து 32 புறாக்கள் திருடப்பட்டுள்ளதாக தெஹிவளை பொலிஸார் தெரிவிக்கின்றனர்.
+
+தேசிய மிருகக்காட்சிசாலையின் உதவி பணிப்பாளர் எச்.ஏ.டி.பி. சமன்மாலி, தெஹிவளை பொலிஸாருக்கு செய்த முறைப்பாட்டின் பிரகாரம்,  கடந்த 4 ஆம் திகதி அதிகாலையில் இந்தத் திருட்டு நடந்துள்ளது.
+
+இந்தியாவில் இருந்து சட்டவிரோதமாக படகு மூலம் நாட்டிற்கு கடந்த ஜூன் மாதம் கொண்டு வரப்பட்ட 63 புறாக்கள் பொலிஸாரால் கைப்பற்றப்பட்டு, மன்னார் நீதவான் நீதிமன்றத்தின் உத்தரவின்படி தெஹிவளை தேசிய மிருகக்காட்சிசாலையில் ஒப்படைக்கப்பட்டன.
+
+காணாமல் போன புறாக்கள் குறித்து இதுவரை எந்த தகவலும் வெளியாகவில்லை. தெஹிவளை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/880c099a.json)
+
+---
+
+### பத்தியால் சிக்கிய முழு கிராமம்: நடுவீதியில் திண்டாட்டம்
+
+*2025-10-06 11:37:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பத்தியால்-சிக்கிய-முழு-கிராமம்-நடுவீதியில்-திண்டாட்டம்/150-365803) · `ta`
+
+அம்பாறை மாவட்டம் தமன பிரதேச செயலாளர் பிரிவில் அமைந்துள்ள பன்னல்கம கிராம மக்கள் அனைவரும் பிரமிட் திட்டத்திற்குள் சிக்கி கடனாளிகளாகிவிட்டனர்.
+
+சில மாதங்களுக்கு முன்பு, பன்னல்கம கிராமத்தில் உள்ள ஒரு வீட்டில் அருணலு பஹன்சிலு என்ற பெயரில் விளக்கு திரிகளை  தயாரிக்கும் நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+சிறிது காலத்திற்குப் பிறகு, இது ஒரு பத்தி தயாரிக்கும் தொழிலாகத் தொடங்கப்பட்டது, மேலும் கிராம மக்களுக்கும் அதில் பங்கேற்க வாய்ப்பு வழங்கப்பட்டது.
+
+ஒருவர் ரூ. 50,000 தொகையை வைப்பீடு செய்யும்போது, ​​அவர்களுக்கு 1,000 பத்திகள் மற்றும் பெட்டிகள் வழங்கப்படுகின்றன. பத்திகளை பெட்டிகளில் அடைத்து, தயாரித்து, கொண்டு வந்து ஒப்படைக்கும்போது, ​​இந்த நிறுவனம் ரூ. 75,000 தொகையை வழங்கியுள்ளது.
+
+பன்னல்கம கிராமத்தில் தொடங்கப்பட்டு இந்த வர்த்தகத்தில், கிராமத்தில் ஏராளமான மக்கள் ரூ. 50,000 யை செலுத்தி, பத்திகளை எடுத்து, பொதிச்  செய்து திருப்பி அனுப்பி, ரூ. 75,000 பெற்றுள்ளனர்.
+
+...
+
+[Data](articles/9a156f66.json)
+
+---
+
+### Children are my friends
+
+*2025-10-06 11:31:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරව-තමය-මග-මතර/101-680784) · `si`
+
+Many days from the day of his visit to Carlton home
+
+"It is a pleasure to be their friend as their friend, who showed a drawing, and telling children who are reading stories," he says.
+
+Mr. Mahinda Rajapaksa is a note on his official Facebook site.
+
+"I think that the best thing I can give me the best thing I can give me for the herd in herborn generation of our country by ending the dark age of the motherland and won a free country. I wish the people of this country were smiling and dreaming and dreamed of their children.
+
+All the teachers of the world and the forefront of the teachers, including the teachers and fathers who are in the forefront of the children, are also honored today, as well as the teachers of the country, including the world's dreams.
+
+◼️
+
+[Data](articles/db0c5051.json)
+
+[Extended Data](ext_articles/db0c5051.ext.json)
+
+---
+
+### Dehiwala Zones 32 pigees missing
+
+*2025-10-06 11:25:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දහවල-සතන-වතතන-පරවයන-32ක-අතරදන/101-680783) · `si`
+
+Thirty National Zoo, two pigeons were stolen, Dehiwala police said.
+
+The assistant Director of the National Zoologian has complained to the Dehiwala Police that the theft had taken place on the 4th.
+
+The pigeons were handed over to the Dehiwala National Zoo after a directive in India from Boat from India.
+
+No information has been revealed to the lost pigeons. Police are conducting further investigations.
+
+◼️
+
+[Data](articles/93ae9f13.json)
+
+[Extended Data](ext_articles/93ae9f13.ext.json)
+
+---
+
+### Some laws crosses some of the laws to address the shortage of drugs
+
+*2025-10-06 11:22:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඖෂධ-හඟයට-පළයම-හයනන-සමහර-නත-හරසවල/101-680782) · `si`
+
+Some of the rules that have been taken to address the shortage of drugs have been disturbed by Health and Mass Media Dr. Nalinda Jayatissa.
+
+He said to be a problem, whether there is no two-thirds power and change the rules.
+
+The Minister pointed out that some of the rules clashes yesterday, but from the British period.
+
+The Minister was opening the Wipshi Buddhist Center at the Colombo National Hospital premises.
+
+The opening of the Amaraiyapura Maha Sangha Sangha Sangha Sangha Sangha Sangha Sangamini Parithanda Patternisha, who was appointed as the Advanced General of the Amaramean Magistrate, was held under the patronage of Health and Mass Media Dr. Nalinda Jayatissa recently.
+
+A large quantity of housing and medical equipment worth Rs.
+
+The estimated cost of renovation of the Vipassi Buddhist Center at the National Hospital premises is Rs. 68 lakhs. The Ministry of Health has provided Rs.. The balance has been spent by the hospital service board and the Sri Lanka Navy has given the labor.
+
+◼️
+
+[Data](articles/8190f2ae.json)
+
+[Extended Data](ext_articles/8190f2ae.ext.json)
+
+---
+
+### Fire injured in a hospital in India
+
+*2025-10-06 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215396) · `si`
+
+Eight patients were killed in a fire at a hospital in Jaipur, India.
+
+Eight patients have been identified in the ICU of the hospital, foreign media reports said.
+
+The fire erupted in a hospital store and a leak on a power circuit has led to the fire.
+
+◼️
+
+[Data](articles/2f09d357.json)
+
+[Extended Data](ext_articles/2f09d357.ext.json)
+
+---
+
+### 17-year-old drowns in school swimming pool in Dikwella
+
+*2025-10-06 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113248/17-year-old-drowns-in-school-swimming-pool-in-dikwella-) · `en`
+
+A 17-year-old schoolboy has reportedly drowned while attempting to retrieve a cricket ball that had fallen into the swimming pool at his school in Dikwella.
+
+According to reports, the student had been playing cricket with several classmates on the school grounds when the ball landed in the pool. The tragic incident occurred as he entered the water to recover it.
+
+The deceased has been identified as a grade 12 student of Vijitha Maha Vidyalaya, Dikwella.
+
+The body has been placed at the Batheegama Hospital morgue and the Dickwella Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/0a9b6f77.json)
+
+[Extended Data](ext_articles/0a9b6f77.ext.json)
+
+---
+
+### இரண்டு ரயில்களில் மோதி இருவர் பலி
+
+*2025-10-06 11:14:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-ரயில்களில்-மோதி-இருவர்-பலி/175-365800) · `ta`
+
+மன்னார் - மன்னார் காவல் பிரிவின் புதுக்குடியிருப்பு பகுதியில் ஞாயிற்றுக்கிழமை (05)  காலை தலைமன்னாரிலிருந்து கொழும்பு கோட்டை நோக்கிச் சென்ற ரயிலில் மோதி ஒருவர் உயிரிழந்தார்.
+
+உயிரிழந்தவர் புதுக்குடியிருப்பு பகுதியைச் சேர்ந்த 32 வயதுடையவர். பிரேத பரிசோதனைக்குப் பிறகு சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது, மேலும் மன்னார் காவல்துறையினர் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+கடுகண்ணாவை – கடுகண்ணாவை காவல் பிரிவின் கடுகண்ணாவ ரயில் நிலையத்திற்கு அருகில் ஞாயிற்றுக்கிழமை (05) மாலை கண்டியிலிருந்து பொல்கஹவெல நோக்கிச் சென்ற ரயிலில் மோதி ஒருவர் உயிரிழந்துள்ளார்.
+
+இறந்தவர் அக்குரெஸ்ஸ, கனத்தொட்டையைச் சேர்ந்த 27 வயதுடையவர். சடலம் பேராதனை மருத்துவமனையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது, மேலும் கடுகண்ணாவை காவல்துறையினர் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/ab617b1b.json)
+
+---
+
+### Army-ammunition-ammunition-ammunition in Demodagoda
+
+*2025-10-06 11:12:35* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දමඩගඩ-පළ-නවසක-ගනඅව-උණඩ-මගසනයක-සයගන/101-680781) · `si`
+
+The Colombo South's Criminal Investigation Bureau says that the name of the country is located in a manufactured firearm, a T-56 riffle and T-56 live bullets in the back of the land.
+
+Sub Inspector Suphan Suphan Bandara has said that the abandoned house in a lonegent land behind the railway station is said to have been found in a bag of suspicious parcel.
+
+The police said that it was later inspected by the name of the SLFP and two T-57 live bullets.
+
+Police suspect that these firearms have been brought to this location and inspecting the surrounding safe camera views on the matter and investigate further investigations into the area
+
+◼️
+
+[Data](articles/f4290da5.json)
+
+[Extended Data](ext_articles/f4290da5.ext.json)
+
+---
 
 ### A student drowns in swimming pool
 
@@ -93,6 +333,44 @@ Speaking at a ceremony in the Haputale area, Mr. Ruwan Sayakumara recently added
 
 ---
 
+### Keep Keepu Yapa in China
+
+*2025-10-06 10:44:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බල-ජය-කහල-යප-පටන/101-680780) · `si`
+
+The first district sports festival was launched by the Youth Sports Festival.
+
+Youth athletes representing the 15 Divisional Secretariat Divisions in the Jaffna District participated in the event that commenced at Alfred Doykere Stadium in Jaffna.
+
+JV and field competitions were held, marking the conclusion of the district sports festival, and its championship occupied the Tiipai Pradeshiya Sabha. Subordinate, Point Palawaturuwa Pradeshiya Sabha and third place owned by Nallur Pradeshiya Sabha.
+
+The National Sports Festival will be held at the end of the local sports event.
+
+Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar, Director General of the National Youth Services Council were also present.
+
+◼️
+
+[Data](articles/c36e932b.json)
+
+[Extended Data](ext_articles/c36e932b.ext.json)
+
+---
+
+### ඖෂධ හිගයට පිළියම් සෙවීමේදී සමහර නීති ඊතිත් බාධායි
+
+*2025-10-06 10:42:18* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හිගයට-පිළියම්-සෙවීමේදී-සමහර-නීති-ඊතිත්-බාධායි/11-418933) · `si`
+
+සමස්ත ලංකා අමරපුර මහා සංඝ සභාවේ උත්තරීතර මහානායක ධූරයෙහි වැඩ විසූ අග්ගමහාපණ්ඩිත අතිපූජ්‍ය මඩිහේ පඤ්ඤාසීහ මහනායක ස්වාමීන්ද්‍රයන් වහන්සේගේ  අනුශාසකත්වයෙන් ආරම්භ කළ රෝහල් සේවා මණ්ඩලයේ කොළඹ ජාතික රෝහල් පරිශ්‍රයේ පිහිටි විපස්සි බෞද්ධ මධ්‍යස්ථානය විවෘත කිරීම පසුගියදා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සිදුවිය.
+
+මෙහි දී  රුපියල් කෝටි  දෙකක පමණ වටිනාකමින් යුත් රෝහල් හා වෛද්‍ය උපකරණ තොගයක් ද කොළඹ ජාතික රෝහල වෙත පරිත්‍යාග කරනු ලැබීය.
+
+ජාතික රෝහල් පරිශ්‍රයේ පිහිටි විපස්සි බෞද්ධ මධ්‍යස්ථානය ප්‍රතිසංස්කරණය කිරීම සදහා ඇස්තමේන්තු ගත මුදල රුපියල් ලක්ෂ 68කි. මේ සදහා සෞඛ්‍ය අමාත්‍යාංශය විසින් රුපියල් ලක්ෂ 45ක මුදලක් ලබා දී ඇත. ඉතිරි මුදල රෝහල් සේවා මණ්ඩලය විසින් වැයකර ඇති අතර මෙහි ඉදිකිරීම් සදහා ශ්‍රම දායකත්වය නාවික හමුදාව විසින් ලබා දී ඇත.
+
+...
+
+[Data](articles/643239a2.json)
+
+---
+
 ### Former Minister Wimal Weerawansa Postpones Appearance at Tangalle Crimes Unit
 
 *2025-10-06 10:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/former-minister-wimal-weerawansa-postpones-appearance-at-tangalle-crimes-unit) · `en`
@@ -120,6 +398,28 @@ The newlyweds changed wedding rings in the presence of their family members at M
 [Data](articles/85186cd2.json)
 
 [Extended Data](ext_articles/85186cd2.ext.json)
+
+---
+
+### CAA to take legal actions against 135 traders for selling rice at inflated prices
+
+*2025-10-06 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113247/caa-to-take-legal-actions-against-135-traders-for-selling-rice-at-inflated-prices) · `en`
+
+The Consumer Affairs Authority (CAA) has stated that legal proceedings have been initiated against 135 traders across the country for selling rice at inflated prices.
+
+The authority said that during the last month, cases have been filed against 135 traders in raids conducted across the island.
+
+The CAA further stated that raids will continue against traders who sell rice at higher prices and for those who conceal stocks.
+
+The CAA emphasized that individual vendors found guilty of overpricing rice may face fines ranging from Rs. 100,000 to Rs. 500,000, imprisonment for up to five months, or both.
+
+Private companies found in violation may face fines ranging from Rs. 500,000 to Rs. 5 million and in cases involving concealment of rice, the authority has the power to impose fines, imprisonment, or both, in addition to confiscating the relevant goods under the Consumer Affairs Authority Act, CAA said.
+
+...
+
+[Data](articles/f8c6b8e2.json)
+
+[Extended Data](ext_articles/f8c6b8e2.ext.json)
 
 ---
 
@@ -178,6 +478,22 @@ When she checked her travel bag, 45 cartons of 9000 "platinum" cigarettes were s
 [Data](articles/af03142f.json)
 
 [Extended Data](ext_articles/af03142f.ext.json)
+
+---
+
+### என்னடா மவனே வீதியின் குறுக்காக  கெடக்கு
+
+*2025-10-06 09:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னடா-மவனே-வீதியின்-குறுக்காக-கெடக்கு/62-365793) · `ta`
+
+நாமல் ராஜபக்ஷவின் பதில்: ஐயாயோ... அததானே, அனுர ஐயா உடைக்கிறாரு. இதை கடந்துதானே 2029க்கு போகனும்...
+
+ரக்பி வீரர் வசீம் தாஜுதீன் விபத்தில் மரணமடையவில்லை அவர் படுகொலை செய்யப்பட்டுள்ளார் என்ற விவகாரத்தை அடுத்து, அந்த விசாரணைகள் தீவிரப்படுத்தப்பட்டள்ளன.
+
+இதற்கிடையே, 2029 ஆம் ஆண்டில் ஜனாதிபதித் தேர்தலில் நாமல் ராஜபக்ஷவை ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் சார்பில் களமிறக்கும் நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருகின்றன என்பது அறிந்ததே
+
+◼️
+
+[Data](articles/47a04dd2.json)
 
 ---
 
@@ -253,6 +569,26 @@ The man was killed following a train traveling from Thalaiwoma to Colombo Fort.
 
 ---
 
+### Two major associates of “Kalubowila Avishka” arrested in Piliyandala
+
+*2025-10-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113246/two-major-associates-of-kalubowila-avishka-arrested-in-piliyandala) · `en`
+
+Two individuals have been arrested in the Bokundara, Piliyandala area with over two kilograms of the narcotic substance ‘Heroin’ by the Moratuwa Police Special Task Force (STF).
+
+The duo has been reportedly arrested during a raid conducted by the STF where they also seized 02 kilograms 106 grams of ‘Heroin,’ 478 grams of methamphetamine ‘Ice’ and a motorcycle reportedly used to transport narcotics from their possession, police said.
+
+According to police, those arrested are “Kalubowila Chuti”, a key henchman of “Kalubowila Avishka”, a notorious underworld criminal and drug trafficker hiding in a foreign country, and his elder brother.
+
+The suspects, aged 24 and 25, have been identified as residents of the Piliyandala area and have been handed over to the Police Narcotics Bureau (PNB) for further investigations.
+
+◼️
+
+[Data](articles/0a950ca2.json)
+
+[Extended Data](ext_articles/0a950ca2.ext.json)
+
+---
+
 ### 135 shops charged with more prices
 
 *2025-10-06 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215391) · `si`
@@ -278,6 +614,28 @@ They point out that authorities should take immediate action to pay attention to
 [Data](articles/e94c21f6.json)
 
 [Extended Data](ext_articles/e94c21f6.ext.json)
+
+---
+
+### Hundreds of trekkers escape from blizzard-struck Everest in Tibet
+
+*2025-10-06 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113245/hundreds-of-trekkers-escape-from-blizzard-struck-everest-in-tibet) · `en`
+
+Hundreds of trekkers stranded by a blizzard near the eastern face of Mount Everest in Tibet have been guided to safety by rescuers, Chinese state media reported on Sunday, as unusually heavy snow and rainfall pummelled the Himalayas.
+
+As of Sunday, 350 trekkers had reached the small township of Qudang, while contact with the remaining 200-plus trekkers had been made, CCTV reported.
+
+Visitors to the remote valley of Karma, which leads to the eastern Kangshung face of Everest, were in the hundreds this week, taking advantage of an eight-day National Day holiday in China.
+
+“It was so wet and cold in the mountains, and hypothermia was a real risk,” said Chen Geshuang, who was part of an 18-strong trekking team that made it to Qudang.
+
+“The weather this year is not normal. The guide said he had never encountered such weather in October. And it happened all too suddenly.”
+
+...
+
+[Data](articles/9995e6f3.json)
+
+[Extended Data](ext_articles/9995e6f3.ext.json)
 
 ---
 
@@ -385,6 +743,32 @@ COLOMBO (News 1st): Former Minister Wimal Weerawansa has been summoned today (6)
 
 ---
 
+### Gunman opens fire on Sydney street, injuring 20, one seriously
+
+*2025-10-06 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113244/gunman-opens-fire-on-sydney-street-injuring-20-one-seriously-) · `en`
+
+A man is in custody after allegedly shooting up to a hundred bullets into a busy Sydney street, wounding 20 people, with police on Monday (Oct 6) ruling out links to terrorism or gang activity.
+
+Police were called on Sunday evening to a street in the city’s Inner West, where the alleged gunman was firing at random at passing cars and police.
+
+Office worker Joe Azar said he was working across the road when he heard what he thought were fireworks or rocks being thrown at the windows.
+
+“Some guy’s windshield blew up, then the bus stop glass shattered,” Azar told The Sydney Morning Herald newspaper.
+
+“The surreal feeling kicked in like, ‘Oh, this is what’s happening’,” he said.
+
+“It was frantic. It all happened so quick, so I couldn’t comprehend what was going on,” he added.
+
+New South Wales Police Acting Superintendent Stephen Parry said “anywhere between 50 and 100 shots” were fired.
+
+...
+
+[Data](articles/4177b38d.json)
+
+[Extended Data](ext_articles/4177b38d.ext.json)
+
+---
+
 ### Trade Union Action Delays Power Restoration: Over 30,000 Outages Reported Islandwide
 
 *2025-10-06 08:06:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/trade-union-action-delays-power-restoration-over-30-000-outages-reported-islandwide) · `en`
@@ -406,6 +790,30 @@ COLOMBO (News 1st): Former Minister Wimal Weerawansa has been summoned today (6)
 [Data](articles/b9b058df.json)
 
 [Extended Data](ext_articles/b9b058df.ext.json)
+
+---
+
+### Four deaths reported in separate road accidents
+
+*2025-10-06 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113243/four-deaths-reported-in-separate-road-accidents-) · `en`
+
+Four people have reportedly died in four separate road accidents in several parts of the island yesterday (05).
+
+Accordingly, a fatal accident has occurred in the Guruluwela area along the Hamannapahuwa-Dalupotha Road in the Bingiriya Police Division when a motorcyclist had lost control of the motorcycle causing it to veer off the road, and collide with an electric wire, police said.
+
+The motorcyclist and a female passenger sustained injuries in the accident and were admitted to the Kuliyapitiya Hospital, where the motorcyclist succumbed to his injuries.
+
+The deceased has been identified as a 23-year-old resident of Nagollagoda.
+
+Meanwhile, a woman has died in an accident in the Dandeniya area along the Matara–Tissamaharama Road when the driver of a three-wheeler traveling towards Tissamaharama lost control of the vehicle and collided with a bus which travelled from the opposite direction.
+
+A 51-year-old woman, a resident of Moragollagama, died in the accident, police stated.
+
+...
+
+[Data](articles/dc9498cf.json)
+
+[Extended Data](ext_articles/dc9498cf.ext.json)
 
 ---
 
@@ -627,6 +1035,30 @@ Strong winds and strong lightning informit the necessary steps to be taken to mi
 
 ---
 
+### Trump urges mediators to ‘move fast’ as key Gaza peace talks set to begin
+
+*2025-10-06 06:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/113242/trump-urges-mediators-to-move-fast-as-key-gaza-peace-talks-set-to-begin) · `en`
+
+US President Donald Trump has urged everyone involved in efforts to end the Gaza war to “move fast” as mediators are set to meet in Egypt on Monday for indirect peace talks between Hamas and Israel.
+
+The talks come after Hamas agreed to some parts of a 20-point US peace plan, including freeing hostages and handing over Gaza governance to Palestinian technocrats, but is seeking negotiations on other issues.
+
+The group’s response did not mention the key demands of its disarmament and playing no future role in Gaza’s governance.
+
+Writing on social media that talks had been “very successful”, Trump said: “I am told the first phase should be completed this week, and I am asking everyone to move fast.”
+
+The US president added that “time is of the essence or massive bloodshed will follow”.
+
+Speaking to reporters earlier, Trump said he thought the hostages would start to be freed “very soon”.
+
+...
+
+[Data](articles/31bd048a.json)
+
+[Extended Data](ext_articles/31bd048a.ext.json)
+
+---
+
 ### Wap Pohoe is today
 
 *2025-10-06 06:44:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වප-පහය-අදය/101-680774) · `si`
@@ -644,6 +1076,26 @@ In the past, the roland, a garment and a garment that is obtained on the same da
 [Data](articles/84e687b9.json)
 
 [Extended Data](ext_articles/84e687b9.ext.json)
+
+---
+
+### Fairly heavy rainfall expected in parts of the island
+
+*2025-10-06 06:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/113241/fairly-heavy-rainfall-expected-in-parts-of-the-island) · `en`
+
+Atmospheric conditions are favorable for thunderstorms in the evening. Therefore, general public is advised to take adequate precautions to minimize damages caused by strong winds and severe lightning during thundershowers, today (06), the Department of Meteorology said.
+
+Showers or thundershowers will occur at most places of the island after 1.00 p.m.
+
+Fairly heavy falls above 50 mm are likely at some places in Northern, North-central, Eastern, Central and Uva provinces, the Met. Department added.
+
+Showers may occur at a few places in Western and North-western provinces and in Galle and Matara districts in the morning too.
+
+◼️
+
+[Data](articles/e4225fc7.json)
+
+[Extended Data](ext_articles/e4225fc7.ext.json)
 
 ---
 
@@ -756,6 +1208,20 @@ But in the event of thunderstorms, strong winds are blowing and the sea regions 
 [Data](articles/a385adaa.json)
 
 [Extended Data](ext_articles/a385adaa.ext.json)
+
+---
+
+### லண்டனில் ஆர்ப்பாட்டம்: 500 பேர் கைது
+
+*2025-10-06 04:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லண்டனில்-ஆர்ப்பாட்டம்-500-பேர்-கைது/50-365788) · `ta`
+
+பாலஸ்தீனத்திற்கு ஆதரவாக பிரிட்டனின் லண்டனில் நடந்த ஆர்ப்பட்டத்தில் சுமார் 500 பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+தடைசெய்யப்பட்ட ஒரு அமைப்புக்கு ஆதரவை தெரிவித்ததற்காக மக்கள் கைது செய்யப்பட்டனர் என லண்டன் அதிகாரிகள் தெரிவித்தனர். (a)
+
+◼️
+
+[Data](articles/1541b257.json)
 
 ---
 
@@ -1475,6 +1941,22 @@ The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be
 
 ---
 
+### Cricket Test among the World Cup is essential at the Mount Lavinia Hotel
+
+*2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-කසලනය-අතර-කරකට-තරදකක-ගලකසස-හටලයද-අතනත-ගනත/101-680765) · `si`
+
+While he was in Sri Lanka, England indoor males leader Nain Patel and Malory Marryal Bartosh were engaged in today.
+
+The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be held at the Austyresia Domestic Cricket Stadium in Thalawathugoda.
+
+◼️
+
+[Data](articles/4dc745e9.json)
+
+[Extended Data](ext_articles/4dc745e9.ext.json)
+
+---
+
 ### Among the World Cup cricket cricket stars dip at Mount Lavinia Hotel
 
 *2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/test/ලක-කසලනය-අතර-කරකට-තර-දකක-ගලකසස-හටලය-ද-අතනත-ගනත/222-680765) · `si`
@@ -1542,445 +2024,5 @@ The Meteorological Department also requests the public to take necessary steps t
 [Data](articles/8322810f.json)
 
 [Extended Data](ext_articles/8322810f.ext.json)
-
----
-
-### Almost 1,000 trapped on Tibetan side of Mount Everest by blizzard
-
-*2025-10-05 17:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113236/almost-1000-trapped-on-tibetan-side-of-mount-everest-by-blizzard) · `en`
-
-Rescue efforts were underway on Sunday to clear access to campsites on Tibet’s eastern slope of Mount Everest, where nearly 1,000 people have been trapped by a blizzard that has blocked roads, according to Chinese state media reports.
-
-Hundreds of local villagers and rescue teams have been deployed to help remove snow blocking access to the area, which sits at an altitude above 4,900 metres (16,000 feet), according to a report in Jimu News.
-
-Some tourists on the mountain have already been brought down, it added.
-
-The snowfall began on Friday evening and continued throughout Saturday, according to notices on the official WeChat accounts of the local Tingri County Tourism Company, which said ticket sales and entry to the Everest Scenic Area were suspended from late Saturday.
-
-Just across the border in Nepal, heavy rains triggered landslides and flash floods that have blocked roads, washed away bridges and killed at least 47 people since Friday, police said.
-
-...
-
-[Data](articles/06417a77.json)
-
-[Extended Data](ext_articles/06417a77.ext.json)
-
----
-
-### Dijital Team reinforces commitment to Sri Lankan IT industry Opens an office in Kandy
-
-*2025-10-05 17:30:00* · [`islandlk`](http://island.lk/dijital-team-reinforces-commitment-to-sri-lankan-it-industry-opens-an-office-in-kandy/) · `en`
-
-Dijital Team recently marked a new milestone on the 23rd of September 2025 with the opening of its second office in Sri Lanka, located in Kandy. Situated within the Odel Mall, Kandy, the new office’s launch coincides with tremendous growth in the business. This latest location is an opportunity to support Dijital Team’s ongoing business growth and create job opportunities for tech and IT professionals while advancing regional economic growth.
-
-In establishing a new office in Kandy, Dijital Team aims to increase employment opportunities for IT professionals in the Central Province. Additionally, through its newest branch, Dijital Team offers team members the opportunity to work without leaving their hometown.
-
-...
-
-[Data](articles/576a8848.json)
-
-[Extended Data](ext_articles/576a8848.ext.json)
-
----
-
-### JXG partners with Foundation of Goodness to empower Monaragala community
-
-*2025-10-05 17:30:00* · [`islandlk`](http://island.lk/jxg-partners-with-foundation-of-goodness-to-empower-monaragala-community/) · `en`
-
-Janashakthi Group (JXG) has partnered with the Foundation of Goodness as a key supporter of the Monaragala Village Heartbeat Empowerment Centre, reinforcing its commitment to creating sustainable impact in underserved communities.
-
-The initiative has demonstrated significant immediate results. In June 2025, the Centre supported 1,233 beneficiaries, and in July, it reached 1,168 individuals across 29 villages and 17 schools. The programmes offered are holistic, covering a wide range of subjects from Computer Training and English Language to Dress Making, Agriculture, and traditional dancing.
-
-Ramesh Schaffter, MD/Group CEO of JXG, stated that the partnership aligns with their philanthropic foundation’s purpose of “uplifting lives and empowering communities.” Kushil Gunasekera, Founder of the Foundation of Goodness, emphasized that the collaboration helps “bridge the urban-rural divide by creating equal opportunities.”
-
-...
-
-[Data](articles/fac32713.json)
-
-[Extended Data](ext_articles/fac32713.ext.json)
-
----
-
-### Luxury retirement living in Negombo by Grand Leisure Care
-
-*2025-10-05 17:29:00* · [`islandlk`](http://island.lk/luxury-retirement-living-in-negombo-by-grand-leisure-care/) · `en`
-
-Sri Lanka’s premier luxury aged care facility, Grand Leisure Care & Wellness Resort, (www.grandleisure.lk) is now open in Negombo, offering seniors a unique blend of comfort, professional care, and resort-style living. To celebrate its grand opening, the resort is offering an exclusive 40% discount for new residents.
-
-...
-
-[Data](articles/6afecba7.json)
-
-[Extended Data](ext_articles/6afecba7.ext.json)
-
----
-
-### Fusing human imagination with AI-powered innovation: Arimac Digital marks 14 years
-
-*2025-10-05 17:29:00* · [`islandlk`](http://island.lk/fusing-human-imagination-with-ai-powered-innovation-arimac-digital-marks-14-years/) · `en`
-
-Arimac Digital, a global leader in AI-powered digital solutions, marks its 14th anniversary by reaffirming its mission to fuse human imagination with technological innovation. From its founding in 2011 as a four-person startup, the company has evolved into a trusted technology partner for over 180 global clients, including Etihad, VISA, Emirates, and Samsung, delivering more than 850 solutions across 11 countries.
-
-Arimac’s journey has been defined by a human-centric philosophy. Its proprietary Design Anthropology framework ensures that every digital solution from pioneering humanoid robotics and empathetic AI to redefining financial services with Arimac FinSpace and aviation with Arimac AirSpace is not only functional but deeply meaningful. This approach has empowered the company to solve complex, real-world problems for industries worldwide, including developing next-generation trading platforms and customer-first super apps that serve millions.
-
-...
-
-[Data](articles/fe652019.json)
-
-[Extended Data](ext_articles/fe652019.ext.json)
-
----
-
-### Trying to establish a party system, referring to powers - Premnath C.
-
-*2025-10-05 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/226973) · `ta`
-
-There is a two -thirds majority of the national people's power in Parliament with executive power. However, President Anura Kumara Dissanayake says that these are not enough. Former parliamentarian Premnath C Tolawatta said the government was trying to establish a party system indirectly through this.
-
-He further stated at a press conference held in Colombo on Sunday (05).
-
-At present, the authority of the provincial councils is completely convenient. They will be representatives of government. On the other hand, there is a two -thirds majority in Parliament.
-
-Above all is found in execution. But the president says that they are not enough to carry out the development projects that have been the highest powers.
-
-Therefore, they say that the party should be able to implement the development projects put forward by them.. At present, the Tajuddin murder issue has been re -spoken.
-
-...
-
-[Data](articles/678fc273.json)
-
-[Extended Data](ext_articles/678fc273.ext.json)
-
----
-
-### New twist in Tajuddin's death investigation; Suspicion of returning on Shiranthi…?
-
-*2025-10-05 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226976) · `ta`
-
-The Criminal Investigation Department announced on September 20, 2018, that the Tajudeen's department's vehicle was a registered number of WP KA0642 owned by the Siriliya Savia Foundation Company.. Cyriliya Saviya is a trustworthy company founded by Mahinda Rajapaksa's wife Shiranthi Rajapaksa.  It was aimed at providing social welfare programs and assistance to the people.  The project was associated with financial irregularities and other crimes and under investigation. But then the investigation into the matter became tuged. Suddenly Maithripala Sirisena's prime minister, the political crisis and the president of the Gotabhaya president, the trial of the Tajuddin murder case was completely halted.
-
-◼️
-
-[Data](articles/7ea3269b.json)
-
-[Extended Data](ext_articles/7ea3269b.ext.json)
-
----
-
-### The wind power project is not allowed to be carried out in Mannar - Parliamentarian Kavinda Jayawardena
-
-*2025-10-05 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/226971) · `ta`
-
-We welcome the rehabilitation department. But in Mannar, the plan cannot be allowed to carry out the plan contrary to the wishes of the people. United People's Power Parliamentarian Kavinda Jayawardena has urged the President Anura Kumara Dissanayake to fulfill the promise made by President Anura Kumara Dissanayake that the development projects will be carried out according to their wishes.
-
-He further stated this at a press conference held at the United People's Power Office in Colombo on Sunday (05).
-
-When President Anura Kumara Dissanayake visited Mannar, he said that the development projects would be carried out accordingly, listening to their voice and listening to the people.
-
-But the government has not taken any action so far. Me and MP Mano Ganeshan visited Mannar last week.
-
-...
-
-[Data](articles/e078dfe8.json)
-
-[Extended Data](ext_articles/e078dfe8.ext.json)
-
----
-
-### Two killed in US shooting
-
-*2025-10-05 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215375) · `si`
-
-Two children were killed in a shooting at Texas, USA.
-
-Foreign media reports that two other children were seriously injured.
-
-The deceased has been identified as 4-year-old and 13 year old children.
-
-Several suspects have been arrested in connection with the incident and are currently being interrogated and questioned by the police.
-
-◼️
-
-[Data](articles/ae30b2f6.json)
-
-[Extended Data](ext_articles/ae30b2f6.ext.json)
-
----
-
-### Mephedrone Drug Seized From Moldovan National In Weligama Confirmed By Government Analysts
-
-*2025-10-05 17:08:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/mephedrone-drug-seized-from-moldovan-national-in-weligama-confirmed-by-government-analysts) · `en`
-
-COLOMBO (News 1st); The Government analysts has confirmed that the substances seized from a Moldovan national in Weligama is the dangerous drug Mephedrone. The Government Analyst's Department stated that the relevant report has been handed over to the police.Meanwhile, the National Dangerous Drugs Control Board had also confirmed yesterday that the seized substances were Mephedrone.
-
-◼️
-
-[Data](articles/87b5c46e.json)
-
-[Extended Data](ext_articles/87b5c46e.ext.json)
-
----
-
-### Meaning of the wife within the private organ: intensive care for the husband
-
-*2025-10-05 17:02:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தரங்க-உறுப்புக்குள்-மனைவி-வைத்திருந்த-பொருள்-கணவருக்கு-தீவிர-சிகிச்சை/175-365773) · `ta`
-
-The horrific incident in Daulatpur village in Sambal district of Uttar Pradesh has shocked people. The wife, who suspected that her husband was engaged in counterfeiting, cut off his private organ while he was asleep.
-
-The incident took place October (04) night. The victim's husband Raju (age 32) is currently fighting for life.
-
-Raju and his wife Neha (age 28), who live in Daulatpur village, have been married for five years. Both have a 4 -year -old boy.
-
-According to local reports, Raju did not return home often, so Neha was suspicious of her counterfeit.
-
-When Raju was in a deep sleep in his room on the night of the night (04), Neha came to his side, taking a hidden knife and cut off his private organ.
-
-His father Mahinda (age 60) ran to the room hearing the voice of Raju, who was fighting for life. Shocked by the son of a blood leaking son, Mahipal immediately took him to a nearby government hospital with his bike.
-
-...
-
-[Data](articles/133200b7.json)
-
-[Extended Data](ext_articles/133200b7.ext.json)
-
----
-
-### World Contact Day National Celebration
-
-*2025-10-05 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215374) · `si`
-
-World Resources Day National Commemoration Day was held at Temple Trees this morning under the patronage of President Anura Kumara Dissanayake.
-
-The national celebration was held under the theme "A Beautiful Life" in parallel to the United Nations World Hostering Day.
-
-The President also handed over a half of the working houses throughout the country to build houses for nearly 4,000 poor families who have not been able to build a house to build a house.
-
-UN Habitat ශ්‍රී ලංකා කාර්යාලයේ මැදිහත්වීමෙන් ඉන්දියානු රජයේ සහ Coalition for Disaster Resilient Infrastructure (CDRI) ආධාර මත ක්‍රියාත්මක කිරීමට යෝජිත අඹතලේ ජල සැපයුම් ව්‍යාපෘතියේ සංකේතීය ප්‍රදානය ජනාධිපතිවරයා වෙත නිල වශයෙන් භාර දීමද මෙහිදී සිදු කෙරිණි.
-
-Giving housing deeds on various reasons
-
-The President also presented awards to winners of the winners and the winners of the winners and the Urban Development Authority, which was widely implemented by the World Holding Day.
-
-...
-
-[Data](articles/622a8abf.json)
-
-[Extended Data](ext_articles/622a8abf.ext.json)
-
----
-
-### Robot Shankar's wife dance in funeral: Daughter Indraja Description
-
-*2025-10-05 16:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/இறுதி-ஊர்வலத்தில்-ரோபோ-சங்கர்-மனைவி-நடனம்-மகள்-இந்திரஜா-விவரிப்பு/54-365772) · `ta`
-
-Their daughter, Indraja, has explained that his wife danced at the funeral procession of Robot Shankar.
-
-Leading actor Robot Shankar passed away last month. In his funeral, his wife Priyanka danced. This video record has been published on the Internet and is talking.
-
-No explanation has been given from the Robot Shankar family in this regard. Meanwhile, the 16th day of the robot Shankar disappeared. The Robot Shankar's family met with journalists in the opening of his portrait.
-
-Robot Shankar's daughter. Dad was formed in everyone's applause. Wherever the applause is now, the father will be there. There is a lot of responsibilities that Dad left. We will definitely finish it. ”
-
-...
-
-[Data](articles/a1cb8b5f.json)
-
-[Extended Data](ext_articles/a1cb8b5f.ext.json)
-
----
-
-### Government that misleads children; United People's Power
-
-*2025-10-05 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226969) · `ta`
-
-The National People's Power Government is creating an environment for misleading the country's assets. United People's Power MP Kavinda Jayawardena said that if a 16 -year -old boys are given the freedom to engage in sexual relations, a child of the age of that age is a response to the Minister and Minister Bimal Ratnayake.
-
-He further stated this at a press conference held at the United People's Power Office in Colombo on Sunday (05).
-
-The National People's Power Government is creating an environment for misleading the country's assets. Minister Bimal Ratnayake, Minister of State and Minister, says in Parliament that the 16 -year -old boys can have sexual relations.
-
-The law is to be over 21 years of age to buy cigarettes in this country. If such independence is given to the 16 -year -old in this country, what is the morality of the motherland that follows the 2500 -year -old Buddhist Thera.
-
-...
-
-[Data](articles/b301f2e7.json)
-
-[Extended Data](ext_articles/b301f2e7.ext.json)
-
----
-
-### The government's independence of the Commission to Increase the Currency Fund
-
-*2025-10-05 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/226970) · `ta`
-
-The government has decided to entertain the International Monetary Fund and get the fifth installment by 6 percent. Independent Public Use has no confidence in the Commission. MTR President of the Minor Society MDR says that listening to the aspirations of the public is a waste of time and state funding. Atula made it.
-
-He made this statement during a media briefing held at the office of the Employees Association in Colombo on Sunday (05).
-
-The Ceylon Electricity Board (CEB) has recommended to the Commission to increase the power supply by 6.8 per cent. Accordingly, public uses regarding the power outage are asked by the public on the basis of the provincial basis.
-
-The final concept will be held in Colombo on the 15th of this month.
-
-We noted that the Electricity Board was profitable up to Rs 8 billion during the final correction.. On the contrary, the Commission only examined the advantage of increasing the electricity.
-
-...
-
-[Data](articles/4507dbcd.json)
-
-[Extended Data](ext_articles/4507dbcd.ext.json)
-
----
-
-### At the end of the little world, the wasps are chased and chased
-
-*2025-10-05 16:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சின்ன-உலக-முடிவில்-குளவிகள்-விரட்டி-விரட்டி-கொட்டியுள்ளது/76-365771) · `ta`
-
-Nine people were injured and admitted to the Lunugalai Hospital after being admitted to a group of tourists from Malwanai area to see a small world end in Madulzim, police said.
-
-A group of ten youths from Malwanai came to see the end of the little world and set up a tent on Saturday (04) night.. When they went to see the world's end, Sunday (05), the wasp was suddenly exhausted and began to pour them out, police said.. .
-
-Later, the victims of the wasps ran away, and the wasps chased them and attacked them, police said.. The people of the area, along with the police officers, then smoke to chase the wasps. Police said the injured were taken to the Lunugala Hospital after the wasp was flew out of the scene.
-
-◼️
-
-[Data](articles/752da029.json)
-
-[Extended Data](ext_articles/752da029.ext.json)
-
----
-
-### Nine People Hospitalized From Wasp Attack In Madolsima Mini Worlds End
-
-*2025-10-05 16:47:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/nine-people-hospitalized-from-wasp-attack-in-madolsima-mini-worlds-end) · `en`
-
-COLOMBO (News 1st); Nine people were hospitalized following a wasps attack in Madolsima Mini Worlds End. Police said that the group had come from Gampaha on a trip when the incident occurred.The group had been spending the night in tents. Authorities confirmed that the injured have been admitted to the Lunugala Hospital.
-
-◼️
-
-[Data](articles/efb70ea1.json)
-
-[Extended Data](ext_articles/efb70ea1.ext.json)
-
----
-
-### 07 arrested for distribution of drugs to the Southern Province
-
-*2025-10-05 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215373) · `si`
-
-Seven suspects were arrested by the Matara and Hambantota District Crimes Division in the Southern Province (5).
-
-They have been arrested in Habaraduwa and Baddegama areas.
-
-The suspects were taken into custody and 600 grams of Hashlerts and 600 grams of Hash.
-
-They were engaged in this drug racket in the pretext of fishing.
-
-The arrested have been arrested seven including a disciple of Midigama, a drug dealer, a drug dealer.
-
-◼️
-
-[Data](articles/e5eadc82.json)
-
-[Extended Data](ext_articles/e5eadc82.ext.json)
-
----
-
-### Harsha alerts on the new interest rate proposal for the central highway project
-
-*2025-10-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226963) · `ta`
-
-Dr. Harsha de Silva, Chairman of the State Finance Committee and Member of Parliament expressed concern over the proposal to change the interest rate on the central highway project.. He also warned that this could increase the country's debt costs.
-
-Harsha de Silva, who posted this on his official X site, said the scheme, which has already been delayed and affected by the increasing interest burden, has been reinstated by the ongoing financial and contract uncertainty.
-
-He said that although the scheme was resumed under President Anura Kumara Tissanayake, the negotiations were not yet completed with the claims of the main contractors and the revised $ 500 million loan facility.
-
-He also pointed out that the State Finance Committee was confused about the proposal of the Ministry of Highways to switch to a varying rate from the existing 15 -year -old 2.5 per cent interest rate, at least 2.5 per cent and a maximum of 3.5 per cent.
-
-...
-
-[Data](articles/ca58acaf.json)
-
-[Extended Data](ext_articles/ca58acaf.ext.json)
-
----
-
-### Is Sri Lanka trapped in the Japanese strategy?
-
-*2025-10-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226958) · `ta`
-
-The question is whether China wants to strengthen the Sri Lankan navy and strengthen it through Japan.
-
-◼️
-
-[Data](articles/90601977.json)
-
-[Extended Data](ext_articles/90601977.ext.json)
-
----
-
-### 7 including accomplice of ‘Midigama Ruwan’ arrested with 5.6kg Hash
-
-*2025-10-05 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113235/7-including-accomplice-of-midigama-ruwan-arrested-with-56kg-hash) · `en`
-
-Sri Lanka Police said that seven suspects, including an accomplice of organized criminal ‘Midigama Ruwan’, have been arrested with 5.6 kilograms of Hashish.
-
-The suspects have been arrested following raids conducted in the Habaraduwa and Baddegama areas, police said.
-
-The estimated street value of the seized narcotics is around Rs. 40 million.
-
-The arrested suspects have allegedly been distributing drugs to several areas in the Southern Province and have been engaged in this drug trafficking racket under the guise of engaging in fishing activities.
-
-The arrestees include ‘Midigama Rana’, a close associate of organized criminal and drug trafficker known by the alias ‘Midigama Ruwan’. The remaining suspects have been arrested following interrogation of ‘Midigama Rana’.
-
-The suspects have claimed that they brought the stock of drugs, which was found floating in the sea, to land and then sold it.
-
-...
-
-[Data](articles/94e1fafe.json)
-
-[Extended Data](ext_articles/94e1fafe.ext.json)
-
----
-
-### Combination
-
-*2025-10-05 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226957) · `ta`
-
-No matter how many times you give explanations of the federal regime, the negative ideas about it are not going to change.. The Sinhala political leadership is not going to change that. NPP. The government often claims that the Tamil people have ordered themselves. But, that order is something weak. The order was only issued by the minority of the Tamils.
-
-◼️
-
-[Data](articles/f2b95459.json)
-
-[Extended Data](ext_articles/f2b95459.ext.json)
-
----
-
-### 323 containers release issue;  Investigation Committee's Report - Objects revealed
-
-*2025-10-05 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226953) · `ta`
-
-'Although the containers are identified with the release of the system and the responsible people, the question is still the question of what was in the containers'
-
-◼️
-
-[Data](articles/3b920c19.json)
-
-[Extended Data](ext_articles/3b920c19.ext.json)
-
----
-
-### The environment and the secret of prosperity
-
-*2025-10-05 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226955) · `ta`
-
-The interests of the importance of the island of Sri Lanka should be experienced by all the people here. But the fact is that those interests have been experienced only by a part of the Sinhalese. International forces want to maintain traditional political, economic and security ties with the island of Sri Lanka - to strengthen new relations and cooperation.
-
-◼️
-
-[Data](articles/c0e26187.json)
-
-[Extended Data](ext_articles/c0e26187.ext.json)
 
 ---

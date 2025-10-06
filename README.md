@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 01:06:18**
+As of **2025-10-07 00:37:53**
 
 ## Newspaper Stats
 
-*Scraped **81,676** Articles*
+*Scraped **81,675** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
-colombotelegraphcom | 812
+colombotelegraphcom | 811
 lankadeepalk | 894
 dailymirrorlk | 4,733
 economynextcom | 4,774
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,675 (100.0%) of 81,676 articles have been extended.
+81,673 (100.0%) of 81,675 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,8 +45,6 @@ A graduate of AOD’s BA (Hons) Graphics and Visual Communication Design program
 
 [Data](articles/f000266a.json)
 
-[Extended Data](ext_articles/f000266a.ext.json)
-
 ---
 
 ### Signature partners CH17 Loyalty to elevate style with rewards
@@ -62,8 +60,6 @@ CH17 Loyalty is built on the principle of understanding customer behaviour and a
 ...
 
 [Data](articles/b20ffc6e.json)
-
-[Extended Data](ext_articles/b20ffc6e.ext.json)
 
 ---
 
@@ -702,18 +698,6 @@ Police confirmed that three of the women died at the scene, while the fourth wom
 [Data](articles/f0d602d7.json)
 
 [Extended Data](ext_articles/f0d602d7.ext.json)
-
----
-
-### Aruni Shapiro Introduces Adam Smith To Sri Lanka’s Readers
-
-*2025-10-06 19:12:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/aruni-shapiro-introduces-adam-smith-to-sri-lankas-readers/) · `en`
-
-Aruni Shapiro, sociologist cum advocate for liberty, has published her 10th book introducing Adam Smith to Sri Lanka’s Sinhala readers under the title ‘Adam Smith and the Wealth of Nations’[1]. Her previous books have been on diverse themes like guide to mental health, translation of fictions, translation of rare but valuable books on economics, and biographies. In 2015, as I have explained in a previous article[2], she published the writings of the French economist and statesman in the early 19th century, Frederic Bastiat under the title Libertarian Economics. This was the first attempt to introduce Bastiat to Sri Lankan readers. All the copies numbering about 2000 were distributed freely to interested readers by the publisher, Sri Lanka Frederic Bastiat Society, of which Shapiro was one of the patrons. That shows the extent of her dedication for promoting sound and advanced economic literacy among the fellow Sri Lankans.
-
-...
-
-[Data](articles/e7e433a1.json)
 
 ---
 
@@ -2070,5 +2054,31 @@ Scientifically, a supermoon happens when a full moon coincides with the Moon’s
 [Data](articles/703a8b0c.json)
 
 [Extended Data](ext_articles/703a8b0c.ext.json)
+
+---
+
+### Homes to Beneficiaries in Mannar on World Residential Day
+
+*2025-10-06 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227028) · `ta`
+
+Under the 'Sematta Nivana' subsidy scheme in Mannar district, 30 houses built by the Mannar National Housing Development Authority have been opened.
+
+The event was launched on Sunday (5) to mark World Residential Day.
+
+Through the National Housing Authority, a plan to provide housing for families who are not comfortable with Rs.
+
+In the Mannar district, Mannar, Nanattan, Musali, Manthai West and Madhu were selected in a Divisional Secretariat Division of 6 beneficiaries.
+
+Accordingly, the houses of the beneficiaries have been set up at the Additional Financial Cost of the Beneficiaries as a sum of Rs.
+
+The District Manager of the Mannar District National Housing Development Authority AM Ibrahim was inaugurated this morning (6).
+
+Parliamentarian Jagadeeswaran, Divisional Secretaries, Planning Officer, Mannar District National Housing Development Authority staff participated in the event.
+
+◼️
+
+[Data](articles/98bbeb36.json)
+
+[Extended Data](ext_articles/98bbeb36.ext.json)
 
 ---

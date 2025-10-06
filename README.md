@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 11:40:59**
+As of **2025-10-06 11:57:29**
 
 ## Newspaper Stats
 
-*Scraped **81,459** Articles*
+*Scraped **81,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 616
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 837
+lankadeepalk | 845
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
@@ -27,11 +27,89 @@ adaderanasinhalalk | 14,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,459 (100.0%) of 81,459 articles have been extended.
+81,459 (100.0%) of 81,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### දරුවෝ තමයි මගේ මිතුරෝ
+
+*2025-10-06 11:31:01* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දරව-තමය-මග-මතර/101-680784) · `si`
+
+කාල්ටන් නිවසට පැමිණි දින සිට ගත වූ බොහෝ දිනයන්හි පොඩි දරුවන් වෙනුවෙන්  දින චර්යාවෙන් කෙටි කාලයක් හෝ වෙන් ව තිබීම, දෛනිකව  නැවුම් අත්දැකීමක් එක් කරන්නක් බව
+
+"චිත්‍රයක් පෙන්වමින්, රස කතන්දර කියමින් සිටින දරුවන් අගයන ඔවුන්ගේ මිතුරා ලෙස මහින්ද රාජපක්ෂට කටයුතු කිරීමට ලැබීම සතුටට කරුණක්" යනුවෙන් ද ඔහු කියයි.
+
+මහින්ද රාජපක්ෂ මහතා මේ බව කියන්නේ සිය නිල ෆේස්බුක් අඩවියේ සටහනක් තබමිනි.
+
+"මාතෘ භූමියේ අඳුරු යුගය අවසන් කර නිදහස් රටක් දිනා දීමෙන් අප රටේ ආදණීය දරු පරම්පරාව වෙනුවෙන් මට ලබා දිය හැකි හොඳම දේ මා ලබා දී ඇතැයි සිතනවා. මේ රටේ දුවා දරුවන්ගේ සිනහවත්, සිහිනත් සැමදා මෙසේ ආරක්ෂා වේවායි ප්‍රාර්ථනා කරමි.
+
+එසේ දරුවන්ගේ සිහින රැක ගනිමින් අකුරුවලින් ලෝකය ද මිනිසත් බවින් ජීවිතය ද කියා දෙන පෙර පාසලේ සිට විශ්ව විද්‍යාල අධ්‍යාපනය දක්වා වූ සියලුම ගුරුවරුන් ද, දහම් අධ්‍යාපනය ලබා දෙන ගුරුවරුන් ද ඇතුළු සියලුම ආදරණීය ගුරු මව්වරුන් ද පියවරුන් ද ලෝක ගුරු දිනය යෙදෙන අද දිනයේදී මහත් ගෞරවයෙන් සිහිපත් කරමි, යනුවෙන්ද මහින්ද රාජපක්ෂ මහතා පවසයි.
+
+◼️
+
+[Data](articles/db0c5051.json)
+
+---
+
+### දෙහිවල සතුන් වත්තෙන් පරවියන් 32ක් අතුරුදන්
+
+*2025-10-06 11:25:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දහවල-සතන-වතතන-පරවයන-32ක-අතරදන/101-680783) · `si`
+
+දෙහිවල ජාතික සත්වෝද්‍යානයේ   පරවියන්  තිස් දෙදෙනෙකු සොරකම් කර ඇතැයි දෙහිවල පොලීසිය පවසයි.
+
+ඉකුත් 4  වැනිදා  අලුයම් කාලයේදී මෙම සොරකම සිදුවී ඇති බව ජාතික සත්වෝද්‍යානයේ සහකාර අධ්‍යක්ෂ එච්.ඒ.ඩී.පී සමන්මලී  මහත්මිය දෙහිවල පොලීසියට පැමිණිලි කර ඇත.
+
+ඉන්දියාවේ සිට බෝට්ටු මගින් මෙරටට නීති විරෝධීව රැගෙන එමින් තිබූ පරවියන් 63 දෙනෙකු පසුගිය ජුනි මාසයේදී පොලිසියට බාරයට ගෙන තිබූ අතර මන්නාරම මහේස්ත්‍රාත් අධිකරණයේ නියෝගයක් පරිදි එම පරවියන් දෙහිවල ජාතික සත්වෝද්‍යානයට භාරදී තිබිණ.
+
+නැති වූ පරවියන් සම්බන්ධයෙන් මෙතෙක් කිසිදු තොරතුරක් අනාවරණයවී නොමැත.දෙහිවල පොලිසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/93ae9f13.json)
+
+---
+
+### ඖෂධ හිඟයට පිළියම් හොයන්න  සමහර නීති හරස්වෙලා
+
+*2025-10-06 11:22:20* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඖෂධ-හඟයට-පළයම-හයනන-සමහර-නත-හරසවල/101-680782) · `si`
+
+ඖෂධ හිඟයට පිළියම් සෙවීමට පවතින සමහර නීති රීති බාධා වී ඇති  බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+තුනෙන් දෙකේ බලයක් තබාගෙන එම නීති රීති වෙනස් කිරීමට නොහැකිද යන්න කෙනෙකුට ගැටළුවක් සේ පැනනැගිය හැකි බව ද අමාත්‍යවරයා කීය.
+
+සමහර නීති රෙගුලාසි ගැටපු අද ඊයේ පැන නැගුණු ඒවා නොව බ්‍රිතාන්‍ය සමයේ සිට පැවත එන ඒවා බව අමාත්‍යවරයා මෙහි දී පෙන්වා දුන්නේය.
+
+අමාත්‍යවරයා මේ බව කීවේ කොළඹ ජාතික රෝහල් පරිශ්‍රයේ පිහිටි විපස්සි බෞද්ධ මධ්‍යස්ථානය විවෘත කරමිනි.
+
+සමස්ත ලංකා අමරපුර මහා සංඝ සභාවේ උත්තරීතර මහානායක ධූරයෙහි වැඩ විසූ අග්ගමහාපණ්ඩිත මඩිහේ පඤ්ඤාසීහ මහානාහිමියන්ගේ අනුශාසකත්වයෙන් ආරම්භ කළ රෝහල් සේවා මණ්ඩලයේ කොළඹ ජාතික රෝහල් පරිශ්‍රයේ පිහිටි විපස්සි බෞද්ධ මධ්‍යස්ථානය විවෘත කිරීම පසුගියදා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් සිදුවිය.
+
+මෙහි දී  රුපියල් කෝටි  දෙකක පමණ වටිනාකමින් යුත් රෝහල් හා වෛද්‍ය උපකරණ තොගයක් ද කොළඹ ජාතික රෝහල වෙත පරිත්‍යාග කරනු ලැබීය.
+
+...
+
+[Data](articles/8190f2ae.json)
+
+---
+
+### දෙමඩගොඩ පාළු නිවසක ගිනිඅවි-උණ්ඩ-මැගසිනයක් සොයාගනි
+
+*2025-10-06 11:12:35* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දමඩගඩ-පළ-නවසක-ගනඅව-උණඩ-මගසනයක-සයගන/101-680781) · `si`
+
+දෙමටගොඩ දුම්රිය ස්ථානය පිටුපස පාලු නිවසක තිබී මෙරට නිෂ්පාදිත මිලිමීටර් නමය වර්ගයේ ගිනි අවියක් ,ටී 56 වර්ගයේ ගෙනියවියකට යොදන මැගසිනයක් හා ටී 56 වර්ගයේ ජීව උණ්ඩ දෙකක් භාරයට ගත් බව කොළඹ දකුණ කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය පවසයි.
+
+උප පොලිස් පරීක්ෂක සුපුන් බණ්ඩාර මහතාට ලද තොරතුරකට අනුව දුම්රිය ස්ථානය පිටුපස පාළු ඉඩමක පිහිටි අතහැර දමා තිබූ නිවස පරීක්ෂා කිරීමේදී සහල් අලෙවිය සඳහා භාවිතා කරන බෑගයක ඔතා සැක කටයුතු පාර්සලයක් හමු වූ බව පැවසේ.
+
+පසුව එය පරීක්ෂා කිරීමේදී එහි තිබී මෙරට නිෂ්පාදිත මිලිමීටර් නමය වර්ගයේ ගිනි අවියක් , ටී 56  වර්ගයේ ගෙනි අවියකට යොදන මැගසිනයක් හා ටී 57 වර්ගයේ ජීව උණ්ඩ දෙකක් හමුවූ බව පොලිසිය පවසයි.
+
+මෙම ගිනි අවි උපකරණ  කිසියම් අයකු විසින් මෙම ස්ථානයට ගෙනවිත් දමා යන්නට ඇති බවට පොලිසිය සැක කරන අතර ඒ සම්බන්ධයෙන් අවට සවිකර ඇති ආරක්ෂිත කැමරා දර්ශන පරීක්‍ෂා කොට  වැඩිදුරේ විමර්ශන කිරීමට නියමිතය
+
+◼️
+
+[Data](articles/f4290da5.json)
+
+---
 
 ### A student drowns in swimming pool
 
@@ -90,6 +168,26 @@ Speaking at a ceremony in the Haputale area, Mr. Ruwan Sayakumara recently added
 [Data](articles/a4e82064.json)
 
 [Extended Data](ext_articles/a4e82064.ext.json)
+
+---
+
+### බල ජය කෙහෙලි යාපා පටුනේ
+
+*2025-10-06 10:44:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බල-ජය-කහල-යප-පටන/101-680780) · `si`
+
+යොවුන් ක්‍රීඩා උළෙලේ (Youth Sports Fest 2025) පළමු දිස්ත්‍රික් ක්‍රීඩා උළෙල යාපනයෙන් ආරම්භ කෙරිණි.
+
+යාපනය ඇල්ෆ්‍රඩ් දොරෙයි අප්පා ක්‍රීඩාංගනයේ දී ඇරැඹුණු මෙම ක්‍රීඩා උළෙලට යාපනය දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 15 ම නියෝජනය කරමින් තරුණ ක්‍රීඩක ක්‍රීඩිකාවෝ  සහභාගී වූහ.
+
+දිස්ත්‍රික් ක්‍රීඩා උළෙලේ සමාප්තිය සනිටුහන් කරමින් ජවන හා පිටිය තරඟ පැවැත්වුණු අතර, එහි ශුරතාවය තෙලිප්පායි ප්‍රාදේශීය මණ්ඩලය හිමි කරගත්තේ ය. අනු ශුරතාවය පේදුරුතුඩුව ප්‍රාදේශීය මණ්ඩලය හා තෙවන ස්ථානය නල්ලූර් ප්‍රාදේශීය මණ්ඩලය හිමි කරගත්තේය.
+
+ප්‍රාදේශීය ක්‍රීඩා උළෙල අවසානයේ දිස්ත්‍රික් ක්‍රීඩා උළෙල පවත්වා, ජාතික ක්‍රීඩා උළෙල දෙසැම්බර් මාසයේ දී පැවැත්වීමට නියමිතය.
+
+මෙම අවස්ථාව සඳහා ධීවර,ජලජ සහ සාගර සම්පත් අමාත්‍ය රාමලිංගම් චන්ද්‍රසේකර්, ජාතික තරුණ සේවා සභාවේ අධ්‍යක්ෂ ජනරාල් නීතිඥ සුපුන් විජේරත්න මහත්වරු ද සහභාගී වූහ.
+
+◼️
+
+[Data](articles/c36e932b.json)
 
 ---
 
@@ -1475,6 +1573,20 @@ The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be
 
 ---
 
+### ලෝක කුසලානය අතරේ ක්‍රිකට් තරුදෙකක් ගල්කිස්ස හෝටලයේදි අතිනත ගනිති
+
+*2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-කසලනය-අතර-කරකට-තරදකක-ගලකසස-හටලයද-අතනත-ගනත/101-680765) · `si`
+
+ශ්‍රී ලංකාවේදී මේ දිනවල පැවැත්වෙන 2025 ලෝක ගෘහස්ත ක්‍රිකට් තරගාවලියට සහභාගී වීම සඳහා පැමිණ සිටින අතරතුරේදී එංගලන්ත ගෘහස්ථ පිරිමි ක්‍රිකට් කණ්ඩායමේ නායක නාව් පටෙල් සහ එරට ගෘහස්ත කාන්තා ක්‍රිකට් කණ්ඩායම් සාමාජිකා මැලෝරි බාර්ටොෂ් අද විවාහ ගිවිස ගත්හ.
+
+සිය පවුල්වල සාමාජික සාමාජිකාවන් පිරිසක් ද  ඉදිරියේ නව යුවළ ගල්කිස්ස මහ හෝටලයේදී මංගල මුදු මාරු කරගත් අවස්ථාව 2025 ලෝක ගෘහස්ත ක්‍රිකට් තරඟාවලිය තලවතුගොඩ ඕස්ට්‍රේෂියා  ගෘහස්ත ක්‍රිකට් ක්‍රීඩාංගනයේදී මේ දිනවල පැවැත්වේ.
+
+◼️
+
+[Data](articles/4dc745e9.json)
+
+---
+
 ### Among the World Cup cricket cricket stars dip at Mount Lavinia Hotel
 
 *2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/test/ලක-කසලනය-අතර-කරකට-තර-දකක-ගලකසස-හටලය-ද-අතනත-ගනත/222-680765) · `si`
@@ -1882,105 +1994,5 @@ The arrested have been arrested seven including a disciple of Midigama, a drug d
 [Data](articles/e5eadc82.json)
 
 [Extended Data](ext_articles/e5eadc82.ext.json)
-
----
-
-### Harsha alerts on the new interest rate proposal for the central highway project
-
-*2025-10-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226963) · `ta`
-
-Dr. Harsha de Silva, Chairman of the State Finance Committee and Member of Parliament expressed concern over the proposal to change the interest rate on the central highway project.. He also warned that this could increase the country's debt costs.
-
-Harsha de Silva, who posted this on his official X site, said the scheme, which has already been delayed and affected by the increasing interest burden, has been reinstated by the ongoing financial and contract uncertainty.
-
-He said that although the scheme was resumed under President Anura Kumara Tissanayake, the negotiations were not yet completed with the claims of the main contractors and the revised $ 500 million loan facility.
-
-He also pointed out that the State Finance Committee was confused about the proposal of the Ministry of Highways to switch to a varying rate from the existing 15 -year -old 2.5 per cent interest rate, at least 2.5 per cent and a maximum of 3.5 per cent.
-
-...
-
-[Data](articles/ca58acaf.json)
-
-[Extended Data](ext_articles/ca58acaf.ext.json)
-
----
-
-### Is Sri Lanka trapped in the Japanese strategy?
-
-*2025-10-05 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/226958) · `ta`
-
-The question is whether China wants to strengthen the Sri Lankan navy and strengthen it through Japan.
-
-◼️
-
-[Data](articles/90601977.json)
-
-[Extended Data](ext_articles/90601977.ext.json)
-
----
-
-### 7 including accomplice of ‘Midigama Ruwan’ arrested with 5.6kg Hash
-
-*2025-10-05 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113235/7-including-accomplice-of-midigama-ruwan-arrested-with-56kg-hash) · `en`
-
-Sri Lanka Police said that seven suspects, including an accomplice of organized criminal ‘Midigama Ruwan’, have been arrested with 5.6 kilograms of Hashish.
-
-The suspects have been arrested following raids conducted in the Habaraduwa and Baddegama areas, police said.
-
-The estimated street value of the seized narcotics is around Rs. 40 million.
-
-The arrested suspects have allegedly been distributing drugs to several areas in the Southern Province and have been engaged in this drug trafficking racket under the guise of engaging in fishing activities.
-
-The arrestees include ‘Midigama Rana’, a close associate of organized criminal and drug trafficker known by the alias ‘Midigama Ruwan’. The remaining suspects have been arrested following interrogation of ‘Midigama Rana’.
-
-The suspects have claimed that they brought the stock of drugs, which was found floating in the sea, to land and then sold it.
-
-...
-
-[Data](articles/94e1fafe.json)
-
-[Extended Data](ext_articles/94e1fafe.ext.json)
-
----
-
-### Combination
-
-*2025-10-05 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226957) · `ta`
-
-No matter how many times you give explanations of the federal regime, the negative ideas about it are not going to change.. The Sinhala political leadership is not going to change that. NPP. The government often claims that the Tamil people have ordered themselves. But, that order is something weak. The order was only issued by the minority of the Tamils.
-
-◼️
-
-[Data](articles/f2b95459.json)
-
-[Extended Data](ext_articles/f2b95459.ext.json)
-
----
-
-### 323 containers release issue;  Investigation Committee's Report - Objects revealed
-
-*2025-10-05 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/226953) · `ta`
-
-'Although the containers are identified with the release of the system and the responsible people, the question is still the question of what was in the containers'
-
-◼️
-
-[Data](articles/3b920c19.json)
-
-[Extended Data](ext_articles/3b920c19.ext.json)
-
----
-
-### The environment and the secret of prosperity
-
-*2025-10-05 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/226955) · `ta`
-
-The interests of the importance of the island of Sri Lanka should be experienced by all the people here. But the fact is that those interests have been experienced only by a part of the Sinhalese. International forces want to maintain traditional political, economic and security ties with the island of Sri Lanka - to strengthen new relations and cooperation.
-
-◼️
-
-[Data](articles/c0e26187.json)
-
-[Extended Data](ext_articles/c0e26187.ext.json)
 
 ---

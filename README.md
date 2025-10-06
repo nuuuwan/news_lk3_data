@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 09:13:11**
+As of **2025-10-06 08:25:07**
 
 ## Newspaper Stats
 
-*Scraped **81,423** Articles*
+*Scraped **81,417** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 610
 dbsjeyarajcom | 637
-bbccomsinhala | 725
+bbccomsinhala | 724
 colombotelegraphcom | 811
 lankadeepalk | 826
 dailymirrorlk | 4,733
@@ -21,117 +21,17 @@ adalk | 7,795
 adaderanalk | 10,460
 tamilmirrorlk | 12,083
 virakesarilk | 13,393
-adaderanasinhalalk | 13,997
+adaderanasinhalalk | 13,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,418 (100.0%) of 81,423 articles have been extended.
+81,417 (100.0%) of 81,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
-
-### සිඩ්නි නගරයේ වෙඩි තැබීමක්
-
-*2025-10-06 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215389) · `si`
-
-ඔස්ට්‍රේලියාවේ සිඩ්නි නගරයේ වීදියක සිදු වූ වෙඩි තැබීමකින් 20 දෙනෙකු තුවාල ලබා රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-වෙඩි තැබීම සම්බන්ධයෙන් 60 හැවිරිදි පුද්ගල‍යෙකු අත්අඩංගුවට ගෙන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-අදාළ පුද්ගලයා විසින් වෙඩි ප්‍රහාර 100කට ආසන්න සංඛ්‍යාවක් එල්ල කර ඇති අතර පොලිස් වාහන ඇතුළු මාර්ගයේ ගමන් කළ වාහන ද ඉලක්ක කර ගනිමින් මෙම වෙඩි ප්‍රහාරයන් එල්ල කර ඇති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/7644d983.json)
-
----
-
-### ගාසා යුද්ධය අවසන් කිරීමේ උත්සාහයට සම්බන්ධ සියලු පාර්ශ්වයන් වේගයෙන් ඉදිරියට යා යුතුයි - ට්‍රම්ප්
-
-*2025-10-06 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215388) · `si`
-
-හමාස් සංවිධානය සහ ඊශ්‍රායලය අතර වක්‍ර සාම සාකච්ඡා සඳහා වූ මැදිහත්කරුවන් හමුවීමට නියමිත බැවින් ගාසා යුද්ධය අවසන් කිරීමේ උත්සාහයන්ට සම්බන්ධ සියලු පාර්ශ්වයන් වේගයෙන් ඉදිරියට යා යුතු බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසා තිබේ.
-
-සිය Truth Social ගිණුමේ සටහනක් තබමින් අමෙරිකානු ජනාධිපතිවරයා මේ බව සඳහන් කර තිබේ.
-
-ප්‍රාණ ඇපකරුවන් නිදහස් කිරීම සහ ගාසා පාලනය පලස්තීන තාක්ෂණික කණ්ඩායම් වෙත භාර දීම ඇතුළු කරුණු 20කින් යුත් එක්සත් ජනපද සාම සැලැස්මේ ඇතැම් කොටස් සඳහා හමාස් සංවිධානය එකඟ වීමෙන් අනතුරුව මෙම සාකච්ඡා ආරම්භ වීමට නියමිතව ඇත.
-
-සාකච්ඡා ඉතා සාර්ථක බවත් පළමු අදියර මෙම සතියේම අවසන් කළ යුතු බවත් ඒ අනුව සියලු දෙනා ඉක්මනින් ඉදිරියට යන ලෙස තමන් ඉල්ලා සිටින බවත් සඳහන් කර ඇති අමෙරිකානු ජනාධිපතිවරයා කණ්ඩායම් අද දිනයේදී ඊජිප්තුවේදී නැවත රැස්වී අවසාන තොරතුරු පැහැදිලි කර ගැනීමටද නියමිත බවය.
-
-තවද වසර ගණනාවක් පැරණි මෙම ගැටුම තමන් දිගින් දිගටම නිරීක්ෂණය කළ බවත් කාලය ඉතා වැදගත් වන බැවින් නැතහොත් දැවැන්ත ලේ වැගිරීම් සිදුවනු ඇති බවත් අමෙරිකානු ජනාධිපතිවරයාගේ සටහනේ සඳහන් ව තිබේ.
-
-...
-
-[Data](articles/f7c5f7da.json)
-
----
-
-### තැන තැන සිදු වූ අනතුරුවලින් සිව් දෙනෙකු මරුට
-
-*2025-10-06 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215387) · `si`
-
-බිංගිරිය පොලිස් වසමේ හමන්නාපහුව දළුපොත මාර්ගයේ ගුරුළුවෙල ප්‍රදේශයේදී මාරක අනතුරක් සිදුව තිබේ.
-
-දළුපොත දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට පැන විදුලි රැහැනක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
-
-අනතුරින් පැදිකරු හා පසුපැදිකාරිය බරපතළ තුවාල ලබා කුලියාපිටිය රෝහලට ඇතුළත් කර ඇති අතර එහිදී පැදිකරු මියගොස් තිබේ.
-
-මෙලෙස මිය ගොස් ඇත්තේ වයස අවුරුදු 23 ක් වූ නාගොල්ලාගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-එමෙන්ම මාතර තිස්සමහාරාම මාර්ගයේ දංදෙනිය ප්‍රදේශයේදී තිස්සමහාරාම දෙසට ධාවනය වූ ත්‍රීරෝද රථයක් රියදුරුට පාලනය කර ගැනීමට නොහැකිව විරුද්ධ දිසාවෙන් පැමිණි බස් රථයක ගැටීමෙන් සිදු වූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-මොරගොල්ලාගම ප්‍රදේශයේ පදිංචි 51 හැවිරිදි කාන්තාවක් මෙසේ ජීවිතක්ෂයට පත්ව ඇත.
-
-අනතුර සම්බන්ධයෙන් ත්‍රීරෝද රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර හුංගම පොලිසිය වැඩිදුර විමර්ශන සිදු කරයි.
-
-කරෙයිනගර් කැරුම්කාලී වෙල් යාය මාර්ගයේ කරෙයිනගර් ප්‍රදේශයේදී ද සිදු වූ අනතුරකින් 34 හැවිරිදි පුද්ගලයෙකු ජිවීතක්ෂයට පත්විය.
-
-...
-
-[Data](articles/785daa89.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට ගිගුරුම් සහිත වැසි
-
-*2025-10-06 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215386) · `si`
-
-දිවයිනේ බොහෝ ප්‍රදේශවල පස්වරු 1.00න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-උතුරු, උතුරු - මැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇති විය හැකියි.
-
-එමෙන්ම බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී ස්ථාන ස්වල්පයක වැසි ඇති විය හැකි බව එම නිවේදනයේ සඳහන් වේ.
-
-ගිගුරුම් සහිත වැසි සමඟ ඇති විය හැකි තද සුළං සහ ප්‍රබල අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම්දීමක් කර ඇත.
-
-◼️
-
-[Data](articles/60f087f1.json)
-
----
-
-### වප් පුර පසළොස්වක පොහෝ දිනය අදයි
-
-*2025-10-06 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215385) · `si`
-
-සත්වන වස් කාලය ගත කිරීමට තව්තිසා දෙව්ලොවට වැඩම කෙරූ බුදුරාජණන් වහන්සේ දෙව්ලොවින් නික්ම දඹදිව සංකස්සපුරයට වැඩම කර මහා පෙළහර පාමින් වැඩසිට ඇත්තේ ද අදවන් පොහෝ දිනක බවද ශාසන ඉතිහාසයේ සදහන් වේ.
-
-එමෙන්ම වස්සාන සමයේ පෙරවස් එළඹුකු භික්ෂූන් වහන්සේ තෙමසකින් වස් පවාරණය කිරීම අද වැනි පොහොය දිනකදී සිදු කෙරේ.
-
-වප් පුන් පොහෝ දිනය අසිරිමත් බෞද්ධාගමික සිදුවීම් රැසක් සිදුවුනු වැදගත් පොහෝ දිනයක් වන අතර මහා පවාරණය, දේවාවරෝහණය, සාරිපුත්ත තෙරණුවෝ ප්‍රඥාවෙන් අගතැන් ලැබීම, මෛත්‍රී බෝධිසත්වයන් ගෞතම සම්බුදු සසුනේ පැවිදි බව ලැබීම, ථූපාරාම සෑ මළුවේ විනය සංගායනාව සිදුකිරීම, ජය ශ්‍රී මහා බෝධීන් වහන්සේගේ දක්ෂිණ ශාඛාව රන් කටාරමෙහි පිහිටීම ආදී අසිරිමත් ශාසනික සංසිද්ධීන් සිදුවූයේද අද වන් වප් පුන් පොහෝ දිනයන්හි දී ය.
-
-මේ අතර ටීවී දෙරණ විසින් සංවිධානය කරනු ලබන දෙරණාභිවන්දනා ධර්ම දේශනා වැඩසටහන අද දවස පුරාම ලුණුගම්වෙහෙර, පුංචිඅප්පු ජඳුර ශ්‍රී අශ්වත්ථාරාම විහාරස්ථානයේදී සිදු කෙරේ.
-
-තවද එෆ්.එම්.දෙරණ අසපුව 127 වන පෝදා සජීවි විකාශය පොළොන්නරුව ගල්තඹරාව ශ්‍රී විජයාරාම විහාරස්ථානය කේන්ද්‍ර කරගනිමින්ද අද දවස පුරා පැවැත්වෙනු ඇත.
-
-◼️
-
-[Data](articles/9c26ceac.json)
-
----
 
 ### The weather today
 
@@ -266,30 +166,6 @@ Two elderly people were injured on a motorcycle during the accident. Chunnakam p
 [Data](articles/d4fb5cfe.json)
 
 [Extended Data](ext_articles/d4fb5cfe.ext.json)
-
----
-
-### Vehicles prices down: 90 days of importers in crisis; 'Good chance to get a vehicle for less'
-
-*2025-10-06 01:31:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cm2zr4z0xkxo) · `si`
-
-Vehicles prices down: 90 days of importers in crisis; 'Good chance to get a vehicle for less'
-
-Nearly 8 months have passed since the government granted permission to import vehicles. The government was permitted to import vehicles on January 28 years later.
-
-With the arrival of new vehicles, the vehicle prices were highly enthusiastic and the vehicle prices were on the rise.
-
-With the importation of new vehicles, many buyers accused the prices of used vehicles used in the country to increase a rapidly.
-
-There is a talk that vehicle prices have fallen largely declined in the local market after an 8 months of authorization to import vehicles.
-
-The vehicles importer, Sameera, told the Sinhala service, that the price of vehicles sold in the market worth Rs.. He said that the price of vehicles sold in the price range of Rs 200 lakhs range of vehicles were reduced between Rs.
-
-...
-
-[Data](articles/4ad6f757.json)
-
-[Extended Data](ext_articles/4ad6f757.ext.json)
 
 ---
 
@@ -1956,5 +1832,127 @@ The Department of Meteorology is kindly requested to take necessary steps to min
 [Data](articles/78a0af45.json)
 
 [Extended Data](ext_articles/78a0af45.ext.json)
+
+---
+
+### A couple arrested in Kandy
+
+*2025-10-05 13:35:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-கை-வைத்த-ஜோடி-கைது/76-365758) · `ta`
+
+Police say they have arrested a young married couple who allegedly stole the actual jewelery for allegedly buying jewelry in a jewelery shop in Kandy.
+
+Following a telephone call from a jewelery shop in Kandy, the Kandy Police Headquarters Crime Branch immediately accepted the invitation and arrested the suspected couple while hiding the stolen jewelery.
+
+The couple from the Talathuoya Etalgama area are aged 20-22, police said.. According to information received from them, a share of stolen jewelery stolen jewelery at major banks in Kandy has been recovered, and police investigations are underway to find out if any other jewelery shops have gone.
+
+◼️
+
+[Data](articles/f5269901.json)
+
+[Extended Data](ext_articles/f5269901.ext.json)
+
+---
+
+### 731 per permanent postal assistant to the Department of Posts
+
+*2025-10-05 13:33:21* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-දෙපාර්තුමේන්තුවට-ස්ථිර-තැපැල්-සහයක-731-ක්/11-418921) · `si`
+
+731 persons have been selected to the post of postal assistant in Grade III of the Department of Postal Department (III) III of the Department of Movement. Awarding permanent appointment letters to the selected group will be held under the patronage of Health and Mass Media Dr. Nalinda Jayatissa on Monday (015.10.20).
+
+After the year 2021, the Sri Lanka Postal Assembly has not been recruited to the Sri Lanka Postal Department and by the end of the previous year.. The departmental work with such a number of vacancies has arisen and has approved Cabinet approval on August 19, 2025 at the request of Health and Mass Media Dr. Nalinda Jayatissa to recruit 1000 vacancies as a solution.
+
+Accordingly, out of which 731 persons were selected to recruit the proper qualifications as registered as substitute employees of the Department of Posts.. The Ministry of Health and Mass Mediti has already taken action to recruit 269 other postvers.
+
+◼️
+
+[Data](articles/fc97c31b.json)
+
+[Extended Data](ext_articles/fc97c31b.ext.json)
+
+---
+
+### Advisory issued for severe lightning
+
+*2025-10-05 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/113232/advisory-issued-for-severe-lightning) · `en`
+
+An ‘Amber’ advisory has been issued by the Department of Meteorology for severe lightning in several provinces and districts.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in the Northern, North-central, Eastern, Uva and North-western provinces and in Matale district, the department stated.
+
+There may be temporary localized strong winds during thundershowers, it added.
+
+Accordingly, the general public has been requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public has also been requested to seek shelter, preferably indoors, to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, and also to refrain from using wired telephones and connected electric appliances during thunderstorms.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/d22bb58c.json)
+
+[Extended Data](ext_articles/d22bb58c.ext.json)
+
+---
+
+### Surya's Mandadi telephone accident: Rs 1 crore damage
+
+*2025-10-05 13:27:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/சூரியின்-மண்டாடி-படப்பிடிப்பில்-விபத்து-ரூ-1-கோடி-சேதம்/54-365757) · `ta`
+
+Suri starring in the shooting of Mandadi. The accident seems to have been damaged by shooting equipment worth Rs 1 crore.
+
+Suri starring Mathimaran. The shooting is taking place in the surrounding area of ​​Ramanathapuram. The film crew filmed the main scenes in the sea area. Unexpectedly, the camera fell into the boat and crashed. Two people in the boat were drowned in the sea. The people around them were safely rescued. There was no casualties in the accident.
+
+But, the cameras fell in the seawater caused severe damage. It is estimated to be worth up to Rs 1 crore.
+
+This is because the film crew has been filming the high -end camera called Red Digital. Although the film crew is shocked by the accident. The police are investigating the matter.
+
+Suhas, Mahima Nambiar, Achut Kumar, Ravinda Vijay, Sathyaraj and many others are starring in the film.. The film is being produced by Elret Kumar. Its cinematographer SR Kathir and GV Prakash as the composer.
+
+◼️
+
+[Data](articles/da803077.json)
+
+[Extended Data](ext_articles/da803077.ext.json)
+
+---
+
+### Harsha question on the change of interest percentage
+
+*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-சதவீத-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
+
+Dr. Harsha de Silva, Chairman of the Public Finance Committee (COPF), has expressed concern over the proposal to change the interest rate of the central highway project. He warned that this could increase the country's borrowing costs.
+
+He posted in X in x, said the LKR 226 billion project, which was already burdened with delayed and growing interest payments, has been reviewed due to continuous financial and contract uncertainty.
+
+Although the project was renovated under President Anura Kumara Dissanayake, he said that the negotiations with the main contractor MCC, their claims, and the Chinese EXIM bank on the revised US $ 500 million loan facility were incomplete.
+
+D Silva said the group was confused by the proposal of the Ministry of Highways to convert from 2.5% of the current 15 -year standard interest percentage, of which 2.5% of the basic interest and 3.5% ceiling.
+
+...
+
+[Data](articles/2cc9fc49.json)
+
+[Extended Data](ext_articles/2cc9fc49.ext.json)
+
+---
+
+### Harsha question on the change of interest rate configuration
+
+*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-விகித-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
+
+Dr. Harsha de Silva, Chairman of the Public Finance Committee (COPF), has expressed concern over the proposal to change the interest rate structure of the central highway project. He warned that this could increase the country's borrowing costs.
+
+He posted in X in x, said the LKR 226 billion project, which was already burdened with delayed and growing interest payments, has been reviewed due to continuous financial and contract uncertainty.
+
+Although the project was renovated under President Anura Kumara Dissanayake, he said that the negotiations with the main contractor MCC, their claims, and the Chinese EXIM bank on the revised US $ 500 million loan facility were incomplete.
+
+D Silva said the group was confused by the proposal of the Highway Ministry to convert the current 15 -year standard interest from 2.5% to 2.5%, of which 2.5% of the base interest and a 3.5% ceiling of 3.5%.
+
+...
+
+[Data](articles/b1a1d392.json)
+
+[Extended Data](ext_articles/b1a1d392.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 22:38:05**
+As of **2025-10-06 22:21:57**
 
 ## Newspaper Stats
 
-*Scraped **81,671** Articles*
+*Scraped **81,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,13 +21,13 @@ adalk | 7,809
 adaderanalk | 10,492
 tamilmirrorlk | 12,120
 virakesarilk | 13,446
-adaderanasinhalalk | 14,023
+adaderanasinhalalk | 14,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,660 (100.0%) of 81,671 articles have been extended.
+81,660 (100.0%) of 81,670 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,26 +48,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/dfcb30b7.json)
-
----
-
-### නිල්වැල්ල මුහුදේ දිය නෑමට ගිය තිදෙනෙක් ගසාගෙන යයි - අයෙක් මරුට
-
-*2025-10-06 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215415) · `si`
-
-දික්වැල්ල, නිල්වැල්ල බ්ලූබීචි දුපත අසල මුහුදේ දිය නෑමට ගිය යටියන ප්‍රදේශයේ පුද්ගලයන් තිදෙනෙකු දියේ ගසාගෙන ගොස් අයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-අද (06) පස්වරු 3.30ට පමණ මෙම අනතුර සිදුව තිබූ අතර, පුද්ගලයින් දෙදෙනෙකු රෝහල්ගත කර ඇත.
-
-ප්‍රදේශවාසින් එක්ව දියේ ගිලුණු පිරිස බේරාගැනීමට උත්සාහ දරා ඇති අතර, එහිදී ඵක් පුද්ගලයකු මියගොස් තිබේ.
-
-මියගොස් ඇති පුද්ගලයාගේ මෘතදේහය බතීගම රෝහලට රැගෙන ගොස් ඇති අතර අනෙක් පුද්ගලයින් දෙදෙනා මාතර මහ රෝහලේ දැඩිසත්කාර ඵ්කකයේ ප්‍රතිකාර ලබයි.
-
-මියගොස් ඇත්තේ 32 හැවිරිදි මැදවියන්ගොඩ ප්‍රදේශයේ පුද්ගලයෙකු වන අතර, 51 හැවිරිදි සහ 38 හැවිරිදි පුද්ගලයින් දෙදෙනා රෝහල්ගතව සිටී.
-
-◼️
-
-[Data](articles/57a79da7.json)
 
 ---
 
@@ -2044,5 +2024,23 @@ The songs of the film have been released and fascinated by the fans ... The film
 [Data](articles/db7911bb.json)
 
 [Extended Data](ext_articles/db7911bb.ext.json)
+
+---
+
+### 34 drivers arrested for driving vehicles
+
+*2025-10-06 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/227026) · `ta`
+
+34 drivers have been arrested in connection with the driver of liquor during a special roundup, which was carried out on Sunday (05), the police media unit said.
+
+Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
+
+Meanwhile, 760 persons have been arrested during the special roundabout, 23 people with evidence of various crimes, 290 persons issued, 172 people who have been issued an opening order, 21 drivers and 3736 in violation of the transport regulations.
+
+◼️
+
+[Data](articles/24b9f4fa.json)
+
+[Extended Data](ext_articles/24b9f4fa.ext.json)
 
 ---

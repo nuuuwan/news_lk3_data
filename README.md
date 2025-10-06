@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 19:23:39**
+As of **2025-10-06 19:38:45**
 
 ## Newspaper Stats
 
-*Scraped **81,607** Articles*
+*Scraped **81,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,8 +18,8 @@ economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,808
-adaderanalk | 10,480
-tamilmirrorlk | 12,116
+adaderanalk | 10,483
+tamilmirrorlk | 12,117
 virakesarilk | 13,425
 adaderanasinhalalk | 14,018
 
@@ -27,11 +27,29 @@ adaderanasinhalalk | 14,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,606 (100.0%) of 81,607 articles have been extended.
+81,606 (100.0%) of 81,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### ”கம்மன்பில மற்றும் விமல் நீண்ட காலமாக லூசு போல் பேசி வருகின்றனர்”
+
+*2025-10-06 19:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பில-மற்றும்-விமல்-நீண்ட-காலமாக-லூசு-போல்-பேசி-வருகின்றனர்/175-365839) · `ta`
+
+விமல் வீரவன்ச மற்றும் உதய கம்மன்பில போன்ற அரசியல்வாதிகள் தொடர்ந்து முட்டாள்தனமாகப் பேசினால் விசாரணைகளை எதிர்கொள்ளத் தயாராக இருக்க வேண்டும் என்று துணை அமைச்சர் மஹிந்த ஜெயசிங்க இன்று தெரிவித்தார்.
+
+"விமல் வீரவன்ச, கம்மன்பில மற்றும் எதிர்க்கட்சி குழு இது முந்தைய அரசாங்கங்களைப் போலவே இருப்பதாக நினைக்கிறார்கள். அவர்களால் இனி முட்டாள்தனமாகப் பேச முடியாது. அவர்கள் முட்டாள்தனமாகப் பேசினால், அவர்களின் அறிக்கைகள் தொடர்பான விசாரணைகள் மற்றும் விசாரணைகளை எதிர்கொள்ள அவர்கள் தயாராக இருக்க வேண்டும்," என்று அவர் கூறினார்.
+
+விமல் வீரவன்ச வாக்குமூலம் பதிவு செய்ய அழைக்கப்பட்டிருப்பது குறித்த கேள்விக்கு பதிலளிக்கும் போதே பிரதி அமைச்சர் இவ்வாறு கூறினார்.
+
+"கம்மன்பில நீண்ட காலமாக முட்டாள்தனமாகப் பேசி வருகிறார். விமல் வீரவன்ச முட்டாள்தனமாகப் பேசி வருகிறார். இது போன்ற முட்டாள்தனமாகப் பேசும் அனைத்து அரசியல்வாதிகளையும் ஆதாரங்களுடன் விசாரணைகளை எதிர்கொள்ளத் தயாராகுங்கள் என்று கூற விரும்புகிறேன்" என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/d0d4801a.json)
+
+---
 
 ### Sri Lankans to Witness Supermoon Today
 
@@ -111,6 +129,30 @@ The accident had occurred when a group of women who had come to join the road to
 
 ---
 
+### English author Jilly Cooper dies at age 88
+
+*2025-10-06 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113263/english-author-jilly-cooper-dies-at-age-88) · `en`
+
+English author Dame Jilly Cooper has died at age 88, her family has announced.
+
+The author was best known for The Rutshire Chronicles, including the second book in the series, Rivals, which was recently adapted into a Disney+ series starring David Tennant.
+
+Cooper’s novels were known for their glamorous settings, complex characters and romantic entanglements, starting in the world of British equestrianism and high society.
+
+Her books were often called “bonkbusters” but Cooper much preferred the phrase “low morals and high fences”, she told the BBC in 2024.
+
+Her death was made public with a statement from her children, Felix and Emily, who said her death came as a “complete shock”.
+
+“We are so proud of everything she achieved in her life and can’t begin to imagine life without her infectious smile and laughter all around us,” they said in a statement.
+
+Agent Felicity Blunt said Cooper had “defined culture, writing and conversation since she was first published over 50 years ago”.
+
+...
+
+[Data](articles/c2b08602.json)
+
+---
+
 ### Super Moon tonight
 
 *2025-10-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215408) · `si`
@@ -128,6 +170,24 @@ The Arthur C Clark, Research Scientist Supervisor, Experts, Information of Moder
 [Data](articles/86dfe281.json)
 
 [Extended Data](ext_articles/86dfe281.ext.json)
+
+---
+
+### Human Rights Council adopts resolution on Sri Lanka
+
+*2025-10-06 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113262/human-rights-council-adopts-resolution-on-sri-lanka) · `en`
+
+The resolution A/HRC/60/L.1/Rev.1 on promoting reconciliation, accountability and human rights in Sri Lanka has been adopted at the United Nations Human Rights Council in Genève.
+
+The resolution has been adopted without a vote at the 60th session of the Human Rights Council.
+
+Twenty-two countries signed on as co-sponsors to the revised UN resolution, extending the Office of the High Commissioner for Human Rights’ (OHCHR) mandate in Sri Lanka for another two years.
+
+The resolution proposes to “extend the mandate of the Office of the High Commissioner and all work requested of it by the Human Rights Council in its resolution 51/1 of 6 October 2022, and request the Office to present a written update at its sixty-third session, and a comprehensive report on progress in reconciliation, accountability and human rights in Sri Lanka at its sixty-sixth session, to be discussed during an interactive dialogue.”
+
+...
+
+[Data](articles/2ca9d07c.json)
 
 ---
 
@@ -274,6 +334,26 @@ IGP Priyantha Weerasuriya has been transferred with immediate effect.
 [Data](articles/8e8ef147.json)
 
 [Extended Data](ext_articles/8e8ef147.ext.json)
+
+---
+
+### 32 OICs transferred with immediate effect
+
+*2025-10-06 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113260/32-oics-transferred-and-appointed-with-immediate-effect) · `en`
+
+A total of 32 Officers-in-Charge (OICs) have been transferred and appointed to new positions with the approval of the National Police Commission.
+
+The transfers have been approved by Inspector General of Police Attorney-at-Law Priyantha Weerasooriya and are to be implemented with immediate effect, according to the Police Headquarters.
+
+Among the officers, 26 are Chief Inspectors of Police and six are Inspectors of Police.
+
+A total of nine Chief Inspectors and one Inspector have been reassigned to general duties.
+
+These officers have been relieved of their OIC roles and assigned to other duties as part of the reshuffle, said the Police headquarters.
+
+◼️
+
+[Data](articles/14f0d7e2.json)
 
 ---
 
@@ -1932,75 +2012,5 @@ Police suspect that the firearm has been put into the scene.
 [Data](articles/5c6d9f5f.json)
 
 [Extended Data](ext_articles/5c6d9f5f.ext.json)
-
----
-
-### Everyday calls for fun: the plaintiff complains to his wife
-
-*2025-10-06 12:13:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தினமும்-உல்லாசத்திற்கு-அழைப்பார்-மனைவி-மீது-வாலிபர்-பரபரப்பு-புகார்/175-365808) · `ta`
-
-The plaintiff denies his wife's complaint that he has taken video of the bedroom close. He has accused his wife of hearing every day and torture.
-
-A 32 -year -old woman lodged a complaint with her husband a few days ago at the Puthenahalli police station in Bangalore. My husband had recorded the video of the secret camera in the bedroom and said that the video was recorded and shared it with her friends.
-
-Syed Inamul has denied the complaint lodged by her wife on her. He has posted a video record on social networks. In it, he said, "I am not married, just once married. I'm just a wife. I have no contact with any other women. My wife has bought me Rs.17 lakh from me. I was married to my wife for Rs 13 lakh.
-
-My wife will insist on engaging in marriage every day after marriage. On that occasion he would behave like a psychiatrist. My wife was just tortured me. Thus Syed Inamul says in the video. The video is currently going viral on social networks.
-
-◼️
-
-[Data](articles/7cb2d363.json)
-
-[Extended Data](ext_articles/7cb2d363.ext.json)
-
----
-
-### Hospital fire: 6 patients were black
-
-*2025-10-06 12:08:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவமனையில்-தீ-6-நோயாளிகள்-கருகினர்/175-365806) · `ta`
-
-A fire broke out at a hospital in Jaipur, Rajasthan this morning.. Six patients were killed in the fire. Five more people have been rescued with injuries. Their condition is worrisome. It is feared that the number of casualties will increase.
-
-The hospital administration said: "The fire broke out in the emergency department (ICU) due to a short circuit.. Then the fire spreads. There were 11 patients in the ICU during the fire. Most of them were in a coma position. After the fire, we immediately rescued them in trolley and brought them out of the ICU as many patients as possible. Then we struggled for a long time.
-
-We tried so hard to resurrect them by CPR but couldn't save them. Six of the patients died. Of the dead, two are women, four are men. 5 patients are still worried. ”
-
-◼️
-
-[Data](articles/7a4c582f.json)
-
-[Extended Data](ext_articles/7a4c582f.ext.json)
-
----
-
-### එවරස්ට කන්දේ හිම කුණාටුවක් - කන්ද තරනය කළ 200ක් සිරවෙයි
-
-*2025-10-06 12:07:27* · [`adalk`](https://www.ada.lk/breaking_news/එවරස්ට-කන්දේ-හිම-කුණාටුවක්---කන්ද-තරනය-කළ-200ක්-සිරවෙයි/11-418934) · `si`
-
-The climbing Mount Everest has faced a snowstorm.
-
-Nearly 350 people have been taken to the safe area and about 200 others, foreign media reports.
-
-◼️
-
-[Data](articles/ea5b0ce2.json)
-
-[Extended Data](ext_articles/ea5b0ce2.ext.json)
-
----
-
-### Granting gifts from the farm bosses
-
-*2025-10-06 12:06:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ගව-මණඩලය-ලකකන-19කට-හර-පරන-දමන/101-680785) · `si`
-
-The National Audit office said that the transportation allowance of the State Business Circular has paid up to 19 lakhs in contrast to the Public Enterprises Circular.
-
-More than Rs.. This information is included in the Audit Regulation, which has been included in the Performance Report of the Agricultural and Farm and Farm Council.
-
-◼️
-
-[Data](articles/a36fa870.json)
-
-[Extended Data](ext_articles/a36fa870.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 19:56:00**
+As of **2025-10-06 19:38:45**
 
 ## Newspaper Stats
 
-*Scraped **81,612** Articles*
+*Scraped **81,611** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 627
+newsfirstlk | 626
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
@@ -27,23 +27,11 @@ adaderanasinhalalk | 14,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,606 (100.0%) of 81,612 articles have been extended.
+81,606 (100.0%) of 81,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
-
-### Four Dead, Three Injured in Road Accidents Across Sri Lanka
-
-*2025-10-06 19:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/four-dead-three-injured-in-road-accidents-across-sri-lanka) · `en`
-
-COLOMBO (News 1st) : Four people have died and three others sustained injuries in separate road accidents across the island.In Guruluwela, Bingiriya, a 23-year-old woman died after a motorcycle veered off the road and hit a lamp post.The motorcyclist who sustained injuries was admitted to the hospital.In the Dandeniya, Hungama, a 51-year-old woman died when a three-wheeler collided with a bus.In Karumkali, Karainagar, a 34-year-old man died and another was injured after a motorcycle lost control and overturned.Meanwhile, in Pandarikulam on the Nedunkerni–Oddusuddan road, a 61-year-old man died when his motorcycle collided with a cow and subsequently a lorry.
-
-◼️
-
-[Data](articles/46b6fb2b.json)
-
----
 
 ### ”கம்மன்பில மற்றும் விமல் நீண்ட காலமாக லூசு போல் பேசி வருகின்றனர்”
 
@@ -2004,5 +1992,25 @@ When he got into the water to recover, he could not come up again, so he drowned
 [Data](articles/c0cc69a9.json)
 
 [Extended Data](ext_articles/c0cc69a9.ext.json)
+
+---
+
+### A revolver emerge from the garbage
+
+*2025-10-06 12:18:28* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කණ-කනදන-රවලවරයක-මතවය/101-680786) · `si`
+
+The Grandpass police say that the country's manufacturers have been found in the country where the country's donation was found on the garbage of Madampitiya.
+
+Police said that the fire fire was rust.
+
+Kelaniya Police Special Task Force officials, a person who was traveling from the site, found firearm according to information received by the firearm.
+
+Police suspect that the firearm has been put into the scene.
+
+◼️
+
+[Data](articles/5c6d9f5f.json)
+
+[Extended Data](ext_articles/5c6d9f5f.ext.json)
 
 ---

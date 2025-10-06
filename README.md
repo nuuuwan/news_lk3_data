@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 22:21:57**
+As of **2025-10-06 22:55:28**
 
 ## Newspaper Stats
 
-*Scraped **81,670** Articles*
+*Scraped **81,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,65 +21,97 @@ adalk | 7,809
 adaderanalk | 10,492
 tamilmirrorlk | 12,120
 virakesarilk | 13,446
-adaderanasinhalalk | 14,022
+adaderanasinhalalk | 14,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,660 (100.0%) of 81,670 articles have been extended.
+81,671 (100.0%) of 81,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
-### උඩු මහලින් වැටුණු හිමි නම අපවත් වෙති
+### Nothing felling name
 
 *2025-10-06 21:59:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උඩ-මහලන-වටණ-හම-නම-අපවත-වත/1-680811) · `si`
 
-ශ්‍රී ලංකා බෞද්ධ හා පාලි විශ්වවිද්‍යාලයේ තෙවැනි වසරේ අධ්‍යාපනය හදාරමින් සිටි හිමිනමක විශ්වවිද්‍යාලයේ නේවාසිකාගරයක දෙවන මහලින් බිමට ඇද වැටී බරපතළ තුවාල ලබා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටිය අපවත් වී ඇතැයි හෝමගම මූලස්ථාන පොලිසිය පවසයි.
+Humanitarian Police say that we are being treated at the ICU of the Colombo National Hospital with serious injuries in the University of Sri Lanka.
 
-මෙලෙස අවසනාවන්ත ලෙස අපවත් වී ඇත්තේ ගම්පහ වේයන්ගොඩ ප්‍රදේශයේ විහාරස්ථානයක පැවිදිව සිටි  දෙහිඅත්තකණ්ඩියේ සුමංගල නැමැති 24 හැවිරිදි හිමිනමකි.
+Unlikely, we have been unfortunately a 24-year-old monk named Dehiattakandi was inscribed in the Veyangoda, Gampaha.
 
-උන්වහන්සේ ඉකුත් 26 දින අලුයම 2.30ට පමණ භික්ෂු නේවාසිකාගාරයේ දෙවන මහලින් ඇද වැටීමෙන් පසු සිසුන් විසින් ම විශ්වවිද්‍යාලයට බාහිරින් ගෙන්වාගෙන ඇති ත්‍රීරෝද රථයකින් හෝමාගම රෝහලට ඇතුළත් කීරීමට උත්සාහය කොට පසුව එම ත්‍රීරෝද රථයයෙන්ම කොළඹ ජාතික රෝහලට රැගෙන ගොස් ඇතැයි ද පොලිසිය පවසයි.
+He was speaking to the Homagama Hospital with a three-wheeler imported to the University at around 2.30 pm.
 
-මේ සම්බන්ධයෙන් හෝමගම ශ්‍රී ලංකා බෞද්ධ හා පාලි විශ්වවිද්‍යාලයේ මහෝපාධ්‍ය හෝමාගම ධම්මානන්ද හිමියන්ගෙන් කළ විමසීමකදී මෙසේ පැවසූහ.
+In an inquiry by Hamaddhau Homagama, Homagama, Sri Lanka Buddhist and Pali University, said:
 
-...
+We conducted an internal investigation as a Buddhist and Pali University of Sri Lanka.. First, we were told that I had fallen from a building, even though he fell in a stairs.
+
+The report of our internal investigation has been taken to the relevant divisions. Homagama Police are conducting further investigations.
+
+◼️
 
 [Data](articles/dfcb30b7.json)
 
+[Extended Data](ext_articles/dfcb30b7.ext.json)
+
 ---
 
-### யாழில் போதைப்பொருள் வாங்குவதற்கு சகோதரி பணம் கொடுக்காததால் சகோதரன் உயிர்மாய்ப்பு!
+### Three killed in the sea bath in Nilwella
+
+*2025-10-06 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215415) · `si`
+
+Three people were killed in the Yatiyana area in Yanwella, Dikwella, Dikwella.
+
+The accident had occurred at around 3.30 pm today (06), two persons were hospitalized.
+
+Troops have attempted to rescue the sinks of the area.
+
+The body of the deceased has been taken to the Bathagama hospital while the two others are receiving treatment in the Matara General Hospital.
+
+The deceased has been identified as a 32 year old, inigadu area, and 51 year old and 38 have been hospitalized.
+
+◼️
+
+[Data](articles/57a79da7.json)
+
+[Extended Data](ext_articles/57a79da7.ext.json)
+
+---
+
+### Brother's survival because sister does not pay for drugs in Jaffna!
 
 *2025-10-06 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227064) · `ta`
 
-யாழில் போதைக்கு அடிமையான ஆணொருவர் இன்றையதினம் தவறா. முடிவெடுத்து உயிர் மாய்த்துள்ளார். சுழிபுரம் - மூளாய் பகுதியைச் சேர்ந்த தயாபரன் முரளிவாசன் (வயது 34) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+A man who is addicted to addiction in Jaffna is wrong today. Decides and survived. The deceased is Dayabaran Muralivasan (age 34) from Chiripuram - Moon.
 
-இவர் போதைக்கு அடிமையாகியிருந்த நிலையில் தனது சகோதரியிடம் போதைப்பொருளுக்கு பணத்தினை கேட்டுள்ளார். சகோதரி அதற்கு மறுப்பு தெரிவித்துள்ளார்.
+He has asked his sister for drugs as he is addicted to intoxication. The sister refused to do so.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். வட்டுக்கோட்டை பொலிஸார் சாட்சிகளை நெறிப்படுத்தினர்.
+Sudden Death Investigation Officer A. Jayapalasingham. The Vaddukoddai police regulated the witnesses.
 
 ◼️
 
 [Data](articles/369a603c.json)
 
+[Extended Data](ext_articles/369a603c.ext.json)
+
 ---
 
-### බෝලය ගන්න තටාකයට පැන්න සිසුවා ගිලි මරුට
+### Student dies to the pool to take the ball
 
 *2025-10-06 21:47:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බලය-ගනන-තටකයට-පනන-සසව-ගල-මරට/1-680810) · `si`
 
-පාසලේ පිහිනුම් තටාකයට වැටී තිබූ බෝලය ගන්න පිහිනුම් තටාකයට පැන්න පාසල් සිසුවකු දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇතැයි බතීගම රෝහල් ආරංචි මාර්ග පවසයි.
+The school student drowned in the swimming pool, police said.
 
-‍විද්‍යාලයේ ක්‍රීඩාංගනයේ ක්‍රිකට් ක්‍රීඩා කරමින් සිටියදී බෝලය අසල තිබූ පිහිනුම් තටාකයට වැටී තිබෙි
+While playing cricket at the college stadium, the ball had fallen into the pool near the ball
 
-එම බෝලය ගැනීමට පිහිනුම් තටාකයට පනින ලද සිසුවා දියේ ගිලීම හේතුවෙන් බතිගම රෝහලට ඇතුළත් කිරීමෙන් පසුව ජීවිතක්ෂයට පත්ව ඇතැයි රෝහල් ආරංචි මාර්ග පවසයි. මෙම අනතුර (5 ) දින පස්වරු 6:30 පමන සිදුව ඇති බව සදහන් වන අතර මෙම අනතුරින් මියගොස් ඇත්තේ දික්වැල්ල විජිත මහා විද්‍යාලයේ 12 වැනි වසරේ ඉගෙනුම ලබන වයස 17 පමන වන සේජාන් විස්මිත සචින්ත දේශප්‍රිය ඉල්ලන්නාථ නැමති දික්වැල්ල දොඩම්පහළ ප්‍රදේශයේ පදිංචි ශිෂ්‍යයෙකු බව සඳහන්.
+Hospital sources say that the victim was admitted to the Batagama hospital due to the drowning student to the swimming pool to take the ball, hospital sources said.. The accident had been reportedly stated that about 6:30 pm Dickwella Vijitha Maha Vidyalaya, Dickwella Vijitha Maha Vihara.
 
 ◼️
 
 [Data](articles/64437099.json)
+
+[Extended Data](ext_articles/64437099.ext.json)
 
 ---
 
@@ -101,35 +133,41 @@ Hospital sources say that the victim was admitted to the Batagama hospital due t
 
 ---
 
-### தலைமன்னார் கட்டுகாரன் குடியிருப்பு குடிநீர் திட்டம் ; வைபவ ரீதியாக ஆரம்பித்து வைப்பு
+### Talaimannar Katukaran Residential Drinking Water Project; Vertebra
 
 *2025-10-06 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/227063) · `ta`
 
-மன்னார் பிரதேச செயலக பிரிவுக்குட்பட்ட மன்னார்-தலைமன்னார் பிரதான வீதி, கட்டுகாரன் குடியிருப்பு கிராமத்தில் உள்ள பாடசாலை மாணவர்கள் மற்றும் பொதுமக்களின் குடிநீர் தேவையை பூர்த்தி செய்யும் வகையில் அமைக்கப்பட்ட கட்டுகாரன் குடியிருப்பு சுத்திகரிக்கப்பட்ட குடிநீர் திட்டம் திங்கட்கிழமை (06) காலை  மக்களின் பாவனைக்காக வைபவ ரீதியாக திறந்து  வைக்கப்பட்டது.
+The Mannar-Talaimannar main road, which belongs to the Mannar Divisional Secretariat Division, was opened on Monday morning (06) to meet the drinking water needs of school children and the public in the village of Katugaran.
 
-மன்னார் கட்டுகாரன் குடியிருப்பு பகுதியில் உள்ள பொதுமக்கள் நீண்ட காலமாக குடிநீர் பெறுவதில் பல்வேறு சவால்களை எதிர் கொண்டு வந்த நிலையில் அவர்களின் கோரிக்கைக்கு அமைவாக இராணுவத்தின் 543 ஆவது காலாட்படையின் ஒழுங்கமைப்பில் வைத்தியர் ஜினஞ்சலா சானிக்க விஜயகுண சேகர அவர்களின் நிதி உதவியுடன் குறித்த கிராம பாடசாலை மாணவர்கள் மற்றும் மக்கள் குடிநீர் பெறும் வகையில் குறித்த குடிநீர் திட்டம் அமைக்கப்பட்டு மக்களின் பாவனைக்கு கையளிக்கப்பட்டது.
+In order to face the challenges of the public in the Mannar Katugaran residential area, the drinking water scheme was set up for the public's use of the people and the people of the village with the help of Dr. Jinanjala Sanika Vijayakuna Sekhar, under the army's 543rd infantry.
 
-...
+Commander -in -Chief of the Army, Major General Chandra Abajakoon, the Chancellor of the 54 Infantry Division, Katukarankudiyiruppu School Principal, Teachers and Students, inaugurated the drinking water project.
+
+◼️
 
 [Data](articles/0288bc4a.json)
 
+[Extended Data](ext_articles/0288bc4a.ext.json)
+
 ---
 
-### නිල්වැල්ල මුහුදේ තිදෙනෙක් ගසාන යති
+### Three people in Nilwella
 
 *2025-10-06 21:39:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නලවලල-මහද-තදනක-ගසන-යත/1-680809) · `si`
 
-දික්වැල්ල නිල්වැල්ල මුහුදු තීරයේ දිය නාමින් සිටිය දි දියවැලකට හසුවීමෙන් එක් අයකු මිය ගොස් තවත් දෙදෙනකු රෝහල් ගත කොට ඇති බව රෝහල් ආරංචි මාර්ග පවසයි.
+Hospital sources said that two people were killed and two others were hospitalized by the Dikwella Sea.
 
-මාතර යටියන ප්‍රදේශයෙන් පැමිණි පුද්ගලයන් තිදෙනකු අද පස්වරුවේදී දික්වැල්ල නිල්වැල්ල බ්ලූබීචි දුපත අසල මුහුදේ දිය දිය නාමින් සිට තිබේ,
+Three persons from Yatiyana area in Matara
 
-එම අවස්ථාවේදී දිය වැලකට හසුවීමෙන් ඔවුන් තිදෙනා ගසාගෙන ගොස් තිබූ අතර එහිදි ප්‍රදේශවාසීන් විසින් ඔවුන් බේරා ගැනීමට කටයුතු කොට තිබූ නමුත් එහිදි එක් අයකු මිය ගොස් තිබු බව සදහන් බේරාගත් අනිත් පුද්ගලයන් දෙදෙනා ප්‍රතිකාර සඳහා මාතර මහ රෝහලට ඇතුළත් කොට තිබේ.
+The two other persons who had been rescued by the residents of the area had been rescued by the residents of the area.
 
-සිද්ධියෙන් මිය ගොස් ඇත්තේ හේවා තමදුරගේ නිපුණ තාරක ලක්මාල් නැමති වයස 32 වන අයකු බව පැවසේ
+The deceased has been identified as a 32-year-old person who was the skilled stars of Moneragala
 
 ◼️
 
 [Data](articles/614562ba.json)
+
+[Extended Data](ext_articles/614562ba.ext.json)
 
 ---
 
@@ -153,21 +191,23 @@ The deceased has been identified as a 32-year-old person who was the skilled sta
 
 ---
 
-### வெடுக்குநாறி மலை ஆதி சிவன் ஆலய முன்னாள் தலைவர் மற்றும் செயலாளரை ரிஐடி விசாரணைக்கு அழைப்பு
+### RIT Call for RIT Investigation
 
 *2025-10-06 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227061) · `ta`
 
-வெடுக்குநாறி மலை ஆதி சிவன் ஆலயத்தின் முன்னாள் தலைவர் மற்றும் செயலாளர் ஆகியோரை விசாரணைக்கு வருமாறு பயங்கரவாத தடுப்பு விசாரணைப் பிரிவு பொலிசார் (ரிஐடி) அழைத்துள்ளார்கள்.
+The Terrorist Investigation Division (RIT) has summoned the former President and Secretary of the Adi Shiva Temple to investigate the Vedukkunni Mountain Adi Shiva Temple.
 
-வெடுக்குநாறி மலை ஆதிலிங்கேஸ்வரர் ஆலயத்தின் முன்னாள் தலைவர் சசிகுமார் அவர்களும் செயலாளர் தமிழ்ச்செல்வன் அவர்களும் பயங்கரவாத தடுப்பு பிரிவின் விசாரணைக்காக எதிர்வரும் எதிர்வரும் 9 ஆம் திகதி காலை 10 மணிக்கு வவுனியாவுக்கு அழைக்கப்பட்டுள்ளார்கள்.
+Sasikumar, former president of the Attukkunni Mountain Athilingeswarar Temple and Secretary Thamilchelvan have been summoned to Vavuniya at 10 am on the 9th of this month.
 
-வாக்குமூலம் ஒன்றை பெறுவதற்காகவே குறித்த இருவரையும் வருகை தருமாறு அழைப்பாணை கடிதத்தில் தெரிவிக்கப்பட்டுள்ளது.
+In the summoner letter, the two men have been asked to visit the affidavit.
 
-கடந்த வருடம் சிவாரத்திரி தினத்தன்று குறித்த இருவரும் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டு பின்னர் நீதிமன்றத்தால் விடுவிக்கப்பட்டிருந்ததுடன், தற்போது ஆலயத்திற்கு புதிய நிர்வாகம் தெரிவு செய்யப்பட்டு பல மாதங்கள் ஆகியுள்ளமையும் குறிப்பிடத்தக்கது.
+It is noteworthy that the two were arrested and released by the court on the day of Sivaratri last year and now the new administration has been selected for the temple.
 
 ◼️
 
 [Data](articles/f61627be.json)
+
+[Extended Data](ext_articles/f61627be.ext.json)
 
 ---
 
@@ -373,6 +413,8 @@ It directly attacks the body’s immune system, weakening it, and making the bod
 
 [Data](articles/819e0a3e.json)
 
+[Extended Data](ext_articles/819e0a3e.ext.json)
+
 ---
 
 ### The former Minister of Foreign Minister's 40th bank accounts provokes
@@ -440,6 +482,8 @@ WHO Director General, Dr Tedros, accused the tobacco industry of “aggressively
 ...
 
 [Data](articles/b41e83dd.json)
+
+[Extended Data](ext_articles/b41e83dd.ext.json)
 
 ---
 
@@ -997,21 +1041,23 @@ But my daughters, who had been learning at the American University that day, wer
 
 ---
 
-### நான் ஜனாதிபதியாகியிருந்தால் மஹிந்த கைதாகியிருப்பார் - சரத் பொன்சேக்கா
+### Mahinda would have been arrested if I became president - Sarath Fonseka
 
 *2025-10-06 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227046) · `ta`
 
-கால்டன் இல்லத்தில் வெறும் 40,000 பெறுமதியான கதிரைகளை வைத்திருக்கும் மஹிந்த ராஜபக்ஷ விஜேராம இல்லத்திலும், ஜனாதிபதி மாளிகையிலும் பயன்படுத்திய தளபாடங்கள் மிகப் பெறுமதி மிக்கவை. அவை அனைத்தும் இறக்குமதி செய்யப்பட்டவையாகும். நான் ஜனாதிபதியாகியிருந்தால் முதலில் அதற்காக அவரை கைது செய்ய நடவடிக்கை எடுத்திருப்பேன் என்று பீல்ட் மார்ஷல் சரத் பொன்சேக்கா தெரிவித்தார்.
+The furniture used at the Mahinda Rajapaksa Wijerama residence and the President's House, which has just 40,000 rays at the Calton House. They are all imported. Field Marshal Sarath Fonseka said that if I became president, I would have taken steps to arrest him first.
 
-மாத்தறையில் நேற்று ஞாயிற்றுக்கிழமை (5) இரவு நடைபெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றியபோதே அவர் இதனைத் தெரிவித்தார்.
+He was speaking at an event held in Matara on Sunday night (5).
 
-நாட்டில் ஊழல்களை ராஜபக்ஷ குடும்பமே நிர்வகிக்கிறது. ஊழல், மோசடிகள் வரையறைகளைத் தகர்த்து சென்றுகொண்டிருக்கின்றன. ஆயிரம் சிறைகளில் அடைத்தாலும் இவர்கள் ஊழல்களை கைவிட மாட்டார்கள்.
+The Rajapaksa family manages corruption in the country. Corruption and scams are going to break the definitions. Even if they are incarcerated in a thousand prisons, they will not abandon corruption.
 
-ஜனாதிபதிகளுக்குரிய சிறப்புரிமைகளை நீக்குவதற்கான சட்டம் நிறைவேற்றப்பட்டாலும், மூன்று முன்னாள் ஜனாதிபதிகளுமே உத்தியோகபூர்வ இல்லங்களை இன்னும் அரசாங்கத்திடம் கையளிக்கவில்லை.
+Although the law has been passed to eliminate presidential privileges, all three former presidents have not yet handed over official homes to the government.
 
 ...
 
 [Data](articles/91d32ecd.json)
+
+[Extended Data](ext_articles/91d32ecd.ext.json)
 
 ---
 
@@ -1347,19 +1393,23 @@ IGP Priyantha Weerasuriya has been transferred with immediate effect.
 
 ---
 
-### விமல் வீரவன்சவுக்கு எதிராக சாட்சி கட்டளை  சட்டத்தின் கீழ் நடவடிக்கை எடுக்கப்படும் - அரசாங்கம்
+### Action against Wimal Weerawansa
 
 *2025-10-06 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227035) · `ta`
 
-கைது செய்யப்பட்டுள்ள 'பெலியத்த சனா' எனப்படும் சனத் வீரசிங்கவுக்கும் அரசாங்கத்துக்கும் எந்தவொரு தொடர்பும் இல்லை. விமல் வீரவன்ச கூறுவது உண்மையென்றால் அவர் அதனை ஆதாரங்களுடன் நிரூபிக்க வேண்டும். அவ்வாறில்லை எனில் சாட்சி கட்டளை சட்டத்துக்கமைய அவருக்கெதிராக நடவடிக்கை எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் பிரதி அமைச்சர் சுனில் வட்டகல தெரிவித்தார்.
+Sanath Weerasinghe and the government have nothing to do with the arrested 'Beliatta Sana'. If Wimal Weerawansa says, he must prove it with evidence. Deputy Minister of Public Safety and Parliamentary Affairs Sunil Vatagala said that if he does not, the witness will take action against him.
 
-திங்கட்கிழமை (06) ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார். இது தொடர்பில் அவர் மேலும் குறிப்பிடுகையில்,
+He made this statement while commenting to the media on Monday (06). As he further stated in this regard,
 
-கைது செய்யப்பட்டுள்ள 'பெலியத்த சனா' எனப்படும் சனத் வீரசிங்கவுக்கும் அரசாங்கத்துக்கும் எந்தவொரு தொடர்பும் இல்லை என்பதை தெளிவாகக் கூறிக் கொள்கின்றோம். அவருக்கெதிரான சட்ட நடவடிக்கைகள் முறையாக முன்னெடுக்கப்பட்டு வருகின்றன. இதில் அவருக்கு அரசாங்கம் எந்த வகையில் ஒத்துழைப்பு வழங்குகிறது? நீர்கொழும்பில் இடம்பெற்றதைப் போன்று, அரசாங்கத்திலுள்ள எவரும் சென்று பெலியத்த சனாவை கட்டியணைத்துக் கொள்ளவில்லை.
+We make clear that Sanath Weerasinghe and the government have nothing to do with the arrested 'Beliatta Sana'. The legal proceedings against him are being properly carried out. How does the government cooperate with him? As in Negombo, no one in the government went and hugged Beliatta Sana.
+
+The government can accuse him of protecting him. But as a government we do not protect any criminal. The law will be severely implemented against them. Opposition parties are spreading such fake news, which is not their own.
 
 ...
 
 [Data](articles/495393fa.json)
+
+[Extended Data](ext_articles/495393fa.ext.json)
 
 ---
 
@@ -2024,23 +2074,5 @@ The songs of the film have been released and fascinated by the fans ... The film
 [Data](articles/db7911bb.json)
 
 [Extended Data](ext_articles/db7911bb.ext.json)
-
----
-
-### 34 drivers arrested for driving vehicles
-
-*2025-10-06 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/227026) · `ta`
-
-34 drivers have been arrested in connection with the driver of liquor during a special roundup, which was carried out on Sunday (05), the police media unit said.
-
-Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
-
-Meanwhile, 760 persons have been arrested during the special roundabout, 23 people with evidence of various crimes, 290 persons issued, 172 people who have been issued an opening order, 21 drivers and 3736 in violation of the transport regulations.
-
-◼️
-
-[Data](articles/24b9f4fa.json)
-
-[Extended Data](ext_articles/24b9f4fa.ext.json)
 
 ---

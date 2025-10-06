@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 15:56:20**
+As of **2025-10-06 16:09:51**
 
 ## Newspaper Stats
 
-*Scraped **81,556** Articles*
+*Scraped **81,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,148 @@ newsfirstlk | 624
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 868
+lankadeepalk | 871
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,806
 adaderanalk | 10,472
-tamilmirrorlk | 12,103
+tamilmirrorlk | 12,111
 virakesarilk | 13,412
-adaderanasinhalalk | 14,011
+adaderanasinhalalk | 14,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,556 (100.0%) of 81,556 articles have been extended.
+81,556 (100.0%) of 81,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### முட்டை விலை: அதிரடி அறிவிப்பு
+
+*2025-10-06 15:50:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-அதிரடி-அறிவிப்பு/175-365829) · `ta`
+
+முட்டை விலை குறைந்துள்ளதாக அகில இலங்கை முட்டை உற்பத்தியாளர்கள் சங்கம் தெரிவித்துள்ளது. அதன்படி, ஒரு வெள்ளை முட்டை ரூ. 28க்கும், சிவப்பு முட்டை ரூ. 30க்கும் விற்கப்படுகிறது.
+
+◼️
+
+[Data](articles/7d118bb5.json)
+
+---
+
+### තැපෑල තවත් රටට බරක් විය යුතු නෑ
+
+*2025-10-06 15:48:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තපල-තවත-රටට-බරක-වය-යත-න/101-680799) · `si`
+
+තැපෑල තව දුරටත් භාණ්ඩාගාරයට බරක් විය යුතු නැති බව  සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+
+ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයකයන් ලෙස තෝරා ගත්  731 දෙනෙකු සඳහා ස්ථීර පත්වීම් ලිපි ප්‍රදානයට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව කීය.
+
+2021 වර්ෂයෙන් පසු ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක බඳවාගැනීම් සිදුකර නොමැති අතර ඒ හේතුවෙන් පසුගිය වර්ෂය අවසානය වන විට තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයක පුරප්පාඩු 1982 ක් පැවතිණි.
+
+එවන් පුරප්පාඩු සංඛ්‍යාවක් සමඟ දෙපාර්තුමේන්තුවේ කටයුතු පවත්වා ගෙන යාම දැඩි අර්බුධකාරී තත්වයක් මතු වු අතර එයට විසඳුමක් ලෙස අදාල පුරප්පාඩු සංඛ්‍යාවෙන් 1000 ක් බඳවා ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ඉල්ලීම පරිදි 2025 අගෝස්තු 19 වන දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇත.
+
+ඒ අනුව මේ දක්වා තැපැල් දෙපාර්තුමේන්තුවේ ආදේශක සේවකයින් ලෙස ලියාපදිංචි වී සිටි නිසි සුදුසුකම් සම්පුර්ණ කළ පිරිස අතරින් ඉහත 731 දෙනෙකු මෙලෙස බඳවා ගැනීම සඳහා තෝරාගනු ලැබීය.
+
+...
+
+[Data](articles/ee103618.json)
+
+---
+
+### விக்கிபீடியாவுக்கு போட்டியாக வருகிறது குரோக்பீடியா
+
+*2025-10-06 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/விக்கிபீடியாவுக்கு-போட்டியாக-வருகிறது-குரோக்பீடியா/57-365828) · `ta`
+
+விக்​கிபீடி​யா​வுக்கு போட்​டி​யாக குரோக்​பீடியா என்ற தகவல் களஞ்​சி​யத்தை அமெரிக்க தொழில​திபர் எலான் மஸ்க் விரை​வில் அறி​முகம் செய்​கிறார்.
+
+கடந்த 2001-ம் ஆண்​டில் தொடங்​கப்​பட்ட விக்​கிபீடியா உலகின் தகவல் களஞ்​சி​ய​மாக செயல்​படு​கிறது. விக்​கிமீடியா அறக்​கட்​டளை என்ற தொண்டு நிறு​வனம் விக்​கிபீடி​யாவை நிர்​வகித்து வரு​கிறது. இந்த தளம் சுமார் 300-க்​கும் மேற்​பட்ட மொழிகளில் தகவல்​களை வழங்கி வரு​கிறது. சுமார் 6.5 கோடிக்​கும் மேற்​பட்ட கட்​டுரைகள் இடம்​பெற்​றுள்​ளன.
+
+தற்​போது விக்​கிபீடி​யா​வுக்கு போட்​டி​யாக குரோக்​பீடியா என்ற புதிய தகவல் களஞ்​சி​யத்தை அமெரிக்க தொழில​திபர் எலான் மஸ்க் விரை​வில் அறி​முகம் செய்ய உள்​ளார். இதுகுறித்து சமூக வலை​தளத்​தில் அவர் ஞாயிற்றுக்கிழமை (05)  வெளி​யிட்ட பதி​வில், “அடுத்த 2 வாரங்​களில் குரோக்​பீடியா தொடங்​கப்​படும்’’ என்று அறி​வித்​துள்​ளார்.
+
+...
+
+[Data](articles/7bd9ea10.json)
+
+---
+
+### ගම්පොළ - දොළුව මාර්ගයේ මාරක අනතුරක්
+
+*2025-10-06 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215405) · `si`
+
+ගම්පොළ, දොළුව මාර්ගයේ සිදුවු අනතුරකින් මාර්ගයේ ගමන්ගත් පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තවත් අයෙක් තුවාල ලබා තිබේ.
+
+මාර්ගයේ ගමන්ගත් මෝටර් රථයක් ලොරි රථයක ගැටී අනතුර සිදුව ඇති අතර, එම අවස්ථාවේ දී මාර්ගයේ ගමන්ගත් සිල් සමාදන් වීමට ගිය කාන්තාවන් තිදෙනෙකු අනතුරට ලක්ව ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/623687d9.json)
+
+---
+
+### பிரான்ஸ் பிரதமர் திடீர் இராஜினாமா
+
+*2025-10-06 15:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரான்ஸ்-பிரதமர்-திடீர்-இராஜினாமா/50-365827) · `ta`
+
+பிரான்ஸ் பிரதமர் ஜெபஸ்டியன் லெகோர்னு (Sébastien Lecornu) 2025 செப்டம்பர் 9 ஆம் திகதி பிரான்சின் 47வது பிரதமராக பதவியேற்கப்பட்டு வெறும் 27 நாட்களே ஆகியுள்ள நிலையில் இவர் தனது பதவியை திடீரென இராஜினாமா செய்துள்ளார்.
+
+அவர் பதவியை விட்டு இராஜினாமா செய்வதாக அறிவித்த சில மணி நேரங்களில் இந்த விலகல் அறிவிக்கப்பட்டாக அந்நாட்டு ஊடகங்கள் தெரிவிக்கின்றன. அவரின் திடீர் இராஜினாமா பிரான்ஸ் அரசியலில் மேலும் குழப்பத்தை ஏற்படுத்தியிருக்கும் நிலையில், அந்நாட்டு ஜனாதிபதி இம்மானுவேல் மெக்ரோன் அவரது பதவி விலகலை ஏற்றுக் கொண்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+அதேவேளை, பிரான்சின் அடுத்த பிரதமர் யாரை தேர்ந்தெடுக்கலாம் என்பது குறித்து, ஜனாதிபதி மேக்ரோன் ஆலோசித்து வருவதாக கூறப்படுகிறது. புதிய பிரதமர் நியமனம் தொடர்பான விவரங்கள் இன்னும் வெளியாகவில்லை. ஓராண்டிற்குள் 4வது பிரதமாக தேர்ந்தெடுக்கப்பட்ட லெகுர்னு ராஜினாமா செய்துள்ளதால் பிரான்சில் பரபரப்பு ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f4654237.json)
+
+---
+
+### தனியார் கல்வி நிலையத்திற்குள் நுழைந்த  தவிசாளர்
+
+*2025-10-06 15:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-கல்வி-நிலையத்திற்குள்-நுழைந்த-தவிசாளர்/175-365824) · `ta`
+
+மாணவர்களின் நலன் கருதியும், அதிகரித்து வரும் தொடர் கற்பித்தல் நடவடிக்கைகளினால் மாணவர்களின்   உள நலத்தை பாதுகாக்கும் நோக்கிலும் தனியார் கல்வி நிறுவனங்கள் ஞாயிற்றுக்கிழமைகளில் பூட்டப்பட வேண்டும் என மண்முனை தென் எருவில் பற்று பிரதேச சபையினால்  கடந்த இரு வாரங்களுக்கு முன்னர்  அறிவிப்பு விடுவிக்கபட்டிருந்தன.
+
+பின்னர் கடந்த வாரம் மண்முனை தென் எருவில் பற்று பிரதேச சபை எல்லைக்குட்பட்ட சகல தனியார் கல்வி நிலையங்களும் ஞாயிற்றுக்கிழமைகளில் பூட்டப்பட்டன.
+
+இதனிடையே மண்முனை தென் எருவில் பற்று தவிசாளருக்கு கிடைத்த தகவலுக்கு அமைய ஞாயிற்றுக்கிழமை(05.) அன்று மகிழூர் கிராமத்தில் கற்பித்தல் நடவடிக்கையில் ஈடுபட்டுக் கொண்டிருந்த தனியார் கல்வி நிலையம் ஒன்றிற்கு பிரதேச சபை தவிசாளர் நேரடியாகச் சென்று பார்வையிட்டிருந்தார்.
+
+...
+
+[Data](articles/8ceb7cd5.json)
+
+---
+
+### 2025 වෛද්‍ය විද්‍යාව හෝ කායික විද්‍යාව පිළිබඳ නොබෙල් ත්‍යාගයට විද්‍යාඥයින් තිදෙනෙක්
+
+*2025-10-06 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215404) · `si`
+
+2025 වසරේ වෛද්‍ය විද්‍යාව හෝ කායික විද්‍යාව සඳහා වන නොබෙල් ත්‍යාගය මේරී ඊ බ්‍රන්කෝව්, ෆ්‍රෙඩ් රම්ස්ඩෙල් සහ ෂිමොන් සකගුජී ප්‍රදානය කරන බවට ස්වීඩන නොබෙල් ත්‍යාග කමිටුව අද (06) නිවේදනය කළේය.
+
+ඒ මිනිස් ප්‍රතිශක්තිකරණ පද්ධතිය මගින් මිනිසාගේ ශරීරයට හානියක්වීම වැළැක්වීම සම්බන්ධයෙන් ඔවුන් සිදුකළ පර්යේෂණ සම්බන්ධයෙනි.
+
+මේරී ඊ බ්‍රන්කෝව්, ෆ්‍රෙඩ් රම්ස්ඩෙල් යන විද්‍යාඥයින් දෙපළ අමෙරිකානු ජාතිකයින් වන අතර, විද්‍යාඥ සකගුජි ජපාන ජාතිකයෙකි.
+
+◼️
+
+[Data](articles/d5adf33d.json)
+
+---
+
+### விமல் ​வீரவன்ச வரவில்லை
+
+*2025-10-06 15:13:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-வீரவன்ச-வரவில்லை/175-365821) · `ta`
+
+முன்னாள் அமைச்சரும், தேசிய சுதந்திர முன்னணியின் தலைவருமான விமல் வீரவன்ச, தங்காலை பிராந்திய குற்ற விசாரணைப் பிரிவுக்கு திங்கட்கிழமை (06) காலை 10 மணிக்கு அழைக்கப்பட்டிருந்தார்.  ஆனால், அவர் இன்றையதினம் ஆஜராகவில்லை என்றும் மற்றுமொரு திகதியை கோரியுள்ளதாகவும் அறியமுடிகின்றது.
+
+◼️
+
+[Data](articles/6af632a5.json)
+
+---
 
 ### Interruptions in search of remedial shortage of drugs
 
@@ -55,6 +177,22 @@ He said that some of the laws existing in the country and finding some of the ti
 
 ---
 
+### சம்பத் மனம்பேரி, ஜோன்ஸ்டனின் செயலாளரா?
+
+*2025-10-06 15:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-ஜோன்ஸ்டனின்-செயலாளரா/175-365820) · `ta`
+
+முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ, சம்பத் மனம்பேரி தனது ஒருங்கிணைப்புச் செயலாளர்களில் ஒருவராகப் பணியாற்றுவதாகக் கூறப்படுவதை மறுத்துள்ளார், மேலும் தவறான தகவல்களைப் பரப்புபவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கத் தயாராக இருப்பதாகக் கூறியுள்ளார்.
+
+குருநாகலில் நடைபெற்ற இலங்கை பொதுஜன பெரமுன (SLPP) நிகழ்வின் போது பெர்னாண்டோ இந்தக் கருத்துக்களைத் தெரிவித்தார்.
+
+"இப்போது மனம்பேரி என்ற நபர் எனது ஒருங்கிணைப்பு செயலாளர்களில் ஒருவர் என்று சொல்கிறார்கள். இந்த மாவட்டத்திலிருந்து மட்டுமே நான் ஒருங்கிணைப்பு செயலாளர்களை நியமித்தேன் என்பதை உங்களுக்கு நினைவூட்டுகிறேன்," என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/525f663f.json)
+
+---
+
 ### The benefit of the coin to New Zealand
 
 *2025-10-06 14:58:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-නවසීලන්තයට/9-418938) · `si`
@@ -68,6 +206,40 @@ New Zealand decided to bat first, winning the toss of the match.
 [Data](articles/b761fb09.json)
 
 [Extended Data](ext_articles/b761fb09.ext.json)
+
+---
+
+### திடீரென மூடப்பட்ட பொலிஸ் நிலையம் திறப்பு
+
+*2025-10-06 14:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-மூடப்பட்ட-பொலிஸ்-நிலையம்-திறப்பு/175-365819) · `ta`
+
+பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபம் (BMICH) வளாகத்திற்குள் அமைந்துள்ள பொலிஸ் நிலையம், உத்தியோகபூர்வ உத்தரவின் பேரில் திடீரென மூடப்பட்ட 24 மணி நேரத்திற்குப் பிறகு மீண்டும் திறக்கப்பட்டுள்ளது.
+
+ஒக்டோபர் 3 ஆம் திகதி பெறப்பட்ட உத்தரவைத் தொடர்ந்து, நிலையம் மூடப்பட்டு, ஆயுதங்கள், வெடிமருந்துகள், புத்தகங்கள் மற்றும் பதிவுகள் உட்பட அதன் அனைத்து சொத்துக்களும் அகற்றப்பட்டன என்று பொலிஸ் தலைமையகம் தெரிவித்துள்ளது. இருப்பினும், அடுத்தடுத்த உத்தரவு ஒரு நாள் கழித்து அதை மீண்டும் நிறுவ வழிவகுத்தது.
+
+முந்தைய பணியமர்த்தலுடன் ஒப்பிடும்போது, ​​குறைந்த எண்ணிக்கையிலான அதிகாரிகளுடன் நிலையம் இப்போது செயல்பாடுகளை மீண்டும் தொடங்கியுள்ளது.
+
+BMICH நிலையத்திலிருந்து அனைத்து உபகரணங்களையும் பொரளை பொலிஸ் நிலையத்திற்கு மாற்றுமாறு அறிவுறுத்தும் சிறப்பு பொலிஸ் செய்தி வெளியிடப்பட்டதாக மூத்த பொலிஸ் அதிகாரி ஒருவர் உறுதிப்படுத்தினார். திடீர் மூடலுக்கான காரணங்களை அந்தச் செய்தியில் குறிப்பிடவில்லை.
+
+...
+
+[Data](articles/1c7d23da.json)
+
+---
+
+### 1500 கிலோ கிராம்  வாகனத்தை  காதில் கட்டி இழுத்து மகிழ்விப்பு
+
+*2025-10-06 14:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1500-கிலோ-கிராம்-வாகனத்தை-காதில்-கட்டி-இழுத்து-மகிழ்விப்பு/175-365818) · `ta`
+
+சர்வதேச முதியோர் தினத்தையொட்டி உலக சாதனையாளர் செ.திருச்செல்வத்தால் கைதடி முதியோர் இல்லத்தில் சாகச நிகழ்வொன்று நடத்தப்பட்டுள்ளது.
+
+முதியோர் இல்ல வளாகத்தில் 1500 கிலோகிராம் எடை கொண்ட வாகனத்தை 50 மீற்றர் தூரம் தனது காதில் கட்டி இழுத்து முதியோர் இல்ல முதியவர்களை திங்கட்கிழமை (06) காலை மகிழ்வித்திருந்தார்.
+
+62வயதான மட்டுவிலைச் சேர்ந்த செ.திருச்செல்வம் 5உலக சாதனைகளுக்கு சொந்தக்காரன் என்பது குறிப்பிடத்தக்கது.அவர் தனது தாடி,தலை முடி,காது,உடல் ஆகியவற்றில் கனரக வாகனங்களைக் கட்டி இழுத்து சோழன் மற்றும் கலாம் உலக சாதனைப் புத்தகங்களில் இடம்பிடித்துள்ளார்.
+
+◼️
+
+[Data](articles/5728b88c.json)
 
 ---
 
@@ -108,6 +280,20 @@ The reply of her "nothing" replied to the Democratic Particians. The Republicans
 [Data](articles/c0c3a87c.json)
 
 [Extended Data](ext_articles/c0c3a87c.ext.json)
+
+---
+
+### ඉතිහාසය අධ්‍යයනය අවශ්‍යද?
+
+*2025-10-06 14:39:09* · [`lankadeepalk`](https://www.lankadeepa.lk/monday_meeting/ඉතහසය-අධයයනය-අවශයද/118-680796) · `si`
+
+ඉතිහාසය යනු අතීත උරුමය සහ එහි අනන්‍යතාව වර්තමානයට දායාද කර දෙන දැවැන්ත විෂය ක්ෂේත්‍රයකි. ඉතිහාසය අධ්‍යයනය කළ යුත්තේ ඇයි යන්න විමසුමට පෙර ඉතිහාසය යනු කුමක් ද යන්න පැහැදිලි කරගැනීම අත්‍යවශ්‍ය වේ. විවිධ ඉතිහාසඥයන් හා විද්වතුන් ඉතිහාසය යනු කුමක් ද යන්න පිළිබඳ විවධ මත සහ නිර්වචන ඉදිරිපත් කර තිබෙනු පෙනේ.
+
+ඉතිහාසය යනු අතීත සිද්ධි පිළිබඳ විවරණයක් හෙවත් යටගියාව පිළිබඳව කරනු ලබන විශ්ලේෂණාත්මක අධ්‍යයනයක් ලෙස සරලව තේරුම්ගත හැකිය. එනම්, ඉතිහාසඥයකුගේ ප්‍රධාන කාර්යභාරය විය යුත්තේ අතීත සංසිද්ධි දෙස විචක්ෂණශීලිව බලා අප අද මුහුණ දෙන ගැටලු හා අභියෝගවලට විසඳුම් යෝජනා කිරීමයි. ඉතිහාසඥයා අතීතයට ඇලු‍ම් කිරීම හෝ අතීතයෙන් මිදීම යන අන්තවල අතරමං නොවිය යුතු අතරම වර්තමානය තේරුම් ගැනීමට යතුර වශයෙන් ඉතිහාස දැනුම විචක්ෂණශීලිව භාවිත කළ යුතුය.
+
+...
+
+[Data](articles/f015d0c5.json)
 
 ---
 
@@ -1782,235 +1968,5 @@ Between the bodies he brought, 45 smoking cartoons containing 9,000 cigarettes, 
 [Data](articles/100066ec.json)
 
 [Extended Data](ext_articles/100066ec.ext.json)
-
----
-
-### Two youth dies after train
-
-*2025-10-06 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215392) · `si`
-
-The suspect had died after collision with train from Kandy to Polgahawela.
-
-The deceased has been identified as a 27 year old resident of Nakattota in Akuressa.
-
-Meanwhile, a person has been killed while collision with a train in the Pudukuduirippu area in Mannar.
-
-The man was killed following a train traveling from Thalaiwoma to Colombo Fort.
-
-◼️
-
-[Data](articles/dc060856.json)
-
-[Extended Data](ext_articles/dc060856.ext.json)
-
----
-
-### Two major associates of “Kalubowila Avishka” arrested in Piliyandala
-
-*2025-10-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113246/two-major-associates-of-kalubowila-avishka-arrested-in-piliyandala) · `en`
-
-Two individuals have been arrested in the Bokundara, Piliyandala area with over two kilograms of the narcotic substance ‘Heroin’ by the Moratuwa Police Special Task Force (STF).
-
-The duo has been reportedly arrested during a raid conducted by the STF where they also seized 02 kilograms 106 grams of ‘Heroin,’ 478 grams of methamphetamine ‘Ice’ and a motorcycle reportedly used to transport narcotics from their possession, police said.
-
-According to police, those arrested are “Kalubowila Chuti”, a key henchman of “Kalubowila Avishka”, a notorious underworld criminal and drug trafficker hiding in a foreign country, and his elder brother.
-
-The suspects, aged 24 and 25, have been identified as residents of the Piliyandala area and have been handed over to the Police Narcotics Bureau (PNB) for further investigations.
-
-◼️
-
-[Data](articles/0a950ca2.json)
-
-[Extended Data](ext_articles/0a950ca2.ext.json)
-
----
-
-### 135 shops charged with more prices
-
-*2025-10-06 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215391) · `si`
-
-Consumer Affairs Authority says that legal action will be taken against over 100 rice sold for more than 100 rice sold.
-
-Accordingly, the authority said that the prosecutions were filed against the traders of 135 shops during the past month.
-
-The Consumer Affairs Authority added that the raids are being sold and hidden in rice and will continue to implement raids against the vendors.
-
-The authority said that if a single individual business selling rice, he was able to be guilty to Rs.
-
-If a private company is convicted, the Authority (SP) has been able to confuse both Rs.
-
-The Court of Affairs has intention to be sentenced to twice the fines as a second situation, and the court is capable of punishment to a year.
-
-In the present, the deficit is still available in the market.
-
-They point out that authorities should take immediate action to pay attention to the problem.
-
-◼️
-
-[Data](articles/e94c21f6.json)
-
-[Extended Data](ext_articles/e94c21f6.ext.json)
-
----
-
-### Hundreds of trekkers escape from blizzard-struck Everest in Tibet
-
-*2025-10-06 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113245/hundreds-of-trekkers-escape-from-blizzard-struck-everest-in-tibet) · `en`
-
-Hundreds of trekkers stranded by a blizzard near the eastern face of Mount Everest in Tibet have been guided to safety by rescuers, Chinese state media reported on Sunday, as unusually heavy snow and rainfall pummelled the Himalayas.
-
-As of Sunday, 350 trekkers had reached the small township of Qudang, while contact with the remaining 200-plus trekkers had been made, CCTV reported.
-
-Visitors to the remote valley of Karma, which leads to the eastern Kangshung face of Everest, were in the hundreds this week, taking advantage of an eight-day National Day holiday in China.
-
-“It was so wet and cold in the mountains, and hypothermia was a real risk,” said Chen Geshuang, who was part of an 18-strong trekking team that made it to Qudang.
-
-“The weather this year is not normal. The guide said he had never encountered such weather in October. And it happened all too suddenly.”
-
-...
-
-[Data](articles/9995e6f3.json)
-
-[Extended Data](ext_articles/9995e6f3.ext.json)
-
----
-
-### The Dudley says the cause of Keera Samba shortage
-
-*2025-10-06 08:56:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කර-සමබ-හඟයට-හතව-ඩඩල-කයය/101-680778) · `si`
-
-Rice Business Dudle Sirisena said that the reason for Keera Sama has causes the deficit is a problem.
-
-He said that the cheaper has been grown too much, he said.
-
-The government stated that Sirisena pointed out that the issue had caused a great crisis in a mid-control price, he said.
-
-◼️
-
-[Data](articles/e8f88a66.json)
-
-[Extended Data](ext_articles/e8f88a66.ext.json)
-
----
-
-### The Dudley says the cause of Keera Samba shortage
-
-*2025-10-06 08:56:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කර-සමබ-හඟයට-හතව-ඩඩල-කයය/1-680778) · `si`
-
-Rice Business Dudle Sirisena said that the reason for Keera Sama has causes the deficit is a problem.
-
-නාඩු වී වැඩියෙන්  වගා කර  ඇති නමුත් කීරි සම්බා  වගා කර ඇත්තේ ඉතා අඩුවෙන් බවද ඔහු ප්‍රකාශ කළේය.
-
-The government stated that Sirisena pointed out that the issue had caused a great crisis in a mid-control price, he said.
-
-◼️
-
-[Data](articles/8a7cb99f.json)
-
-[Extended Data](ext_articles/8a7cb99f.ext.json)
-
----
-
-### Kalubowila chuti and his brother arrested
-
-*2025-10-06 08:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215390) · `si`
-
-Two persons with over two kilograms of heroin have been arrested in Piliyandala area in Piliyandala.
-
-The two suspects have been arrested during a raid conducted by the Moratuwa Police Special Task Force.
-
-The Special Task Force has taken 2 kilograms of heroin and 106 grams of heroin.
-
-The arrested persons have been arrested in a foreign criminal and a drug dealer, a drug dealer, "Kalubowila", a chief disciple, "Kalubowila," and his older brother.
-
-The 24 and 25-year-old residents of Piliyala have been handed over to the Police Narcotics Bureau for further investigations.
-
-◼️
-
-[Data](articles/20372b4d.json)
-
-[Extended Data](ext_articles/20372b4d.ext.json)
-
----
-
-### Someone caught with Hashish on a corte
-
-*2025-10-06 08:31:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටයක-හෂෂ-සමඟ-අයක-අලලය/1-680777) · `si`
-
-Hichana Police say that a person has been arrested with over Rs.
-
-18000 rupees suspected to earn 1 kg of Hishr had been in possession of the person.
-
-Police investigations have revealed that the suspect had been arrested for a tip off received by a person to the Harana Agent Bend area.
-
-◼️
-
-[Data](articles/8e55a9c9.json)
-
-[Extended Data](ext_articles/8e55a9c9.ext.json)
-
----
-
-### Someone caught with Hashish on a corte
-
-*2025-10-06 08:31:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කටයක-හෂෂ-සමඟ-අයක-අලලය/101-680777) · `si`
-
-Hichana Police say that a person has been arrested with over Rs.
-
-18000 rupees suspected to earn 1 kg of Hishr had been in possession of the person.
-
-Police investigations have revealed that the suspect had been arrested for a tip off received by a person to the Harana Agent Bend area.
-
-◼️
-
-[Data](articles/2c821dc3.json)
-
-[Extended Data](ext_articles/2c821dc3.ext.json)
-
----
-
-### A shot in Sydney
-
-*2025-10-06 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215389) · `si`
-
-Foreign media reports that 20 shots have been injured in a street shooting in Sydney, Australia.
-
-The 60-year-old man has been arrested in connection with the shooting.
-
-The victim has been launched by the person nearly 100 shots and the police have also targeted the police vehicles.
-
-◼️
-
-[Data](articles/7644d983.json)
-
-[Extended Data](ext_articles/7644d983.ext.json)
-
----
-
-### Lab Report On Suspected ‘Ice’ Stock Found In Kandana To Be Released This Week – NDDCB
-
-*2025-10-06 08:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/lab-report-on-suspected-%e2%80%98ice%e2%80%99-stock-found-in-kandana-to-be-released-this-week-nddcb) · `en`
-
-COLOMBO (News 1st): The National Dangerous Drugs Control Board (NDDCB) says that the laboratory report on the chemical substances discovered in Kandana, suspected to be Ice or Methamphetamine, will be released within this week.The Board added that laboratory testing of the seized chemical substances is currently underway.NDDCB further confirmed that the chemical substances previously discovered in Middeniya and Netolpitiya in Tangalle were identified as Methamphetamine, commonly known as Ice.NDDCB added that the substance found in the possession of a Moldovan national in Weligama was confirmed to be Mephedrone, a highly dangerous synthetic drug.Based on information revealed by members of an organized crime gang arrested in Indonesia, large stocks of chemical substances suspected to be Ice were recently found in Middeniya, Netolpitiya in Tangalle, and in Kandana. Samples from these seizures were sent to the National Dangerous Drugs Control Board for laboratory analysis.
-
-◼️
-
-[Data](articles/65387049.json)
-
-[Extended Data](ext_articles/65387049.ext.json)
-
----
-
-### Former Minister Wimal Weerawansa Summoned To Tangalle Crime Investigation Unit
-
-*2025-10-06 08:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/former-minister-wimal-weerawansa-summoned-to-tangalle-crime-investigation-unit) · `en`
-
-COLOMBO (News 1st): Former Minister Wimal Weerawansa has been summoned today (6) to the Tangalle Divisional Crime Investigation Unit.Sri Lanka Police said that Weerawansa has been summoned at around 10:00 a.m. today, to record a statement regarding a comment he had made concerning an individual named Beliatte Sana.The individual known as Beliatte Sana was recently arrested along with a vessel linked to a drug trafficking incident in Tangalle and is currently being questioned under a detention order.
-
-◼️
-
-[Data](articles/64cd7d81.json)
-
-[Extended Data](ext_articles/64cd7d81.ext.json)
 
 ---

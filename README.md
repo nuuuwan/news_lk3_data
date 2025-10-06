@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 16:37:06**
+As of **2025-10-06 16:54:32**
 
 ## Newspaper Stats
 
-*Scraped **81,586** Articles*
+*Scraped **81,587** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 624
+newsfirstlk | 625
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,014
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,584 (100.0%) of 81,586 articles have been extended.
+81,586 (100.0%) of 81,587 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,20 @@ The grounds in the village of Kurukkammadam should be expanded. Its report shoul
 
 ---
 
+### UNHRC: Sri Lanka Rejects Resolution Amid Divided International Response
+
+*2025-10-06 15:52:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/unhrc-sri-lanka-rejects-resolution-amid-divided-international-response) · `en`
+
+COLOMBO (News 1st); During the 41st meeting of the 60th session of the United Nations Human Rights Council (UNHRC), Sri Lanka formally rejected the resolution A/HRC/60/L.1/Rev.1 on promoting reconciliation, accountability, and human rights in the country. Despite Sri Lanka’s opposition, the resolution was adopted without a vote, supported by a coalition of 30 nations.
+
+The resolution, initially tabled on September 10 by the Sri Lanka Core Group—consisting of Canada, Malawi, Montenegro, North Macedonia, and the United Kingdom—was presented in revised form on October 1 by a broader coalition including Albania, Austria, Costa Rica, several European countries, New Zealand, and more. It calls on Sri Lanka to devolve political authority as mandated by its constitution, hold provincial council elections especially in the northern and eastern provinces, and ensure these bodies function effectively.
+
+...
+
+[Data](articles/9e083221.json)
+
+---
+
 ### Egg Price: Action Notification
 
 *2025-10-06 15:50:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-அதிரடி-அறிவிப்பு/175-365829) · `ta`
@@ -109,23 +123,27 @@ All Ceylon Egg Manufacturers Association. Accordingly, a white egg is Rs.. For 2
 
 ---
 
-### තැපෑල තවත් රටට බරක් විය යුතු නෑ
+### The mail should not be a burden to another
 
 *2025-10-06 15:48:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපල-තවත-රටට-බරක-වය-යත-න/1-680799) · `si`
 
-තැපෑල තව දුරටත් භාණ්ඩාගාරයට බරක් විය යුතු නැති බව  සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+Health and Mass Media Media Minister Dr. Nalinda Jayatissa said that the mail should no longer be a burden to the treasury.
 
-ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයකයන් ලෙස තෝරා ගත්  731 දෙනෙකු සඳහා ස්ථීර පත්වීම් ලිපි ප්‍රදානයට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව කීය.
+The Minister was speaking at awarding permanent appointment letters for 731 permanent appointment letters as selected as Post Assistants of the Sri Lanka Postal Directors.
 
-2021 වර්ෂයෙන් පසු ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක බඳවාගැනීම් සිදුකර නොමැති අතර ඒ හේතුවෙන් පසුගිය වර්ෂය අවසානය වන විට තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයක පුරප්පාඩු 1982 ක් පැවතිණි.
+After the year 2021, a permanent mailing recruitment was not carried out by the Postal Department of Postal Assistant.
 
-එවන් පුරප්පාඩු සංඛ්‍යාවක් සමඟ දෙපාර්තුමේන්තුවේ කටයුතු පවත්වා ගෙන යාම දැඩි අර්බුධකාරී තත්වයක් මතු වු අතර එයට විසඳුමක් ලෙස අදාල පුරප්පාඩු සංඛ්‍යාවෙන් 1000 ක් බඳවා ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ඉල්ලීම පරිදි 2025 අගෝස්තු 19 වන දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇත.
+The departmental work with such a number of vacancies has emerged and the proceedings of Health and Mass Media Dr. Nalinda Jayatissa have been given to recruit 1000 vacancies as a solution.
 
-ඒ අනුව මේ දක්වා තැපැල් දෙපාර්තුමේන්තුවේ ආදේශක සේවකයින් ලෙස ලියාපදිංචි වී සිටි නිසි සුදුසුකම් සම්පුර්ණ කළ පිරිස අතරින් ඉහත 731 දෙනෙකු මෙලෙස බඳවා ගැනීම සඳහා තෝරාගනු ලැබීය.
+Accordingly, 731 of the above was selected for recruitment of the proper qualifications registered as substitute employees of the Department of Posts.
 
-...
+The Minister said that all services were carried out by recruiting to make the post-burden to the Treasury, the government, making a cost of an extra income of income.
+
+◼️
 
 [Data](articles/dabe800a.json)
+
+[Extended Data](ext_articles/dabe800a.ext.json)
 
 ---
 
@@ -1191,19 +1209,21 @@ Meanwhile, sources say that there is a delay in restoring electricity crashes du
 
 ---
 
-### සුළඟ වැස්ස  වාර 30000ක් ලයිට් කපලා
+### Winds cut 30000 times lights
 
 *2025-10-06 12:59:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සළඟ-වසස-වර-30000ක-ලයට-කපල/1-680788) · `si`
 
-මේ දිනවල පවතින වැහිබර අයහපත් කාලගුණ තත්වය හේතුවෙන් රට පුරා   විදුලිය බිඳ වැටීම් තිස්දහසක් පමණ සිදුව ඇතැයි විදුලි  බල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක ධම්මික විමලරත්න මහතා පැවසීය.
+The CEB Press Spokesman Dhammika Wimalaratne said that about 30,000 electricity crashes throughout the country due to the existing bad weather conditions have occurred throughout the country.
 
-විදුලිය බිඳ වැටීම් බොහොමයක් සිදුවී ඇතැයි පැවසෙන්නේ  විශාල ප්‍රමාණයේ  ගස් කඩා වැටීම හේතුවෙනි.
+It is said that many of the collapses of electricity crashes due to large number of trees.
 
-මේ අතර විදුලියේ අකුරට වැඩ කිරීමේ ව්‍යාපාරය හේතුවෙන් විදුලිය බිඳ වැටීම් යථා තත්වයට පත් කිරීමේ  කිසියම් ප්‍රමාදයක් මතුව ඇති බව ආරංචි මාර්ග සඳහන් කළේය.
+Meanwhile, sources say that there is a delay in restoring electricity crashes due to the false work of electricity.
 
 ◼️
 
 [Data](articles/031f7d3b.json)
+
+[Extended Data](ext_articles/031f7d3b.ext.json)
 
 ---
 
@@ -2006,27 +2026,5 @@ Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar, Directo
 [Data](articles/c36e932b.json)
 
 [Extended Data](ext_articles/c36e932b.ext.json)
-
----
-
-### Keep Keepu Yapa in China
-
-*2025-10-06 10:44:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බල-ජය-කහල-යප-පටන/1-680780) · `si`
-
-The first district sports festival was launched by the Youth Sports Festival.
-
-Youth athletes representing the 15 Divisional Secretariat Divisions in the Jaffna District participated in the event that commenced at Alfred Doykere Stadium in Jaffna.
-
-JV and field competitions were held, marking the conclusion of the district sports festival, and its championship occupied the Tiipai Pradeshiya Sabha. Subordinate, Point Palawaturuwa Pradeshiya Sabha and third place owned by Nallur Pradeshiya Sabha.
-
-The National Sports Festival will be held at the end of the local sports event.
-
-Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar, Director General of the National Youth Services Council were also present.
-
-◼️
-
-[Data](articles/7a06e995.json)
-
-[Extended Data](ext_articles/7a06e995.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 21:56:50**
+As of **2025-10-06 21:38:51**
 
 ## Newspaper Stats
 
-*Scraped **81,656** Articles*
+*Scraped **81,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,14 +20,14 @@ dailyftlk | 5,664
 adalk | 7,809
 adaderanalk | 10,490
 tamilmirrorlk | 12,120
-virakesarilk | 13,441
-adaderanasinhalalk | 14,022
+virakesarilk | 13,425
+adaderanasinhalalk | 14,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,632 (100.0%) of 81,656 articles have been extended.
+81,632 (100.0%) of 81,639 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,24 +65,6 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### අගමැති හරිනි සහ මෝදි එකම වේදිකාවක දී
-
-*2025-10-06 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215414) · `si`
-
-අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි සහභාගී වන NDTV ලෝක සමුළුව මෙම මස පැවැත්වීමට නියමිතව ඇතැයි වාර්තා වේ.
-
-එම සමුළුව ඔක්තෝබර් 17 සහ 18 යන දිනවල නවදිල්ලියේදී පැවැත්වීමට නියමිතය.
-
-2025 - NDTV ලෝක සමුළුවේ ගෝලීය සංවාදයට වර්තමානයේ වඩාත්ම බලගතු රටවල් කිහිපයක රාජ්‍ය  නායකයින් සහභාගී නියමිත බව වාර්තා වේ.
-
-ඉන්දියාවේ අගමැති නරේන්ද්‍ර මෝදි, ශ්‍රී ලංකාවේ හරිනි අමරසූරිය සහ හිටපු අගමැතිවරුන් දෙදෙනෙකු වන එක්සත් රාජධානියේ රිෂි සුනක් සහ ඔස්ට්‍රේලියාවේ ටෝනි ඇබට් මෙම සමුළුවට සහභාගී වීමට නියමිතය.
-
-◼️
-
-[Data](articles/2ed85689.json)
-
----
-
 ### මුරුතවෙල ජලාශයේ ගිලී ගුරුවරයෙකු මරුට
 
 *2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/101-680804) · `si`
@@ -98,42 +80,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/30fdbb25.json)
-
----
-
-### மேற்கிந்தியத் தீவுகளின் முன்னாள் சகலதுறை வீரர் பெர்னார்ட் ஜூலியன் மறைவு
-
-*2025-10-06 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/227060) · `ta`
-
-மேற்கிந்தியத் தீவுகள் அணியின் முன்னாள் சகலதுறை வீரரும், 1970களில் அணியின் முக்கிய உறுப்பினருமான பெர்னார்ட் ஜூலியன் காலமானார். அவருக்கு 75 வயதாகும்.
-
-இடது கை வேகப்பந்து வீச்சாளர் மற்றும் திறமையான துடுப்பாட்டக்காரராக விளங்கிய ஜூலியன், 1975ஆம் ஆண்டு நடைபெற்ற முதலாவது உலகக் கிண்ண தொடரில் மேற்கிந்தியத் தீவுகள் அணிக்கு வெற்றியைத் தேடித்தந்த முக்கிய வீரராக இருந்தார்.
-
-அந்த தொடரில் இலங்கைக்கு எதிராக 4 விக்கெட்டுகளை வீழ்த்தியதுடன், நியூசிலாந்துக்கு எதிரான அரையிறுதியில் 4 விக்கெட்டுக்கு 27 ஓட்டங்கள் என்ற சிறப்பான பந்துவீச்சு சாதனையையும் படைத்தார்.
-
-அத்துடன் அவுஸ்திரேலியாவுக்கு எதிரான இறுதிப் போட்டியில் அழுத்தமான சூழ்நிலையில் 26 ஓட்டங்கள் எடுத்து, அணியின் வெற்றியில் முக்கிய பங்கு வகித்தார்.
-
-◼️
-
-[Data](articles/48c7514e.json)
-
----
-
-### பெல்லன்வில ரஜமஹா விகாரையின் “மெனிக்க” யானை உயிரிழப்பு
-
-*2025-10-06 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227059) · `ta`
-
-பெல்லன்வில ரஜமஹா விகாரையைச் சேர்ந்த பிரபல பெண் யானையான “மெனிக்க” உயிரிழந்துள்ளதாக விகாரை அதிகாரிகள் உறுதிப்படுத்தியுள்ளனர்.
-
-76 வயதான மெனிக்க, திங்கட்கிழமை (6) அதிகாலை விகாரை வளாகத்திலேயே இறந்ததாக விகாரை நிர்வாகம் தெரிவித்துள்ளது.
-
-பல தசாப்தங்களாக விகாரையின் வருடாந்த பெரஹெராக்கள் மற்றும் பிற மத, கலாசார நிகழ்வுகளில் முக்கிய பங்காற்றிய மெனிக்க, பக்தர்களிடையே பெரும் பாசத்தை பெற்றிருந்தது.
-
-அவளது மரணம், பெல்லன்வில ரஜமஹா விகாரையும் அங்கு வழிபடும் பக்தர்களையும் துயரத்தில் ஆழ்த்தியுள்ளது.
-
-◼️
-
-[Data](articles/909bff36.json)
 
 ---
 
@@ -467,24 +413,6 @@ The Summit is scheduled to be held on 17th and 18th October 2025 in New Delhi an
 
 ---
 
-### கம்மன்பில, விமல் விசாரணைகளுக்கு முன்னிலையாக வேண்டும் - தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க
-
-*2025-10-06 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227058) · `ta`
-
-உதய கம்மன்பில, விமல் வீரவன்ச போலியான விடயங்களை சமூகமயப்படுத்த முயற்சிக்கும் போது அந்த விடயங்கள் தொடர்பான விசாரணைகளுக்கு முன்னிலையாக வேண்டும். இனவாதத்தை முன்னிலைப்படுத்தியே இவர்கள் செயற்படுகிறார்களென தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்தார்.
-
-கொழும்பில் திங்கட்கிழமை (6) நடைபெற்ற மத நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு தெரிவித்தார்.
-
-நடைபெற்று முடிந்த பொதுத்தேர்தலின் போது தேர்தலில் போட்டியிடாமலே தோல்வியை அறிந்து விலகிக் கொண்டவர்கள் இன்று  தேசப்பற்றாளர்கள் போல் பேசுகிறார்கள்.இந்த நாடு இனவாதத்தால் பல நெருக்கடிகளை எதிர்கொண்டுள்ளது.அதற்கு இவர்கள் பொறுப்புக்கூற வேண்டும்.
-
-உதய கம்மன்பில, விமல் வீரவன்ச ஆகியோர் இன்றும் கடந்த அரசாங்கம் தான் ஆட்சியி;ல் உள்ளது என்று நினைத்துக் கொண்டு செயற்படுகிறார்கள். போலியான விடயங்களை சமூகமயப்படுத்த முயற்சிக்கும் போது அந்த விடயங்கள் தொடர்பான விசாரணைகளுக்கு முன்னிலையாக வேண்டும்.
-
-...
-
-[Data](articles/787293ee.json)
-
----
-
 ### එන්නත් කටු හිඟය නිසා රු. 100 රුධිර කාන්දුකරන එන්නත් කටුවක් රු 760ට විකුණයි
 
 *2025-10-06 18:10:24* · [`adalk`](https://www.ada.lk/breaking_news/එන්නත්-කටු-හිඟය-නිසා-රු--100-රුධිර-කාන්දුකරන-එන්නත්-කටුවක්-රු-760ට-විකුණයි/11-418941) · `si`
@@ -571,22 +499,6 @@ The accident had occurred when a group of women who had come to join the road to
 
 ---
 
-### பாடசாலையை இலக்குவைத்தே புதிய சட்டமூலம் வருகிறது - இலங்கை ஆசிரியர் சேவை சங்கத்தின் தலைவர் தெரிவிப்பு
-
-*2025-10-06 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/227057) · `ta`
-
-சிறுவர்களுக்கு எதிரான அனைத்துவகையான தொந்தரவுகளை தடுப்பதற்காக தண்டனைச்சட்டக்கோவையில் திருத்தம் மேற்கொள்ளும்போது புதிய சட்டமூலம் கொண்டுவரப்படுவது பாடசாலையை இலக்குவைத்தாகுமென இலங்கை ஆசிரியர் சேவை சங்கத்தின் தலைவர் பிரியந்த பெர்ணாந்து தெரிவித்தார்.
-
-கொழும்பில் திங்கட்கிழமை (6) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-சிறுவர்களுக்கு எதிரான அனைத்துவகையான தொந்தரவுகளை தடுப்பதற்காக தண்டனைச்சட்டக்கோவையில் திருத்தம் மேற்கொள்ளும்போது புதிய சட்டமூலம் கொண்டுவரப்படுவது பெரும்பாலும்  பாடசாலையை இலக்குவைத்தாகும். தற்போது பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டு, அனுமதிக்கப்பட இருக்கும் தண்டனைச் சட்டக்கோவையின் (19ஆவது அத்தியாயம்) திருத்தச் சட்டமூலமும் அவ்வாறானதாகும்.
-
-...
-
-[Data](articles/ff4ad0c0.json)
-
----
-
 ### One dead, two hospitalised due to drowning near Blue Beach Island
 
 *2025-10-06 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113264/one-dead-two-hospitalised-due-to-drowning-near-blue-beach-island) · `en`
@@ -602,88 +514,6 @@ The body of the deceased has been taken to the Batheegama Hospital, while the ot
 [Data](articles/447b1b95.json)
 
 [Extended Data](ext_articles/447b1b95.ext.json)
-
----
-
-### சோமாவதி விகாரையின் வரலாற்றில் நுழைவதற்கு வாய்ப்பு ஏற்பட்டுள்ளது  - அமைச்சர் சுனில் செனெவி
-
-*2025-10-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227051) · `ta`
-
-சோமாவதி விகாரையின் வரலாற்றில் நுழைவதற்கான வாயிலாக இந்தப் புதிய தொல்பொருள் அருங்காட்சியகம் மற்றும் சர்வதேச தொல்பொருள் ஆராய்ச்சி நிறுவனம் காணப்படுவதாக புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சர் கலாநிதி ஹினிதும சுனில் செனெவி தெரிவித்தார்.
-
-ஜனாதிபதி அநுர குமார திசாநாயக்க தலைமையில் வரலாற்று சிறப்புமிக்க சோமாவதி விகாரையில் புதிதாக நிர்மாணிக்கப்பட்ட தொல்பொருள் அருங்காட்சியகம் மற்றும் சர்வதேச தொல்பொருள் ஆராய்ச்சி நிறுவனம் அடங்கிய இரண்டு மாடி கட்டடத்தை திறந்து வைக்கும் நிகழ்வு இன்று திங்கட்கிழமை (6) நடைபெற்றபோது அதில் கலந்துகொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
-
-மகத்தான தொல்பொருள் மதிப்புமிக்க சோமாவதி விகாரையின் வரலாற்றில் நுழைவதற்கான வாயிலாக இந்தப் புதிய தொல்பொருள் அருங்காட்சியகம் மற்றும் சர்வதேச தொல்பொருள் ஆராய்ச்சி நிறுவனம் அமையும் என்று எதிர்பார்க்கின்றோம்.
-
-...
-
-[Data](articles/7f141242.json)
-
----
-
-### பல்கலைகளில் வெற்றிடங்களை  நிரப்புவதற்கு அரசாங்கம் அனுமதி
-
-*2025-10-06 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/227049) · `ta`
-
-புதிய கல்வி ஊழியர்களை, உள்வாங்குவதற்கு அனைத்து பல்கலைக்கழகங்களும் விடுத்த கோரிக்கைகளுக்கு அனுமதி அளிக்கப்பட்டுள்ளதாக கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சு தெரிவித்துள்ளது.
-
-அண்மைய மாதங்களில் ஆட்சேர்ப்பு செயன்முறையை மீண்டும் ஆரம்பிப்பதற்கு அனுமதி கிடைத்துள்ளது. கல்வி மற்றும் கல்விசாரா பணியாளர்கள் தேவைகளுக்காக ஒவ்வொரு பல்கலைக்கழகமும் சமர்ப்பித்த கோரிக்கைகளுக்கு அமைவாக தற்போது அங்கீகாரம் அளிக்கப்பட்டுள்ளது.
-
-பிரதமர் அலுவலகத்தின் கீழ் செயற்படுமொரு குழுவால் பல்கலைக்கழகங்களுக்கு தேவையான ஆட்சேர்ப்பு கோரிக்கைகள் ஆராயப்பட்டே அங்கீகாரம் வழங்கப்பட்டுள்ளது.
-
-அடுத்த கட்டமாக பல்கலைக்கழகங்கள் தொடர்புடைய ஆட்சேர்ப்பு நடைமுறைகளை மேற்கொள்ளப்படவுள்ளது. அதற்கான நடைமுறைகள் நிறைவடைவதற்கு சிறிது அவகாசம் தேவையாக உள்ளது.
-
-பல ஆண்டுகளாக ஆட்சேர்ப்பு நிறுத்தப்பட்டிருக்கும் போது பல்கலைக்கழகங்களில் பற்றாக்குறை ஏற்படுவது இயல்பானது, ஆனால் அவற்றைத்தீர்க்கும் செயன்முறை இப்போது ஆரம்பிக்கப்பட்டுள்ளது. எனினும் பதவி வெற்றிடங்களை ஒரே இரவில் பூர்த்தி செய்வது சாத்தியமற்றது என்றார்.
-
-...
-
-[Data](articles/401f2324.json)
-
----
-
-### மூன்றிலொரு பங்கால் பிறப்பு வீதம் வீழ்ச்சி
-
-*2025-10-06 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/227055) · `ta`
-
-இலங்கையில் பிறப்புகளின் எண்ணிக்கை வியத்தகு அளவில் குறைந்து வருகிறது. புள்ளி விபரவியல் திணைக்களத்தின் உத்தியோகபூர்வ தரவுகளின்படி 2018இல் சுமார் 3,28,400 ஆகக் காணப்பட்;ட பிறப்புகளின் எண்ணிக்கையானது, 2024இல் 2,20,761 ஆகக் குறைந்துள்ளது. இது சுமார் 33 சதவீத வீழ்ச்சியாகப் பதிவாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-முன்னாள் கல்வி அமைச்சர் சுசில் பிரேமஜயந்த அண்மையில் சுகாதார அமைச்சின் தரவுகளைக் குறிப்பிட்டு, வருடாந்தப் பிறப்புகள் கடுமையாகக் குறைந்துள்ளதாகவும், இது நாட்டின் பாடசாலைகள் மற்றும் பணியாளர்களுக்கு நீண்ட கால விளைவுகளை ஏற்படுத்தும் என்றும் எச்சரித்திருந்தார்.
-
-இந்த வீழ்ச்சிக்குப் பல காரணங்களின் கலவையே காரணம் என்று நிபுணர்கள் கூறுகின்றனர். சிறிய குடும்ப அளவுகளுக்கான விருப்பம் மற்றும் தாமதமான குழந்தைப்பேறு ஆகியவற்றைப் பிரதிபலிக்கும் வகையில், இலங்கையின் கருவுறுதல் வீதம் பல ஆண்டுகளாகக் குறைந்து வருகிறது. இந்த நீண்ட கால வீழ்ச்சியானது அண்மைய நெருக்கடிகளால் மேலும் மோசமடைந்ததாக நிபுணர்கள் குறிப்பிடுகின்றனர்.
-
-...
-
-[Data](articles/1939209e.json)
-
----
-
-### வீட்டுத் திட்டத்தில் பெயர் பொறிக்க சஜித் 2 கோடி ஊழல் மோசடி ; விசாரணை முன்னெடுப்பு - கந்தசாமி பிரபு
-
-*2025-10-06 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227054) · `ta`
-
-எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச கடந்த காலத்தில் அமைச்சராக இருந்தபோது, தான் ஜனாதிபதியாக வரவேண்டும் என்ற அரசியல் நோக்கத்தோடு சமட்டசமன எனும் வீட்டுத் திட்டத்தை ஆரம்பித்து, இடைநடுவில் அத்திட்டம் கைவிடப்பட்டதுடன் கல்வெட்டுக்களில் பெயர் பொறிப்பதற்கு 2 கோடிகளுக்கு மேல் செலவு செய்து இடம்பெற்ற ஊழல் மோசடி தொடர்பாக ஆணைக்குழு ஒன்றை நியமித்து விசாரணைகள் முன்னெடுக்கப்பட்டு வருகிறது  என தேசிய மக்கள் சக்தியின் மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர் கந்தசாமி பிரபு தெரிவித்தார்.
-
-மட்டக்களப்பு மண்முனை வடக்கு பிரதேச செயலக பிரிவிலுள்ள திமிலைதீவு உலக குடியிருப்பு தினத்தை முன்னிட்டு 'உங்களுக்கு வீடு  நாட்டுக்கு எதிர்காலம்' எனும் அரசாங்கத்தின் வேலைத்திட்டத்தின் ஒரு மில்லியன்  ரூபா நிதியுதவியின் மூலம் நிர்மாணிக்கப்பட்ட வீடுகளை சம்பிராயபூர்வமாக நேற்று ஞாயிற்றுக்கிழமை (5) மக்களிடம் கையளித்த பின்னர் அவர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/1c48ddda.json)
-
----
-
-### மனம்பேரி என்னால் நியமிக்கப்பட்ட ஒருங்கிணைப்புச் செயலாளர் அல்ல - ஜோன்ஸ்டன் பெர்னாண்டோ
-
-*2025-10-06 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/227053) · `ta`
-
-சம்பத் மனம்பேரி என்பவர் தனது ஒருங்கிணைப்புச் செயலாளர்களில் ஒருவராகப் பணியாற்றவில்லை என்று முன்னாள் அமைச்சர் ஜோன்ஸ்டன் பெர்னாண்டோ மறுத்துள்ளார். இதுகுறித்து தவறான தகவல்களைப் பரப்புபவர்களுக்கு எதிராகச் சட்ட நடவடிக்கை எடுக்கத் தயாராக இருப்பதாகவும் அவர் தெரிவித்துள்ளார்.
-
-குருநாகலில் நடைபெற்ற ஸ்ரீலங்கா பொதுஜன பெரமுனவின் நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றியபோதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
-
-தற்போது மனம்பேரி என்ற ஒருவர் எனது ஒருங்கிணைப்புச் செயலாளர்களில் ஒருவர் என்று கூறுகிறார்கள். நான் இந்த மாவட்டத்திலிருந்து மட்டுமே ஒருங்கிணைப்புச் செயலாளர்களை நியமித்தேன் என்பதை நினைவில் கொள்ளுங்கள். இந்தக் கூற்று என்னுடைய பெயருக்குக் களங்கம் ஏற்படுத்தும் முயற்சி என்றும் ஜோன்ஸ்டன் பெர்னாணடோ மேலும் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/0667ac08.json)
 
 ---
 
@@ -710,74 +540,6 @@ Agent Felicity Blunt said Cooper had “defined culture, writing and conversatio
 [Data](articles/c2b08602.json)
 
 [Extended Data](ext_articles/c2b08602.ext.json)
-
----
-
-### ஜனாதிபதி ஆணைக்குழுவை அமைத்து  மஹிந்தவை விசாரணை செய்யுங்கள் -  சரத்பொன்சேகா பரபரப்பு குற்றச்சாட்டு
-
-*2025-10-06 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227047) · `ta`
-
-தற்போது இராணுவ வீரர்கள் தொடர்பில் முதலைக்கண்ணீர் வடிக்கும் ராஜபக்ஷக்கள் 2005இல் தேர்தல் வெற்றிக்காக தமிழீழ விடுதலைப் புலிகள் அமைப்பின் ஆயுத கொள்வனவுக்காக 2 மில்லியன் டொலர்களை வழங்கினர். 2009 இறுதி யுத்தத்தின்போது வேலுப்பிள்ளை பிரபாகரனை தப்பிக்கச் செய்வதற்காக போர் நிறுத்தத்தை அறிவிக்குமாறு பணிப்புரை விடுத்து 4000க்கும் மேற்பட்ட இராணுவ வீரர்கள் கொல்லப்படுவதற்கு மஹிந்த ராஜபக்ஷ வழியேற்படுத்திக் கொடுத்து தேசத்துரோகம் இழைத்துள்ளார். எனவே அவருக்கெதிராக குற்றப்பத்திரிகை தாக்கல் செய்து ஜனாதிபதி விசாரணை ஆணைக்குழுவின் ஊடாக விசாரணைகளை முன்னெடுக்க வேண்டியது அரசாங்கத்தின் பொறுப்பாகும் என பீல்ட் மார்ஷல் சரத் பொன்சேகா தெரிவித்தார்.
-
-மாத்தறையில் நேற்று ஞாயிற்றுக்கிழமை (5) இரவு இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றியபோதே அவர் இதனைத் தெரிவித்தார்.
-
-என்னை சிறையில் அடைப்பதற்கு மஹிந்த நடவடிக்கை எடுத்தமை தவறு என்று தற்போது நாமல் கூறுகிறார். இப்போது இராணுவ வீரர்கள் மீது இவர்களுக்கு புதுமையான இரக்கம் ஏற்பட்டுள்ளது.
-
-...
-
-[Data](articles/67358850.json)
-
----
-
-### பௌர்ணமி விடுமுறை நாளில் மதுபானம் விற்பனை - சந்தேக நபர் சிக்கியது எப்படி?
-
-*2025-10-06 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227050) · `ta`
-
-பௌர்ணமி விடுமுறை நாளில்  வீடொன்றில் சட்டவிரோதமாக மதுபான விற்பனையில் ஈடுபட்ட சந்தேக நபர் பொலிஸாரால் இன்று திங்கட்கிழமை (06) கைதுசெய்யப்பட்டுள்ளார்.
-
-கல்முனை பிராந்திய உதவி பொலிஸ் அத்தியட்சகர் எம்.கே.இப்னு அஸாரின் நேரடி வழிகாட்டலில் இயங்கும்  போதைப்பொருள் ஒழிப்பு பிரிவின்  பொறுப்பதிகாரியும் உப  பொலிஸ் பரிசோதகருமான கே.எல்.எம் முஸ்தபா  தலைமையிலான பொலிஸ் குழுவினருக்கு  கிடைக்கபெற்ற இரகசிய தகவலையடுத்து கல்முனை தலைமையக  பொலிஸ் நிலைய  பொறுப்பதிகாரி  லசந்த களுவாராய்ச்சி வழிகாட்டலில்  வீடு ஒன்றில் மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பின் போதே இந்த மதுபான போத்தல்கள் கைப்பற்றப்பட்டுள்ளன.
-
-கல்முனை தலைமையக  பொலிஸ் பிரிவுக்குட்பட்ட சேனைக்குடியிருப்பில் பௌர்ணமி விடுமுறை நாளான இன்று திங்கட்கிழமை குறித்த விற்பனையில் ஈடுபடுவதாக சந்தேக நபர் தொடர்பான தகவல்கள் கிடைக்கப்பெற்றதை  அடுத்து போதைப்பொருள் ஒழிப்பு பிரிவின் உத்தியோகத்தர் ஒருவர் மாறுவேடத்தில் சென்று இக்கைது நடவடிக்கையை மேற்கொண்டுள்ளார்.
-
-...
-
-[Data](articles/d32740c6.json)
-
----
-
-### வீதியில் பயணித்துக்கொண்டிருந்த பெண்களுக்கு நேர்ந்த விபரீதம்!
-
-*2025-10-06 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227052) · `ta`
-
-கண்டி, கம்பளை, தொலுவ பிரதேசத்தில் இடம்பெற்ற விபத்தில் மூன்று பெண்கள் உயிரிழந்துள்ளதுடன் மற்றுமொரு பெண் காயமடைந்துள்ளதாக கம்பளை பொலிஸார் தெரிவித்தனர்.
-
-கார் ஒன்று வீதியில் பயணித்துக்கொண்டிருந்த நான்கு பெண்கள் மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-நான்கு பெண்களும் சமய வழிபாடு நிகழ்வு ஒன்றுக்கு செல்வதற்காக வீதியில் பயணித்துக்கொண்டிருக்கும் போது இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-விபத்தின் போது மூன்று பெண்களும் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதுடன் மற்றுமொரு பெண் காயமடைந்து கம்பளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/8e7157ce.json)
-
----
-
-### மானிப்பாய் பிரதேச சபையின் நூலகங்களில் தேசிய வாசிப்பு மாத நிகழ்வுகள் ஆரம்பம்
-
-*2025-10-06 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/227045) · `ta`
-
-தேசிய வாசிப்பு மாதத்தினை முன்னிட்டு வலிகாமம் தென்மேற்கு  மானிப்பாய் பிரதேச சபையின் கீழ் இயங்கும் மானிப்பாய், ஆனைக்கோட்டை, மாதகல், பண்டத்தரிப்பு ஆகிய பொது நூலகங்களில் பாடசாலை மாணவர்களுக்கான தேசிய வாசிப்பு மாத போட்டிகள் ஆரம்பமாகியுள்ளன.
-
-மேற்படி பொது நூலகங்களில் “மறுமலர்ச்சிக்காக வாசிப்போம்” எனும் தொனிப்பொருளில், வாசகர் மற்றும் மாணவர்களிடையே பல்வேறு போட்டி நிகழ்ச்சிகளை நடாத்துவதற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
-
-பாடசாலை மாணவர்களுக்கு தரம் 1-3, தரம் 4-5, தரம் 6-8,  தரம் 9-11, தரம் 12-13, வரையான  பகுதிகளில் வாசிப்பு, திருக்குறள் மனனப் போட்டி, கட்டுரை, பேச்சு, கவிதை, சித்திரம் வரைதல், பொது அறிவு, துண்டுப்பிரசுர வெளியீடு, புதிய நூல்களின் கண்காட்சி மற்றும் சிறார்களுக்கான பொழுதுபோக்கு நிகழ்வு போன்ற போட்டிகளும், முன்பள்ளி மாணவர்களுக்கு கதைகூறல், நிறம் தீட்டுதல், எண்கள் மற்றும் எழுத்துகளை இணைத்தல்  போன்ற போட்டிகளும் நடைபெறவுள்ளது.
-
-இப்போட்டிகள் நாளை செவ்வாய்க்கிழமை (7) ஆரம்பமாகி எதிர்வரும் 14ஆம் திகதி  செவ்வாய்க்கிழமை வரை நடைபெறவுள்ளன.
-
-...
-
-[Data](articles/61e8e094.json)
 
 ---
 
@@ -821,40 +583,6 @@ The resolution proposes to “extend the mandate of the Office of the High Commi
 
 ---
 
-### மோட்டார் சைக்கிள் விபத்தில் ஒருவர் பலி ; இருவர் காயம்!
-
-*2025-10-06 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227048) · `ta`
-
-வவுனியா - இராசேந்திரம்குளம் பகுதியில் மோட்டர் சைக்கிள் ஒன்று விபத்துக்குள்ளானதில் இளைஞன் ஒருவர் உயிரிழந்துள்ளதுடன், இருவர் காயமடைந்துள்ளதாக நெளுக்குளம் பொலிஸார் தெரிவித்தனர்.
-
-வவுனியா, இராசேந்திரகுளம் பகுதியில இருந்து நெளுக்குளம் நோக்கி மோட்டார் சைக்கிள் ஒன்றில் மூன்று இளைஞர்கள் பயணித்துள்ளனர்.
-
-குறித்த மோட்டார் சைக்கிள் வேகக் கட்டுப்பாட்டை இழந்த நிலையில் இராசேந்திரன்குளம் பாடசாலைக்கு அருகில் உள்ள பேரூந்து தரிப்பு நிலையத்துடன் மோதி விபத்துக்குள்ளாகியுள்ளது.
-
-விபத்தில் மோட்டார் சைக்கிளில் பயணித்த இளைஞர் ஒருவர் உயிரிழந்துள்ளதுடன், இருவர் காயமடைந்து வவுனியா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/2c55953f.json)
-
----
-
-### புவக்தண்டாவே சானா தொடர்பில் வாக்குமூலம் அளிப்பதற்கு பிறிதொரு தினத்தை வழங்குமாறு விமல் வீரவன்ச கோரிக்கை
-
-*2025-10-06 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227041) · `ta`
-
-அண்மையில் கைது செய்யப்பட்ட புவக்தண்டாவே சானா தொடர்பில் குறிப்பிட்ட விடயம் தொடர்பில் வாக்குமூலம் அளிப்பதற்கு பிறிதொரு நாளில் முன்னிலையாக சந்தர்ப்பம் அளிக்குமாறு  தேசிய சுதந்திர முன்னணியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச தங்காலை பொலிஸ் நிலையத்திடம் கோரிக்கை முன்வைத்துள்ளார்.
-
-அண்மையில் கைது செய்யப்பட்ட புவக்தண்டாவே சானா என்ற நபரின் அரசியல் தொடர்புகள் குறித்து, விமல் வீரவன்ச வெளிப்படுத்திய  விடயங்கள் தொடர்பில் வாக்குமூலம் பெறுவதற்காக தங்காலை சிரேஷ்ட பொலிஸ் அத்தியட்சகர்  ஞாயிற்றுக்கிழமை (5) இந்த அழைப்பாணையை விடுத்திருந்தார்.
-
-தங்காலை பகுதியில் கண்டுபிடிக்கப்பட்ட போதைப்பொருள் குவியலை நாட்டிற்குக் கொண்டுவந்தமை தொடர்பில், அண்மையில் கைது செய்யப்பட்ட புவக்தண்டாவே சானா எனப்படும் சனத் வீரசிங்கவின் அரசியல் தொடர்புகள் குறித்து, முன்னாள் பாராளுமன்ற  உறுப்பினர் விமல் வீரவன்ச கடந்த 2ஆம் திகதி ஊடக சந்திப்பொன்றை நடத்தி குறிப்பிட்டிருந்தார்.
-
-...
-
-[Data](articles/0bb1c100.json)
-
----
-
 ### බ්‍රෙික් පැටලය මාරු වී තුනක් මරු තුරුලට
 
 *2025-10-06 16:36:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බරක-පටලය-මර-ව-තනක-මර-තරලට/101-680801) · `si`
@@ -886,26 +614,6 @@ According to the police, the brick drop to the ride motor vehicle temple was in 
 [Data](articles/6120e1c5.json)
 
 [Extended Data](ext_articles/6120e1c5.ext.json)
-
----
-
-### பதுளை- செங்கலடி வீதியின் போக்குவரத்து வழமைக்கு திரும்பியது
-
-*2025-10-06 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/227044) · `ta`
-
-பதுளை மாவட்டத்தில் கடந்த இரு நாட்களாக பெய்த கனமழையின் காரணமாக பதுளை- செங்கலடி வீதியின் 13 ஆவது மைல்கல் பகுதியில் உள்ள மெத்தை கடைக்கு அருகில் ஞாயிற்றுக்கிழமை மாலை (05) மாலை 5.30 மணியளவில் கற்பாறைகள் சரிந்து வீழ்ந்ததனால் தடைப்பட்டிருந்த பொது போக்குவரத்து தற்போது வழமைக்கு திரும்பியுள்ளதாக பதுளை மாவட்ட அனர்த்த முகாமைத்துவ நிலையத்தின் உதவிப் பதிப்பாளர் ஈ.எம்.எல். உதயகுமார தெரிவிக்கின்றார்.
-
-குறித்த பகுதியில் இவ்வாண்டின் ஆரம்ப பகுதியில் ஏற்பட்ட பாரிய கற்பாறைகள் சரிவு அனர்த்தம் காரணமாக பல நாட்களுக்கு போக்குவரத்து தடைப்பட்டிருந்தது.
-
-இதனால் பிபிலை, மொனராகலை , மட்டக்களப்பு, அம்பாறை போன்ற பகுதிகளினூடான போக்குவரத்துக்கு பாதிப்பு ஏற்பட்டிருந்தது.
-
-நீண்ட நாட்களாக மேற்கொள்ளப்பட்ட கள ஆய்வுகளின் பின்னர் வீதியில் வீழ்ந்திருந்த பாரிய கற்பாறைகள் அகற்றப்பட்டு கடந்த இரு மாதங்களாக இரு வழித்தடப் போக்குவரத்து இடம்பெற்று வந்த நிலையில் மீண்டும் இவ்வனர்த்தம் இடம்பெற்றுள்ளது .
-
-வீதி அபிவிருத்தி அதிகார சபை ஊழியர்கள் துரிதமாக செயற்பட்டு மீண்டும் ஒரு வழித்தடப் போக்குவரத்திற்கு பாதையை திறந்துள்ளனர்.
-
-...
-
-[Data](articles/7716bb2d.json)
 
 ---
 
@@ -1992,5 +1700,341 @@ Super Moon offers a great opportunity to see a wonderful natural event when refe
 [Data](articles/26725124.json)
 
 [Extended Data](ext_articles/26725124.ext.json)
+
+---
+
+### Does the COPE committee need new powers?
+
+*2025-10-06 14:21:44* · [`lankadeepalk`](https://www.lankadeepa.lk/friday/කප-කමටවට-අලත-බලතල-අවශයද/122-680791) · `si`
+
+This year's discussion is based on the Committee of the Public Enterprises or COPE Committee. It was thought to discuss it because the current Chairman of the committee presented to Parliament last week was a proposal.
+
+The Chairman's proposal is to be given to the IGP or the bribery commission to the Inspector General of Investigation and Bribery Commission.. The Standing Order 120 will be revised if recognized.
+
+First, I should say that I am against this amendment proposal. There is no opposition to carry on the role of the COPE committee. But if the COPE is responsible for the increase in powers this way, the COPE is responsible for a huge predatory. The COPE committee already performs questions in a court. Some of the country are some kind of question. If these new proposals are implemented in such a situation, you need to ask what can happen.
+
+...
+
+[Data](articles/f26e0909.json)
+
+[Extended Data](ext_articles/f26e0909.ext.json)
+
+---
+
+### Does the COPE committee need new powers?
+
+*2025-10-06 14:21:44* · [`lankadeepalk`](https://www.lankadeepa.lk/features/කප-කමටවට-අලත-බලතල-අවශයද/2-680791) · `si`
+
+This year's discussion is based on the Committee of the Public Enterprises or COPE Committee. It was thought to discuss it because the current Chairman of the committee presented to Parliament last week was a proposal.
+
+The Chairman's proposal is to be given to the IGP or the bribery commission to the Inspector General of Investigation and Bribery Commission.. The Standing Order 120 will be revised if recognized.
+
+First, I should say that I am against this amendment proposal. There is no opposition to carry on the role of the COPE committee. But if the COPE is responsible for the increase in powers this way, the COPE is responsible for a huge predatory. The COPE committee already performs questions in a court. Some of the country are some kind of question. If these new proposals are implemented in such a situation, you need to ask what can happen.
+
+...
+
+[Data](articles/7fcbe251.json)
+
+[Extended Data](ext_articles/7fcbe251.ext.json)
+
+---
+
+### Thirty-two pigeons stolen from Dehiwala National Zoo, officials say
+
+*2025-10-06 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113253/thirty-two-pigeons-stolen-from-dehiwala-national-zoo-officials-say) · `en`
+
+A total of 32 pigeons have been stolen from the Dehiwala National Zoological Gardens, according to the administration of the zoo.
+
+The Deputy Director of the zoo, Hemanta Samarasekara stated that a complaint regarding the theft has been lodged with the Dehiwala Police.
+
+He mentioned that the theft is suspected to have taken place either on Friday night (03) or in the early hours of Saturday (04).
+
+The pigeons were reportedly stolen by breaking open a cage in which they were kept. These pigeons had been housed at the Dehiwala Zoo under court orders, having been presented as evidence in various legal cases.
+
+As a disciplinary measure, the officer in charge of the section where the pigeons were kept has been suspended, according to Deputy Director Samarasekara.
+
+However, the Dehiwala Police have stated that no information has yet been reported regarding any suspects or the whereabouts of the stolen pigeons.
+
+A special investigation into the incident has now been launched by the Dehiwala Police.
+
+◼️
+
+[Data](articles/406a3612.json)
+
+[Extended Data](ext_articles/406a3612.ext.json)
+
+---
+
+### Opening of International Archaeological Research Institute
+
+*2025-10-06 14:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-தொல்பொருள்-ஆராய்ச்சி-நிறுவனம்-திறப்பு/175-365815) · `ta`
+
+The inauguration of a two -storey building of the newly constructed Archaeological Museum and International Archaeological Research Institute was held on Monday (06) under the patronage of President Anura Kumara Dissanayake.
+
+For the convenience of those who worship and engage in educational research work, the historic Somavati Rajamaha Vikarapati Mahavihara Vansika Siyamopali Maha Nikkaya, the recruitment of the Malwathu Nikaya, the recruitment of Dr. The two -storey building has been constructed under the planning and supervision of the Archaeological Department, with the full funding of Chairman Deshamanya Mithrapala Langeswara.
+
+The president, who went to the historic Somavati Vihara, was blessed with religious rituals.
+
+The President then opened the name board and opened the new two -storey building of the Archaeological Museum and International Archaeological Research Institute and floral to the Buddha statue and Tandadadu.
+
+...
+
+[Data](articles/dc969ff1.json)
+
+[Extended Data](ext_articles/dc969ff1.ext.json)
+
+---
+
+### Prosecutor arrested for playing a prostitute
+
+*2025-10-06 14:02:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபச்சாரியாக-நடித்த-வழக்கறிஞர்-கைது/175-365814) · `ta`
+
+A lawyer has been arrested on the Internet and on social media, who has been a prostitute and has been involved in various misconduct.
+
+It has also been revealed that the suspect has produced naked photos and posted on the Internet and social media.
+
+He has been arrested in connection with the CIT's Computer Criminal Investigation Department (CID) for allegedly harassing the suspect.
+
+◼️
+
+[Data](articles/19e43d09.json)
+
+[Extended Data](ext_articles/19e43d09.ext.json)
+
+---
+
+### Recovery of weapons in Thematagoda
+
+*2025-10-06 13:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெமட்டகொடையில்-ஆயுதங்கள்-மீட்பு/175-365812) · `ta`
+
+The Criminal Investigation Department of the Colombo Southern Division said that from an abandoned house behind the Dematagoda railway station, a locally manufactured 9mm rifle, a Magasin for a T-56 rifle and two direct T-56 bullets were seized.
+
+According to the confidential information, when the abandoned home test behind the train station, a suspicious package used in a bag used for the sale of rice was discovered.
+
+Later, when checking the house, police said that the locally manufactured 9mm rifle, one magic for the T-56 rifle and two direct T-57 bullets found inside.
+
+Police suspect that someone may have brought these guns to the place, and further investigations will be carried out by inspection of the security camera footage.
+
+◼️
+
+[Data](articles/7feb6f49.json)
+
+[Extended Data](ext_articles/7feb6f49.ext.json)
+
+---
+
+### French Prime Minister Sébastien Lecornu resigns after less than a month
+
+*2025-10-06 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/113252/french-prime-minister-sbastien-lecornu-resigns-after-less-than-a-month) · `en`
+
+France’s new Prime Minister Sebastien Lecornu resigned on Monday (Oct 6), barely 14 hours after appointing his new Cabinet, after allies and foes alike threatened to topple his government, driving French stocks and the euro sharply lower.
+
+His swift resignation was unexpected and unprecedented, and marked another major deepening of France’s political crisis.
+
+The far-right National Rally immediately urged President Emmanuel Macron to call a snap parliamentary election.
+
+After weeks of consultations with political parties across the board, Lecornu, a close ally of Macron, had appointed his ministers on Sunday and they had been set to hold their first meeting on Monday afternoon.
+
+But the new Cabinet line-up had angered opponents and allies alike, who either found it too right-wing or not sufficiently so, raising questions on how long it could last, at a time when France is already mired deep in political crisis, with no group holding a majority in a fragmented parliament.
+
+...
+
+[Data](articles/b0e8dc8b.json)
+
+[Extended Data](ext_articles/b0e8dc8b.ext.json)
+
+---
+
+### French Prime Minister resigns
+
+*2025-10-06 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215400) · `si`
+
+ෆ්‍රැන්කොයිස් බයිරූගේ පෙර රජය බිඳ වැටීමෙන් පසු ලෙකෝර්නු අගමැති ධුරයට පත් වී දින 26ක් ඇතුළත මෙම තීරණ ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තාකරයි.
+
+The Prime Minister announced that the Prime Minister resigned in the Elizel in Elizi after meeting LECORN and French President Emanuel McConon this morning.
+
+◼️
+
+[Data](articles/14efd3b7.json)
+
+[Extended Data](ext_articles/14efd3b7.ext.json)
+
+---
+
+### 30 Pigeons Stolen from Dehiwala National Zoological Gardens; Police Launch Investigation
+
+*2025-10-06 13:46:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/30-pigeons-stolen-from-dehiwala-national-zoological-gardens-police-launch-investigation) · `en`
+
+COLOMBO (News 1st): 30 Pigeons have reportedly been stolen from the Dehiwala National Zoological Gardens.According to police, the theft had taken place around 2 a.m. on lasy Sunday, October 04.Investigations are currently underway to apprehend the suspects involved.
+
+◼️
+
+[Data](articles/689ae475.json)
+
+[Extended Data](ext_articles/689ae475.ext.json)
+
+---
+
+### President inaugurates Museum and International Research Institute at Somawathi Sacred Site
+
+*2025-10-06 13:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113251/president-inaugurates-museum-and-international-research-institute-at-somawathi-sacred-site) · `en`
+
+The newly constructed two-storey building housing the Archaeological Museum and the International Archaeological Research Institute at the historic Somawathi sacred area in Polonnaruwa was declared open today (06) under the patronage of President Anura Kumara Dissanayake.
+
+The two-storey building was constructed under the supervision of the Department of Archaeology, following the guidance of the Chief Incumbent of the historic Somawathi Raja Maha Vihara and Registrar of the Mahavihara Vansika Syamopali Maha Nikaya of the Malwatta Chapter, the Most Venerable Dr. Pahamune Sri Sumangala Nayaka Thero.
+
+The project was fully funded through private funding to facilitate the convenience of devotees from around the world who visit the historic Somawathi Chaityarajaya in Polonnaruwa where the Sacred Right Tooth Relic of Lord Buddha is enshrined, as well as those engaged in educational and research activities, the President’s Media Division (PMD) said.
+
+...
+
+[Data](articles/8ed846b4.json)
+
+[Extended Data](ext_articles/8ed846b4.ext.json)
+
+---
+
+### WhatsApp Group, named "Dubai"; Young couple arrested!
+
+*2025-10-06 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/227016) · `ta`
+
+Polgahawela police said that a young couple has been arrested in the city of Kurunegala - Polgahawela on Sunday afternoon.
+
+The suspects have been arrested in connection with the information received by the Polgahawela police.
+
+The arrested persons, aged 21 and 27, were a young couple, police said.
+
+A raid carried out a house in the Polgahawela -Mawatha area during the information received during the inquiries conducted by the suspects.
+
+The total mass of heroin, which was seized from the young couple, is 50 grams.
+
+Police investigations have revealed that the suspects were selling heroin using the Easy Cash system in the WhatsApp group as the suspects were operating a WhatsApp group under the name "Dubai".
+
+◼️
+
+[Data](articles/6d6a74f8.json)
+
+[Extended Data](ext_articles/6d6a74f8.ext.json)
+
+---
+
+### A stick to the government from the land of land
+
+*2025-10-06 13:32:43* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-කට්ටිකරුවන්ගෙන්-රජයට-දෙකෝටියක-පොල්ලක්/11-418935) · `si`
+
+The latest audit report issued by the Land Survey of Rs.
+
+Under the distribution of a million land deed, landscaped lands had been launched in the construction of the land surveillance (2019,202021) in the past three years (2019,202021). The Commission had paid a sum of money (33,229,486.36).
+
+Surveys were taken to recover from the land of the Land Surveys at the Commission's lands belonging to the Land Survey. The landmen have recovered a sum of Rs.
+
+(9,954,377.00) The audit recommended that the lands should be charged at the Land of Lands. The Audit Report which has released the year 2024 by the Land Reform Commission of the Commission.
+
+◼️
+
+[Data](articles/c3585e3a.json)
+
+[Extended Data](ext_articles/c3585e3a.ext.json)
+
+---
+
+### Piliyandala Drug Bust: Duo Nabbed with Heroin and Ice
+
+*2025-10-06 13:32:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/piliyandala-drug-bust-duo-nabbed-with-heroin-and-ice) · `en`
+
+COLOMBO (News 1st): Two suspects have been arrested in Bokundara, Piliyandala with two kilograms of heroin and 500 grams of Ice in their possession.Police stated that the arrests were made during a raid carried out by officers of the Police Special Task Force (STF).According to Police, the two suspects are believed to be operatives of a local drug network linked to a wanted organized criminal named Avishka, who is currently hiding overseas.The suspects and the seized narcotics have been handed over to the Police Narcotics Bureau for further investigations.
+
+◼️
+
+[Data](articles/54f11211.json)
+
+[Extended Data](ext_articles/54f11211.ext.json)
+
+---
+
+### 339 crores were paid to customs without anxilla
+
+*2025-10-06 13:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇගලල-නතව-රගවට-කට-339-ක-පඩ-ගවල/1-680790) · `si`
+
+2335 Sri Lanka Customs Officers in Sri Lanka, Overtime, Holidays, have been issued by Rs 339 million rupees (3,35,867,121) without using the finger print.
+
+According to administrative law and circulars, all public servants are essential to address their attendance and leave.
+
+The total amount of Rs.. (2,308,694,777)
+
+The Charges of Customs and the Information Technology Communications fund (1,087,172,344) were paid by Rs.
+
+Audit sections say that these employees will be opened up to 24 hours a day and have been proved to prove that all payments are paid to all payments.
+
+Public Accounts Committee (Capa) had recommended that the relevant authorities should be made to form properly in order to formulate the fingerprints or any such officials.
+
+This is stated in the audit of the 2024 Performance Report on Customs.
+
+◼️
+
+[Data](articles/7e0df75f.json)
+
+[Extended Data](ext_articles/7e0df75f.ext.json)
+
+---
+
+### 339 crores were paid to customs without anxilla
+
+*2025-10-06 13:30:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇගලල-නතව-රගවට-කට-339-ක-පඩ-ගවල/101-680790) · `si`
+
+2335 Sri Lanka Customs Officers in Sri Lanka, Overtime, Holidays, have been issued by Rs 339 million rupees (3,35,867,121) without using the finger print.
+
+According to administrative law and circulars, all public servants are essential to address their attendance and leave.
+
+The total amount of Rs.. (2,308,694,777)
+
+The Charges of Customs and the Information Technology Communications fund (1,087,172,344) were paid by Rs.
+
+Audit sections say that these employees will be opened up to 24 hours a day and have been proved to prove that all payments are paid to all payments.
+
+Public Accounts Committee (Capa) had recommended that the relevant authorities should be made to form properly in order to formulate the fingerprints or any such officials.
+
+This is stated in the audit of the 2024 Performance Report on Customs.
+
+◼️
+
+[Data](articles/4640c030.json)
+
+[Extended Data](ext_articles/4640c030.ext.json)
+
+---
+
+### Police Probe Over 8,000 Complaints via IGP’s WhatsApp Hotline
+
+*2025-10-06 13:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/police-probe-over-8-000-complaints-via-igp%e2%80%99s-whatsapp-hotline) · `en`
+
+COLOMBO (News 1st): Sri Lanka Police have launched investigations into complaints received via the WhatsApp number introduced by the Inspector General of Police (IGP) to report on illegal drugs and organized crime.According to police, these complaints are being forwarded to the relevant police stations for further inquiries and follow-up action.Over 8,000 complaints have been received through the dedicated WhatsApp number (071–8598888), which was introduced by IGP Attorney-at-law Priyantha Weerasuriya, to allow the public to report information related to illegal drugs, organized crime, and other issues.However, police further noted that some of the messages received are unrelated to their responsibilities. Therefore, the public is requested to submit only police-relevant complaints through this number to ensure effective response and investigation.
+
+◼️
+
+[Data](articles/eeb87e04.json)
+
+[Extended Data](ext_articles/eeb87e04.ext.json)
+
+---
+
+### Passenger arrested at BIA while attempting to smuggle foreign cigarettes worth over Rs. 1.35 mln
+
+*2025-10-06 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/113250/passenger-arrested-at-bia-while-attempting-to-smuggle-foreign-cigarettes-worth-over-rs-135-mln) · `en`
+
+A Sri Lankan passenger has been arrested at the Bandaranaike International Airport (BIA) by officers of the Police Narcotics Bureau (PNB) while attempting to smuggle a consignment of foreign-manufactured cigarettes worth Rs.1.35 million into the country.
+
+The 48-year-old suspect who had worked as an electrician in Dubai, for three and a half years was arrested earlier this morning (06).
+
+He had arrived at the Katunayake Airport from Dubai on FitsAir 8D 822 at 05.20 a.m. today.
+
+Upon inspection, officials discovered 45 cartons of cigarettes containing 9,000 sticks of foreign cigarettes concealed in his luggage, disguised as boxes containing laundry detergent, chocolates and perfumes.
+
+The suspect, along with the seized cigarettes, is scheduled to be produced before the Negombo Magistrate’s Court on 08 October 2025.
+
+◼️
+
+[Data](articles/fd00e2e5.json)
+
+[Extended Data](ext_articles/fd00e2e5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 05:57:42**
+As of **2025-10-06 07:05:40**
 
 ## Newspaper Stats
 
-*Scraped **81,416** Articles*
+*Scraped **81,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,40 @@ dailyftlk | 5,664
 adalk | 7,795
 adaderanalk | 10,460
 tamilmirrorlk | 12,083
-virakesarilk | 13,392
+virakesarilk | 13,393
 adaderanasinhalalk | 13,992
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,407 (100.0%) of 81,416 articles have been extended.
+81,415 (100.0%) of 81,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### இன்றைய வானிலை
+
+*2025-10-06 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/226991) · `ta`
+
+மாலை வேளையில் இடியுடன் கூடிய மழை செய்வதற்கு வளிமண்டலவியல் நிலைமைகள் உகந்ததாகக் காணப்படுகின்றது. இடியுடன் கூடிய மழை பெய்கின்ற வேளைகளில் பலத்த காற்றும் பாரிய மின்னல் தாக்கங்களும் ஏற்படக்கூடும். இதன்போது ஏற்படுகின்ற இழப்புக்களை அல்லது சேதங்களை தவிர்த்துக் கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை மேற்கொள்ளுமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகின்றனர்.
+
+நாட்டின் பெரும்பாலான பகுதிகளின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+வடக்கு, கிழக்கு, வடமத்திய, மத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் 50 mm இலும் கூடிய ஓரளவு பலத்த மழை பெய்யக்கூடும்.
+
+மேல் மற்றும் வடமேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையிலும் மழை பெய்யக்கூடும். ‌
+
+நாட்டை சூழ உள்ள   கடல் பிராந்தியங்களின் பல இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 25 - 35 km வேகத்தில் தென்மேற்குத் திசையில் இருந்து அல்லது மாறுபட்ட திசைகளில் இருந்து காற்று வீசும்.
+
+...
+
+[Data](articles/a385adaa.json)
+
+---
 
 ### World Residential Day Event led by President
 
@@ -565,6 +587,8 @@ In a move to accelerate the evolution of digital financial services, the newly f
 
 [Data](articles/85ea629a.json)
 
+[Extended Data](ext_articles/85ea629a.ext.json)
+
 ---
 
 ### Fitch Lanka issues September 2025 corporate ratings
@@ -585,6 +609,8 @@ JXG partners with Foundation of Goodness to empower Monaragala community
 
 [Data](articles/f2d754d0.json)
 
+[Extended Data](ext_articles/f2d754d0.ext.json)
+
 ---
 
 ### Nation Lanka Finance clarifies fraud allegations
@@ -604,6 +630,8 @@ NLFP vehemently denies any involvement in the alleged fraudulent scheme and wish
 ...
 
 [Data](articles/a0f581dc.json)
+
+[Extended Data](ext_articles/a0f581dc.ext.json)
 
 ---
 
@@ -723,6 +751,8 @@ In establishing a new office in Kandy, Dijital Team aims to increase employment 
 
 [Data](articles/576a8848.json)
 
+[Extended Data](ext_articles/576a8848.ext.json)
+
 ---
 
 ### JXG partners with Foundation of Goodness to empower Monaragala community
@@ -739,6 +769,8 @@ Ramesh Schaffter, MD/Group CEO of JXG, stated that the partnership aligns with t
 
 [Data](articles/fac32713.json)
 
+[Extended Data](ext_articles/fac32713.ext.json)
+
 ---
 
 ### Luxury retirement living in Negombo by Grand Leisure Care
@@ -750,6 +782,8 @@ Sri Lanka’s premier luxury aged care facility, Grand Leisure Care & Wellness R
 ...
 
 [Data](articles/6afecba7.json)
+
+[Extended Data](ext_articles/6afecba7.ext.json)
 
 ---
 
@@ -764,6 +798,8 @@ Arimac’s journey has been defined by a human-centric philosophy. Its proprieta
 ...
 
 [Data](articles/fe652019.json)
+
+[Extended Data](ext_articles/fe652019.ext.json)
 
 ---
 
@@ -1914,21 +1950,5 @@ D Silva said the group was confused by the proposal of the Highway Ministry to c
 [Data](articles/b1a1d392.json)
 
 [Extended Data](ext_articles/b1a1d392.ext.json)
-
----
-
-### ‘Operation Colombo’ & The Disinformation Game
-
-*2025-10-05 13:14:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/operation-colombo-the-disinformation-game/) · `en`
-
-September saw anniversaries in the chilling deaths of two democratically elected Socialist heads of state during the United States’ led Cold War anti-communist crusade that unfolded across the world between 1948-91: The first assassination of concern here happened in Colombo, the capital of the geostrategic Indian Ocean island of Ceylon on September 25, 1959.
-
-The second death happened half way across the world fourteen years after the assassination of South Asia’s first Socialist Prime Minister SWRD Bandaranaike. On September 11, 1973, President Salvador Allende, South America’s first Socialist head of state died during a US Central Intelligence Agency (CIA), backed coup as military helicopters strafed the Presidential Palace in Santiago de Chile. The campaign of murder, suppression and disinformation against the Left that followed Allende’s death was  Code Named “Operation Colombo”.
-
-...
-
-[Data](articles/21b855d0.json)
-
-[Extended Data](ext_articles/21b855d0.ext.json)
 
 ---

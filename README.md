@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 22:55:28**
+As of **2025-10-06 23:20:31**
 
 ## Newspaper Stats
 
-*Scraped **81,671** Articles*
+*Scraped **81,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,809
-adaderanalk | 10,492
+adaderanalk | 10,493
 tamilmirrorlk | 12,120
 virakesarilk | 13,446
 adaderanasinhalalk | 14,023
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,671 (100.0%) of 81,671 articles have been extended.
+81,672 (100.0%) of 81,672 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -351,6 +351,28 @@ He also played a key role in the team's victory in the final match against Austr
 
 ---
 
+### Gaza ceasefire talks begin in Egypt
+
+*2025-10-06 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113272/gaza-ceasefire-talks-begin-in-egypt) · `en`
+
+Delegations from Israel and Hamas began indirect negotiations in Egypt on Monday that the U.S. hopes will bring a halt to the war in Gaza, facing contentious issues such as demands that Israel pull out of the enclave and Hamas to disarm.
+
+Israel and Hamas have both endorsed the overall principles behind President Donald Trump’s plan, under which fighting would cease, hostages go free and aid pour into Gaza, the closest they have come to an end to fighting.
+
+The plan also has the backing of Arab and Western states. Trump has called for negotiations to take place swiftly towards a final deal, in what Washington hails as the closest the sides have yet come to ending the fighting.
+
+“I am told that the first phase should be completed this week, and I am asking everyone to MOVE FAST,” Trump said in a social media post.
+
+But both sides are seeking clarifications of crucial details, including over issues that have wrecked all previous attempts to end the war and could defy any quick resolution.
+
+...
+
+[Data](articles/a062d86b.json)
+
+[Extended Data](ext_articles/a062d86b.ext.json)
+
+---
+
 ### Bellanwila Rajamaha Vihara's "Menika" elephant death
 
 *2025-10-06 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227059) · `ta`
@@ -409,7 +431,13 @@ HIV is one of the most serious sexually transmitted viruses in the world, known 
 
 It directly attacks the body’s immune system, weakening it, and making the body vulnerable—even a minor illness such as a cough or cold can become fatal. This is one of the most dangerous aspects of the virus, according to health authorities.
 
-◼️
+Meanwhile, health authorities have identified three primary ways HIV can be transmitted:
+
+HIV is not spread through kissing an infected individual. Instead, the virus is transmitted through sexual fluids. Anal intercourse is considered one of the leading risk factors for HIV transmission.
+
+If HIV enters the body through such unprotected sexual contact, the virus can spread throughout the system within approximately 72 hours.
+
+...
 
 [Data](articles/819e0a3e.json)
 
@@ -2054,25 +2082,5 @@ It is noteworthy that 62 -year -old Sen Thiruchelvam belongs to 5 world records.
 [Data](articles/5728b88c.json)
 
 [Extended Data](ext_articles/5728b88c.ext.json)
-
----
-
-### Actress Rashmika Mantana starrer 'The Girl Friend'
-
-*2025-10-06 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/227027) · `ta`
-
-Actress Rashmika Mantana, who is a dream virgin who occupies millions of fans worldwide through the film 'Pushpa 2', has been officially announced on the date of the release of 'The Girl Front'.
-
-Actor and director Rahul Raveendran starred in the film 'The Girl Front' starring Rashmika Mantana, Deekshit Shetty, Rao Ramesh, Rohini and many others.. Hesham Abdul Wahab has composed the film, which is being recorded by Krishnan Vasant.
-
-The film is being produced by the producers Theraj & Vidya, which is being prepared for a youthful love story.. The film is presented by Geeta Arts Company producer Allu Aravind.
-
-The songs of the film have been released and fascinated by the fans ... The film is expected to be released in Tamil and Telugu on the seventh of November at the film House.. The video that has been released has attracted a lot of fans.
-
-◼️
-
-[Data](articles/db7911bb.json)
-
-[Extended Data](ext_articles/db7911bb.ext.json)
 
 ---

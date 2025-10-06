@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 12:38:52**
+As of **2025-10-06 12:55:51**
 
 ## Newspaper Stats
 
-*Scraped **81,490** Articles*
+*Scraped **81,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,801
 adaderanalk | 10,468
-tamilmirrorlk | 12,099
+tamilmirrorlk | 12,100
 virakesarilk | 13,393
 adaderanasinhalalk | 14,005
 
@@ -27,23 +27,37 @@ adaderanasinhalalk | 14,005
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,485 (100.0%) of 81,490 articles have been extended.
+81,485 (100.0%) of 81,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
 
+### குப்பை மேட்டிலிருந்து துப்பாக்கி மீட்பு
+
+*2025-10-06 12:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குப்பை-மேட்டிலிருந்து-துப்பாக்கி-மீட்பு/175-365810) · `ta`
+
+உள்நாட்டில் தயாரிக்கப்பட்ட ரிவால்வர் ரக துப்பாக்கி ஒன்று மாதம்பிட்டிய குப்பை மேட்டில் கண்டெடுக்கப்பட்டுள்ளதாக கிராண்ட்பாஸ் பொலிஸார் தெரிவித்துள்ளனர்.
+
+அந்தப் பகுதியை கடந்து சென்ற ஒருவர், களனி பொலிஸ் சிறப்பு அதிரடிப்படை முகாமின் அதிகாரிகளுக்கு வழங்கிய தகவலின் அடிப்படையில் இந்த துப்பாக்கி மீட்கப்பட்டது.
+
+◼️
+
+[Data](articles/1f68a7c0.json)
+
+---
+
 ### கிரிக்கெட் பந்தை எடுக்க முயன்ற  மாணவன் நீரில் மூழ்கி பலி
 
 *2025-10-06 12:19:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-பந்தை-எடுக்க-முயன்ற-மாணவன்-நீரில்-மூழ்கி-பலி/175-365809) · `ta`
 
-திக்வெல்லவில் உள்ள தனது பாடசாலையில் நீச்சல் குளத்தில் விழுந்த கிரிக்கெட் பந்தை எடுக்க முயன்ற 17 வயது பாடசாலை மாணவன் நீரில் மூழ்கி உயிரிழந்தார்.
+திக்வெல்லவில் உள்ள தனது பாடசாலையில் நீச்சல் தாடாகம் விழுந்த கிரிக்கெட் பந்தை எடுக்க முயன்ற 17 வயது பாடசாலை மாணவன் நீரில் மூழ்கி உயிரிழந்தார்.
 
 உயிரிழந்த மாணவன் திக்வெல்ல, விஜித மகா வித்தியாலயத்தில் 12 ஆம் வகுப்பு படிக்கும் மாணவர் என அடையாளம் காணப்பட்டுள்ளார்.
 
-மாணவர் தனது வகுப்பு நண்பர்களுடன் கிரிக்கெட் விளையாடிக் கொண்டிருந்த போது, பந்து தற்செயலாக குளத்தில் விழுந்ததாக பொலிஸார் தெரிவித்தனர்.
+மாணவர் தனது வகுப்பு நண்பர்களுடன் கிரிக்கெட் விளையாடிக் கொண்டிருந்த போது, பந்து தற்செயலாக நீச்சல் தாடாகத்தில் விழுந்ததாக பொலிஸார் தெரிவித்தனர்.
 
-மீட்க அவர் தண்ணீரில் இறங்கிய போது மீண்டும் மேலே வர முடியவில்லை அதனால் நீரில் மூழ்கி உயிரிழந்தார்
+மீட்க அவர் தண்ணீரில் இறங்கிய போது மீண்டும் மேலே வர முடியவில்லை அதனால் நீரில் மூழ்கி உயிரிழந்தார்.
 
 ◼️
 
@@ -2032,21 +2046,5 @@ The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be
 [Data](articles/a9b89d08.json)
 
 [Extended Data](ext_articles/a9b89d08.ext.json)
-
----
-
-### Cricket Test among the World Cup is essential at the Mount Lavinia Hotel
-
-*2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ලක-කසලනය-අතර-කරකට-තරදකක-ගලකසස-හටලයද-අතනත-ගනත/101-680765) · `si`
-
-While he was in Sri Lanka, England indoor males leader Nain Patel and Malory Marryal Bartosh were engaged in today.
-
-The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be held at the Austyresia Domestic Cricket Stadium in Thalawathugoda.
-
-◼️
-
-[Data](articles/4dc745e9.json)
-
-[Extended Data](ext_articles/4dc745e9.ext.json)
 
 ---

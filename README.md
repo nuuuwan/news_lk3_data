@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 00:23:39**
+As of **2025-10-07 00:37:53**
 
 ## Newspaper Stats
 
-*Scraped **81,673** Articles*
+*Scraped **81,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ lankadeepalk | 894
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
-dailyftlk | 5,664
+dailyftlk | 5,666
 adalk | 7,809
 adaderanalk | 10,493
 tamilmirrorlk | 12,121
@@ -27,11 +27,41 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,673 (100.0%) of 81,673 articles have been extended.
+81,673 (100.0%) of 81,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### Elevating Sri Lankan brands on the global stage
+
+*2025-10-06 23:03:39* · [`dailyftlk`](https://www.ft.lk/business/Elevating-Sri-Lankan-brands-on-the-global-stage/34-782625) · `en`
+
+Creativity is a driving force behind business growth and cultural influence. Jonathan Joseph, an AOD graduate, exemplifies how Sri Lankan design talent can shape both local and international markets through strategic, commercially-minded creativity.
+
+A graduate of AOD’s BA (Hons) Graphics and Visual Communication Design program, awarded by Northumbria University UK, Jonathan began his journey with the AOD Foundation program, which provided a solid platform for his creative and entrepreneurial development. Today, he runs his own design studio, specialising in brand identity and packaging, and is evolving his practice into Brandkind, a multidisciplinary agency with ambitions to serve global markets across branding, packaging, 3D, and digital design.
+
+...
+
+[Data](articles/f000266a.json)
+
+---
+
+### Signature partners CH17 Loyalty to elevate style with rewards
+
+*2025-10-06 23:00:38* · [`dailyftlk`](https://www.ft.lk/business/Signature-partners-CH17-Loyalty-to-elevate-style-with-rewards/34-782624) · `en`
+
+Signature Director Amjad Hameed Marikkar (right) displaying partnership card with CH17 Loyalty CEO Jumar Preena
+
+Loyalty and rewards management platform CH17 Loyalty, has announced its partnership with menswear brand – Signature. CH17 Loyalty CEO Jumar Preena said this collaboration marks yet another step forward in CH17’s mission to deliver unmatched privileges and lifestyle experiences to its growing base of discerning members.
+
+CH17 Loyalty is built on the principle of understanding customer behaviour and aligning rewards with real needs. Menswear remains a high-demand category within Sri Lanka’s retail landscape, particularly among young professionals, executives, and the aspirational middle class.
+
+...
+
+[Data](articles/b20ffc6e.json)
+
+---
 
 ### Vijay Deverakonda
 
@@ -2050,43 +2080,5 @@ Parliamentarian Jagadeeswaran, Divisional Secretaries, Planning Officer, Mannar 
 [Data](articles/98bbeb36.json)
 
 [Extended Data](ext_articles/98bbeb36.ext.json)
-
----
-
-### The benefit of the coin to New Zealand
-
-*2025-10-06 14:58:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-නවසීලන්තයට/9-418938) · `si`
-
-The match will be played between Navy and South Africa in the 2025 Women's ODI World Cup.
-
-New Zealand decided to bat first, winning the toss of the match.
-
-◼️
-
-[Data](articles/b761fb09.json)
-
-[Extended Data](ext_articles/b761fb09.ext.json)
-
----
-
-### Opening of a suddenly closed police station
-
-*2025-10-06 14:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-மூடப்பட்ட-பொலிஸ்-நிலையம்-திறப்பு/175-365819) · `ta`
-
-The police station, located inside the Bandaranaike Memorial International Conference Hall (BMICH), has been reopened after a sudden shutdown of official orders.
-
-Following the order received on October 3, the station was closed and all its assets were removed, including weapons, ammunition, books and records, the police headquarters said.. However, the subsequent order led to the reinstall of it after a day.
-
-The station has now resumed functions with a lower number of officers compared to the previous hiring.
-
-A senior police officer confirmed that special police news has been published by the BMICH station to instruct all equipment from the Borella police station.. The message did not mention the reasons for the sudden closure.
-
-Sources said that all the officers appointed at the BMICH station have been temporarily transferred to Cinnamon and Borella police stations.
-
-...
-
-[Data](articles/1c7d23da.json)
-
-[Extended Data](ext_articles/1c7d23da.ext.json)
 
 ---

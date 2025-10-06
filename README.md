@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 01:38:37**
+As of **2025-10-07 01:56:23**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,679 (100.0%) of 81,680 articles have been extended.
+81,680 (100.0%) of 81,680 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1169,21 +1169,25 @@ Agent Felicity Blunt said Cooper had “defined culture, writing and conversatio
 
 ---
 
-### தாஜூதீன் கொலை தொடர்பில் வெகுவிரைவில் உண்மைகள் வெளிப்படுத்தப்படும்  - பிரதி அமைச்சர் சுனில் வட்டகல
+### Facts will be revealed soon in connection with the murder of Tajuddin - Deputy Minister Sunil Vatagala
 
 *2025-10-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/227031) · `ta`
 
-றக்பி வீரர் வசீம் தாஜூதீன் கொலையுடன் தொடர்புடைய விசாரணைகள் தீவிரமடைந்துள்ளதால் சிலர் கலக்கமடைந்துள்ளனர். அந்த கலக்கத்துக்கும் தாஜூதீன் கொலைக்குமிடையிலான தொடர்புகள் என்ன என்பது வெகுவிரைவில் நாட்டுக்கு வெளிப்படுத்தப்படும் என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் பிரதி அமைச்சர் சுனில் வட்டகல தெரிவித்தார்.
+Investigations related to the murder of rugby player Wasim Tajuddin are intensifying. Deputy Minister of Public Security and Parliamentary Affairs Sunil Vattakala said that the connections between the confusion and the murder of Tajuddin will soon be expressed to the country.
 
-திங்கட்கிழமை (06) ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated that he was speaking to the media on Monday (06).
 
-வசீம் தாஜூதீன் கொலையுடன் தொடர்புடைய விசாரணைகள் சிறந்த முறையில் முன்னெடுக்கப்பட்டு வருகின்றன. இதன் காரணமாகவே சிலர் கலக்கமடைந்துள்ளனர். இந்த கலக்கத்துக்கும் தாஜூதீன் கொலைக்குமிடையிலான தொடர்புகள் என்ன என்பது விசாரணைகள் மூலம் வெளிப்படும். குறிப்பிட்டவொரு குடும்பமே இவ்வாறு அளவுக்கதிக கலக்கத்தில் உள்ளது.
+Investigations related to the murder of Wasim Tajuddin are being carried out best. This is why some people are upset. Investigations reveal what the connections between this confusion and the murder of Tajuddin. A certain family is so much trouble.
 
-அந்த குடும்பம் ராஜபக்ஷ குடும்பமா இல்லது வேறு குடும்பமா என்பதை எம்மால் கூற முடியாது. ஆனால் விசாரணைகளுக்கமைய உண்மைகள் வெளிப்படுத்தப்படும்.
+We cannot say whether the family is a Rajapaksa family or a different family. But the facts will be revealed according to the hearing.
 
-...
+The affidavits of the arrested will be obtained. Further inquiries will be carried out without any obstacles based on information available from such affidations.. No one needs to be afraid. He said the facts would be revealed soon to the country through investigations.
+
+◼️
 
 [Data](articles/e710df44.json)
+
+[Extended Data](ext_articles/e710df44.ext.json)
 
 ---
 

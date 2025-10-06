@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 20:21:22**
+As of **2025-10-06 21:07:38**
 
 ## Newspaper Stats
 
-*Scraped **81,612** Articles*
+*Scraped **81,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,150 @@ newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 874
+lankadeepalk | 881
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,808
-adaderanalk | 10,483
-tamilmirrorlk | 12,117
+adaderanalk | 10,487
+tamilmirrorlk | 12,120
 virakesarilk | 13,425
-adaderanasinhalalk | 14,018
+adaderanasinhalalk | 14,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,612 (100.0%) of 81,612 articles have been extended.
+81,626 (100.0%) of 81,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### අවුරුදු 15 - 29 වයස් අතර HIV ආසාදිතයන් වැඩිවීමක්
+
+*2025-10-06 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215413) · `si`
+
+ශ්‍රී ලංකාවේ අවුරුදු 15 ත් 29ත් යන වයස් කාණ්ඩ අතර HIV ආසාදිතයන් වැඩිවීමේ ප්‍රවණතාවක් ඇති බව සෞඛ්‍ය අංශ අනතුරු අඟවා තිබේ.
+
+වැඩිම ආසාදිතයන් ප්‍රමාණයක් වාර්තා වී ඇත්තේ කොළඹ සහ ගම්පහ දිස්ත්‍රික්කවලින්ය.
+
+HIV යනු ලෝකය තුළ ඇති දැඩි ව්‍යසනයක් ඇති කරන දරුණුතම ලිංගාශ්‍රිත වෛරස අතුරින් ප්‍රධාන වෛරසයකි.
+
+ශරීරයේ ප්‍රතිශක්තිකරණ පද්ධතියට ඍජුවම ප්‍රහාර එල්ල කර ශරීරය දුර්වල කිරීම මෙමඟින් සිදුවන අතර කැස්සක්, හෙම්බිරිස්සාවක් වැනි කුඩා හෝ රෝගයක් වැළඳීමෙන් මරණය පවා සිදුවීම මෙහි ඇති භයානකම තත්ත්වයය.
+
+HIV ආසාදිතයින් නිර්මාණය විය හැකි ප්‍රධාන ආකාර ත්‍රිත්වයක් සෞඛ්‍ය අංශ පෙන්වා දෙයි.
+
+HIV රෝගියෙක් සිප වැළඳගැනීමෙන් මෙම රෝගය බෝවන්නේ නැහැ. ලිංගික තරල හරහායි මේ රෝගය බෝවෙන්නේ. ගුද මාර්ගික සංසර්ගය HIV ඇතිවීමට ප්‍රධානම හේතුවක්. මෙවැනි අනාරක්ෂිත ලිංගික සම්බන්ධතා නිසා ශරීරගත විය හැකි HIV වෛරසය මුළු ශරීරය පුරා පැතිරීමට ගතවෙන්නේ පැය 72ක පමණ කෙටි කාලයක්.
+
+විවිධ මත්ද්‍රව්‍ය එන්නත්කරගැනීමට එකම එන්නත් කටු භාවිත කිරීම මේ තත්තවයට හේතුවන්නට පුළුවන්.
+
+...
+
+[Data](articles/64d79724.json)
+
+---
+
+### The former Minister of Foreign Minister's 40th bank accounts provokes
+
+*2025-10-06 20:11:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-මත-ඇමත-40ග-බක-ගණම-අවසසය/101-680803) · `si`
+
+The Asset Investigation Division of the Criminal Investigation Division of the Criminal Investigation Department including former MPs, including the present MPs and the present MPs, has commenced checking various reports, including bank reports and asset liabilities statements.
+
+When we inquired from the People's Defense and Members of Parliament and Parliamentary Affairs Ananda Wijepala, he said that these investigations were so complex because he had to examine many writings.
+
+He said that a large number of information including banks, including banks, it takes some time to check and verify them.
+
+The Minister said that the complaints were flowing further complaints regarding politicians, claiming that they were adopted.
+
+Meanwhile, police have commenced investigations into a group of former MPs who claim that relations with various underworld gangs. Details of these relations have been revealed in questioning famous underworkers.
+
+◼️
+
+[Data](articles/63f769f3.json)
+
+[Extended Data](ext_articles/63f769f3.ext.json)
+
+---
+
+### MP "PANSION" CARNING Act
+
+*2025-10-06 19:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනතර-පනෂන-කපන-පනත-අවසන-සදසය/101-680802) · `si`
+
+The abolition bill of former Members of Parliament is in the final inspection of the Attorney General's Department these days.
+
+Upon an inquiry from Minister of Justice Attorney at the Hon.
+
+According to government sources, the former MPs' Pension Pension Board is to be presented to Parliament next month.
+
+The removal of former MPs is one of the major election promises given to the national folk force.
+
+If the bill is passed in Parliament, the pension of nearly five hundred MPs and former MPs will lose their pension.
+
+Meanwhile, inquiry by Minister of Justice, Hon.
+
+◼️
+
+[Data](articles/72c7fa25.json)
+
+[Extended Data](ext_articles/72c7fa25.ext.json)
+
+---
+
+### "Mahinda should be executed"
+
+*2025-10-06 19:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-தூக்கிலிட-வேண்டும்/175-365841) · `ta`
+
+Field Marshal Sarath Fonseka, who launched a fierce attack on former President Mahinda Rajapakse, accused him of misusing corruption, treachery and state property. At the same time, according to the Constitution, Rajapaksa said that "worthy of the death penalty."
+
+Commenting on Rajapakse's media spokesman's statement on delays in handing over the official residence of the former president's Wijerama, Fonseka accused the illegal state assets from the President's House and the Alari House to illegally relocated to a private residence.
+
+Fonseka mocked the explanation of the media spokesman's claim that the Rajapaksa camp was waiting for the government departments to complete the list of government assets before the removal of personal items.
+
+“To repair the house Rs. Rs.. Do you believe that Mahinda Rajapaksa, who has spent 500 million, will bring at least a coconut that has bought on his own money? "
+
+...
+
+[Data](articles/b0fd73ed.json)
+
+[Extended Data](ext_articles/b0fd73ed.ext.json)
+
+---
+
+### රාජපක්ෂලාට එරෙහි වන SF
+
+*2025-10-06 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215412) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට එරෙහිව දැඩි පියවර ගත යුතු බව ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා පවසයි.
+
+...
+
+[Data](articles/3d1aa7be.json)
+
+---
+
+### It is difficult to solve some emergency problems-minister
+
+*2025-10-06 19:39:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-அவசரகால-பிரச்சினைகளுக்கு-தீர்வு-காண்பது-கடினம்-அமைச்சர்/175-365840) · `ta`
+
+Health Minister Dr. Nalinda Jayatissa today said that some laws and regulations have become a barrier to solving the current drug deficiency.
+
+He said this while addressing the inauguration of the Vibasi Buddhist Center at the Colombo National Hospital.
+
+The Minister of Health said that although some laws and regulations were preceding the British colonial period, most laws and regulations were interconnected.
+
+“Some may question whether these laws cannot be ignored when the government has two -thirds majority and administrative powers. Many of these laws and regulations are not recent, but they need to understand that they are pre -Era, ”he said.
+
+He said it was difficult to solve some emergency problems when taking a certain deadline, following some laws.
+
+◼️
+
+[Data](articles/68b4f932.json)
+
+[Extended Data](ext_articles/68b4f932.ext.json)
+
+---
 
 ### Four Dead, Three Injured in Road Accidents Across Sri Lanka
 
@@ -44,6 +168,26 @@ COLOMBO (News 1st) : Four people have died and three others sustained injuries i
 [Data](articles/46b6fb2b.json)
 
 [Extended Data](ext_articles/46b6fb2b.ext.json)
+
+---
+
+### "Kammanpila and Wimal have been talking like Luz for a long time"
+
+*2025-10-06 19:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பிலவும்-விமலும்-நீண்ட-காலமாக-லூசு-போல்-பேசி-வருகின்றனர்/175-365839) · `ta`
+
+Deputy Minister Mahinda Jayasinghe today said that politicians like Wimal Weerawansa and Udaya Kammanpila should be prepared to face the investigation if they continue to speak stupidly.
+
+“Wimal Weerawansa, Kammanpila and Opposition Committee thinks this is just like previous governments. They can no longer speak stupidly. If they speak stupidly, they should be prepared to face inquiries and inquiries into their reports, ”he said.
+
+Responding to a question of whether Wimal Weerawansa was invited to record the confession, Deputy Minister said this.
+
+“Kammanpila has been speaking for a long time. Wimal Weerawansa is talking stupidly. I would like to say that all the politicians who speak such a stupid politicians are ready to face investigations with evidence. ”
+
+◼️
+
+[Data](articles/3e2b079b.json)
+
+[Extended Data](ext_articles/3e2b079b.ext.json)
 
 ---
 
@@ -67,6 +211,30 @@ Responding to a question of whether Wimal Weerawansa was invited to record the c
 
 ---
 
+### දොළුවේ මාරක අනතුරේ තවත් තොරතුරු එළියට
+
+*2025-10-06 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215411) · `si`
+
+පොහොය දිනයේ සිල් සමාදන්ව සිටි කාන්තාවන් තිදෙනෙක් මෝටර් රථයක ගැටී ජීවිතක්ෂයට පත්වීමේ අනුවේදනීය පුවතක් ගම්පොළ දොළුව ප්‍රදේශයෙන් අද (06) වාර්තාවුණි.
+
+මෝටර් රථය පැදවූ කාන්තාවගේ අපරික්ෂාකාරී රිය ධාවනය අනතුරට හේතුව බවට පොලීසිය සැක පළ කරයි.
+
+අනතුරට ලක්වූයේ වප් පොහෝදා ගම්පොළ දොළුව ශ්‍රී බිම්බාරාම විහාරස්ථානයේ සිල් සමාදන්ව සිටි වැඩිහිටි කාන්තාවන් සිව්දෙනෙකි.
+
+එම කාන්තාවන් දහවල් දානය ගෙන සනීපාරක්ෂක කෘත්‍ය ඉටුකර ගැනීම සඳහා විහාරස්ථානයෙන් පිටත ඇති වැසිකිළි වෙත යමින් සිටිය දී දහවල් 1.30ට පමණ මෙම ඛේදවාචකයට මුහුණ දී තිබුණි.
+
+එහිදී ඔවුන් ප්‍රධාන මාර්ගය අයිනෙන් ගමන් කරමින් සිටියදී පිටුපසින් පැමිණි මෝටර් රථයක් ඔවුන් සිව්දෙනාගේ ගැටී අසල තිබූ ලොරි රථයකද ගැටී නතර වී ඇත.
+
+එලෙස ගැටුණු ඔවුන් මෝටර් රථයට සහ අනෙක් පසෙක වූ ලොරි රථයට මැදිවී බරපතළ තුවාල ලබා තිබුණි.
+
+කාන්තාවන් සිව්දෙනා අතරින් තිදෙනෙකු එම ස්ථානයේදීම ජීවිතක්ෂයට පත්වූ බව පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/953ed3ed.json)
+
+---
+
 ### Sri Lankans to Witness Supermoon Today
 
 *2025-10-06 19:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/sri-lankans-to-witness-supermoon-today) · `en`
@@ -78,6 +246,46 @@ COLOMBO (News 1st): Sri Lankans will have a rare chance to witness a supermoon t
 [Data](articles/aede5154.json)
 
 [Extended Data](ext_articles/aede5154.ext.json)
+
+---
+
+### Israel deports 171 Gaza flotilla activists, including Greta Thunberg
+
+*2025-10-06 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113266/israel-deports-171-gaza-flotilla-activists-including-greta-thunberg) · `en`
+
+Israel said it deported on Monday (Oct 6) campaigner Greta Thunberg and another 170 activists from an international flotilla it had prevented last week from delivering aid to Gaza, sending them to Greece and Slovakia.
+
+Earlier, Swiss and Spanish activists from the flotilla said they were subjected to inhumane conditions during their detention by Israeli forces. Monday’s expulsions brought to 341 the total number deported from 479 detained.
+
+Israel’s foreign ministry issued a statement, accompanied by photos of Thunberg at the airport, saying all participants’ legal rights had been upheld and the only violence involved an activist who bit a female medic at Israel’s Ketziot prison.
+
+An Israeli foreign ministry spokesperson said Thunberg, a Swedish campaigner primarily for climate change, boarded a plane at Ramon airbase in Israel’s Negev Desert. Israel has dismissed the flotilla as a publicity stunt.
+
+...
+
+[Data](articles/bc3c6462.json)
+
+[Extended Data](ext_articles/bc3c6462.ext.json)
+
+---
+
+### PM Harini to attend NDTV World Summit
+
+*2025-10-06 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113265/pm-harini-to-attend-ndtv-world-summit) · `en`
+
+Prime Minister Dr. Harini Amarasuriya is scheduled to attend the NDTV World Summit 2025 along with Indian Prime Minister Narendra Modi.
+
+The NDTV World Summit 2025 will mark an extraordinary moment in global dialogue, bringing together some of the most influential voices at present.
+
+Among them are two serving Prime Ministers: Narendra Modi of India and Harini Amarasuriya of Sri Lanka; and two former Prime ministers: Rishi Sunak of the United Kingdom and Tony Abbott of Australia.
+
+The Summit is scheduled to be held on 17th and 18th October 2025 in New Delhi and the theme of the 2025 edition will be, ‘Edge of the Unknown: Risk. Resolve. Renewal’.
+
+◼️
+
+[Data](articles/b262e1a9.json)
+
+[Extended Data](ext_articles/b262e1a9.ext.json)
 
 ---
 
@@ -144,6 +352,24 @@ The accident had occurred when a group of women who had come to join the road to
 [Data](articles/b3155dcd.json)
 
 [Extended Data](ext_articles/b3155dcd.ext.json)
+
+---
+
+### One dead, two hospitalised due to drowning near Blue Beach Island
+
+*2025-10-06 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113264/one-dead-two-hospitalised-due-to-drowning-near-blue-beach-island) · `en`
+
+Three individuals have been swept away due strong currents while bathing in seas near the Blue Beach Island in Dikwella, police stated.
+
+Area residents had then acted swiftly to rescue the trio but one person was pronounced dead, according to police.
+
+The body of the deceased has been taken to the Batheegama Hospital, while the other two individuals have been admitted to the Matara General Hospital and are currently receiving treatment in the Intensive Care Unit (ICU).
+
+◼️
+
+[Data](articles/447b1b95.json)
+
+[Extended Data](ext_articles/447b1b95.ext.json)
 
 ---
 
@@ -356,6 +582,28 @@ IGP Priyantha Weerasuriya has been transferred with immediate effect.
 [Data](articles/8e8ef147.json)
 
 [Extended Data](ext_articles/8e8ef147.ext.json)
+
+---
+
+### 32 OICs transferred with immediate effect
+
+*2025-10-06 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113260/32-oics-transferred-with-immediate-effect) · `en`
+
+A total of 32 Officers-in-Charge (OICs) have been transferred and appointed to new positions with the approval of the National Police Commission.
+
+The transfers have been approved by Inspector General of Police Attorney-at-Law Priyantha Weerasooriya and are to be implemented with immediate effect, according to the Police Headquarters.
+
+Among the officers, 26 are Chief Inspectors of Police and six are Inspectors of Police.
+
+A total of nine Chief Inspectors and one Inspector have been reassigned to general duties.
+
+These officers have been relieved of their OIC roles and assigned to other duties as part of the reshuffle, said the Police headquarters.
+
+◼️
+
+[Data](articles/a4d328c1.json)
+
+[Extended Data](ext_articles/a4d328c1.ext.json)
 
 ---
 
@@ -1647,6 +1895,30 @@ COLOMBO (News 1st): Matara District Crime Division has reported that seven suspe
 
 ### An archaeological research in Somawathiya
 
+*2025-10-06 13:03:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සමවතයට-පරවදය-පරයෂණයතනයක/1-680789) · `si`
+
+President Anura Kumara Dissanayake declared open the two storied House with the newly built Archaeological Museum of Polonnaruwa.
+
+The Archaeological Museum and the International Archaeological Research Institute have been built for the convenience of all those who worship the historical research and educational research in Polonnaruwa.
+
+The two-hubs have been constructed with the full donation of the Chairman of the Department of Deshamanya Group Palama Langena, Chairman of the Manwatte Viharaya of the Historic Somathi Rajamaha Viharaya.
+
+The President visited the historic Somother today (06) and acquired religious observances.
+
+The President also opened the new two-hub of the Archaeological Museum and the International Archaeological Research Institute, which has been unveiled and the International Archaeological Research Institute has been placed there.
+
+Chairman of Ratna Group, Deshamanya Mithnappala Lanceepa Langee also presented a souvenir to the President.
+
+◼️
+
+[Data](articles/37eb196b.json)
+
+[Extended Data](ext_articles/37eb196b.ext.json)
+
+---
+
+### An archaeological research in Somawathiya
+
 *2025-10-06 13:03:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සමවතයට-පරවදය-පරයෂණයතනයක/101-680789) · `si`
 
 President Anura Kumara Dissanayake declared open the two storied House with the newly built Archaeological Museum of Polonnaruwa.
@@ -1762,259 +2034,5 @@ The remaining amount has been spent on the Hospital Services Council, and the Na
 [Data](articles/423b953a.json)
 
 [Extended Data](ext_articles/423b953a.ext.json)
-
----
-
-### President declares open the Archaeological Museum and International Archaeological Research Institute
-
-*2025-10-06 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215398) · `si`
-
-President declares open the Archaeological Museum and International Archaeological Research Institute
-
-President Anura Kumara Dissanayake took place this morning under the patronage of President Anura Kumara Dissanayake today (06).
-
-The Archaeological Museum and the International Archaeological Research Institute has been built for the convenience of all those who are working on the world and educational research in the world, to serve the historical research on the Sri Jayawathi Cyrhea which is in the world.
-
-The President who went to the historic Somother this morning (06), the President obtained blessings in the face of religious observances.
-
-The President also opened the new two-hub of the Archaeological Museum and the International Archaeological Research Institute, which has been unveiled and the International Archaeological Research Institute has been placed there.
-
-...
-
-[Data](articles/796adaf5.json)
-
-[Extended Data](ext_articles/796adaf5.ext.json)
-
----
-
-### Postal Trade Unions Opposition to Postal Department Head
-
-*2025-10-06 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/227011) · `ta`
-
-The postal trade unions have said that the postal department officials have condemned the comments made by the Postal Department that the Postal Department officials have illegally obtained additional time.
-
-Accordingly, the President of the Postal and Telecommunication Officers Association, GGC, will come to work on the 9th of this month, in protest of the comments of the Postal Department.. Niroshana said.
-
-Meanwhile, the co -coordinator of the Joint Postal Trade Union Front, Sindaka Bandara stated that the allegations leveled against the postal department officials without any inquiry.
-
-At an event in Haputtala, the head of the Postal Department, Ruwan Satkumara, said that the Postal Department officials had received a number of rupees worth millions of rupees and many irregularities in the postal service.
-
-OT has been provided il il illegally without fingerprint. If so, don't we answer this? We have a workshop. Vehicles are repaired there. Are they repaired? Or not? I don't know that.
-
-...
-
-[Data](articles/709ab4e2.json)
-
-[Extended Data](ext_articles/709ab4e2.ext.json)
-
----
-
-### T-56 Ammuniton Discovered in Kanadarawa; 9mm Gun Seized in Dematagoda
-
-*2025-10-06 12:50:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/t-56-ammuniton-discovered-in-kanadarawa-9mm-gun-seized-in-dematagoda) · `en`
-
-COLOMBO (News 1st): 46 rounds of ammunition used for a T-56 assault rifle have been discovered in paddy fields across Kanadarawa area in Kallanchiya.According to Police, the ammunition rounds were recovered yesterday evening, following a tip-off received through the 119 emergency hotline.Police added that the recovered ammunition rounds appeared to be partially corroded at the time of discovery.Meanwhile, police have recovered a locally manufactured 9mm firearm in Dematagoda, along with a magazine containing two T-56 bullets.According to the police, officers from the Western Province South Crimes Division made the discovery during an operation carried out on a vacant plot of land near the Kelani Valley railway line in Dematagoda.Police said investigations have been launched to identify the owner of the firearm and ammunition.
-
-◼️
-
-[Data](articles/4e83f3dc.json)
-
-[Extended Data](ext_articles/4e83f3dc.ext.json)
-
----
-
-### In Sri Lanka, there is a world session to make big decisions on health
-
-*2025-10-06 12:41:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සඛය-ගන-ලක-තරණ-ගනන-ලක-සසයක-ලකව/101-680787) · `si`
-
-The 78th Region Committee for Southeast Asia of the World Health Organization has decided to hold the 78th Region Committee to be held in Colombo next week.
-
-Health leaders are prominent between healthy aging and drinkless tobacco through strong primary health services.
-
-The session of the 78th Region Committee of the World Health Organization, which will be held from October 13 to 15, is the 78th Region Committee of the World Health Organization.
-
-It is expected to discuss the SLFP reserves to expand the squad of the Southeast Asian Regional Health Emergency Fund and to accelerate microbial resistance.
-
-The Director General of the World Health Organization Director Dr. Tedros Attizas, World Health Organization (World Health Organization) will participate in this session to prepare the health agenda of the World Health Organization.
-
-This regional conference is expected to adopt the proposals of leading health problems and review the progress of the proposals of previous year.
-
-◼️
-
-[Data](articles/27468e0e.json)
-
-[Extended Data](ext_articles/27468e0e.ext.json)
-
----
-
-### In Sri Lanka, there is a world session to make big decisions on health
-
-*2025-10-06 12:41:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සඛය-ගන-ලක-තරණ-ගනන-ලක-සසයක-ලකව/1-680787) · `si`
-
-The 78th Region Committee for Southeast Asia of the World Health Organization has decided to hold the 78th Region Committee to be held in Colombo next week.
-
-Health leaders are prominent between healthy aging and drinkless tobacco through strong primary health services.
-
-The session of the 78th Region Committee of the World Health Organization, which will be held from October 13 to 15, is the 78th Region Committee of the World Health Organization.
-
-It is expected to discuss the SLFP reserves to expand the squad of the Southeast Asian Regional Health Emergency Fund and to accelerate microbial resistance.
-
-The Director General of the World Health Organization Director Dr. Tedros Attizas, World Health Organization (World Health Organization) will participate in this session to prepare the health agenda of the World Health Organization.
-
-This regional conference is expected to adopt the proposals of leading health problems and review the progress of the proposals of previous year.
-
-◼️
-
-[Data](articles/ef634544.json)
-
-[Extended Data](ext_articles/ef634544.ext.json)
-
----
-
-### President Inaugurates Somawathi Museum & International Archaeological Research Institute
-
-*2025-10-06 12:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/president-inaugurates-somawathi-museum-international-archaeological-research-institute) · `en`
-
-COLOMBO (News 1st): The newly constructed Somawathi Archaeological Museum and the two-storied building of the International Archaeological Research Institute at the historic Somawathi Raja Maha Vihara in Polonnaruwa were declared open this morning under the patronage of President Anura Kumara Dissanayake.Meanwhile, today’s Sirasa Namami Vap Poya program was also held at the sacred Somawathi temple premises.The Chief Incumbent of the Somawathi Raja Maha Viharaya, Ven. Pahamune Sumangala Thero, along with members of the Maha Sangha, attended the ceremony. The event also marked the official presentation of the first copy of the Somiwath Thupabhivandana publication to President Anura Kumara Dissanayake and Chief Incumbent of Somawathi Raja Maha Viharaya, Ven. Pahamune Sumangala Thero.
-
-◼️
-
-[Data](articles/0fba68be.json)
-
-[Extended Data](ext_articles/0fba68be.ext.json)
-
----
-
-### Female lawyer arrested under land guarantee complaint in Jaffna
-
-*2025-10-06 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227014) · `ta`
-
-A female lawyer has been arrested by the Jaffna District Finance Crime Police on Monday (06) for allegedly writing land confirmation in Jaffna.
-
-The arrest was carried out for writing lands in the toyveli area and the lawyer from Mallakam has been arrested.
-
-Investigations are being carried out with the arrested lawyer. Police are taking steps to appear in court after investigations.
-
-◼️
-
-[Data](articles/ddb28d22.json)
-
-[Extended Data](ext_articles/ddb28d22.ext.json)
-
----
-
-### Gun recovery from the trash can
-
-*2025-10-06 12:35:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குப்பை-மேட்டிலிருந்து-துப்பாக்கி-மீட்பு/175-365810) · `ta`
-
-Grandpass police said that a locally manufactured revolver rifle has been found on the Mathampitiya garbage junk.
-
-The gun was recovered on the basis of information provided to the authorities of the Kelaniya Police Special Task Force Camp.
-
-◼️
-
-[Data](articles/1f68a7c0.json)
-
-[Extended Data](ext_articles/1f68a7c0.ext.json)
-
----
-
-### Eight patients killed in hospital fire in India’s Jaipur
-
-*2025-10-06 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/113249/eight-patients-killed-in-hospital-fire-in-indias-jaipur) · `en`
-
-At least six critical patients were killed in a fire at the trauma centre of the state-run Sawai Man Singh (SMS) Hospital in Jaipur late Sunday, officials said.
-
-Trauma centre in-charge Dr Anurag Dhakad said 11 patients were being treated in the Neuro ICU when the fire erupted in the storage area, suspected to have been caused by a short circuit.
-
-Prime Minister Narendra Modi expressed grief over the tragedy, saying in a post in Hindi on X, “The loss of lives due to a fire tragedy at a hospital in Jaipur, Rajasthan, is deeply saddening. Condolences to those who have lost their loved ones. May the injured recover soon.” While some reports claimed that eight patients died in the fire, Dr Dhakad and hospital superintendent Dr Sushil Bhati maintained that the number of deaths was six.
-
-The state government has formed a high-level committee to probe the incident.
-
-...
-
-[Data](articles/e73f26fc.json)
-
-[Extended Data](ext_articles/e73f26fc.ext.json)
-
----
-
-### The mysterious items from the dilapidated house!
-
-*2025-10-06 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/227013) · `ta`
-
-The Colombo Southern Police Criminal Investigation Department said that weapons including gun, bullets and Magasin have been found from a dilapidated house in the Colombo -Dematagoda area.
-
-The weapons were found in a raid conducted by the Colombo South Police Criminal Investigation Division.
-
-The police said that the T-56 rifle, bullets and Mahasin were found.
-
-Police suspect that these weapons have been hidden in the dilapidated house for the killing of a underworld gang in the Barathillai -Vanathamulla area.
-
-The Colombo South Police Criminal Investigation Division is conducting further investigations.
-
-◼️
-
-[Data](articles/9202a57d.json)
-
-[Extended Data](ext_articles/9202a57d.ext.json)
-
----
-
-### The student who tried to take the ball that fell into the school swimming lake!
-
-*2025-10-06 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/227010) · `ta`
-
-Dikwella police said that a student was drowned in a swimming lake in a school in Dikwella, Matara.
-
-The deceased is a student in 12th grade, police said.
-
-The cricket ball fell into a swimming lake while the student was engaged in a cricket game at school yesterday.
-
-The student was drowned when the student tried to take the ball in the school swimming lake, police investigations revealed.
-
-◼️
-
-[Data](articles/11c270ac.json)
-
-[Extended Data](ext_articles/11c270ac.ext.json)
-
----
-
-### 1,000 people trapped in Everest
-
-*2025-10-06 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227015) · `ta`
-
-Due to heavy blizzards in the Tibet region of the world's tallest mountain, Everest, the world's tallest peak, about 1,000 people, including trekkers, are unable to get off the mountain.
-
-It has been reported that many people from different countries who were working on trekking camps in the mountains were trapped.
-
-The Chinese rescue personnel are actively engaged in the rescue of these thousand people who have been trapped in the blizzard.
-
-◼️
-
-[Data](articles/c93b8856.json)
-
-[Extended Data](ext_articles/c93b8856.ext.json)
-
----
-
-### A student who tried to take a cricket ball drowned
-
-*2025-10-06 12:19:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிரிக்கெட்-பந்தை-எடுக்க-முயன்ற-மாணவன்-நீரில்-மூழ்கி-பலி/175-365809) · `ta`
-
-A 17 -year -old schoolgirl drowned in his school in Dikwella, who tried to take a swimming cricket ball.
-
-The deceased student Dikwella has been identified as a 12th grade student at Vijitha Maha Vidyalaya.
-
-While the student was playing cricket with his classmates, police said the ball accidentally fell into the swimmer.
-
-When he got into the water to recover, he could not come up again, so he drowned and died.
-
-◼️
-
-[Data](articles/c0cc69a9.json)
-
-[Extended Data](ext_articles/c0cc69a9.ext.json)
 
 ---

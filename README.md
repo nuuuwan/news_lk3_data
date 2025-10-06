@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 15:56:20**
+As of **2025-10-06 16:37:06**
 
 ## Newspaper Stats
 
-*Scraped **81,556** Articles*
+*Scraped **81,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,390 @@ newsfirstlk | 624
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 868
+lankadeepalk | 873
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
 adalk | 7,806
 adaderanalk | 10,472
-tamilmirrorlk | 12,103
-virakesarilk | 13,412
-adaderanasinhalalk | 14,011
+tamilmirrorlk | 12,112
+virakesarilk | 13,425
+adaderanasinhalalk | 14,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,556 (100.0%) of 81,556 articles have been extended.
+81,584 (100.0%) of 81,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### Transfers to 32 OIC La 32
+
+*2025-10-06 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215406) · `si`
+
+According to the approval of the National Police Commission, 32 police officers have been transferred.
+
+IGP Priyantha Weerasuriya has been transferred with immediate effect.
+
+◼️
+
+[Data](articles/8e8ef147.json)
+
+[Extended Data](ext_articles/8e8ef147.ext.json)
+
+---
+
+### Distraction struggle
+
+*2025-10-06 15:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தையிட்டிக்கு-எதிராக-கவனயீர்ப்பு-போராட்டம்/175-365830) · `ta`
+
+A protest was launched on Monday (6) against Tissavikar, located in the Taiti area of ​​Jaffna - Valikamam.
+
+The protesters have urged the protesting that the Vihara has been set up illegally and demanding the removal of it.
+
+The struggle is still carried out today as the struggle is being carried out for every full moon day.
+
+The protesters carried banners, chanting and bearing black flags in their hands.
+
+Tamil National People's Front General Secretary Selvarasa Gajendran, Attorney -at -Law Kandiban, Public People and Members of the Tamil National People's Front participated.
+
+It is noteworthy that the Tamil National People's Front has been engaged in a series of protests, demanding the removal of the idol located in Tittitti.
+
+◼️
+
+[Data](articles/8a0a1c7c.json)
+
+[Extended Data](ext_articles/8a0a1c7c.ext.json)
+
+---
+
+### Removal of the Army Campaign in the Kurukkammadam school building - Chanakyan
+
+*2025-10-06 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227038) · `ta`
+
+Steps are being taken to remove the military camp operating in the school building in Kurukkamadam, said the Sri Lanka Tamil State Party's Batticaloa district parliamentarian R. Sanakiyan.
+
+Batticaloa District, Manmunai South Eruvil Pattu Divisional Secretariat Division of Batticaloa, Kurukkamadam Asian Sports Club was held on Sunday night (5) at the Kurukkumadam Kalavani Maha Vidyalaya Playground.
+
+Attalaichenai Gold Star Sports Club won first place and Gurukkammadam Asian Sports Club came second.
+
+We have spoken to the President three times about the removal of the Kurukkamadam Army Camp. I have no anger with the soldiers who are located here.
+
+The grounds in the village of Kurukkammadam should be expanded. Its report should be removed by the military camp in the building, which is located and restored the existing school building.. We are demanding the removal of the soldiers who are located in the nearby children's park. Besides, we have no anger to the soldiers who are there.
+
+...
+
+[Data](articles/b9ccadad.json)
+
+[Extended Data](ext_articles/b9ccadad.ext.json)
+
+---
+
+### Egg Price: Action Notification
+
+*2025-10-06 15:50:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-அதிரடி-அறிவிப்பு/175-365829) · `ta`
+
+All Ceylon Egg Manufacturers Association. Accordingly, a white egg is Rs.. For 28, the red egg is Rs.. Sold for 30.
+
+◼️
+
+[Data](articles/7d118bb5.json)
+
+[Extended Data](ext_articles/7d118bb5.ext.json)
+
+---
+
+### තැපෑල තවත් රටට බරක් විය යුතු නෑ
+
+*2025-10-06 15:48:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපල-තවත-රටට-බරක-වය-යත-න/1-680799) · `si`
+
+තැපෑල තව දුරටත් භාණ්ඩාගාරයට බරක් විය යුතු නැති බව  සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+
+ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයකයන් ලෙස තෝරා ගත්  731 දෙනෙකු සඳහා ස්ථීර පත්වීම් ලිපි ප්‍රදානයට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව කීය.
+
+2021 වර්ෂයෙන් පසු ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක බඳවාගැනීම් සිදුකර නොමැති අතර ඒ හේතුවෙන් පසුගිය වර්ෂය අවසානය වන විට තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයක පුරප්පාඩු 1982 ක් පැවතිණි.
+
+එවන් පුරප්පාඩු සංඛ්‍යාවක් සමඟ දෙපාර්තුමේන්තුවේ කටයුතු පවත්වා ගෙන යාම දැඩි අර්බුධකාරී තත්වයක් මතු වු අතර එයට විසඳුමක් ලෙස අදාල පුරප්පාඩු සංඛ්‍යාවෙන් 1000 ක් බඳවා ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ඉල්ලීම පරිදි 2025 අගෝස්තු 19 වන දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇත.
+
+ඒ අනුව මේ දක්වා තැපැල් දෙපාර්තුමේන්තුවේ ආදේශක සේවකයින් ලෙස ලියාපදිංචි වී සිටි නිසි සුදුසුකම් සම්පුර්ණ කළ පිරිස අතරින් ඉහත 731 දෙනෙකු මෙලෙස බඳවා ගැනීම සඳහා තෝරාගනු ලැබීය.
+
+...
+
+[Data](articles/dabe800a.json)
+
+---
+
+### The mail should not be a burden to another
+
+*2025-10-06 15:48:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තපල-තවත-රටට-බරක-වය-යත-න/101-680799) · `si`
+
+Health and Mass Media Media Minister Dr. Nalinda Jayatissa said that the mail should no longer be a burden to the treasury.
+
+The Minister was speaking at awarding permanent appointment letters for 731 permanent appointment letters as selected as Post Assistants of the Sri Lanka Postal Directors.
+
+After the year 2021, a permanent mailing recruitment was not carried out by the Postal Department of Postal Assistant.
+
+The departmental work with such a number of vacancies has emerged and the proceedings of Health and Mass Media Dr. Nalinda Jayatissa have been given to recruit 1000 vacancies as a solution.
+
+Accordingly, 731 of the above was selected for recruitment of the proper qualifications registered as substitute employees of the Department of Posts.
+
+The Minister said that all services were carried out by recruiting to make the post-burden to the Treasury, the government, making a cost of an extra income of income.
+
+◼️
+
+[Data](articles/ee103618.json)
+
+[Extended Data](ext_articles/ee103618.ext.json)
+
+---
+
+### Bail for the arrested lawyer in Jaffna
+
+*2025-10-06 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227037) · `ta`
+
+Attorney -at -Law has been released on bail of Rs.
+
+Attorney -at -Law at the Attorney -at -Law on Monday (06), who had completed the affirmation of the land on the basis of investigations into the fraud of a land affirmation in the outer area of ​​Jaffna.
+
+After investigating the arrested lawyer, the police have been granted a foreign travel ban, as the Mallakam Magistrate's Magistrate's Court has been allowed to go on a two -day bail worth Rs 10 lakhs.
+
+Meanwhile, the police have reportedly entered the house of the lawyer's house on Sunday and were searching for the police without any court orders and the lawyers will be carrying out a protest on Tuesday, denouncing the police.
+
+Police said they have taken steps to arrest them as some lawyers have been directly involved in the land fraud cases in Jaffna.
+
+◼️
+
+[Data](articles/bd7bb87f.json)
+
+[Extended Data](ext_articles/bd7bb87f.ext.json)
+
+---
+
+### Crookabadia is rivaling Wikipedia
+
+*2025-10-06 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/விக்கிபீடியாவுக்கு-போட்டியாக-வருகிறது-குரோக்பீடியா/57-365828) · `ta`
+
+American businessman Elon Mask has been informed of the information about Vig Gibidi Ya as Bot D Ya as Bott D Y
+
+Vig Gibidia, the world, was operating in the world of 2001. Vic Kmdia Charity Cut Dile. This site provides information on over 300 languages. About 6.5 crores of crores are available.
+
+At the same time, the US businessman Elon Mask has been able to face the new information about Vig Gibidi Ya as Bott D Y. On Sunday (05), he said, “In the next 2 weeks, he said,
+
+In March 2023, the Business Tuber Elon Musk Sir Bill Started in March 2023. X AI Sir Bill 2023 Navam Baril Chat Chat. The next cut -up X -AI Sir Bill, the information called Grok Beedia has been launched.
+
+68 Lut Sum Cut Duras in Ang Kila Language. In addition, there are also services on language dictionary, books, public knowledge, public knowledge, sarvalalalanga.
+
+In the series, the Senior High Care of the Forest Social Web Site. The facts are hidden.
+
+...
+
+[Data](articles/7bd9ea10.json)
+
+[Extended Data](ext_articles/7bd9ea10.ext.json)
+
+---
+
+### A fatal accident on the Gampola - Doluwa on the Doluwa Road
+
+*2025-10-06 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215405) · `si`
+
+Three persons were killed and another injured in the road with the road in the Gampola and Doluwa.
+
+A car traveled by a car collided with a lorry.
+
+◼️
+
+[Data](articles/623687d9.json)
+
+[Extended Data](ext_articles/623687d9.ext.json)
+
+---
+
+### French Prime Minister resigns
+
+*2025-10-06 15:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பிரான்ஸ்-பிரதமர்-திடீர்-இராஜினாமா/50-365827) · `ta`
+
+France Prime Minister Jebastian Lecornu has suddenly resigned from his post as the 47th Prime Minister of France on September 9, 2025.
+
+A few hours after he announced his resignation, the deviation was announced, according to the media reports.. Her resignation has caused further confusion in France's politics, with President Emmanuel Macron has accepted his resignation.
+
+At the same time, President Macron is reportedly considering who can elect France's next Prime Minister.. The details of the appointment of the new Prime Minister have not yet been released. The resignation of Legurnu, the 4th Prime Minister within a year, has caused a stir in France.
+
+◼️
+
+[Data](articles/f4654237.json)
+
+[Extended Data](ext_articles/f4654237.ext.json)
+
+---
+
+### The mysterious object invented from the trash mound!
+
+*2025-10-06 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227032) · `ta`
+
+Grandpass police said that a gun has been found from the Colombo -Madhampitti garbage mound.
+
+The gun was found in a roundup carried out on information received by the Grandpass police.
+
+Police suspect that someone may have taken the gun on the trash.
+
+◼️
+
+[Data](articles/267abf40.json)
+
+[Extended Data](ext_articles/267abf40.ext.json)
+
+---
+
+### Police investigate two arrested with ice drugs
+
+*2025-10-06 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/227034) · `ta`
+
+Ampara District - A man has been arrested with ice drugs and a sum of money in the area of ​​the big Neelawana Police Division.
+
+The Kalmunai Special Task Force (STF) was carrying out an arrest on Sunday night (05).
+
+A sum of money, including 760 milligrams of ice, was seized from the suspect.
+
+The detainee. 36 years old from the road. It is also worth noting that this person was arrested on a drug charge.
+
+Meanwhile, a 27 -year -old suspect was arrested by the Kalmunai Special Task Force near the school on the Kalmunaikudi -3 coastal road from the Kalmunai Headquarters Police Division.
+
+1,800 milligrams of ice were seized from the suspect. Kalmunai Special Task Force said the suspect was arrested in the guise of a sweet dealer.
+
+After investigating the suspect, the Kalmunai Special Task Force (STF) has taken steps to appear in the Kalmunai Magistrate's Court.
+
+◼️
+
+[Data](articles/c98a473d.json)
+
+[Extended Data](ext_articles/c98a473d.ext.json)
+
+---
+
+### Chairman
+
+*2025-10-06 15:30:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-கல்வி-நிலையத்திற்குள்-நுழைந்த-தவிசாளர்/175-365824) · `ta`
+
+Two weeks ago, the Manmunai South Eruvil Pradeshiya Sabha had announced that private educational institutions should be locked on Sundays to protect the psychological welfare of the students due to the welfare of the students.
+
+Later last week, all private educational institutions in Manmunai South Eruvil Bad Pradeshiya Sabha were locked on Sundays.
+
+Meanwhile, the Pradeshiya Sabha Chairman visited a private educational institute in the village of Mahiyur on Sunday (05) on Sunday (05).
+
+We have asked for the closure of private educational institutions on Sundays only on Sundays to protect students' psychological welfare due to increasing teaching activities.. To provide better education to students. We are not anti -teaching. However, students should be free on Sundays, students should go to moral school on Sundays, relatives should go home and we have decided to leave their children free on Sundays, "said Vinoraj.
+
+◼️
+
+[Data](articles/8ceb7cd5.json)
+
+[Extended Data](ext_articles/8ceb7cd5.ext.json)
+
+---
+
+### The UN. Fulfillment of a new motion on Sri Lanka of the Human Rights Commission
+
+*2025-10-06 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/227033) · `ta`
+
+UN on Sri Lanka. The motion submitted at the Human Rights Council finally on Monday, 6th, was passed without a referendum.
+
+The proposal was submitted by the British -led co -sponsorship titled Reconciliation, Liability and Human Rights Improvement in Sri Lanka.
+
+The first draft of the proposal was already submitted in early last month. Then several amendments were made in it. The final draft of the revised in that way was submitted today and today it was passed without a promise.
+
+More than 22 countries have co -sponsored more than the five major countries presented on Monday to the decision to extend the power of the High Commissioner's Office in Sri Lanka.
+
+The first draft of the new brand was released on September 9, led by Britain, Canada, Malawi, Montenegro and North Masitonia.
+
+Meanwhile, the Sri Lankan government has decided not to claim the referendum when the proposal is fulfilled at the United Nations Human Rights Council.
+
+...
+
+[Data](articles/fe485749.json)
+
+[Extended Data](ext_articles/fe485749.ext.json)
+
+---
+
+### 2025 scientists in medical science or physiology
+
+*2025-10-06 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215404) · `si`
+
+The Swedish Nobel Prize Committee was announced today (6) awarding the Nobel Prize for Medical Science or Physiology in 2025.
+
+It is connected with research to prevent the human immune system to prevent harm to man's body.
+
+The two scientists, Mary e Brencov, Fred Ramesdel is US nationals, and scientist is a Japanese national.
+
+◼️
+
+[Data](articles/d5adf33d.json)
+
+[Extended Data](ext_articles/d5adf33d.ext.json)
+
+---
+
+### French Prime Minister Jebastian Legurn resigns
+
+*2025-10-06 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/227030) · `ta`
+
+He has suddenly resigned from his post as France's 47th prime minister on September 9, after just 27 days.
+
+Her resignation has caused further confusion in France's politics, with President Emmanuel Macron has accepted his resignation.
+
+At the same time, President Macron is reportedly considering who can choose the next Prime Minister of France.. The details of the appointment of the new Prime Minister have not yet been released.
+
+France has been stirred by the resignation of Legurnu, who was elected as the fourth prime minister within a year.
+
+◼️
+
+[Data](articles/f3732655.json)
+
+[Extended Data](ext_articles/f3732655.ext.json)
+
+---
+
+### Coughing is banned in 3 states in India
+
+*2025-10-06 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/227017) · `ta`
+
+Coughing is prohibited in three states in India. The ban has been issued as about nine children who drank coughing have died.
+
+The Madhya Pradesh Pharmaceutical Department of India on Saturday banned the cough produced in Tamil Nadu.
+
+Following the deaths of children, the Madhya Pradesh government wrote a letter to the Tamil Nadu government on October 1, in which the pharmaceutical company was asked to investigate.
+
+Subsequently, the Tamil Nadu Drug Control Department has confirmed that the "contamination" of cough medicine has been made.
+
+Local media reports that Tamil Nadu and its neighboring state of Kerala have banned medicine.
+
+Meanwhile, The Hindu has reported that the public has been warned of cough medicine in the southern state of Telangana.
+
+◼️
+
+[Data](articles/15d20400.json)
+
+[Extended Data](ext_articles/15d20400.ext.json)
+
+---
+
+### Wimal Weerawansa did not come
+
+*2025-10-06 15:13:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-வீரவன்ச-வரவில்லை/175-365821) · `ta`
+
+Former minister and leader of the National Freedom Front, Wimal Weerawansa, was summoned to the Tangalle Regional Criminal Investigation Division at 10 am on Monday (06).  But it is known that he has not appeared today and has demanded another date.
+
+◼️
+
+[Data](articles/6af632a5.json)
+
+[Extended Data](ext_articles/6af632a5.ext.json)
+
+---
 
 ### Interruptions in search of remedial shortage of drugs
 
@@ -55,6 +419,50 @@ He said that some of the laws existing in the country and finding some of the ti
 
 ---
 
+### Sampath Manamberi, Johnston's Secretary?
+
+*2025-10-06 15:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பத்-மனம்பேரி-ஜோன்ஸ்டனின்-செயலாளரா/175-365820) · `ta`
+
+Former minister Johnston Fernando has refused to say that Sampath Manamberi is one of his coordinating secretaries and has said that he is ready to take legal action against those who spread false information.
+
+Fernando made these comments during the Sri Lanka PA (SLPP) event in Kurunegala.
+
+"Now the person Manamberry says that one of my coordinating secretaries. I remind you that I have appointed Coordinating Secretaries from this district, ”he said.
+
+◼️
+
+[Data](articles/525f663f.json)
+
+[Extended Data](ext_articles/525f663f.ext.json)
+
+---
+
+### Homes to Beneficiaries in Mannar on World Residential Day
+
+*2025-10-06 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227028) · `ta`
+
+Under the 'Sematta Nivana' subsidy scheme in Mannar district, 30 houses built by the Mannar National Housing Development Authority have been opened.
+
+The event was launched on Sunday (5) to mark World Residential Day.
+
+Through the National Housing Authority, a plan to provide housing for families who are not comfortable with Rs.
+
+In the Mannar district, Mannar, Nanattan, Musali, Manthai West and Madhu were selected in a Divisional Secretariat Division of 6 beneficiaries.
+
+Accordingly, the houses of the beneficiaries have been set up at the Additional Financial Cost of the Beneficiaries as a sum of Rs.
+
+The District Manager of the Mannar District National Housing Development Authority AM Ibrahim was inaugurated this morning (6).
+
+Parliamentarian Jagadeeswaran, Divisional Secretaries, Planning Officer, Mannar District National Housing Development Authority staff participated in the event.
+
+◼️
+
+[Data](articles/98bbeb36.json)
+
+[Extended Data](ext_articles/98bbeb36.ext.json)
+
+---
+
 ### The benefit of the coin to New Zealand
 
 *2025-10-06 14:58:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-නවසීලන්තයට/9-418938) · `si`
@@ -68,6 +476,104 @@ New Zealand decided to bat first, winning the toss of the match.
 [Data](articles/b761fb09.json)
 
 [Extended Data](ext_articles/b761fb09.ext.json)
+
+---
+
+### Opening of a suddenly closed police station
+
+*2025-10-06 14:56:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-மூடப்பட்ட-பொலிஸ்-நிலையம்-திறப்பு/175-365819) · `ta`
+
+The police station, located inside the Bandaranaike Memorial International Conference Hall (BMICH), has been reopened after a sudden shutdown of official orders.
+
+Following the order received on October 3, the station was closed and all its assets were removed, including weapons, ammunition, books and records, the police headquarters said.. However, the subsequent order led to the reinstall of it after a day.
+
+The station has now resumed functions with a lower number of officers compared to the previous hiring.
+
+A senior police officer confirmed that special police news has been published by the BMICH station to instruct all equipment from the Borella police station.. The message did not mention the reasons for the sudden closure.
+
+Sources said that all the officers appointed at the BMICH station have been temporarily transferred to Cinnamon and Borella police stations.
+
+...
+
+[Data](articles/1c7d23da.json)
+
+[Extended Data](ext_articles/1c7d23da.ext.json)
+
+---
+
+### 1500 kg of vehicle tied up in the ear
+
+*2025-10-06 14:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1500-கிலோ-கிராம்-வாகனத்தை-காதில்-கட்டி-இழுத்து-மகிழ்விப்பு/175-365818) · `ta`
+
+On the occasion of International Elders' Day, an adventure event has been held at the Kaithadi Elderly Home by World Achievement.
+
+On Monday morning, the elderly home was entertained by the elderly people who tied a 1500 -kilogram vehicle in his ear at the elderly home premises.
+
+It is noteworthy that 62 -year -old Sen Thiruchelvam belongs to 5 world records.
+
+◼️
+
+[Data](articles/5728b88c.json)
+
+[Extended Data](ext_articles/5728b88c.ext.json)
+
+---
+
+### Actress Rashmika Mantana starrer 'The Girl Friend'
+
+*2025-10-06 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/227027) · `ta`
+
+Actress Rashmika Mantana, who is a dream virgin who occupies millions of fans worldwide through the film 'Pushpa 2', has been officially announced on the date of the release of 'The Girl Front'.
+
+Actor and director Rahul Raveendran starred in the film 'The Girl Front' starring Rashmika Mantana, Deekshit Shetty, Rao Ramesh, Rohini and many others.. Hesham Abdul Wahab has composed the film, which is being recorded by Krishnan Vasant.
+
+The film is being produced by the producers Theraj & Vidya, which is being prepared for a youthful love story.. The film is presented by Geeta Arts Company producer Allu Aravind.
+
+The songs of the film have been released and fascinated by the fans ... The film is expected to be released in Tamil and Telugu on the seventh of November at the film House.. The video that has been released has attracted a lot of fans.
+
+◼️
+
+[Data](articles/db7911bb.json)
+
+[Extended Data](ext_articles/db7911bb.ext.json)
+
+---
+
+### 34 drivers arrested for driving vehicles
+
+*2025-10-06 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/227026) · `ta`
+
+34 drivers have been arrested in connection with the driver of liquor during a special roundup, which was carried out on Sunday (05), the police media unit said.
+
+Police officers, soldiers, police Special Task Force and Marines are carrying out the raid.
+
+Meanwhile, 760 persons have been arrested during the special roundabout, 23 people with evidence of various crimes, 290 persons issued, 172 people who have been issued an opening order, 21 drivers and 3736 in violation of the transport regulations.
+
+◼️
+
+[Data](articles/24b9f4fa.json)
+
+[Extended Data](ext_articles/24b9f4fa.ext.json)
+
+---
+
+### The first look release of 'Udiram' starring debutant Anish Masilamani
+
+*2025-10-06 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/227025) · `ta`
+
+The first look of the film 'Udiram' has been released as one of the heroes of the story of debutant Anish Masilamani with the best character actors in the Tamil film industry.
+
+Directed by director Hari Venkatesh, Anish Masilamani, Maim Gopi, Deena, Charmi, Kannada actress Yasha Sivakumar and many others have starred in the film 'Udaram'.
+
+Johnny Nash has composed the film for the film. Producer Anish Masilamani has produced the film on behalf of Dakhtam Motion Pictures. The film is provided by Shivani Studios.
+
+The first look of the film, which is scheduled to be completed in November, has been released. The heroes of the story are revealed that the violence has taken over the violence due to the environment.. Has made expectations for fans.
+
+◼️
+
+[Data](articles/285304b2.json)
+
+[Extended Data](ext_articles/285304b2.ext.json)
 
 ---
 
@@ -93,6 +599,26 @@ The Meteorological Department urges the public to take necessary steps to minimi
 
 ---
 
+### Pradeep Ranganathan's 'Toot' film song
+
+*2025-10-06 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/227024) · `ta`
+
+Director and actor Pradeep Ranganathan, who gave two commercial hit films 'Love Today' and 'Dragon', is the song 'Singari' in the film 'Dood'.. Within a short period of time, more than five million viewers have been visited and achieved.
+
+Pradeep Ranganathan, Mamida Baiju, Sarathkumar, Hird Haroon, Rohini, Aishwarya Sharma and many others have starred in the film 'Dood' directed by debutant director Keerthiswaran.
+
+Sai Abayankar has composed the film, which has been recorded by Niketh Pommy. The film was made on behalf of Maithri Movie Makers Company Producers Naveen Jenerni. Ravi Shankar has co -produced.
+
+The film, which will be released in Tamil and Telugu in Tamil and Telugu, has been released from the world on the 17th of this month to mark the upcoming Diwali day.
+
+...
+
+[Data](articles/1f8c6672.json)
+
+[Extended Data](ext_articles/1f8c6672.ext.json)
+
+---
+
 ### What is our fate?
 
 *2025-10-06 14:45:35* · [`lankadeepalk`](https://www.lankadeepa.lk/features/අප-ඉරණම-කමකද/2-680797) · `si`
@@ -108,6 +634,42 @@ The reply of her "nothing" replied to the Democratic Particians. The Republicans
 [Data](articles/c0c3a87c.json)
 
 [Extended Data](ext_articles/c0c3a87c.ext.json)
+
+---
+
+### 'Rampo' of the Blessed Fund directly on the digital site
+
+*2025-10-06 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/227023) · `ta`
+
+In Tamil film industry ... Giving the best performance ... The preview of the movie 'Rampo', which plays the hero of the actor Arulnidhi, has been released.
+
+Arulnidhi, Tanya Ravichandran, Aisha, VDV Ganesh, Harish Peradi, and many others have starred in the film 'Rampo', directed by the creator Muttiah.
+
+Sun Entertainment Company has produced the film, which is centered on the game known as Kick Boxing. The film will be released directly on the Sun Next Digital site on the 10th.
+
+Arulnidhi- Muttiah Alliance, which has millions of fans around the world.. Creating an Excise Entertainment work ... The filmmakers are worried that it is not releasing it in the film mansion directly on the digital site.
+
+◼️
+
+[Data](articles/00a37cd0.json)
+
+[Extended Data](ext_articles/00a37cd0.ext.json)
+
+---
+
+### Does history want to study?
+
+*2025-10-06 14:39:09* · [`lankadeepalk`](https://www.lankadeepa.lk/monday_meeting/ඉතහසය-අධයයනය-අවශයද/118-680796) · `si`
+
+History is a huge subject area that is the past heritage and its identity to the present. It is essential to explain what history is before the inquiry, why history should be studied. Various historians and scholars are present on various or definitions of what history.
+
+History is simply understood as an analytical study of past cases, or an analytical study of the underlying. That is, the main role of a historian should look at past phenomena and propose to solve the problems and challenges we face today. Historily use historical knowledge to see the historian not to love the past or to get rid of the past.
+
+...
+
+[Data](articles/f015d0c5.json)
+
+[Extended Data](ext_articles/f015d0c5.ext.json)
 
 ---
 
@@ -626,6 +1188,22 @@ Meanwhile, sources say that there is a delay in restoring electricity crashes du
 [Data](articles/3cdeeacf.json)
 
 [Extended Data](ext_articles/3cdeeacf.ext.json)
+
+---
+
+### සුළඟ වැස්ස  වාර 30000ක් ලයිට් කපලා
+
+*2025-10-06 12:59:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සළඟ-වසස-වර-30000ක-ලයට-කපල/1-680788) · `si`
+
+මේ දිනවල පවතින වැහිබර අයහපත් කාලගුණ තත්වය හේතුවෙන් රට පුරා   විදුලිය බිඳ වැටීම් තිස්දහසක් පමණ සිදුව ඇතැයි විදුලි  බල මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක ධම්මික විමලරත්න මහතා පැවසීය.
+
+විදුලිය බිඳ වැටීම් බොහොමයක් සිදුවී ඇතැයි පැවසෙන්නේ  විශාල ප්‍රමාණයේ  ගස් කඩා වැටීම හේතුවෙනි.
+
+මේ අතර විදුලියේ අකුරට වැඩ කිරීමේ ව්‍යාපාරය හේතුවෙන් විදුලිය බිඳ වැටීම් යථා තත්වයට පත් කිරීමේ  කිසියම් ප්‍රමාදයක් මතුව ඇති බව ආරංචි මාර්ග සඳහන් කළේය.
+
+◼️
+
+[Data](articles/031f7d3b.json)
 
 ---
 
@@ -1450,567 +2028,5 @@ Fisheries, Aquatic and Ocean Resources Minister Ramalingam Chandrasekar, Directo
 [Data](articles/7a06e995.json)
 
 [Extended Data](ext_articles/7a06e995.ext.json)
-
----
-
-### Some laws are interrupted in search of solutions to drugs
-
-*2025-10-06 10:42:18* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හිගයට-පිළියම්-සෙවීමේදී-සමහර-නීති-ඊතිත්-බාධායි/11-418933) · `si`
-
-The opening of the Vipassi Buddhist Center at the Colombo National Hospital premises of the Amaraiyapura Maha Sangha of the Maha Sangha of the Maha Sangha was appointed as the Advanced General of the Mahanayaka Panthanasi Panjasy, the General Assembly.
-
-A large quantity of housing and medical equipment worth Rs.
-
-The estimated cost of renovation of the Vipassi Buddhist Center at the National Hospital premises is Rs. 68 lakhs. The Ministry of Health has provided Rs.. The balance has been spent by the hospital service board and the Sri Lanka Navy has given the labor.
-
-The Minister said that the Minister of Health and Mass Media Media Dr. Nalinda Jayatissa said that the ministers of Health and Mass Media and Mass Media and Mass Media and Mass Media.. However, when the government is done, it cannot be accelerated as a rise to run into a hundred meters.
-
-...
-
-[Data](articles/643239a2.json)
-
-[Extended Data](ext_articles/643239a2.ext.json)
-
----
-
-### The UN. The new proposal on Sri Lanka of the Human Rights Commission will be passed today!
-
-*2025-10-06 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227005) · `ta`
-
-UN on Sri Lanka. The resolution to be finalized at the Human Rights Council is expected to be passed on Monday, the 6th.
-
-The proposal will be submitted by the British -led co -sponsorship titled Reconciliation, Liability and Human Rights Improvement in Sri Lanka.
-
-The first draft of the proposal was already submitted in early last month. Then several amendments were made in it. The amended draft is expected to be submitted today and is expected to be passed today.
-
-More than 22 countries are co -sponsored by more than 5 major countries to present the decision to extend the power of the High Commissioner's Office in Sri Lanka.
-
-The first draft of the new brand was released on September 9, led by Britain, Canada, Malawi, Montenegro and North Masitonia.
-
-At the same time, the Sri Lankan government has decided to not claim the referendum when the proposal is fulfilled at the United Nations Human Rights Council.
-
-...
-
-[Data](articles/8da29ba1.json)
-
-[Extended Data](ext_articles/8da29ba1.ext.json)
-
----
-
-### Theft in the Vihara; The incident in the plaintiff!
-
-*2025-10-06 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227004) · `ta`
-
-களுத்துறை, வாதுவை, மொல்லிகொட பிரதேசத்தில் உள்ள விகாரை ஒன்றில் உள்ள  வாசஸ்தலத்தில் திருட்டு சம்பவம் ஒன்று இடம்பெற்றுள்ளதாக வாதுவை பொலிஸார் தெரிவித்தனர்.
-
-No suspects have been arrested so far as the complaint has been lodged at the Vaduwa police station, police said.
-
-Police said that 820,000 rupees had been stolen from the dwelling place of the idol.
-
-◼️
-
-[Data](articles/0764a85f.json)
-
-[Extended Data](ext_articles/0764a85f.ext.json)
-
----
-
-### Former Minister Wimal Weerawansa Postpones Appearance at Tangalle Crimes Unit
-
-*2025-10-06 10:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/former-minister-wimal-weerawansa-postpones-appearance-at-tangalle-crimes-unit) · `en`
-
-COLOMBO (News 1st): Former Minister Wimal Weerawansa has informed authorities that he is unable to appear before the Tangalle Divisional Crime Investigation Unit today.He has requested that an alternative date be scheduled for his appearance. Accordingly, Weerawansa has been asked to appear before the Tangalle CID on Sunday, October12. He was initially summoned at 10:00 a.m. today to provide a statement regarding comments he made about an individual named Beliatte Sana.Beliatte Sana, who was recently arrested along with a vessel in connection with a drug-related operation in Tangalle, is currently being questioned under a detention order.
-
-◼️
-
-[Data](articles/a37de845.json)
-
-[Extended Data](ext_articles/a37de845.ext.json)
-
----
-
-### Bisexuals
-
-*2025-10-06 10:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/உள்ளக-போட்டியில்-இணைந்த-இரு-உள்ளங்கள்/44-365797) · `ta`
-
-Captain Na Patel of England Men's Internal Cricket Team and England women's internal cricket team, Mallori Bartos, who has come to participate in the 2025 World Cricket Tournament in Sri Lanka.
-
-The newlyweds changed wedding rings in the presence of their family members at Mount Lavinia Hotel. The 2025 ICC Internal World Cup is currently being held at the Australian Internal Cricket Ground in Talawatukoda.
-
-◼️
-
-[Data](articles/85186cd2.json)
-
-[Extended Data](ext_articles/85186cd2.ext.json)
-
----
-
-### One arrested with foreign cigarettes at the airport
-
-*2025-10-06 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/227003) · `ta`
-
-A man has been arrested with foreign cigarettes who illegally brought to the Katunayake airport, police said.
-
-He was arrested by officials of the Airport Police Narcotics Unit on Monday (06).
-
-The arrested suspect has been identified as a 48 -year -old from Kantalai, who has been working as an electrician for three and a half years in Dubai.
-
-Fits Air Air 8D at 05.20. - In 822, he arrived from Dubai to Katunayake airport.
-
-The suspect has seized 45 cartoons containing 9,000 "platinum" cigarettes worth about 1.35 million rupees.
-
-In addition, the suspect is to be produced at the Negombo Magistrate's Court on the 8th of this month for further hearing.
-
-◼️
-
-[Data](articles/347bf9ce.json)
-
-[Extended Data](ext_articles/347bf9ce.ext.json)
-
----
-
-### The Commander of the Sea Tigers in the Tribunal is the forerunner of us - Durairasa
-
-*2025-10-06 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226999) · `ta`
-
-Vanni District Parliamentarian Durairasa Ravikaran said that Susai was the forerunner of the Liberation Tigers of Tamil Eelam (LTTE) and the Commander of the Liberation Tigers of Tamil Eelam (LTTE).
-
-Achievement and Achievement Contribution was held at the Mullaitivu - Mamadu Karghaka Morality School on Sunday (05).
-
-Parliamentarian Ravikaran, who was present at the event, made the above statement while advising children to advise children.
-
-Internationally created and celebrated as Children's and Older. In this case, it is a good idea to organize the events in this village and bring the children and the elderly people. At the same time, the achievements of the scholarship examination are also being passed.
-
-Everyone should realize that time management is the most important in our lives. I was the head of the fishermen Samasam in the Mullaitivu district.
-
-During that time, the commander of the sea tigers Susse was the pioneer of time -the -fold. In that way, we are still able to follow the best.
-
-...
-
-[Data](articles/40d90d34.json)
-
-[Extended Data](ext_articles/40d90d34.ext.json)
-
----
-
-### Seven people, including 'Mithigama Ruan' Saka, are arrested with Hassish drug
-
-*2025-10-06 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/226997) · `ta`
-
-Seven suspects, including the colleague of 'Mithigama Ruwan' of the underworld gang, have been arrested on Sunday (06) with Hassish drugs, police said.
-
-The suspects have been arrested during a raid carried out by police in Habaraduwa and Baddegama areas.
-
-Police investigations have revealed that the suspects were involved in drug sales in many parts of the Southern Province and had been involved in drug trafficking under the guise of engaging in fishing activities.
-
-The seven suspects have been arrested only after an investigation into the name of a man who was named 'Mithigama Ruwan' belonging to the underworld gang.
-
-On the instructions of the Inspector General of Police in charge of the Southern Province, further investigations are being carried out by the Matara and Hambantota Criminal Investigation Division.
-
-◼️
-
-[Data](articles/e323ceae.json)
-
-[Extended Data](ext_articles/e323ceae.ext.json)
-
----
-
-### CAA to take legal actions against 135 traders for selling rice at inflated prices
-
-*2025-10-06 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113247/caa-to-take-legal-actions-against-135-traders-for-selling-rice-at-inflated-prices) · `en`
-
-The Consumer Affairs Authority (CAA) has stated that legal proceedings have been initiated against 135 traders across the country for selling rice at inflated prices.
-
-The authority said that during the last month, cases have been filed against 135 traders in raids conducted across the island.
-
-The CAA further stated that raids will continue against traders who sell rice at higher prices and for those who conceal stocks.
-
-The CAA emphasized that individual vendors found guilty of overpricing rice may face fines ranging from Rs. 100,000 to Rs. 500,000, imprisonment for up to five months, or both.
-
-Private companies found in violation may face fines ranging from Rs. 500,000 to Rs. 5 million and in cases involving concealment of rice, the authority has the power to impose fines, imprisonment, or both, in addition to confiscating the relevant goods under the Consumer Affairs Authority Act, CAA said.
-
-...
-
-[Data](articles/f8c6b8e2.json)
-
-[Extended Data](ext_articles/f8c6b8e2.ext.json)
-
----
-
-### One lane is closed on Passara and Lalagala road
-
-*2025-10-06 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215393) · `si`
-
-The landslide has taken place near the passara 13th post due to bad weather affected by the Badulla district.
-
-The Road Development Authority has taken steps to open only one lane due to the risk of rocks on the road.
-
-The Divisional Secretary of Passara has taken steps to remove the people in three families residing in the Westwa, Passara Kena.
-
-Meanwhile, the National Building Research Organization says that the people living in the area should be aware of the landslide warning announcement in several districts in several districts.
-
-The organization said that the Department of Meteorology may be expected in the next few days.
-
-The National Building Research Organization (NBRO) issued a warnings in the Narammala, Badulla District of Ukuwela, Rattota, Bibile, Bibile, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Badulla District.
-
-The announcement is effective from yesterday (05), and the people living in these areas should be addressed in this regard.
-
-...
-
-[Data](articles/5cd4dca5.json)
-
-[Extended Data](ext_articles/5cd4dca5.ext.json)
-
----
-
-### Those who visit Madulseem to the end of the small world will be allowed to go to the hospital
-
-*2025-10-06 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/227001) · `ta`
-
-A group of nine people who went to visit Madulseem to the end of the small world have been admitted to the hospital, Madulseem police said.
-
-Those who were targeted for the wasp were admitted to the Lunugala Hospital and were treated, police said.
-
-A group of nine people from Biyagama Malwana has been admitted to the hospital to visit Madulseem a small world.
-
-In this case, the attack has taken place due to a wasp nest near the small world end, police said.
-
-◼️
-
-[Data](articles/3d005109.json)
-
-[Extended Data](ext_articles/3d005109.ext.json)
-
----
-
-### Arrest of someone with cigarettes
-
-*2025-10-06 10:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்டுக்களுடன்-ஒருவர்-கைது/175-365794) · `ta`
-
-A Sri Lankan passenger who was trying to leave the Katunayake airport has been arrested on Monday morning (06).
-
-A 48 -year -old man from Kantalai has been arrested and has worked as an electrician in Dubai for three and a half years.
-
-The person arrived at the Katunayake airport from Dubai by Fitz Air aircraft at 05.20 pm on Sunday (06).
-
-When she checked her travel bag, 45 cartons of 9000 "platinum" cigarettes were seized.
-
-◼️
-
-[Data](articles/0d3a9393.json)
-
-[Extended Data](ext_articles/0d3a9393.ext.json)
-
----
-
-### Tajuddin ...
-
-*2025-10-06 09:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/தாஜுதீன்/62-365793) · `ta`
-
-◼️
-
-[Data](articles/af03142f.json)
-
-[Extended Data](ext_articles/af03142f.ext.json)
-
----
-
-### Mavane Road
-
-*2025-10-06 09:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/என்னடா-மவனே-வீதியின்-குறுக்காக-கெடக்கு/62-365793) · `ta`
-
-Namal Rajapaksa's reply:. That's what breaks down. Going to 2029 ...
-
-Rugby player Wasim Tajuddin has not died in the accident.
-
-Meanwhile, it is well known that Namal Rajapaksa is being carried out on behalf of the Sri Lanka PA
-
-◼️
-
-[Data](articles/47a04dd2.json)
-
-[Extended Data](ext_articles/47a04dd2.ext.json)
-
----
-
-### Government’s Successful Programs Unsettle Opposition, Says Mp Wasantha Pushakumara
-
-*2025-10-06 09:48:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/government%e2%80%99s-successful-programs-unsettle-opposition-says-mp-wasantha-pushakumara) · `en`
-
-...
-
-[Data](articles/b664487b.json)
-
-[Extended Data](ext_articles/b664487b.ext.json)
-
----
-
-### A passenger caught with illegal cigarettes
-
-*2025-10-06 09:43:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නත-වරධ-දමවට-සමඟ-ගවන-මඟයක-අලලය/101-680779) · `si`
-
-A Sri Lankan Air Force Bureau of Sri Lanka, a Sri Lankan Airport Bureau, who was illegally led to Sri Lanka to illegally, to Sri Lanka, was illegally led by the Katunayaka airport.
-
-The 48-year-old resident of Dubai, a resident of Kantale, is a 48 year old.
-
-He is traveling from Dubai to 05.20 this morning at Fitz Air. Airport was reached at the Katunayake airport on 822.
-
-Between the bodies he brought, 45 smoking cartoons containing 9,000 cigarettes, which contains 9,000 cigarettes of smoots, which contains 9,000 cigarettes of smoothing.
-
-◼️
-
-[Data](articles/d6f1bc4f.json)
-
-[Extended Data](ext_articles/d6f1bc4f.ext.json)
-
----
-
-### A passenger caught with illegal cigarettes
-
-*2025-10-06 09:43:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නත-වරධ-දමවට-සමඟ-ගවන-මඟයක-අලලය/1-680779) · `si`
-
-A Sri Lankan Air Force Bureau of Sri Lanka, a Sri Lankan Airport Bureau, who was illegally led to Sri Lanka to illegally, to Sri Lanka, was illegally led by the Katunayaka airport.
-
-The 48-year-old resident of Dubai, a resident of Kantale, is a 48 year old.
-
-He is traveling from Dubai to 05.20 this morning at Fitz Air. Airport was reached at the Katunayake airport on 822.
-
-Between the bodies he brought, 45 smoking cartoons containing 9,000 cigarettes, which contains 9,000 cigarettes of smoots, which contains 9,000 cigarettes of smoothing.
-
-◼️
-
-[Data](articles/100066ec.json)
-
-[Extended Data](ext_articles/100066ec.ext.json)
-
----
-
-### Two youth dies after train
-
-*2025-10-06 09:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215392) · `si`
-
-The suspect had died after collision with train from Kandy to Polgahawela.
-
-The deceased has been identified as a 27 year old resident of Nakattota in Akuressa.
-
-Meanwhile, a person has been killed while collision with a train in the Pudukuduirippu area in Mannar.
-
-The man was killed following a train traveling from Thalaiwoma to Colombo Fort.
-
-◼️
-
-[Data](articles/dc060856.json)
-
-[Extended Data](ext_articles/dc060856.ext.json)
-
----
-
-### Two major associates of “Kalubowila Avishka” arrested in Piliyandala
-
-*2025-10-06 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113246/two-major-associates-of-kalubowila-avishka-arrested-in-piliyandala) · `en`
-
-Two individuals have been arrested in the Bokundara, Piliyandala area with over two kilograms of the narcotic substance ‘Heroin’ by the Moratuwa Police Special Task Force (STF).
-
-The duo has been reportedly arrested during a raid conducted by the STF where they also seized 02 kilograms 106 grams of ‘Heroin,’ 478 grams of methamphetamine ‘Ice’ and a motorcycle reportedly used to transport narcotics from their possession, police said.
-
-According to police, those arrested are “Kalubowila Chuti”, a key henchman of “Kalubowila Avishka”, a notorious underworld criminal and drug trafficker hiding in a foreign country, and his elder brother.
-
-The suspects, aged 24 and 25, have been identified as residents of the Piliyandala area and have been handed over to the Police Narcotics Bureau (PNB) for further investigations.
-
-◼️
-
-[Data](articles/0a950ca2.json)
-
-[Extended Data](ext_articles/0a950ca2.ext.json)
-
----
-
-### 135 shops charged with more prices
-
-*2025-10-06 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215391) · `si`
-
-Consumer Affairs Authority says that legal action will be taken against over 100 rice sold for more than 100 rice sold.
-
-Accordingly, the authority said that the prosecutions were filed against the traders of 135 shops during the past month.
-
-The Consumer Affairs Authority added that the raids are being sold and hidden in rice and will continue to implement raids against the vendors.
-
-The authority said that if a single individual business selling rice, he was able to be guilty to Rs.
-
-If a private company is convicted, the Authority (SP) has been able to confuse both Rs.
-
-The Court of Affairs has intention to be sentenced to twice the fines as a second situation, and the court is capable of punishment to a year.
-
-In the present, the deficit is still available in the market.
-
-They point out that authorities should take immediate action to pay attention to the problem.
-
-◼️
-
-[Data](articles/e94c21f6.json)
-
-[Extended Data](ext_articles/e94c21f6.ext.json)
-
----
-
-### Hundreds of trekkers escape from blizzard-struck Everest in Tibet
-
-*2025-10-06 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113245/hundreds-of-trekkers-escape-from-blizzard-struck-everest-in-tibet) · `en`
-
-Hundreds of trekkers stranded by a blizzard near the eastern face of Mount Everest in Tibet have been guided to safety by rescuers, Chinese state media reported on Sunday, as unusually heavy snow and rainfall pummelled the Himalayas.
-
-As of Sunday, 350 trekkers had reached the small township of Qudang, while contact with the remaining 200-plus trekkers had been made, CCTV reported.
-
-Visitors to the remote valley of Karma, which leads to the eastern Kangshung face of Everest, were in the hundreds this week, taking advantage of an eight-day National Day holiday in China.
-
-“It was so wet and cold in the mountains, and hypothermia was a real risk,” said Chen Geshuang, who was part of an 18-strong trekking team that made it to Qudang.
-
-“The weather this year is not normal. The guide said he had never encountered such weather in October. And it happened all too suddenly.”
-
-...
-
-[Data](articles/9995e6f3.json)
-
-[Extended Data](ext_articles/9995e6f3.ext.json)
-
----
-
-### The Dudley says the cause of Keera Samba shortage
-
-*2025-10-06 08:56:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කර-සමබ-හඟයට-හතව-ඩඩල-කයය/101-680778) · `si`
-
-Rice Business Dudle Sirisena said that the reason for Keera Sama has causes the deficit is a problem.
-
-He said that the cheaper has been grown too much, he said.
-
-The government stated that Sirisena pointed out that the issue had caused a great crisis in a mid-control price, he said.
-
-◼️
-
-[Data](articles/e8f88a66.json)
-
-[Extended Data](ext_articles/e8f88a66.ext.json)
-
----
-
-### The Dudley says the cause of Keera Samba shortage
-
-*2025-10-06 08:56:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කර-සමබ-හඟයට-හතව-ඩඩල-කයය/1-680778) · `si`
-
-Rice Business Dudle Sirisena said that the reason for Keera Sama has causes the deficit is a problem.
-
-නාඩු වී වැඩියෙන්  වගා කර  ඇති නමුත් කීරි සම්බා  වගා කර ඇත්තේ ඉතා අඩුවෙන් බවද ඔහු ප්‍රකාශ කළේය.
-
-The government stated that Sirisena pointed out that the issue had caused a great crisis in a mid-control price, he said.
-
-◼️
-
-[Data](articles/8a7cb99f.json)
-
-[Extended Data](ext_articles/8a7cb99f.ext.json)
-
----
-
-### Kalubowila chuti and his brother arrested
-
-*2025-10-06 08:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215390) · `si`
-
-Two persons with over two kilograms of heroin have been arrested in Piliyandala area in Piliyandala.
-
-The two suspects have been arrested during a raid conducted by the Moratuwa Police Special Task Force.
-
-The Special Task Force has taken 2 kilograms of heroin and 106 grams of heroin.
-
-The arrested persons have been arrested in a foreign criminal and a drug dealer, a drug dealer, "Kalubowila", a chief disciple, "Kalubowila," and his older brother.
-
-The 24 and 25-year-old residents of Piliyala have been handed over to the Police Narcotics Bureau for further investigations.
-
-◼️
-
-[Data](articles/20372b4d.json)
-
-[Extended Data](ext_articles/20372b4d.ext.json)
-
----
-
-### Someone caught with Hashish on a corte
-
-*2025-10-06 08:31:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කටයක-හෂෂ-සමඟ-අයක-අලලය/1-680777) · `si`
-
-Hichana Police say that a person has been arrested with over Rs.
-
-18000 rupees suspected to earn 1 kg of Hishr had been in possession of the person.
-
-Police investigations have revealed that the suspect had been arrested for a tip off received by a person to the Harana Agent Bend area.
-
-◼️
-
-[Data](articles/8e55a9c9.json)
-
-[Extended Data](ext_articles/8e55a9c9.ext.json)
-
----
-
-### Someone caught with Hashish on a corte
-
-*2025-10-06 08:31:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කටයක-හෂෂ-සමඟ-අයක-අලලය/101-680777) · `si`
-
-Hichana Police say that a person has been arrested with over Rs.
-
-18000 rupees suspected to earn 1 kg of Hishr had been in possession of the person.
-
-Police investigations have revealed that the suspect had been arrested for a tip off received by a person to the Harana Agent Bend area.
-
-◼️
-
-[Data](articles/2c821dc3.json)
-
-[Extended Data](ext_articles/2c821dc3.ext.json)
-
----
-
-### A shot in Sydney
-
-*2025-10-06 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215389) · `si`
-
-Foreign media reports that 20 shots have been injured in a street shooting in Sydney, Australia.
-
-The 60-year-old man has been arrested in connection with the shooting.
-
-The victim has been launched by the person nearly 100 shots and the police have also targeted the police vehicles.
-
-◼️
-
-[Data](articles/7644d983.json)
-
-[Extended Data](ext_articles/7644d983.ext.json)
-
----
-
-### Lab Report On Suspected ‘Ice’ Stock Found In Kandana To Be Released This Week – NDDCB
-
-*2025-10-06 08:14:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/lab-report-on-suspected-%e2%80%98ice%e2%80%99-stock-found-in-kandana-to-be-released-this-week-nddcb) · `en`
-
-COLOMBO (News 1st): The National Dangerous Drugs Control Board (NDDCB) says that the laboratory report on the chemical substances discovered in Kandana, suspected to be Ice or Methamphetamine, will be released within this week.The Board added that laboratory testing of the seized chemical substances is currently underway.NDDCB further confirmed that the chemical substances previously discovered in Middeniya and Netolpitiya in Tangalle were identified as Methamphetamine, commonly known as Ice.NDDCB added that the substance found in the possession of a Moldovan national in Weligama was confirmed to be Mephedrone, a highly dangerous synthetic drug.Based on information revealed by members of an organized crime gang arrested in Indonesia, large stocks of chemical substances suspected to be Ice were recently found in Middeniya, Netolpitiya in Tangalle, and in Kandana. Samples from these seizures were sent to the National Dangerous Drugs Control Board for laboratory analysis.
-
-◼️
-
-[Data](articles/65387049.json)
-
-[Extended Data](ext_articles/65387049.ext.json)
-
----
-
-### Former Minister Wimal Weerawansa Summoned To Tangalle Crime Investigation Unit
-
-*2025-10-06 08:10:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/former-minister-wimal-weerawansa-summoned-to-tangalle-crime-investigation-unit) · `en`
-
-COLOMBO (News 1st): Former Minister Wimal Weerawansa has been summoned today (6) to the Tangalle Divisional Crime Investigation Unit.Sri Lanka Police said that Weerawansa has been summoned at around 10:00 a.m. today, to record a statement regarding a comment he had made concerning an individual named Beliatte Sana.The individual known as Beliatte Sana was recently arrested along with a vessel linked to a drug trafficking incident in Tangalle and is currently being questioned under a detention order.
-
-◼️
-
-[Data](articles/64cd7d81.json)
-
-[Extended Data](ext_articles/64cd7d81.ext.json)
 
 ---

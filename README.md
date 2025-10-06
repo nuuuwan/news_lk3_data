@@ -1,37 +1,77 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 10:38:22**
+As of **2025-10-06 11:07:29**
 
 ## Newspaper Stats
 
-*Scraped **81,449** Articles*
+*Scraped **81,455** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 615
+newsfirstlk | 616
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 811
-lankadeepalk | 835
+lankadeepalk | 837
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,915
 dailyftlk | 5,664
-adalk | 7,798
+adalk | 7,800
 adaderanalk | 10,460
 tamilmirrorlk | 12,088
 virakesarilk | 13,393
-adaderanasinhalalk | 14,000
+adaderanasinhalalk | 14,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,449 (100.0%) of 81,449 articles have been extended.
+81,453 (100.0%) of 81,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-06 (Monday)
+
+### Former Minister Wimal Weerawansa Postpones Appearance at Tangalle Crimes Unit
+
+*2025-10-06 10:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/former-minister-wimal-weerawansa-postpones-appearance-at-tangalle-crimes-unit) · `en`
+
+COLOMBO (News 1st): Former Minister Wimal Weerawansa has informed authorities that he is unable to appear before the Tangalle Divisional Crime Investigation Unit today.He has requested that an alternative date be scheduled for his appearance. Accordingly, Weerawansa has been asked to appear before the Tangalle CID on Sunday, September 12. He was initially summoned at 10:00 a.m. today to provide a statement regarding comments he made about an individual named Beliatte Sana.Beliatte Sana, who was recently arrested along with a vessel in connection with a drug-related operation in Tangalle, is currently being questioned under a detention order.
+
+◼️
+
+[Data](articles/a37de845.json)
+
+[Extended Data](ext_articles/a37de845.ext.json)
+
+---
+
+### One lane is closed on Passara and Lalagala road
+
+*2025-10-06 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215393) · `si`
+
+The landslide has taken place near the passara 13th post due to bad weather affected by the Badulla district.
+
+The Road Development Authority has taken steps to open only one lane due to the risk of rocks on the road.
+
+The Divisional Secretary of Passara has taken steps to remove the people in three families residing in the Westwa, Passara Kena.
+
+Meanwhile, the National Building Research Organization says that the people living in the area should be aware of the landslide warning announcement in several districts in several districts.
+
+The organization said that the Department of Meteorology may be expected in the next few days.
+
+The National Building Research Organization (NBRO) issued a warnings in the Narammala, Badulla District of Ukuwela, Rattota, Bibile, Bibile, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Biwala, Bibile, Badulla District.
+
+The announcement is effective from yesterday (05), and the people living in these areas should be addressed in this regard.
+
+...
+
+[Data](articles/5cd4dca5.json)
+
+[Extended Data](ext_articles/5cd4dca5.ext.json)
+
+---
 
 ### Arrest of someone with cigarettes
 
@@ -74,6 +114,26 @@ When she checked her travel bag, 45 cartons of 9000 "platinum" cigarettes were s
 [Data](articles/b664487b.json)
 
 [Extended Data](ext_articles/b664487b.ext.json)
+
+---
+
+### A passenger caught with illegal cigarettes
+
+*2025-10-06 09:43:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නත-වරධ-දමවට-සමඟ-ගවන-මඟයක-අලලය/101-680779) · `si`
+
+A Sri Lankan Air Force Bureau of Sri Lanka, a Sri Lankan Airport Bureau, who was illegally led to Sri Lanka to illegally, to Sri Lanka, was illegally led by the Katunayaka airport.
+
+The 48-year-old resident of Dubai, a resident of Kantale, is a 48 year old.
+
+He is traveling from Dubai to 05.20 this morning at Fitz Air. Airport was reached at the Katunayake airport on 822.
+
+Between the bodies he brought, 45 smoking cartoons containing 9,000 cigarettes, which contains 9,000 cigarettes of smoots, which contains 9,000 cigarettes of smoothing.
+
+◼️
+
+[Data](articles/d6f1bc4f.json)
+
+[Extended Data](ext_articles/d6f1bc4f.ext.json)
 
 ---
 
@@ -296,6 +356,36 @@ The first visit to Egypt after the survivor of the Qur'atiya, the capital of Qat
 [Data](articles/f7c5f7da.json)
 
 [Extended Data](ext_articles/f7c5f7da.ext.json)
+
+---
+
+### නෞකා ආරක්ෂාව ලබාදීමට නාවික හමුදාව ගිවිසුම්ගත වෙයි
+
+*2025-10-06 07:36:55* · [`adalk`](https://www.ada.lk/breaking_news/නෞකා-ආරක්ෂාව-ලබාදීමට-නාවික-හමුදාව-ගිවිසුම්ගත-වෙයි/11-418932) · `si`
+
+නෞකා ආරක්‍ෂක කණ්ඩායම් (Onboard Security Team - OBST) වෙනුවෙන් ගිනිඅවි, උණ්ඩ සහ අනෙකුත් උපාංග ශ්‍රී ලංකා නාවික හමුදාවට අයත් අවි ගබඩා තුල ගබඩා කිරීම සහ එකී ගිනිඅවි, උණ්ඩ සහ අනෙකුත් උපාංග මෙහෙයුම් අවශ්‍යතා අනුව ශ්‍රී ලංකා නාවික හමුදාවේ අධීක්‍ෂණය හා ආරක්‍ෂාව යටතේ විදේශීය පෞද්ගලික ආරක්‍ෂක සමාගම් වල දේශීය නියෝජිතයන් විසින් සපයනු ලබන වාහන හෝ යාත්‍රා උපයෝගී කර ගනිමින් ප්‍රවාහනය කිරීම ඇතුළු කටයුතු වෙනුවෙන්  පහසුකම් සැලසීම සඳහා, ශ්‍රී ලංකා නාවික හමුදාව සමුද්‍රීය ආරක්‍ෂක මෙහෙයුම් සිදුකරනු ලබන විදේශීය සමුද්‍රීය ආරක්‍ෂක සමාගම් දෙකක (02) දේශීය නියෝජිතයෙක්‍ හා ගිවිසුම්ගත විය.
+
+සමුද්‍රීය ආරක්‍ෂක මෙහෙයුම් කටයුතු ස්වාධීනව සිදුකිරීම සඳහා ජාතික සුභසිද්ධිය වෙනුවෙන් ඇති අවශ්‍යතාවය සැලකිල්ලට ගනිමින්, ජනාධිපතිවරයා විසින් ශ්‍රී ලංකා නාවික හමුදාවට ඒ සඳහා බලය පවරන නියමයක්, අංක 2449/27 දරණ අති විශේෂ ගැසට් පත්‍රය මඟින්  2025 අගෝස්තු මස 13 වැනි දින නිකුත් කෙරුණු  අතර, ඒ සම්බන්ධයෙන් පාර්ලිමේන්තුව දැනුවත් කිරීමද සිදුකර ඇත.තවද, මෙම ව්‍යාපෘතිය වෙතින් ලැබෙන සියලූම ආදායම් රජයේ එකාබද්ධ අරමුදල වෙත බැර වෙයි.
+
+◼️
+
+[Data](articles/a7fa0f67.json)
+
+---
+
+### ස්ථාන දෙකෙකදී දුම්රියේ ගැටීමෙන් පුද්ගලයන් දෙදෙනෙක් මරුට
+
+*2025-10-06 07:30:56* · [`adalk`](https://www.ada.lk/breaking_news/ස්ථාන-දෙකෙකදී-දුම්රියේ-ගැටීමෙන්-පුද්ගලයන්-දෙදෙනෙක්-මරුට/11-418931) · `si`
+
+ස්ථාන දෙකකදී ඊයේ දිනයේදී දුම්රියේ ගැටීමෙන් සිදුවූ අනතුරු දෙකකින් පුද්ගලයන් දෙදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+මන්නාරම - ඊයේ අළුයම් කාලයේ මන්නාරම පොලිස් වසමේ පුදුකුඩිඉරුප්පු ප්‍රදේශයේදී තලෛමන්නාරම සිට කොළඹ කොටුව දක්වා ධාවනය වූ දුම්රියක ගැටී පුද්ගලයෙකු මියගොස් ඇති බවට මන්නාරම පොලිස් ස්ථානයට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර ඇත. මරණකරු වයස අවුරුදු‍ 32 ක් වූ පුදුකුඩිඉරුප්පු ප්‍රදේශයේ පදිංචිකරුවෙකි.  මෘත ශරීරය පශ්චාත් මරණ පරීක්‍ෂණයෙන් පසු ඥාතීන්ට භාර දී ඇති අතර මන්නාරම පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+කඩුගන්නාව - ඊයේ සවස් කාලයේ කඩුගන්නාව පොලිස් වසමේ කඩුගන්නාව දුම්රියපොල ආසන්නයේදී මහනුවර සිට පොල්ගහවෙල දක්වා ධාවනය වූ දුම්රියක පුද්ගලයෙකු ගැටී මියගොස් ඇති බවට කඩුගන්නාව පොලිස් ස්ථානයට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර ඇත. මරණකරු වයස අවුරුදු‍ 27 ක් වූ කනත්තොට, අකුරැස්ස ප්‍රදේශයේ පදිංචිකරුවෙකි.  මෘත ශරීරය පේරාදෙණිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කඩුගන්නාව පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/68f4317a.json)
 
 ---
 
@@ -1305,6 +1395,22 @@ The 2025 World Domestic News, the 2025 World Domestic Cricket Tournament will be
 
 ---
 
+### Among the World Cup cricket cricket stars dip at Mount Lavinia Hotel
+
+*2025-10-05 18:36:08* · [`lankadeepalk`](https://www.lankadeepa.lk/test/ලක-කසලනය-අතර-කරකට-තර-දකක-ගලකසස-හටලය-ද-අතනත-ගනත/222-680765) · `si`
+
+While he was in Sri Lanka, England indoor males leader Nain Patel and Malory Marryal Bartosh were engaged in today.
+
+සිය පවුල්වල සාමාජික සාමාජිකාවන් පිරිසක් ද  ඉදිරියේ නව යුවළ ගල්කිස්ස මහ හෝටලයේදී මංගල මුදු මාරු කරගත් අවස්ථාව 2025 ලෝක ගෘහස්ත ක්‍රිකට් තරඟාවලිය තලවතුගොඩ ඕස්ට්‍රේෂියා  ගෘහස්ත ක්‍රිකට් ක්‍රීඩාංගනයේදී මේ දිනවල පැවැත්වේ.
+
+◼️
+
+[Data](articles/3cc7db70.json)
+
+[Extended Data](ext_articles/3cc7db70.ext.json)
+
+---
+
 ### Public Servant Salaries Salary Problems
 
 *2025-10-05 18:22:03* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවක-වැටුප්-ගැටළුව-විසඳන්න-පූර්ණ-බලැති-වැටුප්-කොමිසමක්-ඉල්ලයි/11-418926) · `si`
@@ -1874,123 +1980,5 @@ The President also presented awards to winners of the winners and the winners of
 [Data](articles/27c95ea9.json)
 
 [Extended Data](ext_articles/27c95ea9.ext.json)
-
----
-
-### 1000 low income families vested with the public
-
-*2025-10-05 16:12:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අඩ-ආදයමලභ-නවස-1000ක-ජනත-අයතයට/1-680761) · `si`
-
-World Resources Day National Commerce was held at Temple Trees today (5) under the patronage of President Anura Kumara Dissanayake.
-
-The National Celebration was held under the theme "A Beautiful Life" in parallel to the United Nations World Hostering Day.
-
-The President also handed over a half of the working houses throughout the country to build houses for nearly 4,000 poor families who have not been able to build a house to build a house.
-
-The official handing over the Symptorian Award to the President is to implement the CDR Water Supply Project to implement the Indian government and Coalition For Disaster Resproductrust (CDRI) by the intervention of the UN Habitat.
-
-Giving housing deeds on various reasons
-
-The President also presented awards to winners of the winners and the winners of the winners and the Urban Development Authority, which was widely implemented by the World Holding Day.
-
-...
-
-[Data](articles/62c466f5.json)
-
-[Extended Data](ext_articles/62c466f5.ext.json)
-
----
-
-### 11 killed in bad weather conditions affected by Nepal
-
-*2025-10-05 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215371) · `si`
-
-Eleven people were killed in disasters that were dressed in Kathmandu, Nepal.
-
-According to foreign media reports, six people have been killed in a landslide in Nepal in Nepal this morning.
-
-It is said that many highways have been closed due to heavy rainfall that affects Nepal.
-
-Meanwhile, 224 persons were killed and 158 others were injured in the floods and landslides that Nepal last year.
-
-◼️
-
-[Data](articles/c2445f94.json)
-
-[Extended Data](ext_articles/c2445f94.ext.json)
-
----
-
-### 47 people killed in landslides and floods in Nepal
-
-*2025-10-05 16:00:13* · [`adalk`](https://www.ada.lk/breaking_news/නේපාලයේ--නායයාම්-සහ-ගංවතුර-නිසා-පුද්ගලයන්-47ක්-මරුට/11-418925) · `si`
-
-47 persons were killed in landslides and floods due to heavy rains.
-
-Foreign media reports that nine others have gone missing.
-
-◼️
-
-[Data](articles/61c54530.json)
-
-[Extended Data](ext_articles/61c54530.ext.json)
-
----
-
-### Flooding in Nepal, landslides; 42 people die
-
-*2025-10-05 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/226962) · `ta`
-
-In Nepal, heavy rains have caused flooding since Friday.
-
-In this case, 42 people were killed in floods and landslides. About 37 people have died in a landslide in Ilam district in Koshi province.
-
-With 11 people disappearing, rescue work is underway. At the same time, the Meteorological Department has warned the people to be careful as the meteorological department has warned that heavy rains will continue.
-
-◼️
-
-[Data](articles/3a50c9d2.json)
-
-[Extended Data](ext_articles/3a50c9d2.ext.json)
-
----
-
-### Did you meet the mountain drugs? - The test report next week
-
-*2025-10-05 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215370) · `si`
-
-The Danarakara Drugs Control Board says that the report of the chemicals suspected to be found in the Kandana area will be released next week.
-
-A spokesman said that the preliminary investigations on the relevant substances have already been completed.
-
-Recently, a large haul of chemicals were found in the Middeniya area recently.
-
-The police then found a stock of chemicals in Tangalle Netolpitiya and Kandana.
-
-The National Dangerous Drugs Control Board has issued reports from the samples and the investigation of materials found in Netolpitiya areas.
-
-According to these reports, the Harrological Drugs Control Board stated that the chemicals found in both locations have been confirmed.
-
-The test report of the substances found from Kandana area is issued and it will be issued in the next week.
-
-◼️
-
-[Data](articles/fed004dc.json)
-
-[Extended Data](ext_articles/fed004dc.ext.json)
-
----
-
-### 15-Year-old killed in Gampaha road accident
-
-*2025-10-05 15:24:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/05/15-year-old-killed-in-gampaha-road-accident) · `en`
-
-COLOMBO (News 1st); A 15-year-old boy has died in an accident at the Veediyawanta junction in Udugampola, Gampaha.It is reported that the boy was returning home after attending a private tuition class when he was hit by a lorry from behind.Meanwhile, another accident occurred along the Hatton-Maskeliya main road near Dikoya Base Hospital, where a cab overturned into a ditch.Authorities say the crash was caused by slippery roads due to heavy rainfall.
-
-◼️
-
-[Data](articles/22b31800.json)
-
-[Extended Data](ext_articles/22b31800.ext.json)
 
 ---

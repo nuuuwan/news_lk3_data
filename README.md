@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-06 08:25:07**
+As of **2025-10-06 08:51:56**
 
 ## Newspaper Stats
 
-*Scraped **81,417** Articles*
+*Scraped **81,418** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 610
 dbsjeyarajcom | 637
-bbccomsinhala | 724
+bbccomsinhala | 725
 colombotelegraphcom | 811
 lankadeepalk | 826
 dailymirrorlk | 4,733
@@ -27,7 +27,7 @@ adaderanasinhalalk | 13,992
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,417 (100.0%) of 81,417 articles have been extended.
+81,417 (100.0%) of 81,418 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -166,6 +166,26 @@ Two elderly people were injured on a motorcycle during the accident. Chunnakam p
 [Data](articles/d4fb5cfe.json)
 
 [Extended Data](ext_articles/d4fb5cfe.ext.json)
+
+---
+
+### වාහන මිල පහළට: දින 90 කොන්දේසිය නිසා ආනයනකරුවන් අර්බුදයක; 'අඩුවට වාහනයක් ගන්න හොඳ අවස්ථාවක්'
+
+*2025-10-06 01:31:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cm2zr4z0xkxo) · `si`
+
+වාහන මිල පහළට: දින 90 කොන්දේසිය නිසා ආනයනකරුවන් අර්බුදයක; 'අඩුවට වාහනයක් ගන්න හොඳ අවස්ථාවක්'
+
+වාහන ආනයනය සඳහා රජය අවසර ලබා දී මේ වන විට මාස 08කට ආසන්න කාලයක් ගත වී තිබේ. ඉකුත් ජනවාරි මස 28 වන දා රජය වාහන ආනයනය සඳහා අවසර ලබා දුන්නේ, වසර 05කට පසුව ය.
+
+නව වාහන දේශීය වෙළෙඳපොළට පැමිණීමත් සමග වාහන මිල දී ගැනීමට ගනුදෙනුකරුවන් අතර ඉහළ උද්යෝගයක් පැවති අතර, එහිදී වාහන මිල ශීඝ්‍රයෙන් ඉහළ යන අයුරු දක්නට ලැබිණි.
+
+නව වාහන ගෙන්වීමත් සමග මෙරට තුළ පාවිච්චි කරන ලද වාහනවල මිල ද ශීඝ්‍රයෙන් ඉහළ යාමක් පෙන්නුම් කරන බවට බොහෝ ගැනුම්කරුවන් චෝදනා කර සිටියේ තමන්ට වාහනයක් මිල දී ගැනීමට අසීරු තත්ත්වයක් ඇති බව පවසමිනි.
+
+වාහන ආනයනය කිරීම සඳහා අවසර ලබා දී මාස 08කට පසුව මෙරට වෙළෙඳපොළ තුළ වාහන මිල ගණන් විශාල ලෙස පහත වැටී ඇති බවට කතාබහක් පවතින අතර බීබීසී සිංහල සේවය ඒ සම්බන්ධයෙන් කරුණු සොයා බැලීමක් කළේ ය.
+
+...
+
+[Data](articles/4ad6f757.json)
 
 ---
 
@@ -1934,25 +1954,5 @@ D Silva said the group was confused by the proposal of the Ministry of Highways 
 [Data](articles/2cc9fc49.json)
 
 [Extended Data](ext_articles/2cc9fc49.ext.json)
-
----
-
-### Harsha question on the change of interest rate configuration
-
-*2025-10-05 13:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-விகித-கட்டமைப்பு-மாற்றம்-குறித்து-ஹர்ஷ-கேள்வி/175-365756) · `ta`
-
-Dr. Harsha de Silva, Chairman of the Public Finance Committee (COPF), has expressed concern over the proposal to change the interest rate structure of the central highway project. He warned that this could increase the country's borrowing costs.
-
-He posted in X in x, said the LKR 226 billion project, which was already burdened with delayed and growing interest payments, has been reviewed due to continuous financial and contract uncertainty.
-
-Although the project was renovated under President Anura Kumara Dissanayake, he said that the negotiations with the main contractor MCC, their claims, and the Chinese EXIM bank on the revised US $ 500 million loan facility were incomplete.
-
-D Silva said the group was confused by the proposal of the Highway Ministry to convert the current 15 -year standard interest from 2.5% to 2.5%, of which 2.5% of the base interest and a 3.5% ceiling of 3.5%.
-
-...
-
-[Data](articles/b1a1d392.json)
-
-[Extended Data](ext_articles/b1a1d392.ext.json)
 
 ---

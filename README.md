@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 10:38:17**
+As of **2025-10-07 10:55:36**
 
 ## Newspaper Stats
 
-*Scraped **81,755** Articles*
+*Scraped **81,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 628
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 907
+lankadeepalk | 909
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
@@ -21,17 +21,75 @@ adalk | 7,813
 adaderanalk | 10,501
 tamilmirrorlk | 12,125
 virakesarilk | 13,456
-adaderanasinhalalk | 14,031
+adaderanasinhalalk | 14,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,755 (100.0%) of 81,755 articles have been extended.
+81,755 (100.0%) of 81,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### රන් මිලේ දැනෙන වෙනසක්
+
+*2025-10-07 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215427) · `si`
+
+ලෝක රන් මිල ඉතිහාසයේ ප්‍රථම වරට ඩොලර් 3,950 සීමාව පසු කර ඇතැයි වෙළෙඳ පොළ දත්ත පෙන්වා දෙයි.
+
+ඒ අනුව මෙරට රන් මිල ද සෙනසුරාදා දිනට සාපේක්ෂව රු 8,000කින් ඉහළ ගොස් ඇතැයි වාර්තා වේ.
+
+ඒ අනුව අද (07) පෙරවරුවේ කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 290,500ක් දක්වා ඉහළ ගොස් තිබේ.
+
+මේ අතර සෙනසුරාදා රු. 306,000ක් ලෙස පැවති "කැරට් 24" රන් පවුමක මිල අද වනවිට රු. 314,000ක් දක්වා ඉහළ වැටී ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/0d387802.json)
+
+---
+
+### එයාලට හීනෙනුත් පේන්නේ මමයි තාත්තයි
+
+*2025-10-07 10:19:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/එයලට-හනනත-පනන-මමය-තතතය/101-680829) · `si`
+
+බොරු සාක්ෂි හදලා අපිව හිරේ දාන්න ගියාට සාර්ථක වෙන්නෙ නැතැයි ශ්‍රී ලංකා පොදු ජනපෙරමුණේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ නාමල් රාජපක්ෂ මහතා පැවසීය .
+
+“ජනාධිපතිතුමා ලෝකෙ වටේ සවාරි ගිහිල්ලා ඇවිල්ලා හරියන්නෙ නෑ. රට යන එක හොඳයි, ඒකෙ ප්‍රශ්නයක් නෑ, රාජ්‍ය නායකයා රට නියෝජනය කරමින් ජාත්‍යන්තර සමුළුවලට යන්න ඕනෙ.
+
+අපි ඔවුන් හිටපු මානසිකත්වයේ නෑ. හැබැයි ජාත්‍යන්තර සමුළුවකට යනකොට, ඒ රාජ්‍ය නායකයො මුණගැහෙනකොට ඒවායින් අපිට ලැබෙන ප්‍රතිඵල ගැනත් කියන්න ඕනෙ. හොරාට ගිවිසුම් අත්සන් කරලා කඩේ වහලා ඉන්න එපා.
+
+.දැන් සමහර රටවල් එක්ක ආණ්ඩුව හොර ගිවිසුම් අත්සන් කරලා තියෙනවා කියලා ආණ්ඩුවෙන්ම කියලා තියෙනවා ගිවිසුම දෙන්න බෑ කියලා. දෙන්න බැරිනම් ඒකෙ හංගන්න දෙයක් තියෙනවානෙ ? ඇයි කොලේ වහලා දේශපාලනය කරන්නෙ? දැන් මේ ආණ්ඩුවට වැඩ බැරිවෙනකොට ආණ්ඩුව උත්සාහ කරනවා
+
+අපේ කටවල් වහන්න, හිරගෙවල් පෙන්වන්න, ජීවිතේ නැතිකරන්න. ඒවාට බයේ දේශපාලනය කරන්නෙ නැහැ අපි. බොරු සාක්ෂි හදලා අපිව හිරගෙවල්වල දාන්න උත්සාහ කළත් ඒක සාර්ථක වෙන්නෙ නෑ.
+
+...
+
+[Data](articles/a76014e8.json)
+
+---
+
+### සැකපිට අත්අඩංගුවට ගත් අපරාධකරුවෙක් රිමාන්ඩ්
+
+*2025-10-07 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215426) · `si`
+
+මනුෂ්‍ය ඝාතන ඇතුළු අපරාධ රැසක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් පුද්ගලයෙකු රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+
+සැකකරු කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව ලබන 21 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකර ඇති බව පොලීසිය සඳහන් කළේය.
+
+තලංගම පොලීසියට ලද තොරතුරක් මත සිදුකළ වැටලීමක දී සැකකරු අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 12 මිලිග්‍රෑම් 200ක් සමග තලවතුගොඩ ප්‍රදේශයේ දී පසුගියදා අත්අඩංගුවට ගනු ලැබීය.
+
+සැකකරු 36 හැවිරිදි තලවතුගොඩ ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර ඔහු දැනට විදෙස්ගතව සැඟව සිටින සංවිධානාත්මක අපරාධකරුවන් සමඟ සමීප සබඳතා පවත්වන පුද්ගලයෙකු බවට ද සිදුකළ වැඩිදුර විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+මෝදර ප්‍රදේශයේ දී වෙඩි තබා මනුෂ්‍ය ඝාතනයක් කිරීමට තැත් කිරීම, හෙරොයින් සන්තකයේ තබාගැනීම සහ පුද්ගලයෙකු පැහැර ගැනීමක් සම්බන්ධයෙන් සැකකරුට එරෙහිව නඩු පවතින බව පොලීසිය සඳහන් කළේය.
+
+...
+
+[Data](articles/4c4c037d.json)
+
+---
 
 ### Parliamentary Council begins
 
@@ -1937,84 +1995,24 @@ Meanwhile, inquiry by Minister of Justice, Hon.
 
 ---
 
-### Surging numbers of children using e-cigarettes: WHO
+### මන්ත්‍රී  “පැන්ෂන්” කපන පනත අවසන් සෝදිසියේ
 
-*2025-10-06 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113270/surging-numbers-of-children-using-e-cigarettes-who) · `en`
+*2025-10-06 19:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මනතර-පනෂන-කපන-පනත-අවසන-සදසය/1-680802) · `si`
 
-More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, the World Health Organization (WHO) is warning.
+හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප අහෝසි කිරීමේ පනත් කෙටුම්පත මේ දිනවල  නීතිපති දෙපාර්තමේන්තුවේ අවසාන පරීක්ෂාවේ පවතින බව වාර්තාවේ.
 
-Children are, on average, nine times more likely than adults to vape, it says, based on available global figures.
+මේ සම්බන්ධයෙන් අප අධිකරණ අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතාගෙන් කළ විමසුමකදී  ඔහු පැවසුවේ  මෙම පනත් කෙටුම්පත නීතිපති දෙපාර්තමේන්තුවෙන්  ලබා ගැනීමට කටයුතු කරගෙන යන  බවයි.
 
-The WHO’s Dr Etienne Krug said e-cigarettes were fuelling a “new wave” of nicotine addiction. “They are marketed as harm reduction but, in reality, are hooking kids on nicotine earlier and risk undermining decades of progress.”
+හිටපු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප ඉවත් කිරීමේ පනත් කෙටුම්පත පාර්ලිමේන්තුවට ලබන මාසයේ ඉදිරිපත් කිරීමට සැලසුම් කර ඇතැයි රජයේ ආරංචි මාර්ග සඳහන් කළේය.
 
-WHO Director General, Dr Tedros, accused the tobacco industry of “aggressively targeting” young people.
+හිටපු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප ඉවත් කිරීම ජාතික ජන බලවේගය දුන් එක් ප්‍රධාන මැතිවරණ පොරොන්දුවකි.
 
-“Millions of people are stopping, or not taking up, tobacco use thanks to tobacco control efforts by countries around the world,” he said.
+මෙම පනත පාර්ලිමේන්තුවේදී සම්මත වුවහොත් හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ  හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ වැන්දඹුවන් පන්සියයකට ආසන්න පිරිසකගේ  විශ්‍රාම වැටුප අහිමි වී යන්නේය.
 
-“In response to this strong progress, the tobacco industry is fighting back with new nicotine products, aggressively targeting young people. Governments must act faster and stronger in implementing proven tobacco-control policies,” he added.
+මේ අතර ත්‍රස්තවාදය වැළැක්වීමේ  පනත් කෙටුම්පත ඉවත් කිරීමේ විශේෂ පනත් කෙටුම්පත පිළිබඳව අප අධිකරණ අමාත්‍ය හර්ෂණ නානායක්කාර මහතාගෙන් කළ විමසුම්කදී ඔහු පැවසූවේ  එම පනත් කෙටුම්පතද ඒ පිළිබඳව කරුණු විමර්ශනය කරන කමිටුව විසින් තමාට බාරදෙනු  ලැබීමට නියමිත බවයි.
 
-...
+◼️
 
-[Data](articles/b41e83dd.json)
-
-[Extended Data](ext_articles/b41e83dd.ext.json)
-
----
-
-### Surging numbers of children using e-cigarettes: WHO
-
-*2025-10-06 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113270/alarming-number-of-people-now-vape-says-who) · `en`
-
-More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, the World Health Organization (WHO) is warning.
-
-Children are, on average, nine times more likely than adults to vape, it says, based on available global figures.
-
-The WHO’s Dr Etienne Krug said e-cigarettes were fuelling a “new wave” of nicotine addiction. “They are marketed as harm reduction but, in reality, are hooking kids on nicotine earlier and risk undermining decades of progress.”
-
-WHO Director General, Dr Tedros, accused the tobacco industry of “aggressively targeting” young people.
-
-“Millions of people are stopping, or not taking up, tobacco use thanks to tobacco control efforts by countries around the world,” he said.
-
-“In response to this strong progress, the tobacco industry is fighting back with new nicotine products, aggressively targeting young people. Governments must act faster and stronger in implementing proven tobacco-control policies,” he added.
-
-...
-
-[Data](articles/70f9654b.json)
-
-[Extended Data](ext_articles/70f9654b.ext.json)
-
----
-
-### "Mahinda should be executed"
-
-*2025-10-06 19:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-தூக்கிலிட-வேண்டும்/175-365841) · `ta`
-
-Field Marshal Sarath Fonseka, who launched a fierce attack on former President Mahinda Rajapakse, accused him of misusing corruption, treachery and state property. At the same time, according to the Constitution, Rajapaksa said that "worthy of the death penalty."
-
-Commenting on Rajapakse's media spokesman's statement on delays in handing over the official residence of the former president's Wijerama, Fonseka accused the illegal state assets from the President's House and the Alari House to illegally relocated to a private residence.
-
-Fonseka mocked the explanation of the media spokesman's claim that the Rajapaksa camp was waiting for the government departments to complete the list of government assets before the removal of personal items.
-
-“To repair the house Rs. Rs.. Do you believe that Mahinda Rajapaksa, who has spent 500 million, will bring at least a coconut that has bought on his own money? "
-
-...
-
-[Data](articles/b0fd73ed.json)
-
-[Extended Data](ext_articles/b0fd73ed.ext.json)
-
----
-
-### SF against the Rajapaksas
-
-*2025-10-06 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215412) · `si`
-
-Field Marshal Sarath Fonseka says he should take strict action against former President Mahinda Rajapaksa.
-
-...
-
-[Data](articles/3d1aa7be.json)
-
-[Extended Data](ext_articles/3d1aa7be.ext.json)
+[Data](articles/01450176.json)
 
 ---

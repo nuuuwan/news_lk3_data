@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 21:21:02**
+As of **2025-10-07 21:56:59**
 
 ## Newspaper Stats
 
-*Scraped **81,978** Articles*
+*Scraped **81,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,109 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,829
+adalk | 7,831
 adaderanalk | 10,526
 tamilmirrorlk | 12,156
-virakesarilk | 13,512
-adaderanasinhalalk | 14,052
+virakesarilk | 13,518
+adaderanasinhalalk | 14,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,978 (100.0%) of 81,978 articles have been extended.
+81,980 (100.0%) of 81,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### ඉන්දියාවේ දැවැන්ත නායයාමක්
+
+*2025-10-07 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215448) · `si`
+
+ඉන්දියාවේ බිලාස්පූර් දිස්ත්‍රික්කයේ හිමාචල් ප්‍රදේශයේ සිදුවූ දැවැන්ත නාය යාමකට හසුවූ බස් රථයක සිටි පුද්ගලයින් 10 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+මගීන් 30 දෙනෙකු පමණ රැගත් බස් රථය හර්යානාවේ රොහ්ටැල් සිට ගුමර්වින් ප්‍රදේශය දක්වා ගමන් කරමින් සිටියදී මෙම අනතුර සිදුව ඇතැයිද වාර්තා වේ.
+
+ඉන්දීය මාධ්‍ය වාර්තා කර ඇත්තේ අනතුරට පත්වූ බස් රථයේ පිරිස් මුදා ගැනීම සඳහා මේ වන විට දැවැන්ත මෙහෙයුම් දියත් කර ඇති බවය.
+
+මාර්ගයේ ගමන් ගනිමින් තිබූ එම බස් රථය මත එක්වරම කන්දක් කඩා වැටී බස් රථය එයට යටවී ඇති බවත් ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/bfdad714.json)
+
+---
+
+### பரிசோதனைக்குட்படுத்தாது விடுவித்த 323 கொள்கலன்கள் தொடர்பில் ஆராய விசேட தெரிவுக்குழுவொன்றை நியமியுங்கள்!
+
+*2025-10-07 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227163) · `ta`
+
+கொழும்பு துறைமுகத்தில் இருந்து 323 கொள்கலன்களை கட்டாய பௌதீக பரிசோதனைக்கு உட்படுத்தாமல் விடுவித்தமை தொடர்பாக ஆராய்ந்து பார்ப்பதற்காக விசேட தெரிவுக்குழுவொன்றை நியமிக்கக் கோரிய பிரேரணையை ஐக்கிய மக்கள் சக்தி தலைமையிலான எதிர்க்கட்சி செவ்வாய்க்கிழமை (07) பாராளுமன்றத்தில் வைத்து சபாநாயகரிடம் கையளித்தது.
+
+கௌரவ சனாதிபதி வழங்கிய வழிகாட்டுதலின்படி திறைசேரி செயலாளரால் விசாரணைக் குழு நியமிக்கப்பட்டு, குறித்த குழு தனது அறிக்கையில் தொடர்புடைய விடயம் குறித்து தனது அவதானிப்பை முன்வைத்து கொள்கலன்கள் விடுவித்த முறை சட்டத்திற்கு மாறானது என்றும், "முறையான பரிசோதனை இல்லாமல் கொள்கலன்கள் விடுவிப்பது தேசிய பாதுகாப்பு, வருமான சேகரிப்பு மற்றும் பொதுமக்கள் பாதுகாப்பு விடயங்களில் கடுமையான ஆபத்துகளை ஏற்படுத்துகிறது" என்று அவதானிக்ககப்பட்டுள்ளதாலும்;
+
+...
+
+[Data](articles/ad2de4df.json)
+
+---
+
+### ஜனாதிபதியை சந்தித்த ஆசிய முதலீட்டு வங்கித் தலைவர் – இலங்கையின் பசுமை வலுசக்தித் துறைக்கு ஆதரவு உறுதி
+
+*2025-10-07 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227162) · `ta`
+
+இலங்கையின் பசுமை வலுசக்தித் துறையை மேம்படுத்துவதற்கு ஆதரவு வழங்கப்படும் என ஆசிய உட்கட்டமைப்பு  முதலீட்டு வங்கியின் தலைவர் ஜின் லிக்யுன் (Jin Liqun)தெரிவித்தார்.
+
+ஆசிய உட்கட்டமைப்பு முதலீட்டு வங்கியின் தலைவர் ஜின் லிக்யுன் (Jin Liqun)மற்றும் அதன் சிரேஷ்ட முகாமைத்துவம் செவ்வாய்க்கிழமை (07) முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவைச் சந்தித்த போதே இதனைத் தெரிவித்தது.
+
+ஆசிய உட்கட்டமைப்பு   முதலீட்டு வங்கியின் கடனுதவியின் கீழ் இதுவரை இலங்கையில் நடைமுறைப்படுத்தப்பட்ட திட்டங்களின் முன்னேற்றம் குறித்து விரிவாக ஆராயப்பட்டதுடன், இலங்கையுடன் தொடர்ந்தும் இணைந்து  செயற்பட்டு நாட்டின் முன்னேற்றத்திற்கு ஆதரவு வழங்குவதாக  தலைவர் இங்கு தெரிவித்தார்.
+
+அதன்படி, இலங்கையில் வலுசக்தி ஸ்திரத்தன்மையை ஏற்படுத்துவதுடன், பசுமை வலுசக்தி, பசுமை போக்குவரத்து வசதிகள் ஆகிய துறைகள் தொடர்பில்  முக்கிய கவனம் செலுத்தி எதிர்காலத்தில் ஆதரவு வழங்க நடவடிக்கை எடுக்கப்படும் என்றும் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/26e2b0ef.json)
+
+---
+
+### ආසියානු යටිතල පහසුකම් ආයෝජන බැංකුවේ සභාපති ඇතුළු කණ්ඩායම ජනපති හමුවෙයි
+
+*2025-10-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215447) · `si`
+
+ශ්‍රී ලංකාවේ හරිත බලශක්ති ක්ෂේත්‍රයේ ප්‍රවර්ධනය වෙනුවෙන් සහාය ලබා දෙන බව ආසියානු යටිතල පහසුකම් ආයෝජන බැංකුවේ (Asian Infrastructure Investment Bank - AIIB)සභාපති ජින් ලික්‍යුන් (Jin Liqun) මහතා පැවසීය.
+
+ආසියානු යටිතල පහසුකම් අයෝජන බැංකුවේ සභාපති ජින් ලික්‍යුන් (Jin Liqun) මහතා ඇතුළු එහි ජ්‍යෙෂ්ඨ කළමනාකාරිත්වය අද (07) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු වූ අවස්ථාවේදී මේ බව ප්‍රකාශ කළේය.
+
+ආසියානු යටිතල පහසුකම් ආයෝජන බැංකුවේ ණය මුදල් යටතේ මෙතෙක් ශ්‍රී ලංකාවේ  ක්‍රියාත්මක කර ඇති ව්‍යාපෘතින්හි ප්‍රගතිය මෙහිදී දීර්ඝ ලෙස සමාලෝචනයට ලක් කෙරුණු අතර ශ්‍රී ලංකාව සමග අඛණ්ඩව කටයුතු කරමින් රටේ ඉදිරි ගමනට සහාය ලබා දෙන බව සභාපතිවරයා මෙහිදී ප්‍රකාශ කර සිටියේය.
+
+ඒ අනුව ශ්‍රී ලංකාවේ බලශක්ති ස්ථායීතාව වෙනුවෙන් හරිත බලශක්තිය, හරිත ප්‍රවාහන පහසුකම් ආදි ක්ෂේත්‍රයන් කෙරෙහි ප්‍රමුඛ අවධානය යොමු කරමින් ඉදිරි සහාය ලබා දීමට කටයුතු කරන බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/0c57785a.json)
+
+---
+
+### පොලීසියෙන් මහජනතාවට දැනුම්දීමක්
+
+*2025-10-07 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215446) · `si`
+
+අන්තර්ජාලය ඔස්සේ සිදුවන මුල්‍ය වංචා පිළිබඳ අවබෝධයෙන් කටයුතු කරන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+ටෙලිග්‍රෑම්, වට්ස්ඇප් ආදී ගිණුම් හරහා සහ වෙනත් සමාජ මාධ්‍ය සමූහ උපයෝගී කර ගනිමින් මෙම වංචනික ක්‍රියා සිදුවන බව පොලීසිය සඳහන් කළේය.
+
+මෙවැනි මුල්‍ය වංචා සම්බන්ධයෙන් දෛනිකව පැමිණිලි වාර්තා වන බව ද පොලීසිය පවසයි.
+
+එබැවින් භාවිතකරන සමාජ මාධ්‍ය ජාලා ගිණුම් තුළ නොදන්නා පුද්ගලයින් සහ  සමාජ මාධ්‍ය සමුහ මඟින් විවිධ ආදායම් මාර්ග ලබාදෙන බව සඳහන් කරමින් සිදුකරන වංචනික පෙළඹවීම්වලට හසු නොවන ලෙස පොලීසිය ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+එමෙන්ම ගිණුම් අංක, මුරපද ආදී රහස්‍ය තොරතුරු බාහිර පුද්ගලයින්ට ලබා දීමෙන් වලකින ලෙසටත් දැනුම් දෙන බව පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/468e2166.json)
+
+---
 
 ### Helps to improve green
 
@@ -52,6 +140,22 @@ The government expects the President to take the growth of the national economy,
 [Data](articles/f7c920a6.json)
 
 [Extended Data](ext_articles/f7c920a6.ext.json)
+
+---
+
+### கிரிக்கெட் சபை  தொடர்பில் ஜனாதிபதி அன்று முன்வைத்த குற்றச்சாட்டுகளுக்கு இன்று எடுத்த நடவடிக்கை என்ன - அஜித் பி.பெரேரா கேள்வி
+
+*2025-10-07 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227161) · `ta`
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க  எதிர்க்கட்சியில் இருக்கும் போது இலங்கை கிரிக்கெட் சபையின் மோசடி தொடர்பில் பல குற்றச்சாட்டுக்களை முன்வைத்தார். கிரிக்கெட் சபையை ஒரு குறுகிய தரப்பினர் ஆக்கிரமித்துள்ளதாகவும் குறிப்பிட்டார். அன்று முன்வைத்த குற்றச்சாட்டுக்கள் தொடர்பில் என்ன நடவடிக்கைகளை ஜனாதிபதி தற்போது மேற்கொண்டுள்ளார்  ஐக்கிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா கேள்வியெழுப்பினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) நடைபெற்ற  விளையாட்டில் ஊக்கு பதார்த்தப் பயன்பாட்டிற்கெதிரான சமவாயம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+உலக நடப்புகளுக்கு அமைய பழமையான சட்டங்களை மாற்ற வேண்டும் என்ற நிலைப்பாட்டில் உறுதியாகவுள்ளோம். ஆகவே  விளையாட்டில் ஊக்கு பதார்த்தப் பயன்பாட்டுக்கு  எதிரான சமவாயம் (திருத்தச்)  சட்டமூலத்தை வரவேற்கிறோம்.
+
+...
+
+[Data](articles/fe317444.json)
 
 ---
 
@@ -79,6 +183,20 @@ The Gosl Must immeditely advcessers to the 22 million answers to the 22 million 
 
 ---
 
+### தீர்வுக்கான நடவடிக்கைகளை முன்னெடுத்தால் சர்வதேச அழுத்தங்கள் படிப்படியாகக் குறையும் - இலங்கை மனித உரிமைகள் ஆணைக்குழு சுட்டிக்காட்டு
+
+*2025-10-07 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227160) · `ta`
+
+மனித உரிமைகள் மற்றும் பொறுப்புக்கூறல் விடயத்தில் சர்வதேச சமூகம் உணரக்கூடியவகையிலும், அவர்கள் திருப்தியடையக்கூடிய  அவசியமான நடவடிக்கைகள் சீராக முன்னெடுக்கப்பட்டால், ஐ.நா மனித உரிமைகள் பேரவையில் புதிய தீர்மானம் நிறைவேற்றப்படல் வெளியக அழுத்தங்கள் படிப்படியாகக் குறைவடையும் என இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் உறுப்பினர் நிமல் புஞ்சிஹேவா தெரிவித்துள்ளார்.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடர் கடந்த 8 ஆம் திகதி ஜெனிவாவில் ஆரம்பமானது. இக்கூட்டத்தொடரின்போது நிறைவேற்றும் நோக்கில் பிரிட்டன் தலைமையில் கனடா, மாலாவி, மொன்டெனீக்ரோ மற்றும் வட மெசிடோனியா உள்ளிட்ட இணையனுசரணை நாடுகளால் 'இலங்கையில் நல்லிணக்கம், பொறுப்புக்கூறல் மற்றும் மனித உரிமைகளை மேம்படுத்தல்' எனும் தலைப்பில் தயாரிக்கப்பட்ட புதிய பிரேரணை, திங்கட்கிழமை (6) பேரவையில் சமர்ப்பிக்கப்பட்டு, வாக்கெடுப்பின்றி நிறைவேற்றப்பட்டது.
+
+...
+
+[Data](articles/b07af789.json)
+
+---
+
 ### Hindu Religious Blessing of Derana 20th Anniversary
 
 *2025-10-07 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215444) · `si`
@@ -96,6 +214,22 @@ Top President of the Derana Media Network, Luxiri Wickremage, Executive Director
 [Data](articles/89eaa4a0.json)
 
 [Extended Data](ext_articles/89eaa4a0.ext.json)
+
+---
+
+### Supreme Court confirms Julampitiy Amare's death
+
+*2025-10-07 19:07:37* · [`adalk`](https://www.ada.lk/breaking_news/ජුලම්පිටිය-අමරේගේ-මරණ-දඩුවම-ශ්‍රේෂ්ඨාධිකරණය-තහවුරු-කරයි/11-418962) · `si`
+
+The Supreme Court confirmed the death penalty prescribed by the Tangalle High Court, who was convicted of killing two persons in Hambantota and injuring another injury.
+
+The Supreme Court confirmed the punishment of two charges with two charges with the JVP in Katuwana, Katuwana, Katuwana, Katuwana, Katuwana, Katuwana.
+
+◼️
+
+[Data](articles/0e8854b6.json)
+
+[Extended Data](ext_articles/0e8854b6.ext.json)
 
 ---
 
@@ -283,6 +417,24 @@ The government has so far paid 155 million rupees to 155 poor families who have 
 
 ---
 
+### Speaker Certificate to act on banned stimulants
+
+*2025-10-07 18:08:07* · [`adalk`](https://www.ada.lk/sports/තහනම්-උත්තේජකවලට-එරෙහි-පනතට-කථානායක-සහතිකය/9-418961) · `si`
+
+Speaker Medical Jagath Wickramaratne today noted the certificate today (07).
+
+Today is 11.30 pm to. Conventions Against Machines (Amendment) Bill was held in the second reading of the Bill, without a bill, without a polling.. The Hon.
+
+This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.  World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
+
+◼️
+
+[Data](articles/556ea330.json)
+
+[Extended Data](ext_articles/556ea330.ext.json)
+
+---
+
 ### Young couple arrested with heavy ice drugs
 
 *2025-10-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227157) · `ta`
@@ -420,6 +572,20 @@ The Sri Lanka General Front is also appointed as MP. Paddy. Mr. Chanaka was part
 [Data](articles/20210c3b.json)
 
 [Extended Data](ext_articles/20210c3b.ext.json)
+
+---
+
+### இலங்கை குறித்த புதிய தீர்மானம் : எப்போதேனும் நீதி கிட்டும் எனும் நம்பிக்கையை பாதிக்கப்பட்ட தரப்பினர் மத்தியில் விதைத்துள்ளது - மனித உரிமைகள் கண்காணிப்பகம்
+
+*2025-10-07 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/227156) · `ta`
+
+முன்னைய அரசாங்கங்களுடன் ஒப்பிடுகையில் 2024ஆம் ஆண்டு தெரிவான ஜனாதிபதி அநுர குமார திஸாநாயக்க அரசாங்கம் பொறுப்புக்கூறல் விடயத்தில் தளர்வுப்போக்கைப் பின்பற்றிவந்தது போல் தெரிந்தாலும், அவ்வரசாங்கமும் ஐ.நாவின் பொறப்புக்கூறல் செயற்றிட்டத்தை நிராகரித்திருப்பதாக விசனம் வெளியிட்டுள்ள மனித உரிமைகள் கண்காணிப்பகம், இருப்பினும் நேற்று முன்தினம் பேரவையில் நிறைவேற்றப்பட்ட புதிய தீர்மானம் இலங்கையில் ஆட்சிபீடமேறும் அரசாங்கங்கள் பொறுப்புக்கூறலை முடக்கினாலும், ஏதேனுமொரு நாள் நீதியை அடையமுடியும் என்ற சிறுதுளி நம்பிக்கையை பாதிக்கப்பட்ட தரப்பினர் மத்தியில் விதைத்திருப்பதாகத் தெரிவித்துள்ளது.
+
+ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 60 ஆவது கூட்டத்தொடரில் திங்கட்கிழமை (6) இலங்கை தொடர்பில் நிறைவேற்றப்பட்ட புதிய தீர்மானம் குறித்து ஜெனிவாவில் உள்ள மனித உரிமைகள் கண்காணிப்பக அலுவலகத்தின் பிரதிப் பணிப்பாளர் லூஸி மக்கேர்னனால் வெளியிடப்பட்டுள்ள அறிக்கையில் மேலும் கூறப்பட்டிருப்பதாவது:
+
+...
+
+[Data](articles/abc9380f.json)
 
 ---
 
@@ -1433,6 +1599,20 @@ Although poverty is diminished, this is twice as much as 2019. Also, 10% of peop
 
 ---
 
+### பாராளுமன்ற உறுப்பினர்களின் சிறப்புரிமையும் மீறப்பட்டுள்ளது – தயாசிறி ஜயசேகர குற்றச்சாட்டு
+
+*2025-10-07 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227129) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய ஆணைக்குழுவின் பணிப்பாளர் நாயகமாக ரங்க திஸாநாயக்கவை நியமிப்பதற்கு பிமல் ரத்நாயக்க குறிப்பிட்ட விடயங்கள் பொய் என்பதை சுட்டிக்காட்டி அரசியலமைப்பு பேரவையின் சிவில் உறுப்பினரான தினேசா சிறிவர்தன சபாநாயகருக்கு சத்தியகடதாசி ஊடாக தனது எதிர்ப்பை வெளிப்படுத்தியுள்ளார்.ஆனால் இவ்விடயம் கவனத்திற் கொள்ளப்படவில்லை. சபா நாயகர் மற்றும் சபை முதல்வர் ஆகிய இருவரும் பாராளுமன்றத்தின் கௌரவத்தையும், மரியாதையையும் மலினப்படுத்தியுள்ளார்கள்.இவர்களின் செயற்பாட்டால் ஒட்டுமொத்த பாராளுமன்ற உறுப்பினர்களின் சிறப்புரிமையும் மீறப்பட்டுள்ளது என  ஐக்கிய மக்கள் சக்தியின் குருநாகல் மாவட்ட பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர  குற்றஞ்சாட்டினார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07) நடைபெற்ற  அமர்வின் போது சிறப்புரிமை மீறல் பிரச்சினையை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/cb8cd205.json)
+
+---
+
 ### Three scientists win Nobel Prize in physics for work on quantum mechanics
 
 *2025-10-07 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113303/three-scientists-win-nobel-prize-in-physics-for-work-on-quantum-mechanics) · `en`
@@ -1842,231 +2022,5 @@ Subsequently, the couple went to the Colombo train and placed a couple of puppie
 [Data](articles/ba73ae3f.json)
 
 [Extended Data](ext_articles/ba73ae3f.ext.json)
-
----
-
-### The teacher who traveled with friends
-
-*2025-10-07 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/227118) · `ta`
-
-A teacher who was drowning in the Murudawela reservoir was drowned, Mitteniya police said.
-
-The incident took place yesterday (06) at 03.30 pm, police said.
-
-The deceased is a 32 -year -old teacher from Marawaka area, police said.
-
-Police investigations have revealed that the teacher was traveling with his friends and was suddenly drowned in the Murudawela reservoir.
-
-◼️
-
-[Data](articles/6abc126c.json)
-
-[Extended Data](ext_articles/6abc126c.ext.json)
-
----
-
-### 'Bo Pasindu' & Mistress Hacked to Death : Four in Custody
-
-*2025-10-07 14:06:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/bo-pasindu-mistress-hacked-to-death-four-in-custody) · `en`
-
-...
-
-[Data](articles/294e46d8.json)
-
-[Extended Data](ext_articles/294e46d8.ext.json)
-
----
-
-### Seven children hospitalised after being exposed to chemical substance in a school lab
-
-*2025-10-07 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/113300/seven-children-hospitalised-after-being-exposed-to-chemical-substance-in-a-school-lab) · `en`
-
-Seven children have been hospitalised after being exposed to a chemical substance in a laboratory of a school in Dambulla.
-
-Among the hospitalized students, five are boys and two are girls. They have been admitted to the Dambulla Base Hospital.
-
-According to police, the students affected are in the seventh grade and the school laboratory had been broken into during the recent school holidays, with some items stolen from the lab.
-
-The children had mistakenly assumed a red-colored substance scattered on the floor of the laboratory was chili powder and tasted it, police said.
-
-However, preliminary investigations revealed that the substance was a chemical used for detecting iron.
-
-The children are currently receiving medical treatment, and further investigations underway.
-
-◼️
-
-[Data](articles/ec4af931.json)
-
-[Extended Data](ext_articles/ec4af931.ext.json)
-
----
-
-### 18 million rupees for the excavation of the sheep
-
-*2025-10-07 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227117) · `ta`
-
-It has been revealed that the amount of Rs.
-
-The Jaffna Legal Medical Officer Selva Pranavan was submitted to the Magistrate's Court on September 18, and the amount was reported to be about one million rupees (18 million rupees).
-
-On October 1, 2025, after an inquiry into the presence of Jaffna Magistrate Selvanayagam Lenin Kumar, on behalf of the victims of the media, K.. Subhakar noted that the Ministry of Finance has not yet been approved by the Ministry of Finance for excavation.
-
-The work has been paralyzed as the funds requested to carry out excavations of the human burial ground, which have been identified by 240 human skeletons, including children, have been paralyzed.
-
-Two weeks after the request of the legal officer, the Sri Lanka Human Rights Commission had recommended to the government to provide funding to prevent investigations into the sheep burial.
-
-...
-
-[Data](articles/221fde1b.json)
-
-[Extended Data](ext_articles/221fde1b.ext.json)
-
----
-
-### Mahinda met Mahinda
-
-*2025-10-07 14:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்த-மஹிந்த/175-365890) · `ta`
-
-Former Minister Mahinda Amaraweera visited the Carlton residence in Tangalle on Tuesday (07) to hear about the welfare of former President Mahinda Rajapaksa.
-
-Many politicians and people who love the former president go to Carlton's house every day to see the benefit of the former president.
-
-Former President Mahinda Rajapaksa left the government official residence in Colombo and arrived at the Carlton residence in Tangalle, following the passage of the Bill to remove the rights of former presidents.
-
-Commenting on the media, Mahinda Mahinda Amaraweera said that Mahinda Rajapaksa was the leader who created a era.
-
-◼️
-
-[Data](articles/6d81e81f.json)
-
-[Extended Data](ext_articles/6d81e81f.ext.json)
-
----
-
-### The unions urged the Samurdhi Authority to be transformed into a development organization
-
-*2025-10-07 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227114) · `ta`
-
-The Samurdhi -related trade unions say that the Samurdhi Authority should be created as an organization that will help the development of the country, not as a scholarship.
-
-The National Organizer of the Samurdhi Trade Union Servants Association, Keerthi Bandara Kivuldeeniya said this during a media briefing in Kandy.
-
-The previous rulers pushed the Samurdhi Authority to the bankruptcy to meet the need for the IMF.
-
-During the last regime, they said that they were in the interest of the IMF and said they guided the Samurdhi Authority to dissolve the Authority.
-
-Dubbleu Jyotiratne, Chief Secretary of the All Ceylon Progressive Samurdhi Manager Association, said,
-
-...
-
-[Data](articles/d1a6ad9c.json)
-
-[Extended Data](ext_articles/d1a6ad9c.ext.json)
-
----
-
-### Julampitiye Amare's appeal was taken
-
-*2025-10-07 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215434) · `si`
-
-Grouquitar's murder is convicted and death sentence. G. The Supreme Court refuted by the Supreme Court today (07) without taking the appeal to the death penalty imposed by Amarasiri Amare.
-
-The Supreme Court issued the Supreme Court to ensure Julampitiye Amare, the death penalty published by the Tangalle High Court, Ada Derana reporter said.
-
-The Tangalle High Court had convicted the accused to kill a group of people who were killed and killed in the JVP in 2012.
-
-◼️
-
-[Data](articles/0d767a44.json)
-
-[Extended Data](ext_articles/0d767a44.ext.json)
-
----
-
-### Sri Lanka's first private international airline, Fitsair
-
-*2025-10-07 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/227115) · `ta`
-
-Fitsair, the first international airline in Sri Lanka, is proud of the international passenger activities featured in the planned schedule and has become another decisive moment in air travel among Sri Lankan people.
-
-As for the company, it was a year of great growth and achievements last year.
-
-The newcomer of the Fitsair Airlines has successfully launched the Kuala Lumpur airline this year and increased the number of airline services to Maldives and Dakka due to increased question.
-
-As a result of furthering the commitment to the service company in independence, reactivity, and service glory, it has recently been recognized to deal with airport functions at the Bandaranaike International Airport, Colombo.
-
-Fitsair Director Amar Qasim commented on this year's closing
-
-The development of Fitsair depends on the history of flexibility and is based on the bold goal.
-
-...
-
-[Data](articles/247cdc84.json)
-
-[Extended Data](ext_articles/247cdc84.ext.json)
-
----
-
-### Attorneys in Mannar also
-
-*2025-10-07 13:55:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரிலும்-சட்டத்தரணிகள்-பணிப்பகிஷ்கரிப்பு/175-365889) · `ta`
-
-The Northern Province lawyers are carrying out a one -day workplace on Tuesday (07) in protest of the alleged incident of raids by the police without a proper search order in the house of a lawyer in Jaffna.  Mannar lawyers have also been boycotted to strengthen the work boycott.
-
-Attorneys have launched a task protest demanding that the incident against the lawyer against the lawyer in Jaffna.
-
-This has resulted in court proceedings in Mannar and the hearing of today's (07) day has been installed for a day.
-
-◼️
-
-[Data](articles/982db740.json)
-
-[Extended Data](ext_articles/982db740.ext.json)
-
----
-
-### Secombums in a laboratory and 7 children hospitalized
-
-*2025-10-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215433) · `si`
-
-Seven school children have been hospitalized after a chemical in a school in Dambulla.
-
-There are five boys and two girls among the students who were hospitalized and two girls have been admitted to the Dambulla Base Hospital.
-
-Dambulla Assistant Superintendent of Police. S. K. Mr. Wickremanayake and Dambulla Police Inspector Sugath Bandara had reportedly visited the hospital to look into the students with the incident.
-
-Asst ASP. S. K. Wickramanayake said a number of children who were educated in the school had been hospitalized that the school lab was taken into hospital with the Last Holidays.
-
-Accordingly, there is a red to have a red tonegument with the chili powder on the tongue.
-
-The ASP, however, said the investigations have revealed that the students' mouth is a chemical used to identify iron.
-
-The children are receiving treatment and forward investigations are being treated.
-
-◼️
-
-[Data](articles/0664ee96.json)
-
-[Extended Data](ext_articles/0664ee96.ext.json)
-
----
-
-### World Bank warns US tariffs on Indian exports to slow South Asia growth next year
-
-*2025-10-07 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113299/world-bank-warns-us-tariffs-on-indian-exports-to-slow-south-asia-growth-next-year) · `en`
-
-The World Bank on Tuesday said higher tariffs on Indian goods exported to the U.S. will drag the South Asian growth rate in 2026, even as the current year remains shielded by government spending.
-
-The World Bank said growth in South Asia is expected to slow sharply to 5.8 per cent in 2026 from its projection of 6.6 per cent for 2025. Its forecast for the region comprises India, Bangladesh, Sri Lanka, Nepal, Bhutan, and the Maldives.
-
-“For 2026, the forecast has been downgraded, as some of these effects unwind and India continues to face higher-than-expected tariffs on goods exports to the United States,” the World Bank said in its report.
-
-The World Bank has raised its forecast for India’s growth in the current fiscal year ending March 2026 to 6.5 per cent from 6.3 per cent, while trimming its projection for the next fiscal year to 6.3 per cent from 6.5 per cent.
-
-...
-
-[Data](articles/780e369b.json)
-
-[Extended Data](ext_articles/780e369b.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 14:11:19**
+As of **2025-10-07 14:38:39**
 
 ## Newspaper Stats
 
-*Scraped **81,836** Articles*
+*Scraped **81,837** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 634
+newsfirstlk | 635
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
@@ -27,11 +27,23 @@ adaderanasinhalalk | 14,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,830 (100.0%) of 81,836 articles have been extended.
+81,837 (100.0%) of 81,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### 'Bo Pasindu' & Mistress Hacked to Death : Four in Custody
+
+*2025-10-07 14:06:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/bo-pasindu-mistress-hacked-to-death-four-in-custody) · `en`
+
+...
+
+[Data](articles/294e46d8.json)
+
+[Extended Data](ext_articles/294e46d8.ext.json)
+
+---
 
 ### The main suspect in the Hungama double murder surrenders to the police
 
@@ -83,21 +95,23 @@ Both teams have won the first match in the tournament.
 
 ---
 
-### මහින්ද බලන්න මහින්දත් එයි
+### Mahinda will see Mahinda
 
 *2025-10-07 12:35:57* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-බලනන-මහනදත-එය/1-680843) · `si`
 
-හිටපු අමාත්‍ය මහින්ද අමරවීර මහතාද හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ සුව දුක් බැලීමට තංගල්ලේ කාල්ටන් නිවසට අද පැමිණියේය
+Former Minister Mahinda Amaraweera also arrived at Tangalle Carlton House to seek the well-being of former President Mahinda Rajapaksa
 
-හිටපු ජනාධිපතිවරයාගේ සුව දුක් බැලීමට බොහෝ දේශපාලඥයන් මෙන්ම හිටපු ජනාධිපතිවරයාට ආදරය කරන ජනතාව කාල්ටන්  නිවසට දිනපතා පැමිණෙමින් සිටිති.
+Many politicians and former President loves former President and former President are coming to Carlton home.
 
-හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්භක සම්මත  වීමෙන් පසු හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා කොළඹ විජේරාම මාවතේ රජයේ  නිල නිවසින් ඉවත්වී  තංගල්ලේ කාල්ටන් නිවසට පැමිණියේය.
+Former President Mahinda Rajapaksa has left the official residence of the former president's claim and returned from the Carlton house in Wijerama Mawatha, Colombo.
 
-මෙහිදී අදහස් දැක්වූ මහින්ද මහින්ද අමරවීර මහතා පැවසුවේ මහින්ද රාජපක්ෂ කියන්නේ යුගයක් නිර්මාණය කළ නායකයකු බවයි.
+Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a leader.
 
 ◼️
 
 [Data](articles/d8576c22.json)
+
+[Extended Data](ext_articles/d8576c22.ext.json)
 
 ---
 
@@ -121,21 +135,23 @@ Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a le
 
 ---
 
-### සංස්කෘතියේ ’’මගඩි’’ හොයන කමිටුවට තව කල්දෙයි
+### The committee will be postponed to '' Passes '' in culture
 
 *2025-10-07 12:26:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සසකතය-මගඩ-හයන-කමටවට-තව-කලදය/1-680841) · `si`
 
-සංස්කෘතික අරමුදලේ කෝටි 850 ක මුදල් එහි අධ්‍යක්ෂ මණ්ඩලයේ අනුමැතියකින් තොරව පාවිච්චි කරන ලදැයි කියන සිද්ධිය සම්බන්ධයෙන් සොයා බැලීමට පත් කෙරුණු  විශේෂ කමිටුවේ කාලය  පසුගිය 30 වැනිදායින් අවසන්ව ඇත.
+The time of the Special Committee appointed to look into the incident of the Cultural Fund (Cultural Fund) has ended on the 30th.
 
-එම සිද්ධිය සම්බන්ධයෙන් තවදුරටත් විමර්ශන පැවැත්වීමට  ඇති බව දැනුම්දී ඇති හෙයින්  කමිටුවේ කාලය තවදුරටත් දීර්ඝ කිරීමට අපේක්ෂා කරන බව බුද්ධ ශාසන ආගමික කටයුතු සහ   සංස්කෘතික  නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතා පැවසීය.
+Deputy Minister of Buddha Sasana, Religious Affairs and Cultural Affairs, Dissanayake, said that the term of the committee would continue to extend further investigations into the incident.
 
-මේ සම්බන්ධයෙන් තීරණයක් ගැනීමට  අරමුදලේ  අධ්‍යක්ෂ මණ්ඩලය අද රැස්වීමට නියමිතය.
+The Board of Directors will meet today to meet this regard.
 
-විමර්ශන කටයුතු සඳහා මෙම කමිටුවට ලබාදී තිබුණේ මාස දෙකක කාලයකි.
+The committee had been given two months of time to investigate.
 
 ◼️
 
 [Data](articles/99c401f5.json)
+
+[Extended Data](ext_articles/99c401f5.ext.json)
 
 ---
 
@@ -1549,19 +1565,23 @@ The motorcyclist of the Modara Police Division was shot dead in the Modara Polic
 
 ---
 
-### අපරාධකල්ලි සාමාජිකයෙක් අල්ලයි
+### Criminal gang members arrested
 
 *2025-10-07 08:58:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපරධකලල-සමජකයක-අලලය/1-680824) · `si`
 
-පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීම සහ තවත් පුද්ගලයන් රැසකට බරපතල තුවාල සිදු කිරීමේඅපරාධ රැසක පැදිකරු ලෙස කටයුතු සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු අත්අඩංගුවට ගත් බව තලංගම පොලිසිය කියයි.
+Talangama Police say that a member of the LTTE has been arrested by a criminal criminal criminal criminal criminal criminal criminal crime.
 
-එම සැකකරු සන්තකේ තිබී අයිස් මත්ද්‍රව‍ය මිලිගෑම් 12200 ක් පොලිස් භාරයට ගෙන ඇත
+Police have seized 12200 millions of ice drugs in the suspect
 
-.2025 .09.29 වෙනිදින තලවතු ගොඩ වැලි පාර හතරවෙනි පටුමගට හැරෙන හන්දිය අසලදී අත්අඩංගුවට ගත් සැකකරු. රැදයුම් නියෝග මත රඳවාගෙන සිදුකළ ප්‍රශ්න කිරීමේදී අලුත් කඩේ අධිකරණය තුළ විත්ති කූඩුව තුළ වෙඩි පහරකින් මිය ගිය සංවිධානාත්මක අපරාධ කරුවෙකු වන ගනේ මුල සංජීව පාර්ශවයේ දැනට ඩුබායි රටේ සැඟව සිටින සංවිධානාත්මක අපරාධකරුවෙකු වන. දිනේෂ් වසන්ත නොහොත් නේවි වසා සහ තම්මිට සුමිත් යන අයවලුන්ගේ ගෝලයකු බවට අනාවරණය වී යයි පොලිසිය කියයි
+Suspect arrested near the fourth latter junction of Talwatte. The root of the root of a boring criminal in the Order Court on the ordinance of detainees is currently an organized criminal in Dubai in Dubai. Dinesh Wasantha, Navy, and Navy is revealed to be a disciple of those who attend Sumiti
 
-...
+The motorcyclist of the Modara Police Division was shot dead in the Modara Police Division in Gampaha Police Division, 2024.03.202012.2012.2012. Police investigations have revealed that the motorcycle of the criminal was shot and reported to a man of the criminal in the criminal to the Gampaha police station, including the motorcycle of the motorcycle.
+
+◼️
 
 [Data](articles/6d154a8d.json)
+
+[Extended Data](ext_articles/6d154a8d.ext.json)
 
 ---
 
@@ -1663,21 +1683,23 @@ It has been announced that rain or thunderstorms will occur in the morning and i
 
 ---
 
-### මත් කරල් ගෙන පොලීසියට ආ පීසී අත්අඩංගුවට
+### PB arrested for sale in policemen
 
 *2025-10-07 08:27:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මත-කරල-ගන-පලසයට-ආ-පස-අතඅඩගවට/1-680820) · `si`
 
-මත්කරල් රැගෙන පොලිස් ස්ථානය වෙත පැමිණෙමින් සිටි කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව හෝමාගම මූලස්ථාන පොලිසිය කියයි.
+Police say a constable was arrested by the police station with alcohol, Homagama Police said.
 
-සැකකාර කොස්තාපල්වරයා සන්තකයේ තිබී මිලිගෑම් 150 ප්‍රමාණයේ මත් කරල් 5 ක් පොලිස් භාරයට ගෙන ඇත.
+Police have seized 150 millions of drunkills in possession of the suspected constable.
 
-සැකකාර කොස්තාපල්වරයාට ඊයේ  (6)  සවස හයේ සිට පසු දින උදෑසන හය දක්වා පොලිස් ස්ථානයේ දුරකථන ක්‍රියාකරු ලෙස රාජකාරී   යෙදෙන ලෙසට නියෝග යොදා තිබී ඇතැයි පොලිසිය කියයි.
+The suspected orders were ordered to work as the telephone operator at six am yesterday (6).
 
-සැකකරු එම රාජකාරියට වාර්තා නොකර අවසර නොලබා ස්ථානයෙන් බැහැරව ගොස් සිට නැවතත් පොලිස් ස්ථාන වෙත පැමිණීමේ දී පොලිස් ස්ථානයේ ප්‍රධාන දොරටුව අබියස දී රාත්‍රී 11  ට පමණ පරික්ෂා කිරීමේදී සැකකරු සතුව මෙම මත්කරල් තිබී සොයාගෙන ඇත.
+The suspect had found these alcohol when he inspected the main entrance of the police station again at around 11 pm, the suspect was not visible from the police station.
 
 ◼️
 
 [Data](articles/1e4a957b.json)
+
+[Extended Data](ext_articles/1e4a957b.ext.json)
 
 ---
 
@@ -1759,19 +1781,21 @@ According to police, several persons who covered their faces have been killed an
 
 ---
 
-### යුවළක් කපා කොටා මරලා
+### A couple hacked to death
 
 *2025-10-07 08:09:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/යවළක-කප-කට-මරල/1-680819) · `si`
 
-හුංගම පොලිස් වසමේ රන්න වාඩිගල වලව් මහත්තයා ආර ප්‍රදේශයේදී පිරිමි පුද්ගලයකු හා කාන්තාවක් අද අලුයම තියුණු ආයුධ වලින් පහරදී ඝාතනය කොට ඇතැයි හුංගම පොලිසිය පවසයි.
+A male and woman has been assaulted by a male and a woman in the Hungama Ara area in the Hungama Police Division in the Hungama Police Division.
 
-ඝාතනය වී ඇත්තේ මනුෂ්‍ය ඝාතන කිහිපයකට චෝදනා ලැබූ රන්න කැලණිගම පදිංචිව සිටි අයෙකු හා කුඩා වැල්ලේ පදිංචිව සිටි කාන්තාවකි.
+A man who had been resident of Kelaniya, a resident of Kelaniya, accused of killing several murders.
 
-මුහුණු ආවරණය කරගෙන පැමිණි පුද්ගලයන් කිහිප දෙනෙකු මොවුන් දෙදෙනා ඝාතනය කොට පලා ගොස් ඇති බවට තොරතුරු ලැබී ඇතැයි පොලීසිය පවසයි.
+According to police, several persons who covered their faces have been killed and have fled the police.
 
 ◼️
 
 [Data](articles/5df0a74b.json)
+
+[Extended Data](ext_articles/5df0a74b.ext.json)
 
 ---
 
@@ -1951,19 +1975,21 @@ Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincom
 
 ---
 
-### සවස් කාලයේ වැසි ඇති වේ
+### Showers in the evening
 
 *2025-10-07 06:52:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සවස-කලය-වස-ඇත-ව/1-680818) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවලට පස්වරු 1.00 පමණ  පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Showers or thundershowers will occur at several places in the island.
 
-උතුරු,උතුරු - මැද නැගෙනහිර,මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 50ට වැඩි තරමක තද වැසි ඇති වේ.‍ෙ
+Some places in the North, North and Central East, Central and Uva provinces have more than 50 mm.
 
-බස්නාහිර පළාතෙත් ගාල්ල,මාතර,පුත්තලම,යාපනය සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී වැසි ඇති විය හැකියි.
+Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincomalee districts.
 
 ◼️
 
 [Data](articles/0bc1c44a.json)
+
+[Extended Data](ext_articles/0bc1c44a.ext.json)
 
 ---
 
@@ -1986,25 +2012,5 @@ Advocate Ravi Shanker Jha, a lawyer who was in the courtroom during the incident
 [Data](articles/c96bb5d6.json)
 
 [Extended Data](ext_articles/c96bb5d6.ext.json)
-
----
-
-### Negotiations on American peace plan begins
-
-*2025-10-07 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215419) · `si`
-
-The unofficial negotiations have been launched in the Sharm El-Sheikh, aim of attending a final agreement on the American peace plan for the end of the war.
-
-The Hamas has said he is partially agreed to the proposals of the peace plan, but it is said that there have not been responding to several major demands including the disarm and Gaza.
-
-In addition to the delegation of both sides, Steve Whveknoff and President's son-in-law Gerard Kushner had previously participated.
-
-Meanwhile, Israeli Prime Minister Benjamin Netanyahukuku stated that he is expected to announce the release of hostages in the next days.
-
-◼️
-
-[Data](articles/feaeafb2.json)
-
-[Extended Data](ext_articles/feaeafb2.ext.json)
 
 ---

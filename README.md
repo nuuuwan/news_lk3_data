@@ -1,37 +1,93 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 18:22:29**
+As of **2025-10-07 18:45:34**
 
 ## Newspaper Stats
 
-*Scraped **81,930** Articles*
+*Scraped **81,939** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 637
 newsfirstlk | 642
-bbccomsinhala | 727
+bbccomsinhala | 728
 colombotelegraphcom | 815
-lankadeepalk | 952
+lankadeepalk | 957
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,828
+adalk | 7,829
 adaderanalk | 10,520
 tamilmirrorlk | 12,154
 virakesarilk | 13,490
-adaderanasinhalalk | 14,047
+adaderanasinhalalk | 14,049
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,930 (100.0%) of 81,930 articles have been extended.
+81,930 (100.0%) of 81,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### ශ්‍රී ලංකාවේ ආර්ථික යථාවත් වීම තවමත් අසම්පූර්ණයි - ලෝක බැංකුව
+
+*2025-10-07 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215442) · `si`
+
+ශ්‍රී ලංකාවේ මෑත කාලීන ආර්ථික ක්‍රියාකාරිත්වය ශක්තිමත් මට්ටමක පවතින බව ලෝක බැංකුව පවසයි.
+
+කෙසේවෙතත් ශ්‍රී ලංකා ආර්ථිකය යථා තත්ත්වයට පත්වීම මේ දක්වා අසම්පූර්ණව පවතින බවත්, ආර්ථික වර්ධනය තවමත් අර්බුදයට පෙර මට්ටමට වඩා පහළින් පවතින බව ද ලෝක බැංකුව වැඩිදුරටත් පෙන්වා දී ඇත.
+
+ශ්‍රී ලංකාවේ සංවර්ධන යාවත්කාලීන කිරීම් (SRI LANKA DEVELOPMENT UPDATE) පිළිබඳ නවතම වාර්තාවක් නිකුත් කරමින් ලෝක බැංකුව මේ බව සඳහන් කරයි.
+
+මෙම වාර්තාවේ අන්තර්ගතය සම්බන්ධයෙන් මාධ්‍ය නිවේදනයක් නිකුත් කරමින් ලෝක බැංකුව පවසන්නේ, ශ්‍රී ලංකාව යථා තත්ත්වයට පත්වීම ශක්තිමත් කිරීම සඳහා අඛණ්ඩ සාර්ව ආර්ථික ස්ථාවරත්වය, ඉක්මන් ව්‍යුහාත්මක ප්‍රතිසංස්කරණ සහ වඩාත් කාර්යක්ෂම, වඩා හොඳින් ඉලක්ක කරගත් රාජ්‍ය වියදම් කිරීම් අවශ්‍ය වනු ඇති බවය.
+
+අද (07) නිකුත් කරන ලද ශ්‍රී ලංකා සංවර්ධන යාවත්කාලීන කිරීම් නවතම වාර්තාවට අනුව 2025 දී ශ්‍රී ලංකා ආර්ථිකයේ 4.6%ක වර්ධනයක් වනු ඇතැයි ලෝක බැංකුව පුරෝකථනය කර සිටී.
+
+කෙසේවෙතත් මෙය 2026 වසරේ දී 3.5% ක් දක්වා මන්දගාමී විය හැකි බව ලෝක බැංකුව පෙන්වා දේ.
+
+◼️
+
+[Data](articles/cd209f25.json)
+
+---
+
+### ක්‍රීඩාවලදී යේදීමේ දී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති (සංශෝධන) පනත් කෙටුම්පතට කථානායකවරයාගේ සහතිකය
+
+*2025-10-07 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215441) · `si`
+
+ක්‍රීඩාවල යේදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති  (සංශෝධන) පනත්  කෙටුම්පත  සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා අද (07) සිය සහතිකය සටහන් කළේය.
+
+අද පෙ .ව 11.30 සිට ප.ව. 5.00 දක්වා ක්‍රීඩාවල යේදීමේ දී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති (සංශෝධන ) පනත් කෙටුම්පත දෙවැනිවර කියවීමේ  විවාදය පැවැත්වුණු අතර, ඡන්ද විමසීමකින් තොරව එම පනත් කෙටුම්පත සංශෝධන රහිතව සම්මත විය.
+
+මෙම පනත් කෙටුම්පත පළමුවර කියවීම සඳහා 2025.09.12 දින  ගරු තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යතුමා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
+
+මෙම පනත ශ්‍රී ලංකාවේ උත්තේජක මර්දන නීතිය, අන්තර්ජාතික නීතිය සමඟ යාවත්කාලීන කිරීම සඳහා 2013 අංක 33 දරන ක්‍රීඩාවල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති පනත සංශෝධනය කිරීම සඳහා වන පනතක් ලෙස සැලකේ.
+
+...
+
+[Data](articles/2babb329.json)
+
+---
+
+### ක්‍රීඩා උත්තේජක තහනම් පනතට කතානායක සහතිකය
+
+*2025-10-07 17:57:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරඩ-උතතජක-තහනම-පනතට-කතනයක-සහතකය/101-680880) · `si`
+
+ක්‍රීඩා වල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති  (සංශෝධන) පනත්  කෙටුම්පත  සඳහා කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා  අද (07) සිය සහතිකය සටහන් කළේය.
+
+අද පෙ .ව 11.30 සිට ප.ව. 5.00 දක්වා ක්‍රීඩාවල යේදීමේ දී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති  (සංශෝධන ) පනත්   කෙටුම්පත දෙවැනිවර කියවීමේ  විවාදය  පැවැත්වුණු අතර,  ඡන්ද විමසීමකින් තොරව  එම පනත් කෙටුම්පත සංශෝධන රහිතව සම්මත විය.
+
+මෙම පනත් කෙටුම්පත පළමුවර කියවීම සඳහා 2025.09.12 දින  තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යවරයා  විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
+
+...
+
+[Data](articles/3f38fcb1.json)
+
+---
 
 ### Request of the Opposition to 323 Imported Contactations of Customs
 
@@ -141,6 +197,40 @@ Commenting with us, MP MP Kavindha Jayawardene said that the report of the commi
 
 ---
 
+### බහාලුම් අවුල හොයන්න විශේෂ කාරක සභාවක්
+
+*2025-10-07 17:13:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බහලම-අවල-හයනන-වශෂ-කරක-සභවක/101-680879) · `si`
+
+කොළඹ වරායෙන් බහාලුම් 323 ක් පරීක්ෂා කිරීමකින් තොරව නිදහස් කිරීමේ සිද්ධිය සම්බන්ධයෙන් කරුණු සොයා බැලීමට  විශේෂ  කාරක සභාවක් පත් කරන්නැයි සඳහන් යෝජනාවක් විපක්ෂයේ මන්ත්‍රීවරුන් පිරිසක් විසින් කතානායක වෛද්‍ය  ජගත් වික්‍රමරත්න මහතාට පාර්ලිමේන්තු  කාර්යාලයේදී අද (7)  බාර දෙනු ලැබීය.
+
+මේ අවස්ථාවට සමගි ජන බලවේගයේ මහ ලේකම් රංජිත් මදුමබණ්ඩාර, විපක්ෂයේ ප්‍රධාන සංවිධායක ගයන්ත කරුණාතිලක, පාර්ලිමේන්තු මන්ත්‍රීවරුන්වන කවින්ද ජයවර්ධන හර්ෂණ රාජකරුණා ජේ.සි අලවතුවල  සහ  ඩී.වී චානක යන  මහත්වරු සහභාගි වූහ.
+
+...
+
+[Data](articles/f7f091b3.json)
+
+---
+
+### ඩෙංගු වැඩිවීමේ අවධානමක්
+
+*2025-10-07 17:10:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඩග-වඩවම-අවධනමක/101-680878) · `si`
+
+පවතින අධික වර්ෂාවත් සමග ඩෙංගු රෝගය සීඝ්‍රයෙන් ව්‍යාප්ත වීමේ අවධානමක් පවතින බව ජාතික ඩෙංගු මර්දන ඒකකය ප්‍රකාශ කරයි.
+
+වසරේ ගතවූ කාලය තුළ මෙරටින් ඩෙංගු රෝගීන් 39401 ක්  වාර්තාවී ඇතැයි ද ජාතික ඩෙංගු මර්දන ඒකකයේ ප්‍රජා විශේෂඥ වෛද්‍ය ප්‍රසීලා සමරවීර මහත්මිය ලංකාදිපයට පැවසුවාය.
+
+ඩෙංගු රෝගය වැළඳීමෙන් පුද්ගලයින් 21 දෙනෙකු මේ වසර තුළ මියගොස්  ඇතැයිද  විශේෂඥ වෛද්‍යවරිය සඳහන් කළාය.
+
+ඔක්තෝම්බර් මාසයේ මේ දක්වා ඩෙංගු රෝගින් 431 ක් වාර්තා වී තිබේ.
+
+සමස්ථ ඩෙංගු රෝගීන් සංඛ්‍යාවෙන් වැඩි ප්‍රමාණයක් බස්නාහිර පලාතෙන් වාර්ථා වී ඇතැයිද ඇය පැවසුවාය.
+
+◼️
+
+[Data](articles/8fe69f49.json)
+
+---
+
 ### Risk of dengue increased dengue
 
 *2025-10-07 17:10:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඩග-වඩවම-අවධනමක/1-680878) · `si`
@@ -176,6 +266,26 @@ Foreign media reports that the US tsunami alarm system has not issued a tsunami 
 [Data](articles/c1d13d74.json)
 
 [Extended Data](ext_articles/c1d13d74.ext.json)
+
+---
+
+### ජනපති - අයි.එම්.එෆ් හමුවෙයි
+
+*2025-10-07 17:04:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-අය-එම-එෆ-හමවය/101-680877) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් අතර සාකච්ඡාවක්  ජනාධිපති කාර්යාලයේදී අද (7) පැවැත්විණි.
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජාත්‍යන්තර මූල්‍ය අරමුදලේ හයවෙනි වාරිකය ලබා දීමට පෙර පැවැත්වෙන පස්වැනි සමාලෝචනයේ මධ්‍යම අදියර වෙනුවෙන් මෙම සාකච්ඡාව පැවැත්විණි.
+
+ආර්ථික වශයෙන් බංකොලොත් වී තිබූ රට ඉන් මුදා ගෙන සංවර්ධනය කරා රැගෙන යාම රජයේ ප්‍රධාන අරමුණක් බවත්,  ඒ සඳහා  උපායමාර්ගික වැඩ පිළිවෙලක් රජයට පවතින බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී පැවසීය.
+
+එම වැඩපිළිවෙල සාර්ථක කර ගැනීමේ ක්‍රියාවලියේදී  ජාත්‍යන්තර මූල්‍ය අරමුදල ලබා දෙන සහාය ඉතා අගය කරන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ආර්ථික පුනර්ජීවනයක් අත්පත් කර දිය හැකි රටක් ලෙස මේ රට සංවර්ධනය කිරීමට නම් ජාත්‍යන්තර මූල්‍ය අරමුදල ලබා දී ඇති ඉලක්ක ද අභිබවා යාමේ අවශ්‍යතාව රජය හඳුනාගෙන ඇති බවත්, ඒ සඳහා විධිමත් වැඩපිළිවෙලක් රජය සතුව ඇති බවත් ජනාධිපතිවරයා එහිදී පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/cebec73c.json)
 
 ---
 
@@ -316,6 +426,22 @@ After consolidation of the special appeal petition, the Supreme Court refused to
 [Data](articles/8a95c3d9.json)
 
 [Extended Data](ext_articles/8a95c3d9.ext.json)
+
+---
+
+### මධ්‍යම අධිවේගයේ රඹුක්කන හා ගලගෙදර කොටසේ ඉදිකිරීමේ මේ වසරේ ඇරඹේ
+
+*2025-10-07 16:45:53* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-රඹුක්කන-හා-ගලගෙදර-කොටසේ-ඉදිකිරීමේ-මේ-වසරේ-ඇරඹේ/11-418960) · `si`
+
+මධ්‍යම අධිවේගී මාර්ගයේ රඹුක්කන සිට ගලගෙදර දක්වා වූ කොටසේ ඉදිකිරීම් කටයුතු මේ වසර තුළ ආරම්භ කිරීමට රජය සැලසුම් කොට තිබෙන බව ප්‍රවාහන හා මහා මාර්ග නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.
+
+මෙම අධිවේගී මාර්ගයේ කඩවත මීරිගම කොටසේ ඉදිකිරීම් අදියර දෙකකින් සිදුකෙරෙන බවත් එහි එක් කොටසක් මාගා ඉංජිනියරින් සමාගම විසිනුත් අනෙත් කොටස මෙටර්ලජිකල් කොපරේෂන් ඔෆ් චයිනා සමාගම විසින් ද සිදුකිරීමට නියමිත බව අමාත්‍යවරයා පැවසීය.
+
+කෙසේ නමුත් රඹුක්කන ගලගෙදර කොටසේ ආයෝජනය සම්බන්ධයෙන් එහි ටෙන්ඩරය නිකුත් කිරීමෙන් අනතුරුව සලකා බලන බවද පැවසූ අමාත්‍යවරයා චීන එක්සීම් බැංකුව නව කොන්දේසි මත අරමුදල් ලබාදීම ආරම්භ කොට ඇති බවත් ඒ අනුව අධිවේගී මාර්ගය ඉදිකිරීමට අවශ්‍ය කරන ඩොලර් මිලියන 500 ක මුදලක් චීන යුවාන් වලින් ලැබෙන බවද පැවසීය. මාර්ගය ඉදිකිරීම සඳහා අවශ්‍ය කරන අනෙක් ඩොලර් මිලියන 438 ක මුදල ශ්‍රී ලංකා රජය විසින් සපයන බවද අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කළේය.
+
+◼️
+
+[Data](articles/16a90bc7.json)
 
 ---
 
@@ -1369,6 +1495,30 @@ Governor of Uva Province Kapila Jayasekara, Uva Provincial Chief Secretary Anush
 
 ---
 
+### ශ්‍රී ලංකාවට එරෙහිව මානව හිමිකම් කවුන්සිලයට ගෙන ආ යෝජනාවලිය සහ ශ්‍රී ලංකාව දැක්වූ දැඩි ප්‍රතිචාරය
+
+*2025-10-07 12:54:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3vke41k14o) · `si`
+
+ශ්‍රී ලංකාවට එරෙහිව මානව හිමිකම් කවුන්සිලයට ගෙන ආ යෝජනාවලිය සහ ශ්‍රී ලංකාව දැක්වූ දැඩි ප්‍රතිචාරය
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේ 60 වන සැසි වාරයේ ශ්‍රී ලංකාව සම්බන්ධයෙන් යෝජනාවලියක් ඉදිරිපත් කෙරිණි.
+
+'ශ්‍රී ලංකාවේ සංහිඳියාව, වගවීම සහ මානව හිමිකම් ප්‍රවර්ධනය කිරීම' මාතෘකාව යටතේ ශ්‍රී ලංකාව සම්බන්ධයෙන් ඉදිරිපත් කළ යෝජනාවලියේ දළ සිංහල පරිවර්තනය මෙසේ ය.
+
+ශ්‍රී ලංකාවේ සංහිඳියාව, වගවීම සහ මානව හිමිකම්, එක්සත් ජාතීන්ගේ ප්‍රඥප්තියේ අරමුණු සහ මූලධර්ම ප්‍රවර්ධනය කිරීම
+
+මානව හිමිකම් පිළිබඳ විශ්ව ප්‍රකාශනය සහ අදාළ ජාත්‍යන්තර මානව හිමිකම් ගිවිසුම් මගින් මග පෙන්වනු ලැබේ.
+
+ශ්‍රී ලංකාවේ සංහිඳියාව, වගවීම සහ මානව හිමිකම් ප්‍රවර්ධනය කිරීම පිළිබඳ මෑත කාලීනව 2024 ඔක්තෝබර් 9 වන දින ඉදිරිපත් කළ 57/1 යෝජනාව සිහිපත් කරමින්,
+
+ශ්‍රී ලංකාවේ ස්වෛරීභාවය, ස්වාධීනත්වය, එක්සත්භාවය සහ භෞමික අඛණ්ඩතාව සඳහා වූ කැපවීම නැවත තහවුරු කරමින්,
+
+...
+
+[Data](articles/0384159c.json)
+
+---
+
 ### US ends universal Covid-19 vaccine recommendation, leaves decision to patients
 
 *2025-10-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113297/us-ends-universal-covid-19-vaccine-recommendation-leaves-decision-to-patients) · `en`
@@ -1882,171 +2032,5 @@ Accordingly, a red have a redlified substance with these children to taste the c
 [Data](articles/87c28615.json)
 
 [Extended Data](ext_articles/87c28615.ext.json)
-
----
-
-### Eight students of Dambulla Vidyalaya receives eight students to hospital
-
-*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-8ක-රහලට-යවය/101-680837) · `si`
-
-According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
-
-Five boys and two girls have been hospitalized.
-
-Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
-
-Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
-
-◼️
-
-[Data](articles/c801528c.json)
-
-[Extended Data](ext_articles/c801528c.ext.json)
-
----
-
-### Eight students of Dambulla Vidyalaya receives eight students to hospital
-
-*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-8ක-රහලට-යවය/1-680837) · `si`
-
-According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
-
-Five boys and two girls have been hospitalized.
-
-Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
-
-Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
-
-◼️
-
-[Data](articles/0ec4264d.json)
-
-[Extended Data](ext_articles/0ec4264d.ext.json)
-
----
-
-### Mahinda Amaraweera met Mahinda Rajapaksa
-
-*2025-10-07 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/227100) · `ta`
-
-Former Minister Mahinda Amaraweera has met former President Mahinda Rajapaksa at the Calton residence in Tangalle.
-
-During the meeting, there were discussions between Mahinda Amaraweera and Mahinda Rajapaksa.
-
-After the government passed a bill to cancel the presence of former presidents, the former President Mahinda Rajapaksa left the royal palace in the Colombo Wijerama Mawatha, where former President Mahinda Rajapaksa was staying and moved to Calton's residence in Hambantota - Thangal.
-
-It is noteworthy that many politicians, parliamentarian and family members visited the Calton House to meet Mahinda Rajapakse after he moved to the Calton residence in Tangalle.
-
-◼️
-
-[Data](articles/33f2842b.json)
-
-[Extended Data](ext_articles/33f2842b.ext.json)
-
----
-
-### Japan's leading EV Innovate Terra Motors call for domestic distributors in Sri Lanka
-
-*2025-10-07 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227099) · `ta`
-
-Terra Motors, which offers leading Japanese electric vehicle transport solutions, has launched its leading electric -operated three -wheeler Kyoro in Sri Lanka.
-
-The next generation of Terra Motors is a three -wheeler and is designed to be used for passenger transport and freight transport.
-
-We are proud to bring engineering techniques to Sri Lanka. We see that Sri Lanka is one of the major markets that can change the sustainable transport structure in Asia. ” Said.
-
-Through this move, the increasing economic and business handicrafts in Japan and Sri Lanka are reflected.
-
-Through the entry of Terra Motors, the company is confident that mutual advantage in professionalism, investment and sustainable development is to create new opportunities for hands -on hands between the two countries.
-
-For business requests or delivery opportunities, contact us +91 91477 52921 via ev.Auto@terramotors.co.jp or via WhatsApp.
-
-◼️
-
-[Data](articles/08581e54.json)
-
-[Extended Data](ext_articles/08581e54.ext.json)
-
----
-
-### Vehicles assigned for security of former presidents can be returned if requested: Public Security Minister
-
-*2025-10-07 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113294/vehicles-assigned-for-security-of-former-presidents-can-be-returned-if-requested-public-security-minister) · `en`
-
-Minister of Public Security Ananda Wijepala says that although the Former Presidents’ Entitlements Act has been repealed, this does not mean that necessary measures will not be taken to ensure their security.
-
-The Public Security Minister made this statement during Parliament proceedings today (07).
-
-The Minister further noted that some former Presidents have already returned the vehicles previously used for their security, but emphasised that this does not fall under the scope of the repealed entitlements law.
-
-Minister Wijepala also reaffirmed that ensuring the security of former Presidents remains a responsibility of the government, and if any requests are made for security-related vehicles or other requirements, the present administration is prepared to make the necessary arrangements.
-
-◼️
-
-[Data](articles/fedcd35b.json)
-
-[Extended Data](ext_articles/fedcd35b.ext.json)
-
----
-
-### Protection of the Claim Act of former Tama Skills Act
-
-*2025-10-07 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215430) · `si`
-
-Although the Claimant Act of former presidents was abolished, he will not take necessary action to protect them.
-
-The Minister said that some former presidents have been handed over to their safety vehicles and is not applicable to the claim abolition bill.
-
-The Minister also said that if the government is responsible for the security of former presidents, it is a demand for security vehicles, including security vehicles and other things.
-
-◼️
-
-[Data](articles/0101d8a9.json)
-
-[Extended Data](ext_articles/0101d8a9.ext.json)
-
----
-
-### Another training for 515 nurses
-
-*2025-10-07 12:03:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හද-සවය-515කට-තව-පහණවක/1-680835) · `si`
-
-Dr. Nalinda Jayatissa said Dr. Nalinda Jayatissa said that the hospital system would be managed to manage the hospital.
-
-The Minister said that 515 nurses of training training were trained in the National Training Management and Supervising Diploma in the Nursing Service.
-
-This was held at the Colombo Post Primary Nursing College, the patronage of Health and Mass Media Media Dr. Nalinda Jayatissa.
-
-The Nurses of the Ward Management and Supervisory Diploma in the Ministry of Health and Massestination have been selected among the year and a half-year-old diploma courses and promotions.
-
-Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the members of the recruitment of the training were a group of difficulties as a group of hardships in different parts of the island.
-
-◼️
-
-[Data](articles/f3f1b07a.json)
-
-[Extended Data](ext_articles/f3f1b07a.ext.json)
-
----
-
-### Another training for 515 nurses
-
-*2025-10-07 12:03:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හද-සවය-515කට-තව-පහණවක/101-680835) · `si`
-
-Dr. Nalinda Jayatissa said Dr. Nalinda Jayatissa said that the hospital system would be managed to manage the hospital.
-
-The Minister said that 515 nurses of training training were trained in the National Training Management and Supervising Diploma in the Nursing Service.
-
-This was held at the Colombo Post Primary Nursing College, the patronage of Health and Mass Media Media Dr. Nalinda Jayatissa.
-
-The Nurses of the Ward Management and Supervisory Diploma in the Ministry of Health and Massestination have been selected among the year and a half-year-old diploma courses and promotions.
-
-Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the members of the recruitment of the training were a group of difficulties as a group of hardships in different parts of the island.
-
-◼️
-
-[Data](articles/0c70714d.json)
-
-[Extended Data](ext_articles/0c70714d.ext.json)
 
 ---

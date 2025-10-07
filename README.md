@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 19:56:22**
+As of **2025-10-07 20:21:48**
 
 ## Newspaper Stats
 
-*Scraped **81,970** Articles*
+*Scraped **81,975** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 637
+dbsjeyarajcom | 638
 newsfirstlk | 642
 bbccomsinhala | 728
 colombotelegraphcom | 815
-lankadeepalk | 957
+lankadeepalk | 959
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
@@ -21,17 +21,79 @@ adalk | 7,829
 adaderanalk | 10,526
 tamilmirrorlk | 12,156
 virakesarilk | 13,512
-adaderanasinhalalk | 14,050
+adaderanasinhalalk | 14,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,970 (100.0%) of 81,970 articles have been extended.
+81,975 (100.0%) of 81,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### Dilith's concerns about UNHRC's role in Sri Lankan delegation team
+
+*2025-10-07 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215445) · `si`
+
+Leader of the Alliance, MP Dilith Jayaweera says that the Sri Lankan delegation will be shocked to the Sri Lankan delegation in the UN Human Rights Council.
+
+Dilith Jayaweera has made this statement on the proposal for Sri Lanka by the UN Human Rights Council.
+
+They have noted that they should be provided to represent Sri Lanka at the UNHRC.
+
+He further stated that the priorities of our nation before the international community have shown that the present government is a demonstration and failure.
+
+I am Appalled by The Disastrous Execution Execution of Foreign Palicy by Sri Lanka's Delegation, LED By The Foreign Minister, To The UNHRC!
+
+The Gosl Must immeditely advcessers to the 22 million answers to the 22 million people tend to the repsent, and the shocking betrayal of ouries ...
+
+◼️
+
+[Data](articles/a6f98723.json)
+
+[Extended Data](ext_articles/a6f98723.ext.json)
+
+---
+
+### Hindu Religious Blessing of Derana 20th Anniversary
+
+*2025-10-07 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215444) · `si`
+
+TV Derana celebrates 20th anniversary of this year's anniversary of the theme from the theme from the theme with knowledge of the Sri Lankan audience with knowledge.
+
+Hindu religious observances were launched today (07).
+
+Accordingly, Hindu Religious Basket was held at the Pilleyar Pillayar Pillayar Pillayar Kovil of Bambalapitiya this morning.
+
+Top President of the Derana Media Network, Luxiri Wickremage, Executive Director of Executive Director of Program Director Sharmila Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmalai and Derana staff participated.
+
+◼️
+
+[Data](articles/89eaa4a0.json)
+
+[Extended Data](ext_articles/89eaa4a0.ext.json)
+
+---
+
+### 757.4 million dividend to the Ministry of Industry to give the Treasury
+
+*2025-10-07 18:58:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරමනත-අමතයශය-ලභශ-මලයන-757-4-ක-භණඩගරයට-දය/101-680884) · `si`
+
+757.4 million, the Ministry of Industry, was given to the Treasury of Rs. 757.4 million.
+
+කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ පවතින ලංකා මිනරල් සෑන්ඩ්, BCC Lanka Limited, ජාතික ලුණු සමාගම, ලංකා පොස්පේට් සමාගම සහ ලංකා කහටගහ ග්‍රැෆයිට් ලිමිටඩ් යන ආයතන නව රජය යටතේ ලබාගත් ලාභාංශ වලින් කොටසක් මෙලෙස භාණ්ඩාගාරයට භාරදී ඇත.
+
+Deputy Minister of Labor and Deputy Minister of Labor, Anil Jayantha and Finance Ministry Secretary to the Ministry of Finance have been officially handed over at the Parliamentary Complex at the Parliamentary Complex.
+
+◼️
+
+[Data](articles/b5195478.json)
+
+[Extended Data](ext_articles/b5195478.ext.json)
+
+---
 
 ### Powerful earthquake in Papua New Guinea
 
@@ -50,6 +112,26 @@ It is customary for these earthquakes to occur in the area as Papua New Guinea i
 [Data](articles/093180d9.json)
 
 [Extended Data](ext_articles/093180d9.ext.json)
+
+---
+
+### Para champions to Sri Lanka
+
+*2025-10-07 18:46:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පර-ශරය-ලකවට/101-680881) · `si`
+
+Sri Lanka's athletes arrived in the island today (7).
+
+The tournament was held at the participation of 980 athletes from 100 countries from September 27 to October 5.
+
+At the tournament, Nuwan Indika Indika Indika Ven.
+
+All athletes and the officers of the Ministry of Youth Affairs and Sports and the Chairman of the Sri Lanka Paralympic Committee participated in the Parai Winner Competition and the Chairman of the Sri Lanka Paralympic Committee.
+
+◼️
+
+[Data](articles/1c7ec503.json)
+
+[Extended Data](ext_articles/1c7ec503.ext.json)
 
 ---
 
@@ -1990,87 +2072,5 @@ The victims were identified as a 28-year-old male and a 28-year-old female, who 
 [Data](articles/ffda310a.json)
 
 [Extended Data](ext_articles/ffda310a.ext.json)
-
----
-
-### Sudumalai Bhubaneswari Amman Temple Ancient Building with Divisional Secretariat Divisional Secretariat
-
-*2025-10-07 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/227112) · `ta`
-
-A protest was launched on Tuesday (07) in protest of the arbitrary activities of the administration of the Sudumalai Amman Temple and the unhappiness of the Chandilipayi Divisional Secretariat.
-
-The struggle, which began in front of the Siri Nagammal temple, went to the Chandilipayi Divisional Secretariat. Later, a Mahajar was handed over to a Divisional Secretariat Officer.
-
-Our Sudumalai Bhubaneswari Ambal Temple is a mythical and novelty temple. It was decided to rebuild the temple with the narrow thinking of the temple administration.
-
-The oldest buildings set up by our ancestors claimed for the reconstruction work were demolished. Thus there is a risk of going without old evidence. We do not prevent the construction of the rehab. The oldest of the temple will illustrate our existence.
-
-The oldest building has been demolished as the Divisional Secretariat has granted permission for fake documents and handed over copies to the Divisional Secretary without its original copies.
-
-...
-
-[Data](articles/dffc9fec.json)
-
-[Extended Data](ext_articles/dffc9fec.ext.json)
-
----
-
-### Amit Weerasinghe as the leader of the new Independence Front
-
-*2025-10-07 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/227111) · `ta`
-
-Amit Weerasinghe, former leader of Mahason Balakaya, has been elected as the leader of the new Independence Front (Abhinava Nithas Peramuna).
-
-The general meeting of the new Independence Front was held at the Kandy Udarattu Arts Association Hall. He has been selected in it.
-
-It is noteworthy that he was popular during the past riots. Professor Kapila Feminimalla has been elected as its general secretary.
-
-There are many difficulties in registering a political party in Sri Lanka. It is a delightful thing that the leader of a political party was elected in such a situation. So he thanked the members who elected me as the leader.
-
-◼️
-
-[Data](articles/17dcc050.json)
-
-[Extended Data](ext_articles/17dcc050.ext.json)
-
----
-
-### Trincomalee District Attorneys protest protest
-
-*2025-10-07 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227110) · `ta`
-
-The Trincomalee District Lawyers Association was engaged in anti -identity activities on Tuesday (07) in support of the protests by the Jaffna Lawyers Association.
-
-Yall. Attorney -at -law Dushyanthan said that the lawyer was engaged in a move towards justice that the judiciary should be properly adopted against the anarchy of the police without any court orders and anarchy without the appropriate judicial proceedings.
-
-Jaffna District Financial Crime Police Jaffna. The female lawyer from Mallakam visited the office of a lawyer and considered documents. It is also reported that he was released on a bail of Rs.. It was in this context that the anti -identification process was carried out.
-
-◼️
-
-[Data](articles/2d628c5b.json)
-
-[Extended Data](ext_articles/2d628c5b.ext.json)
-
----
-
-### Attorneys struggle in Jaffna
-
-*2025-10-07 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/227106) · `ta`
-
-Attorneys on Tuesday (07) accused the police of violating the house of a lawyer in Jaffna without any court permission.
-
-Police have launched investigations against some lawyers for allegedly involved in land affirmations in Jaffna.
-
-In the meantime, the police went to his house with the intention of arresting a lawyer who was accused of fraud on Sunday and carried out search operations.
-
-Northern Provincial lawyers were involved in the courts and engaged in vigilante protests in front of the courts, denouncing the police action, denouncing the police action.
-
-At the same time, lawyers who have faced land fraudulent allegations are demanding bail in courts on Wednesday (08) to prevent the police from arrest.
-
-◼️
-
-[Data](articles/ab8f8101.json)
-
-[Extended Data](ext_articles/ab8f8101.ext.json)
 
 ---

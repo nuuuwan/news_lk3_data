@@ -1,37 +1,107 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 18:22:29**
+As of **2025-10-07 19:02:07**
 
 ## Newspaper Stats
 
-*Scraped **81,930** Articles*
+*Scraped **81,939** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 637
 newsfirstlk | 642
-bbccomsinhala | 727
+bbccomsinhala | 728
 colombotelegraphcom | 815
-lankadeepalk | 952
+lankadeepalk | 957
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,828
+adalk | 7,829
 adaderanalk | 10,520
 tamilmirrorlk | 12,154
 virakesarilk | 13,490
-adaderanasinhalalk | 14,047
+adaderanasinhalalk | 14,049
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,930 (100.0%) of 81,930 articles have been extended.
+81,939 (100.0%) of 81,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### Sri Lanka's economic resource is still incomplete - World Bank
+
+*2025-10-07 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215442) · `si`
+
+The World Bank says Sri Lanka's recent economic activity is strong.
+
+However, the Sri Lankan economy is imperfect and the economic growth is still below the crisis.
+
+The World Bank says a new report on Sri Lanka's development updates (Sri Lanka Development Update).
+
+The World Bank says a press release regarding the contents of this report, the World Bank says that the current macroeconomic stability, quick structural reforms and more efficient, amenitable state spending will be needed.
+
+The World Bank foretells that the Sri Lanka Development updates released today (07) will be 4.6% of the Sri Lankan economy in 2025.
+
+However, the World Bank pointed out that this can slow down to 3.5% in 2026.
+
+◼️
+
+[Data](articles/cd209f25.json)
+
+[Extended Data](ext_articles/cd209f25.ext.json)
+
+---
+
+### Speaker's Certificate to the Convention against Timing (Amendment) Bill
+
+*2025-10-07 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215441) · `si`
+
+Speaker Medical Medical Minister Wickramaratne today noted his certificate today (07).
+
+Today is 11.30 pm to. The second reading of the Convention (Amendment) Bill was held in the second reading of the bill against the role of stimulating material (Amendment).
+
+The Hon.
+
+This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.
+
+World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
+
+Accordingly, the Convention Against the Convention on Modeling Mars' Conventional (Amendment) Bill (Amendment) Act No. 21 of 2025 is enforced as the Convention Against Matching.
+
+◼️
+
+[Data](articles/2babb329.json)
+
+[Extended Data](ext_articles/2babb329.ext.json)
+
+---
+
+### Speaker Certificate to Sports Stimulant Act
+
+*2025-10-07 17:57:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරඩ-උතතජක-තහනම-පනතට-කතනයක-සහතකය/101-680880) · `si`
+
+Speaker Medical Jagath Wickramaratne today noted his certificate today (07).
+
+Today is 11.30 pm to. The second reading of the Convention (Amendment) Bill was held in the second reading of the bill against the role of stimulating material (Amendment).
+
+The Bill was presented to parliament on 12.09.2012 to the first reading for the first time.
+
+This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.  World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
+
+Accordingly, the Convention Amendment Amendments to the Struggle to Take Strain to Take Strain (Amendments) Bill, No. 21, No. 21, 2025, is in force.
+
+◼️
+
+[Data](articles/3f38fcb1.json)
+
+[Extended Data](ext_articles/3f38fcb1.ext.json)
+
+---
 
 ### Request of the Opposition to 323 Imported Contactations of Customs
 
@@ -141,6 +211,48 @@ Commenting with us, MP MP Kavindha Jayawardene said that the report of the commi
 
 ---
 
+### A special committee to look into the container mess
+
+*2025-10-07 17:13:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බහලම-අවල-හයනන-වශෂ-කරක-සභවක/101-680879) · `si`
+
+A proposal to appoint a special committee to investigate the release of 323 containers without checking for 323 containers was handed over to Speaker.
+
+The General Secretary of the JSP, Chief Opposition Whip Karunathilaka, Chief Secretary General of Opposition and Members of the Opposition Gayantha Karunatilake and Members of the Opposition Gayantha Karunatilake and Members of Parliament were also present.
+
+The incident is also known that the case is being carried out in Parliament that the information is being carried out in the area of ​​this container and other banquacked authorities, as well as these containers have been brought to the Sri Lankan content, and the information is being carried out in this regard. The proposal states.
+
+Commenting with us, MP MP Kavindha Jayawardene said that the report of the committee had yet to be officially presented to Parliament, except the report conducted by the Investigation Committee on Release of the Container.
+
+...
+
+[Data](articles/f7f091b3.json)
+
+[Extended Data](ext_articles/f7f091b3.ext.json)
+
+---
+
+### Risk of dengue increased dengue
+
+*2025-10-07 17:10:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඩග-වඩවම-අවධනමක/101-680878) · `si`
+
+The National Dengue Prevention Unit states that there is a risk to spread the dengue spreads with the high race.
+
+The National Dengue Control Unit of the National Dengue eradication unit said that 39401 dengue patients were reported in Sri Lanka in the past year.
+
+The specialist was killed in this year due to dengue.
+
+431 dengue patients have been reported so far in October.
+
+She said most of the total number of dengue patients were reported from the Western Province.
+
+◼️
+
+[Data](articles/8fe69f49.json)
+
+[Extended Data](ext_articles/8fe69f49.ext.json)
+
+---
+
 ### Risk of dengue increased dengue
 
 *2025-10-07 17:10:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඩග-වඩවම-අවධනමක/1-680878) · `si`
@@ -176,6 +288,30 @@ Foreign media reports that the US tsunami alarm system has not issued a tsunami 
 [Data](articles/c1d13d74.json)
 
 [Extended Data](ext_articles/c1d13d74.ext.json)
+
+---
+
+### President meets IMF
+
+*2025-10-07 17:04:15* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ජනපත-අය-එම-එෆ-හමවය/101-680877) · `si`
+
+President Anura Kumara Dissanayake and the IMF representatives were held today (7) at the Presidential Secretariat.
+
+The discussion was held on behalf of the central phase of the fifth review of the IMF in the restructuring process.
+
+President Anura Kumara Dissanayake said that the government's main objective is to be released and taken to developing the country economically towards development.
+
+The President also appreciates the assistance of the IMF in the process of making the program.
+
+The President pointed out that the government has identified the needs of the International Monetary Fund as a country that can be developed as a country that can be developed as a country where the country has been developed.
+
+ආර්ථික පුනර්ජීවනයක් අත්කර ගැනීමේ ඉලක්කය සපුරා ගැනීමට නම් දේශීය හා විදේශීය ආයෝජකයින් තවදුරටත් කැඳවා ගත යුතුව ඇති බව පෙන්වා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඒ වෙනුවෙන් ආයෝජනයට හිතකර පරිසරයක් රට තුළ නිර්මාණය කළ යුතුව ඇති බවද අවධාරණය කළේය.
+
+...
+
+[Data](articles/cebec73c.json)
+
+[Extended Data](ext_articles/cebec73c.ext.json)
 
 ---
 
@@ -316,6 +452,24 @@ After consolidation of the special appeal petition, the Supreme Court refused to
 [Data](articles/8a95c3d9.json)
 
 [Extended Data](ext_articles/8a95c3d9.ext.json)
+
+---
+
+### Construction in the Rambukkana and Galagedara section of the Central Expressway begin this year
+
+*2025-10-07 16:45:53* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-රඹුක්කන-හා-ගලගෙදර-කොටසේ-ඉදිකිරීමේ-මේ-වසරේ-ඇරඹේ/11-418960) · `si`
+
+Deputy Minister of Transport and Highways Dr. Prasanna Gunasena says that the government is planning to commence the construction work of the section from Rambukkana to Galagedara this year.
+
+The Expressway will take place in two stages of the Mirigama section of the Mirigama section of the Mirigama section of the Mirigama section and is the Milgali Writers of China, the Minister said.
+
+However, the Minister said that the telephone of the Rambukkana section of the Rambukkana section will be considering the new conditions of the Chinese Exam.. The Minister emphasized that the Government of Sri Lanka provides the other $ 438 million for the construction of the road.
+
+◼️
+
+[Data](articles/16a90bc7.json)
+
+[Extended Data](ext_articles/16a90bc7.ext.json)
 
 ---
 
@@ -1369,6 +1523,34 @@ Governor of Uva Province Kapila Jayasekara, Uva Provincial Chief Secretary Anush
 
 ---
 
+### The proposal to the Human Rights Council to Sri Lanka and Sri Lanka's intense response
+
+*2025-10-07 12:54:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3vke41k14o) · `si`
+
+The proposal to the Human Rights Council to Sri Lanka and Sri Lanka's intense response
+
+A proposal on Sri Lanka in the 60th session of the UN Human Rights Council was presented.
+
+The Grossen Sinhala translation of the proposal on Sri Lanka under the Title of Sri Lanka, the Promote Sri Lanka's Reconciliation and Human Rights, "says the Sinhala translation of Sri Lanka.
+
+Promotion of goals and principles of reconciliation, accountability and human rights, United Nations Charter
+
+The Universal Declaration of Human Rights and the relevant international human rights agreements are guided.
+
+Recalling the 57/1 proposal on October 9, 2024 on reconciliation, accountability and human rights in Sri Lanka
+
+Return to the sovereignism, independence, unity, and territorial integrity of Sri Lanka
+
+Skip Podcast Promotion Contoion and Continue Reading Our BBC News Sinhala Business Whatsapp Channel Following.
+
+...
+
+[Data](articles/0384159c.json)
+
+[Extended Data](ext_articles/0384159c.ext.json)
+
+---
+
 ### US ends universal Covid-19 vaccine recommendation, leaves decision to patients
 
 *2025-10-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113297/us-ends-universal-covid-19-vaccine-recommendation-leaves-decision-to-patients) · `en`
@@ -1882,171 +2064,5 @@ Accordingly, a red have a redlified substance with these children to taste the c
 [Data](articles/87c28615.json)
 
 [Extended Data](ext_articles/87c28615.ext.json)
-
----
-
-### Eight students of Dambulla Vidyalaya receives eight students to hospital
-
-*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-8ක-රහලට-යවය/101-680837) · `si`
-
-According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
-
-Five boys and two girls have been hospitalized.
-
-Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
-
-Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
-
-◼️
-
-[Data](articles/c801528c.json)
-
-[Extended Data](ext_articles/c801528c.ext.json)
-
----
-
-### Eight students of Dambulla Vidyalaya receives eight students to hospital
-
-*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-8ක-රහලට-යවය/1-680837) · `si`
-
-According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
-
-Five boys and two girls have been hospitalized.
-
-Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
-
-Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
-
-◼️
-
-[Data](articles/0ec4264d.json)
-
-[Extended Data](ext_articles/0ec4264d.ext.json)
-
----
-
-### Mahinda Amaraweera met Mahinda Rajapaksa
-
-*2025-10-07 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/227100) · `ta`
-
-Former Minister Mahinda Amaraweera has met former President Mahinda Rajapaksa at the Calton residence in Tangalle.
-
-During the meeting, there were discussions between Mahinda Amaraweera and Mahinda Rajapaksa.
-
-After the government passed a bill to cancel the presence of former presidents, the former President Mahinda Rajapaksa left the royal palace in the Colombo Wijerama Mawatha, where former President Mahinda Rajapaksa was staying and moved to Calton's residence in Hambantota - Thangal.
-
-It is noteworthy that many politicians, parliamentarian and family members visited the Calton House to meet Mahinda Rajapakse after he moved to the Calton residence in Tangalle.
-
-◼️
-
-[Data](articles/33f2842b.json)
-
-[Extended Data](ext_articles/33f2842b.ext.json)
-
----
-
-### Japan's leading EV Innovate Terra Motors call for domestic distributors in Sri Lanka
-
-*2025-10-07 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227099) · `ta`
-
-Terra Motors, which offers leading Japanese electric vehicle transport solutions, has launched its leading electric -operated three -wheeler Kyoro in Sri Lanka.
-
-The next generation of Terra Motors is a three -wheeler and is designed to be used for passenger transport and freight transport.
-
-We are proud to bring engineering techniques to Sri Lanka. We see that Sri Lanka is one of the major markets that can change the sustainable transport structure in Asia. ” Said.
-
-Through this move, the increasing economic and business handicrafts in Japan and Sri Lanka are reflected.
-
-Through the entry of Terra Motors, the company is confident that mutual advantage in professionalism, investment and sustainable development is to create new opportunities for hands -on hands between the two countries.
-
-For business requests or delivery opportunities, contact us +91 91477 52921 via ev.Auto@terramotors.co.jp or via WhatsApp.
-
-◼️
-
-[Data](articles/08581e54.json)
-
-[Extended Data](ext_articles/08581e54.ext.json)
-
----
-
-### Vehicles assigned for security of former presidents can be returned if requested: Public Security Minister
-
-*2025-10-07 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113294/vehicles-assigned-for-security-of-former-presidents-can-be-returned-if-requested-public-security-minister) · `en`
-
-Minister of Public Security Ananda Wijepala says that although the Former Presidents’ Entitlements Act has been repealed, this does not mean that necessary measures will not be taken to ensure their security.
-
-The Public Security Minister made this statement during Parliament proceedings today (07).
-
-The Minister further noted that some former Presidents have already returned the vehicles previously used for their security, but emphasised that this does not fall under the scope of the repealed entitlements law.
-
-Minister Wijepala also reaffirmed that ensuring the security of former Presidents remains a responsibility of the government, and if any requests are made for security-related vehicles or other requirements, the present administration is prepared to make the necessary arrangements.
-
-◼️
-
-[Data](articles/fedcd35b.json)
-
-[Extended Data](ext_articles/fedcd35b.ext.json)
-
----
-
-### Protection of the Claim Act of former Tama Skills Act
-
-*2025-10-07 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215430) · `si`
-
-Although the Claimant Act of former presidents was abolished, he will not take necessary action to protect them.
-
-The Minister said that some former presidents have been handed over to their safety vehicles and is not applicable to the claim abolition bill.
-
-The Minister also said that if the government is responsible for the security of former presidents, it is a demand for security vehicles, including security vehicles and other things.
-
-◼️
-
-[Data](articles/0101d8a9.json)
-
-[Extended Data](ext_articles/0101d8a9.ext.json)
-
----
-
-### Another training for 515 nurses
-
-*2025-10-07 12:03:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හද-සවය-515කට-තව-පහණවක/1-680835) · `si`
-
-Dr. Nalinda Jayatissa said Dr. Nalinda Jayatissa said that the hospital system would be managed to manage the hospital.
-
-The Minister said that 515 nurses of training training were trained in the National Training Management and Supervising Diploma in the Nursing Service.
-
-This was held at the Colombo Post Primary Nursing College, the patronage of Health and Mass Media Media Dr. Nalinda Jayatissa.
-
-The Nurses of the Ward Management and Supervisory Diploma in the Ministry of Health and Massestination have been selected among the year and a half-year-old diploma courses and promotions.
-
-Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the members of the recruitment of the training were a group of difficulties as a group of hardships in different parts of the island.
-
-◼️
-
-[Data](articles/f3f1b07a.json)
-
-[Extended Data](ext_articles/f3f1b07a.ext.json)
-
----
-
-### Another training for 515 nurses
-
-*2025-10-07 12:03:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හද-සවය-515කට-තව-පහණවක/101-680835) · `si`
-
-Dr. Nalinda Jayatissa said Dr. Nalinda Jayatissa said that the hospital system would be managed to manage the hospital.
-
-The Minister said that 515 nurses of training training were trained in the National Training Management and Supervising Diploma in the Nursing Service.
-
-This was held at the Colombo Post Primary Nursing College, the patronage of Health and Mass Media Media Dr. Nalinda Jayatissa.
-
-The Nurses of the Ward Management and Supervisory Diploma in the Ministry of Health and Massestination have been selected among the year and a half-year-old diploma courses and promotions.
-
-Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the members of the recruitment of the training were a group of difficulties as a group of hardships in different parts of the island.
-
-◼️
-
-[Data](articles/0c70714d.json)
-
-[Extended Data](ext_articles/0c70714d.ext.json)
 
 ---

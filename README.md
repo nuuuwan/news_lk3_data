@@ -1,37 +1,425 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 10:38:17**
+As of **2025-10-07 11:20:37**
 
 ## Newspaper Stats
 
-*Scraped **81,755** Articles*
+*Scraped **81,785** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 628
+newsfirstlk | 632
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 907
+lankadeepalk | 909
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,813
-adaderanalk | 10,501
-tamilmirrorlk | 12,125
-virakesarilk | 13,456
-adaderanasinhalalk | 14,031
+adaderanalk | 10,505
+tamilmirrorlk | 12,132
+virakesarilk | 13,467
+adaderanasinhalalk | 14,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,755 (100.0%) of 81,755 articles have been extended.
+81,781 (100.0%) of 81,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### Harini Amarasuriya and Narendra Modi participate in the NDTV World Summit this month
+
+*2025-10-07 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/227071) · `ta`
+
+Prime Minister Harini Amarasuriya and Indian Prime Minister Narendra Modi are expected to be held this month.
+
+The summit will be held in New Delhi on October 17 and 18.
+
+2025 - Leaders of some of the most influential countries in the world are reported to be participating in global conversation at the NDTV World Summit.
+
+Indian Prime Minister Narendra Modi, Sri Lanka's Harini Amarasuriya and two former prime ministers, Rishi Sunak of the United Kingdom and Tony Abbott of Australia will participate in the summit.
+
+◼️
+
+[Data](articles/ea2dca98.json)
+
+[Extended Data](ext_articles/ea2dca98.ext.json)
+
+---
+
+### Gampola incident; Car driver arrested!
+
+*2025-10-07 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227088) · `ta`
+
+The driver of the car has been arrested by the Gampola police in connection with the accident which took place on Monday afternoon in Tholuwa area in Kandy, Gampola, Kandy.
+
+Three women died on the spot and another woman was injured and admitted to the Gampola hospital.
+
+Investigations carried out by the police revealed that a 36 -year -old woman was driving the car.
+
+Police investigations have revealed that the woman was the first husband and the car had been driven by her husband and children to the city of Gampola.
+
+◼️
+
+[Data](articles/1d7a68ab.json)
+
+[Extended Data](ext_articles/1d7a68ab.ext.json)
+
+---
+
+### Nobel Prize for Medicine for 2025
+
+*2025-10-07 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227086) · `ta`
+
+The Nobel Prize winners for 2025 will be announced from Monday.
+
+The Nobel Prize is awarded annually to the enormous achievement in the fields of medicine, physics, chemistry, literature, economics and peace.. The Nobel Prize includes a medal, certificate and cash prize.
+
+The Nobel Prize for Medicine this year has been announced to be distributed to 3. Mary E. Frankov, Brett Ramstell and Shimon Sahakuchi have been awarded the Nobel Prize for Medicine in 2025.
+
+◼️
+
+[Data](articles/ee504c2b.json)
+
+[Extended Data](ext_articles/ee504c2b.ext.json)
+
+---
+
+### Sri Lanka Crosses 1.7 Million Tourist Arrivals
+
+*2025-10-07 10:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka-crosses-1-7-million-tourist-arrivals) · `en`
+
+COLOMBO (News 1st); Sri Lanka’s tourism industry continues its upward trajectory, with 1,725,494 international visitors arriving in the country during the year to date, according to the Sri Lanka Tourism Development Authority.
+
+In September alone, the island welcomed 158,971 tourists, reflecting sustained global interest in Sri Lanka as a travel destination.
+
+India remains the leading source of tourists, contributing 375,292 arrivals so far this year.
+
+Significant numbers have also arrived from the United Kingdom, Russia, Germany, and China, each surpassing the 100,000 mark.
+
+◼️
+
+[Data](articles/101c8c13.json)
+
+---
+
+### Government Moves to Equalize Learning Opportunities
+
+*2025-10-07 10:33:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/government-moves-to-equalize-learning-opportunities) · `en`
+
+COLOMBO (News 1st); Minister of Education, Higher Education, and Vocational Training, Prime Minister Dr. Harini Amarasuriya, emphasized that reducing disparities among schools and enhancing the quality of educational experiences for all children are central goals of the upcoming education reform agenda.
+
+Speaking at a high-level meeting with education sector officials held at the Ministry of Education, Dr. Amarasuriya addressed long-standing challenges that have plagued the school system for decades.
+
+She highlighted how structural inequalities between schools have contributed to a range of issues — from student stress and learning gaps to the pressures faced by teachers and principals.
+
+“The competitive nature of our education system has created immense pressure on students, educators, and administrators alike. At the heart of these challenges lies the deep-rooted inequality among schools,” Dr. Amarasuriya stated.
+
+...
+
+[Data](articles/0e86c04e.json)
+
+---
+
+### A change of gold prices
+
+*2025-10-07 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215427) · `si`
+
+Market data points out that world gold prices have crossed $ 3,950 for the first time in history.
+
+Accordingly, gold is also increased by Rs. 8,000 compared to Saturday.
+
+Accordingly, the price of a 22 carrots in the gold market in the gold market in Colombo this morning (07) was Rs.. Up to 290,500.
+
+Meanwhile, Saturday is Rs. 306,000 "24 carrots" gold pound is Rs.. According to Rattota Market, Colombo, Colombo, Colombo said that up to 314,000.
+
+◼️
+
+[Data](articles/0d387802.json)
+
+[Extended Data](ext_articles/0d387802.ext.json)
+
+---
+
+### The death of the teacher drowning in the water
+
+*2025-10-07 10:28:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-ஆசிரியர்-மரணம்/175-365869) · `ta`
+
+A school teacher who was bathing in the Murudawela reservoir at 3.30 pm on Sunday (06)
+
+The deceased Varala Morawaka, WJKP from Varala area. Suresh (age 32) has been identified.
+
+He was bathing in the Murudawela reservoir with a group of friends.
+
+The drowning person was later taken to Valasmulla Base Hospital in Swaseriya ambulance. The body is placed at Valasmulla Hospital.
+
+◼️
+
+[Data](articles/c6030d5e.json)
+
+[Extended Data](ext_articles/c6030d5e.ext.json)
+
+---
+
+### Suspect Arrested in Mapalagama with Foreign-Manufactured Semi-Automatic Firearm
+
+*2025-10-07 10:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/suspect-arrested-in-mapalagama-with-foreign-manufactured-semi-automatic-firearm) · `en`
+
+COLOMBO (News 1st): A suspect has been arrested in Mapalagama with a foreign-manufactured semi-automatic firearm resembling a pen.The arrest was made during a raid conducted by officers of the Nagoda Police, in Galle.Police stated that the suspect was found in possession of the pen-shaped semi-automatic firearm, along with two live rounds and five used cartridges.Investigations have revealed that the 23-year-old suspect, a resident of the same area, had previously been remanded for the illegal possession of a firearm.Police further said that he is also facing drug-related charges.The suspect is scheduled to be produced before the Baddegama Magistrate’s Court today.
+
+◼️
+
+[Data](articles/e3868fdc.json)
+
+---
+
+### Death one of the trio trapped in the rib stream
+
+*2025-10-07 10:24:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிப்-நீரோட்டத்தில்-சிக்கிய-மூவரில்-ஒருவர்-மரணம்/175-365868) · `ta`
+
+Three people from the Matara area were bathing in the sea on the Nilwella beach in Dikwella.
+
+By then, the trio were swept away in a rib stream, and the people of the area took steps to rescue them, but one was reportedly dead there.. The other two rescued have been admitted to the Matara General Hospital for treatment.
+
+The deceased in the incident is said to be 32 -year -old Hewa Nibuna Taraka Lakmal.
+
+◼️
+
+[Data](articles/8c94c07e.json)
+
+[Extended Data](ext_articles/8c94c07e.ext.json)
+
+---
+
+### They look like dad
+
+*2025-10-07 10:19:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/එයලට-හනනත-පනන-මමය-තතතය/101-680829) · `si`
+
+MP Namal Rajapaksa said that he would not succeed in making false evidence and put false evidence.
+
+"The President will sit on the world and come. It's good to go the country, it doesn't matter, and the head of the head of state should attend international conventions.
+
+We're not in the mentality they have been. But when you visit an international convention, the leaders of the state should also tell us about the consequences of them. Don't sign the covenants and shut the shop.
+
+.It 's not give you agreement with some countries that the government has signed agreements. If you can't give, it's something to hide? Why does the house and do politics? The government is trying to now when the government cannot work
+
+Show our mouths and show prisons, and lose their lives. We do not do politics. Building false evidence and put us in prisons, but it won't work.
+
+...
+
+[Data](articles/a76014e8.json)
+
+[Extended Data](ext_articles/a76014e8.ext.json)
+
+---
+
+### Half a salary of suspended judges
+
+*2025-10-07 10:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைநீக்கம்-செய்யப்பட்ட-நீதிபதிகளுக்கு-பாதி-சம்பளம்/175-365867) · `ta`
+
+It has decided to pay half of their salary to the suspended judges, while the Judicial Service Commission (JSC) has suspended several allowances.
+
+The Secretary of the Justice Service Commission Prasanna Alwis has sent a circular describing this decision to all High Court judges.
+
+The move was taken following the recent suspension of judges who faced various allegations. The Judicial Service Commission has announced that the suspended judges will get 50% of their salary.
+
+At the meeting of the Ministry of Justice and the National Coordinating Committee of the Ministry of Justice and the Management Committee on payments to be paid with reduced salary.
+
+The group decided that only professional, personal, living expenses and language allowances would be added to half the salary allowances. Other allowances, including telephone, vehicle, driving, books, home rent, appeal and fuel allowances.
+
+...
+
+[Data](articles/e99802a9.json)
+
+[Extended Data](ext_articles/e99802a9.ext.json)
+
+---
+
+### Stock of Magazines and Equipment Found in Weheragala Reservoir to Be Produced in Court Today
+
+*2025-10-07 10:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/stock-of-magazines-and-equipment-found-in-weheragala-reservoir-to-be-produced-in-court-today) · `en`
+
+COLOMBO (News 1st): A large stock of magazines and military equipment recovered from the Weheragala Reservoir in Kataragama is scheduled to be produced before the Wellawaya Magistrate’s Court today.Police said that the discovery included 215 empty T-56 magazines, 39 empty LMG drum magazines, 11 empty MPMG-200 magazines, 9 MPMG-100 magazines, 6 T-81 magazines, and one empty 12.7mm aircraft destroyer drum.The items were recovered during operations carried out by three naval diving teams in the Weheragala Reservoir.Following the discovery, the Special Task Force (STF) conducted a two-day search operation in the Yala National Park area adjacent to the reservoir.However, no additional items were found during the operations in the Yala National Park.
+
+◼️
+
+[Data](articles/f091e3a8.json)
+
+---
+
+### Arrested with a new rifle
+
+*2025-10-07 10:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ரக-துப்பாக்கியுடன்-ஒருவர்-கைது/175-365865) · `ta`
+
+Based on the evening, on the evening of 2025.10.06, the Nagoda Police Station officials seized the autonomous gun, 02 bullets and 05 used bullets made in the form of an abroad.
+
+A man involved in the incident was arrested on suspicion of Nagoda's Aluthanayamgoda. The suspect is a 23 -year -old from Mabalagama.
+
+◼️
+
+[Data](articles/34329b09.json)
+
+[Extended Data](ext_articles/34329b09.ext.json)
+
+---
+
+### Humber recovery
+
+*2025-10-07 10:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாங்குளத்தில்-மனித-எலும்புக்கூடு-மீட்பு/175-365864) · `ta`
+
+A human skeleton was recovered on Saturday (04) in a private land in Mankulam Nagar area of ​​the Mangulam police division of the Mullaitivu district.
+
+The skeleton has been found in the area where a person died in the area, with a part of the land.
+
+A person who went to the area on Saturday evening (04) and the Mankulam police informed the Mankulam police.
+
+Following this, the Mankulam police went to the scene and started investigations into the area as a criminal area.
+
+In this case, the forensic police arrived at the site on Sunday morning (05) and carried out tests on the human body's remains in the area.
+
+Meanwhile, the Mullaitivu District Response District Response to the skeleton of the Mullaitivu District Judge Mrs. Nehrojini Arthanan has been taken to the Vavuniya Hospital in response to the judge's Forensic Police and the police in the presence of the judge.
+
+The skull and the bones were found in the land of the poisonous drug.
+
+...
+
+[Data](articles/4ad5c296.json)
+
+[Extended Data](ext_articles/4ad5c296.ext.json)
+
+---
+
+### One arrested with a pen -shaped firearm!
+
+*2025-10-07 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/227079) · `ta`
+
+One person was arrested on Monday evening (06) evening in Galle, Nagoda with a pen -shaped gun, 02 bullets and 05 used ammunition bombs.
+
+According to information received by the Nagoda Police Station, the suspect was arrested during the raid.
+
+The suspect was 23 years old from Mabalagama, police said.
+
+◼️
+
+[Data](articles/06aaf019.json)
+
+[Extended Data](ext_articles/06aaf019.ext.json)
+
+---
+
+### A criminal remanded for suspicion
+
+*2025-10-07 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215426) · `si`
+
+A person who was arrested on suspicion of crimes including human killings and remanded.
+
+The suspect was produced before the Kaduwela Magistrate's Court and remanded until the 21st of this month.
+
+The suspect was arrested recently in Thalawathugoda area with a raid conducted by the Talangama Police.
+
+The suspect is a 36 year old resident of Thalawathugoda and he has revealed that he is a person who is close to the organized criminal criminals.
+
+The police said that shot dead in Modara, to buy heroin, and the suspect is filed against the abduction of a person.
+
+The suspect has also been shot and served as the motorcyclist of the crimes of the crimes of the murder of murders in Gampaha.
+
+He was also shot in Weliweriya and the motorcyclist of the crime of attempting to be killed.
+
+The police said that a motorcycle which was suspected to be used for crimes in the possession of the suspect was found.
+
+◼️
+
+[Data](articles/4c4c037d.json)
+
+[Extended Data](ext_articles/4c4c037d.ext.json)
+
+---
+
+### Innovation of drugs from lorry; Two arrested arrests!
+
+*2025-10-07 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/227083) · `ta`
+
+Two persons have been arrested by Dungalpitiya police with illegal beedi leaves and heroin.
+
+The suspects have been arrested when a suspicious lorry was found in the Gampaha, Dungalpitiya - Pittipana - Lelma area.
+
+In addition, police said that when the suspects were checked, one person had found 03 grams of 220 milligrams of heroin and another 03 grams of heroin.
+
+Police investigations have revealed that the suspects were 30 and 34 years old from Negombo and Parasankaswewa areas.
+
+◼️
+
+[Data](articles/eb1cba6d.json)
+
+[Extended Data](ext_articles/eb1cba6d.ext.json)
+
+---
+
+### Helicopter accident on highway highway in the United States; 3 people are in danger!
+
+*2025-10-07 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227085) · `ta`
+
+A helicopter crashed on a highway on Tuesday (06) in Sacramento, California, USA.
+
+It has been revealed that the medical helicopter departed from a children's hospital.
+
+The video fell to the ground shortly after the helicopter lost control of the highway.
+
+According to reports, the incident took place at around 7.10 pm (local time) on the eastern road of the highway 50 near Howe Avenue.
+
+Last August, three people were killed when a helicopter crashed on White Island in Britain.
+
+◼️
+
+[Data](articles/e47a6841.json)
+
+[Extended Data](ext_articles/e47a6841.ext.json)
+
+---
+
+### Sri Lanka rejects resolution presented to Human Rights Council
+
+*2025-10-07 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113289/sri-lanka-rejects-resolution-presented-to-human-rights-council) · `en`
+
+Sri Lanka, while disagreeing with coercive international action, rejected the resolution 60/L.1/Rev.1 presented to the United Nations Human Rights Council in Genève.
+
+Speaking during the 60th session of the UNHRC, Ambassador and Permanent Representative of Sri Lanka to the United Nations in Geneva Himalee Arunatilaka reiterated Sri Lanka’s rejection to the unprecedented and ad hoc move to expand the UN Human Rights Council´s mandate and the proposal to establish an external evidence gathering mechanism set up by the Office of the High Commissioner for Human Rights.
+
+Ambassador Arunatilaka noted that Sri Lanka participated in discussions on the resolution in a spirit of open and constructive engagement that the country has demonstrated throughout.
+
+She also appreciated the core group’s engagement on language amendments proposed by Sri Lanka but regrets that failure to find agreement on certain key concerns.
+
+...
+
+[Data](articles/6a790375.json)
+
+[Extended Data](ext_articles/6a790375.ext.json)
+
+---
+
+### The government is ready to provide security to Mahinda
+
+*2025-10-07 09:50:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-பாதுகாப்பு-வழங்க-அரசாங்கம்-தயார்/175-365863) · `ta`
+
+Deputy Minister Mahinda Jayasinghe says the government is ready to provide security to former President Mahinda Rajapaksa.
+
+The Deputy Minister pointed out that there would be no problem in providing security after evaluating the conditions if he was assessed and declared the security requirements and threats he faced.
+
+Therefore, there will be no problems with this issue, he said.  R
+
+◼️
+
+[Data](articles/6d108856.json)
+
+[Extended Data](ext_articles/6d108856.ext.json)
+
+---
 
 ### Parliamentary Council begins
 
@@ -42,6 +430,24 @@ Extensions include translations and NER (Named Entity Recognition).
 [Data](articles/5dff74ea.json)
 
 [Extended Data](ext_articles/5dff74ea.ext.json)
+
+---
+
+### Employee fired at the weekend
+
+*2025-10-07 09:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வார-இறுதியில்-வேலைக்கு-வர-மறுத்த-ஊழியர்-பணிநீக்கம்/175-365862) · `ta`
+
+Excessive work pressure imposed on employees in small private companies in India has become a major debate. In this context, the company's dismissal of the employee who refused to work on the weekend on the weekend, considering the urgent medical needs of his family member in Hyderabad, has caused great shock.
+
+Inhumane act in medical emergency. In it, the company's manager has insisted that he continues to work on weekends and after office hours. Meanwhile, the employee told the manager that his grandmother had to go to the city immediately because he was diagnosed with cancer.
+
+But, the manager has no humanitarianism for the employee's request. Thus, the depressed employee has informed the company through e-mail about his condition and the harassment he faces. But shockingly, the administration, which was mistakenly regarded by the email, has fired him the next day without any prior notice.
+
+...
+
+[Data](articles/5782e85b.json)
+
+[Extended Data](ext_articles/5782e85b.ext.json)
 
 ---
 
@@ -62,6 +468,166 @@ Boats were drowned, and the casual was taken and hospitalized.
 [Data](articles/9492e471.json)
 
 [Extended Data](ext_articles/9492e471.ext.json)
+
+---
+
+### Britain remembered Manoharan at the Convention; Point out that many relationships have died without truth and justice
+
+*2025-10-07 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/227082) · `ta`
+
+Speaking at the United Nations Human Rights Council, the British representative, who had long been fighting for justice, recalled that many family members were unaware of what had happened to their loved ones and not knowing what had happened to their loved ones.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, which was produced by the British -headed Canada, Montenegro and North Mesitonia, was submitted to the new proposal, 60/L1/Rev.1, under the topic of 'Reconciliation, Liability and Human Rights Improves in Sri Lanka' by the British -led Canada, Montenegro and North Mesitonia.
+
+Accordingly, the British representative who presented the proposal on behalf of the Internet countries:
+
+Here I am remembered here that the dead doctor.. Manoharan is the activist who fought for justice after the death of five students, including his son Rajikar, in 2006, in Trincomalee.
+
+...
+
+[Data](articles/99dd0f68.json)
+
+[Extended Data](ext_articles/99dd0f68.ext.json)
+
+---
+
+### Indians lead drop in US university visas
+
+*2025-10-07 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113288/indians-lead-drop-in-us-university-visas) · `en`
+
+The United States issued nearly one-fifth fewer student visas in August following a crackdown by President Donald Trump, led by a steep drop for India which was overtaken by China as top country of origin, data showed Monday.
+
+The United States issued 313,138 student visas in August, the most common start month for US universities, a drop of 19.1 percent from the same month in 2024, according to the International Trade Commission.
+
+India, which last year was the top source of foreign students to the United States, saw the most dramatic drop with 44.5 percent fewer student visas issued than a year earlier.
+
+Visa issuance also dropped for Chinese students but not nearly at the same rate. The United States issued 86,647 visas to students from mainland China in August, more than double the number issued to Indians.
+
+The statistics do not reflect overall numbers of US-based students, many of whom remain on previously issued visas.
+
+...
+
+[Data](articles/68a7ee7b.json)
+
+[Extended Data](ext_articles/68a7ee7b.ext.json)
+
+---
+
+### We completely reject the new proposal; Sri Lankans are not beneficial by accountability program
+
+*2025-10-07 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/227080) · `ta`
+
+Sri Lanka's resident Himali Arunathilaka, who pointed out that the Sri Lankan resident Himali Arunathilaka, pointed out that he has long been questioning the reliability of the Sri Lankan -related project, the implementation of the project and the allocation of funds.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th.
+
+The new proposal, titled 'Reconciliation, Responsibility and Human Rights Improves' in Sri Lanka, was submitted by the British -led Canada, Malavi, Montenegro and North Mesitonia, the British -led British -headed 60/L1/Rev.1.
+
+Speaking on the issue of the Sri Lankan government, Sri Lanka's Residents of the United Nations Human Rights Council, Himali Arunathilaka, pointed out that he was participating in unofficial discussions on the new proposal and that some of the amendments proposed by him had been embraced.
+
+However, he expressed concern that some of the key issues were not compatible with the Internet.
+
+...
+
+[Data](articles/8f81b791.json)
+
+[Extended Data](ext_articles/8f81b791.ext.json)
+
+---
+
+### Constructive measures are essential on the issue of accountability - the European Union's emphasis on the council
+
+*2025-10-07 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/227078) · `ta`
+
+In the House, the European Union has urged the Sri Lankan government to carry out constructive measures in the matter of accountability, as it is essential for justice and accountability to ensure sustainable reconciliation and peace.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, titled 'Reconciliation, Liability and Human Rights Improves' in Sri Lanka, was presented by the Internet, including Canada, Malawi, Montenegro and North Mesitonia, under the aim of fulfilling the meeting during the meeting.
+
+Speaking on the occasion of the European Union's position on the new proposal, the country's representative of the country said he would welcome the progressive restructuring of the Sri Lankan government over the past 12 months.
+
+...
+
+[Data](articles/f99acdb9.json)
+
+[Extended Data](ext_articles/f99acdb9.ext.json)
+
+---
+
+### Members
+
+*2025-10-07 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/227077) · `ta`
+
+While some member of the Committee and the High Commission's Office on the issue of Sri Lanka's Office, through a new proposal submitted by the Internet countries, some countries have expressed their respect, and some countries have honored Sri Lanka's sovereignty and urged the council not to interfere in the internal affairs of the country.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, titled 'Reconciliation, Liability and Human Rights Improves' in Sri Lanka, was presented by the Internet, including Canada, Malawi, Montenegro and North Mesitonia, under the aim of fulfilling the meeting during the meeting.
+
+...
+
+[Data](articles/adfb2f98.json)
+
+[Extended Data](ext_articles/adfb2f98.ext.json)
+
+---
+
+### 28,000 individuals subjected to inspection during island-wide police operation
+
+*2025-10-07 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113286/28000-individuals-subjected-to-inspection-during-island-wide-police-operation) · `en`
+
+A total of 719 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (06).
+
+As part of the operation, 28,476 people were subjected to inspection, the Police Media Division said.
+
+Police have identified 13 individuals directly linked to criminal activities while 409 suspects with outstanding warrants were arrested during the operation, police noted.
+
+According to the report, a total of 19 drunk drivers were apprehended while a further 20 reckless drivers and 3,483 persons who violated various other traffic offences were identified.
+
+According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
+
+◼️
+
+[Data](articles/839b5ee1.json)
+
+[Extended Data](ext_articles/839b5ee1.ext.json)
+
+---
+
+### Missing Youth Discovery in Adampan Puliyankulam
+
+*2025-10-07 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/227075) · `ta`
+
+Sankar Arun (age 24) from Adampan Puliyankulam area in the Manthai West Divisional Secretariat Division has disappeared since the 30th of this month.
+
+It has been reported that the young man has not returned home on the 30th of this month.
+
+His father has lodged a complaint at the Adampan police station when the son did not return home.
+
+Relatives said that the youth was searched in several parts of the country and the youth was found from the neighboring village this morning.
+
+◼️
+
+[Data](articles/b43721de.json)
+
+[Extended Data](ext_articles/b43721de.ext.json)
+
+---
+
+### Double murder in Hangama area!
+
+*2025-10-07 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/227074) · `ta`
+
+A man and woman have been hacked to death in a house in Vadikala - Ranna, which belongs to the Hangama Police Division, police said.
+
+The information was received at the Hangama Police Station early this morning (07).
+
+Investigations have revealed that the victims were 28 years old from Ranna and Tissamaharama areas.
+
+While staying at home, it is reported that the unidentified group was attacked by sharp weapons.
+
+◼️
+
+[Data](articles/9b95207f.json)
+
+[Extended Data](ext_articles/9b95207f.ext.json)
 
 ---
 
@@ -138,6 +704,30 @@ The Audit and Management Committee has decided not to pay telephone allowances, 
 [Data](articles/f87e297a.json)
 
 [Extended Data](ext_articles/f87e297a.ext.json)
+
+---
+
+### Judicial Service Commission decides to withhold several allowances for suspended judges
+
+*2025-10-07 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113284/judicial-service-commission-decides-to-withhold-several-allowances-for-suspended-judges) · `en`
+
+The Judicial Service Commission (JSC) has decided to pay only partial salaries to judges currently under suspension and to withhold several allowances that they would normally be entitled to.
+
+According to reports, a circular related to the decision has been issued by Prasanna Alwis, the Secretary of the Judicial Service Commission, to all High Court Judges.
+
+The JSC had recently taken steps to suspend several judges who are facing various allegations. Following this, the Commission decided that those judges would only be entitled to reduced salaries during their period of suspension.
+
+The matter of which allowances are to be paid along with the partial salaries was discussed during a meeting of the Audit and Management Committee of the Ministry of Justice and National Integration.
+
+At the meeting, the committee decided that only the following allowances should be granted to suspended judges:
+
+The committee further ruled that the following allowances should not be paid to the suspended judges:
+
+...
+
+[Data](articles/4ec82696.json)
+
+[Extended Data](ext_articles/4ec82696.ext.json)
 
 ---
 
@@ -632,26 +1222,6 @@ During this time, 770 milligrams of Ice had been recovered from the arrested sus
 [Data](articles/a3442fde.json)
 
 [Extended Data](ext_articles/a3442fde.ext.json)
-
----
-
-### Harini Amarasuriya and Narendra Modi participate in the NDTV World Summit this month
-
-*2025-10-07 04:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227071) · `ta`
-
-Prime Minister Harini Amarasuriya and Indian Prime Minister Narendra Modi are expected to be held this month.
-
-The summit will be held in New Delhi on October 17 and 18.
-
-2025 - Leaders of some of the most influential countries in the world are reported to be participating in global conversation at the NDTV World Summit.
-
-Indian Prime Minister Narendra Modi, Sri Lanka's Harini Amarasuriya and two former prime ministers, Rishi Sunak of the United Kingdom and Tony Abbott of Australia will participate in the summit.
-
-◼️
-
-[Data](articles/ea2dca98.json)
-
-[Extended Data](ext_articles/ea2dca98.ext.json)
 
 ---
 
@@ -1408,613 +1978,5 @@ Hospital sources say that the victim was admitted to the Batagama hospital due t
 [Data](articles/64437099.json)
 
 [Extended Data](ext_articles/64437099.ext.json)
-
----
-
-### Student dies to the pool to take the ball
-
-*2025-10-06 21:47:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බලය-ගනන-තටකයට-පනන-සසව-ගල-මරට/101-680810) · `si`
-
-The school student drowned in the swimming pool, police said.
-
-While playing cricket at the college stadium, the ball had fallen into the pool near the ball
-
-Hospital sources say that the victim was admitted to the Batagama hospital due to the drowning student to the swimming pool to take the ball, hospital sources said.. The accident had been reportedly stated that about 6:30 pm Dickwella Vijitha Maha Vidyalaya, Dickwella Vijitha Maha Vihara.
-
-◼️
-
-[Data](articles/dcbd73a4.json)
-
-[Extended Data](ext_articles/dcbd73a4.ext.json)
-
----
-
-### Talaimannar Katukaran Residential Drinking Water Project; Vertebra
-
-*2025-10-06 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/227063) · `ta`
-
-The Mannar-Talaimannar main road, which belongs to the Mannar Divisional Secretariat Division, was opened on Monday morning (06) to meet the drinking water needs of school children and the public in the village of Katugaran.
-
-In order to face the challenges of the public in the Mannar Katugaran residential area, the drinking water scheme was set up for the public's use of the people and the people of the village with the help of Dr. Jinanjala Sanika Vijayakuna Sekhar, under the army's 543rd infantry.
-
-Commander -in -Chief of the Army, Major General Chandra Abajakoon, the Chancellor of the 54 Infantry Division, Katukarankudiyiruppu School Principal, Teachers and Students, inaugurated the drinking water project.
-
-◼️
-
-[Data](articles/0288bc4a.json)
-
-[Extended Data](ext_articles/0288bc4a.ext.json)
-
----
-
-### Three people in Nilwella
-
-*2025-10-06 21:39:12* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/නලවලල-මහද-තදනක-ගසන-යත/1-680809) · `si`
-
-Hospital sources said that two people were killed and two others were hospitalized by the Dikwella Sea.
-
-Three persons from Yatiyana area in Matara
-
-The two other persons who had been rescued by the residents of the area had been rescued by the residents of the area.
-
-The deceased has been identified as a 32-year-old person who was the skilled stars of Moneragala
-
-◼️
-
-[Data](articles/614562ba.json)
-
-[Extended Data](ext_articles/614562ba.ext.json)
-
----
-
-### Three people in Nilwella
-
-*2025-10-06 21:39:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/නලවලල-මහද-තදනක-ගසන-යත/101-680809) · `si`
-
-Hospital sources said that two people were killed and two others were hospitalized by the Dikwella Sea.
-
-Three persons from Yatiyana area in Matara
-
-The two other persons who had been rescued by the residents of the area had been rescued by the residents of the area.
-
-The deceased has been identified as a 32-year-old person who was the skilled stars of Moneragala
-
-◼️
-
-[Data](articles/0a7a852f.json)
-
-[Extended Data](ext_articles/0a7a852f.ext.json)
-
----
-
-### RIT Call for RIT Investigation
-
-*2025-10-06 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227061) · `ta`
-
-The Terrorist Investigation Division (RIT) has summoned the former President and Secretary of the Adi Shiva Temple to investigate the Vedukkunni Mountain Adi Shiva Temple.
-
-Sasikumar, former president of the Attukkunni Mountain Athilingeswarar Temple and Secretary Thamilchelvan have been summoned to Vavuniya at 10 am on the 9th of this month.
-
-In the summoner letter, the two men have been asked to visit the affidavit.
-
-It is noteworthy that the two were arrested and released by the court on the day of Sivaratri last year and now the new administration has been selected for the temple.
-
-◼️
-
-[Data](articles/f61627be.json)
-
-[Extended Data](ext_articles/f61627be.ext.json)
-
----
-
-### French prime minister resigned from appointment of ministers
-
-*2025-10-06 21:28:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇමතවරන-පත-කර-පරශ-අගමත-ඉලල-අසව/101-680808) · `si`
-
-A month after the French Prime Minister Sebastian was appointed as LECORN. LECORNS resigned from his cabinet was a 24-hour before it was 24 hours before.
-
-The fifth Prime Minister of France is the fifth Prime Minister of France for two years and he has created a political crisis in France with resignation. 27 days of the French Prime Minister of French and his government was limited to 14 hours.
-
-The government of Licarin was the most powerful government in the history of modern French.
-
-French news services says that LECORN, French president, has been handed over to the resignation letter and the President accepts the resignation.
-
-President McConon, Licoring Prime Minister was appointed after the resignation of Franchouwa Birer. The majority of the French parliament has the right-wing parties. French President McCron and his ruling party in the center of the country.
-
-It is said that Limoru resigned from his party and other parties.
-
-...
-
-[Data](articles/9f003c71.json)
-
-[Extended Data](ext_articles/9f003c71.ext.json)
-
----
-
-### French prime minister resigned from appointment of ministers
-
-*2025-10-06 21:28:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමතවරන-පත-කර-පරශ-අගමත-ඉලල-අසව/1-680808) · `si`
-
-A month after the French Prime Minister Sebastian was appointed as LECORN. LECORNS resigned from his cabinet was a 24-hour before it was 24 hours before.
-
-The fifth Prime Minister of France is the fifth Prime Minister of France for two years and he has created a political crisis in France with resignation. ලෙකෝර්නු ප්‍රංශ අගමැති ධුරයේ දින 27 ක කටයුතු කළ අතර ඔහුගේ ආණ්ඩුව පැය 14 කට සීමාවී තිබිණි.
-
-The government of Licarin was the most powerful government in the history of modern French.
-
-French news services says that LECORN, French president, has been handed over to the resignation letter and the President accepts the resignation.
-
-President McConon, Licoring Prime Minister was appointed after the resignation of Franchouwa Birer. The majority of the French parliament has the right-wing parties. French President McCron and his ruling party in the center of the country.
-
-It is said that Limoru resigned from his party and other parties.
-
-...
-
-[Data](articles/bcbfbcf5.json)
-
-[Extended Data](ext_articles/bcbfbcf5.ext.json)
-
----
-
-### Three for the Nobel Prize for Physiology or Medicine
-
-*2025-10-06 21:23:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කයක-වදයව-හ-වදය-වදයව-සඳහ-වන-නබල-තයගයට-තදනක/101-680807) · `si`
-
-The Nobel Committee issued an announcement that the Nobel gifts of the Nobel gifts of physiology or medicine this year were awarded to three scientists.
-
-The three scientists Mary e bronkov, Fred Ramesdel and Shimon Zimon Zimon offered the Nobel Gift for Physiology or Medicine.
-
-Mary e Brenkov, Fred Ramesdel, Fred Ramesdel, is a Japanese.
-
-Thousands of people who are trying to invade our bodies have been awarded the Nobel Gift to find out how to protect us from the immune system of the microorganisms.
-
-◼️
-
-[Data](articles/a1d02725.json)
-
-[Extended Data](ext_articles/a1d02725.ext.json)
-
----
-
-### Three for the Nobel Prize for Physiology or Medicine
-
-*2025-10-06 21:23:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කයක-වදයව-හ-වදය-වදයව-සඳහ-වන-නබල-තයගයට-තදනක/1-680807) · `si`
-
-The Nobel Committee issued an announcement that the Nobel gifts of the Nobel gifts of physiology or medicine this year were awarded to three scientists.
-
-The three scientists Mary e bronkov, Fred Ramesdel and Shimon Zimon Zimon offered the Nobel Gift for Physiology or Medicine.
-
-Mary e Brenkov, Fred Ramesdel, Fred Ramesdel, is a Japanese.
-
-Thousands of people who are trying to invade our bodies have been awarded the Nobel Gift to find out how to protect us from the immune system of the microorganisms.
-
-◼️
-
-[Data](articles/f34f9ad0.json)
-
-[Extended Data](ext_articles/f34f9ad0.ext.json)
-
----
-
-### Work on the week of the Parliamentary PS on the Tomorrow, this is how
-
-*2025-10-06 21:19:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හට-ඇරඹන-පරලමනත-සතය-වඩ-වනන-මහමය/101-680806) · `si`
-
-The Secretary General of Parliament Kushani Rohanagadara said that Parliament is scheduled to meet tomorrow (7) to Friday.
-
-Tuesday 7th October to 9.30 am -. 10.00 is reserved for Parliamentary Business of the Standing Order 22. 10:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am) Reserved for Question. 11.30 am - 11:30 am - 5:00 am. The time has been set aside for the questions that follow times at the adjournment at the post until 4 pm.
-
-...
-
-[Data](articles/94abd315.json)
-
-[Extended Data](ext_articles/94abd315.ext.json)
-
----
-
-### Work on the week of the Parliamentary PS on the Tomorrow, this is how
-
-*2025-10-06 21:19:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හට-ඇරඹන-පරලමනත-සතය-වඩ-වනන-මහමය/1-680806) · `si`
-
-The Secretary General of Parliament Kushani Rohanagadara said that Parliament is scheduled to meet tomorrow (7) to Friday.
-
-Tuesday 7th October to 9.30 am -. 10.00 is reserved for Parliamentary Business of the Standing Order 22. 10:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am) Reserved for Question. 11.30 am - 11:30 am - 5:00 am. The time has been set aside for the questions that follow times at the adjournment at the post until 4 pm.
-
-...
-
-[Data](articles/119acfb2.json)
-
-[Extended Data](ext_articles/119acfb2.ext.json)
-
----
-
-### The kidney is injection
-
-*2025-10-06 21:15:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වකගඩ-එනනත-කටවන-ලක-ගහලලක/1-680805) · `si`
-
-The vaccination of the vaccine for the blood leakage of the kidney patients has been increased to Rs. 100 to Rs.
-
-Health and Mass Media Mass Media Minister Dr. Nalinda Jayatissa said that the relevant institution was obtained to obtain 400,000 acquisitions due to the importation of 400,000 acquisitions to the public hospitals.
-
-The Minister said that due to the deficit deficit, the funds will be allocated to purchase the vaccines from the sector.
-
-The tenderer was also limited to the private sector and that the vaccine thoroughle was restricted to the private sector and had a deficit.
-
-◼️
-
-[Data](articles/603e3efe.json)
-
-[Extended Data](ext_articles/603e3efe.ext.json)
-
----
-
-### The kidney is injection
-
-*2025-10-06 21:15:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වකගඩ-එනනත-කටවන-ලක-ගහලලක/101-680805) · `si`
-
-The vaccination of the vaccine for the blood leakage of the kidney patients has been increased to Rs. 100 to Rs.
-
-Health and Mass Media Mass Media Minister Dr. Nalinda Jayatissa said that the relevant institution was obtained to obtain 400,000 acquisitions due to the importation of 400,000 acquisitions to the public hospitals.
-
-The Minister said that due to the deficit deficit, the funds will be allocated to purchase the vaccines from the sector.
-
-The tenderer was also limited to the private sector and that the vaccine thoroughle was restricted to the private sector and had a deficit.
-
-◼️
-
-[Data](articles/2931f69f.json)
-
-[Extended Data](ext_articles/2931f69f.ext.json)
-
----
-
-### Prime Minister Harinini and Modi on the same platform
-
-*2025-10-06 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215414) · `si`
-
-The NDTV World Conference willingly participated in the event of Prime Minister Dr. Harini Amarasuriya and Indian Prime Minister Narendra Modi.
-
-The convention will be held in New Delhi on October 17 and 18.
-
-2025 - The global dialogue of the NDTV is scheduled to participate in the heads of strategies at present.
-
-India's Prime Minister Narendra Modi, Harini Amarasuriya and two former Prime ministers in Sri Lanka, is due to attend the conference.
-
-◼️
-
-[Data](articles/2ed85689.json)
-
-[Extended Data](ext_articles/2ed85689.ext.json)
-
----
-
-### Mail should no longer be a burden to the treasury
-
-*2025-10-06 21:12:59* · [`adalk`](https://www.ada.lk/breaking_news/තැපෑල-තව-දුරටත්-භාණ්ඩාගාරයට-බරක්-විය-යුතු-නැහැ/11-418942) · `si`
-
-Awarding permanent appointment letters to 731 selected as the Post Assistants of the Department of Postal Department (SLMC) was held at Temple Trees today (06).
-
-After the year 2021, a permanent mailing recruitment was not carried out by the Postal Department of Postal Assistant.
-
-The departmental work with such a number of vacancies has emerged and the proceedings of Health and Mass Media Dr. Nalinda Jayatissa have been given to recruit 1000 vacancies as a solution.
-
-Accordingly, 731 of the above was selected for recruitment of the proper qualifications registered as substitute employees of the Department of Posts.
-
-The Ministry of Health and Mass Mediti has already taken action to recruit 269 other postvers.
-
-This postwititor also includes in grade III of non-primary techniques.
-
-The Minister of Health and Mass Media Dr. Nalinda Jayatissa said that the appointment of Rs.
-
-The cost of Rs. The Minister said.
-
-...
-
-[Data](articles/eda58564.json)
-
-[Extended Data](ext_articles/eda58564.ext.json)
-
----
-
-### Muruthewela reservoir killed
-
-*2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/101-680804) · `si`
-
-A 32-year-old schoolteacher, a 32-year-old schoolteacher, drowns around 3.30 pm today.
-
-The deceased is W.W.W.K.K.B.B.B.BSheles, a resident of Okarale.
-
-Police said he came to a picnic with his friends and was fired in the Muruthewela Reservoir
-
-The sun was subsequently handed over to the Walasmulla Base Hospital.
-
-◼️
-
-[Data](articles/30fdbb25.json)
-
-[Extended Data](ext_articles/30fdbb25.ext.json)
-
----
-
-### Muruthewela reservoir killed
-
-*2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/1-680804) · `si`
-
-A 32-year-old schoolteacher, a 32-year-old schoolteacher, drowns around 3.30 pm today.
-
-The deceased is W.W.W.K.K.B.B.B.BSheles, a resident of Okarale.
-
-Police said he came to a picnic with his friends and was fired in the Muruthewela Reservoir
-
-The sun was subsequently handed over to the Walasmulla Base Hospital.
-
-◼️
-
-[Data](articles/6d0a24c1.json)
-
-[Extended Data](ext_articles/6d0a24c1.ext.json)
-
----
-
-### The demise of Bernard Julian, former all -rounder of the West Indies
-
-*2025-10-06 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/227060) · `ta`
-
-Bernard Julian, a former all -rounder of the West Indies team and a key member of the team in the 1970s. He is 75 years old.
-
-Julian, a left -arm fast bowler and talented player, was the key player who won the West Indies team in the 1975 first World Cup series.
-
-He took 4 wickets against Sri Lanka in the series and set a scorer in the semifinals against New Zealand by 27 runs for 4 wickets.
-
-He also played a key role in the team's victory in the final match against Australia.
-
-◼️
-
-[Data](articles/48c7514e.json)
-
-[Extended Data](ext_articles/48c7514e.ext.json)
-
----
-
-### Gaza ceasefire talks begin in Egypt
-
-*2025-10-06 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113272/gaza-ceasefire-talks-begin-in-egypt) · `en`
-
-Delegations from Israel and Hamas began indirect negotiations in Egypt on Monday that the U.S. hopes will bring a halt to the war in Gaza, facing contentious issues such as demands that Israel pull out of the enclave and Hamas to disarm.
-
-Israel and Hamas have both endorsed the overall principles behind President Donald Trump’s plan, under which fighting would cease, hostages go free and aid pour into Gaza, the closest they have come to an end to fighting.
-
-The plan also has the backing of Arab and Western states. Trump has called for negotiations to take place swiftly towards a final deal, in what Washington hails as the closest the sides have yet come to ending the fighting.
-
-“I am told that the first phase should be completed this week, and I am asking everyone to MOVE FAST,” Trump said in a social media post.
-
-But both sides are seeking clarifications of crucial details, including over issues that have wrecked all previous attempts to end the war and could defy any quick resolution.
-
-...
-
-[Data](articles/a062d86b.json)
-
-[Extended Data](ext_articles/a062d86b.ext.json)
-
----
-
-### Bellanwila Rajamaha Vihara's "Menika" elephant death
-
-*2025-10-06 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/227059) · `ta`
-
-Officials have confirmed that the famous female elephant from Bellanwila Rajamaha Vihara has died.
-
-The 76 -year -old Menika has died in the early hours of Monday (6), the Vihara administration said.
-
-For decades of the Vihara's annual Peraheras and other religious and cultural events, Menika has gained great affection among the devotees.
-
-Her death has caused the Bellanwila Rajamaha Vihara and the devotees who worship there.
-
-◼️
-
-[Data](articles/909bff36.json)
-
-[Extended Data](ext_articles/909bff36.ext.json)
-
----
-
-### An increase in HIV infected agents 15 - 29 years old
-
-*2025-10-06 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215413) · `si`
-
-The health sector has warned that there is a trend between the age groups of 15 and three years in Sri Lanka.
-
-The highest number of infected persons have been reported from Colombo and Gampaha districts.
-
-HIV is a major virus of the worst of the most disturbances in the world.
-
-It is the most dangerous situation that the body is directly attacked directly to the body's immune system and weakening the body.
-
-The health sector points out the main types of major ways to create HIV infectedists.
-
-The disease is not contagious by kissing the Patient HIV patient. The disease contagues through sex fluids. The main reason for anal traffic intercourse with HIV. The HIV virus that can lead to such unprotected sex is about 72 hours.
-
-This situation may cause the use of vaccines to vaccinate various drugs.
-
-...
-
-[Data](articles/64d79724.json)
-
-[Extended Data](ext_articles/64d79724.ext.json)
-
----
-
-### Experts highlight rise in HIV cases among 15 to 29 age group
-
-*2025-10-06 20:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/113271/experts-highlight-rise-in-hiv-cases-among-15-to-29-age-group) · `en`
-
-Health authorities in Sri Lanka have warned of an increasing trend of HIV infections among individuals aged between 15 and 29.
-
-The highest number of infections has been reported from the Colombo and Gampaha districts.
-
-HIV is one of the most serious sexually transmitted viruses in the world, known to cause significant global concern.
-
-It directly attacks the body’s immune system, weakening it, and making the body vulnerable—even a minor illness such as a cough or cold can become fatal. This is one of the most dangerous aspects of the virus, according to health authorities.
-
-Meanwhile, health authorities have identified three primary ways HIV can be transmitted:
-
-HIV is not spread through kissing an infected individual. Instead, the virus is transmitted through sexual fluids. Anal intercourse is considered one of the leading risk factors for HIV transmission.
-
-If HIV enters the body through such unprotected sexual contact, the virus can spread throughout the system within approximately 72 hours.
-
-...
-
-[Data](articles/819e0a3e.json)
-
-[Extended Data](ext_articles/819e0a3e.ext.json)
-
----
-
-### The former Minister of Foreign Minister's 40th bank accounts provokes
-
-*2025-10-06 20:11:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-මත-ඇමත-40ග-බක-ගණම-අවසසය/1-680803) · `si`
-
-The Asset Investigation Division of the Criminal Investigation Division of the Criminal Investigation Department including former MPs, including the present MPs and the present MPs, has commenced checking various reports, including bank reports and asset liabilities statements.
-
-When we inquired from the People's Defense and Members of Parliament and Parliamentary Affairs Ananda Wijepala, he said that these investigations were so complex because he had to examine many writings.
-
-He said that a large number of information including banks, including banks, it takes some time to check and verify them.
-
-The Minister said that the complaints were flowing further complaints regarding politicians, claiming that they were adopted.
-
-Meanwhile, police have commenced investigations into a group of former MPs who claim that relations with various underworld gangs. Details of these relations have been revealed in questioning famous underworkers.
-
-◼️
-
-[Data](articles/662c48fc.json)
-
-[Extended Data](ext_articles/662c48fc.ext.json)
-
----
-
-### The former Minister of Foreign Minister's 40th bank accounts provokes
-
-*2025-10-06 20:11:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හටප-මත-ඇමත-40ග-බක-ගණම-අවසසය/101-680803) · `si`
-
-The Asset Investigation Division of the Criminal Investigation Division of the Criminal Investigation Department including former MPs, including the present MPs and the present MPs, has commenced checking various reports, including bank reports and asset liabilities statements.
-
-When we inquired from the People's Defense and Members of Parliament and Parliamentary Affairs Ananda Wijepala, he said that these investigations were so complex because he had to examine many writings.
-
-He said that a large number of information including banks, including banks, it takes some time to check and verify them.
-
-The Minister said that the complaints were flowing further complaints regarding politicians, claiming that they were adopted.
-
-Meanwhile, police have commenced investigations into a group of former MPs who claim that relations with various underworld gangs. Details of these relations have been revealed in questioning famous underworkers.
-
-◼️
-
-[Data](articles/63f769f3.json)
-
-[Extended Data](ext_articles/63f769f3.ext.json)
-
----
-
-### MP "PANSION" CARNING Act
-
-*2025-10-06 19:58:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මනතර-පනෂන-කපන-පනත-අවසන-සදසය/101-680802) · `si`
-
-The abolition bill of former Members of Parliament is in the final inspection of the Attorney General's Department these days.
-
-Upon an inquiry from Minister of Justice Attorney at the Hon.
-
-According to government sources, the former MPs' Pension Pension Board is to be presented to Parliament next month.
-
-The removal of former MPs is one of the major election promises given to the national folk force.
-
-If the bill is passed in Parliament, the pension of nearly five hundred MPs and former MPs will lose their pension.
-
-Meanwhile, inquiry by Minister of Justice, Hon.
-
-◼️
-
-[Data](articles/72c7fa25.json)
-
-[Extended Data](ext_articles/72c7fa25.ext.json)
-
----
-
-### Surging numbers of children using e-cigarettes: WHO
-
-*2025-10-06 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113270/surging-numbers-of-children-using-e-cigarettes-who) · `en`
-
-More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, the World Health Organization (WHO) is warning.
-
-Children are, on average, nine times more likely than adults to vape, it says, based on available global figures.
-
-The WHO’s Dr Etienne Krug said e-cigarettes were fuelling a “new wave” of nicotine addiction. “They are marketed as harm reduction but, in reality, are hooking kids on nicotine earlier and risk undermining decades of progress.”
-
-WHO Director General, Dr Tedros, accused the tobacco industry of “aggressively targeting” young people.
-
-“Millions of people are stopping, or not taking up, tobacco use thanks to tobacco control efforts by countries around the world,” he said.
-
-“In response to this strong progress, the tobacco industry is fighting back with new nicotine products, aggressively targeting young people. Governments must act faster and stronger in implementing proven tobacco-control policies,” he added.
-
-...
-
-[Data](articles/b41e83dd.json)
-
-[Extended Data](ext_articles/b41e83dd.ext.json)
-
----
-
-### Surging numbers of children using e-cigarettes: WHO
-
-*2025-10-06 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113270/alarming-number-of-people-now-vape-says-who) · `en`
-
-More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, the World Health Organization (WHO) is warning.
-
-Children are, on average, nine times more likely than adults to vape, it says, based on available global figures.
-
-The WHO’s Dr Etienne Krug said e-cigarettes were fuelling a “new wave” of nicotine addiction. “They are marketed as harm reduction but, in reality, are hooking kids on nicotine earlier and risk undermining decades of progress.”
-
-WHO Director General, Dr Tedros, accused the tobacco industry of “aggressively targeting” young people.
-
-“Millions of people are stopping, or not taking up, tobacco use thanks to tobacco control efforts by countries around the world,” he said.
-
-“In response to this strong progress, the tobacco industry is fighting back with new nicotine products, aggressively targeting young people. Governments must act faster and stronger in implementing proven tobacco-control policies,” he added.
-
-...
-
-[Data](articles/70f9654b.json)
-
-[Extended Data](ext_articles/70f9654b.ext.json)
-
----
-
-### "Mahinda should be executed"
-
-*2025-10-06 19:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-தூக்கிலிட-வேண்டும்/175-365841) · `ta`
-
-Field Marshal Sarath Fonseka, who launched a fierce attack on former President Mahinda Rajapakse, accused him of misusing corruption, treachery and state property. At the same time, according to the Constitution, Rajapaksa said that "worthy of the death penalty."
-
-Commenting on Rajapakse's media spokesman's statement on delays in handing over the official residence of the former president's Wijerama, Fonseka accused the illegal state assets from the President's House and the Alari House to illegally relocated to a private residence.
-
-Fonseka mocked the explanation of the media spokesman's claim that the Rajapaksa camp was waiting for the government departments to complete the list of government assets before the removal of personal items.
-
-“To repair the house Rs. Rs.. Do you believe that Mahinda Rajapaksa, who has spent 500 million, will bring at least a coconut that has bought on his own money? "
-
-...
-
-[Data](articles/b0fd73ed.json)
-
-[Extended Data](ext_articles/b0fd73ed.ext.json)
-
----
-
-### SF against the Rajapaksas
-
-*2025-10-06 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215412) · `si`
-
-Field Marshal Sarath Fonseka says he should take strict action against former President Mahinda Rajapaksa.
-
-...
-
-[Data](articles/3d1aa7be.json)
-
-[Extended Data](ext_articles/3d1aa7be.ext.json)
 
 ---

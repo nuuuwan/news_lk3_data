@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 01:56:15**
+As of **2025-10-08 02:20:48**
 
 ## Newspaper Stats
 
-*Scraped **81,997** Articles*
+*Scraped **81,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,16 +20,56 @@ dailyftlk | 5,683
 adalk | 7,831
 adaderanalk | 10,529
 tamilmirrorlk | 12,158
-virakesarilk | 13,521
+virakesarilk | 13,523
 adaderanasinhalalk | 14,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,997 (100.0%) of 81,997 articles have been extended.
+81,999 (100.0%) of 81,999 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-10-08 (Wednesday)
+
+### Youth arrested with heroin in Bashayur, Jaffna
+
+*2025-10-08 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227166) · `ta`
+
+A youth was arrested with heroin in the Bashayur area in Jaffna and three swords and mobile phone were recovered.
+
+The arrest of the Jaffna District Criminal Investigation Division was carried out today.
+
+Police have taken steps to appear at the Jaffna Magistrate's Court tomorrow after further investigations.
+
+Police said that there are already some criminal cases pending against the suspect who had been in hiding for a long time.
+
+◼️
+
+[Data](articles/227c062f.json)
+
+[Extended Data](ext_articles/227c062f.ext.json)
+
+---
+
+### Death toll in Himachal Pradesh
+
+*2025-10-08 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/227165) · `ta`
+
+The death toll of the major landslides in the Mooton area of ​​Bilaspur district of India has risen to 18, according to media reports.
+
+The bus, which was traveling from Haryana's Rohtal to Kumrvin with about 30 passengers, suddenly collapsed on the mud and rocks.
+
+Rescuers immediately rushed to the scene and are taking serious measures to rescue the trapped.
+
+◼️
+
+[Data](articles/3270d401.json)
+
+[Extended Data](ext_articles/3270d401.ext.json)
+
+---
 
 ### 2025-10-07 (Tuesday)
 
@@ -2020,39 +2060,5 @@ At present, how much is Sri Lanka's total stock?  What are the monthly changes 
 [Data](articles/7dc3b049.json)
 
 [Extended Data](ext_articles/7dc3b049.ext.json)
-
----
-
-### Toss in the coin to England
-
-*2025-10-07 14:43:26* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-එංගලන්තයට/9-418955) · `si`
-
-The match between the 2025 Women's ODI World Cup, the match between Bangladesh and England begins in a short time.
-
-England won the toss and won the toss.
-
-◼️
-
-[Data](articles/d2eef29c.json)
-
-[Extended Data](ext_articles/d2eef29c.ext.json)
-
----
-
-### Everest kills one 137 people securely rescue
-
-*2025-10-07 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227120) · `ta`
-
-Blizzard is on the slopes of Everest mountain, the world's tallest hills. The snowstorm has occurred as trekkers from different countries have set up camps in these mountains.
-
-More than a thousand people were trapped in this blizzard. A 41 -year -old trekker from China died in a blizzard.
-
-137 people have been rescued so far. The rescue of more than a thousand people who have been trapped in the Everest blizzard is underway.
-
-◼️
-
-[Data](articles/a0b234ce.json)
-
-[Extended Data](ext_articles/a0b234ce.ext.json)
 
 ---

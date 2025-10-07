@@ -1,55 +1,199 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 17:20:34**
+As of **2025-10-07 17:59:36**
 
 ## Newspaper Stats
 
-*Scraped **81,912** Articles*
+*Scraped **81,926** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 637
-newsfirstlk | 638
+newsfirstlk | 640
 bbccomsinhala | 727
 colombotelegraphcom | 815
-lankadeepalk | 945
+lankadeepalk | 952
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,826
+adalk | 7,828
 adaderanalk | 10,520
-tamilmirrorlk | 12,151
+tamilmirrorlk | 12,153
 virakesarilk | 13,490
-adaderanasinhalalk | 14,045
+adaderanasinhalalk | 14,046
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,911 (100.0%) of 81,912 articles have been extended.
+81,925 (100.0%) of 81,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### ජනපති සහ IMF නියෝජිතයන් අතර සාකච්ඡාවක්
+### Sri Lanka Eyes Recovery Beyond IMF Targets
+
+*2025-10-07 17:15:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka-eyes-recovery-beyond-imf-targets) · `en`
+
+COLOMBO (News 1st); President Anura Kumara Dissanayake held a high-level discussion this (7) morning with representatives of the International Monetary Fund (IMF) at the Presidential Secretariat, as part of the fifth review of Sri Lanka’s ongoing debt restructuring program, ahead of the release of the sixth tranche of IMF support.
+
+During the meeting, President Dissanayake reaffirmed the government’s commitment to reviving and stabilizing the economy, stating that the administration has a strategic roadmap to guide the country from bankruptcy toward sustainable development.
+
+The President had noted that the IMF’s support is deeply valued in the journey to economic recovery, adding that the government is focused on exceeding the targets set by the IMF to position Sri Lanka as a resilient and investment-ready economy.
+
+...
+
+[Data](articles/19a0f592.json)
+
+[Extended Data](ext_articles/19a0f592.ext.json)
+
+---
+
+### A special committee to look into the container mess
+
+*2025-10-07 17:13:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බහලම-අවල-හයනන-වශෂ-කරක-සභවක/1-680879) · `si`
+
+A proposal to appoint a special committee to investigate the release of 323 containers without checking for 323 containers was handed over to Speaker.
+
+The General Secretary of the JSP, Chief Opposition Whip Karunathilaka, Chief Secretary General of Opposition and Members of the Opposition Gayantha Karunatilake and Members of the Opposition Gayantha Karunatilake and Members of Parliament were also present.
+
+The incident is also known that the case is being carried out in Parliament that the information is being carried out in the area of ​​this container and other banquacked authorities, as well as these containers have been brought to the Sri Lankan content, and the information is being carried out in this regard. The proposal states.
+
+Commenting with us, MP MP Kavindha Jayawardene said that the report of the committee had yet to be officially presented to Parliament, except the report conducted by the Investigation Committee on Release of the Container.
+
+...
+
+[Data](articles/79f77560.json)
+
+[Extended Data](ext_articles/79f77560.ext.json)
+
+---
+
+### Risk of dengue increased dengue
+
+*2025-10-07 17:10:44* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඩග-වඩවම-අවධනමක/1-680878) · `si`
+
+The National Dengue Prevention Unit states that there is a risk to spread the dengue spreads with the high race.
+
+The National Dengue Control Unit of the National Dengue eradication unit said that 39401 dengue patients were reported in Sri Lanka in the past year.
+
+The specialist was killed in this year due to dengue.
+
+431 dengue patients have been reported so far in October.
+
+She said most of the total number of dengue patients were reported from the Western Province.
+
+◼️
+
+[Data](articles/45860bb2.json)
+
+[Extended Data](ext_articles/45860bb2.ext.json)
+
+---
+
+### Papua New Guinea
+
+*2025-10-07 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215439) · `si`
+
+රික්ටර් මාපක 6.8 ක ප්‍රබලත්වයෙන් යුත් මෙම භූකම්පනය පොළොව මතුපිට සිට කිලෝමීටර 10 ක් පමණ අභ්‍යන්තරයෙන්  හටගෙන ඇති බව ජර්මානු භූ විද්‍යා පර්යේෂණ මධ්‍යස්ථානය පවසයි.
+
+Foreign media reports that the US tsunami alarm system has not issued a tsunami warning after the earthquake.
+
+◼️
+
+[Data](articles/c1d13d74.json)
+
+[Extended Data](ext_articles/c1d13d74.ext.json)
+
+---
+
+### President meets IMF
+
+*2025-10-07 17:04:15* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ජනපත-අය-එම-එෆ-හමවය/1-680877) · `si`
+
+President Anura Kumara Dissanayake and the IMF representatives were held today (7) at the Presidential Secretariat.
+
+The discussion was held on behalf of the central phase of the fifth review of the IMF in the restructuring process.
+
+President Anura Kumara Dissanayake said that the government's main objective is to be released and taken to developing the country economically towards development.
+
+The President also appreciates the assistance of the IMF in the process of making the program.
+
+The President pointed out that the government has identified the needs of the International Monetary Fund as a country that can be developed as a country that can be developed as a country where the country has been developed.
+
+Mr. Anura Kumara Dissanayake pointed out that local and foreign investors should be taken further to meet the target of achieving an economic revival.
+
+The IMF representatives of the IMF also expressed their appreciation for the recovering of the country's economy.
+
+...
+
+[Data](articles/cb802b82.json)
+
+[Extended Data](ext_articles/cb802b82.ext.json)
+
+---
+
+### Supreme Court confirmed the death sentence of Julampitiya
+
+*2025-10-07 16:59:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜூலம்பிடியவின்-மரண-தண்டனையை-உறுதி-செய்தது-உயர்நீதிமன்றம்/175-365908) · `ta`
+
+The Supreme Court on Tuesday (07) confirmed the death sentence imposed by the Tangalle High Court to Jullampitiya Amare, who was found guilty of shooting two people at the 2011 Janatha Vimukthi Peramuna (JVP) at the Katuwana area in Tangalle.
+
+G.G.. The Supreme Court upheld the death penalty by dismissing the special appeal filed by Amarasiri or Jullampitiya.
+
+◼️
+
+[Data](articles/69bcbd77.json)
+
+[Extended Data](ext_articles/69bcbd77.ext.json)
+
+---
+
+### No Legal Block to Providing Vehicles and Protection to Ex-Presidents
+
+*2025-10-07 16:57:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/no-legal-block-to-providing-vehicles-and-protection-to-ex-presidents) · `en`
+
+COLOMBO (News 1st); Minister of Public Security Ananda Wijepala has clarified that there is no legal provision under the Presidential Entitlements Act to reduce or restrict the security or vehicles provided to former Presidents of Sri Lanka.
+
+He emphasized that while certain entitlements may be returned or adjusted, security remains the responsibility of the government.
+
+The Minister made these remarks in response to public discussions surrounding the return of vehicles previously used by former President Mahinda Rajapaksa, including a bulletproof luxury vehicle and a Defender jeep, which were handed back to the Presidential Secretariat for refurbishment.
+
+“The recently passed Presidential Entitlements Act does not include provisions related to security. Therefore, if a former President requests the return of security vehicles, the government is prepared to consider it,” Minister Wijeyapala stated in Parliament.
+
+...
+
+[Data](articles/c4ee54fe.json)
+
+[Extended Data](ext_articles/c4ee54fe.ext.json)
+
+---
+
+### Discussion between President and IMF representatives
 
 *2025-10-07 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215438) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් අතර සාකච්ඡාවක් අද (07) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+President Anura Kumara Dissanayake and the International Monetary Fund representatives were held today (07).
 
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජාත්‍යන්තර මූල්‍ය අරමුදලේ හයවෙනි වාරිකය ලබා දීමට පෙර පැවැත්වෙන පස්වැනි සමාලෝචනයේ මධ්‍යම අදියර වෙනුවෙන් මෙම සාකච්ඡාව පැවැත්විණි.
+The discussion was held on behalf of the central phase of the fifth review of the IMF in the restructuring process.
 
-ආර්ථික වශයෙන් බංකොලොත් වී තිබූ රට ඉන් මුදා ගෙන සංවර්ධනය කරා රැගෙන යාම රජයේ ප්‍රධාන අරමුණක් බවත්,  ඒ සඳහා උපායමාර්ගික වැඩ පිළිවෙලක් රජයට පවතින බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී පැවසීය.
+President Anura Kumara Dissanayake said that the government's main objective is to be released and taken to developing the country economically towards development.
 
-එම වැඩපිළිවෙල සාර්ථක කර ගැනීමේ ක්‍රියාවලියේදී  ජාත්‍යන්තර මූල්‍ය අරමුදල ලබා දෙන සහාය ඉතා අගය කරන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+The President also appreciates the assistance of the IMF in the process of making the program.
 
-ආර්ථික පුනර්ජීවනයක් අත්පත් කර දිය හැකි රටක් ලෙස මේ රට සංවර්ධනය කිරීමට නම් ජාත්‍යන්තර මූල්‍ය අරමුදල ලබා දී ඇති ඉලක්ක ද අභිබවා යාමේ අවශ්‍යතාව රජය හඳුනාගෙන ඇති බවත්, ඒ සඳහා විධිමත් වැඩපිළිවෙලක් රජය සතුව ඇති බවත් ජනාධිපතිවරයා එහිදී පෙන්වා දුන්නේය.
+The President pointed out that the government has identified the needs of the International Monetary Fund as a country that can be developed as a country that can be developed as a country where the country has been developed.
+
+Mr. Anura Kumara Dissanayake pointed out that local and foreign investors should be taken further to meet the target of achieving an economic revival.
+
+The IMF representatives of the IMF also expressed their appreciation for the recovering of the country's economy.
 
 ...
 
 [Data](articles/016cc890.json)
+
+[Extended Data](ext_articles/016cc890.ext.json)
 
 ---
 
@@ -76,6 +220,50 @@ After consolidation of the special appeal petition, the Supreme Court refused to
 [Data](articles/5f4f75a1.json)
 
 [Extended Data](ext_articles/5f4f75a1.ext.json)
+
+---
+
+### Supreme Court confirms Amare
+
+*2025-10-07 16:46:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අමරට-තගලලන-දන-දඬවම-ශරෂඨධකරණය-තහවර-කරය/1-680876) · `si`
+
+In 2011, Julampitiye Amare was the death penalty for the death sentence of the Tangalle High Court today (07).
+
+The Supreme Court sentenced to death by GG Amarasiri, Julampitiye Amare, without denying a special appeal petition filed.
+
+The petition was considered by Supreme Court Justice Janaka de Silva, Sobhitha de Silva, Sobhitha de Silva, Sobhitha de Silva and Sobhitha Rajakaruna and Sampath Wijeyratne.
+
+The Attorney General has been named as the respondent of the Special Appeal Petition filed by GG Amarasiri (Julampitiye Amare).
+
+The Attorney General had filed a sued the Tangalle High Court against the accused and killed two persons who were shot dead in 2011 and killed two persons who were killed in the JVP in Tangalle.
+
+Julampitiye Amare, a petition filed by the Court of Appeal against the Tangalle High Court, filed a petition to the Supreme Court after the petition was dismissed.
+
+After consolidation of the special appeal petition, the Supreme Court refused to do not take the hearing.
+
+◼️
+
+[Data](articles/8a95c3d9.json)
+
+[Extended Data](ext_articles/8a95c3d9.ext.json)
+
+---
+
+### Special training for tourist three-wheelers
+
+*2025-10-07 16:42:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සචරක-තරරද-රයදරනට-වශෂ-පහණවක/1-680875) · `si`
+
+The Government has decided to provide special training to the Dhamma Dhamma in the tourism industry.
+
+The program is implemented under the Government Clean Sri Lanka Program.
+
+One of its training programs will be held at Hector Kobbekaduwa Agrarian Research and Training Institute tomorrow (8) at the Farmers Research and Training Institute.
+
+◼️
+
+[Data](articles/14102fb5.json)
+
+[Extended Data](ext_articles/14102fb5.ext.json)
 
 ---
 
@@ -108,6 +296,18 @@ COLOMBO(News 1st); Seven students from a school in Dambulla have been hospitaliz
 [Data](articles/88819df1.json)
 
 [Extended Data](ext_articles/88819df1.ext.json)
+
+---
+
+### අන්තර්ජාලය හරහා සිදුවන වංචා ගැන පැමිණිලි ඉහළට
+
+*2025-10-07 16:36:40* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලය-හරහා-සිදුවන-වංචා-ගැන-පැමිණිලි-ඉහළට/11-418959) · `si`
+
+අන්තර්ජාලය හා සමාජ මාධ්‍ය ජාලා හරහා සිදුවන මූල්‍ය අක්‍රමිකතා සම්බන්ධයෙන් මහජනතාව දැනුවත් කිරීමට පොලීසිය නිවේදනයක් නිකුත් කර තිබේ. මේ හරහා සිදුවන මූල්‍ය වංචා සම්බන්ධයෙන් ලැබෙන පැමිණි දිනපතා වාර්තාවන බව පොලීසිය කියයි.
+
+◼️
+
+[Data](articles/4b2656c9.json)
 
 ---
 
@@ -157,6 +357,26 @@ The National Commemoration Festival will be held tomorrow (08) at the Sri Lanka 
 
 ---
 
+### The mother -in -law of the mother -in -law:
+
+*2025-10-07 16:23:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகனின்-உள்ளாடையை-எடுத்து-மாமியார்-செய்த-அசிங்கம்-பார்த்து-அதிர்ந்த-மாமனார்/175-365904) · `ta`
+
+The incident in which a young woman was assassinated by her husband has been shocked by the inappropriate relationship between mother-in-law and mother-in-law in Kasanjan district of Uttar Pradesh.
+
+The body of Sivani, a 24 -year -old, was lying on the threshold of her own house. Husband Pramod has fled, while the mother -in -law is in his house. Police have begun an investigation.
+
+Shivani from Palia village in Kasjun's Kanjthundwara area married Pramodu from Nakla Parsi village in 2018. Pramod was working in a private job in Delhi.
+
+Shivani's father Narayana Singh says, “I have two women and two sons. Both women are married. Sons help in agriculture. Shivani's wedding took place. But after 6 months, my wife, Premvati, started having an inappropriate relationship with my nephew.
+
+...
+
+[Data](articles/539eab02.json)
+
+[Extended Data](ext_articles/539eab02.ext.json)
+
+---
+
 ### 3 scientists prize Physics' Nobel Prize
 
 *2025-10-07 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215437) · `si`
@@ -172,6 +392,28 @@ The Nobel Prize Committee had announced that the three scientists decided to giv
 [Data](articles/73e04c18.json)
 
 [Extended Data](ext_articles/73e04c18.ext.json)
+
+---
+
+### 1 perch to the officials of the Land Commission. Gave a price of 1000
+
+*2025-10-07 15:55:28* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-කොමිසමේ-නිලධාරීන්ට-පර්චස්-1-රු--1000ක-මිලකට-දීලා/11-418958) · `si`
+
+The latest audits issued by the National Audit Office of the National Audit Office of 20 perches due to the section of the Land Reforms Commission has received 49 acres of land at Rs.
+
+The land has been provided to the officers of the Commission for Rs.. The Audit has also revealed that 120,000 employees have obtained a sum of Rs.
+
+The land has been given a five-year employee who has a continuous service to the establishment of a provident fund for the establishment of an provident fund, which is in the land of the Land Reforms Act No. 1 of 1972.
+
+The documents have been given to the Audit that the regions of the Commission have been given to the land on a workers' basis by the Commission in 1982-1 -1984.. The Commission has stated that the land has been provided to the Employees of the Commission to be provided with the policy penalty of the Commission by the Commission.
+
+This information is included in the Audit Report that the Land Reforms Commission has released 2024.
+
+◼️
+
+[Data](articles/9245e4f0.json)
+
+[Extended Data](ext_articles/9245e4f0.ext.json)
 
 ---
 
@@ -1533,6 +1775,26 @@ The responsibility of these institutions is to provide a clean game guidelines. 
 
 ### Seven students of Dambulla Vidyalaya to be sent to hospital
 
+*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/රසයනක-දරවයක-දඹලල-වදහලක-සසන-7ක-රහලට-යවය/12-680837) · `si`
+
+According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
+
+Five boys and two girls have been hospitalized.
+
+Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
+
+Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
+
+◼️
+
+[Data](articles/ca3339b2.json)
+
+[Extended Data](ext_articles/ca3339b2.ext.json)
+
+---
+
+### Seven students of Dambulla Vidyalaya to be sent to hospital
+
 *2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-7ක-රහලට-යවය/101-680837) · `si`
 
 According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
@@ -1804,249 +2066,5 @@ It is said that it is the responsibility of the government to provide security t
 [Data](articles/d1af7962.json)
 
 [Extended Data](ext_articles/d1af7962.ext.json)
-
----
-
-### Defense Minister's security vehicles of former Chanted
-
-*2025-10-07 11:49:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-ජනපතලග-ආරකෂක-වහන-ගන-ආරකෂක-ඇමතගන-පරකශයක/1-680834) · `si`
-
-Common Security and Parliamentary Affairs Minister Ananda Wijepala said that if the security traffic and other activities were handed over to the use of the security officers deployed to the security officers deployed.
-
-He further stated that even after the former Title Removal of the Title Removal Bill, he said.
-
-It is said that it is the responsibility of the government to provide security to former presidents not to protect the rights.
-
-◼️
-
-[Data](articles/eddc12db.json)
-
-[Extended Data](ext_articles/eddc12db.ext.json)
-
----
-
-### Solution to the deficit of dialysis
-
-*2025-10-07 11:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயலிசிஸ்-ஊசிப்-பற்றாக்குறைக்குத்-தீர்வு/175-365876) · `ta`
-
-Health Minister Nalinda Jayatissa acknowledged the shortage of dialysis injections in Sri Lanka and told parliament today that government hospitals have made arrangements to make purchases of local hospitals.
-
-Responding to a question raised by opposition parliamentarian Samara Sampath Dasanayake, the minister said that the hospitals had been allocated funds.
-
-◼️
-
-[Data](articles/3d51aca2.json)
-
-[Extended Data](ext_articles/3d51aca2.ext.json)
-
----
-
-### Yall. Cash fraud in private hostels
-
-*2025-10-07 11:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-தனியார்-விடுதிகளில்-பண-மோசடி/175-365875) · `ta`
-
-There have been reports that a mob is engaged in massive money laundering by using the names of popular private hostels in Jaffna.
-
-Social websites such as WhatsApp, Viper, Facebook and web sites can be enjoyed with women in popular private hotels in Jaffna, and it costs Rs 10,000 to 20 thousand rupees.
-
-In some women's photos, their faces publish hidden smoke pictures.  When you rely on the telephone numbers in some of the ads, when they ask for details, they get the money in the private hotel, claiming to have a woman in the private hotel.
-
-The telephone number is dysfunctional only after the money -giving people went to the hostels.
-
-As the victims are reluctant to lodge a complaint at the police stations, the gang continues to engage in money laundering.
-
-At the same time, its owners are worried that the gangs are using the names of the popular private lodging hostels in Jaffna on social media and are involved in fraud.
-
-...
-
-[Data](articles/ec784bc8.json)
-
-[Extended Data](ext_articles/ec784bc8.ext.json)
-
----
-
-### Israelis mark 2 years since October 7 Hamas attacks
-
-*2025-10-07 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113293/israelis-mark-2-years-since-october-7-hamas-attacks) · `en`
-
-Israel marks the second anniversary of the October 7, 2023 attack on Tuesday, as Hamas and Israeli negotiators hold indirect talks to end the two-year war in Gaza under a US proposed peace plan.
-
-Two years ago to the day, at the close of the Jewish festival of Sukkot, Hamas-led militants launched a surprise assault on Israel, making it the deadliest day in the country’s history.
-
-Palestinian fighters breached the Gaza-Israel border, storming southern Israeli communities and a desert music festival with gunfire, rockets and grenades.
-
-The attack resulted in the deaths of 1,219 people on Israeli side, mostly civilians, according to an AFP tally based on official Israeli figures.
-
-Militants also abducted 251 hostages into Gaza, of whom 47 remain captive, including 25 the Israeli military says are dead.
-
-Memorial events were scheduled in Israel on Tuesday to mark the anniversary.
-
-...
-
-[Data](articles/de595c12.json)
-
-[Extended Data](ext_articles/de595c12.ext.json)
-
----
-
-### Young Piku dies in university
-
-*2025-10-07 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/227095) · `ta`
-
-Homagama headquarters police said that a young man who had been treated at the Colombo National Hospital for a long time had died after he was injured when he fell down from the second floor of the Buddhist and Pali University in Sri Lanka.
-
-The deceased is a 24 -year -old young man who is educated at Buddhist and Pali University.
-
-He was admitted to the Colombo National Hospital for a long time after he was injured and fell down from the second floor of the university in the early hours of September 26 at 02.30 am.
-
-The young girl who was receiving treatment at the hospital died without treatment, police said.
-
-◼️
-
-[Data](articles/94284fb7.json)
-
-[Extended Data](ext_articles/94284fb7.ext.json)
-
----
-
-### Cultural Fund is time to the committee to 'Pass'
-
-*2025-10-07 11:33:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සසකතක-අරමදල-මගඩ-හයන-කමටවට-තව-කලදය/101-680833) · `si`
-
-The time of the Special Committee appointed to look into the incident of the Cultural Fund (Cultural Fund) has ended on the 30th.
-
-Deputy Minister of Buddha Sasana, Religious Affairs and Cultural Affairs, Dissanayake, said that the term of the committee would continue to extend further investigations into the incident.
-
-The Board of Directors will meet today to meet this regard.
-
-◼️
-
-[Data](articles/fcf98609.json)
-
-[Extended Data](ext_articles/fcf98609.ext.json)
-
----
-
-### Cultural Fund is time to the committee to 'Pass'
-
-*2025-10-07 11:33:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සසකතක-අරමදල-මගඩ-හයන-කමටවට-තව-කලදය/1-680833) · `si`
-
-The time of the Special Committee appointed to look into the incident of the Cultural Fund (Cultural Fund) has ended on the 30th.
-
-Deputy Minister of Buddha Sasana, Religious Affairs and Cultural Affairs, Dissanayake, said that the term of the committee would continue to extend further investigations into the incident.
-
-The Board of Directors will meet today to meet this regard.
-
-◼️
-
-[Data](articles/18eab839.json)
-
-[Extended Data](ext_articles/18eab839.ext.json)
-
----
-
-### Three New Rehabilitation and Treatment Centers to Open Before Year-End
-
-*2025-10-07 11:31:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/three-new-rehabilitation-and-treatment-centers-to-open-before-year-end) · `en`
-
-COLOMBO (News 1st): The National Dangerous Drugs Control Board has announced plans to establish three new rehabilitation and treatment centers before the end of this year.According to the Board, the centers will be constructed in Matara, Kurunegala, and Batticaloa. Each facility will have the capacity to accommodate and treat around 120 individuals.Meanwhile, a special rehabilitation and treatment center for individuals under 21 years of age is also planned to be established in Peradeniya, Kandy.Construction of this youth rehabilitation center is scheduled to commence early next year, with operations expected to begin by January 2026.
-
-◼️
-
-[Data](articles/5f7b8698.json)
-
-[Extended Data](ext_articles/5f7b8698.ext.json)
-
----
-
-### A shortage of blood transferred thorns of kidney patients
-
-*2025-10-07 11:28:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වකගඩ-රගනග-ල-මර-කරන-කට-හඟයක/101-680832) · `si`
-
-Badulla District MP Chamara Sampath Dasanayake said in Parliament that there is a shortage of blood transferred thorns of kidney patients.
-
-He said that he had heard that he had learned that he had not learned that there was no sheddown in the Padaviya Hospital.
-
-The situation has been created because of the fault of tender supplier to supply acquisition.
-
-All hospital has been given money to buy local purchases.
-
-◼️
-
-[Data](articles/405035ac.json)
-
-[Extended Data](ext_articles/405035ac.ext.json)
-
----
-
-### A shortage of blood transferred thorns of kidney patients
-
-*2025-10-07 11:28:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වකගඩ-රගනග-ල-මර-කරන-කට-හඟයක/1-680832) · `si`
-
-Badulla District MP Chamara Sampath Dasanayake said in Parliament that there is a shortage of blood transferred thorns of kidney patients.
-
-He said that he had heard that he had learned that he had not learned that there was no sheddown in the Padaviya Hospital.
-
-The situation has been created because of the fault of tender supplier to supply acquisition.
-
-All hospital has been given money to buy local purchases.
-
-◼️
-
-[Data](articles/2aa6152d.json)
-
-[Extended Data](ext_articles/2aa6152d.ext.json)
-
----
-
-### If the former presidents requests security vehicles
-
-*2025-10-07 11:23:33* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපතිවරු-ආරක්ෂක-වාහන-ගැන-ඉල්ලීමක්-කලොත්-සලකා-බලනවා/11-418952) · `si`
-
-The government is prepared to consider if former presidents are requested to provide security vehicles.
-
-With the abolition of the rights of the President, the former presidents resumed their security vehicles and expressed their views in Parliament today (07).
-
-"Recently in this House was approved recently in the Council of Retired Presidents Act. According to the Act, some of the claims that he had enjoyed it, there have been a return leave. However, the rights bill does not mean. He has already handed over some protective vehicles he used.. The government is the responsibility of the government, regardless of the claims. Therefore, if he requests the other thing, including security vehicles, including security vehicles, is ready to consider. "
-
-◼️
-
-[Data](articles/4c04d430.json)
-
-[Extended Data](ext_articles/4c04d430.ext.json)
-
----
-
-### Police Constable Going into Police Station with drug pills!
-
-*2025-10-07 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227092) · `ta`
-
-Homagama headquarters police said that a police constable who went into the police station with narcotics was arrested on Monday evening.
-
-The suspect, the police constable, left the police station and went back to the police station for a long time.
-
-Investigations carried out by police officers have seized drug pills from the suspect, the police constable.
-
-◼️
-
-[Data](articles/b484fb6b.json)
-
-[Extended Data](ext_articles/b484fb6b.ext.json)
-
----
-
-### Mahinda Amaraweera visits ex-President Rajapaksa in Tangalle
-
-*2025-10-07 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113292/mahinda-amaraweera-visits-ex-president-rajapaksa-in-tangalle) · `en`
-
-Former Minister Mahinda Amaraweera visited former President Mahinda Rajapaksa at Carlton House in Tangalle today (07).
-
-It is reported that Amaraweera met the former President to inquire about his health and well-being.
-
-◼️
-
-[Data](articles/7b0cf83f.json)
-
-[Extended Data](ext_articles/7b0cf83f.ext.json)
 
 ---

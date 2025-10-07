@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 16:09:22**
+As of **2025-10-07 16:53:52**
 
 ## Newspaper Stats
 
-*Scraped **81,894** Articles*
+*Scraped **81,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,95 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,824
+adalk | 7,826
 adaderanalk | 10,520
-tamilmirrorlk | 12,147
+tamilmirrorlk | 12,151
 virakesarilk | 13,490
-adaderanasinhalalk | 14,043
+adaderanasinhalalk | 14,044
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,892 (100.0%) of 81,894 articles have been extended.
+81,900 (100.0%) of 81,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### භෞතික විද්‍යා නොබෙල් ත්‍යාගය විද්‍යාඥයින් තිදෙනෙකුට
+
+*2025-10-07 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215437) · `si`
+
+2025 වසරේ භෞතික විද්‍යාව සඳහා වූ නොබෙල් ත්‍යාගය බ්‍රිතාන්‍ය, ප්‍රංශ සහ අමෙරිකානු ජාතික විද්‍යාඥයින් තිදෙනාට ප්‍රදානය කරන බව නොබෙල් ත්‍යාග කමිටුව අද (07) නිවේදනය කළේය.
+
+එම ත්‍යාගය හිමිකරගෙන ඇත්තේ ජෝන් ක්ලාක්, මයිකල් එච්. ඩෙවොරෙට් සහ ජෝන් එම්. මාර්ටිනිස් යන විද්‍යාඥයින්ය.
+
+ක්වොන්ටම් යාන්ත්‍ර විද්‍යාව පිළිබඳ සොයාගැනීම් සඳහා මෙම විද්‍යාඥයින් තිදෙනාට නොබෙල් ත්‍යාගය ලබාදීමට තීරණය කළ බව නොබෙල් ත්‍යාග කමිටුව  අද ස්වීඩනයේ ස්ටොක්හෝම් හි පැවති උත්සවයකදී මෙම නිවේදනය කර තිබුණි.
+
+◼️
+
+[Data](articles/73e04c18.json)
+
+---
+
+### Air India flight to the landing
+
+*2025-10-07 15:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏர்-இந்தியா-விமானம்-அவசரமாக-தரையிறக்கம்/175-365901) · `ta`
+
+Airport officials said the airline had canceled its travels after a bird crashed into a plane with 158 passengers from Colombo to Chennai on Tuesday (07).
+
+The plane landed safely, and all passengers were unloaded safely, airport officials said.
+
+Officials added that the bird was found after landing at the airport.
+
+The aircraft landed, and Air India engineers carried out extensive tests, and they said that the plane then arranged another aircraft for 137 passengers who left Colombo.
+
+◼️
+
+[Data](articles/6ceae880.json)
+
+[Extended Data](ext_articles/6ceae880.ext.json)
+
+---
+
+### Albanian judge shot dead in court
+
+*2025-10-07 15:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அல்பேனிய-நீதிபதி-நீதிமன்றுக்குள்-சுட்டுக்கொலை/50-365900) · `ta`
+
+A judge was shot dead when a man opened fire during an inquiry at the appeal court in the capital of Albania.
+
+Officials said that although both father and son were fired at the property dispute, the two were hospitalized in the absence of life -threatening injuries.
+
+Police said the 30 -year -old male suspect identified by the initials "ES" has been arrested, but the Albanian media has named Elvis SHKAMPY.
+
+“Albania's Prime Minister Eddie Rama has condoled the family of Justice Kalaja, saying that the criminal occupation against the judge will undoubtedly take a very strict legal action against the occupant.
+
+He urged the country's courts to carry out severe security and severe punishment for those who illegally illegally armed.
+
+Opposition Democratic Party leader Sally Perisha said that the murder of Justice Kalaja was the first time a judge was "killed when he did his duty".
+
+Local media reports suggest that the suspect was shot dead as expected to lose the case.
+
+...
+
+[Data](articles/c8e7fce9.json)
+
+[Extended Data](ext_articles/c8e7fce9.ext.json)
+
+---
+
+### Did you think of a banana tree
+
+*2025-10-07 15:31:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வாழை-மரம்-என-நினைத்தாயோ/62-365899) · `ta`
+
+◼️
+
+[Data](articles/1b2562a6.json)
+
+[Extended Data](ext_articles/1b2562a6.ext.json)
+
+---
 
 ### A pronouncement of strong lightning
 
@@ -90,6 +164,26 @@ I have not heard that discussion discussions will be held in schools with the an
 [Data](articles/f1784fb8.json)
 
 [Extended Data](ext_articles/f1784fb8.ext.json)
+
+---
+
+### Fighting fines charged from clients
+
+*2025-10-07 14:52:28* · [`adalk`](https://www.ada.lk/breaking_news/කූ‍ඨ-වෙළදුන්ගෙන්-වාර්තාගත-ගත-දඩ-මුදලක්-අය-කර-ගනියි/11-418957) · `si`
+
+The Kandy District of the Authority has passed the Kandy District of the Consumer Affairs of the Authority (Consumer Affairs Authority) has passed the Consumer Affairs Authority to recover a sum of Rs
+
+He said that 989 businessmen have charged the fines for the past nine months, selling goods, selling more than the control price, selling expired goods, including the non-mention of the Prices.
+
+The raids have been carried out covering all areas including the Maha, Wattegama, Nawalapitiya, Gampte, Digana, Teldeniya, Peradeniya, Peradeniya, Peradeniya.
+
+The raids have been carried out on the instructions of the Consumer Affairs Authority (CA) ASP
+
+◼️
+
+[Data](articles/21e89ed4.json)
+
+[Extended Data](ext_articles/21e89ed4.ext.json)
 
 ---
 
@@ -288,6 +382,32 @@ Subsequently, the couple went to Colombo train and placed a couple to put a pupp
 [Data](articles/91fa605a.json)
 
 [Extended Data](ext_articles/91fa605a.ext.json)
+
+---
+
+### 230 grams of ice in the east: Young couple arrested
+
+*2025-10-07 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-230-கிராம்-ஐஸ்-இளம்-தம்பதி-கைது/175-365893) · `ta`
+
+A 24,23 -year -old young couple have been arrested with 230 grams of ice drugs in Valaichenai area in Batticaloa.
+
+Assistant Superintendent of Police MSM. The police, led by Jarus, arrested the police on Monday evening.
+
+This is the first time in the Eastern Province, which has been seized by ice drugs, said Valaichenai police.
+
+Assistant Superintendent of Police MSM. Following the information received by the Juros, a police team led by him, who was engaged in surveillance near the Assistant Superintendent's Office at 4.30 pm on the day of the incident, was taken to the three -wheeler from Kalkudah when they took the ice.
+
+They then seized 230 grams of ice from them. Subsequently, the three -wheeler also seized them.
+
+A main narcotics dealer in Morakotanzenne has told the couple to buy a dog in Colombo.. He has paid Rs.
+
+Subsequently, the couple went to the Colombo train and placed a couple of puppies and a bag to the couple in the area of ​​the Parakkottai area.
+
+...
+
+[Data](articles/ba73ae3f.json)
+
+[Extended Data](ext_articles/ba73ae3f.ext.json)
 
 ---
 
@@ -948,6 +1068,24 @@ The students who have studied the students to celebrate the teachers' Day as the
 [Data](articles/2752f89b.json)
 
 [Extended Data](ext_articles/2752f89b.ext.json)
+
+---
+
+### Key challenges still, economic recovery is incomplete - WB
+
+*2025-10-07 12:29:32* · [`adalk`](https://www.ada.lk/business/ප්‍රධාන-අභියෝග-තවමත්--ආර්ථික-ප්‍රකෘතිය-අසම්පූර්ණයි---WB/7-418953) · `si`
+
+The recent economic activity in Sri Lanka is inadequate, but the development has been imperfect, but the growth has already increased significantly below levels before the crisis, but poverty has increased significantly.
+
+Accordingly, the World Bank emphasizes that continuous macroeconomic stability, efficient, structural reforms and more efficient, more efficient, more efficient, most efficient, the more efficient and more efficient, the most efficient, most efficient, is more efficient and more efficient and more efficient and more efficient, more efficient and more efficient, better.
+
+The economy of the Sri Lanka Development Update of Sri Lanka (Better Spending For All Better Spending For All) has increased by 4.6 percent, while the economy is up to 3.5 percent in 2026, in 2026.. However, these predictions are subject to rising risks, including global uncertainty.
+
+...
+
+[Data](articles/ff6f72a8.json)
+
+[Extended Data](ext_articles/ff6f72a8.ext.json)
 
 ---
 
@@ -1906,133 +2044,5 @@ Significant numbers have also arrived from the United Kingdom, Russia, Germany, 
 [Data](articles/101c8c13.json)
 
 [Extended Data](ext_articles/101c8c13.ext.json)
-
----
-
-### When Mahanama SOS Ambassador renewed - Umaria is newly
-
-*2025-10-07 10:33:39* · [`adalk`](https://www.ada.lk/business/මහානාම-SOS-තානාපතීත්වය-අලුත්-කරද්දී---උමාරියා-අලුතින්-එක්වෙයි/7-418950) · `si`
-
-Lanka SOS Children's Village Organized for World Children's Day This year's World Children's Day was organized. The ceremony was held at the Colombo Radisson Hotel and continued to maintain a national and international association.
-
-Roshan Mahanama and Umaria Sinhawana contributes voluntary task. They have already contributed to these social services before. In this new role, they will help to educate the people about their children and contribute to the efforts of the children who have lost or deprived of parental protection in the country.
-
-...
-
-[Data](articles/6be414e5.json)
-
-[Extended Data](ext_articles/6be414e5.ext.json)
-
----
-
-### Government Moves to Equalize Learning Opportunities
-
-*2025-10-07 10:33:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/government-moves-to-equalize-learning-opportunities) · `en`
-
-COLOMBO (News 1st); Minister of Education, Higher Education, and Vocational Training, Prime Minister Dr. Harini Amarasuriya, emphasized that reducing disparities among schools and enhancing the quality of educational experiences for all children are central goals of the upcoming education reform agenda.
-
-Speaking at a high-level meeting with education sector officials held at the Ministry of Education, Dr. Amarasuriya addressed long-standing challenges that have plagued the school system for decades.
-
-She highlighted how structural inequalities between schools have contributed to a range of issues — from student stress and learning gaps to the pressures faced by teachers and principals.
-
-“The competitive nature of our education system has created immense pressure on students, educators, and administrators alike. At the heart of these challenges lies the deep-rooted inequality among schools,” Dr. Amarasuriya stated.
-
-...
-
-[Data](articles/0e86c04e.json)
-
-[Extended Data](ext_articles/0e86c04e.ext.json)
-
----
-
-### A change of gold prices
-
-*2025-10-07 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215427) · `si`
-
-Market data points out that world gold prices have crossed $ 3,950 for the first time in history.
-
-Accordingly, gold is also increased by Rs. 8,000 compared to Saturday.
-
-Accordingly, the price of a 22 carrots in the gold market in the gold market in Colombo this morning (07) was Rs.. Up to 290,500.
-
-Meanwhile, Saturday is Rs. 306,000 "24 carrots" gold pound is Rs.. According to Rattota Market, Colombo, Colombo, Colombo said that up to 314,000.
-
-◼️
-
-[Data](articles/0d387802.json)
-
-[Extended Data](ext_articles/0d387802.ext.json)
-
----
-
-### The death of the teacher drowning in the water
-
-*2025-10-07 10:28:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-ஆசிரியர்-மரணம்/175-365869) · `ta`
-
-A school teacher who was bathing in the Murudawela reservoir at 3.30 pm on Sunday (06)
-
-The deceased Varala Morawaka, WJKP from Varala area. Suresh (age 32) has been identified.
-
-He was bathing in the Murudawela reservoir with a group of friends.
-
-The drowning person was later taken to Valasmulla Base Hospital in Swaseriya ambulance. The body is placed at Valasmulla Hospital.
-
-◼️
-
-[Data](articles/c6030d5e.json)
-
-[Extended Data](ext_articles/c6030d5e.ext.json)
-
----
-
-### GMOA අද  හදීසියේම රැස්වෙයි
-
-*2025-10-07 10:25:46* · [`adalk`](https://www.ada.lk/breaking_news/GMOA-අද--හදීසියේම-රැස්වෙයි/11-418949) · `si`
-
-A urgent executive committee meeting of the Government Medical Officers Association is scheduled to be held today (07).
-
-The decision is to be discussed to discuss the problem of medical sportsts regarding the medical sportsigations of the Ampara District.
-
-◼️
-
-[Data](articles/468a54e1.json)
-
-[Extended Data](ext_articles/468a54e1.ext.json)
-
----
-
-### The rise of the government has collapsed
-
-*2025-10-07 10:25:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආණඩව-මව-දවයලකය-කඩ-වටල/101-680830) · `si`
-
-Opposition Leader Sajith Premadasa said that the government has created a divine world in the past, but now the Divine world is now unable to make the divine world real.
-
-He said that the present government ministers of the present government have made the divine world, though not limited to these Divine World Commons and the rulers.
-
-Opposition Leader Sajith Premadasa said this in Opposition Leader Mobile Service Program
-
-◼️
-
-[Data](articles/8baf522a.json)
-
-[Extended Data](ext_articles/8baf522a.ext.json)
-
----
-
-### The rise of the government has collapsed
-
-*2025-10-07 10:25:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආණඩව-මව-දවයලකය-කඩ-වටල/1-680830) · `si`
-
-Opposition Leader Sajith Premadasa said that the government has created a divine world in the past, but now the Divine world is now unable to make the divine world real.
-
-He said that the present government ministers of the present government have made the divine world, though not limited to these Divine World Commons and the rulers.
-
-Opposition Leader Sajith Premadasa said this in Opposition Leader Mobile Service Program
-
-◼️
-
-[Data](articles/450ef0c8.json)
-
-[Extended Data](ext_articles/450ef0c8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 15:20:35**
+As of **2025-10-07 16:09:22**
 
 ## Newspaper Stats
 
-*Scraped **81,892** Articles*
+*Scraped **81,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,79 +21,113 @@ adalk | 7,824
 adaderanalk | 10,520
 tamilmirrorlk | 12,147
 virakesarilk | 13,490
-adaderanasinhalalk | 14,041
+adaderanasinhalalk | 14,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,857 (100.0%) of 81,892 articles have been extended.
+81,892 (100.0%) of 81,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### දඬුවම් පනත බිල්ලෙක්ද?
+### A pronouncement of strong lightning
+
+*2025-10-07 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215436) · `si`
+
+The Department of Meteorology has issued an announcement in powerful lightning.
+
+The announcement is valid until 11 pm today (07), the Met Department said.
+
+The department states that the Northern, Northern-Central, Central, Eastern and Uva provinces have the ability to suffer.
+
+There are temporarily strong winds in thundershowers.
+
+The public is kindly requested as the Department of Meteorology to minimize the necessary accidents.
+
+◼️
+
+[Data](articles/07412bf2.json)
+
+[Extended Data](ext_articles/07412bf2.ext.json)
+
+---
+
+### Is the Punishment Baker?
 
 *2025-10-07 15:00:30* · [`lankadeepalk`](https://www.lankadeepa.lk/features/දඬවම-පනත-බලලකද/2-680858) · `si`
 
-දණ්ඩ නීති සංග්‍රහය සංශෝධනය කිරීම සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති පනත් කෙටුම්පත සම්බන්ධයෙන් යම් සමාජ කතිකාවක් ගොඩ නැගී ඇති බව පෙනේ. දණ්ඩ නීති සංග්‍රහයේ 308 අ වගන්තියේ දැක්වෙන “ඕනෑකමින්” යන වචනය වෙනුවට “චේතනාන්විත” යන යෙදුම මෙම සංශෝධිත පනත් කෙටුම්පතට ඇතුළත් කර තිබේ.
+There is a social discourse on the bill, presented to Parliament to amend the Penal Code. The term "intention" is included in this revised bill instead of the word "intent" in verse 308 of the Penal Code.
 
-එමෙන් ම මේ සංශෝධිත පනත් කෙටුම්පතෙහි 308 ආ 1 වගන්තිය නමින් අලු‍ත් වගන්තියක් ඇතුළත් කර ඇති අතර එහි ශාරීරික දඬුවම් කිරීමේ වරද කරන අවස්ථාව විස්තර කර තිබේ. එය දැක්වෙන්නේ පහත පරිදි ය.
+This revised Bill included a new clause, which is named 30 in this revised Bill and is described the opportunity to punish its physical punishment. It is the following:
 
-වයස අවුරුදු 18 ට අඩු යම් තැනැත්තකුගේ භාරකාරත්වය, භාරය හෝ ආරක්ෂකත්වය දරා සිටින විට දඬුවම් කිරීමේ ක්‍රියාමාර්ගයක් වශයෙන් හෝ නිවැරැදි කිරීමේ ක්‍රමයක් වශයෙන් කෙතරම් අඩු වුව ද යම් ප්‍රමාණයක වේදනාවක් හෝ අපහසුතාවක් හෝ ඇති වීමට හේතු වන බවට දැනුම ඇතිව ශාරීරික බලය භාවිත කර යම් ක්‍රියාවක් සිදු කරන අවස්ථාවකදීත් එම වගන්තියේ ම, ආ, අනු වගන්තියෙහි දැක්වෙන පරිදි කෙතරම් අඩු වුවත් යම් ප්‍රමාණයක අවමානයක් ඇති වීමට හේතු වන බවට දැනුම ඇතිව ශාරීරික නොවන යම් ක්‍රියාවක් සිද්ධ කරන කවර හෝ තැනැත්තකු ශාරීරික දඬුවම් කිරීමේ වරද සිදු කරන බවය.
+When a person under the age of 18, the trustee of the trustee, or the right thing to be done in the same stage, and a system of pain or inconvenience, any degree of pain is caused by a minimum of pain or difficulty, any person has committed the guilty of physical punishment It is possible.
 
 ...
 
 [Data](articles/c1df43c3.json)
 
+[Extended Data](ext_articles/c1df43c3.ext.json)
+
 ---
 
-### ගුරු දිනය - කළ යුත්තේ කුමක්ද?
+### Teacher Day - What to do?
 
 *2025-10-07 14:53:24* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ගර-දනය-කළ-යතත-කමකද/2-680857) · `si`
 
-අප “ලෝක ගුරු දිනය” සමරන්නේ ඔක්තෝබර් 07 වැනිදා අඟහරුවාදා දිනයේ ය. එහෙත් එය ඇත්තට යෙදෙන්නේ ඔක්තෝබර් 05 වැනිදාය. එදින ලෝක ගුරු දිනය ලෙස ප්‍රකාශයට පත් කරනු ලැබ ඇත්තේ අධ්‍යාපනයට හා ගුරු වෘත්තියට එදින විශේෂ දිනයක් වන හෙයිනි.
+We celebrate the "World Teacher Day" on Tuesday, October 07. But it is acting on October 5th. That was the special day for education and teaching that that day was declared world teachers.
 
-එක්සත් ජාතීන්ගේ අධ්‍යාපන විද්‍යා හා සංස්කෘතික සංවිධානය (UNESCO) සමග ජාත්‍යන්තර කම්කරු සංවිධානය (IOL) එක්ව “ගුරුවරුන් සතු පිළිගැනීම සඳහා වන නිර්දේශ” ප්‍රකාශයට පත් කරනු ලැබුවේ 1966 ඔක්තෝබර් 05 වැනිදාය. එනිසා ඔක්තෝබර් 05 වැනිදා මුළු ලෝකයටම වැදගත් දිනයක් ලෙස 1994 දී මේ සංවිධාන ද්විත්වය “ලෝක ගුරු දිනය” ප්‍රකාශයට පත් කළහ.
+On October 5, 1966, the International Labor Organization (IOL) with UN EDG and Cultural Organization. As such, in 1994, the two of these organizations declared "World Teachers' Day" as an important date for the entire world.
 
-අපේ සමාජයේ මේ ගුරු දිනය සැමරෙන්නේ මවුපිය කණ්ඩායම් එකතුවී ගුරුවරුන්ට මුදලින් හෝ වෙනත් ආකාරයකින් තෑගි ලබා දීමේ උත්සව පැවැත්වීමෙනි. ඒ සඳහා මුදල් එකතු කිරීමත් පාසල්වල සිදුවන දූෂණයට එකතුවක්ව ඇත. සෑම වසරකම යුනෙස්කෝව විසින් ලෝක ගුරු දිනය වෙනුවෙන් තේමාවක් ලබා දෙන්නේ ය. එය කුමක්දැයි කියා හොයා බලන විදුහල්පතිවරුන්, ගුරුවරුන් හා මවුපියන් ඇතිදැයි නොදනිමි.
+This teachers' day in our society celebrates the parent giving teachers or otherwise gifts. Collection of money for that is a combination of the schools. UNESCO gives a theme for world teacher day every year. There are no principals, teachers, and parents who see what it is.
 
-ලෝක ගුරු දින වාර්ෂික තේමාව ඇසුරෙන් පාසල්වල සාකච්ඡා සංවාද පැවැත්වෙන්නේ යැයි මා අසා නැත.
+I have not heard that discussion discussions will be held in schools with the annual theme of the World Teachers' Day annual.
 
 ...
 
 [Data](articles/f1784fb8.json)
 
+[Extended Data](ext_articles/f1784fb8.ext.json)
+
 ---
 
-### රත්න ද්වි පුද්ගල ඝාතනයේ සුල මුල හෙළිවෙයි
+### Rathnu donkey murder reveals
 
 *2025-10-07 14:46:52* · [`adalk`](https://www.ada.lk/breaking_news/රත්න-ද්වි-පුද්ගල-ඝාතනයේ-සුල-මුල-හෙළිවෙයි/11-418956) · `si`
 
-හුංගම පොලිස් බල ප්‍රදේශයේ රන්න  වාඩිගල වලව්මහත්තයාගේ ආර ප්‍රදේශයේ නිවසකදී යුවළක් අද අලුයම් කාලයේ ඝාතනය කර තිබෙනවා.
+A couple has been murdered at a house in Walawella, Walawella, Walawella, Walawella.
 
-මෙසේ ඝාතනයට ඇත්තේ රන්න කහ මෝදර කැලණිගම ප්‍රදේශයේ පදිංචි විජේසේකර ආරච්චිගේ පසිදු හේෂාන් (28)නොහොත් බෝ පසිඳු නමැති අයෙකු හා ඔහුගේ අනියම් බිරිද වූ තිස්සමහාරාම ප්‍රදේශයේ පදිංචි  ඉමාෂා මදු භාශනී (27) නමැති තිදෙරු කාන්තාවක්වේ.
+The killing of these killings is a woman named Wijesekara Arachchige (28), alphabethanda alias, alphabethanda, a resident of Tissamaharama, Tissamaharama.
 
-ඝාතනයට ලක්වූ කාන්තාව මිට දින හතරකට පමණ ප්‍රථම මෙම නිවසට පැමිණ ඇති අතර පසිදු හේෂාන් නමැති නමැති අය පැමිණ ඇත්තේ පසුගිය 06 වනදා සවස බව ගෙහිමි කාන්තාව පොලිසියට පවසා තිබේ.
+The victim had arrived at the house nearly four days ago and the phase was said to the police.
+
+The murdered woman, Box, was taken bail to the court, who had been arrested by the Hungama police for the murder of the murder in March 2024, and six months ago, he had about her drug reserved for several days ago. According to a warrant, he was arrested on the 5th and later arrived at the house on the same evening.
+
+The police states that Bo Bo Saspu and his casual wife are also involved in the court of charged with drug dealer.. Samarawickrama Kadawatha Restalerachchige Samankumara alias Kadawatha has been arrested by five crimes to the murder of the murder (27).
 
 ...
 
 [Data](articles/3760debc.json)
 
+[Extended Data](ext_articles/3760debc.ext.json)
+
 ---
 
-### කාසියේ වාසිය එංගලන්තයට
+### Toss in the coin to England
 
 *2025-10-07 14:43:26* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-එංගලන්තයට/9-418955) · `si`
 
-2025 කාන්තා එක්දින ​ලෝක කුසලාන තරගාවලියේ බංග්ලාදේශය සහ එංගලන්තය අතර තරගය තව සුළු මොහොතකින් ආරම්භ වේ.
+The match between the 2025 Women's ODI World Cup, the match between Bangladesh and England begins in a short time.
 
-මෙම තරගයේ කාසියේ වාසිය දිනා ගත් එංගලන්තය පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+England won the toss and won the toss.
 
 ◼️
 
 [Data](articles/d2eef29c.json)
+
+[Extended Data](ext_articles/d2eef29c.ext.json)
 
 ---
 
@@ -135,21 +169,51 @@ The Tangalle High Court then imposed the death sentence on him.
 
 ---
 
-### பெண் வைத்தியர் துஷ்பிரயோகம்: அதிரடி உத்தரவு பிறப்பிப்பு
+### Woman Doctor Abuse: Action Order
 
 *2025-10-07 14:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-வைத்தியர்-துஷ்பிரயோகம்-அதிரடி-உத்தரவு-பிறப்பிப்பு/175-365894) · `ta`
 
-அனுராதபுரம் போதனா வைத்தியசாலையில் பெண் பயிற்சி நிபுணர் மருத்துவரை கடுமையாக துஷ்பிரயோகம் செய்ததாக கூறப்படும் வழக்கில் கிட்டத்தட்ட ஏழு மாதங்கள் விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் இராணுவ வீரர் செவ்வாய்க்கிழமை (07) பிணையில் விடுவிக்கப்பட்டார். அனுராதபுரம் நீதவான் நாலக சஞ்சீவ ஜெயசூரிய இந்த உத்தரவை பிறப்பித்தார்.
+For a former soldier who had been detained for nearly seven months on Tuesday (07), a female training specialist at the Anuradhapura Teaching Hospital. Anuradhapura Magistrate Nalaka Sanjeeva Jayasuriya issued this order.
 
-கடுமையான பிணை நிபந்தனைகளின் பேரில் விடுவிக்கப்பட்ட நபர், கல்னேவ புதிய நகரம், எலா வீதி, டி துன் பகுதியைச் சேர்ந்த கே.பி. மதுரங்க ரத்நாயக்க ஆவார்.
+A person who was released on severe bail conditions. Mathuranga is Ratnayake.
 
-சந்தேக நபரை ரூ. 50,000 ரொக்கப் பிணையிலும், தலா ரூ. 500,000 இரண்டு சரீரப் பிணையிலும் விடுவிக்க நீதிமன்றம் உத்தரவிட்டுள்ளது, மேலும் பிணையில் இருப்பவர்களில் ஒருவர் சந்தேக நபரின் நெருங்கிய குடும்ப உறுப்பினராக இருக்க வேண்டும் என்றும் நீதவான் உத்தரவிட்டுள்ளார்.
+The suspect is at a cost of Rs.. 50,000 in cash bail. The magistrate has ordered the release of 500,000 on two physical bail, and that one of the bail should be a close family member of the suspect.
 
-மேலும், சாட்சிகள் அல்லது விசாரணைகளில் எந்த வகையிலும் தலையிட வேண்டாம் என்று சந்தேக நபரை  நீதவான் கடுமையாக எச்சரித்துள்ளார், மேலும் அவரது வெளிநாட்டு பயணத்தையும் தடை செய்துள்ளார்.
+Moreover, the magistrate has strongly warned the suspect not to interfere in any way in witnesses or investigations, and has banned his foreign journey.
+
+However, despite being granted bail for a former soldier in connection with the abuse incident, he is still in the process of holding a handgun.
 
 ...
 
 [Data](articles/c3b5b65c.json)
+
+[Extended Data](ext_articles/c3b5b65c.ext.json)
+
+---
+
+### 8 lakhs donation of Chinese community to the Uyana
+
+*2025-10-07 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215435) · `si`
+
+The Chinese community and Chinese community and Chinese people in Sri Lanka have to donate a financial donation of Rs. 800,000.
+
+The financial donation has been made to improve the rehabilitation and safety of the sence capacity due to the unfortunate casualties of medicine accidents recently.
+
+This sad event, Chinese journalist, Sri Lanka's Chinese Language Internet newspaper, was reported on the Web Site and many of the Chinese community in Sri Lanka and China.
+
+Later, contacting her willingness to contribute to the rehabilitation and improvement of the crowdial cable cable.
+
+According to the success of this charity, the Chinese Media Institute of China and the Colombo North Cultural Center in Colombo have joined the Chinese community.
+
+Accordingly Rs. 800,000 was presented to the Nayaka Thera on Saturday, opener on the 500,000.
+
+The Chinese leaders have been prompted that the Chinese community's respect and kindness to the work of Sri Lanka.
+
+...
+
+[Data](articles/cd2532bd.json)
+
+[Extended Data](ext_articles/cd2532bd.ext.json)
 
 ---
 
@@ -201,23 +265,29 @@ Former Minister Manusha Nanayakkara had filed the petition, claiming that commen
 
 ---
 
-### கிழக்கில் 2 கிலோ 03  கிராம் ஐஸ்: இளம் தம்பதி  கைது
+### 2 kg 03 g ice in the east: Young couple arrested
 
 *2025-10-07 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-2-கிலோ-03-கிராம்-ஐஸ்-இளம்-தம்பதி-கைது/175-365893) · `ta`
 
-மட்டக்களப்பு வாழைச்சேனை பிரதேசத்தில் வைத்த 2 கிலோ 03 கிராம் ஐஸ் போதைப் பொருளுடன் 24,23 வயதுடைய இளம் தம்பதியினர் கைது செய்யப்பட்டுள்ளனர்.
+A 24,23 -year -old young couple have been arrested in Batticaloa with 2 kg 03 grams of ice.
 
-உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸ் தலைமையிலான பொலிஸார்  திங்கட்கிழமை (06) மாலை கைது செய்துள்ளனர்.
+Assistant Superintendent of Police MSM. The police, led by Jarus, arrested the police on Monday evening.
 
-கிழக்கு மாகாணத்தில் ஆகக்கூடிய தொகை  ஐஸ் போதை பொருள் கைப்பற்றப்பட்டது இதுவே முதன்முறையாகும் என்று    வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+This is the first time in the Eastern Province, which has been seized by ice drugs, said Valaichenai police.
 
-வாழைச்சேனை உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸ் கிடைத்த தகவல் ஒன்றிணை அடுத்து அவர் தலைமையிலான பொலிஸ் குழுவினர்  சம்பவ தினமான திங்கட்கிழமை (06) மாலை 4.30 மணியளவில் உதவி பொலிஸ் அத்தியட்சகர் காரியாலயத்துக்கு அருகில் கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்த போது கல்குடாவில் இருந்து ஐஸ் போதை பொருளை முச்சக்கரவண்டியில் எடுத்துக் கொண்டு சென்ற போது அவர்களை சுற்றி வளைத்து மடக்கி பிடித்தனர்.
+Assistant Superintendent of Police MSM. Following the information received by the Juros, a group of police team led by him was survived by surveillance at the Assistant Superintendent's Office at 4.30 pm on Monday (06) at 4.30 pm.
 
-இதையடுத்து அவர்களிடம் இருந்து 2 கிலோ .03 கிராம் ஐஸ் போதை பொருளை கைப்பற்றினர். அதனையடுத்து அவர்களையும் கைது செய்தது முச்சக்கரவண்டியும் கைப்பற்றினர்.
+They then seized 2 kg .03 g of ice from them. Subsequently, they were arrested and the three -wheeler was seized.
+
+A main narcotics dealer in Morakotanzenne has told the couple to buy a dog in Colombo.. He has paid Rs.
+
+Subsequently, the couple went to Colombo train and placed a couple to put a puppy and a bag to the couple in the Parakkottai area where they returned to their home in Calcutta.
 
 ...
 
 [Data](articles/91fa605a.json)
+
+[Extended Data](ext_articles/91fa605a.ext.json)
 
 ---
 
@@ -299,21 +369,23 @@ Two weeks after the request of the legal officer, the Sri Lanka Human Rights Com
 
 ---
 
-### மஹிந்தவை சந்தித்த மஹிந்த
+### Mahinda met Mahinda
 
 *2025-10-07 14:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்த-மஹிந்த/175-365890) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் நலன் தொடர்பில் கேட்டறிந்து கொள்வறத்கு முன்னாள் அமைச்சர் மஹிந்த அமரவீர  தங்காலையில் உள்ள கார்ல்டன் இல்லத்திற்கு செவ்வாய்க்கிழமை (07) சென்றார்.
+Former Minister Mahinda Amaraweera visited the Carlton residence in Tangalle on Tuesday (07) to hear about the welfare of former President Mahinda Rajapaksa.
 
-முன்னாள் ஜனாதிபதியை நேசிக்கும் பல அரசியல்வாதிகள் மற்றும் மக்கள் முன்னாள் ஜனாதிபதியின் நலனைக் காண தினமும் கார்ல்டன் இல்லத்திற்குச் சென்று வருகின்றனர்.
+Many politicians and people who love the former president go to Carlton's house every day to see the benefit of the former president.
 
-முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்கும் சட்டமூலம் நிறைவேற்றப்பட்டதைத் தொடர்ந்து, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ கொழும்பில் உள்ள விஜேராம மாவத்தையில் உள்ள அரசாங்க உத்தியோகபூர்வ இல்லத்திலிருந்து புறப்பட்டு தங்காலையில் உள்ள கார்ல்டன் இல்லத்திற்கு வந்தார்.
+Former President Mahinda Rajapaksa left the government official residence in Colombo and arrived at the Carlton residence in Tangalle, following the passage of the Bill to remove the rights of former presidents.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த மஹிந்த மஹிந்த அமரவீர, மஹிந்த ராஜபக்ஷ ஒரு சகாப்தத்தை உருவாக்கிய தலைவர் என்று கூறினார்.
+Commenting on the media, Mahinda Mahinda Amaraweera said that Mahinda Rajapaksa was the leader who created a era.
 
 ◼️
 
 [Data](articles/6d81e81f.json)
+
+[Extended Data](ext_articles/6d81e81f.ext.json)
 
 ---
 
@@ -339,19 +411,21 @@ Dubbleu Jyotiratne, Chief Secretary of the All Ceylon Progressive Samurdhi Manag
 
 ---
 
-### ජුලම්පිටිය අමරේගේ ඇපෑල විභාගයට නොගෙනම නිෂ්ප්‍රභ කෙරේ
+### Julampitiye Amare's appeal was taken
 
 *2025-10-07 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215434) · `si`
 
-මිනීමැරිමේ චෝදනාවට වරදකරු වී මරණීය දණ්ඩනය නියම වී සිටින ජී. ජී. අමරසිරි හෙවත් 'ජුලම්පිටිය අමරේ' නැමැත්තාට පනවා තිබූ මරණීය දණ්ඩනයට එරෙහිව ඔහු විසින් ඉදිරිපත් කළ ඇපෑල විභාගයට නොගෙනම ශ්‍රේෂ්ඨාධිකරණය විසින් අද (07) නිෂ්ප්‍රභ කළේය.
+Grouquitar's murder is convicted and death sentence. G. The Supreme Court refuted by the Supreme Court today (07) without taking the appeal to the death penalty imposed by Amarasiri Amare.
 
-ජුලම්පිටිය අමරේ නමැත්තාට තංගල්ල මහාධිකරණය විසින් ප්‍රකාශිත මරණීය දණ්ඩනය තහවුරු කරමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
+The Supreme Court issued the Supreme Court to ensure Julampitiye Amare, the death penalty published by the Tangalle High Court, Ada Derana reporter said.
 
-2012 වසරේ කටුවන ප්‍රදේශයේ පැවති ජනතා විමුක්ති පෙරමුණේ රැස්වීමකට කඩා වැදී වෙඩිතබා පුද්ගලයින් දෙදෙනකු මරා දමා තවත් අයෙකුට මරණීය තුවාල සිදුකිරීමේ චෝදනාවට වරදකරු කෙරුණු විත්තිකරුට තංගල්ල මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කර තිබුණි.
+The Tangalle High Court had convicted the accused to kill a group of people who were killed and killed in the JVP in 2012.
 
 ◼️
 
 [Data](articles/0d767a44.json)
+
+[Extended Data](ext_articles/0d767a44.ext.json)
 
 ---
 
@@ -379,41 +453,47 @@ The development of Fitsair depends on the history of flexibility and is based on
 
 ---
 
-### மன்னாரிலும் சட்டத்தரணிகள் பணிப்பகிஷ்கரிப்பு
+### Attorneys in Mannar also
 
 *2025-10-07 13:55:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரிலும்-சட்டத்தரணிகள்-பணிப்பகிஷ்கரிப்பு/175-365889) · `ta`
 
-யாழ்ப்பாணத்தில்   சட்டத்தரணி ஒருவரின் வீட்டில் உரிய வகையில் தேடுதல் ஆணை இல்லாது பொலிஸாரால் சோதனை முன்னெடுக்கப்பட்டதாக கூறப்படும் சம்பவத்திற்கு எதிர்ப்பு தெரிவித்து  வடமாகாண  சட்டத்தரணிகள் செவ்வாய்க்கிழமை (07) ஒருநாள் பணிப்புறக்கணிப்பை முன்னெடுத்து வருகின்றனர்.  குறித்த பணிப் புறக்கணிப்புக்கு வலு சேர்க்கும் வகையில் மன்னார் சட்டத்தரணிகளும்  பணிப் பகிஷ்கரிப்பை மேற்கொண்டுள்ளனர்.
+The Northern Province lawyers are carrying out a one -day workplace on Tuesday (07) in protest of the alleged incident of raids by the police without a proper search order in the house of a lawyer in Jaffna.  Mannar lawyers have also been boycotted to strengthen the work boycott.
 
-யாழ்ப்பாணத்தில்   சட்டத்தரணிக்குஎதிராக முன்னெடுக்கப்பட்டசம்பவம் எதிர் காலத்தில் இடம் பெறக் கூடாது என்பதை வலியுறுத்தி குறித்த பணிப்பகிஷ்கரிப்பு போராட்டத்தை சட்டத்தரணிகள் முன்னெடுத்துள்ளனர்.
+Attorneys have launched a task protest demanding that the incident against the lawyer against the lawyer in Jaffna.
 
-இதனால்  மன்னாரில் நீதிமன்ற செயல்பாடுகள் ஸ்தம்பிதமடைந்துள்ளதோடு,இன்றைய (07) நாளுக்கான வழக்கு விசாரணைகள் பிரிதொரு தினத்திற்கு தவணை இடப்பட்டுள்ளது.
+This has resulted in court proceedings in Mannar and the hearing of today's (07) day has been installed for a day.
 
 ◼️
 
 [Data](articles/982db740.json)
 
+[Extended Data](ext_articles/982db740.ext.json)
+
 ---
 
-### විද්‍යාගාරයක තිබූ රසායනික ද්‍රව්‍යක් ශරීරගත වී දරුවන් 7ක් රෝහලට
+### Secombums in a laboratory and 7 children hospitalized
 
 *2025-10-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215433) · `si`
 
-දඹුල්ල ප්‍රදේශයේ පාසලක විද්‍යාගාරයක් තුළ තිබූ රසායනික ද්‍රව්‍යයක් දිවේ ගැවීමෙන් පාසල් සිසු සිසුවියන් හත්දෙනෙකු රෝහල්ගත කර තිබේ.
+Seven school children have been hospitalized after a chemical in a school in Dambulla.
 
-රෝහල්ගත කළ සිසුන් අතර පිරිමි දරුවන් පස්දෙනෙකු හා ගැහැණු දරුවන් දෙදෙනෙකු සිටින අතර ඔවුන්ව දඹුල්ල මූලික රෝහලට ඇතුළත් කර ඇත.
+There are five boys and two girls among the students who were hospitalized and two girls have been admitted to the Dambulla Base Hospital.
 
-දඹුල්ල සහකාර පොලිස් අධිකාරි එම්. එස්. කේ. වික්‍රමනායක මහතා සහ දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂක සුගත් බණ්ඩාර යන මහත්වරුන් ඇතුළු පිරිසක් සිද්ධිය වාර්තා වීමත් සමඟ සිසු දරු දැරියන් පිළිබඳව සොයා බැලීම සඳහා රෝහලට ගොස් තිබුණි.
+Dambulla Assistant Superintendent of Police. S. K. Mr. Wickremanayake and Dambulla Police Inspector Sugath Bandara had reportedly visited the hospital to look into the students with the incident.
 
-සහකාර ‍පොලිස් අධිකාරියේ එම්. එස්. කේ  වික්‍රමනායක මහතා සඳහන් කළේ,  විද්‍යාලයේ හත්වැනි වසරේ ඉගෙනුම ලබන දරුවන් පිරිසක් මෙසේ රෝහල්ගත කොට තිබෙන බවත් විදුහලේ විද්‍යාගාරය පසුගිය නිවාඩු දින කිහිපයේ රිලවුන් කඩා එහි තිබූ භාණ්ඩ ඇද දමා තිබුණු බවය.
+Asst ASP. S. K. Wickramanayake said a number of children who were educated in the school had been hospitalized that the school lab was taken into hospital with the Last Holidays.
 
-ඒ අනුව එහි විසිරී තිබුණු රතු පැහැගැන්වූ ද්‍රව්‍යයක් මෙම දරුවන් මිරිස් කුඩු යැයි සිතා දිව මත ගා රස බලා ඇති බවය.
+Accordingly, there is a red to have a red tonegument with the chili powder on the tongue.
 
-කෙසේ වෙතත් සහකාර පොලිස් අධිකාරීවරයා සඳහන් කළේ, දැනට සිදුකරන ලද පරීක්ෂණවලින් හෙළි වී ඇත්තේ සිසුන්ගේ මුඛයට ගෑවී ඇත්තේ යකඩ හඳුනාගැනීම සඳහා යොදාගන්නා රසායනික ද්‍රව්‍යයක් බවය.
+The ASP, however, said the investigations have revealed that the students' mouth is a chemical used to identify iron.
 
-...
+The children are receiving treatment and forward investigations are being treated.
+
+◼️
 
 [Data](articles/0664ee96.json)
+
+[Extended Data](ext_articles/0664ee96.ext.json)
 
 ---
 
@@ -585,23 +665,25 @@ Therefore, the bloodbath of the Jaffna Teaching Hospital has requested that the 
 
 ---
 
-### நீச்சல் தடாகத்தில் காயமடைந்த சிறுவன் மரணம்
+### The death of a boy who was injured in swimming lake
 
 *2025-10-07 13:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீச்சல்-தடாகத்தில்-காயமடைந்த-சிறுவன்-மரணம்/175-365888) · `ta`
 
-கொழும்பு நீச்சல் கிளப்பில் நடந்த ஒரு சம்பவத்தில் படுகாயமடைந்த எட்டு வயது சிறுவன், தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்ததாக மருத்துவமனை வட்டாரங்கள் தெரிவித்தன.
+An eight -year -old boy, who was injured in an incident at the Colombo Swimming Club, died after being treated at a private hospital, hospital sources said.
 
-மாஸ்டர் ஆர்லான் என அடையாளம் காணப்பட்ட அந்த சிறுவன், கொழும்பு கிளப்பில் நடைபெற்ற ஒரு தனியார் பிறந்தநாள் விழாவின் போது நீச்சல் தடாகத்தில் விழுந்து காயமடைந்தார்.
+The boy, who was identified as Master Orlan, fell into a swimming lake during a private birthday party at the Colombo club.
 
-மூளையில் பலத்த காயங்களுக்கு ஆளானதால், பல நாட்களாக அவருக்கு உயிர்காக்கும் கருவிகள் வழங்கப்பட்டன.
+He was given life -saving equipment for several days as he suffered severe injuries in the brain.
 
-சம்பவம் நடந்தபோது, ​​குளத்தில் உயிர்காக்கும் எந்த காவலரும் இல்லை என்று கூறி, கிளப் மற்றும் அதன் ஊழியர்களின் அலட்சியத்தால் ஏற்பட்டதாக அவரது தந்தை பிரசாத் பனகோட பின்னர் பொலிஸில் முறைப்பாடு செய்திருந்தார்.
+At the time of the incident, his father Prasad Panagoda had lodged a complaint with the police that there was no policeman in the pool, claiming that there was no policeman in the pool.
 
-கொழும்பு நீச்சல் கிளப் அதன் உறுப்பினர்களுக்கு அளித்த அறிக்கையில், ஒரு உயிர்காக்கும் காவலாளி குழந்தையை மீட்டதாகவும், விருந்தினர்களில் ஒருவரான மருத்துவரின் உதவியுடன் அவசர உதவியை வழங்கியதாகவும் தெரிவித்துள்ளது. பொலிஸ் விசாரணைகளுக்கு முழுமையாக ஒத்துழைப்பதாக கிளப் மேலும் கூறியது.
+In a statement to its members, the Colombo Swimming Club said that a life -saving guard rescued the child and provided emergency assistance with the help of one of the guests, a doctor.. The club further stated that it was fully cooperating with the police investigations.
 
 ◼️
 
 [Data](articles/01617d6e.json)
+
+[Extended Data](ext_articles/01617d6e.ext.json)
 
 ---
 
@@ -629,17 +711,19 @@ Further investigations are being carried out by the Bambalapitiya Police Crimina
 
 ---
 
-### ஆதிவாசி அகராதி வெளியீடு
+### Abnormal
 
 *2025-10-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆதிவாசி-அகராதி-வெளியீடு/76-365887) · `ta`
 
-ஊவா மாகாண சபையின் ஏற்பாட்டில், ஊவா நவோதயா கலாசார கலை விழாவுடன் இணைந்து ஆதிவாசி அகராதி வெளியீட்டு விழா பதுளை ஊவா மாகாண நூலக கேட்போர் கூடத்தில் அண்மையில் நடைபெற்றது.
+Uva Provincial Council organized by the Uva Navodaya Cultural Arts Festival recently held the launch of the Adivasi Dictionary at the Uva Provincial Library Auditorium.
 
-இந்நிகழ்வில் ஊவா மாகாண ஆளுநர் கபில ஜயசேகர, ஊவா மாகாண பிரதம செயலாளர் அனுஷா கோகுல, உருவரிகே வன்னில அத்தன் ஆகியோர் கலந்துகொண்டனர்.
+Governor of Uva Province Kapila Jayasekara, Uva Provincial Chief Secretary Anusha Gokula and Avaurige Wannila Attan were also present.
 
 ◼️
 
 [Data](articles/70ea790a.json)
+
+[Extended Data](ext_articles/70ea790a.ext.json)
 
 ---
 
@@ -693,25 +777,27 @@ He had tried to kill him earlier and he had survived serious injuries.
 
 ---
 
-### பாகிஸ்தானில் தண்டவாளத்தில் குண்டு வெடிப்பு
+### Bomb blast on the railway in Pakistan
 
 *2025-10-07 12:45:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-தண்டவாளத்தில்-குண்டு-வெடிப்பு/50-365885) · `ta`
 
-பாகிஸ்தானின் பலூசிஸ்தான் மாகாணத்தில் பலூச் விடுதலை ராணுவத்தின் போராளிகள் அடிக்கடி தாக்குதல் நடத்தி வருகிறார்கள்.
+Baloch Liberation Army militants are frequent attacks in Pakistan's Balochistan province.
 
-சமீபகாலமாக ஜாபர் எக்ஸ்பிரஸ் ரெயிலை குறிவைத்து தாக்கினர். கடந்த மார்ச் மாதம் ஜாபர் எக்ஸ்பிரஸ் ரெயிலை கடத்தி 400 பயணிகளை பிணைக்கைதிகளாக பிடித்தனர்.
+Recently attacked the Jafar Express train. Last March, 400 passengers were hijacked by the Jafar Express train.
 
-இந்த நிலையில் இன்று ஜாபர் எக்ஸ்பிரஸ் ரெயில் மீது தாக்குதல் நடத்தப்பட்டுள்ளது. அந்த ரெயில் குவெட்டா நகருக்கு சென்று கொண்டிருந்தது.
+The Jafar Express train has been attacked today. The train was heading to Quetta.
 
-சிந்து-பலூசிஸ்தான் எல்லைக்கு அருகில் உள்ள சுல்தான்கோட் பகுதியில் ரெயில் சென்றபோது தண்டவாளத்தில் வைக்கப்பட்டிருந்த குண்டு வெடித்தது.
+The bomb exploded on the railway when the train was traveling in the Sultankot area near the Indus-Balusistan border.
 
-இதனால் ரெயிலின் 6 பெட்டிகள் தடம் புரண்டு கவிழ்ந்தது. இதில் பலர் காயம் அடைந்தனர்.
+Thus the 6 compartments of the train were derailed. Many of them were injured.
 
-உடனே மீட்புக் குழுக்கள் மற்றும் பாதுகாப்புப் படையினர் சம்பவ இடத்துக்கு சென்று மீட்புப்பணியில் ஈடுபட்டனர். காயம் அடைந்தவர்களை மீட்டு ஆஸ்பத்திரிக்கு அனுப்பி வைத்தனர்.
+Immediately rescue teams and security forces went to the scene and engaged in rescue operations. The injured were rescued and sent to the hospital.
 
 ◼️
 
 [Data](articles/5d02cf2b.json)
+
+[Extended Data](ext_articles/5d02cf2b.ext.json)
 
 ---
 
@@ -733,37 +819,41 @@ Both teams have won the first match in the tournament.
 
 ---
 
-### ரசாயனப் பொருளை சுவைத்த மாணவ குழுவுக்கு பாதிப்பு
+### Damage to a group of students who tasted the chemical substance
 
 *2025-10-07 12:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரசாயனப்-பொருளை-சுவைத்த-மாணவ-குழுவுக்கு-பாதிப்பு/175-365884) · `ta`
 
-தம்புள்ளை பகுதியில் உள்ள ஒரு பாடசாலையில் ஏழாம் வகுப்பு மாணவர்கள் ஏழு பேர், ஆய்வகத்தில் உள்ள ரசாயனப் பொருளை செவ்வாய்க்கிழமை (07) நாக்கில் செலுத்தியதால் தம்புள்ளை ஆதார மருத்துவமனையில் அனுமதிக்கப்பட்டதாக தம்புள்ளை பொலிஸார் தெரிவித்தனர்.
+Seven students in a school in Dambulla area have been admitted to the Dambulla Resource Hospital as they have been admitted to the Dambulla Resource Hospital on Tuesday (07).
 
-பாடசாலையில் ஏழாம் வகுப்பு மாணவர்கள் குழு மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளதாக உதவி பொலிஸ் கண்காணிப்பாளர் எம்.எஸ்.கே. விக்ரமநாயக்க தெரிவித்தார். கடந்த சில விடுமுறை நாட்களில் பாடசாலையில் ஆய்வகம் உடைக்கப்பட்டு உள்ளே இருந்த பொருட்கள் தூக்கி எறியப்பட்டிருந்தன.
+Assistant Police Superintendent MSK has been admitted to a group of seventh grade students in the school.. Wickramanayake said. During the past few holidays, the school has been broken and the items inside have been thrown away.
 
-அதன்படி, மிளகாய் தூள் என்று நினைத்து அங்கு சிதறிக் கிடந்த சிவப்பு நிறப் பொருளை மாணவர்கள் சுவைத்ததாகக் கூறப்படுகிறது.
+Accordingly, the students are said to have tasted the red material scattered there, thinking it was a chilli powder.
 
 ◼️
 
 [Data](articles/b554dcf3.json)
 
+[Extended Data](ext_articles/b554dcf3.ext.json)
+
 ---
 
-### போதை விருந்து: 22 சிறுமிகள் உள்பட 65 பேர் சிக்கினர்
+### Drug Feast: 65 people, including 22 girls
 
 *2025-10-07 12:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-விருந்து-22-சிறுமிகள்-உள்பட-65-பேர்-சிக்கினர்/175-365883) · `ta`
 
-தெலுங்கானா தலைநகர் ஐதராபாத்தின் மொய்னாபாத்தில் உள்ள ஒரு பண்ணை வீட்டில் போதை விருந்து நடப்பதாக பொலிஸாருக்கு ரகசிய தகவல் கிடைத்தது.
+Police received confidential information that a drug party was being held at a farmhouse in Moinabad, Telangana capital, Hyderabad.
 
-இதனையடுத்து பொலிஸார் சம்பவ இடத்திற்கு விரைந்து சென்றனர். அங்கு 22 சிறுமிகள் உள்பட 65 பேர் போதையில் இசைக்கு ஏற்றவாறு ஆடிக்கொண்டிருந்தனர்.
+The police then rushed to the scene. There were 65 people, including 22 girls, and were playing the music.
 
-அப்போது 2 பேர் கஞ்சா புகைத்திருந்தது தெரியவந்தது. மற்றவர்கள் மது அருந்தியுள்ளனர். அவர்களிடம் தொடர்ந்து விசாரணை நடந்து வருகிறது.
+It was then revealed that 2 people had smoked cannabis. Others have drank wine. They continue to investigate them.
 
-இதற்கிடையே சமூகவலைத்தளம் மூலமாக ஆட்களை திரட்டி போதை விருந்துக்கு ஏற்பாடு செய்ததாக கனடாவை சேர்ந்த இஷான் உள்பட 6 பேரை பொலிஸார் கைது செய்தனர்.
+Meanwhile, police have arrested six people, including Canada, for allegedly gathering people through social networking base.
 
 ◼️
 
 [Data](articles/2c2d7900.json)
+
+[Extended Data](ext_articles/2c2d7900.ext.json)
 
 ---
 
@@ -807,21 +897,25 @@ Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a le
 
 ---
 
-### பொலிஸாருக்கு எதிராக யாழ். வழக்கறிஞர்கள் வேலைநிறுத்தம்
+### Jaffna against police. Lawyers strike
 
 *2025-10-07 12:32:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-எதிராக-யாழ்-வழக்கறிஞர்கள்-வேலைநிறுத்தம்/175-365882) · `ta`
 
-நீதிமன்ற அனுமதியின்றி காவல்துறையினர் ஒரு வழக்கறிஞரின் வீட்டிற்குள் சட்டவிரோதமாக நுழைந்து சோதனை செய்ததாகக் குற்றம் சாட்டி, யாழ்ப்பாணத்தில் வழக்கறிஞர்கள், செவ்வாய்க்கிழமை(07) வேலைநிறுத்தத்தில் ஈடுபட்டனர்.
+Attorneys in Jaffna went on strike on Tuesday (07), accusing the police of illegally checking and illegally checking into a lawyer's house without court permission.
 
-யாழ்ப்பாணத்தில் நிலப் பத்திர மோசடியில் ஈடுபட்டதாகக் கூறப்படும் பல வழக்கறிஞர்கள் மீது காவல்துறையினர் விசாரணை நடத்தி வரும் நிலையில் இந்த சம்பவம் நிகழ்ந்துள்ளது. நில மோசடி குற்றச்சாட்டுக்கு உள்ளான அத்தகைய ஒரு வழக்கறிஞரை  கைது செய்யும் நோக்கத்துடன், காவல்துறை அதிகாரிகள் அவரது வீட்டிற்குள் ஞாயிற்றுக்கிழமை(05), நுழைந்து, வீட்டிற்குள் சோதனை நடவடிக்கையை மேற்கொண்டதாகக் கூறப்படுகிறது.
+The incident took place as police are investigating several lawyers allegedly involved in a land bond scam in Jaffna.. It is reported that police officers have entered his home on Sunday (05), with the intention of arresting such a lawyer who has been charged with land fraud.
 
-இருப்பினும், நீதிமன்றத்தின் முன் அனுமதி அல்லது பிடிவிறாந்து பெறாமல் சோதனை நடத்தியதாக காவல்துறையினர் மீது குற்றம் சாட்டப்பட்டுள்ளது.
+However, the police have been accused of conducting a raid without permission or stubbornness.
 
-இதற்கு பதிலளிக்கும் விதமாக, காவல்துறையினரின் நடவடிக்கைகளைக் கண்டித்து நீதிமன்றங்களுக்கு முன்பாக வழக்கறிஞர்கள் போராட்டங்களை நடத்தினர்.
+In response, the lawyers staged protests in front of the courts to condemn the actions of the police.
 
-...
+Meanwhile, lawyers face the allegations of land fraud will be filed in court tomorrow (Wednesday) to prevent the arrest of the police.
+
+◼️
 
 [Data](articles/96325554.json)
+
+[Extended Data](ext_articles/96325554.ext.json)
 
 ---
 
@@ -829,49 +923,55 @@ Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a le
 
 *2025-10-07 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/227103) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (ஒக். 07) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 306.2386 ரூபா ஆகவும் கொள்வனவு விலை  298.7404 ரூபா ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today is Tuesday (Oc. 07) Based on the Central Bank's currency exchange rate, the US dollar sales price was Rs 306.2386 and the purchase price was 298.7404 rupees.
 
 ◼️
 
 [Data](articles/2cb434d8.json)
 
+[Extended Data](ext_articles/2cb434d8.ext.json)
+
 ---
 
-### ආදර්ශමත් ගුරු දින සැමරුමක්
+### Example Teacher Celebration
 
 *2025-10-07 12:29:59* · [`adalk`](https://www.ada.lk/breaking_news/ආදර්ශමත්-ගුරු-දින-සැමරුමක්/11-418954) · `si`
 
-ලෝක ගුරු දිනයට සමගාමීව බගවන්තලාව ධර්ම කීර්ති විද්‍යාලයේ සිසු සිසුවියන් විසින් ආදර්ශමත් ගුරු දින සැමරුමක් අද (07) දින සංවිධානය කර තිබුණි.
+The students of the Bogawantalawa Keerti College was organized today (07).
 
-එම විදුහලේ විදුහල්පති තිස්ස ශ්‍රී ගුණසිංහ මහතා ඇතුලු ආචාර්ය මණ්ඩලයට එම පාසලේ අධ්‍යාපනය ලබන සිසු සිසුවියන් විසින් නිර්මාණය කරන ලද නිළ ලාංඡනයක් ගුරුවරුන්ට පළදවා තූර් වාදනය මැද්දේ විදුහල්පතිවරයා සහ ආචාර්ය මණ්ඩලය පාසල වෙත කැදවාගෙන ගොස් විදුහල්පතිවරයා සහ ආචාර්ය මණ්ඩලය අතින් රුක් රෝපණ වැඩසටහනක්ද සිදු කරනු ලැබූහ.
+The Principal of the College Tissa Sri Gunasinghe, the school board, was held to the school and conducted the staff of the students and the staff of the staff and the staff of the staff of the school.
 
-ගුරු උපහාර උළෙලට අනවශ්‍ය වියදම් නොමැතිව රටට ආදරශයක් වන ආකාරයට ගුරු දින සැමරුම සැමරීමට එම පසලේ අධ්‍යාපනය ලබන සිසු සිසුවියන් කටයුතු කර තිබූණි.(I J)
+The students who have studied the students to celebrate the teachers' Day as the Teacher festival is lived without any unnecessary expenditure. (I J)
 
 ◼️
 
 [Data](articles/2752f89b.json)
 
+[Extended Data](ext_articles/2752f89b.ext.json)
+
 ---
 
-### 2025ம் ஆண்டிற்கான பெறுமதி வாய்ந்த வணிக விருந்தினை வென்றுள்ளது தாய் சுமேத
+### Mother Somatha won the value of a valuable business party for 2025
 
 *2025-10-07 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/227102) · `ta`
 
-இலங்கையின் முன்னணி ஊதுபத்தி உற்பத்தியாளர் மற்றும் விநியோகஸ்தரான தாய் சுமேத என்டர்பிரைஸ் பிரைவேட் லிமிடெட் மீண்டும் ஒரு முறை சர்வதேச ரீதியிலான அங்கீகாரத்தினை பெற்றுள்ளது.
+Sri Lanka's leading mouthpiece manufacturer and distributor Thai Sumeda Enterprise Private Limited has once again been recognized by international recognition.
 
-BWIO ( USA- =yq;fh) சபையினால்  மிக பரந்தளவிலான பிரிவில் வழங்கப்பட்ட 2025ஆம்  ஆண்டிற்கான பெருமைமிகு வணிக விருதினை பெற்றுக்கொண்டது.
+BWIO (USA- = YQ; FH) won the Proud Business Award for 2025 in the most wide range of category.
 
-இந்நிறுவனத்தின் சார்பாக இவ்விருதினை  பெற்றுக்கொண்டமைக்கு மனமார்ந்த நன்றிகளை தெரிவித்தார் தாய் சுமேதா என்டர்பிரைஸ்சின் தலைவரும் பிரதம நிறைவேற்று அதிகாரியுமான  சுமேத எல்பிடிய    கடந்த பல ஆண்டுகளாக தாய் சுமேத இவ்வகையான பல பாராட்டுகளை பெற்றுள்ளதோடு இத்துறையில் தனது தலைமைதுவத்தை மீண்டும் மீண்டும் நிறுபித்து வருகின்றது.
+Mother Sumedia Elpidiya, the head of the mother Sumeda Enterprise, and the chief executive officer of the Mother Sumeda Enterprise, has been reaping many more praise and has been repeated in the industry.
 
-இலங்கை பொருளாதாரத்தின் உந்துசக்தியாக இருக்கும் தாய் சுமேத பின்வரும் விடங்களுக்கு பங்களித்து வருகின்றது.
+The mother of the Sri Lankan economy is contributing to the following.
 
-குறிப்பாக சந்தையினை அபிவிருத்தி செய்யும் வகையில் சர்வதேச ரீதியில் உயர் தரத்திலான பொருட்களை ஏற்றுமதி செய்தல்
+Exporting high -quality products in internationally to develop the market, especially
 
-இலங்கை சோசலிஸ குடியரசின் முன்னால் ஜனாதிபதியான மைத்திரிபால சிறிசேன இந்நிகழ்வின் பிரதம அதிதியாக கலந்துக்கொண்டு விருதினை வழங்கினார்.
+President Maithripala Sirisena presented the award as the chief guest of the event.
 
 ◼️
 
 [Data](articles/92905885.json)
+
+[Extended Data](ext_articles/92905885.ext.json)
 
 ---
 
@@ -935,63 +1035,73 @@ When the flight eventually touched down in Edinburgh, Scotland, Jayaweera, a “
 
 ---
 
-### ஏக்ய ராஜ்ய என்ற ஒற்றையாட்சி வரைபை உருவாக்க இலங்கை தமிழ் அரசுக் கட்சி பெரும் பங்கு வகித்தது - கஜேந்திரகுமார் பொன்னம்பலம்
+### Sri Lanka Tamil State Party has played a major role
 
 *2025-10-07 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227101) · `ta`
 
-38 வருடம் நடைமுறைப்படுத்தாத 13ம் திருத்தத்தை இலங்கை தமிழ் அரசுக் கட்சி தற்போது அமுல்படுத்த கோருவது ஏக்ய ராஜ்ய என்ற ஒற்றையாட்சி முடக்குவதற்காகவே என அகில இலங்கை தமிழ் காங்கிரஸ் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்தார்.
+All Ceylon Tamil Congress General Secretary and Member of Parliament Gajendrakumar Ponnambalam said that the 13th Amendment to the 38 years was not implemented by the Sri Lanka Tamil State Party to implement the Ekya Rajya.
 
-இலங்கை தமிழ் அரசுக் கட்சி தலைவர் சி.வீ.கே.சிவஞானம் அண்மையில் தெரிவித்த கருத்துக்கள் தொடர்பாக யாழ்ப்பாணத்தில் திங்கட்கிழமை (06) இடம்பெற்ற ஊடக சந்திப்பில் கருத்து தெரிவித்த போதே இதனை தெரிவித்தார்.
+He was speaking at a media briefing held in Jaffna on Monday (06) on the recent comments made by Sri Lanka Tamil State Party leader CVK Sivagnanam.
 
-13ம் திருத்தத்தை அமுல்படுத்த வேண்டும் என தமிழ் தேசிய மக்கள் முன்னணி தவிர்ந்த அனைவரும் இணங்கியுள்ளதாக சி.வீ.கே.சிவஞானம் தெரிவித்துள்ளார். அதற்காக சி.வீ.கே.சிவஞானத்திற்கு நன்றி சொல்ல வேண்டும்.
+CVK Sivagnanam says that all those except the Tamil National People's Front have agreed to implement the 13th Amendment. Thanks to CVK Sivagnanam for that.
 
-தமிழ் தேசிய மக்கள் முன்னணியை தவிர அனைத்து தரப்புக்களும் போருக்கு பிந்தைய காலத்தில் ஒற்றையாட்சிக்குள் உள்ள 13ற்கு இணங்கியிருந்தன.
+All parties, except the TNA, complied with the 13th of the post -war period.
 
-ஒற்றையாட்சிக்குள் முடக்கப்பட கூடாது. 13ஐ ஆரம்ப புள்ளியாக கொண்டு நகர்த்த முடியாது என சொல்லியே தமிழ் தேசிய கூட்டமைப்பில் இருந்து வெளியேறினோம்.
+Should not be disabled in the monolithic. We left the Tamil National Alliance (TNA), saying that it could not be moved by the starting point.
+
+In this case, the Tamil state party has been lying among the people for the past 16 years that we are a federal party and the Congress has accepted the unity.
 
 ...
 
 [Data](articles/ec58da80.json)
 
+[Extended Data](ext_articles/ec58da80.ext.json)
+
 ---
 
-### 81 பற்களைக் கொண்ட 11 வயது சிறுமி
+### 11 -year -old girl with 81 teeth
 
 *2025-10-07 12:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/81-பற்களைக்-கொண்ட-11-வயது-சிறுமி/53-365880) · `ta`
 
-11 வயது சிறுமி ஒருவருக்கு 32 பற்களை வளர்க்கவில்லை என்று எக்ஸ்ரே வெளிப்படுத்தியபோது மருத்துவர்கள் திகைத்துப் போனார்கள். அவளுக்கு 81 பற்கள் இருந்தது.
+Doctors were stunned when X -ray revealed that an 11 -year -old girl did not raise 32 teeth. She had 81 teeth.
 
-ஹைபர்டோன்டியா என்று அழைக்கப்படும் இந்த அரிய நிலை, ஈறுகளுக்குள் மறைத்து வைக்கப்பட்டுள்ள கூடுதல் பற்களின் வளர்ச்சியை ஏற்படுத்துகிறது, இது அறுவை சிகிச்சை நிபுணர்களுக்கும் ஆர்த்தடான்டிஸ்டுகளுக்கும் கடுமையான சவால்களை உருவாக்குகிறது. இந்த நிலையில் , மருத்துவர்கள் அவரது தாடையின் கட்டமைப்பைப் பாதுகாக்கும் போது சாதாரண செயல்பாடு மற்றும் சீரமைப்பை மீட்டெடுக்க பிரித்தெடுத்தல் மற்றும் சிகிச்சைகளை கவனமாக திட்டமிட வேண்டியிருந்தது.
+This rare condition, known as hypertonia, causes the growth of additional teeth hidden within the gums, which creates serious challenges for surgeon and orthodontists. In this case, doctors had to carefully plan the extraction and treatments to restore normal functioning and alignment while protecting the structure of his jaw.
 
-அதன் காரணம் இன்னும் தெளிவாக இல்லை என்றாலும், இந்த அரிய ஒழுங்கின்மை மனித உடலை எவ்வளவு கணிக்க முடியாதது மற்றும் வியக்க வைக்கிறது என்பதைக் காட்டுகிறது.
+Although its cause is still unclear, this rare anomaly shows how unpredictable and amazing the human body.
 
 ◼️
 
 [Data](articles/8c7a525b.json)
 
+[Extended Data](ext_articles/8c7a525b.ext.json)
+
 ---
 
-### இஸ்ரேல் - காசா சமாதான முயற்சிகள்: ஆபிரகாம் உடன்படிக்கை மற்றும் மோதலின் வேர்கள்
+### Israel - Gaza Peace efforts: the roots of Abraham's agreement and conflict
 
 *2025-10-07 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227104) · `ta`
 
-"மத்திய கிழக்கில் ஈரானின் வளர்ந்து வரும் செல்வாக்கு மற்றும் பிராந்திய பாதுகாப்பு குறித்த பொதுவான கவலைகள் ஆகியவற்றின் பின்னணியில், இஸ்ரேல் மற்றும் சுன்னி அரபு நாடுகளுக்கு இடையில் இந்த ஆபிரகாம் உடன்படிக்கை ஒரு புதிய அணிசேர்க்கையை உருவாக்கியுள்ளது. ஆபிரகாம் உடன்படிக்கை, பாதுகாப்பு, வர்த்தகம், சுற்றுலா மற்றும் தொழில்நுட்பம் போன்ற துறைகளில் இருதரப்பு ஒத்துழைப்புக்கு வழி வகுத்ததுள்ளது. இந்த உடன்படிக்கை, இஸ்ரேல்-பாலஸ்தீனிய மோதலின் நிலைப்பாட்டைத் தீர்க்காமல் பிராந்தியத்தில் அமைதியையும் ஸ்திரத்தன்மையையும் கொண்டு வர முடியும் என்று வாதிடும் ஒரு புதிய அணுகுமுறையை பிரதிபலித்தது. இது ட்ரம்ப்பின் புதிய சமாதானத் திட்டத்திற்கும் ஒரு அடித்தளமாகவும் அமைந்துள்ளது"
+“In the wake of Iran's growing influence in the Middle East and the general concerns of regional security, this Abraham Treaty has created a new formation between Israel and Sunni Arab countries. Abraham's Agreement has led to bilateral cooperation in the fields of security, trade, tourism and technology. This agreement reflected a new approach to argue that the territory could bring peace and stability in the region without resolving the position of the Israeli-Palestinian conflict. It is also a foundation for Trump's new peace scheme ”
 
 ◼️
 
 [Data](articles/51bad658.json)
 
+[Extended Data](ext_articles/51bad658.ext.json)
+
 ---
 
-### விவாகரத்து ஸ்வீட்  கொடுத்து கொண்டாடும் மகனுக்கு பாலபிஷேகம் செய்த தாய்
+### The mother of the son of a divorce Sweet
 
 *2025-10-07 12:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவாகரத்து-ஸ்வீட்-கொடுத்து-கொண்டாடும்-மகனுக்கு-பாலபிஷேகம்-செய்த-தாய்/175-365879) · `ta`
 
-மகாராஷ்டிரா: மனைவியை விவாகரத்து செய்த மகனுக்கு பாலபிஷேகம் செய்த தாய், மகனுக்கு புது துணி வாங்கிக்கொடுத்து கேக் வெட்டி கொண்டாடிய குடும்பம்; 120 கிராம் தங்கம், 18 லட்சம் பணத்தை மனைவிக்கு திரும்பக் கொடுத்ததாகவும், விவாகரத்துக்குப்பின் தான் சிங்களாகவும், மகிழ்ச்சியாகவும் இருப்பதாக பிரடர் என்ற இளைஞர் இன்ஸ்டாவில் பதிவை இட்டுள்ளார்...
+Maharashtra: A family who has bought a new clothes for his son, a family who celebrated his wife and celebrated the cake; Bradar, a young man named Bradr, has posted on Insta, saying that 120 grams of gold and 18 lakhs of money were returned to the wife and that it was Sinhala and happy after the divorce ...
 
 ◼️
 
 [Data](articles/5641a7f4.json)
+
+[Extended Data](ext_articles/5641a7f4.ext.json)
 
 ---
 
@@ -1030,6 +1140,8 @@ The latest Sri Lanka Development Update, ‘Better Spending for All’ released 
 ...
 
 [Data](articles/1ea07d0d.json)
+
+[Extended Data](ext_articles/1ea07d0d.ext.json)
 
 ---
 
@@ -1113,41 +1225,47 @@ Accordingly, a red have a redlified substance with these children to taste the c
 
 ---
 
-### மஹிந்த ராஜபக்ஷவை சந்தித்தார் மஹிந்த அமரவீர
+### Mahinda Amaraweera met Mahinda Rajapaksa
 
 *2025-10-07 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/227100) · `ta`
 
-முன்னாள் அமைச்சர் மஹிந்த அமரவீர , முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை தங்காலையில் உள்ள கால்டன் இல்லத்தில் சந்தித்துள்ளார்.
+Former Minister Mahinda Amaraweera has met former President Mahinda Rajapaksa at the Calton residence in Tangalle.
 
-இந்த சந்திப்பின் போது மஹிந்த அமரவீர மற்றும் மஹிந்த ராஜபக்ஷ இடையில் கலந்துரையாடல்கள் இடம்பெற்றுள்ளன.
+During the meeting, there were discussions between Mahinda Amaraweera and Mahinda Rajapaksa.
 
-முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை இரத்து செய்வதற்காக அரசாங்கத்தினால் சமர்ப்பிக்கப்பட்ட சட்டமூலம் செப்டெம்பர் 10 ஆம் திகதி பாராளுமன்றத்தில்  நிறைவேற்றப்பட்டதையடுத்து, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தான் தங்கியிருந்த கொழும்பு விஜேராம மாவத்தையில் அமைந்துள்ள அரச வாசஸ்தலத்திலிருந்து செப்டெம்பர் 11 ஆம் திகதி வெளியேறி, அம்பாந்தோட்டை - தங்காலையில் உள்ள கால்டன் இல்லத்திற்கு குடிபெயர்ந்தார்.
+After the government passed a bill to cancel the presence of former presidents, the former President Mahinda Rajapaksa left the royal palace in the Colombo Wijerama Mawatha, where former President Mahinda Rajapaksa was staying and moved to Calton's residence in Hambantota - Thangal.
 
-தங்காலையில் உள்ள கால்டன் இல்லத்திற்கு குடிபெயர்ந்ததையடுத்து மஹிந்த ராஜபக்ஷவை சந்திப்பதற்காக பல அரசியல்வாதிகள், பாராளுமன்ற உறுப்பினர் மற்றும் குடும்ப உறுப்பினர்கள் கால்டன் இல்லத்திற்கு சென்றிருந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that many politicians, parliamentarian and family members visited the Calton House to meet Mahinda Rajapakse after he moved to the Calton residence in Tangalle.
 
 ◼️
 
 [Data](articles/33f2842b.json)
 
+[Extended Data](ext_articles/33f2842b.ext.json)
+
 ---
 
-### ஜப்பானின் முன்னணி EV புத்தாக்கவியலாளர் Terra Motors இலங்கையில் உள்நாட்டு விநியோகத்தர்களுக்கும் அழைப்பு
+### Japan's leading EV Innovate Terra Motors call for domestic distributors in Sri Lanka
 
 *2025-10-07 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227099) · `ta`
 
-முன்னணி ஜப்பானிய மின்சார வாகன போக்குவரத்து தீர்வுகளை வழங்கும் Terra Motors, இலங்கையில் தனது முன்னணி மின்சாரத்தில் இயங்கும் முச்சக்கர வண்டியான Kyoro ஐ அறிமுகம் செய்துள்ளது.
+Terra Motors, which offers leading Japanese electric vehicle transport solutions, has launched its leading electric -operated three -wheeler Kyoro in Sri Lanka.
 
-Terra Motors இன் அடுத்த தலைமுறை மின்சார முச்சக்கர வண்டியாக அமைந்திருப்பதுடன், பயணிகள் போக்குவரத்து மற்றும் சரக்கு போக்குவரத்துக்கும் பயன்படுத்தக்கூடிய வகையில் வடிவமைக்கப்பட்டுள்ளது.
+The next generation of Terra Motors is a three -wheeler and is designed to be used for passenger transport and freight transport.
 
-பொறியியல் நுட்பங்களை இலங்கைக்கு கொண்டு வருவதில் நாம் பெருமை கொள்கிறோம். ஆசியாவில் நிலைபேறான போக்குவரத்துக் கட்டமைப்பை மாற்றியமைக்கக்கூடிய பிரதான சந்தைகளில் இலங்கையும் ஒன்றாக அமைந்துள்ளதாக நாம் காண்கிறோம்.” என்றார்.
+We are proud to bring engineering techniques to Sri Lanka. We see that Sri Lanka is one of the major markets that can change the sustainable transport structure in Asia. ” Said.
 
-இந்த நடவடிக்கையினூடாக ஜப்பான் மற்றும் இலங்கையிடையே அதிகரித்துச் செல்லும் பொருளாதார மற்றும் வியாபார கைகோர்ப்புகள் பிரதிபலிக்கப்பட்டுள்ளது.
+Through this move, the increasing economic and business handicrafts in Japan and Sri Lanka are reflected.
 
-Terra Motors இன் பிரவேசத்தினூடாக தொழில்னுட்பம், முதலீடு மற்றும் நிலைபேறான விருத்தி போன்றவற்றில் பரஸ்பர அனுகூலம் எற்படும் என்பதில் நிறுவனம் நம்பிக்கை கொண்டுள்ளதுடன், இரு நாடுகளுக்குமிடையே கைகோர்ப்புக்கான புதிய வாய்ப்புகளை ஏற்படுத்தியுமுள்ளது.
+Through the entry of Terra Motors, the company is confident that mutual advantage in professionalism, investment and sustainable development is to create new opportunities for hands -on hands between the two countries.
 
-...
+For business requests or delivery opportunities, contact us +91 91477 52921 via ev.Auto@terramotors.co.jp or via WhatsApp.
+
+◼️
 
 [Data](articles/08581e54.json)
+
+[Extended Data](ext_articles/08581e54.ext.json)
 
 ---
 
@@ -1233,27 +1351,31 @@ Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the member
 
 ---
 
-### மின் சிகரெட் பயன்பாடு அதிகரிப்பு ; உலக சுகாதார ஸ்தாபனம் எச்சரிக்கை
+### Increase in the use of electric cigarettes; World Health Organization Warning
 
 *2025-10-07 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227094) · `ta`
 
-தற்போது மின் சிகரெட்டுக்களை பயன்படுத்தும் மக்களின் எண்ணிக்கை அதிகரித்து வருவதாக உலக சுகாதார ஸ்தாபனம் (WHO) தெரிவித்துள்ளது.
+The World Health Organization (WHO) said the number of people who use electric cigarettes is currently increasing.
 
-சுமார் 15 மில்லியன் சிறுவர்கள் உட்பட 100 மில்லியனுக்கும் அதிகமான மக்கள் மின் சிகரெட்டுகளைப் பயன்படுத்துகின்றனர்.
+More than 100 million people, including about 15 million children, use electric cigarettes.
 
-இது நிக்கோடின் எனும் போதைப்பொருளின் புதிய அலையைத் தூண்டுவதாக உலக சுகாதார ஸ்தாபனம் எச்சரித்துள்ளது.
+The World Health Organization has warned that it will provoke a new wave of nickname, Nicotine.
 
-உலகளாவிய புள்ளிவிவரங்களின் அடிப்படையில், சிறுவர்கள் சராசரியாக, பெரியவர்களை விட 9 மடங்கு அதிகமாக மின் சிகரெட்டுக்களை பயன்படுத்துவதற்கான வாய்ப்புள்ளதாக தெரிவிக்கப்படுகிறது.
+Based on global statistics, children are reportedly likely to use 9 times more power cigarettes than adults.
 
-மின் சிகரெட்டுகள், நிக்கோடின் போதைப்பொருளின் புதிய அலையை தூண்டுவதாக உலக சுகாதார ஸ்தாபனத்தின் வைத்தியர் எட்டியென் க்ரூக(Etienne Krug) தெரிவித்துள்ளார்.
+World Health Organization's doctor Etienne Krug (Etienne Krug) said electric cigarettes stimulate the new wave of nicotine drugs.
 
-ஆப்பிரிக்கா மற்றும் தென்கிழக்காசிய நாடுகள் சிலவற்றின் தரவுகளின்படி, மின் சிகரெட்டுக்களை பயன்படுத்தும் மக்களின் எண்ணிக்கை தோராயமானவையாக புள்ளிவிபரப்படுத்தப்பட்டுள்ளது.
+According to data from some countries in Africa and Southeast Asian, the number of people who use electrical cigarettes is approximately statistics.
 
-இந்த வருடம் பெப்ரவரி மாத நிலவரப்படி, குறைந்தது 86 மில்லியன் மின் சிகரெட் பயனர்கள் காணப்படுவதாக அறியப்பட்டுள்ளது.
+As of February this year, it is known that at least 86 million electric cigarette users are found.
 
-...
+Based on studies conducted in 123 countries, about 15 million young people between the ages of 13 and 15 are already using electric cigarettes.
+
+◼️
 
 [Data](articles/027afd13.json)
+
+[Extended Data](ext_articles/027afd13.ext.json)
 
 ---
 
@@ -1401,21 +1523,23 @@ Memorial events were scheduled in Israel on Tuesday to mark the anniversary.
 
 ---
 
-### பல்கலைக்கழகத்தில் கல்வி கற்று வந்த இளம் பிக்கு உயிரிழப்பு!
+### Young Piku dies in university
 
 *2025-10-07 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/227095) · `ta`
 
-இலங்கை பௌத்த மற்றும் பாளி பல்கலைக்கழக விடுதியின் இரண்டாம் மாடியிலிருந்து கீழே விழுந்து காயமடைந்த நிலையில் கொழும்பு தேசிய வைத்தியசாலையில் நீண்ட நாட்களாக சிகிச்சை பெற்று வந்த இளம் பிக்கு ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக ஹோமாகம தலைமையக பொலிஸார் தெரிவித்தனர்.
+Homagama headquarters police said that a young man who had been treated at the Colombo National Hospital for a long time had died after he was injured when he fell down from the second floor of the Buddhist and Pali University in Sri Lanka.
 
-உயிரிழந்தவர் இலங்கை பௌத்த மற்றும் பாளி பல்கலைக்கழகத்தில் கல்வி கற்று வந்த 24 வயதுடைய இளம் பிக்கு ஆவார்.
+The deceased is a 24 -year -old young man who is educated at Buddhist and Pali University.
 
-இளம் பிக்கு செப்டெம்பர் மாதம் 26 ஆம் திகதி அதிகாலை 02.30 மணியளவில் பல்கலைக்கழக விடுதியின் இரண்டாம் மாடியிலிருந்து கீழே விழுந்து காயமடைந்த நிலையில் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் நீண்ட நாட்களாக சிகிச்சை பெற்று வந்தார்.
+He was admitted to the Colombo National Hospital for a long time after he was injured and fell down from the second floor of the university in the early hours of September 26 at 02.30 am.
 
-இவ்வாறு வைத்தியசாலையில் சிகிச்சை பெற்று வந்த இளம் பிக்கு சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The young girl who was receiving treatment at the hospital died without treatment, police said.
 
 ◼️
 
 [Data](articles/94284fb7.json)
+
+[Extended Data](ext_articles/94284fb7.ext.json)
 
 ---
 
@@ -1527,19 +1651,21 @@ With the abolition of the rights of the President, the former presidents resumed
 
 ---
 
-### போதை மாத்திரைகளுடன் பொலிஸ் நிலையத்துக்குள் சென்ற பொலிஸ் கான்ஸ்டபிள்!
+### Police Constable Going into Police Station with drug pills!
 
 *2025-10-07 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227092) · `ta`
 
-போதை மாத்திரைகளுடன் பொலிஸ் நிலையத்துக்குள் சென்ற பொலிஸ் கான்ஸ்டபிள் ஒருவர் நேற்று திங்கட்கிழமை (06) மாலை கைதுசெய்யப்பட்டதாக ஹோமாகம தலைமையக பொலிஸார் தெரிவித்தனர்.
+Homagama headquarters police said that a police constable who went into the police station with narcotics was arrested on Monday evening.
 
-சந்தேக நபரான பொலிஸ் கான்ஸ்டபிள் கடமை நேரத்தில் கடமையை செய்யாமல் பொலிஸ் நிலையத்திலிருந்து வெளியே சென்று நீண்ட நேரத்தின் பின்னர் மீண்டும் பொலிஸ் நிலையத்துக்குள் சென்றுள்ளார்.
+The suspect, the police constable, left the police station and went back to the police station for a long time.
 
-இதன்போது பொலிஸ் அதிகாரிகளால் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபரான பொலிஸ் கான்ஸ்டபிளிடமிருந்து போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளது.
+Investigations carried out by police officers have seized drug pills from the suspect, the police constable.
 
 ◼️
 
 [Data](articles/b484fb6b.json)
+
+[Extended Data](ext_articles/b484fb6b.ext.json)
 
 ---
 
@@ -1579,23 +1705,29 @@ Meanwhile, the price of a 24-carat gold sovereign, which stood at Rs. 306,000 on
 
 ---
 
-### பாப்பரசரை சந்தித்தார் யுனிசெப் நிர்வாக பணிப்பாளர் கேத்தரின் ரஸ்ஸல்
+### Meeting Pope
 
 *2025-10-07 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227087) · `ta`
 
-உலக சிறுவர்களின் நிலை தொடர்பில் கலந்துரையாட  யுனிசெப் (UNICEF) நிர்வாக பணிப்பாளர் கேத்தரின் ரஸ்ஸல் (Catherine Russell)  பாப்பரசர் 14-ஆம் லியோவைச் சந்தித்துள்ளார்.
+UNICEF Managing Director Catherine Russell meets Leo on 14th Leo to discuss the plight of the world's children.
 
-வத்திக்கானில் இடம்பெற்ற இந்த சந்திப்பில், குறிப்பாக மோதல்கள், வறுமை மற்றும் உலகளாவிய வெளிநாட்டு உதவித்தொகை மற்றும் கடன் நெருக்கடிகளால் பாதிக்கப்பட்ட சிறுவர்களின் நிலை குறித்து கலந்துரையாடப்பட்டுள்ளது.
+The meeting, which was held at the Vatican, discussed the plight of children affected by conflicts, poverty and global foreign scholarships and credit crises.
 
-அதேநேரம், வெளிநாட்டு உதவி நிதியில் உலகளாவிய ரீதியில், சுகாதாரம், கல்வி மற்றும் பாதுகாப்பு சேவைகளுக்கான அணுகல் திரும்பப் பெறப்படுவதாகவும் யுனிசெப் (UNICEF) நிர்வாக பணிப்பாளர் கேத்தரின் ரஸ்ஸல் தெரிவித்துள்ளார்.
+At the same time, UNICEF Managing Director Catherine Russell said that access to the Foreign Assistance Fund is globally with access to health, education and safety services.
 
-காசா, கொங்கோ ஜனநாயகக் குடியரசு, ஹைட்டி, சூடான், உக்ரேன் மற்றும் ஏமன் போன்ற நாடுகளில் பல சிறுவர்கள், மோதல் மற்றும் வன்முறைகளுக்கு மத்தியில் வாழ்வதுடன் சிலர் அதிலிருந்து தப்பி ஓடுவதாகவும் தெரிவிக்கப்படுகிறது.
+Many children in countries such as Gaza, the Democratic Republic, Haitan, Sudan, Ukraine and Yemen are living in the midst of conflict and violence and some are fleeing.
 
-இதற்கிடையில், தற்போது 1 பில்லியன் சிறுவர்கள் காலநிலை மாற்றங்களினால் தாக்கங்களுக்குள்ளாகி உள்ளதுடன், பலர் தீவிர வறுமையில் வாழ்வதாகவும் தெரிவிக்கப்படுகிறது.
+Meanwhile, 1 billion boys are currently undergoing climate change and many are reported to be in serious poverty.
+
+UNICEF Executive Director Catherine Russell thanked the Pope 14 Leo's leadership for all children to be educated and remedy the debt crisis.
+
+Many countries are now investing more on debt interest than investing in health, education and social security.
 
 ...
 
 [Data](articles/e6069479.json)
+
+[Extended Data](ext_articles/e6069479.ext.json)
 
 ---
 
@@ -1902,37 +2034,5 @@ Opposition Leader Sajith Premadasa said this in Opposition Leader Mobile Service
 [Data](articles/450ef0c8.json)
 
 [Extended Data](ext_articles/450ef0c8.ext.json)
-
----
-
-### Suspect Arrested in Mapalagama with Foreign-Manufactured Semi-Automatic Firearm
-
-*2025-10-07 10:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/suspect-arrested-in-mapalagama-with-foreign-manufactured-semi-automatic-firearm) · `en`
-
-COLOMBO (News 1st): A suspect has been arrested in Mapalagama with a foreign-manufactured semi-automatic firearm resembling a pen.The arrest was made during a raid conducted by officers of the Nagoda Police, in Galle.Police stated that the suspect was found in possession of the pen-shaped semi-automatic firearm, along with two live rounds and five used cartridges.Investigations have revealed that the 23-year-old suspect, a resident of the same area, had previously been remanded for the illegal possession of a firearm.Police further said that he is also facing drug-related charges.The suspect is scheduled to be produced before the Baddegama Magistrate’s Court today.
-
-◼️
-
-[Data](articles/e3868fdc.json)
-
-[Extended Data](ext_articles/e3868fdc.ext.json)
-
----
-
-### Death one of the trio trapped in the rib stream
-
-*2025-10-07 10:24:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிப்-நீரோட்டத்தில்-சிக்கிய-மூவரில்-ஒருவர்-மரணம்/175-365868) · `ta`
-
-Three people from the Matara area were bathing in the sea on the Nilwella beach in Dikwella.
-
-By then, the trio were swept away in a rib stream, and the people of the area took steps to rescue them, but one was reportedly dead there.. The other two rescued have been admitted to the Matara General Hospital for treatment.
-
-The deceased in the incident is said to be 32 -year -old Hewa Nibuna Taraka Lakmal.
-
-◼️
-
-[Data](articles/8c94c07e.json)
-
-[Extended Data](ext_articles/8c94c07e.ext.json)
 
 ---

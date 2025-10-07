@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 14:38:39**
+As of **2025-10-07 14:56:32**
 
 ## Newspaper Stats
 
-*Scraped **81,837** Articles*
+*Scraped **81,838** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 635
+newsfirstlk | 636
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
@@ -27,11 +27,21 @@ adaderanasinhalalk | 14,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,837 (100.0%) of 81,837 articles have been extended.
+81,837 (100.0%) of 81,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### Government Vows Full Probe into Thajudeen Murder and More
+
+*2025-10-07 14:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/government-vows-full-probe-into-thajudeen-murder-and-more) · `en`
+
+...
+
+[Data](articles/34d9794e.json)
+
+---
 
 ### 'Bo Pasindu' & Mistress Hacked to Death : Four in Custody
 
@@ -1990,27 +2000,5 @@ Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincom
 [Data](articles/0bc1c44a.json)
 
 [Extended Data](ext_articles/0bc1c44a.ext.json)
-
----
-
-### Shoe thrown at India’s Chief Justice in religious row
-
-*2025-10-07 06:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113278/shoe-thrown-at-indias-chief-justice-in-religious-row) · `en`
-
-An Indian lawyer has thrown a shoe at the country’s Chief Justice BR Gavai after apparently being angered by remarks the judge made about Hinduism.
-
-Rakesh Kishore launched his attack during Monday’s court proceedings in Delhi in what is seen across India as a serious public insult and security breach.
-
-Three lawyers present in the courtroom confirmed to the BBC that a shoe had been hurled at the judge, with one saying it “brushed against the chief justice and [another] justice... and fell behind them”.
-
-Kishore was heard saying “India won’t tolerate insult to Sanatan Dharma [Hinduism]”, as he was led away from the courtroom by security officials. He was later suspended from practice.
-
-Advocate Ravi Shanker Jha, a lawyer who was in the courtroom during the incident, told the BBC that Mr Kishore “threw his shoe, and raised his hand to indicate that he had thrown the shoe”.
-
-...
-
-[Data](articles/c96bb5d6.json)
-
-[Extended Data](ext_articles/c96bb5d6.ext.json)
 
 ---

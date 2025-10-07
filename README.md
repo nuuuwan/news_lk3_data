@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 05:20:35**
+As of **2025-10-07 05:57:30**
 
 ## Newspaper Stats
 
-*Scraped **81,696** Articles*
+*Scraped **81,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,175 @@ islandlk | 4,915
 dailyftlk | 5,683
 adalk | 7,809
 adaderanalk | 10,493
-tamilmirrorlk | 12,121
-virakesarilk | 13,447
+tamilmirrorlk | 12,122
+virakesarilk | 13,454
 adaderanasinhalalk | 14,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,696 (100.0%) of 81,696 articles have been extended.
+81,703 (100.0%) of 81,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### ரஷ்யாவின் எண்ணெய் நிலையம் மீது உக்ரைன் தாக்குதல்
+
+*2025-10-07 05:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-எண்ணெய்-நிலையம்-மீது-உக்ரைன்-தாக்குதல்/50-365857) · `ta`
+
+ரஷ்யாவின் முக்கியமான எண்ணெய் நிலையம் மற்றும் வெடிபொருள் தொழிற்சாலையை ட்ரோன் மூலம் தாக்கியதாக உக்ரைன் இராணுவம் தெரிவித்துள்ளது.
+
+மேற்கு ரஷ்யாவில் உளள் நிஸ்னி நோவ்கோரோடு மாகாணத்தில் உளள் ஸ்வெர்ட்லோவ் வெடிபொருள் தொழிற்சாலை தாக்கப்பட்டதாக உக்ரைன் ஜெனரல் ஸ்டாஃப் தெரிவித்துள்ளார். அங்கு வெடிச்சத்தம் கேட்டதாகவும், தீப்பிடித்து எரிந்ததாகவும் தெரிவித்துள்ளார்.
+
+ரஷ்யப் படைகளுக்கு வெடிபொருட்கள் வழங்கும் முக்கிய தொழிற்சாலைகளில் ஒன்றாக இந்த தொழிற்சாலை திகழ்ந்து வருகிறது. (a)
+
+◼️
+
+[Data](articles/59901189.json)
+
+---
+
+### Harini Amarasuriya and Narendra Modi participate in the NDTV World Summit this month
+
+*2025-10-07 04:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227071) · `ta`
+
+Prime Minister Harini Amarasuriya and Indian Prime Minister Narendra Modi are expected to be held this month.
+
+The summit will be held in New Delhi on October 17 and 18.
+
+2025 - Leaders of some of the most influential countries in the world are reported to be participating in global conversation at the NDTV World Summit.
+
+Indian Prime Minister Narendra Modi, Sri Lanka's Harini Amarasuriya and two former prime ministers, Rishi Sunak of the United Kingdom and Tony Abbott of Australia will participate in the summit.
+
+◼️
+
+[Data](articles/ea2dca98.json)
+
+[Extended Data](ext_articles/ea2dca98.ext.json)
+
+---
+
+### The livelihood of the people of Mannar
+
+*2025-10-07 04:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227070) · `ta`
+
+'The question of the windmill and the question of heavy sand has created a situation where Mannar has been affected by the environmental impact "
+
+Although the Mannar Wind Electricity Project is considered an important step towards the strength of Sri Lanka, it has emerged as the focus of complex controversies related to the global importance of the Mannar Island, the highest sensitivity environment and the livelihood of the Mannar people.
+
+With 30 wind towers already established under the Finance of the Asian Development Bank under the Ceylon Electricity Board, the efforts to further expand the project have been strongly obtained by the people's resistance and the warnings of experts on environmental and geological risks.
+
+...
+
+[Data](articles/c7e735ff.json)
+
+[Extended Data](ext_articles/c7e735ff.ext.json)
+
+---
+
+### A group of people who came to carry out a windmill project on the south coast of Mannar Basal
+
+*2025-10-07 04:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227069) · `ta`
+
+The committee has left the group to carry out a sand inspection to implement the windmill project on Monday (6) evening at the Basalai Police Division of the Mannar Divisional Secretary Bril.
+
+The people who visited the area of ​​the area, who had come to the area, had been involved in a group of people who had come to the area with a group of machines to carry out a sand inspection to implement the windmill in the southern coast of the village of Basal.
+
+As the Pasal police went to the scene, there was a rhetoric between the police and the people.
+
+Moreover, the people were protesting over the tractor machine loaded with machinery to carry out sand inspecting the wind power project.
+
+Residents of the area said that the group who followed the continued opposition of the people had withdrawn from the site.
+
+◼️
+
+[Data](articles/df03145a.json)
+
+[Extended Data](ext_articles/df03145a.ext.json)
+
+---
+
+### Discussion titled "Kanal Justice"
+
+*2025-10-07 04:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227068) · `ta`
+
+A conversation titled "Kanal Justice" was held at the Father Selva Hall in Jaffna on Monday (6) at the Jaffna Father Selva Stadium.
+
+Parliamentarian Gajendrakumar Ponnambalam, Political Analyst, M. Nandanthan, Political activist E. Rajiv Khan, Journalist A. Nixon, Jaffna University Political President
+
+◼️
+
+[Data](articles/09693201.json)
+
+[Extended Data](ext_articles/09693201.ext.json)
+
+---
+
+### Action of the Superintendent of Police of the Samanthurai Police Station; 18 motorcycles rescued in violation of traffic laws
+
+*2025-10-07 04:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/227067) · `ta`
+
+Samanthurai police have arrested some people on charges of violating drugs, court cases and traffic laws, without a driver's license, without a helmet in the area of ​​the Samanthurai police division.. A team led by the Superintendent of Police of the Samanthurai Police Station has also recovered the motorcycle.
+
+The incident took place on Monday (06). The arrest was held on the main road belonging to the Samanthurai Police Division in Ampara District.
+
+During the raid on a complaint made to the Superintendent of Police, the police said that a man from the Samanthurai area of ​​Samanthurai (27), who had been charged with 220 milligrams of ice, had been arrested in the area during the raid.
+
+In addition, the police have seized some motorcycle and have been handed over to the Samanthurai Police Station for legal action.
+
+In the roundabout, the Samanthurai, Chawalakkady, Central Camp, Kalmunai and Karadivu police were on duty.
+
+...
+
+[Data](articles/f331d72d.json)
+
+[Extended Data](ext_articles/f331d72d.ext.json)
+
+---
+
+### No government is prepared to place the Sri Lankan government in the International Court of Justice - Gajendrakumar Ponnambalam
+
+*2025-10-07 04:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/227066) · `ta`
+
+On May 16, the Liberation Tigers of Tamil Eelam (LTTE) told me that more than 100,000 Tamil people were assassinated, MP Gajendrakumar Ponnambalam said.
+
+A conversation titled "Kanal Justice" was held today at the Father Selva Stadium in Jaffna, commemorating the doctor Manoharan and the murdered students who fought for justice for the 2009 military shot dead by the military in Trincomalee.
+
+I have said that the international community is not a mechanism to provide justice to the affected people in the UN Human Rights Council.
+
+In the testimony I gave, the LTTE's Nadesan, Pulithevan and Padmanathan contacted me and more than one thousand people. They spoke to the government to stop the war and asked them to create a mechanism.
+
+I am compatible with Basil Rajapaksa, Mahinda and some of the blessings. May 16 It featured. They engaged in this effort on the other side.
+
+...
+
+[Data](articles/9dfbeed6.json)
+
+[Extended Data](ext_articles/9dfbeed6.ext.json)
+
+---
+
+### Why is it that Wijeweera's family is unable to provide security to Mahinda? - Ajith P Perera Question
+
+*2025-10-07 04:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227065) · `ta`
+
+The security of his family has been confirmed by all governments to date after Rohana Wijeweera died. It is essential to ensure the safety of national citizens in any government. United People's Power MP Ajith P. Perera said the government should take steps to provide security to Mahinda Rajapaksa if the family of Rohana Wijeweera is provided with security.
+
+He made this statement at a press conference held in Colombo on Monday (6). As he further stated,
+
+Everyone should follow the Act to remove privileges for the President. But as a citizen of the country, he cannot eliminate his right to Mahinda Rajapaksa's security. The former president's pension and privileges are eliminated, but his security cannot be recognized.
+
+The last governments, the current government and the future governments are responsible for ensuring his safety on the basis of being a leadership to complete the war.. Therefore, the removal of his security for political revenge is a false role.
+
+...
+
+[Data](articles/f6f2218f.json)
+
+[Extended Data](ext_articles/f6f2218f.ext.json)
+
+---
 
 ### International Day for Universal Access to Information
 
@@ -1870,173 +2026,5 @@ The government can accuse him of protecting him. But as a government we do not p
 [Data](articles/495393fa.json)
 
 [Extended Data](ext_articles/495393fa.ext.json)
-
----
-
-### 32 OICs transferred with immediate effect
-
-*2025-10-06 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113260/32-oics-transferred-with-immediate-effect) · `en`
-
-A total of 32 Officers-in-Charge (OICs) have been transferred and appointed to new positions with the approval of the National Police Commission.
-
-The transfers have been approved by Inspector General of Police Attorney-at-Law Priyantha Weerasooriya and are to be implemented with immediate effect, according to the Police Headquarters.
-
-Among the officers, 26 are Chief Inspectors of Police and six are Inspectors of Police.
-
-A total of nine Chief Inspectors and one Inspector have been reassigned to general duties.
-
-These officers have been relieved of their OIC roles and assigned to other duties as part of the reshuffle, said the Police headquarters.
-
-◼️
-
-[Data](articles/a4d328c1.json)
-
-[Extended Data](ext_articles/a4d328c1.ext.json)
-
----
-
-### 32 OICs transferred with immediate effect
-
-*2025-10-06 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/113260/32-oics-transferred-and-appointed-with-immediate-effect) · `en`
-
-A total of 32 Officers-in-Charge (OICs) have been transferred and appointed to new positions with the approval of the National Police Commission.
-
-The transfers have been approved by Inspector General of Police Attorney-at-Law Priyantha Weerasooriya and are to be implemented with immediate effect, according to the Police Headquarters.
-
-Among the officers, 26 are Chief Inspectors of Police and six are Inspectors of Police.
-
-A total of nine Chief Inspectors and one Inspector have been reassigned to general duties.
-
-These officers have been relieved of their OIC roles and assigned to other duties as part of the reshuffle, said the Police headquarters.
-
-◼️
-
-[Data](articles/14f0d7e2.json)
-
-[Extended Data](ext_articles/14f0d7e2.ext.json)
-
----
-
-### Distraction struggle
-
-*2025-10-06 15:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தையிட்டிக்கு-எதிராக-கவனயீர்ப்பு-போராட்டம்/175-365830) · `ta`
-
-A protest was launched on Monday (6) against Tissavikar, located in the Taiti area of ​​Jaffna - Valikamam.
-
-The protesters have urged the protesting that the Vihara has been set up illegally and demanding the removal of it.
-
-The struggle is still carried out today as the struggle is being carried out for every full moon day.
-
-The protesters carried banners, chanting and bearing black flags in their hands.
-
-Tamil National People's Front General Secretary Selvarasa Gajendran, Attorney -at -Law Kandiban, Public People and Members of the Tamil National People's Front participated.
-
-It is noteworthy that the Tamil National People's Front has been engaged in a series of protests, demanding the removal of the idol located in Tittitti.
-
-◼️
-
-[Data](articles/8a0a1c7c.json)
-
-[Extended Data](ext_articles/8a0a1c7c.ext.json)
-
----
-
-### Removal of the Army Campaign in the Kurukkammadam school building - Chanakyan
-
-*2025-10-06 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227038) · `ta`
-
-Steps are being taken to remove the military camp operating in the school building in Kurukkamadam, said the Sri Lanka Tamil State Party's Batticaloa district parliamentarian R. Sanakiyan.
-
-Batticaloa District, Manmunai South Eruvil Pattu Divisional Secretariat Division of Batticaloa, Kurukkamadam Asian Sports Club was held on Sunday night (5) at the Kurukkumadam Kalavani Maha Vidyalaya Playground.
-
-Attalaichenai Gold Star Sports Club won first place and Gurukkammadam Asian Sports Club came second.
-
-We have spoken to the President three times about the removal of the Kurukkamadam Army Camp. I have no anger with the soldiers who are located here.
-
-The grounds in the village of Kurukkammadam should be expanded. Its report should be removed by the military camp in the building, which is located and restored the existing school building.. We are demanding the removal of the soldiers who are located in the nearby children's park. Besides, we have no anger to the soldiers who are there.
-
-...
-
-[Data](articles/b9ccadad.json)
-
-[Extended Data](ext_articles/b9ccadad.ext.json)
-
----
-
-### UNHRC: Sri Lanka Rejects Resolution Amid Divided International Response
-
-*2025-10-06 15:52:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/unhrc-sri-lanka-rejects-resolution-amid-divided-international-response) · `en`
-
-COLOMBO (News 1st); During the 41st meeting of the 60th session of the United Nations Human Rights Council (UNHRC), Sri Lanka formally rejected the resolution A/HRC/60/L.1/Rev.1 on promoting reconciliation, accountability, and human rights in the country. Despite Sri Lanka’s opposition, the resolution was adopted without a vote, supported by a coalition of 30 nations.
-
-The resolution, initially tabled on September 10 by the Sri Lanka Core Group—consisting of Canada, Malawi, Montenegro, North Macedonia, and the United Kingdom—was presented in revised form on October 1 by a broader coalition including Albania, Austria, Costa Rica, several European countries, New Zealand, and more. It calls on Sri Lanka to devolve political authority as mandated by its constitution, hold provincial council elections especially in the northern and eastern provinces, and ensure these bodies function effectively.
-
-...
-
-[Data](articles/9e083221.json)
-
-[Extended Data](ext_articles/9e083221.ext.json)
-
----
-
-### Egg Price: Action Notification
-
-*2025-10-06 15:50:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-அதிரடி-அறிவிப்பு/175-365829) · `ta`
-
-All Ceylon Egg Manufacturers Association. Accordingly, a white egg is Rs.. For 28, the red egg is Rs.. Sold for 30.
-
-◼️
-
-[Data](articles/7d118bb5.json)
-
-[Extended Data](ext_articles/7d118bb5.ext.json)
-
----
-
-### The mail should not be a burden to another
-
-*2025-10-06 15:48:42* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/තපල-තවත-රටට-බරක-වය-යත-න/1-680799) · `si`
-
-Health and Mass Media Media Minister Dr. Nalinda Jayatissa said that the mail should no longer be a burden to the treasury.
-
-The Minister was speaking at awarding permanent appointment letters for 731 permanent appointment letters as selected as Post Assistants of the Sri Lanka Postal Directors.
-
-After the year 2021, a permanent mailing recruitment was not carried out by the Postal Department of Postal Assistant.
-
-The departmental work with such a number of vacancies has emerged and the proceedings of Health and Mass Media Dr. Nalinda Jayatissa have been given to recruit 1000 vacancies as a solution.
-
-Accordingly, 731 of the above was selected for recruitment of the proper qualifications registered as substitute employees of the Department of Posts.
-
-The Minister said that all services were carried out by recruiting to make the post-burden to the Treasury, the government, making a cost of an extra income of income.
-
-◼️
-
-[Data](articles/dabe800a.json)
-
-[Extended Data](ext_articles/dabe800a.ext.json)
-
----
-
-### The mail should not be a burden to another
-
-*2025-10-06 15:48:42* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තපල-තවත-රටට-බරක-වය-යත-න/101-680799) · `si`
-
-Health and Mass Media Media Minister Dr. Nalinda Jayatissa said that the mail should no longer be a burden to the treasury.
-
-The Minister was speaking at awarding permanent appointment letters for 731 permanent appointment letters as selected as Post Assistants of the Sri Lanka Postal Directors.
-
-After the year 2021, a permanent mailing recruitment was not carried out by the Postal Department of Postal Assistant.
-
-The departmental work with such a number of vacancies has emerged and the proceedings of Health and Mass Media Dr. Nalinda Jayatissa have been given to recruit 1000 vacancies as a solution.
-
-Accordingly, 731 of the above was selected for recruitment of the proper qualifications registered as substitute employees of the Department of Posts.
-
-The Minister said that all services were carried out by recruiting to make the post-burden to the Treasury, the government, making a cost of an extra income of income.
-
-◼️
-
-[Data](articles/ee103618.json)
-
-[Extended Data](ext_articles/ee103618.ext.json)
 
 ---

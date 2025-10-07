@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 19:56:22**
+As of **2025-10-07 20:10:36**
 
 ## Newspaper Stats
 
-*Scraped **81,970** Articles*
+*Scraped **81,975** Articles*
 
 newspaper | n
 --- | ---:
-dbsjeyarajcom | 637
+dbsjeyarajcom | 638
 newsfirstlk | 642
 bbccomsinhala | 728
 colombotelegraphcom | 815
-lankadeepalk | 957
+lankadeepalk | 959
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
@@ -21,17 +21,71 @@ adalk | 7,829
 adaderanalk | 10,526
 tamilmirrorlk | 12,156
 virakesarilk | 13,512
-adaderanasinhalalk | 14,050
+adaderanasinhalalk | 14,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,970 (100.0%) of 81,970 articles have been extended.
+81,970 (100.0%) of 81,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### UNHRC මෙරට නියෝජිත කණ්ඩායමේ ක්‍රියාකලාපය ගැන දිලිත්ගේ කනස්සල්ල
+
+*2025-10-07 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215445) · `si`
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලයේදී ශ්‍රී ලංකා නියෝජිත කණ්ඩායම මෙරට විදේශ ප්‍රතිපත්තිය විනාශකාරී අන්දමින් ක්‍රියාත්මක කළ ආකාරය සම්බන්ධව තමන් දැඩි කම්පාවට පත්වන බව සර්ව ජනබලයේ නායක පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා පවසයි.
+
+එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලය විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් කළ යෝජනා සම්මතය පිළිබඳ දිලිත් ජයවීර මහතා සිය X අවකාශයේ සටහනක් තබමින් මේ බව සඳහන් කර තිබේ.
+
+මානව හිමිකම් මණ්ඩලයේදී ශ්‍රී ලංකාව නියෝජනය කිරීමට බැඳී සිටින ඔවුන් මිලියන 22ක් වූ ජනතාවට ඒ පිළිබඳ වහා සැපයිය යුතු අතර ශ්‍රී ලංකාව සම්බන්ධයෙන් තහවුරු නොකළ චෝදනා මත පදනම් වූ යෝජනාවට පක්ෂව මිතුරු රටවල් පවා අදහස් දැක්වීම කම්පනයට පත්වන පාවාදීමක් බව ද ඔහු සිය X ගිණුමේ සටහන් කර තිබේ.
+
+ජාත්‍යන්තර ප්‍රජාව ඉදිරියේ අපේ ජාතියේ ප්‍රමුඛතාවන් හෑල්ලුවට ලක්වීම වත්මන් රජයේ දුර්වලතාව හා අසමත්භාවය ප්‍රදර්ශනය කිරීමක් බවත් සිය සටහන මගින් වැඩිදුරටත් පෙන්වා දී ඇත.
+
+I am appalled by the disastrous execution of foreign policy by Sri Lanka's delegation, led by the foreign minister, to the UNHRC!
+
+...
+
+[Data](articles/a6f98723.json)
+
+---
+
+### දෙරණ 20 වෙනි සංවත්සරය නිමිත්තෙන් පැවැත්වුණු හින්දු ආගමික ආශිර්වාද උත්සවය
+
+*2025-10-07 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215444) · `si`
+
+අපේ දේ රැකගෙන අලුත් දේ අරගෙන තේමාවෙන් ශ්‍රී ලාංකේය ප්‍රේක්ෂකයා දැනුමෙන් වින්දනයෙන් පෝෂණය කරන ටීවී දෙරණ මේ වසරේ 20 වැනි සංවත්සරය සමරනු ලබයි.
+
+ඒ නිමිත්තෙන් සර්ව ආගමික වැඩසටහන් රැසක් දියත් කරන අතර හින්දු ආගමික වතාවත් අද (07) සිදු කෙරුණි.
+
+ඒ අනුව හින්දු ආගමික ආශිර්වාද උත්සවය අද අලුයම 5.30ට බම්බලපිටිය කදිරේෂන් වජිර පිල්ලෙයාර් කෝවිලේදී පැවැත්විණි.
+
+ඊට දෙරණ මාධ්‍ය ජාලයේ උප සභාපති ලක්සිරි වික්‍රමගේ, විධායක අධ්‍යක්ෂ මාධව මඩවල, වැඩසටහන් අධ්‍යක්ෂිකා ශර්මිලා ධර්මරාසා ෆොන්සේකා යන මහත්ම මහත්මිය ඇතුළු අධ්‍යක්ෂ මණ්ඩලය ප්‍රමුඛ ඉහළ කළමනාකාරිත්වය හා දෙරණ කාර්ය මණ්ඩලය සහභාගි විය.
+
+◼️
+
+[Data](articles/89eaa4a0.json)
+
+---
+
+### කර්මාන්ත අමාත්‍යාංශයේ ලාභාංශ මිලියන 757.4 ක් භාණ්ඩාගාරයට දෙයි
+
+*2025-10-07 18:58:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරමනත-අමතයශය-ලභශ-මලයන-757-4-ක-භණඩගරයට-දය/101-680884) · `si`
+
+කර්මාන්ත අමාත්‍යාංශයේ රාජ්‍ය ව්‍යාපාරවලින් රුපියල් මිලියන 757.4 ක ලාභාංශ භාණ්ඩාගාරයට ලබා දුන්නේය.
+
+කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ පවතින ලංකා මිනරල් සෑන්ඩ්, BCC Lanka Limited, ජාතික ලුණු සමාගම, ලංකා පොස්පේට් සමාගම සහ ලංකා කහටගහ ග්‍රැෆයිට් ලිමිටඩ් යන ආයතන නව රජය යටතේ ලබාගත් ලාභාංශ වලින් කොටසක් මෙලෙස භාණ්ඩාගාරයට භාරදී ඇත.
+
+කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත මහතාට සහ මුදල් අමාත්‍යාංශ ලේකම් හර්ෂණ සූරියප්පෙරුම මහතාට නිල වශයෙන් පාර්ලිමේන්තු සංකීර්ණයේදී මෙම භාරදීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/b5195478.json)
+
+---
 
 ### Powerful earthquake in Papua New Guinea
 
@@ -50,6 +104,24 @@ It is customary for these earthquakes to occur in the area as Papua New Guinea i
 [Data](articles/093180d9.json)
 
 [Extended Data](ext_articles/093180d9.ext.json)
+
+---
+
+### පැරා ශූරයෝ ලංකාවට
+
+*2025-10-07 18:46:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පර-ශරය-ලකවට/101-680881) · `si`
+
+ඉන්දියාවේ නවදිල්ලි නුවර දී පැවති පැරා ලෝක ශූරතා තරඟාවලියට සහභාගී වූ මෙරට ක්‍රීඩක ක්‍රීඩිකාවෝ අද (7) දිවයිනට පැමිණියහ.
+
+සැප්තැම්බර්  27 වැනිදා සිට ඔක්තෝබර් 5 දක්වා රටවල් 100 ක ක්‍රීඩක ක්‍රීඩිකාවන් 980 දෙනෙකුගේ සහභාගිත්වයෙන් මෙම තරඟාවලිය පැවැත්විණි.
+
+මෙම තරඟාවලියේ දී දුර පැනීමේ ඉසව්වෙන් මීටර 6 යි දශම 4 යි 6 ක් පනිමින් නුවන් ඉන්දික ලෝකඩ පදක්කම දිනාගත් අතර මීටර 1,500 දිවීමේ ඉසව්වට සහභාගී වූ ප්‍රදීප් සෝමසිරි ආසියානු තරඟ වාර්තාවක් ද තබමින් එහි ලෝකඩ පදක්කම දිනාගන්නා ලදී.
+
+පැරා ලෝක ශූරතා තරගාවලියට සහභාගී වූ සියලුම ක්‍රීඩක ක්‍රීඩිකාවන්, තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යංශයේ නිලධාරීන් සහ ශ්‍රී ලංකා පැරා ඔලිම්පික් කමිටුවේ සභාපතිවරයා ඇතුළු නිලධාරීන් විසින් ගුවන් තොටුපළ පරිශ්‍රයේදී පිළිගනු ලැබීය.
+
+◼️
+
+[Data](articles/1c7ec503.json)
 
 ---
 
@@ -1990,87 +2062,5 @@ The victims were identified as a 28-year-old male and a 28-year-old female, who 
 [Data](articles/ffda310a.json)
 
 [Extended Data](ext_articles/ffda310a.ext.json)
-
----
-
-### Sudumalai Bhubaneswari Amman Temple Ancient Building with Divisional Secretariat Divisional Secretariat
-
-*2025-10-07 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/227112) · `ta`
-
-A protest was launched on Tuesday (07) in protest of the arbitrary activities of the administration of the Sudumalai Amman Temple and the unhappiness of the Chandilipayi Divisional Secretariat.
-
-The struggle, which began in front of the Siri Nagammal temple, went to the Chandilipayi Divisional Secretariat. Later, a Mahajar was handed over to a Divisional Secretariat Officer.
-
-Our Sudumalai Bhubaneswari Ambal Temple is a mythical and novelty temple. It was decided to rebuild the temple with the narrow thinking of the temple administration.
-
-The oldest buildings set up by our ancestors claimed for the reconstruction work were demolished. Thus there is a risk of going without old evidence. We do not prevent the construction of the rehab. The oldest of the temple will illustrate our existence.
-
-The oldest building has been demolished as the Divisional Secretariat has granted permission for fake documents and handed over copies to the Divisional Secretary without its original copies.
-
-...
-
-[Data](articles/dffc9fec.json)
-
-[Extended Data](ext_articles/dffc9fec.ext.json)
-
----
-
-### Amit Weerasinghe as the leader of the new Independence Front
-
-*2025-10-07 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/227111) · `ta`
-
-Amit Weerasinghe, former leader of Mahason Balakaya, has been elected as the leader of the new Independence Front (Abhinava Nithas Peramuna).
-
-The general meeting of the new Independence Front was held at the Kandy Udarattu Arts Association Hall. He has been selected in it.
-
-It is noteworthy that he was popular during the past riots. Professor Kapila Feminimalla has been elected as its general secretary.
-
-There are many difficulties in registering a political party in Sri Lanka. It is a delightful thing that the leader of a political party was elected in such a situation. So he thanked the members who elected me as the leader.
-
-◼️
-
-[Data](articles/17dcc050.json)
-
-[Extended Data](ext_articles/17dcc050.ext.json)
-
----
-
-### Trincomalee District Attorneys protest protest
-
-*2025-10-07 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227110) · `ta`
-
-The Trincomalee District Lawyers Association was engaged in anti -identity activities on Tuesday (07) in support of the protests by the Jaffna Lawyers Association.
-
-Yall. Attorney -at -law Dushyanthan said that the lawyer was engaged in a move towards justice that the judiciary should be properly adopted against the anarchy of the police without any court orders and anarchy without the appropriate judicial proceedings.
-
-Jaffna District Financial Crime Police Jaffna. The female lawyer from Mallakam visited the office of a lawyer and considered documents. It is also reported that he was released on a bail of Rs.. It was in this context that the anti -identification process was carried out.
-
-◼️
-
-[Data](articles/2d628c5b.json)
-
-[Extended Data](ext_articles/2d628c5b.ext.json)
-
----
-
-### Attorneys struggle in Jaffna
-
-*2025-10-07 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/227106) · `ta`
-
-Attorneys on Tuesday (07) accused the police of violating the house of a lawyer in Jaffna without any court permission.
-
-Police have launched investigations against some lawyers for allegedly involved in land affirmations in Jaffna.
-
-In the meantime, the police went to his house with the intention of arresting a lawyer who was accused of fraud on Sunday and carried out search operations.
-
-Northern Provincial lawyers were involved in the courts and engaged in vigilante protests in front of the courts, denouncing the police action, denouncing the police action.
-
-At the same time, lawyers who have faced land fraudulent allegations are demanding bail in courts on Wednesday (08) to prevent the police from arrest.
-
-◼️
-
-[Data](articles/ab8f8101.json)
-
-[Extended Data](ext_articles/ab8f8101.ext.json)
 
 ---

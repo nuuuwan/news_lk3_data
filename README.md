@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 09:13:29**
+As of **2025-10-07 09:39:24**
 
 ## Newspaper Stats
 
-*Scraped **81,737** Articles*
+*Scraped **81,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,102 @@ newsfirstlk | 628
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 904
+lankadeepalk | 906
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,809
 adaderanalk | 10,493
-tamilmirrorlk | 12,124
+tamilmirrorlk | 12,125
 virakesarilk | 13,456
-adaderanasinhalalk | 14,029
+adaderanasinhalalk | 14,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,736 (100.0%) of 81,737 articles have been extended.
+81,741 (100.0%) of 81,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### Criminal gang members arrested
+
+*2025-10-07 08:58:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපරධකලල-සමජකයක-අලලය/101-680824) · `si`
+
+Talangama Police say that a member of the LTTE has been arrested by a criminal criminal criminal criminal criminal criminal criminal crime.
+
+Police have seized 12200 millions of ice drugs in the suspect
+
+Suspect arrested near the fourth latter junction of Talwatte. The root of the root of a boring criminal in the Order Court on the ordinance of detainees is currently an organized criminal in Dubai in Dubai. Dinesh Wasantha, Navy, and Navy is revealed to be a disciple of those who attend Sumiti
+
+The motorcyclist of the Modara Police Division was shot dead in the Modara Police Division in Gampaha Police Division, 2024.03.202012.2012.2012. Police investigations have revealed that the motorcycle of the criminal was shot and reported to a man of the criminal in the criminal to the Gampaha police station, including the motorcycle of the motorcycle.
+
+◼️
+
+[Data](articles/e9a6c555.json)
+
+[Extended Data](ext_articles/e9a6c555.ext.json)
+
+---
+
+### The reason for the Gampola accident was released
+
+*2025-10-07 08:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பளை-விபத்துக்கான-காரணம்-வெளியானது/175-365861) · `ta`
+
+More news has been revealed about the accident that took place yesterday in Toluwa area in Gampola.
+
+Police suspect that the accident may have been due to the negligence of the woman who drove the car.
+
+The car crashed into a fast -paced car and crashed into a lorry that was traveling there.
+
+A 36 -year -old woman injected the car caused by the accident. Police say he has a driver's training permit.
+
+The woman is said to have drove the car with her husband and two children.
+
+Preliminary inquiries by the police revealed that the husband had later given her wife the opportunity to pay the car.
+
+When she was traveling near the Vihara, the woman pressed the ACClerator instead of pressing the brake
+
+It is reported that four women traveling on the street and the lorry crashed.
+
+In this case, the woman who was driving the car was admitted to the hospital.. Remble
+
+◼️
+
+[Data](articles/6786a067.json)
+
+[Extended Data](ext_articles/6786a067.ext.json)
+
+---
+
+### Decision on the salaries of the suspended judges
+
+*2025-10-07 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215423) · `si`
+
+The Judicial Service Commission has decided not to pay a few gifts with the acting payments with the acting payments.
+
+The Secretary of the Judicial Service Commission Prasanna Alwis has been released to all High Court Judges.
+
+The Judicial Service Commission had recently taken action to study the judges who were accused of various accusations.
+
+The Judicial Service Commission has decided that half salary payments should be made for the judges.
+
+Judicial and National Integration The Audit and National Integration Ministry have been discussed at the audit and management committee meeting of the Ministry.
+
+The committee has decided that only the payment of vocal allowances, private offers, cost of living allowances and language allowances should be applied.
+
+The Audit and Management Committee has decided not to pay telephone allowances, vehicle allowances, driving allowances, book offers, payday allowance and fuel allowances.
+
+...
+
+[Data](articles/f87e297a.json)
+
+[Extended Data](ext_articles/f87e297a.ext.json)
+
+---
 
 ### It is raining this afternoon
 
@@ -141,23 +217,25 @@ COLOMBO (News 1st): Sri Lanka Customs has reported a record-breaking revenue col
 
 ---
 
-### බ්‍රසීල සහ අමෙරිකානු ජනපතිවරු අතර දුරකථන සංවාදයක්
+### Telephone conversation between Brazil and American President
 
 *2025-10-07 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215421) · `si`
 
-බ්‍රසීල ජනාධිපති ලුවිස් ඉනාසියෝ ලුලා ද සිල්වා සහ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර දුරකථන සංවාදය සිදුව ඇත.
+Brazilian President Lewis Esio Lula de Silva and US President Donald Trump has taken place.
 
-විදෙස් මාධ්‍ය වාර්තා කළේය, දෙරටේ නායකයින් අතර ඉතා මිත්‍රශීලීව මිනිත්තු 30ක පමණ කාලයක් දුරකථන සංවාදය සිදුව ඇති බවය.
+Foreign media reports that the telephone conversation has taken place for about 30 minutes of the two countries.
 
-මෙහිදී තම රටේ නිෂ්පාදන සඳහා පනවා ඇති තීරුබදු සහ නිලධාරීන්ට එරෙහිව පනවා ඇති සම්බාධක ඉවත් කරන ලෙස බ්‍රසීල ජනාධිපතිවරයා අමෙරිකානු ජනාධිපතිවරයාගෙන් ඉල්ලීමක් කර ඇති බව සඳහන්වේ.
+The President of the United States has requested the US President to remove sanctions imposed by the tariffs and officials of their country.
 
-අමෙරිකානු ජනාධිපතිවරයා මෙම දුරකථන සංවාදය සම්බන්ධයෙන් සිය සමාජ මාධ්‍ය ගිණුමේ සටහනක් ද තබා තිබේ.
+The US President has also kept his social media account on this telephone conversation.
 
-ඉදිරියේ දි දෙරටේ නායකයික් මුහුණට මුහුණ හමුවී සාකච්ඡා කිරීමට ද මෙම දුරකථන සංවාදයේදි එකඟතාව පළවී ඇති බව වාර්තා වේ.
+It is reported that these telephones have also agreed to meet the leadership of the two countries.
 
 ◼️
 
 [Data](articles/f5aebd6e.json)
+
+[Extended Data](ext_articles/f5aebd6e.ext.json)
 
 ---
 
@@ -1938,71 +2016,5 @@ However, the issue will be eligible on the next 10th and that the issue will be 
 [Data](articles/f9a66cf1.json)
 
 [Extended Data](ext_articles/f9a66cf1.ext.json)
-
----
-
-### India's players to 1325 LPL fight to 2025 LPL fight
-
-*2025-10-06 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215410) · `si`
-
-LPL organizers have announced that the Indian team players will participate in the sixth phase of the Lanka Premier League.
-
-LPL organizers have announced that the Indian team players will participate in Phase 6 of the Lanka Premier League.
-
-The first players of the Indian team participate in Lanka Premier League Tournament.
-
-The Indian Games, who had previously represented the Indian players for Lanka Premier League.
-
-The Indian Cricket is not allowed to attend any of the Indian cricket league to any of the Indian cricket league that is playing for Indian reserves or IPL.
-
-The sixth phase of the Lanka Premier League will commence on December 1.
-
-The tournament will be held as a rehearsal for the next 2026 World Cup.
-
-Twenty20 tournament pattern includes 24 matches including 20 league matches and four foolishment matches.
-
-...
-
-[Data](articles/a0131a03.json)
-
-[Extended Data](ext_articles/a0131a03.ext.json)
-
----
-
-### Sri Lanka adopts a proposal on Sri Lanka at Human Rights Council
-
-*2025-10-06 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215409) · `si`
-
-A proposal on reconciliation, accountability and human rights in Sri Lanka has been adopted at the UN Human Rights Council in Geneva.
-
-The resolution was adopted without a vote in the 60th session of the Human Rights Council.
-
-The High Commissioner for Human Rights has extended its proceedings to Sri Lanka two more years, and the proposal has signed the same proposal as equal sponsors.
-
-The updated draft has been submitted in Geneva on October 1.
-
-The UK, Canada, Malawi, Montenegro and Northern Macedonia have signed as major patrons in the proposal.
-
-◼️
-
-[Data](articles/c3881a0f.json)
-
-[Extended Data](ext_articles/c3881a0f.ext.json)
-
----
-
-### ගම්පොල අනතුරකින් තිදෙනෙක් මරුට
-
-*2025-10-06 18:02:37* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පොල-අනතුරකින්-තිදෙනෙක්-මරුට/11-418940) · `si`
-
-Three other women were injured in a road accident in Gampola Dayuwala area in Gampola.
-
-The accident had occurred when a group of women who had come to join the road to travel through the road to a religious program in the temple.  The three women have died in this place.
-
-◼️
-
-[Data](articles/b3155dcd.json)
-
-[Extended Data](ext_articles/b3155dcd.ext.json)
 
 ---

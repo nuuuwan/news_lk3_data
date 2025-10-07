@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 06:22:03**
+As of **2025-10-07 07:05:26**
 
 ## Newspaper Stats
 
@@ -27,25 +27,27 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,703 (100.0%) of 81,704 articles have been extended.
+81,704 (100.0%) of 81,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### ரஷ்யாவின் எண்ணெய் நிலையம் மீது உக்ரைன் தாக்குதல்
+### Ukraine attack on Russia's oil station
 
 *2025-10-07 05:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-எண்ணெய்-நிலையம்-மீது-உக்ரைன்-தாக்குதல்/50-365857) · `ta`
 
-ரஷ்யாவின் முக்கியமான எண்ணெய் நிலையம் மற்றும் வெடிபொருள் தொழிற்சாலையை ட்ரோன் மூலம் தாக்கியதாக உக்ரைன் இராணுவம் தெரிவித்துள்ளது.
+The Ukrainian military said it was hit by a drone by a drone.
 
-மேற்கு ரஷ்யாவில் உளள் நிஸ்னி நோவ்கோரோடு மாகாணத்தில் உளள் ஸ்வெர்ட்லோவ் வெடிபொருள் தொழிற்சாலை தாக்கப்பட்டதாக உக்ரைன் ஜெனரல் ஸ்டாஃப் தெரிவித்துள்ளார். அங்கு வெடிச்சத்தம் கேட்டதாகவும், தீப்பிடித்து எரிந்ததாகவும் தெரிவித்துள்ளார்.
+Ukraine General Staff says that the Surdlov ammunition factory has been attacked in the province of Nisni Novgorodu in West Russia. He said that the explosion was heard and the fire was burnt.
 
-ரஷ்யப் படைகளுக்கு வெடிபொருட்கள் வழங்கும் முக்கிய தொழிற்சாலைகளில் ஒன்றாக இந்த தொழிற்சாலை திகழ்ந்து வருகிறது. (a)
+The factory is one of the major factories that provide ammunition to Russian forces. (A)
 
 ◼️
 
 [Data](articles/59901189.json)
+
+[Extended Data](ext_articles/59901189.ext.json)
 
 ---
 

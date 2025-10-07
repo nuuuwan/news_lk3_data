@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 23:20:37**
+As of **2025-10-07 22:55:21**
 
 ## Newspaper Stats
 
-*Scraped **81,994** Articles*
+*Scraped **81,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,831
-adaderanalk | 10,529
+adaderanalk | 10,526
 tamilmirrorlk | 12,158
 virakesarilk | 13,518
 adaderanasinhalalk | 14,055
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,055
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,991 (100.0%) of 81,994 articles have been extended.
+81,991 (100.0%) of 81,991 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,24 +50,6 @@ It also expressed its concern over the excessive exemption of punishment exempti
 [Data](articles/47e4e12e.json)
 
 [Extended Data](ext_articles/47e4e12e.ext.json)
-
----
-
-### AIIB reaffirms support for Sri Lanka’s green energy and development goals
-
-*2025-10-07 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113311/aiib-reaffirms-support-for-sri-lankas-green-energy-and-development-goals) · `en`
-
-The President of the Asian Infrastructure Investment Bank (AIIB), Jin Liqun, affirmed AIIB’s commitment to supporting Sri Lanka’s development, particularly in the promotion of the green energy sector.
-
-This statement was made during a meeting at the Presidential Secretariat this morning (07), where AIIB Head Jin Liqun, accompanied by senior management, met with President Anura Kumara Dissanayake, according to the President’s Media Division (PMD).
-
-The delegation reviewed the progress of projects implemented in Sri Lanka under AIIB loans and Liqun expressed his intention to continue collaborating with the country to support its overall progress.
-
-He highlighted that future support will focus on sectors such as green energy and green transportation, while ensuring energy stability in Sri Lanka, the PMD said.
-
-...
-
-[Data](articles/074598cf.json)
 
 ---
 
@@ -166,24 +148,6 @@ The government expects the President to take the growth of the national economy,
 [Data](articles/0c57785a.json)
 
 [Extended Data](ext_articles/0c57785a.ext.json)
-
----
-
-### “Complete abandonment of Sri Lanka’s inclusive nationalistic vision” – Dilith slams govt over UN resolution
-
-*2025-10-07 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113310/complete-abandonment-of-sri-lankas-inclusive-nationalistic-vision-dilith-slams-govt-over-un-resolution-) · `en`
-
-‘Sarvajana Balaya’ leader and Member of Parliament Dilith Jayaweera today demanded immediate answers from the government for the “shocking betrayal” of Sri Lanka’s allies who stood with the country against UNHRC resolutions.
-
-Posting on X (formerly Twitter), Jayaweera said he was “appalled by the disastrous execution of foreign policy by Sri Lanka’s delegation, led by the Foreign Minister, to the UNHRC.”
-
-He stated that the Government of Sri Lanka (GoSL) must immediately provide answers to the 22 million citizens it was duty-bound to represent, and the “shocking betrayal of our allies who stood with us by speaking against unfounded UN resolutions against Sri Lanka.”
-
-Jayaweera further alleged that the delegation’s actions displayed “sheer weakness and incompetence before the international community,” claiming that this reflected how poorly the government was handling the nation’s priorities.
-
-...
-
-[Data](articles/c6027f22.json)
 
 ---
 
@@ -366,26 +330,6 @@ It is customary for these earthquakes to occur in the area as Papua New Guinea i
 [Data](articles/093180d9.json)
 
 [Extended Data](ext_articles/093180d9.ext.json)
-
----
-
-### Convention against Doping in Sport (Amendment) Bill passed in Parliament
-
-*2025-10-07 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113309/convention-against-doping-in-sport-amendment-bill-passed-in-parliament) · `en`
-
-The Speaker of Sri Lanka’s Parliament, Dr. Jagath Wickramaratne, today (07) endorsed the certificate on the Convention against Doping in Sport (Amendment) Bill.
-
-The Second Reading Debate on the Convention against Doping in Sport (Amendment) Bill was held from 11.30 a.m. to 5.00 p.m. today, and the Bill was passed without a division and amendment.
-
-The Bill was presented to Parliament for First Reading on September 12, 2025 by the Minister of Youth Affairs and Sports Sunil Kumara Gamage.
-
-This Bill is intended to amend the Convention against Doping in Sports Act No. 33 of 2013, aligning Sri Lanka’s anti-doping legislation with international standards, the statement said.
-
-The World Anti-Doping Agency (WADA) annually monitors the laws and regulations on doping in sports in Sri Lanka and accordingly, this Bill aims to amend the existing Act in accordance with the laws and regulations of the World Anti-Doping Agency to bring it in line with the needs of modern sports, it said.
-
-...
-
-[Data](articles/1b385180.json)
 
 ---
 
@@ -823,13 +767,15 @@ We have a huge responsibility for the Tamil people, our political leaderships an
 
 *2025-10-07 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113306/president-meets-imf-delegation-to-discuss-sri-lankas-fifth-review) · `en`
 
-President Anura Kumara Dissanayake reaffirmed that the International Monetary Fund (IMF) remains a vital partner in Sri Lanka’s accelerated journey from crisis to recovery, emphasizing that the government regards IMF support not merely as external assistance, but as an integral element of its comprehensive strategy for sustainable economic progress.
+President Anura Kumara Dissanayake met with the delegation of the International Monetary Fund (IMF) at the Presidential Secretariat this morning to discuss the fifth review of the IMF’s Extended Fund Facility (EFF) program for Sri Lanka, according to the President’s Office.
 
-Speaking at the fifth mid-point review meeting held today (07) at the Presidential Secretariat with an IMF delegation, the President stressed that the government’s reform agenda is focused on achieving long-term stability, inclusive growth, and investor confidence. The sixth tranche of IMF assistance is scheduled for release in December.
+The discussion was held on the occasion of the mid-term phase of the fifth review, which is being conducted before the release of the sixth tranche of the IMF assistance in Sri Lanka’s debt restructuring process.
 
-During the discussions, the IMF delegation commended Sri Lanka’s reform progress, noting that the country’s economic reform program is yielding commendable outcomes, according to the President’s Media Division (PMD).
+During the meeting, President Dissanayake said that the government’s main objective is to rescue the country from economic bankruptcy and take it towards development, and that the government has a strategic plan for that.
 
-...
+The President also stated that he greatly appreciates the support provided by the IMF in the process of making that program a success, the President’s Media Division reported.
+
+◼️
 
 [Data](articles/fc1955d9.json)
 
@@ -2044,5 +1990,53 @@ The Chinese leaders have been prompted that the Chinese community's respect and 
 [Data](articles/cd2532bd.json)
 
 [Extended Data](ext_articles/cd2532bd.ext.json)
+
+---
+
+### Dilvin Silva as the shadow president of Sri Lanka - Mano says
+
+*2025-10-07 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227119) · `ta`
+
+Though Anuragumara Dissanayake is the official president, Tilvin Silva, general secretary of the Janatha Vimukthi Peramuna (JVP) (JVP), is practically a 'shadow president'. Mano Ganeshan, the leader and parliamentarian of the Tamil Progressive Alliance, said that a high -level committee with the JVP's internal seat is the real power of the government.
+
+◼️
+
+[Data](articles/b8a1c62a.json)
+
+[Extended Data](ext_articles/b8a1c62a.ext.json)
+
+---
+
+### Contempt of Court case filed against YouTuber Sudaththa Thilaksiri to be taken up before Appeals Court
+
+*2025-10-07 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113301/contempt-of-court-case-filed-against-youtuber-sudaththa-thilaksiri-to-be-taken-up-before-appeals-court) · `en`
+
+The Court of Appeal today (07) ordered that the petition filed by former Minister Manusha Nanayakkara against YouTuber Sudaththa Thilaksiri, alleging contempt of court, be taken up on December 2 for reconsideration.
+
+The petition was called before a bench comprising the Chairman of the Court of Appeal, Justice Rohantha Abeysuriya and Justice Priyantha Fernando, said Ada Derana reporter.
+
+During the hearing, counsels representing both parties informed the bench that they would notify court during the next hearing date regarding the possibility of reaching an amicable settlement.
+
+Accordingly, the Court of Appeal directed that the petition be called again on December 2.
+
+Former Minister Manusha Nanayakkara had filed the petition, claiming that comments made by Sudaththa Thilaksiri on his YouTube channel amounted to contempt of court and requested that an investigation be conducted and appropriate legal action taken against him.
+
+◼️
+
+[Data](articles/a29d4c92.json)
+
+[Extended Data](ext_articles/a29d4c92.ext.json)
+
+---
+
+### Government Vows Full Probe into Thajudeen Murder and More
+
+*2025-10-07 14:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/government-vows-full-probe-into-thajudeen-murder-and-more) · `en`
+
+...
+
+[Data](articles/34d9794e.json)
+
+[Extended Data](ext_articles/34d9794e.ext.json)
 
 ---

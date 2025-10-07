@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 11:20:37**
+As of **2025-10-07 11:40:53**
 
 ## Newspaper Stats
 
-*Scraped **81,785** Articles*
+*Scraped **81,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,17 +21,37 @@ adalk | 7,813
 adaderanalk | 10,505
 tamilmirrorlk | 12,132
 virakesarilk | 13,467
-adaderanasinhalalk | 14,033
+adaderanasinhalalk | 14,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,781 (100.0%) of 81,785 articles have been extended.
+81,781 (100.0%) of 81,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### මහින්ද බලන්න අමරවීර යයි
+
+*2025-10-07 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215428) · `si`
+
+හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාගේ සුවදුක් විමසීම සඳහා හිටපු අමාත්‍ය මහින්ද අමරවීර මහතා තංගල්ල කාල්ටන් නිවසට ගොස් තිබේ.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා විජේරාමයේ පිහිටි සිය නිල නිවසින් සැප්තැම්බර් මස 11 වන දා නික්ම ගියේය.
+
+ඒ "ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ" පනතේ විධිවිධානයන් අනුව හිටපු ජනාධිපතිවරුන් සඳහා ලබා දී ඇති නිල නිවාස ඔවුන්ට යළි රජයට භාරදීමට සිදුවීමත් සමඟය.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා නිල නිවස භාවිත කරමින් සිටියත් මෙම පනත අනුව ඔහුට ද එම වරප්‍රසාදය අහිමි වී ගියේය.
+
+ඒ අනුව ඔහු විජේරාමයේ පිහිටි නිල නිවසින් නික්ම හම්බන්තොට කාල්ටන් නිවස වෙත පැමිණි අතර, එදින සිට මේ දක්වා බොහෝ දේශපාලනඥයින් සහ හිටපු ජනාධිපතිවරයාට ආදරය දක්වන ජනතාව ඔහුගේ සුවදුක් බැලීමට කාල්ටන් වෙත පැමිණෙමින් සිටී.
+
+◼️
+
+[Data](articles/32ee24f8.json)
+
+---
 
 ### Harini Amarasuriya and Narendra Modi participate in the NDTV World Summit this month
 
@@ -608,6 +628,24 @@ Relatives said that the youth was searched in several parts of the country and t
 [Data](articles/b43721de.json)
 
 [Extended Data](ext_articles/b43721de.ext.json)
+
+---
+
+### වෑන් රථයකට වනඅලි ප්‍රහාරයක්
+
+*2025-10-07 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215424) · `si`
+
+බුත්තල සිට කතරගම දක්වා යාල ජාතික වනෝද්‍යානය මැදින් දිවෙන මාර්ගයේ ගමන් ගන්නා රථ වාහන වලින් ලබාදෙන ආහාර බලාපොරොත්තුවෙන් වනඅලි මග දෙපස රැඳී සිටින ආකාරය නිරන්තරයෙන් දක්නට ලැබේ.
+
+වනඅලින්ට ආහාර ලබානොදෙන ලෙස වනජීවි නිලධාරීන් විසින් සංචාරකයින් හට දැනුම්වත් කිරීම් සිදුකළත් ඒ කිසිඳු දැන්වීමක් නොතකමින් ජනතාව වනඅලීන්ට ආහාරදීමට පුරුදුව සිටියි.
+
+මේ අකාරයට මාර්ගය අසල රැදී සිටි වනඅලියෙකුට ආහාර ලබාදුන් වෑන් රථයකට එම අලියා තවත් ආහාර බලාපොරොත්තුවෙන් පහරදෙන ආකාරය කැමරා කාචයේ මෙලෙස පටිගත වී තිබුණි.
+
+මෙම මාර්ගයේ නිරන්තරයෙන් වනඅලි පහරදීම් වාර්තා වන අතර එබැවින් බුත්තල කතරගම මාර්ගයේ ගමන් කිරීමේ දී වනසතුන් ට ආහාර ලබා දීමෙන් වැලකී සිටින ලෙස බලධාරීන් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/d688f4c8.json)
 
 ---
 
@@ -1942,41 +1980,5 @@ The deceased has been identified as a 32 year old, inigadu area, and 51 year old
 [Data](articles/57a79da7.json)
 
 [Extended Data](ext_articles/57a79da7.ext.json)
-
----
-
-### Brother's survival because sister does not pay for drugs in Jaffna!
-
-*2025-10-06 21:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227064) · `ta`
-
-A man who is addicted to addiction in Jaffna is wrong today. Decides and survived. The deceased is Dayabaran Muralivasan (age 34) from Chiripuram - Moon.
-
-He has asked his sister for drugs as he is addicted to intoxication. The sister refused to do so.
-
-Sudden Death Investigation Officer A. Jayapalasingham. The Vaddukoddai police regulated the witnesses.
-
-◼️
-
-[Data](articles/369a603c.json)
-
-[Extended Data](ext_articles/369a603c.ext.json)
-
----
-
-### Student dies to the pool to take the ball
-
-*2025-10-06 21:47:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බලය-ගනන-තටකයට-පනන-සසව-ගල-මරට/1-680810) · `si`
-
-The school student drowned in the swimming pool, police said.
-
-While playing cricket at the college stadium, the ball had fallen into the pool near the ball
-
-Hospital sources say that the victim was admitted to the Batagama hospital due to the drowning student to the swimming pool to take the ball, hospital sources said.. The accident had been reportedly stated that about 6:30 pm Dickwella Vijitha Maha Vidyalaya, Dickwella Vijitha Maha Vihara.
-
-◼️
-
-[Data](articles/64437099.json)
-
-[Extended Data](ext_articles/64437099.ext.json)
 
 ---

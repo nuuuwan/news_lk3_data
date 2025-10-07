@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 22:11:07**
+As of **2025-10-07 22:37:30**
 
 ## Newspaper Stats
 
-*Scraped **81,990** Articles*
+*Scraped **81,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,831
 adaderanalk | 10,526
-tamilmirrorlk | 12,157
+tamilmirrorlk | 12,158
 virakesarilk | 13,518
 adaderanasinhalalk | 14,055
 
@@ -27,25 +27,45 @@ adaderanasinhalalk | 14,055
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,989 (100.0%) of 81,990 articles have been extended.
+81,990 (100.0%) of 81,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### பொலிஸ் அதிகாரியை கைது செய்த விசேட அதிரடிப்படையினர்
+### ”காணாமல் ஆக்கப்பட்டோர் வழக்கு விசாரணைகளில் முன்னேற்றம் இல்லை”
+
+*2025-10-07 22:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-ஆக்கப்பட்டோர்-வழக்கு-விசாரணைகளில்-முன்னேற்றம்-இல்லை/175-365927) · `ta`
+
+வலுக்கட்டாயமாக காணாமல் ஆக்கப்பட்டவர்கள் தொடர்பான ஐ.நா. குழு (CED), அதன் சமீபத்திய அமர்வில் மதிப்பாய்வு செய்த பிறகு, இலங்கை குறித்த அதன் கண்டுபிடிப்புகளை இன்று வெளியிட்டது.
+
+வலிந்து காணாமல் போவதிலிருந்து அனைத்து நபர்களையும் பாதுகாப்பதற்கான சர்வதேச மாநாட்டை செயல்படுத்துவது குறித்த குழுவின் முக்கிய கவலைகள் மற்றும் பரிந்துரைகள் மற்றும் நேர்மறையான அம்சங்கள் இந்த கண்டுபிடிப்புகளில் உள்ளன. முக்கிய பிரச்சினைகள் பின்வருமாறு:
+
+காணாமல் போனவர்களின் விரிவான பதிவேடு இல்லாதது மற்றும் அவர்களின் கதி மற்றும் இருப்பிடத்தை தெளிவுபடுத்துவதில் உள்ள மட்டுப்படுத்தப்பட்ட முன்னேற்றம் குறித்து குழு கவலை தெரிவித்தது, காணாமல் போனவர்கள் அலுவலகம் (OMP) பெறப்பட்ட 16,966 வழக்குகளில் 23 காணாமல் போனவர்களை மட்டுமே கண்டுபிடித்துள்ளது என்பதைக் குறிப்பிட்டது.
+
+ஆயுத மோதலின் போது நடந்தவை உட்பட, வலிந்து காணாமல் ஆக்கப்பட்டதாக கூறப்படும் வழக்குகள் தொடர்பான விசாரணை மற்றும் வழக்குத் தொடுப்பதில் முன்னேற்றம் இல்லாததில் பிரதிபலிக்கும் அதிக அளவிலான தண்டனை விலக்குரிமை குறித்த தனது கவலையையும் அது தெரிவித்தது.
+
+...
+
+[Data](articles/47e4e12e.json)
+
+---
+
+### Special Task Force arrested by police officer
 
 *2025-10-07 21:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரியை-கைது-செய்த-விசேட-அதிரடிப்படையினர்/175-365914) · `ta`
 
-முல்லைத்தீவு - மாங்குளம், கொக்காவில் பகுதியில் பொலிஸ் அதிகாரி ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்டுள்ளார்.
+Police officer has been arrested with ice drugs in Mullaitivu - Mangulam, Kokavil area.
 
-இராணுவ புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய, ஏ-9 வீதியின் கொக்காவில் பகுதியில் இன்று காலை குறித்த பொலிஸ் அதிகாரி ஐஸ் போதைப்பொருளுடன் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டு மாங்குளம் பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+According to the confidential information available to the Army Intelligence Unit, the police officer has been arrested by the Special Task Force with an Ice drug in the Koka area of ​​A-9 road this morning and handed over to the Mankulam Police Station.
 
-குறித்த பொலிஸ் அதிகாரி, தனது உடமையில் 92 கிராம் 400 மில்லிகிராம் ஐஸ் போதைப்பொருளை வைத்திருந்த குற்றச்சாட்டில் கைது செய்யப்பட்டுள்ளார்.
+The police officer has been arrested on charges of possessing 92 grams of 400 milligrams of ice in his body.
 
 ◼️
 
 [Data](articles/c9aa42ad.json)
+
+[Extended Data](ext_articles/c9aa42ad.ext.json)
 
 ---
 
@@ -2016,31 +2036,5 @@ Former Minister Manusha Nanayakkara had filed the petition, claiming that commen
 [Data](articles/34d9794e.json)
 
 [Extended Data](ext_articles/34d9794e.ext.json)
-
----
-
-### 2 kg 03 g ice in the east: Young couple arrested
-
-*2025-10-07 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-2-கிலோ-03-கிராம்-ஐஸ்-இளம்-தம்பதி-கைது/175-365893) · `ta`
-
-A 24,23 -year -old young couple have been arrested in Batticaloa with 2 kg 03 grams of ice.
-
-Assistant Superintendent of Police MSM. The police, led by Jarus, arrested the police on Monday evening.
-
-This is the first time in the Eastern Province, which has been seized by ice drugs, said Valaichenai police.
-
-Assistant Superintendent of Police MSM. Following the information received by the Juros, a group of police team led by him was survived by surveillance at the Assistant Superintendent's Office at 4.30 pm on Monday (06) at 4.30 pm.
-
-They then seized 2 kg .03 g of ice from them. Subsequently, they were arrested and the three -wheeler was seized.
-
-A main narcotics dealer in Morakotanzenne has told the couple to buy a dog in Colombo.. He has paid Rs.
-
-Subsequently, the couple went to Colombo train and placed a couple to put a puppy and a bag to the couple in the Parakkottai area where they returned to their home in Calcutta.
-
-...
-
-[Data](articles/91fa605a.json)
-
-[Extended Data](ext_articles/91fa605a.ext.json)
 
 ---

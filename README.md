@@ -1,37 +1,291 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 12:14:14**
+As of **2025-10-07 12:55:47**
 
 ## Newspaper Stats
 
-*Scraped **81,797** Articles*
+*Scraped **81,814** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 633
+newsfirstlk | 634
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 912
+lankadeepalk | 924
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,819
 adaderanalk | 10,505
-tamilmirrorlk | 12,132
+tamilmirrorlk | 12,134
 virakesarilk | 13,467
-adaderanasinhalalk | 14,035
+adaderanasinhalalk | 14,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,796 (100.0%) of 81,797 articles have been extended.
+81,807 (100.0%) of 81,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### සංස්කෘතියේ ’’මගඩි’’ හොයන කමිටුවට තව කල්දෙයි
+
+*2025-10-07 12:26:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සසකතය-මගඩ-හයන-කමටවට-තව-කලදය/101-680841) · `si`
+
+සංස්කෘතික අරමුදලේ කෝටි 850 ක මුදල් එහි අධ්‍යක්ෂ මණ්ඩලයේ අනුමැතියකින් තොරව පාවිච්චි කරන ලදැයි කියන සිද්ධිය සම්බන්ධයෙන් සොයා බැලීමට පත් කෙරුණු  විශේෂ කමිටුවේ කාලය  පසුගිය 30 වැනිදායින් අවසන්ව ඇත.
+
+එම සිද්ධිය සම්බන්ධයෙන් තවදුරටත් විමර්ශන පැවැත්වීමට  ඇති බව දැනුම්දී ඇති හෙයින්  කමිටුවේ කාලය තවදුරටත් දීර්ඝ කිරීමට අපේක්ෂා කරන බව බුද්ධ ශාසන ආගමික කටයුතු සහ   සංස්කෘතික  නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතා පැවසීය.
+
+මේ සම්බන්ධයෙන් තීරණයක් ගැනීමට  අරමුදලේ  අධ්‍යක්ෂ මණ්ඩලය අද රැස්වීමට නියමිතය.
+
+විමර්ශන කටයුතු සඳහා මෙම කමිටුවට ලබාදී තිබුණේ මාස දෙකක කාලයකි.
+
+◼️
+
+[Data](articles/884c7616.json)
+
+---
+
+### Makes a clean sport in the country
+
+*2025-10-07 12:14:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රට-පරසද-කරඩවක-ඇත-කරනව/1-680838) · `si`
+
+Sports Minister Sugath Thilakaratne said in Parliament that it is positively amended and a clean sport of a country.
+
+The Deputy Minister was speaking at the conventionality of stimulants (Amendment) Bill, the Bill of Second Reading Debate.
+
+"This Act is implemented by the purpose of having a clean sport.
+
+The responsibility of these institutions is to provide a clean game guidelines. Why do the players refer to banned stimulants? It is aimed at making their game economically to enter into a financial system. However, the Deputy Minister said this was an injustice to the incoming athletes.
+
+◼️
+
+[Data](articles/d0ec3520.json)
+
+[Extended Data](ext_articles/d0ec3520.ext.json)
+
+---
+
+### රටේ පිරිසිදු ක්‍රීඩාවක් ඇති කරනවා
+
+*2025-10-07 12:14:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රට-පරසද-කරඩවක-ඇත-කරනව/101-680838) · `si`
+
+සාධනීය ලෙස පනත් සංශෝධනය කර රටේ පිරිසිදු ක්‍රීඩාවක් ඇති කරන බව ක්‍රීඩා නියොජ්‍ය අමාත්‍ය සුගත් තිලකරත්න මහතා පාර්ලිමේන්තුවේදී පැවසීය.
+
+නියෝජ්‍ය අමාත්‍යවරයා මේ බව කීවේ ක්‍රීඩා වල යෙදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති (සංශෝධන) පනත් කෙටුම්පත දෙවැනි වර කියැවීමේ විවාදය අරඹමිනි.
+
+"පිරිසිදු ක්‍රීඩාවක් ඇතිකිරීමේ අරමුණින් මේ පනත ක්‍රියාත්මක කරනවා.ලෝක උත්තේජක මර්දන නියෝජිත ආයතනය මගින් මේ පනත ක්‍රියාත්මක  වෙනවා.
+
+මේ ආයතන වල වගකීම වන්නේ පිරිසිදු ක්‍රීඩාවක් කරන්න මාර්ගෝපදේශ සැපයීමයි.ක්‍රීඩක ක්‍රීඩකාවන් තහනම් උත්තේජක වලට යොමු වන්නේ ඇයි? ආර්ථික වශයෙන් ඔවුන්ගේ ක්‍රීඩාව ඉදිරියට ගෙන ගෙන මූල්‍යමය ක්‍රියාදාමයකට එළඹීම අරමුණ වී තිබෙනවා. නමුත් මෙය සහජ දක්ෂතා වලින් ඉදිරියට එන ක්‍රීඩක ක්‍රීඩකාවන්ට කරන අසාධාරණයක් යනුවෙන්ද නියෝජ්‍ය අමාත්‍යවරයා කීය.
+
+◼️
+
+[Data](articles/7a5b72e3.json)
+
+---
+
+### රසායනික ද්‍රව්‍යක් දඹුල්ලේ විදුහලක සිසුන් 8ක් රෝහලට යවයි
+
+*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-8ක-රහලට-යවය/101-680837) · `si`
+
+විද්‍යාගාරයක තිබූ රසායනික ද්‍රව්‍යයක් දිවේ ගෑවීමෙන් දඹුල්ල ප්‍රදේශයේ විදුහලක  හත්වැනි වසරේ ඉගෙනුම ලබන සිසු සිසුවියන් හත් දෙනෙකු 07 දින දඹුල්ල මූලික රෝහලට ඇතුළත් කළ බව දඹුල්ල පොලිසිය කියයි.
+
+පිරිමි දරුවන් පස්දෙනෙකු සහ ගැහැණු දරුවන් දෙදෙනකු මෙසේ රෝහල්ගත කර තිබෙන බව පොලිසිය සඳහන් කළේය.
+
+සහකාර ‍පොලිස් අධිකාරියේ එම්. එස්.කේ  වික්‍රමනායක මහතා සඳහන් කළේ   විද්‍යාලයේ හත්වැනි වසරේ ඉගෙනුම ලබන දරුවන් පිරිසක් මෙසේ රෝහල්ගත කොට තිබෙන බවත්   විදුහලේ විද්‍යාගාරය පසුගිය නිවාඩු දින කිහිපයේ රිලවුන් කඩා එහි තිබූ භාණ්ඩ ඇද දමා තිබුණු බවය.
+
+ඒ අනුව එහි විසිරී තිබුණු රතු පැහැ ගැන්වූ ද්‍රව්‍යයක් මෙම දරුවන් මිරිස් කුඩු යැයි සිතා  දිව මත ගා රස බලා   ඇති බවද  කියයි.
+
+◼️
+
+[Data](articles/c801528c.json)
+
+---
+
+### Eight students of Dambulla Vidyalaya receives eight students to hospital
+
+*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-8ක-රහලට-යවය/1-680837) · `si`
+
+According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
+
+Five boys and two girls have been hospitalized.
+
+Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
+
+Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
+
+◼️
+
+[Data](articles/0ec4264d.json)
+
+[Extended Data](ext_articles/0ec4264d.ext.json)
+
+---
+
+### Protection of the Claim Act of former Tama Skills Act
+
+*2025-10-07 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215430) · `si`
+
+Although the Claimant Act of former presidents was abolished, he will not take necessary action to protect them.
+
+The Minister said that some former presidents have been handed over to their safety vehicles and is not applicable to the claim abolition bill.
+
+The Minister also said that if the government is responsible for the security of former presidents, it is a demand for security vehicles, including security vehicles and other things.
+
+◼️
+
+[Data](articles/0101d8a9.json)
+
+[Extended Data](ext_articles/0101d8a9.ext.json)
+
+---
+
+### Another training for 515 nurses
+
+*2025-10-07 12:03:09* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හද-සවය-515කට-තව-පහණවක/1-680835) · `si`
+
+Dr. Nalinda Jayatissa said Dr. Nalinda Jayatissa said that the hospital system would be managed to manage the hospital.
+
+The Minister said that 515 nurses of training training were trained in the National Training Management and Supervising Diploma in the Nursing Service.
+
+This was held at the Colombo Post Primary Nursing College, the patronage of Health and Mass Media Media Dr. Nalinda Jayatissa.
+
+The Nurses of the Ward Management and Supervisory Diploma in the Ministry of Health and Massestination have been selected among the year and a half-year-old diploma courses and promotions.
+
+Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the members of the recruitment of the training were a group of difficulties as a group of hardships in different parts of the island.
+
+◼️
+
+[Data](articles/f3f1b07a.json)
+
+[Extended Data](ext_articles/f3f1b07a.ext.json)
+
+---
+
+### Sri Lanka’s Economy Grows, But Poverty Persists : World Bank Calls for Reform
+
+*2025-10-07 11:57:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka%e2%80%99s-economy-grows-but-poverty-persists-world-bank-calls-for-reform) · `en`
+
+COLOMBO (News 1st); Sri Lanka’s economy is showing signs of resilience, with a projected growth rate of 4.6% in 2025, according to the World Bank’s latest Sri Lanka Development Update, titled Better Spending for All.
+
+However, the report warns that the recovery remains incomplete and uneven, with growth still below pre-crisis levels and poverty significantly elevated.
+
+The report highlights that while inflation is low and external inflows are strong, food prices remain high, foreign reserves are growing slowly, and poverty levels are still double what they were in 2019.
+
+Many households continue to struggle, with 10% of the population living just above the poverty line, and malnutrition persisting among vulnerable groups.
+
+...
+
+[Data](articles/e1228de5.json)
+
+[Extended Data](ext_articles/e1228de5.ext.json)
+
+---
+
+### Minimizing inequality between schools is a primary purpose of education - PM
+
+*2025-10-07 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215429) · `si`
+
+The main objective of education, Higher Education and Vocational Education, is the main objective of education, Harini Amarasuriya, the main objective of the education, Higher Education and Vocational Education.
+
+Due to the inequality of the schools, the Prime Minister points out that many decades have been faced with several decades in the school system in Sri Lanka.
+
+The Prime Minister made this observation at a function at the Ministry of Education.
+
+She added that all these problems facing the stress of school children in the competitive educational pattern of the school children's hardest, the inequality of the schools, and the current government is trying to avoid it, she added.
+
+The reduction in this inequality is a key objective of the education reform and the Prime Minister said:
+
+She emphasized that the direct participation, leadership, model and contribution needed to increase the quality of education.
+
+...
+
+[Data](articles/532f5e92.json)
+
+[Extended Data](ext_articles/532f5e92.ext.json)
+
+---
+
+### Defense Minister's security vehicles of former Chanted
+
+*2025-10-07 11:49:50* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-ජනපතලග-ආරකෂක-වහන-ගන-ආරකෂක-ඇමතගන-පරකශයක/1-680834) · `si`
+
+Common Security and Parliamentary Affairs Minister Ananda Wijepala said that if the security traffic and other activities were handed over to the use of the security officers deployed to the security officers deployed.
+
+He further stated that even after the former Title Removal of the Title Removal Bill, he said.
+
+It is said that it is the responsibility of the government to provide security to former presidents not to protect the rights.
+
+◼️
+
+[Data](articles/eddc12db.json)
+
+[Extended Data](ext_articles/eddc12db.ext.json)
+
+---
+
+### Solution to the deficit of dialysis
+
+*2025-10-07 11:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயலிசிஸ்-ஊசிப்-பற்றாக்குறைக்குத்-தீர்வு/175-365876) · `ta`
+
+Health Minister Nalinda Jayatissa acknowledged the shortage of dialysis injections in Sri Lanka and told parliament today that government hospitals have made arrangements to make purchases of local hospitals.
+
+Responding to a question raised by opposition parliamentarian Samara Sampath Dasanayake, the minister said that the hospitals had been allocated funds.
+
+◼️
+
+[Data](articles/3d51aca2.json)
+
+[Extended Data](ext_articles/3d51aca2.ext.json)
+
+---
+
+### Yall. Cash fraud in private hostels
+
+*2025-10-07 11:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-தனியார்-விடுதிகளில்-பண-மோசடி/175-365875) · `ta`
+
+There have been reports that a mob is engaged in massive money laundering by using the names of popular private hostels in Jaffna.
+
+Social websites such as WhatsApp, Viper, Facebook and web sites can be enjoyed with women in popular private hotels in Jaffna, and it costs Rs 10,000 to 20 thousand rupees.
+
+In some women's photos, their faces publish hidden smoke pictures.  When you rely on the telephone numbers in some of the ads, when they ask for details, they get the money in the private hotel, claiming to have a woman in the private hotel.
+
+The telephone number is dysfunctional only after the money -giving people went to the hostels.
+
+As the victims are reluctant to lodge a complaint at the police stations, the gang continues to engage in money laundering.
+
+At the same time, its owners are worried that the gangs are using the names of the popular private lodging hostels in Jaffna on social media and are involved in fraud.
+
+...
+
+[Data](articles/ec784bc8.json)
+
+[Extended Data](ext_articles/ec784bc8.ext.json)
+
+---
+
+### Cultural Fund is time to the committee to 'Pass'
+
+*2025-10-07 11:33:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සසකතක-අරමදල-මගඩ-හයන-කමටවට-තව-කලදය/1-680833) · `si`
+
+The time of the Special Committee appointed to look into the incident of the Cultural Fund (Cultural Fund) has ended on the 30th.
+
+Deputy Minister of Buddha Sasana, Religious Affairs and Cultural Affairs, Dissanayake, said that the term of the committee would continue to extend further investigations into the incident.
+
+The Board of Directors will meet today to meet this regard.
+
+◼️
+
+[Data](articles/18eab839.json)
+
+[Extended Data](ext_articles/18eab839.ext.json)
+
+---
 
 ### Three New Rehabilitation and Treatment Centers to Open Before Year-End
 
@@ -42,6 +296,8 @@ COLOMBO (News 1st): The National Dangerous Drugs Control Board has announced pla
 ◼️
 
 [Data](articles/5f7b8698.json)
+
+[Extended Data](ext_articles/5f7b8698.ext.json)
 
 ---
 
@@ -62,6 +318,24 @@ All hospital has been given money to buy local purchases.
 [Data](articles/405035ac.json)
 
 [Extended Data](ext_articles/405035ac.ext.json)
+
+---
+
+### වකුගඩු රෝගීන්ගේ ලේ මාරු කරන කටු හිඟයක්
+
+*2025-10-07 11:28:13* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වකගඩ-රගනග-ල-මර-කරන-කට-හඟයක/1-680832) · `si`
+
+වකුගඩු රෝගීන්ගේ ලේ මාරු කරන කටු වල හිඟයක් පවතින බව බදුල්ල  දිස්ත්‍රික් මන්ත්‍රී චාමර සම්පත් දසනායක  මහතා පාර්ලිමේන්තුවේදී පැවසීය.
+
+පදවිය රෝහලේ අදාල කටු නොමැති බවට තමාට දැනගන්නට ලැබුණු බව කී මන්ත්‍රීවරයා මුළු රටේම රෝහල්වල තත්ත්වයද එය බව සඳහන් කළේය.
+
+හදාර කටු සැපයීම සඳහා ටෙන්ඩර් ගත්ත සැපයුම්කරුවාගේ වරදක් නිසා ඒ තත්ත්වය නිර්මාණය වී තිබෙනවා.
+
+හැම රෝහලක් සඳහාම ප්‍රාදේශීය මිලදී ගැනීම් කරන්න මුදල් ලබා දී තිබෙනවා.ඔක්තෝබර් 12 වන විට ඒ අවශ්‍යතා සම්පූර්ණ වෙනවා.
+
+◼️
+
+[Data](articles/2aa6152d.json)
 
 ---
 
@@ -142,6 +416,22 @@ Police investigations have revealed that the woman was the first husband and the
 [Data](articles/1d7a68ab.json)
 
 [Extended Data](ext_articles/1d7a68ab.ext.json)
+
+---
+
+### වීදුරු බෝතල් හදන්න හඳුන්නෙත්තිගෙන් ආරාධනයක්
+
+*2025-10-07 10:40:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදර-බතල-හදනන-හඳනනතතගන-ආරධනයක/1-680831) · `si`
+
+වීදුරු බෝතල් නිෂ්පාදනය කිරීමේ කර්මාන්තශාලා පිහිටුවීමට ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා පාර්ලිමේන්තුවේදී අද ව්‍යවසායකයන්ගෙන් ඉල්ලීමක් කළේය .
+
+දැනට රටේ වීදුරු බෝතල් නිෂ්පාදනය කරන කර්මාන්තශාලා ඇත්තේ එකක් පමණක් බවද ඔහු සඳහන් කළේය.
+
+වීදුරු බෝතල් නිෂ්පාදනය කිරීමට ඉදිරිපත් වන්නේ නම් රජය ඔවුනට අත හිත දීමට සූදානම් බව අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/14f29155.json)
 
 ---
 
@@ -311,6 +601,22 @@ Opposition Leader Sajith Premadasa said this in Opposition Leader Mobile Service
 
 ---
 
+### ආණ්ඩුව මැවූ දිව්‍යලෝකය කඩා වැටිලා
+
+*2025-10-07 10:25:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආණඩව-මව-දවයලකය-කඩ-වටල/1-680830) · `si`
+
+පසුගිය මැතිවරණ වලදී රටේ ජනතාවට රජය දිව්‍ය ලෝකයක් මවා පෑවත් දැන් ඒ මවාපෑ දිව්‍ය ලෝකය යථාර්ථයක් කිරීමට නොහැකිව අන්දමන්දව සිටින බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+මේ දිව්‍ය ලෝක සැප මන්ත්‍රිට සහ පාලකයන්ට පමණක් සීමා නොවිය යුතු වුවත් වත්මන් රජයේ මැති ඇමැතිවරුන් නම් දිව්‍ය ලෝකය සාදා ගෙන සිටින බවද හෙතෙම සඳහන් කළේය .
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව කියා සිටියේ අනුරාධපුර දිස්ත්‍රික්කයේ තලාව, නබඩවැව ග්‍රාමයේ නබඩවැව ශ්‍රී බෝධිරුක්කාරාමයේ පැවැති ගමින් ගමට දොරින් දොරට විපක්ෂ නායක ජංගම සේවා වැඩසටහනේදීය
+
+◼️
+
+[Data](articles/450ef0c8.json)
+
+---
+
 ### Suspect Arrested in Mapalagama with Foreign-Manufactured Semi-Automatic Firearm
 
 *2025-10-07 10:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/suspect-arrested-in-mapalagama-with-foreign-manufactured-semi-automatic-firearm) · `en`
@@ -362,6 +668,26 @@ Show our mouths and show prisons, and lose their lives. We do not do politics. B
 [Data](articles/a76014e8.json)
 
 [Extended Data](ext_articles/a76014e8.ext.json)
+
+---
+
+### එයාලට හීනෙනුත් පේන්නේ මමයි තාත්තයි
+
+*2025-10-07 10:19:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/එයලට-හනනත-පනන-මමය-තතතය/1-680829) · `si`
+
+බොරු සාක්ෂි හදලා අපිව හිරේ දාන්න ගියාට සාර්ථක වෙන්නෙ නැතැයි ශ්‍රී ලංකා පොදු ජනපෙරමුණේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ නාමල් රාජපක්ෂ මහතා පැවසීය .
+
+“ජනාධිපතිතුමා ලෝකෙ වටේ සවාරි ගිහිල්ලා ඇවිල්ලා හරියන්නෙ නෑ. රට යන එක හොඳයි, ඒකෙ ප්‍රශ්නයක් නෑ, රාජ්‍ය නායකයා රට නියෝජනය කරමින් ජාත්‍යන්තර සමුළුවලට යන්න ඕනෙ.
+
+අපි ඔවුන් හිටපු මානසිකත්වයේ නෑ. හැබැයි ජාත්‍යන්තර සමුළුවකට යනකොට, ඒ රාජ්‍ය නායකයො මුණගැහෙනකොට ඒවායින් අපිට ලැබෙන ප්‍රතිඵල ගැනත් කියන්න ඕනෙ. හොරාට ගිවිසුම් අත්සන් කරලා කඩේ වහලා ඉන්න එපා.
+
+.දැන් සමහර රටවල් එක්ක ආණ්ඩුව හොර ගිවිසුම් අත්සන් කරලා තියෙනවා කියලා ආණ්ඩුවෙන්ම කියලා තියෙනවා ගිවිසුම දෙන්න බෑ කියලා. දෙන්න බැරිනම් ඒකෙ හංගන්න දෙයක් තියෙනවානෙ ? ඇයි කොලේ වහලා දේශපාලනය කරන්නෙ? දැන් මේ ආණ්ඩුවට වැඩ බැරිවෙනකොට ආණ්ඩුව උත්සාහ කරනවා
+
+අපේ කටවල් වහන්න, හිරගෙවල් පෙන්වන්න, ජීවිතේ නැතිකරන්න. ඒවාට බයේ දේශපාලනය කරන්නෙ නැහැ අපි. බොරු සාක්ෂි හදලා අපිව හිරගෙවල්වල දාන්න උත්සාහ කළත් ඒක සාර්ථක වෙන්නෙ නෑ.
+
+...
+
+[Data](articles/af162bb7.json)
 
 ---
 
@@ -1670,329 +1996,5 @@ Speaking at the opening of the Vipassi Buddhist Centre at the Colombo National H
 [Data](articles/7d61bbe2.json)
 
 [Extended Data](ext_articles/7d61bbe2.ext.json)
-
----
-
-### President opens Somawathi Archaeological Museum, International Archaeological Research Institute
-
-*2025-10-07 02:49:59* · [`dailyftlk`](https://www.ft.lk/news/President-opens-Somawathi-Archaeological-Museum-International-Archaeological-Research-Institute/56-782661) · `en`
-
-President Anura Kumara Disanayake yesterday declared open the newly constructed two-storey building housing the Archaeological Museum and the International Archaeological Research Institute at the historic Somawathi sacred area in Polonnaruwa.
-
-This two-storey building was constructed under the plans and supervision of the Department of Archaeology, following the guidance of the Chief Incumbent of the historic Somawathi Raja Maha Vihara and Registrar of the Mahavihara Vansika Syamopali Maha Nikaya of the Malwatta Chapter, the Most Venerable Dr. Pahamune Sri Sumangala Nayaka Thero.
-
-The project was fully funded through the generous financial contribution of Rathna Group Chairman Mithrapala Lankeshwara to facilitate the convenience of devotees from around the world who visit the historic Somawathi Chaityarajaya in Polonnaruwa where the Sacred Right Tooth Relic of Lord Buddha is enshrined, as well as those engaged in educational and research activities.
-
-...
-
-[Data](articles/e7e4f39e.json)
-
-[Extended Data](ext_articles/e7e4f39e.ext.json)
-
----
-
-### All Island Dairy Association commits support to boost local production
-
-*2025-10-07 02:10:36* · [`dailyftlk`](https://www.ft.lk/business/All-Island-Dairy-Association-commits-support-to-boost-local-production/34-782653) · `en`
-
-Holds fifth AGM with Agriculture Minister K.D. Lalkantha as Chief Guest
-
-The fifth Annual General Meeting (AGM) of the All Island Dairy Association (AIDA) was recently held at The Ceylon Chamber of Commerce in Colombo, with Agriculture Minister K.D. Lalkantha as Chief Guest.
-
-Speaking at the AGM, AIDA President Asoka Bandara thanked the Government for removing the Value Added Tax (VAT) imposed on fresh milk from the last Budget.
-
-He explained the role of the AIDA, which represents the country’s leading dairy collectors and product processors, producers such as large- and medium-scale farms, service providers of the value chain, as well as milk importers.
-
-He stressed that the Association as the main focal point is fully committed towards the country’s dairy development process and is a willing partner to support the Government in achieving these objectives in collaboration with public sector institutions and Governmental authorities.
-
-...
-
-[Data](articles/94e303be.json)
-
-[Extended Data](ext_articles/94e303be.ext.json)
-
----
-
-### KPMG flags urgent compliance prep after SVAT repeal
-
-*2025-10-07 02:04:26* · [`dailyftlk`](https://www.ft.lk/business/KPMG-flags-urgent-compliance-prep-after-SVAT-repeal/34-782652) · `en`
-
-Low- and medium-risk taxpayers will have refunds processed without pre-verification
-
-With the abolition of the Simplified VAT (SVAT) scheme expected to tighten liquidity and trigger short-term cash pressures for exporters and project suppliers, KPMG Sri Lanka is urging firms to begin compliance preparations immediately.
-
-The firm advises businesses to verify their eligibility under the new Risk-Based VAT Refund Scheme, which took effect on 1 October, and ensure operational readiness in the Revenue Administration Management Information System (RAMIS) for electronic refund processing.
-
-The Inland Revenue Department (IRD) has issued a regulation under Section 22(5)(f) of the Value Added Tax Act, No. 14 of 2002 (as amended), introducing “The Operation of Risk-Based Refund Scheme,” effective 1 October.
-
-...
-
-[Data](articles/4fef287a.json)
-
-[Extended Data](ext_articles/4fef287a.ext.json)
-
----
-
-### Xeptagon opens first office at Colombo Port City IT Park
-
-*2025-10-07 02:02:45* · [`dailyftlk`](https://www.ft.lk/business/Xeptagon-opens-first-office-at-Colombo-Port-City-IT-Park/34-782651) · `en`
-
-From left: Co-Founder and CEO Palinda Attanayake, Co-Founder Lien Nguyen, Co-Founder and Director Irandi Panditha, Co-Founder and Adviser Prof. Tuan Phan, Co-Founder and Managing Director Dr. Sapumal Ahangama
-
-Xeptagon has opened its new office at the Colombo Port City Business Centre, becoming the first company to operationalise within the Port City IT Park and the first in the climate finance technology sector to establish a presence there.
-
-This milestone reflects both Sri Lanka’s emergence as a base for innovation and Xeptagon’s growing reputation as an international leader in delivering trusted climate finance infrastructure.
-
-...
-
-[Data](articles/760ee3fa.json)
-
-[Extended Data](ext_articles/760ee3fa.ext.json)
-
----
-
-### Ceylon Specialty Estate Tea  of the Year 2025 charity auction
-
-*2025-10-07 01:58:00* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Specialty-Estate-Tea-of-the-Year-2025-charity-auction/34-782650) · `en`
-
-Sri Lanka showcased the rich diversity of its tea industry at a landmark charity auction of specialty estate teas representing the 7 agro-climatic regions of Sri Lanka. Renowned globally for producing the world’s finest Orthodox black teas, a Charity Tea Sale in celebration of the successful completion of the Sri Lanka Pavilion at EXPO 2025 was held in Osaka, Japan on 26 September.
-
-The charity auction was organised in collaboration with the Sri Lanka Tea Board and the Colombo Tea Traders’ Association, assisted by the Colombo Brokers’ Association, The Planters’ Association of Ceylon and the Sri Lanka Tea Factory Owners Association.
-
-All proceeds from the auction will be dedicated to uplifting the lives of tea estate communities by funding educational programs and health facilities.
-
-This event not only highlights the excellence of Ceylon Tea, but also demonstrates the industry’s deep commitment to social responsibility and sustainable development.
-
-...
-
-[Data](articles/7c734a50.json)
-
-[Extended Data](ext_articles/7c734a50.ext.json)
-
----
-
-### Bernard Philknit unveils ‘Boths  By Bernards’ with new apparel line
-
-*2025-10-07 01:57:12* · [`dailyftlk`](https://www.ft.lk/business/Bernard-Philknit-unveils-Boths-By-Bernards-with-new-apparel-line/34-782649) · `en`
-
-Bernard Philknit (Ceylon) Ltd., has launched its new collection of vests and T-shirts.
-
-This launch marks a significant step in the company’s rebranding efforts, reaffirming commitment to quality and innovation under the new brand identity “Boths By Bernards.”
-
-Under the leadership of Bernards Managing Director Suveksha Botejue, the company has focused on modernising its product range while staying true to the principles of comfort and durability that have made its products a household name.
-
-The new collection, developed at the company’s factory in Colombo, is crafted from the highest quality materials, offering a luxurious feel and exceptional breathability. The designs have been thoughtfully developed to be uniquely comfortable and lengthened for a modern, relaxed fit.
-
-...
-
-[Data](articles/e689f5ac.json)
-
-[Extended Data](ext_articles/e689f5ac.ext.json)
-
----
-
-### SLID and ACCA launch National Director Awards
-
-*2025-10-07 01:27:35* · [`dailyftlk`](https://www.ft.lk/business/SLID-and-ACCA-launch-National-Director-Awards/34-782647) · `en`
-
-The Sri Lanka Institute of Directors (SLID), in collaboration with the Association of Chartered Certified Accountants (ACCA) Sri Lanka, has announced the launch of the SLID – ACCA National Director Awards — a landmark initiative to honour exemplary leadership and governance excellence across Sri Lanka’s corporate sector.
-
-The awards will recognise directors who demonstrate integrity, foresight, and impact, going beyond compliance to set new benchmarks in sustainable value creation and responsible
-
-In an era of rapid economic transformation, robust governance is critical to resilience and long-term growth. The National Director Awards have been established to:
-
-Strengthen stakeholder trust and position Sri Lanka as a hub of responsible corporate leadership in the region.
-
-...
-
-[Data](articles/1beaa583.json)
-
-[Extended Data](ext_articles/1beaa583.ext.json)
-
----
-
-### CM Holdings to dispose Rs. 382.2 m property
-
-*2025-10-07 01:25:18* · [`dailyftlk`](https://www.ft.lk/business/CM-Holdings-to-dispose-Rs-382-2-m-property/34-782646) · `en`
-
-CM Holdings PLC yesterday said that it was seeking shareholder approval to dispose of a 109.2 perches property owned by the company valued at Rs. 382.2 million.
-
-The property located in Thalangama South, Battaramulla was valued in 31 March, the company said.
-
-◼️
-
-[Data](articles/19852e8b.json)
-
-[Extended Data](ext_articles/19852e8b.ext.json)
-
----
-
-### Condemning surveillance, harassment, and intimidation of journalist Kumanan Kanapathipillai
-
-*2025-10-07 00:43:38* · [`dailyftlk`](https://www.ft.lk/opinion/Condemning-surveillance-harassment-and-intimidation-of-journalist-Kumanan-Kanapathipillai/14-782635) · `en`
-
-Following is a statement by a group of members of the civil society condemning the harassment of Kumanan Kanapathipillai by the authorities
-
-We, the undersigned, condemn Sri Lankan authorities’ continuing surveillance, harassment, and intimidation of Kumanan Kanapathipillai, a prominent Tamil photojournalist from Mullaithivu.
-
-...
-
-[Data](articles/1f894d21.json)
-
-[Extended Data](ext_articles/1f894d21.ext.json)
-
----
-
-### Aruni Shapiro introduces Adam Smith to Sri Lanka’s readers
-
-*2025-10-07 00:37:37* · [`dailyftlk`](https://www.ft.lk/columns/Aruni-Shapiro-introduces-Adam-Smith-to-Sri-Lanka-s-readers/4-782633) · `en`
-
-Aruni Shapiro, sociologist cum advocate for liberty, has published her 10th book introducing Adam Smith to Sri Lanka’s Sinhala readers under the title ‘Adam Smith and the Wealth of Nations’.1 Her previous books have been on diverse themes like guide to mental health, translation of fictions, translation of rare but valuable books on economics, and biographies. In 2015, as I have explained in a previous article2, she published the writings of the French economist and statesman in the early 19th century, Frederic Bastiat under the title Libertarian Economics. This was the first attempt to introduce Bastiat to Sri Lankan readers. All the copies numbering about 2000 were distributed freely to interested readers by the publisher, Sri Lanka Frederic Bastiat Society, of which Shapiro was one of the patrons. That shows the extent of her dedication for promoting sound and advanced economic literacy among the fellow Sri Lankans.
-
-...
-
-[Data](articles/87a1d1eb.json)
-
-[Extended Data](ext_articles/87a1d1eb.ext.json)
-
----
-
-### Being Buddhist during genocide
-
-*2025-10-07 00:25:42* · [`dailyftlk`](https://www.ft.lk/columns/Being-Buddhist-during-genocide/4-782632) · `en`
-
-A man sits in the rubble of the collapsed Soussi Tower in Gaza City, which was destroyed last month by Israeli bombardment – (Omar al-Qattaa/AFP)
-
-Yesterday was the Vap Poya (full moon) day. Today, on 7 October, the annual rains retreat (vassāvāsa) ends for Buddhist monastics across the Theravāda world, including those in Sri Lanka. In many temples and monasteries where the monastic residents have spent three months in retreat, following the Vinaya and ancient custom, it is time for the Kaṭhina, the ceremonial offering of a robe.
-
-...
-
-[Data](articles/c2a1efff.json)
-
-[Extended Data](ext_articles/c2a1efff.ext.json)
-
----
-
-### 2025-10-06 (Monday)
-
-### Elevating Sri Lankan brands on the global stage
-
-*2025-10-06 23:03:39* · [`dailyftlk`](https://www.ft.lk/business/Elevating-Sri-Lankan-brands-on-the-global-stage/34-782625) · `en`
-
-Creativity is a driving force behind business growth and cultural influence. Jonathan Joseph, an AOD graduate, exemplifies how Sri Lankan design talent can shape both local and international markets through strategic, commercially-minded creativity.
-
-A graduate of AOD’s BA (Hons) Graphics and Visual Communication Design program, awarded by Northumbria University UK, Jonathan began his journey with the AOD Foundation program, which provided a solid platform for his creative and entrepreneurial development. Today, he runs his own design studio, specialising in brand identity and packaging, and is evolving his practice into Brandkind, a multidisciplinary agency with ambitions to serve global markets across branding, packaging, 3D, and digital design.
-
-...
-
-[Data](articles/f000266a.json)
-
-[Extended Data](ext_articles/f000266a.ext.json)
-
----
-
-### Signature partners CH17 Loyalty to elevate style with rewards
-
-*2025-10-06 23:00:38* · [`dailyftlk`](https://www.ft.lk/business/Signature-partners-CH17-Loyalty-to-elevate-style-with-rewards/34-782624) · `en`
-
-Signature Director Amjad Hameed Marikkar (right) displaying partnership card with CH17 Loyalty CEO Jumar Preena
-
-Loyalty and rewards management platform CH17 Loyalty, has announced its partnership with menswear brand – Signature. CH17 Loyalty CEO Jumar Preena said this collaboration marks yet another step forward in CH17’s mission to deliver unmatched privileges and lifestyle experiences to its growing base of discerning members.
-
-CH17 Loyalty is built on the principle of understanding customer behaviour and aligning rewards with real needs. Menswear remains a high-demand category within Sri Lanka’s retail landscape, particularly among young professionals, executives, and the aspirational middle class.
-
-...
-
-[Data](articles/b20ffc6e.json)
-
-[Extended Data](ext_articles/b20ffc6e.ext.json)
-
----
-
-### New role for singer Alston Koch
-
-*2025-10-06 22:46:00* · [`islandlk`](http://island.lk/new-role-for-singer-alston-koch/) · `en`
-
-Singer Alston Koch, of ‘Disco Lady’ fame, is in the news again, in a big way, but not as a performer!
-
-Reports coming my way indicate that Alston has been appointed Envoy for the Commonwealth Union to Australia and the Pacific Region, and that the appointment came into effect on 03rd October, 2025.
-
-Alston, they say, will represent the Commonwealth Union and promote its objectives in line with the People’s Charter of the Commonwealth, focusing on strengthening regional collaboration, advancing the Commonwealth Union’s mission of inclusivity and sustainability, and fostering greater engagement with communities across Australia and the Pacific.
-
-Alongside his Envoy responsibilities, the singer, I’m told, will also serve as a Consultant to the Commonwealth Union, providing advisory services and acting as a marketing consultant to enhance the Union’s outreach and global presence.
-
-...
-
-[Data](articles/89f1ab19.json)
-
-[Extended Data](ext_articles/89f1ab19.ext.json)
-
----
-
-### Bouquets for Michael de Silva
-
-*2025-10-06 22:43:00* · [`islandlk`](http://island.lk/bouquets-for-michael-de-silva/) · `en`
-
-Ex-Purple Rain Michael de Silva certainly had many eyes focused on him when he performed in Colombo, last month, with a band from Switzerland.
-
-When we highlighted the fact that Michael will be doing his thing in Colombo, even before his arrival, he had plenty of bouquets coming his way, and these are some of the comments that appeared in social media:
-
-One of the best talented musicians – a legend, indeed. All the very best Michael de Silva.
-
-Looking the same Mr. Handsome. Will come to listen to you sing.
-
-A great musician and, most importantly, a great human being.
-
-Congratulations Michael. You are a great legend and we love you.
-
-The Timeless Bloom: How Sri Lanka’s Horton Plains awaken every 12 Years
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/7d79a9ab.json)
-
-[Extended Data](ext_articles/7d79a9ab.ext.json)
-
----
-
-### Vijay Deverakonda
-
-*2025-10-06 22:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விபத்தில்-சிக்கினார்-விஜய்-தேவரகொண்டா/54-365856) · `ta`
-
-Actor Vijay Deverakonda has been hit by an accident in Telangana.
-
-Vijay Deverakonda, one of the leading actors in Telugu cinema, has a lot of fans.
-
-There are reports that she and actress Rashmika Mandana have a romantic relationship and a recent wedding engagement.
-
-In the meantime, Vijay Deverakonda was involved in a car accident in Undavalli, Telangana.
-
-A truck carrying the goats suddenly hit the brake, and the car and another vehicle that went to Vijay Deverakonda were reportedly crashed.
-
-Vijay Deverakonda seems to have survived the wounds without injuries as the car was damaged.
-
-◼️
-
-[Data](articles/bc7b5d68.json)
-
-[Extended Data](ext_articles/bc7b5d68.ext.json)
-
----
-
-### Retail Industry Technology Trends 2025 – Kandy Edition introduces next-gen AI and smart retail solutions
-
-*2025-10-06 22:19:00* · [`islandlk`](http://island.lk/retail-industry-technology-trends-2025-kandy-edition-introduces-next-gen-ai-and-smart-retail-solutions/) · `en`
-
-Retail Information Technologies (RIT), a subsidiary of Sumathi Holdings, recently hosted the high-profile ‘Retail Industry Technology Trends 2025 – Kandy Edition’, bringing together Sri Lanka’s foremost retail and technology leaders. At the event, RIT unveiled its advanced software portfolio, specifically designed to equip the nation’s retail sector with future-ready solutions.
-
-...
-
-[Data](articles/c366340f.json)
-
-[Extended Data](ext_articles/c366340f.ext.json)
 
 ---

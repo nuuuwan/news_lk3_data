@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 19:02:07**
+As of **2025-10-07 19:14:21**
 
 ## Newspaper Stats
 
-*Scraped **81,939** Articles*
+*Scraped **81,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,110 @@ dailyftlk | 5,683
 adalk | 7,829
 adaderanalk | 10,520
 tamilmirrorlk | 12,154
-virakesarilk | 13,490
-adaderanasinhalalk | 14,049
+virakesarilk | 13,512
+adaderanasinhalalk | 14,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,939 (100.0%) of 81,939 articles have been extended.
+81,939 (100.0%) of 81,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### பப்புவா நியூ கினியாவில் சக்திவாய்ந்த நிலநடுக்கம்
+
+*2025-10-07 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/227159) · `ta`
+
+பப்புவா நியூ கினியாவின் சாலமன் கடல் பகுதியில் ரிக்டர் அளவுகோலில் 6.8 ஆக பதிவான சக்திவாய்ந்த நிலநடுக்கம் ஒன்று ஏற்பட்டுள்ளது.
+
+ஜெர்மன் புவியியல் ஆய்வு மையம் (GFZ) தெரிவித்ததன்படி, நிலநடுக்க மையம் கிம்பே நகரத்திற்கு தென்கிழக்கே சுமார் 194 கிலோமீற்றர் தொலைவில், நிலத்தடுக்கு 10 கிமீ ஆழத்தில் அமைந்திருந்தது.
+
+நிலநடுக்கத்திற்குப் பிறகு அமெரிக்க சுனாமி எச்சரிக்கை அமைப்பு சுனாமி எச்சரிக்கை விடுத்திருந்தாலும் பின்னர் அது ரத்து செய்யப்பட்டது.
+
+பப்புவா நியூ கினியா பசிபிக் ரிங் ஆஃப் ஃபயர் பகுதியில் இருப்பதால் இவ்வாறான நிலநடுக்கங்கள் அப்பகுதியில் அடிக்கடி ஏற்படுவது வழக்கமானது. உயிரிழப்புகள் அல்லது பெரும் சேதங்கள் இதுவரை பதிவாகவில்லை.
+
+◼️
+
+[Data](articles/093180d9.json)
+
+---
+
+### ஜனாதிபதிக்கும் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கும் இடையிலான கலந்துரையாடல்
+
+*2025-10-07 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/227151) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கும் இடையிலான கலந்துரையாடல் இன்று செவ்வாய்க்கிழமை (07) முற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+கடன் மறுசீரமைப்பு செயல்பாட்டில் சர்வதேச நாணய நிதியத்தின் ஆறாவது தவணையை வழங்குவதற்கு முன்னதாக நடத்தப்படும் ஐந்தாவது மீளாய்வின் இடைக்காலக்  கலந்துரையாடலாக இது நடத்தப்பட்டது.
+
+பொருளாதார ரீதியாக வங்குரோத்து நிலையிலிருந்த நாட்டை,  அதிலிருந்து விடுவித்து அபிவிருத்தியை நோக்கி இட்டுச் செல்வதே அரசாங்கத்தின் முக்கிய நோக்கமாகும் என்றும், இதற்காக அரசாங்கத்திடம்  மூலோபாயத் திட்டம் இருப்பதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இங்கு தெரிவித்தார்.
+
+இந்த வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்கு, சர்வதேச நாணய நிதியம் வழங்கும் ஆதரவை தான் பெரிதும் பாராட்டுவதாகவும் ஜனாதிபதி குறிப்பிட்டார்.
+
+...
+
+[Data](articles/99299829.json)
+
+---
+
+### රාජ්‍ය ව්‍යාපාරවලින් ලද රු. මිලියන 757.4ක ලාභාංශ භාණ්ඩාගාරයට භාරදෙයි
+
+*2025-10-07 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215443) · `si`
+
+කර්මාන්ත අමාත්‍යාංශය යටතේ පවතින රාජ්‍ය ව්‍යාපාරවලින් ලද රුපියල් මිලියන 757.4ක ලාභාංශ භාණ්ඩාගාරය වෙත භාරදී තිබේ.
+
+අද (07) දින පාර්ලිමේන්තුවේ දී කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත මහතාට සහ මුදල් අමාත්‍යාංශ ලේකම් හර්ෂණ සූරියප්පෙරුම මහතාට මෙම ලාභාංශය නිල වශයෙන් භාර දී ඇත.
+
+කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ පවතින ලංකා මිනරල් සෑන්ඩ්, BCC Lanka Limited, ජාතික ලුණු සමාගම, ලංකා පොස්පේට් සමාගම සහ ලංකා කහටගහ ග්‍රැෆයිට් ලිමිටඩ් යන ආයතන නව රජය යටතේ ලබාගත් ලාභාංශවලින් කොටසක් මෙලෙස භාරදුන් බව සඳහන්ය.
+
+ලංකා මිනරල් සෑන්ඩ් ආයතනය වෙනුවෙන් ආයතනයේ වැඩබලන සභාපති ගයාන් වෙල්ලාල මහතා රුපියල් මිලියන 500ක මුදලක් පසුගිය මාස 9 කාලයේදී ලැබූ ලාභාංශවලින් කොටසක් ලෙස භාණ්ඩාගාරයට ලබාදුනි.
+
+මෙම වර්ෂය අවසාන වන විට රුපියල් බිලියන 5ක ආදායම් ඉලක්කවලට යාමට උත්සාහ කරන බවද වැඩබලන සභාපතිවරයා මෙහිදී ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/30981353.json)
+
+---
+
+### களுத்துறையில் குறைந்த வருமான குடும்பங்களுக்கு வீடுகள் கையளிப்பு
+
+*2025-10-07 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/227155) · `ta`
+
+வீடு கட்ட நிதி வசதி இல்லாத குறைந்த வருமானம் குடும்பங்களுக்கான புதிய அரசாங்க கொள்கையின் அடிப்படையில் செயல்படுத்தப்படும் “சொந்தமாக ஒரு இடம் - ஒரு அழகான வாழ்க்கை” திட்டத்தின் கீழ், களுத்துறை மாவட்டத்தின் மில்லனிய, பண்டாரகம மற்றும் ஹொரண பிரதேச செயலாளர் பிரிவுகளில் வசிக்கும் ஐந்து குறைந்த வருமானம் பெறும் குடும்பங்களுக்காக அரசாங்க உதவியுடன் கட்டப்பட்ட வீடுகளை கையளிக்கும் நிகழ்வு நேற்று திங்கட்கிழமை (6) பிற்பகல் சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தலைமையில் நடைபெற்றது.
+
+மில்லனிய பிரதேச செயலாளர் பிரிவில் உள்ள வெனிவெல்பிட்டிய மற்றும் பண்டாரகம பிரதேச செயலாளர் பிரிவில் உள்ள யட்டியான மற்றும் சேனபுர கிராமங்களில் வசிக்கும் மூன்று குறைந்த வருமானம் பெறும் குடும்பங்களுக்காக கட்டப்பட்ட வீடுகளின் சாவிகளை அமைச்சர் வழங்கினார்.
+
+ஹொரண பிரதேச செயலகப் பிரிவின் கும்புக, கிழக்கு மற்றும் கோனபொல கிராமங்களில் குறைந்த வருமானம் பெறும் குடும்பங்களுக்காக கட்டப்பட்ட இரண்டு வீடுகளின் சாவிகளை அமைச்சர் வழங்கினார்.
+
+...
+
+[Data](articles/13c9053f.json)
+
+---
+
+### வாழைச்சேனையில் அதிகளவு ஐஸ் போதைப்பொருளுடன் இளம் தம்பதி கைது
+
+*2025-10-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227157) · `ta`
+
+மட்டக்களப்பு வாழைச்சேனை பிரதேசத்தில் 2030 கிராம் ஐஸ் போதைப்பொருளுடன் இளம் தம்பதி திங்கட்கிழமை (6) மாலை வாழைச்சேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கிழக்கு மாகாணத்தில் ஆகக்கூடிய தொகையிலான ஐஸ் போதைப்பொருள் இதன்போது முதல் முறையாக கைப்பற்றப்பட்டுள்ளதாக  வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+
+வாழைச்சேனை உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸுக்கு கிடைத்த தகவலின் அடிப்படையில் அவர் தலைமையிலான பொலிஸ் குழு நேற்று மாலை 4.30 மணியளவில் சம்பவ இடத்துக்குச் சென்று, உதவி பொலிஸ் அத்தியட்சகர் கரியாலயத்துக்கு அருகில் கண்காணிப்பில் ஈடுபட்டது.
+
+அவ்வேளை கல்குடாவில் இருந்து ஐஸ் போதைப்பொருளை முச்சக்கரவண்டியில் எடுத்துச்சென்ற கணவன், மனைவி ஆகிய இருவரை பொலிஸார் சுற்றிவளைத்து மடக்கிப் பிடித்தனர்.
+
+இதனையடுத்து, அவர்களிடமிருந்து 2030 கிராம் ஐஸ் போதைப்பொருள் மற்றும் முச்சக்கரவண்டி ஆகியன கைப்பற்றப்பட்டதையடுத்து, சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+
+...
+
+[Data](articles/c7e33378.json)
+
+---
 
 ### Sri Lanka's economic resource is still incomplete - World Bank
 
@@ -161,6 +253,20 @@ The President pointed out that the government had identified the need to exceed 
 
 ---
 
+### பௌதீகவியலுக்கான நோபல் பரிசு 3 பேருக்கு அறிவிப்பு
+
+*2025-10-07 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227154) · `ta`
+
+அமெரிக்காவை சேர்ந்த ஜான் கிளார்க், மிச்செல் எச்.தேவோரெத் மற்றும் ஜான் எம். மார்டினிஸ் ஆகியோருக்கு பௌதீகவியலுக்கான நோபல் பரிசு பகிர்ந்து அளிக்கப்பட உள்ளது.
+
+2025-ம் ஆண்டுக்கான நோபல் பரிசு பெறுவோர் விவரங்கள் திங்கட்கிழமை முதல் அறிவிக்கப்பட்டு வருகின்றன. முதல் நாளான நேற்று மருத்துவத்துக்கான நோபல் பரிசு அறிவிக்கப்பட்டது. இதன்படி, இந்த ஆண்டின் மருத்துவத்துக்கான நோபல் பரிசு 3 பேருக்கு பகிர்ந்தளிக்கப்படும் என அறிவிக்கப்பட்டுள்ளது.  புற நோயெதிர்ப்பு சகிப்புத்தன்மை தொடர்பான கண்டுபிடிப்புகளுக்காக மேரி இ. பிரன்கோவ், பிரெட் ராம்ஸ்டெல் மற்றும் ஷிமோன் சகாகுச்சி ஆகியோருக்கு 2025-ம் ஆண்டின் மருத்துவத்துக்கான நோபல் பரிசு வழங்கப்படும் என அறிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c587af24.json)
+
+---
+
 ### Kajja Worked At MoD During Thajudeen Murder
 
 *2025-10-07 17:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/kajja-worked-at-mod-during-thajudeen-murder) · `en`
@@ -170,6 +276,40 @@ The President pointed out that the government had identified the need to exceed 
 [Data](articles/aad1f350.json)
 
 [Extended Data](ext_articles/aad1f350.ext.json)
+
+---
+
+### இலஞ்ச ஊழல் ஆணைக்குழுவுக்கான நியமனம் தொடர்பில் ஜீவன் தொண்டமான், சாணக்கியன், தயாசிறி ஜயசேகர சபையில் எதிர்ப்பு!
+
+*2025-10-07 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/227153) · `ta`
+
+இலஞ்ச ஊழல் ஆணைக்குழுவுக்கான அரச நியமனத்தை எதிர்த்து, எதிர்க்கட்சியைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்களான ஜீவன் தொண்டமான், சாணக்கியன், தயாசிறி ஜயசேகர ஆகியோர் இன்று (7) நடைபெற்ற பாராளுமன்ற அமர்வில் கடும் கண்டனங்களை பதிவு செய்திருந்தனர்.
+
+அரசாங்கத்தினால் அண்மையில் வழங்கப்பட்ட இலஞ்ச ஊழல் ஆணைக்குழுவின் புதிய பணிப்பாளர் நாயகத்தின் நியமனம் குறித்து கேள்வி எழுப்பிய உறுப்பினர்கள் இந்நியமனம் சுதந்திரத்தையும் நியாயத்தையும் புறக்கணிப்பதாக குற்றஞ்சாட்டினர்.
+
+மேலும், எதிர்க்கட்சியைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்களான ஜீவன் தொண்டமான், சாணக்கியன், தயாசிறி ஜயசேகர ஆகியோர் கருத்து தெரிவித்தபோதிலும், எதிர்க்கட்சியைச் சேர்ந்த ஏனைய உறுப்பினர்கள் மௌனமாக இருந்தனர்.
+
+◼️
+
+[Data](articles/e188d0f2.json)
+
+---
+
+### போதைப்பொருள், ஊழலுக்கு எதிராக நடவடிக்கைகள் எடுத்தபோதிலும் தமிழர்களுக்கு தீர்வு வழங்க அரசு நடவடிக்கை எடுக்கவில்லை - இ.சிறிநாத்
+
+*2025-10-07 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/227152) · `ta`
+
+புதிய அரசாங்கத்தினால் பல்வேறு வகையான அபிவிருத்தித் திட்டங்களும் போதைப்பொருள், ஊழலுக்கு எதிராக பல நடவடிக்கைகளும் எடுக்கப்பட்டாலும் தமிழ் மக்களுக்கான நியாயமான தீர்வினை வழங்குவதற்கான எந்த நடவடிக்கையும் எடுக்கப்படாத சூழ்நிலையே காணப்படுவதாக இலங்கை தமிழ் அரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் வைத்தியர் இ.சிறிநாத் தெரிவித்தார்.
+
+இந்த நாட்டில் அனைத்து இன மக்களும் சமமாக மதிக்கப்படவேண்டும் எனக் கூறுகின்ற அரசாங்கம் தமிழ் மக்களுக்கான தீர்வினை வழங்குவதற்கான தயக்கத்தினை காட்டி நிற்பதையே நாங்கள் காண்கின்றோம் எனவும் தெரிவித்தார்.
+
+மட்டக்களப்பு செங்கலடி ஐயங்கேணி பகுதியில் அமைந்துள்ள வடபத்திரகாளி அம்மாள் ஆலயத்துக்கான கட்டட நிர்மானத்திற்கான அடிக்கல் நடும் நிகழ்வு இன்று செவ்வாய்க்கிழமை (7) நடைபெற்றது.
+
+ஆலய நிர்வாகத்தினரின் ஏற்பாட்டிலும் கோயில் பூசகரின் தலைமையிலும் நடைபெற்ற இந்த நிகழ்வில் பாராளுமன்ற உறுப்பினர் வைத்தியர் சிறிநாத் பிரதம அதிதியாக கலந்துகொண்டார்.
+
+...
+
+[Data](articles/1a4a3f49.json)
 
 ---
 
@@ -275,6 +415,26 @@ She said most of the total number of dengue patients were reported from the West
 
 ---
 
+### சிகை அலங்கரிப்பாளர்களும் தொழில்வாண்மை மிகுந்தவர்களாக மாறவேண்டும் -   வடக்கு மாகாண ஆளுநர் வேதநாயகன்
+
+*2025-10-07 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/227150) · `ta`
+
+எமது மாகாணத்திலுள்ள சிகை அலங்கரிப்பாளர்களும் தொழில்வாண்மை மிகுந்தவர்களாக தற்போதைய யுகத்துக்கு ஏற்றவர்களாக மாறவேண்டும். தேசிய பயிலுநர் மற்றும் கைத்தொழிற் பயிற்சி அதிகார சபை (NAITA) அதனைச் செய்வதற்குத் தயாராக இருக்கின்றது. அதனைப் பயன்படுத்தி தேசிய தொழில்முறை தகுதிச் சான்றிதழை (NVQ) எல்லோரும் பெற்றுக்கொள்ள வேண்டும். இவ்வாறு வடக்கு மாகாண  ஆளுநர் நா.வேதநாயகன்  தெரிவித்தார்.
+
+யாழ். மாவட்ட சிகை ஒப்பனையாளர் கூட்டுறவுச் சங்கங்களின் சமாசத்தின் பொதுக்கூட்டம் தந்தைசெல்வா அரங்கில்  செவ்வாய்க்கிழமை  (07) நடைபெற்றது.
+
+இந்த நிகழ்வில் பிரதம விருந்தினராகக் கலந்துகொண்ட ஆளுநர் தனது உரையில் மேலும் தெரிவித்ததாவது,
+
+நான் ஆளுநராகப் பதவியேற்ற பின்னர் இரண்டு தடவைகள் உங்கள் சங்கத்தினர் என்னை வந்து சந்தித்திருந்தார்கள். சங்க அங்கத்தவர்களிடையே கட்டுப்பாடு நடைமுறைப்படுத்தப்பட வேண்டும் என்பதில் ஆர்வமாக இருந்தார்கள்.
+
+குறிப்பாக பாடசாலை மாணவர்களுக்கான தலைமுடி அலங்காரம் தொடர்பில் இறுக்கமான – ஒழுக்கமான நடைமுறை தேவை என அவர்கள் வலியுறுத்தியிருந்தார்கள்.
+
+...
+
+[Data](articles/96381c2d.json)
+
+---
+
 ### Papua New Guinea
 
 *2025-10-07 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215439) · `si`
@@ -288,6 +448,22 @@ Foreign media reports that the US tsunami alarm system has not issued a tsunami 
 [Data](articles/c1d13d74.json)
 
 [Extended Data](ext_articles/c1d13d74.ext.json)
+
+---
+
+### இன அழிப்புக்கு நியாயம் கோரி பாலஸ்தீன கொடிகளுடன் மட்டக்களப்பில் கவனயீர்ப்பு
+
+*2025-10-07 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227145) · `ta`
+
+மட்டக்களப்பில் காசா யுத்தத்தின் மூன்று வருட நினைவு நாளை முன்னிட்டு இன அழிப்புக்கு நியாயம் கோரியும் தனி நாடாக பிரகடனப்படுத்தி கோரி 1245 வது நாள் நியாய பயணத்தின் ஊடாக பலஸ்தீன கொடிகளை ஏந்தியவாறு  பெண்கள்  இன்று செவ்வாய்க்கிழமை (07) கல்லடி பாலத்துக்கு அருகில் உள்ள செபஸ்தியார் ஆலயத்தில் இருந்து காந்தி பூங்கா வரையும் கவனயீர்ப்பு நடைபயணம் இடம்பெற்றது.
+
+மட்டக்களப்பு கல்லடி பாலத்துக்கு அருகில் உள்ள செபஸ்தியார் ஆலயத்தில் இருந்து காந்தி பூங்கா வரையும் நீதி நியாயம் கோரி தொடர்ந்து 1245 வது நாள் நியாய பயணம் என்ற தொனிப்பொருளில் அநீதிகள் படுகொலைகளுக்கு எதிரான சுலோகங்கள் ஏந்தியவாறு பெண்கள் அமைப்பு நடைபயணம் மேற்கொண்டு வருகின்றது
+
+இந்நிலையில் இன்று காசா யுத்தம் தொடங்கி மூன்று வருட நினைவை முன்னிட்டு பெண்கள் நியாய பயணம் அமைப்புடன் கல்லடி பாலத்துக்கு அருகே உள்ள செபஸ்தியார் ஆலயத்தில்  முன்னாள்   பெண்கள்  ஒன்று சேர்ந்தனர்.
+
+...
+
+[Data](articles/d834b5f1.json)
 
 ---
 
@@ -374,6 +550,40 @@ The Minister made these remarks in response to public discussions surrounding th
 [Data](articles/c4ee54fe.json)
 
 [Extended Data](ext_articles/c4ee54fe.ext.json)
+
+---
+
+### கிழக்கு ஆளுநர் அலுவலகத்துக்கு முன் ஒன்றுதிரண்ட தனியார் பேருந்து உரிமையாளர்கள், சாரதிகள், நடத்துநர்கள்!
+
+*2025-10-07 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/227146) · `ta`
+
+திருகோணமலை முதல் அக்கரைப்பற்று வரை சேவையில் ஈடுபடும் தனியார் பேருந்துகளின் உரிமையாளர்கள், சாரதிகள் மற்றும் நடத்துநர்கள் இணைந்து இன்று (7) கிழக்கு மாகாண ஆளுநர் அலுவலகத்துக்கு முன்னால் பேருந்துகளை நிறுத்திவைத்து ஆர்ப்பாட்டத்தில் ஈடுபட்டதைத் தொடர்ந்து, போராட்டத்தை கைவிடுவதாகவும் அறிவித்துள்ளனர்.
+
+கிழக்கு மாகாண தனியார் பயணிகள் போக்குவரத்து அதிகார சபையினால் முன்வைக்கப்பட்டு, நடைமுறைப்படுத்தப்படவிருந்த நேர அட்டவணைக்கு எதிர்ப்பு தெரிவித்து இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+
+இன்று முதல் தொடர்ச்சியாக ஆர்ப்பாட்டத்தில் ஈடுபடுவதாக அறிவிக்கப்பட்டிருந்த நிலையில்,  நடைமுறைப்படுத்தவிருந்த நேர அட்டவணை தற்காலிகமாக கைவிடப்படுவதாக கிழக்கு மாகாண ஆளுநர் அளித்த உறுதிமொழியை சுட்டிக்காட்டி, போராட்டத்தை தற்காலிகமாக கைவிடுவதாக, போராட்டத்தை ஒழுங்கமைத்த தென்கிழக்கு கரையோர பிரதேச தனியார் பஸ் உரிமையாளர் சங்கத்தின் செயலாளர் எம்.எஸ்.பைரூஸ் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/45dcf41e.json)
+
+---
+
+### “அரசன்“ ஆன சிலம்பரசன்
+
+*2025-10-07 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/227149) · `ta`
+
+சிலம்பரசன் டி ஆர் நடிப்பில் வெற்றிமாறன் இயக்கத்தில் கலைப்புலி எஸ் தாணுவின் தயாரிப்பில் உருவாகி வரும் புதிய திரைப்படத்திற்கு, 'அரசன்' என பெயரிடப்பட்டு, அதற்கான அறிவிப்பினை பிரத்யேக புகைப்படத்தை வெளியிட்டு படக் குழுவினர் உற்சாகத்துடன் அறிவித்துள்ளனர்.
+
+இந்திய திரையுலகில் சாதனையாளர்களாக வலம் வரும் இயக்குநர் வெற்றிமாறன் - தயாரிப்பாளர் கலைப்புலி எஸ் தாணு-   சிலம்பரசன் டி ஆர் ஆகியோர் இணைந்து '#STR 49 'எனும் பெயரில் தொடங்கிய திரைப்படம் தொடர்பான அதிகாரப்பூர்வ அறிவிப்பு எப்போது வெளியாகும்? என்ற ஆவல் ரசிகர்களிடம் இருந்தது.
+
+இந்நிலையில் இந்த சாதனை கூட்டணியில் உருவாகும் படத்திற்கு 'அரசன்' என பெயரிடப்பட்டிருப்பதாக மகிழ்ச்சியுடன் பகிர்ந்து கொண்டதுடன்.. படத்தை பற்றிய அதிலும் குறிப்பாக சிலம்பரசனின் கதாபாத்திரம் குறித்த தோற்றத்தை குறியீடாக வெளியிட்டு, ரசிகர்களை படக்குழுவினர் உற்சாகப்படுத்தி இருக்கிறார்கள்.
+
+இப்படத்தில் நடிக்கும் ஏனைய நடிகர்கள், நடிகைகள் மற்றும் பணியாற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த அதிகாரப்பூர்வமான விவரங்கள் விரைவில் வெளியிடப்படும் என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a00919da.json)
 
 ---
 
@@ -473,6 +683,24 @@ However, the Minister said that the telephone of the Rambukkana section of the R
 
 ---
 
+### கொட்டகலையில் இரண்டு மோட்டார் சைக்கிள்கள் நேருக்கு நேர் மோதி விபத்து
+
+*2025-10-07 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/227147) · `ta`
+
+இரண்டு மோட்டார் சைக்கிள்கள் நேருக்கு நேர் மோதிக்கொண்ட விபத்தில் மோட்டார் சைக்கிள் சாரதிகள் இருவர் காயமடைந்து கொட்டகலை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக திம்புள்ள பத்தனை பொலிஸார் தெரிவித்தனர்.
+
+தலவாக்கலையில் இருந்து ஹட்டன் நோக்கியும், ஹட்டனில் இருந்து கொட்டகலை நோக்கியும் பயணித்த இரண்டு மோட்டார் சைக்கிள்கள் கொட்டகலை நகர மைய பகுதியில் நேருக்கு நேர் மோதியதில் இந்த விபத்து இன்று செவ்வாய்க்கிழமை (07) இடம்பெற்றுள்ளது.
+
+ஹட்டனில் இருந்து கொட்டகலை நோக்கி பயணித்த மோட்டார் சைக்கிள், அதே திசையில் பயணித்த முச்சக்கர வண்டியை முந்திச் செல்ல முயன்றபோது, எதிர் திசையில் வந்த மோட்டார் சைக்கிள் மீது மோதியதாக திம்புள்ள பத்தனை பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் இரண்டு மோட்டார் சைக்கிள்களும் பலத்த சேதமடைந்துள்ளன. விபத்து குறித்து திம்புள்ள பத்தனை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/554a8974.json)
+
+---
+
 ### Special training for tourist three-wheelers
 
 *2025-10-07 16:42:11* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සචරක-තරරද-රයදරනට-වශෂ-පහණවක/1-680875) · `si`
@@ -509,6 +737,22 @@ One of its training programs will be held at Hector Kobbekaduwa Agrarian Researc
 
 ---
 
+### கவின் நடிக்கும் 'மாஸ்க்' படத்தின் அப்டேட்
+
+*2025-10-07 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/227148) · `ta`
+
+நட்சத்திர நடிகராக வலம் வருவதற்கு கடுமையான சவால்களை சந்தித்து கொண்டிருக்கும் நடிகர் கவின் கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் 'மாஸ்க்' எனும் திரைப்படத்தில் இடம்பெற்ற 'கண்ணுமுழி..' எனும் முதல் பாடலையும் , பாடலுக்கான லிரிக்கல் விடியோவையும் படக் குழுவினர் வெளியிட்டுள்ளனர்.
+
+இயக்குநர் விகர்ணன் அசோக் இயக்கத்தில் உருவாகி உள்ள 'மாஸ்க்' எனும் திரைப்படத்தில் கவின், ஆண்ட்ரியா ஜெர்மியா, ருஹானி சர்மா, அர்ச்சனா சந்தோக், பால சரவணன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஆர். டி. ராஜசேகர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+
+வட இந்திய இளம் பெண்ணுக்கும், தமிழ் பையனுக்கும் இடையேயான காதலை உணர்வுபூர்வமாக பேசும் இந்தத் திரைப்படத்தை தி ஷோ மஸ்ட் கோ ஆன் - பிளாக் மெட்ராஸ் ஃபிலிம்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் ஆண்ட்ரியா ஜெர்மயா மற்றும் எஸ். பி. சொக்கலிங்கம் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/331df42d.json)
+
+---
+
 ### Seven Students Hospitalized After Chemical Incident at Dambulla School
 
 *2025-10-07 16:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/seven-students-hospitalized-after-chemical-incident-at-dambulla-school) · `en`
@@ -537,6 +781,24 @@ Police have issued a statement to inform the public on financial irregularities 
 
 ---
 
+### இரண்டு மாடி வீட்டில் இயங்கி வந்த சட்டவிரோத மதுபான உற்பத்தி நிலையம் சுற்றிவளைப்பு!
+
+*2025-10-07 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/227143) · `ta`
+
+பாணந்துறை - பின்வத்த பிரதேசத்தில் உள்ள இரண்டுமாடி வீடொன்றில்  இயங்கி வந்த சட்டவிரோத மதுபான உற்பத்தி நிலையம் ஒன்றை பின்வத்த பொலிஸார் நேற்று திங்கட்கிழமை (06) இரவு  சுற்றிவளைத்துள்ளனர்.
+
+இந்த சுற்றிவளைப்பின் போது அங்கு இருந்த இரண்டு சந்தேக நபர்கள் பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளார்.
+
+குறித்த இரண்டுமாடி வீட்டிலிருந்து 200 லீற்றர் கோடா, 2 எரிவாயு அடுப்புகள், சிலிண்டர் உள்ளிட்ட பல்வேறு பொருட்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+சந்தேக நபர்கள் இருவரும் சட்டவிரோத மதுபானத்தை உற்பத்தி செய்து வாதுவை, பாணந்துறை, பண்டாரகம மற்றும் வஸ்கடுவ உள்ளிட்ட பல பிரதேசங்களுக்கு விற்பனை செய்து வந்துள்ளதாக பொலிஸாரின் விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/27f9394b.json)
+
+---
+
 ### 2025 Nobel Prize in Physics Awarded for Groundbreaking Discovery in Macroscopic Quantum Mechanics
 
 *2025-10-07 16:33:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/2025-nobel-prize-in-physics-awarded-for-groundbreaking-discovery-in-macroscopic-quantum-mechanics) · `en`
@@ -558,6 +820,18 @@ A major question in physics is the maximum size of a system that can demonstrate
 [Data](articles/1a0d0bfb.json)
 
 [Extended Data](ext_articles/1a0d0bfb.ext.json)
+
+---
+
+### ரசிகர்களை 'முதல் நாள் முதல் காட்சி'க்காக தயார்படுத்தும் சிவகார்த்திகேயனின் 'பராசக்தி' படக் குழு
+
+*2025-10-07 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/227144) · `ta`
+
+தமிழ் சினிமாவில் முன்னணி நட்சத்திர நடிகராக திகழ்ந்த விஜய்- தீவிர அரசியலில் இறங்கி, அதில் மக்கள் நல பணியை மேற்கொண்டு வருவதால்... காலியான அந்த நட்சத்திர இடத்தை தொடுவதற்காக பகீரத பிரயத்தனம் மேற்கொண்டிருக்கும் நடிகர் சிவகார்த்திகேயன் நடிப்பில் உருவாகி வரும் 'பராசக்தி' படத்தை 'முதல் நாள் முதல் காட்சி'யில் ரசிகர்களை பட மாளிகைக்கு வரவழைப்பதற்காக படக்குழு - நூறு நாள் முன்பாகவே ரசிகர்களை உளவியல் ரீதியாக தயார்படுத்துகிறது. இதற்காக படக்குழுவினர் 'இன்னும் நூறு நாட்களே உள்ளன..' என்ற ரீதியில் பிரத்யேக போஸ்டரை வெளியிட்டு, ரசிகர்களின் கவனத்தை ஈர்த்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/1316af84.json)
 
 ---
 
@@ -583,6 +857,26 @@ The National Commemoration Festival will be held tomorrow (08) at the Sri Lanka 
 
 ---
 
+### நாங்கள் இந்த சிங்கள பௌத்த ஆட்சியாளர்களை நம்பவே மாட்டோம் - சிவாஜிலிங்கம் இடித்துரைப்பு!
+
+*2025-10-07 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/227141) · `ta`
+
+தொடர்ந்தும் எங்களுடைய மக்கள் போராடுவார்கள் நாங்கள் இந்த சிங்கள பௌத்த ஆட்சியாளர்களை நம்ப மாட்டோம் என முன்னாள் நாடாளுமன்ற உறுப்பினர் எம்.கே.சிவாஜிலிங்கம் கூறியுள்ளார்.
+
+யாழ்ப்பாணம் - வலிகாமம், தையிட்டி பகுதியில் அமைந்துள்ள, திஸ்ஸ விகாரைக்கு எதிராக இன்று செவ்வாய்க்கிழமை (07) போராட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+
+சட்ட விரோதமாக தனியார் காணிகளை ஆக்கிரமிப்பு செய்து கட்டப்பட்ட திஸ்ஸ விகாரையை அகற்றுமாறும், இப்பிரதேச மக்களும் தமிழ் தேசிய மக்கள் முன்னணியினரும் ஒவ்வொரு பௌர்ணமி தினமும் போராடிக்கொண்டு இருக்கின்றனர்.
+
+தேசிய மக்கள் சக்தி அரசின் ஆட்சி ஒரு வருடம் நிறைவு பெற்றதன் பின்னரும் ஆராய்கிறோம் ஆராய்கிறோம் என கூறி, கடந்த கால சிங்கள பௌத்த ஆட்சியாளர்களை போலவே தாங்களும் இருக்கின்றோம் என எமக்கு தெளிவாக புரியவைக்கின்றனர்.
+
+இப்பொழுது விகாரையை அகற்ற முடியாது என கூறும் நிலைமை காணப்படுகிறது. இதனை பற்றி தீர்மானிக்கவே இவ்வளவு காலம் எடுப்பது என்றால் ஆக்கிரமிப்பை தொடர்ந்து நடத்தும் போது பொது மக்கள் களைப்படைவார்கள் இல்லை என்றால் இதனை கை விடுவார்கள் எனும் எண்ணத்தில் தான் இழுத்தடிக்கிறார்களோ தெரியவில்லை.
+
+...
+
+[Data](articles/99bccd72.json)
+
+---
+
 ### The mother -in -law of the mother -in -law:
 
 *2025-10-07 16:23:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகனின்-உள்ளாடையை-எடுத்து-மாமியார்-செய்த-அசிங்கம்-பார்த்து-அதிர்ந்த-மாமனார்/175-365904) · `ta`
@@ -603,6 +897,66 @@ Shivani's father Narayana Singh says, “I have two women and two sons. Both wom
 
 ---
 
+### படத் தொகுப்பாளர் அண்டனி வெளியிட்ட 'தடை அதை உடை 'படத்தின் பிரத்யேக காணொலி
+
+*2025-10-07 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/227142) · `ta`
+
+'அங்காடித்தெரு' மகேஷ் - அறிமுக நடிகர் குணா பாபு ஆகியோர் கதையின் நாயகர்களாக நடித்திருக்கும்' தடை அதை உடை' எனும் திரைப்படத்தின் பிரத்யேக காணொளி வெளியிடப்பட்டுள்ளது. இதனை சர்வதேச விருதுகளை வென்ற படத்தொகுப்பாளரும், இயக்குநருமான அண்டனி- அவருடைய சமூக வலைதள பக்கத்தில் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+இயக்குநர் அறிவழகன் முருகேசன் இயக்கத்தில் உருவாகியுள்ள 'தடை அதை உடை' எனும் திரைப்படத்தில் மகேஷ், குணா பாபு ,திருவாரூர் கணேஷ், மகாதீர் முஹம்மத் , கே. எம். பாரிவள்ளல், கௌதமி வேம்பு நாதன்,  நாகராஜ், அம்பாள் சதீஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். தங்கபாண்டியன் மற்றும் சோட்டா மணிகண்டன் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு பி சாய் சுந்தர் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை காந்திமதி பிக்சர்ஸ் நிறுவனம்  தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/6fa416a2.json)
+
+---
+
+### போராட்டக்காலத்தில் மக்களை எழுச்சிகொள்ள வைத்த கலை, இலக்கியங்கள் இப்போது ஊமையாக இருப்பது வருத்தமளிக்கிறது - பொ. ஐங்கரநேசன் ஆதங்கம்!
+
+*2025-10-07 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227139) · `ta`
+
+தமிழ்த்தேசிய விடுதலைப் போராட்டத்தில் கலை, இலக்கியங்கள் அளப்பெரிய பணிகளை ஆற்றியிருக்கின்றன. போர்க்களத்தில் ஆயுதங்கள் பேசியபோது மக்கள் களத்தில் நின்று கலை, இலக்கியங்கள் பேசின, போராட்டங்களின் நியாயங்களையும், வலிகளையும் சொல்லி மக்களை எழுச்சிகொள்ள வைத்து அவர்களைத் தேசமாக ஒருங்கிணைத்ததில் கலை, இலக்கியங்கள் பெரும் பங்களிப்புகளைச் செய்தன. ஆனால், முள்ளிவாய்க்காலில் ஆயுதங்கள் மௌனித்ததோடு, எமது கலை, இலக்கியங்களும் மூச்சிழந்து விட்டன கலை, இலக்கியங்கள் பேசவேண்டிய விடயங்கள் இன்னும் ஏராளம் இருக்க, அவை ஊமையாக இருப்பது வருத்தமளிக்கிறது என்று தமிழ்த்தேசியப் பசுமை இயக்கத்தின் தலைவரும், 'வேர்முகங்கள்' நூலின் ஆசிரியருமான பொ. ஐங்கரநேசன் தனது ஆதங்கத்தை வெளிப்படுத்தியுள்ளார்.
+
+பொ. ஐங்கரநேசன் கலை, இலக்கிய ஆளுமைகளுடன் நிகழ்த்திய நேர்காணல்களின் தொகுப்பான 'வேர்முகங்கள்' நூலின் அறிமுகவிழா கடந்த ஞாயிற்றுக்கிழமை (05) முள்ளியவளை பரி-மத்தியா ஆலய மண்டபத்தில் நடைபெற்றது. இவ்விழாவில் ஏற்புரை ஆற்றியபோதே பொ. ஐங்கரநேசன் இவ்வாறு தனது ஆதங்கத்தை வெளிப்படுத்தியுள்ளார்.
+
+...
+
+[Data](articles/af179eb8.json)
+
+---
+
+### மட்டக்களப்பு மாவட்டத்தின் புதிய பொலிஸ் மா அதிபராக பொறுப்பேற்றார் டபிள்யூ.யு.டி கினிகே
+
+*2025-10-07 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/227137) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் புதிய உதவி பொலிஸ் மா அதிபராக நியமிக்கப்பட்ட  டபிள்யூ.யு.டி கினிகே தனது கடமைகளை செவ்வாய்க்கிழமை (07) சம்பிரதாயபூர்வமாக பொறுப்பேற்றுக் கொண்டார்.
+
+மாவட்டத்தில் உதவி பொலிஸ் மா அதிபராக கடமையற்றிவந்த எம்.என்.எஸ்.நுவான்மெண்டிஸ் இடமாற்றம் பெற்று சென்றதையடுத்து இந்த வெற்றிடத்துக்கு புதிய உதவி பொலிஸ் மா அதிபராக டபிள்யூ.யு.டி கினிகே நியமிக்கப்பட்டார்.
+
+இதனையடுத்து அவர் தனது கடமைகளை பொறுப்பேற்கும் நிகழ்வு மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகர்  லலித் லீலாரத்ன தலைமையில் இடம்பெற்றது.
+
+இதில் 15 பொலிஸ் நிலையங்களின் பொறுப்பதிகாரிகள், மற்றும் உதவி பொலிஸ் அத்தியட்சகர்  உட்பட அதிகாரிகள் பங்குபற்றனர்.
+
+இதன் போது அவருக்கு பொலிஸ் அணிவகுப்பு மரியாதை வழங்கப்பட்டு சர்வ மதங்களைச் சேர்ந்த குருமார்களின் ஆசீர்வாதத்துடன் அவர் கடமையை பொறுப்பேற்றுக் கொண்டார்.
+
+◼️
+
+[Data](articles/f5a1a253.json)
+
+---
+
+### “தவறு என்னுடையது அல்ல..." : பெண்கள் தமக்குத் தாமே வலுப்பெற்று, வளம் பெறவேண்டும் - உள மருத்துவ நிபுணர் எஸ்.சிவதாஸ்
+
+*2025-10-07 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/227126) · `ta`
+
+“பாதிக்கப்பட்டவள்" என்று காலகாலமாக சமூகத்தில் சொல்லப்பட்டு வருகிறது. உண்மையில், அவள் “பாதிக்கப்பட்டவள்" அல்ல. ஏன் பாதிக்கப்படவேண்டும்? தவறு செய்த குற்றவாளி ஒருவன் இருக்க, செய்யாத தவறுக்கு தன்னைத் தானே ஏன் வருத்திக்கொள்ளவேண்டும்?" என மனப்போராட்டங்களில் சிக்கித் தவிக்கும் பெண்களையும் அவர்கள் சார்ந்திருக்கும் சமூகத்தையும் நோக்கி கேள்வி எழுப்புகிறார் யாழ்ப்பாணம் போதனா வைத்தியசாலையின் உள மருத்துவ நிபுணர் எஸ்.சிவதாஸ்.
+
+◼️
+
+[Data](articles/2e0938a2.json)
+
+---
+
 ### 3 scientists prize Physics' Nobel Prize
 
 *2025-10-07 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215437) · `si`
@@ -618,6 +972,22 @@ The Nobel Prize Committee had announced that the three scientists decided to giv
 [Data](articles/73e04c18.json)
 
 [Extended Data](ext_articles/73e04c18.ext.json)
+
+---
+
+### வைத்தியர்களின் தொழிற்சங்க நடவடிக்கை இடைநிறுத்தம் - அரச வைத்திய அதிகாரிகள் சங்கம்
+
+*2025-10-07 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/227138) · `ta`
+
+வைத்தியர்களுக்கான பணியிடமாற்றம் உள்ளிட்ட செயற்பாடுகளில் அரசியல் தலையீடுக்கு எதிராக வைத்தியர்கள் முன்னெடுத்திருந்த தொழிற்சங்க நடவடிக்கை கைவிடப்பட்டுள்ளதாக  அரச வைத்திய அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+
+அதற்கமைய திங்கட்கிழமை சுகாதார அமைச்சு அதிகாரிகளுடன் நடைபெற்ற கூட்டத்தில் இப்பிரச்சினைக்கு தீர்வு வழங்குவதாக அதிகாரிகளால் வழங்கப்பட்ட கடிதத்தை தொடர்ந்து  மேற்படி தொழிற்சங்க நடவடிக்கை இடைநிறுத்தப்பட்டதாக அரச வைத்திய அதிகாரிகள் சங்க ஊடக குழு உறுப்பினர் வைத்தியர் அன்பாஸ் பாரூக் தெரிவித்தார்.
+
+அரச வைத்திய அதிகாரிகள் சங்கத்தால் நேற்று செவ்வாய்க்கிழமை கொழும்பில் ஏற்பாடு செய்யப்பட்ட  ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு  குறிப்பிட்ட அவர் மேலும் தெரிவிக்கையில்,
+
+...
+
+[Data](articles/72860d3f.json)
 
 ---
 
@@ -720,6 +1090,22 @@ Local media reports suggest that the suspect was shot dead as expected to lose t
 [Data](articles/c8e7fce9.json)
 
 [Extended Data](ext_articles/c8e7fce9.ext.json)
+
+---
+
+### இலங்கையின் பொருளாதார மீட்சி குறித்து உலக வங்கி விடுத்துள்ள எச்சரிக்கை !
+
+*2025-10-07 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227135) · `ta`
+
+இலங்கையின் அண்மையகால பொருளாதாரச் செயல்பாடுகள் வலுவாக இருந்தாலும், பொருளாதார மீட்சி இதுவரை முழுமையடையவில்லை என்றும், நீண்டகால வளர்ச்சிக்கு அவசரமாக கட்டமைப்புச் சீர்திருத்தங்கள் மற்றும் திறமையான பொதுச் செலவினங்கள் தேவை என்றும் உலக வங்கி எச்சரிக்கை விடுத்துள்ளது.
+
+பொருளாதார வளர்ச்சி நெருக்கடிக்கு முன்னைய நிலைகளை விட தற்போதைய நிலைமை குறைவாகவே உள்ளது என்றும்,வறுமை குறிப்பிடத்தக்க அளவு அதிகரித்துள்ளது என்றும் உலக வங்கி சுட்டிக்காட்டியுள்ளது.
+
+அத்துடன் 2025 இல் இலங்கையின் பொருளாதாரம் 4.6% ஆக வளர்ச்சியடையும் என்று கணிக்கப்பட்டுள்ளது. எனினும், இது 2026 இல் 3.5% ஆகக் குறையக்கூடும். பொருளாதார நிலை வளர்ச்சி வலுவாகவும், பணவீக்கம் குறைவாகவும், வெளிநாட்டு வரவுகள் அதிகமாகவும் இருந்தாலும், பொருளாதார உற்பத்தி இன்னும் 2018 ஆம் ஆண்டின் நிலைகளை விடக் குறைவாகவே உள்ளது.
+
+...
+
+[Data](articles/c1bc1d14.json)
 
 ---
 
@@ -1622,447 +2008,5 @@ Immediately rescue teams and security forces went to the scene and engaged in re
 [Data](articles/5d02cf2b.json)
 
 [Extended Data](ext_articles/5d02cf2b.ext.json)
-
----
-
-### England-Bangladeshi match today in Women's World Cup today
-
-*2025-10-07 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215431) · `si`
-
-Another match will be held today (07) at the Women's World Cup ODI series.
-
-The competition will commence at 3.00 pm in India's Guahath.
-
-Both teams have won the first match in the tournament.
-
-◼️
-
-[Data](articles/2844304d.json)
-
-[Extended Data](ext_articles/2844304d.ext.json)
-
----
-
-### Damage to a group of students who tasted the chemical substance
-
-*2025-10-07 12:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரசாயனப்-பொருளை-சுவைத்த-மாணவ-குழுவுக்கு-பாதிப்பு/175-365884) · `ta`
-
-Seven students in a school in Dambulla area have been admitted to the Dambulla Resource Hospital as they have been admitted to the Dambulla Resource Hospital on Tuesday (07).
-
-Assistant Police Superintendent MSK has been admitted to a group of seventh grade students in the school.. Wickramanayake said. During the past few holidays, the school has been broken and the items inside have been thrown away.
-
-Accordingly, the students are said to have tasted the red material scattered there, thinking it was a chilli powder.
-
-◼️
-
-[Data](articles/b554dcf3.json)
-
-[Extended Data](ext_articles/b554dcf3.ext.json)
-
----
-
-### Drug Feast: 65 people, including 22 girls
-
-*2025-10-07 12:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-விருந்து-22-சிறுமிகள்-உள்பட-65-பேர்-சிக்கினர்/175-365883) · `ta`
-
-Police received confidential information that a drug party was being held at a farmhouse in Moinabad, Telangana capital, Hyderabad.
-
-The police then rushed to the scene. There were 65 people, including 22 girls, and were playing the music.
-
-It was then revealed that 2 people had smoked cannabis. Others have drank wine. They continue to investigate them.
-
-Meanwhile, police have arrested six people, including Canada, for allegedly gathering people through social networking base.
-
-◼️
-
-[Data](articles/2c2d7900.json)
-
-[Extended Data](ext_articles/2c2d7900.ext.json)
-
----
-
-### Mahinda will see Mahinda
-
-*2025-10-07 12:35:57* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-බලනන-මහනදත-එය/1-680843) · `si`
-
-Former Minister Mahinda Amaraweera also arrived at Tangalle Carlton House to seek the well-being of former President Mahinda Rajapaksa
-
-Many politicians and former President loves former President and former President are coming to Carlton home.
-
-Former President Mahinda Rajapaksa has left the official residence of the former president's claim and returned from the Carlton house in Wijerama Mawatha, Colombo.
-
-Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a leader.
-
-◼️
-
-[Data](articles/d8576c22.json)
-
-[Extended Data](ext_articles/d8576c22.ext.json)
-
----
-
-### Mahinda will see Mahinda
-
-*2025-10-07 12:35:57* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනද-බලනන-මහනදත-එය/101-680843) · `si`
-
-Former Minister Mahinda Amaraweera also arrived at Tangalle Carlton House to seek the well-being of former President Mahinda Rajapaksa
-
-Many politicians and former President loves former President and former President are coming to Carlton home.
-
-Former President Mahinda Rajapaksa has left the official residence of the former president's claim and returned from the Carlton house in Wijerama Mawatha, Colombo.
-
-Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a leader.
-
-◼️
-
-[Data](articles/0f8bdc18.json)
-
-[Extended Data](ext_articles/0f8bdc18.ext.json)
-
----
-
-### Jaffna against police. Lawyers strike
-
-*2025-10-07 12:32:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-எதிராக-யாழ்-வழக்கறிஞர்கள்-வேலைநிறுத்தம்/175-365882) · `ta`
-
-Attorneys in Jaffna went on strike on Tuesday (07), accusing the police of illegally checking and illegally checking into a lawyer's house without court permission.
-
-The incident took place as police are investigating several lawyers allegedly involved in a land bond scam in Jaffna.. It is reported that police officers have entered his home on Sunday (05), with the intention of arresting such a lawyer who has been charged with land fraud.
-
-However, the police have been accused of conducting a raid without permission or stubbornness.
-
-In response, the lawyers staged protests in front of the courts to condemn the actions of the police.
-
-Meanwhile, lawyers face the allegations of land fraud will be filed in court tomorrow (Wednesday) to prevent the arrest of the police.
-
-◼️
-
-[Data](articles/96325554.json)
-
-[Extended Data](ext_articles/96325554.ext.json)
-
----
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2025-10-07 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/227103) · `ta`
-
-Today is Tuesday (Oc. 07) Based on the Central Bank's currency exchange rate, the US dollar sales price was Rs 306.2386 and the purchase price was 298.7404 rupees.
-
-◼️
-
-[Data](articles/2cb434d8.json)
-
-[Extended Data](ext_articles/2cb434d8.ext.json)
-
----
-
-### Example Teacher Celebration
-
-*2025-10-07 12:29:59* · [`adalk`](https://www.ada.lk/breaking_news/ආදර්ශමත්-ගුරු-දින-සැමරුමක්/11-418954) · `si`
-
-The students of the Bogawantalawa Keerti College was organized today (07).
-
-The Principal of the College Tissa Sri Gunasinghe, the school board, was held to the school and conducted the staff of the students and the staff of the staff and the staff of the staff of the school.
-
-The students who have studied the students to celebrate the teachers' Day as the Teacher festival is lived without any unnecessary expenditure. (I J)
-
-◼️
-
-[Data](articles/2752f89b.json)
-
-[Extended Data](ext_articles/2752f89b.ext.json)
-
----
-
-### Key challenges still, economic recovery is incomplete - WB
-
-*2025-10-07 12:29:32* · [`adalk`](https://www.ada.lk/business/ප්‍රධාන-අභියෝග-තවමත්--ආර්ථික-ප්‍රකෘතිය-අසම්පූර්ණයි---WB/7-418953) · `si`
-
-The recent economic activity in Sri Lanka is inadequate, but the development has been imperfect, but the growth has already increased significantly below levels before the crisis, but poverty has increased significantly.
-
-Accordingly, the World Bank emphasizes that continuous macroeconomic stability, efficient, structural reforms and more efficient, more efficient, more efficient, most efficient, the more efficient and more efficient, the most efficient, most efficient, is more efficient and more efficient and more efficient and more efficient, more efficient and more efficient, better.
-
-The economy of the Sri Lanka Development Update of Sri Lanka (Better Spending For All Better Spending For All) has increased by 4.6 percent, while the economy is up to 3.5 percent in 2026, in 2026.. However, these predictions are subject to rising risks, including global uncertainty.
-
-...
-
-[Data](articles/ff6f72a8.json)
-
-[Extended Data](ext_articles/ff6f72a8.ext.json)
-
----
-
-### Mother Somatha won the value of a valuable business party for 2025
-
-*2025-10-07 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/227102) · `ta`
-
-Sri Lanka's leading mouthpiece manufacturer and distributor Thai Sumeda Enterprise Private Limited has once again been recognized by international recognition.
-
-BWIO (USA- = YQ; FH) won the Proud Business Award for 2025 in the most wide range of category.
-
-Mother Sumedia Elpidiya, the head of the mother Sumeda Enterprise, and the chief executive officer of the Mother Sumeda Enterprise, has been reaping many more praise and has been repeated in the industry.
-
-The mother of the Sri Lankan economy is contributing to the following.
-
-Exporting high -quality products in internationally to develop the market, especially
-
-President Maithripala Sirisena presented the award as the chief guest of the event.
-
-◼️
-
-[Data](articles/92905885.json)
-
-[Extended Data](ext_articles/92905885.ext.json)
-
----
-
-### The committee will be postponed to '' Passes '' in culture
-
-*2025-10-07 12:26:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සසකතය-මගඩ-හයන-කමටවට-තව-කලදය/1-680841) · `si`
-
-The time of the Special Committee appointed to look into the incident of the Cultural Fund (Cultural Fund) has ended on the 30th.
-
-Deputy Minister of Buddha Sasana, Religious Affairs and Cultural Affairs, Dissanayake, said that the term of the committee would continue to extend further investigations into the incident.
-
-The Board of Directors will meet today to meet this regard.
-
-The committee had been given two months of time to investigate.
-
-◼️
-
-[Data](articles/99c401f5.json)
-
-[Extended Data](ext_articles/99c401f5.ext.json)
-
----
-
-### The committee will be postponed to '' Passes '' in culture
-
-*2025-10-07 12:26:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සසකතය-මගඩ-හයන-කමටවට-තව-කලදය/101-680841) · `si`
-
-The time of the Special Committee appointed to look into the incident of the Cultural Fund (Cultural Fund) has ended on the 30th.
-
-Deputy Minister of Buddha Sasana, Religious Affairs and Cultural Affairs, Dissanayake, said that the term of the committee would continue to extend further investigations into the incident.
-
-The Board of Directors will meet today to meet this regard.
-
-The committee had been given two months of time to investigate.
-
-◼️
-
-[Data](articles/884c7616.json)
-
-[Extended Data](ext_articles/884c7616.ext.json)
-
----
-
-### Airline accused of killing ‘strict vegetarian’ Sri Lankan passenger with meat-based meal: Report
-
-*2025-10-07 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113296/airline-accused-of-killing-strict-vegetarian-sri-lankan-passenger-with-meat-based-meal-report) · `en`
-
-A Southern California cardiologist flying Qatar Airways from Los Angeles to Sri Lanka was denied the vegetarian meal he had ordered, then died after choking on a piece of food while attempting to “eat around” the meat in meal he was given instead, according to his grieving family.
-
-The pilot couldn’t make an emergency landing to get 85-year-old Asoka Jayaweera to a doctor because the plane was “traveling over the Arctic Circle/Ocean,” alleges a newly filed wrongful death lawsuit obtained by The Independent.
-
-However, Jayaweera’s son Surya contends the aircraft was actually over the Midwest at the time and could have easily diverted, their complaint states.
-
-When the flight eventually touched down in Edinburgh, Scotland, Jayaweera, a “strict vegetarian,” had been unconscious for some three-and-a-half hours, according to the complaint. It says he was taken to the hospital – but that it was already too late.
-
-...
-
-[Data](articles/ed12522d.json)
-
-[Extended Data](ext_articles/ed12522d.ext.json)
-
----
-
-### Sri Lanka Tamil State Party has played a major role
-
-*2025-10-07 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227101) · `ta`
-
-All Ceylon Tamil Congress General Secretary and Member of Parliament Gajendrakumar Ponnambalam said that the 13th Amendment to the 38 years was not implemented by the Sri Lanka Tamil State Party to implement the Ekya Rajya.
-
-He was speaking at a media briefing held in Jaffna on Monday (06) on the recent comments made by Sri Lanka Tamil State Party leader CVK Sivagnanam.
-
-CVK Sivagnanam says that all those except the Tamil National People's Front have agreed to implement the 13th Amendment. Thanks to CVK Sivagnanam for that.
-
-All parties, except the TNA, complied with the 13th of the post -war period.
-
-Should not be disabled in the monolithic. We left the Tamil National Alliance (TNA), saying that it could not be moved by the starting point.
-
-In this case, the Tamil state party has been lying among the people for the past 16 years that we are a federal party and the Congress has accepted the unity.
-
-...
-
-[Data](articles/ec58da80.json)
-
-[Extended Data](ext_articles/ec58da80.ext.json)
-
----
-
-### 11 -year -old girl with 81 teeth
-
-*2025-10-07 12:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/81-பற்களைக்-கொண்ட-11-வயது-சிறுமி/53-365880) · `ta`
-
-Doctors were stunned when X -ray revealed that an 11 -year -old girl did not raise 32 teeth. She had 81 teeth.
-
-This rare condition, known as hypertonia, causes the growth of additional teeth hidden within the gums, which creates serious challenges for surgeon and orthodontists. In this case, doctors had to carefully plan the extraction and treatments to restore normal functioning and alignment while protecting the structure of his jaw.
-
-Although its cause is still unclear, this rare anomaly shows how unpredictable and amazing the human body.
-
-◼️
-
-[Data](articles/8c7a525b.json)
-
-[Extended Data](ext_articles/8c7a525b.ext.json)
-
----
-
-### Israel - Gaza Peace efforts: the roots of Abraham's agreement and conflict
-
-*2025-10-07 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227104) · `ta`
-
-“In the wake of Iran's growing influence in the Middle East and the general concerns of regional security, this Abraham Treaty has created a new formation between Israel and Sunni Arab countries. Abraham's Agreement has led to bilateral cooperation in the fields of security, trade, tourism and technology. This agreement reflected a new approach to argue that the territory could bring peace and stability in the region without resolving the position of the Israeli-Palestinian conflict. It is also a foundation for Trump's new peace scheme ”
-
-◼️
-
-[Data](articles/51bad658.json)
-
-[Extended Data](ext_articles/51bad658.ext.json)
-
----
-
-### The mother of the son of a divorce Sweet
-
-*2025-10-07 12:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவாகரத்து-ஸ்வீட்-கொடுத்து-கொண்டாடும்-மகனுக்கு-பாலபிஷேகம்-செய்த-தாய்/175-365879) · `ta`
-
-Maharashtra: A family who has bought a new clothes for his son, a family who celebrated his wife and celebrated the cake; Bradar, a young man named Bradr, has posted on Insta, saying that 120 grams of gold and 18 lakhs of money were returned to the wife and that it was Sinhala and happy after the divorce ...
-
-◼️
-
-[Data](articles/5641a7f4.json)
-
-[Extended Data](ext_articles/5641a7f4.ext.json)
-
----
-
-### Sri Lanka’s economic recovery remains incomplete as key challenges persist, World Bank says
-
-*2025-10-07 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113295/sri-lankas-economic-recovery-remains-incomplete-as-key-challenges-persist-world-bank-says) · `en`
-
-Despite Sri Lanka’s strong economic performance in recent times, the recovery remains incomplete, with growth still below pre-crisis levels and poverty significantly elevated, the World Bank said.
-
-The World Bank noted that strengthening the recovery will require continued macroeconomic stability, urgent structural reforms and more efficient, better-targeted public spending.
-
-The latest Sri Lanka Development Update, ‘Better Spending for All’ released by the World Bank today (07), projects Sri Lanka’s economy to grow by 4.6 percent in 2025 — supported by a modest rebound in industry and steady growth in services — before slowing to 3.5 percent in 2026. This outlook is subject to heightened risks, including from elevated global uncertainty.
-
-“While Sri Lanka’s recent economic progress is encouraging, the recovery is uneven and incomplete,” said David Sislen, World Bank Division Director for Maldives, Nepal, and Sri Lanka.
-
-...
-
-[Data](articles/65cb0fc7.json)
-
-[Extended Data](ext_articles/65cb0fc7.ext.json)
-
----
-
-### Sri Lanka’s economic recovery remains incomplete, World Bank says
-
-*2025-10-07 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113295/sri-lankas-economic-recovery-remains-incomplete-world-bank-says) · `en`
-
-Despite Sri Lanka’s strong economic performance in recent times, the recovery remains incomplete, with growth still below pre-crisis levels and poverty significantly elevated, the World Bank said.
-
-The World Bank noted that strengthening the recovery will require continued macroeconomic stability, urgent structural reforms and more efficient, better-targeted public spending.
-
-The latest Sri Lanka Development Update, ‘Better Spending for All’ released by the World Bank today (07), projects Sri Lanka’s economy to grow by 4.6 percent in 2025 — supported by a modest rebound in industry and steady growth in services — before slowing to 3.5 percent in 2026. This outlook is subject to heightened risks, including from elevated global uncertainty.
-
-“While Sri Lanka’s recent economic progress is encouraging, the recovery is uneven and incomplete,” said David Sislen, World Bank Division Director for Maldives, Nepal, and Sri Lanka.
-
-...
-
-[Data](articles/1ea07d0d.json)
-
-[Extended Data](ext_articles/1ea07d0d.ext.json)
-
----
-
-### Makes a clean sport in the country
-
-*2025-10-07 12:14:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රට-පරසද-කරඩවක-ඇත-කරනව/1-680838) · `si`
-
-Sports Minister Sugath Thilakaratne said in Parliament that it is positively amended and a clean sport of a country.
-
-The Deputy Minister was speaking at the conventionality of stimulants (Amendment) Bill, the Bill of Second Reading Debate.
-
-"This Act is implemented by the purpose of having a clean sport.
-
-The responsibility of these institutions is to provide a clean game guidelines. Why do the players refer to banned stimulants? It is aimed at making their game economically to enter into a financial system. However, the Deputy Minister said this was an injustice to the incoming athletes.
-
-◼️
-
-[Data](articles/d0ec3520.json)
-
-[Extended Data](ext_articles/d0ec3520.ext.json)
-
----
-
-### Makes a clean sport in the country
-
-*2025-10-07 12:14:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රට-පරසද-කරඩවක-ඇත-කරනව/101-680838) · `si`
-
-Sports Minister Sugath Thilakaratne said in Parliament that it is positively amended and a clean sport of a country.
-
-The Deputy Minister was speaking at the conventionality of stimulants (Amendment) Bill, the Bill of Second Reading Debate.
-
-"This Act is implemented by the purpose of having a clean sport.
-
-The responsibility of these institutions is to provide a clean game guidelines. Why do the players refer to banned stimulants? It is aimed at making their game economically to enter into a financial system. However, the Deputy Minister said this was an injustice to the incoming athletes.
-
-◼️
-
-[Data](articles/7a5b72e3.json)
-
-[Extended Data](ext_articles/7a5b72e3.ext.json)
-
----
-
-### Seven students of Dambulla Vidyalaya to be sent to hospital
-
-*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/videos/රසයනක-දරවයක-දඹලල-වදහලක-සසන-7ක-රහලට-යවය/12-680837) · `si`
-
-According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
-
-Five boys and two girls have been hospitalized.
-
-Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
-
-Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
-
-◼️
-
-[Data](articles/ca3339b2.json)
-
-[Extended Data](ext_articles/ca3339b2.ext.json)
-
----
-
-### Seven students of Dambulla Vidyalaya to be sent to hospital
-
-*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-7ක-රහලට-යවය/101-680837) · `si`
-
-According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
-
-Five boys and two girls have been hospitalized.
-
-Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
-
-Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
-
-◼️
-
-[Data](articles/87c28615.json)
-
-[Extended Data](ext_articles/87c28615.ext.json)
 
 ---

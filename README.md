@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 15:20:35**
+As of **2025-10-07 15:56:07**
 
 ## Newspaper Stats
 
-*Scraped **81,892** Articles*
+*Scraped **81,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -21,79 +21,111 @@ adalk | 7,824
 adaderanalk | 10,520
 tamilmirrorlk | 12,147
 virakesarilk | 13,490
-adaderanasinhalalk | 14,041
+adaderanasinhalalk | 14,043
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,857 (100.0%) of 81,892 articles have been extended.
+81,867 (100.0%) of 81,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### දඬුවම් පනත බිල්ලෙක්ද?
+### ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්
+
+*2025-10-07 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215436) · `si`
+
+ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+එම නිවේදනය අද (07) රාත්‍රී 11 දක්වා වලංගු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු, උතුරු-මැද, මධ්‍යම, නැගෙනහිර සහ ඌව පළාත්වල ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බවය.
+
+ගිගුරුම් සහිත වැසි ඇති වන තාවකාලිකව තද සුළං ඇති වියවිට එම ප්‍රදේශවල හැකියි.
+
+අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා  කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/07412bf2.json)
+
+---
+
+### Is the Punishment Baker?
 
 *2025-10-07 15:00:30* · [`lankadeepalk`](https://www.lankadeepa.lk/features/දඬවම-පනත-බලලකද/2-680858) · `si`
 
-දණ්ඩ නීති සංග්‍රහය සංශෝධනය කිරීම සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති පනත් කෙටුම්පත සම්බන්ධයෙන් යම් සමාජ කතිකාවක් ගොඩ නැගී ඇති බව පෙනේ. දණ්ඩ නීති සංග්‍රහයේ 308 අ වගන්තියේ දැක්වෙන “ඕනෑකමින්” යන වචනය වෙනුවට “චේතනාන්විත” යන යෙදුම මෙම සංශෝධිත පනත් කෙටුම්පතට ඇතුළත් කර තිබේ.
+There is a social discourse on the bill, presented to Parliament to amend the Penal Code. The term "intention" is included in this revised bill instead of the word "intent" in verse 308 of the Penal Code.
 
-එමෙන් ම මේ සංශෝධිත පනත් කෙටුම්පතෙහි 308 ආ 1 වගන්තිය නමින් අලු‍ත් වගන්තියක් ඇතුළත් කර ඇති අතර එහි ශාරීරික දඬුවම් කිරීමේ වරද කරන අවස්ථාව විස්තර කර තිබේ. එය දැක්වෙන්නේ පහත පරිදි ය.
+This revised Bill included a new clause, which is named 30 in this revised Bill and is described the opportunity to punish its physical punishment. It is the following:
 
-වයස අවුරුදු 18 ට අඩු යම් තැනැත්තකුගේ භාරකාරත්වය, භාරය හෝ ආරක්ෂකත්වය දරා සිටින විට දඬුවම් කිරීමේ ක්‍රියාමාර්ගයක් වශයෙන් හෝ නිවැරැදි කිරීමේ ක්‍රමයක් වශයෙන් කෙතරම් අඩු වුව ද යම් ප්‍රමාණයක වේදනාවක් හෝ අපහසුතාවක් හෝ ඇති වීමට හේතු වන බවට දැනුම ඇතිව ශාරීරික බලය භාවිත කර යම් ක්‍රියාවක් සිදු කරන අවස්ථාවකදීත් එම වගන්තියේ ම, ආ, අනු වගන්තියෙහි දැක්වෙන පරිදි කෙතරම් අඩු වුවත් යම් ප්‍රමාණයක අවමානයක් ඇති වීමට හේතු වන බවට දැනුම ඇතිව ශාරීරික නොවන යම් ක්‍රියාවක් සිද්ධ කරන කවර හෝ තැනැත්තකු ශාරීරික දඬුවම් කිරීමේ වරද සිදු කරන බවය.
+When a person under the age of 18, the trustee of the trustee, or the right thing to be done in the same stage, and a system of pain or inconvenience, any degree of pain is caused by a minimum of pain or difficulty, any person has committed the guilty of physical punishment It is possible.
 
 ...
 
 [Data](articles/c1df43c3.json)
 
+[Extended Data](ext_articles/c1df43c3.ext.json)
+
 ---
 
-### ගුරු දිනය - කළ යුත්තේ කුමක්ද?
+### Teacher Day - What to do?
 
 *2025-10-07 14:53:24* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ගර-දනය-කළ-යතත-කමකද/2-680857) · `si`
 
-අප “ලෝක ගුරු දිනය” සමරන්නේ ඔක්තෝබර් 07 වැනිදා අඟහරුවාදා දිනයේ ය. එහෙත් එය ඇත්තට යෙදෙන්නේ ඔක්තෝබර් 05 වැනිදාය. එදින ලෝක ගුරු දිනය ලෙස ප්‍රකාශයට පත් කරනු ලැබ ඇත්තේ අධ්‍යාපනයට හා ගුරු වෘත්තියට එදින විශේෂ දිනයක් වන හෙයිනි.
+We celebrate the "World Teacher Day" on Tuesday, October 07. But it is acting on October 5th. That was the special day for education and teaching that that day was declared world teachers.
 
-එක්සත් ජාතීන්ගේ අධ්‍යාපන විද්‍යා හා සංස්කෘතික සංවිධානය (UNESCO) සමග ජාත්‍යන්තර කම්කරු සංවිධානය (IOL) එක්ව “ගුරුවරුන් සතු පිළිගැනීම සඳහා වන නිර්දේශ” ප්‍රකාශයට පත් කරනු ලැබුවේ 1966 ඔක්තෝබර් 05 වැනිදාය. එනිසා ඔක්තෝබර් 05 වැනිදා මුළු ලෝකයටම වැදගත් දිනයක් ලෙස 1994 දී මේ සංවිධාන ද්විත්වය “ලෝක ගුරු දිනය” ප්‍රකාශයට පත් කළහ.
+On October 5, 1966, the International Labor Organization (IOL) with UN EDG and Cultural Organization. As such, in 1994, the two of these organizations declared "World Teachers' Day" as an important date for the entire world.
 
-අපේ සමාජයේ මේ ගුරු දිනය සැමරෙන්නේ මවුපිය කණ්ඩායම් එකතුවී ගුරුවරුන්ට මුදලින් හෝ වෙනත් ආකාරයකින් තෑගි ලබා දීමේ උත්සව පැවැත්වීමෙනි. ඒ සඳහා මුදල් එකතු කිරීමත් පාසල්වල සිදුවන දූෂණයට එකතුවක්ව ඇත. සෑම වසරකම යුනෙස්කෝව විසින් ලෝක ගුරු දිනය වෙනුවෙන් තේමාවක් ලබා දෙන්නේ ය. එය කුමක්දැයි කියා හොයා බලන විදුහල්පතිවරුන්, ගුරුවරුන් හා මවුපියන් ඇතිදැයි නොදනිමි.
+This teachers' day in our society celebrates the parent giving teachers or otherwise gifts. Collection of money for that is a combination of the schools. UNESCO gives a theme for world teacher day every year. There are no principals, teachers, and parents who see what it is.
 
-ලෝක ගුරු දින වාර්ෂික තේමාව ඇසුරෙන් පාසල්වල සාකච්ඡා සංවාද පැවැත්වෙන්නේ යැයි මා අසා නැත.
+I have not heard that discussion discussions will be held in schools with the annual theme of the World Teachers' Day annual.
 
 ...
 
 [Data](articles/f1784fb8.json)
 
+[Extended Data](ext_articles/f1784fb8.ext.json)
+
 ---
 
-### රත්න ද්වි පුද්ගල ඝාතනයේ සුල මුල හෙළිවෙයි
+### Rathnu donkey murder reveals
 
 *2025-10-07 14:46:52* · [`adalk`](https://www.ada.lk/breaking_news/රත්න-ද්වි-පුද්ගල-ඝාතනයේ-සුල-මුල-හෙළිවෙයි/11-418956) · `si`
 
-හුංගම පොලිස් බල ප්‍රදේශයේ රන්න  වාඩිගල වලව්මහත්තයාගේ ආර ප්‍රදේශයේ නිවසකදී යුවළක් අද අලුයම් කාලයේ ඝාතනය කර තිබෙනවා.
+A couple has been murdered at a house in Walawella, Walawella, Walawella, Walawella.
 
-මෙසේ ඝාතනයට ඇත්තේ රන්න කහ මෝදර කැලණිගම ප්‍රදේශයේ පදිංචි විජේසේකර ආරච්චිගේ පසිදු හේෂාන් (28)නොහොත් බෝ පසිඳු නමැති අයෙකු හා ඔහුගේ අනියම් බිරිද වූ තිස්සමහාරාම ප්‍රදේශයේ පදිංචි  ඉමාෂා මදු භාශනී (27) නමැති තිදෙරු කාන්තාවක්වේ.
+The killing of these killings is a woman named Wijesekara Arachchige (28), alphabethanda alias, alphabethanda, a resident of Tissamaharama, Tissamaharama.
 
-ඝාතනයට ලක්වූ කාන්තාව මිට දින හතරකට පමණ ප්‍රථම මෙම නිවසට පැමිණ ඇති අතර පසිදු හේෂාන් නමැති නමැති අය පැමිණ ඇත්තේ පසුගිය 06 වනදා සවස බව ගෙහිමි කාන්තාව පොලිසියට පවසා තිබේ.
+The victim had arrived at the house nearly four days ago and the phase was said to the police.
+
+The murdered woman, Box, was taken bail to the court, who had been arrested by the Hungama police for the murder of the murder in March 2024, and six months ago, he had about her drug reserved for several days ago. According to a warrant, he was arrested on the 5th and later arrived at the house on the same evening.
+
+The police states that Bo Bo Saspu and his casual wife are also involved in the court of charged with drug dealer.. Samarawickrama Kadawatha Restalerachchige Samankumara alias Kadawatha has been arrested by five crimes to the murder of the murder (27).
 
 ...
 
 [Data](articles/3760debc.json)
 
+[Extended Data](ext_articles/3760debc.ext.json)
+
 ---
 
-### කාසියේ වාසිය එංගලන්තයට
+### Toss in the coin to England
 
 *2025-10-07 14:43:26* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-එංගලන්තයට/9-418955) · `si`
 
-2025 කාන්තා එක්දින ​ලෝක කුසලාන තරගාවලියේ බංග්ලාදේශය සහ එංගලන්තය අතර තරගය තව සුළු මොහොතකින් ආරම්භ වේ.
+The match between the 2025 Women's ODI World Cup, the match between Bangladesh and England begins in a short time.
 
-මෙම තරගයේ කාසියේ වාසිය දිනා ගත් එංගලන්තය පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+England won the toss and won the toss.
 
 ◼️
 
 [Data](articles/d2eef29c.json)
+
+[Extended Data](ext_articles/d2eef29c.ext.json)
 
 ---
 
@@ -135,21 +167,47 @@ The Tangalle High Court then imposed the death sentence on him.
 
 ---
 
-### பெண் வைத்தியர் துஷ்பிரயோகம்: அதிரடி உத்தரவு பிறப்பிப்பு
+### Woman Doctor Abuse: Action Order
 
 *2025-10-07 14:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-வைத்தியர்-துஷ்பிரயோகம்-அதிரடி-உத்தரவு-பிறப்பிப்பு/175-365894) · `ta`
 
-அனுராதபுரம் போதனா வைத்தியசாலையில் பெண் பயிற்சி நிபுணர் மருத்துவரை கடுமையாக துஷ்பிரயோகம் செய்ததாக கூறப்படும் வழக்கில் கிட்டத்தட்ட ஏழு மாதங்கள் விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் இராணுவ வீரர் செவ்வாய்க்கிழமை (07) பிணையில் விடுவிக்கப்பட்டார். அனுராதபுரம் நீதவான் நாலக சஞ்சீவ ஜெயசூரிய இந்த உத்தரவை பிறப்பித்தார்.
+For a former soldier who had been detained for nearly seven months on Tuesday (07), a female training specialist at the Anuradhapura Teaching Hospital. Anuradhapura Magistrate Nalaka Sanjeeva Jayasuriya issued this order.
 
-கடுமையான பிணை நிபந்தனைகளின் பேரில் விடுவிக்கப்பட்ட நபர், கல்னேவ புதிய நகரம், எலா வீதி, டி துன் பகுதியைச் சேர்ந்த கே.பி. மதுரங்க ரத்நாயக்க ஆவார்.
+A person who was released on severe bail conditions. Mathuranga is Ratnayake.
 
-சந்தேக நபரை ரூ. 50,000 ரொக்கப் பிணையிலும், தலா ரூ. 500,000 இரண்டு சரீரப் பிணையிலும் விடுவிக்க நீதிமன்றம் உத்தரவிட்டுள்ளது, மேலும் பிணையில் இருப்பவர்களில் ஒருவர் சந்தேக நபரின் நெருங்கிய குடும்ப உறுப்பினராக இருக்க வேண்டும் என்றும் நீதவான் உத்தரவிட்டுள்ளார்.
+The suspect is at a cost of Rs.. 50,000 in cash bail. The magistrate has ordered the release of 500,000 on two physical bail, and that one of the bail should be a close family member of the suspect.
 
-மேலும், சாட்சிகள் அல்லது விசாரணைகளில் எந்த வகையிலும் தலையிட வேண்டாம் என்று சந்தேக நபரை  நீதவான் கடுமையாக எச்சரித்துள்ளார், மேலும் அவரது வெளிநாட்டு பயணத்தையும் தடை செய்துள்ளார்.
+Moreover, the magistrate has strongly warned the suspect not to interfere in any way in witnesses or investigations, and has banned his foreign journey.
+
+However, despite being granted bail for a former soldier in connection with the abuse incident, he is still in the process of holding a handgun.
 
 ...
 
 [Data](articles/c3b5b65c.json)
+
+[Extended Data](ext_articles/c3b5b65c.ext.json)
+
+---
+
+### නා උයන ආරණ්‍ය සෙනසුනට චීන ප්‍රජාවගෙන් ලක්ෂ 08ක පරිත්‍යාගයක්
+
+*2025-10-07 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215435) · `si`
+
+මෙරට සිටින චීන ප්‍රජාව සහ චීනයේ සිටින පිරිසක් එක්ව රුපියල් 800,000ක මූල්‍ය පරිත්‍යාගයක් මැල්සිරිපුර නා උයන ආරණ්‍ය සෙනාසනයට පිරිනමා තිබේ.
+
+පසුගිය දා සිදු වූ අවාසනාවන්ත අනතුරින් භාවනායෝගී භික්ෂූන් වහන්සේලා සත්නමක් අපවත්වීම හේතුවෙන් සෙනාසනයේ කේබල් කාර් පහසුකම ප්‍රතිසංස්කරණය සහ ආරක්ෂාව වැඩිදියුණු කිරීමට මෙම මුල්‍ය පරිත්‍යාගය ලබාදී ඇති බව සඳහන්වේ.
+
+මෙම කණගාටුදායක සිදුවීම මෙරට සිටින චීන මාධ්‍යවේදිනී යෑං ෂියුවාන් මහත්මිය සිය චීන භාෂා අන්තර්ජාල පුවත් වෙබි අඩවියේ වාර්තා කර ඇති අතර එම පුවත දුටු ශ්‍රී ලංකාවේ සහ චීනයේ පදිංචි චීන ප්‍රජාවේ බොහෝ දෙනා එම පුවතින් කම්පාවට පත්ව ඇත.
+
+පසුව ඇයව සම්බන්ධ කරගනිමින් සෙනාසනයේ කේබල් කාර් පහසුකම ප්‍රතිසංස්කරණය සහ ආරක්ෂාව වැඩිදියුණු කිරීමට මුල්‍ය දායකත්වය ලබාදීමට සිය කැමැත්ත පළ කර ඇත.
+
+ඒ අනුව මෙම පුණ්‍යකර්මය සාර්ථකව සිදු කිරීම සඳහා, මෙරට ක්‍රියාත්මක C AM G 5ri Lanka නම් චීන මාධ්‍ය ආයතනය සහ කොළඹ පිහිටි වන සංස්කෘතික මධ්‍යස්ථානය එක් වී චීන ප්‍රජාවෙන් අරමුදල් එකතු කර තිබේ.
+
+ඒ අනුව එකතු වූ රු. 800,000ක මුදල පසුගිය 5වනදා නා උයන ආරණ්‍ය සෙනසනයේ නායක මහා නාහිමියන් වෙත පිරිනමන ලදී.
+
+...
+
+[Data](articles/cd2532bd.json)
 
 ---
 
@@ -201,23 +259,29 @@ Former Minister Manusha Nanayakkara had filed the petition, claiming that commen
 
 ---
 
-### கிழக்கில் 2 கிலோ 03  கிராம் ஐஸ்: இளம் தம்பதி  கைது
+### 2 kg 03 g ice in the east: Young couple arrested
 
 *2025-10-07 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-2-கிலோ-03-கிராம்-ஐஸ்-இளம்-தம்பதி-கைது/175-365893) · `ta`
 
-மட்டக்களப்பு வாழைச்சேனை பிரதேசத்தில் வைத்த 2 கிலோ 03 கிராம் ஐஸ் போதைப் பொருளுடன் 24,23 வயதுடைய இளம் தம்பதியினர் கைது செய்யப்பட்டுள்ளனர்.
+A 24,23 -year -old young couple have been arrested in Batticaloa with 2 kg 03 grams of ice.
 
-உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸ் தலைமையிலான பொலிஸார்  திங்கட்கிழமை (06) மாலை கைது செய்துள்ளனர்.
+Assistant Superintendent of Police MSM. The police, led by Jarus, arrested the police on Monday evening.
 
-கிழக்கு மாகாணத்தில் ஆகக்கூடிய தொகை  ஐஸ் போதை பொருள் கைப்பற்றப்பட்டது இதுவே முதன்முறையாகும் என்று    வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+This is the first time in the Eastern Province, which has been seized by ice drugs, said Valaichenai police.
 
-வாழைச்சேனை உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸ் கிடைத்த தகவல் ஒன்றிணை அடுத்து அவர் தலைமையிலான பொலிஸ் குழுவினர்  சம்பவ தினமான திங்கட்கிழமை (06) மாலை 4.30 மணியளவில் உதவி பொலிஸ் அத்தியட்சகர் காரியாலயத்துக்கு அருகில் கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்த போது கல்குடாவில் இருந்து ஐஸ் போதை பொருளை முச்சக்கரவண்டியில் எடுத்துக் கொண்டு சென்ற போது அவர்களை சுற்றி வளைத்து மடக்கி பிடித்தனர்.
+Assistant Superintendent of Police MSM. Following the information received by the Juros, a group of police team led by him was survived by surveillance at the Assistant Superintendent's Office at 4.30 pm on Monday (06) at 4.30 pm.
 
-இதையடுத்து அவர்களிடம் இருந்து 2 கிலோ .03 கிராம் ஐஸ் போதை பொருளை கைப்பற்றினர். அதனையடுத்து அவர்களையும் கைது செய்தது முச்சக்கரவண்டியும் கைப்பற்றினர்.
+They then seized 2 kg .03 g of ice from them. Subsequently, they were arrested and the three -wheeler was seized.
+
+A main narcotics dealer in Morakotanzenne has told the couple to buy a dog in Colombo.. He has paid Rs.
+
+Subsequently, the couple went to Colombo train and placed a couple to put a puppy and a bag to the couple in the Parakkottai area where they returned to their home in Calcutta.
 
 ...
 
 [Data](articles/91fa605a.json)
+
+[Extended Data](ext_articles/91fa605a.ext.json)
 
 ---
 
@@ -299,21 +363,23 @@ Two weeks after the request of the legal officer, the Sri Lanka Human Rights Com
 
 ---
 
-### மஹிந்தவை சந்தித்த மஹிந்த
+### Mahinda met Mahinda
 
 *2025-10-07 14:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்த-மஹிந்த/175-365890) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் நலன் தொடர்பில் கேட்டறிந்து கொள்வறத்கு முன்னாள் அமைச்சர் மஹிந்த அமரவீர  தங்காலையில் உள்ள கார்ல்டன் இல்லத்திற்கு செவ்வாய்க்கிழமை (07) சென்றார்.
+Former Minister Mahinda Amaraweera visited the Carlton residence in Tangalle on Tuesday (07) to hear about the welfare of former President Mahinda Rajapaksa.
 
-முன்னாள் ஜனாதிபதியை நேசிக்கும் பல அரசியல்வாதிகள் மற்றும் மக்கள் முன்னாள் ஜனாதிபதியின் நலனைக் காண தினமும் கார்ல்டன் இல்லத்திற்குச் சென்று வருகின்றனர்.
+Many politicians and people who love the former president go to Carlton's house every day to see the benefit of the former president.
 
-முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்கும் சட்டமூலம் நிறைவேற்றப்பட்டதைத் தொடர்ந்து, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ கொழும்பில் உள்ள விஜேராம மாவத்தையில் உள்ள அரசாங்க உத்தியோகபூர்வ இல்லத்திலிருந்து புறப்பட்டு தங்காலையில் உள்ள கார்ல்டன் இல்லத்திற்கு வந்தார்.
+Former President Mahinda Rajapaksa left the government official residence in Colombo and arrived at the Carlton residence in Tangalle, following the passage of the Bill to remove the rights of former presidents.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த மஹிந்த மஹிந்த அமரவீர, மஹிந்த ராஜபக்ஷ ஒரு சகாப்தத்தை உருவாக்கிய தலைவர் என்று கூறினார்.
+Commenting on the media, Mahinda Mahinda Amaraweera said that Mahinda Rajapaksa was the leader who created a era.
 
 ◼️
 
 [Data](articles/6d81e81f.json)
+
+[Extended Data](ext_articles/6d81e81f.ext.json)
 
 ---
 
@@ -339,19 +405,21 @@ Dubbleu Jyotiratne, Chief Secretary of the All Ceylon Progressive Samurdhi Manag
 
 ---
 
-### ජුලම්පිටිය අමරේගේ ඇපෑල විභාගයට නොගෙනම නිෂ්ප්‍රභ කෙරේ
+### Julampitiye Amare's appeal was taken
 
 *2025-10-07 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215434) · `si`
 
-මිනීමැරිමේ චෝදනාවට වරදකරු වී මරණීය දණ්ඩනය නියම වී සිටින ජී. ජී. අමරසිරි හෙවත් 'ජුලම්පිටිය අමරේ' නැමැත්තාට පනවා තිබූ මරණීය දණ්ඩනයට එරෙහිව ඔහු විසින් ඉදිරිපත් කළ ඇපෑල විභාගයට නොගෙනම ශ්‍රේෂ්ඨාධිකරණය විසින් අද (07) නිෂ්ප්‍රභ කළේය.
+Grouquitar's murder is convicted and death sentence. G. The Supreme Court refuted by the Supreme Court today (07) without taking the appeal to the death penalty imposed by Amarasiri Amare.
 
-ජුලම්පිටිය අමරේ නමැත්තාට තංගල්ල මහාධිකරණය විසින් ප්‍රකාශිත මරණීය දණ්ඩනය තහවුරු කරමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
+The Supreme Court issued the Supreme Court to ensure Julampitiye Amare, the death penalty published by the Tangalle High Court, Ada Derana reporter said.
 
-2012 වසරේ කටුවන ප්‍රදේශයේ පැවති ජනතා විමුක්ති පෙරමුණේ රැස්වීමකට කඩා වැදී වෙඩිතබා පුද්ගලයින් දෙදෙනකු මරා දමා තවත් අයෙකුට මරණීය තුවාල සිදුකිරීමේ චෝදනාවට වරදකරු කෙරුණු විත්තිකරුට තංගල්ල මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කර තිබුණි.
+The Tangalle High Court had convicted the accused to kill a group of people who were killed and killed in the JVP in 2012.
 
 ◼️
 
 [Data](articles/0d767a44.json)
+
+[Extended Data](ext_articles/0d767a44.ext.json)
 
 ---
 
@@ -379,41 +447,47 @@ The development of Fitsair depends on the history of flexibility and is based on
 
 ---
 
-### மன்னாரிலும் சட்டத்தரணிகள் பணிப்பகிஷ்கரிப்பு
+### Attorneys in Mannar also
 
 *2025-10-07 13:55:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரிலும்-சட்டத்தரணிகள்-பணிப்பகிஷ்கரிப்பு/175-365889) · `ta`
 
-யாழ்ப்பாணத்தில்   சட்டத்தரணி ஒருவரின் வீட்டில் உரிய வகையில் தேடுதல் ஆணை இல்லாது பொலிஸாரால் சோதனை முன்னெடுக்கப்பட்டதாக கூறப்படும் சம்பவத்திற்கு எதிர்ப்பு தெரிவித்து  வடமாகாண  சட்டத்தரணிகள் செவ்வாய்க்கிழமை (07) ஒருநாள் பணிப்புறக்கணிப்பை முன்னெடுத்து வருகின்றனர்.  குறித்த பணிப் புறக்கணிப்புக்கு வலு சேர்க்கும் வகையில் மன்னார் சட்டத்தரணிகளும்  பணிப் பகிஷ்கரிப்பை மேற்கொண்டுள்ளனர்.
+The Northern Province lawyers are carrying out a one -day workplace on Tuesday (07) in protest of the alleged incident of raids by the police without a proper search order in the house of a lawyer in Jaffna.  Mannar lawyers have also been boycotted to strengthen the work boycott.
 
-யாழ்ப்பாணத்தில்   சட்டத்தரணிக்குஎதிராக முன்னெடுக்கப்பட்டசம்பவம் எதிர் காலத்தில் இடம் பெறக் கூடாது என்பதை வலியுறுத்தி குறித்த பணிப்பகிஷ்கரிப்பு போராட்டத்தை சட்டத்தரணிகள் முன்னெடுத்துள்ளனர்.
+Attorneys have launched a task protest demanding that the incident against the lawyer against the lawyer in Jaffna.
 
-இதனால்  மன்னாரில் நீதிமன்ற செயல்பாடுகள் ஸ்தம்பிதமடைந்துள்ளதோடு,இன்றைய (07) நாளுக்கான வழக்கு விசாரணைகள் பிரிதொரு தினத்திற்கு தவணை இடப்பட்டுள்ளது.
+This has resulted in court proceedings in Mannar and the hearing of today's (07) day has been installed for a day.
 
 ◼️
 
 [Data](articles/982db740.json)
 
+[Extended Data](ext_articles/982db740.ext.json)
+
 ---
 
-### විද්‍යාගාරයක තිබූ රසායනික ද්‍රව්‍යක් ශරීරගත වී දරුවන් 7ක් රෝහලට
+### Secombums in a laboratory and 7 children hospitalized
 
 *2025-10-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215433) · `si`
 
-දඹුල්ල ප්‍රදේශයේ පාසලක විද්‍යාගාරයක් තුළ තිබූ රසායනික ද්‍රව්‍යයක් දිවේ ගැවීමෙන් පාසල් සිසු සිසුවියන් හත්දෙනෙකු රෝහල්ගත කර තිබේ.
+Seven school children have been hospitalized after a chemical in a school in Dambulla.
 
-රෝහල්ගත කළ සිසුන් අතර පිරිමි දරුවන් පස්දෙනෙකු හා ගැහැණු දරුවන් දෙදෙනෙකු සිටින අතර ඔවුන්ව දඹුල්ල මූලික රෝහලට ඇතුළත් කර ඇත.
+There are five boys and two girls among the students who were hospitalized and two girls have been admitted to the Dambulla Base Hospital.
 
-දඹුල්ල සහකාර පොලිස් අධිකාරි එම්. එස්. කේ. වික්‍රමනායක මහතා සහ දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂක සුගත් බණ්ඩාර යන මහත්වරුන් ඇතුළු පිරිසක් සිද්ධිය වාර්තා වීමත් සමඟ සිසු දරු දැරියන් පිළිබඳව සොයා බැලීම සඳහා රෝහලට ගොස් තිබුණි.
+Dambulla Assistant Superintendent of Police. S. K. Mr. Wickremanayake and Dambulla Police Inspector Sugath Bandara had reportedly visited the hospital to look into the students with the incident.
 
-සහකාර ‍පොලිස් අධිකාරියේ එම්. එස්. කේ  වික්‍රමනායක මහතා සඳහන් කළේ,  විද්‍යාලයේ හත්වැනි වසරේ ඉගෙනුම ලබන දරුවන් පිරිසක් මෙසේ රෝහල්ගත කොට තිබෙන බවත් විදුහලේ විද්‍යාගාරය පසුගිය නිවාඩු දින කිහිපයේ රිලවුන් කඩා එහි තිබූ භාණ්ඩ ඇද දමා තිබුණු බවය.
+Asst ASP. S. K. Wickramanayake said a number of children who were educated in the school had been hospitalized that the school lab was taken into hospital with the Last Holidays.
 
-ඒ අනුව එහි විසිරී තිබුණු රතු පැහැගැන්වූ ද්‍රව්‍යයක් මෙම දරුවන් මිරිස් කුඩු යැයි සිතා දිව මත ගා රස බලා ඇති බවය.
+Accordingly, there is a red to have a red tonegument with the chili powder on the tongue.
 
-කෙසේ වෙතත් සහකාර පොලිස් අධිකාරීවරයා සඳහන් කළේ, දැනට සිදුකරන ලද පරීක්ෂණවලින් හෙළි වී ඇත්තේ සිසුන්ගේ මුඛයට ගෑවී ඇත්තේ යකඩ හඳුනාගැනීම සඳහා යොදාගන්නා රසායනික ද්‍රව්‍යයක් බවය.
+The ASP, however, said the investigations have revealed that the students' mouth is a chemical used to identify iron.
 
-...
+The children are receiving treatment and forward investigations are being treated.
+
+◼️
 
 [Data](articles/0664ee96.json)
+
+[Extended Data](ext_articles/0664ee96.ext.json)
 
 ---
 
@@ -1902,37 +1976,5 @@ Opposition Leader Sajith Premadasa said this in Opposition Leader Mobile Service
 [Data](articles/450ef0c8.json)
 
 [Extended Data](ext_articles/450ef0c8.ext.json)
-
----
-
-### Suspect Arrested in Mapalagama with Foreign-Manufactured Semi-Automatic Firearm
-
-*2025-10-07 10:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/suspect-arrested-in-mapalagama-with-foreign-manufactured-semi-automatic-firearm) · `en`
-
-COLOMBO (News 1st): A suspect has been arrested in Mapalagama with a foreign-manufactured semi-automatic firearm resembling a pen.The arrest was made during a raid conducted by officers of the Nagoda Police, in Galle.Police stated that the suspect was found in possession of the pen-shaped semi-automatic firearm, along with two live rounds and five used cartridges.Investigations have revealed that the 23-year-old suspect, a resident of the same area, had previously been remanded for the illegal possession of a firearm.Police further said that he is also facing drug-related charges.The suspect is scheduled to be produced before the Baddegama Magistrate’s Court today.
-
-◼️
-
-[Data](articles/e3868fdc.json)
-
-[Extended Data](ext_articles/e3868fdc.ext.json)
-
----
-
-### Death one of the trio trapped in the rib stream
-
-*2025-10-07 10:24:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிப்-நீரோட்டத்தில்-சிக்கிய-மூவரில்-ஒருவர்-மரணம்/175-365868) · `ta`
-
-Three people from the Matara area were bathing in the sea on the Nilwella beach in Dikwella.
-
-By then, the trio were swept away in a rib stream, and the people of the area took steps to rescue them, but one was reportedly dead there.. The other two rescued have been admitted to the Matara General Hospital for treatment.
-
-The deceased in the incident is said to be 32 -year -old Hewa Nibuna Taraka Lakmal.
-
-◼️
-
-[Data](articles/8c94c07e.json)
-
-[Extended Data](ext_articles/8c94c07e.ext.json)
 
 ---

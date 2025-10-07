@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 22:37:30**
+As of **2025-10-07 22:55:21**
 
 ## Newspaper Stats
 
@@ -27,27 +27,29 @@ adaderanasinhalalk | 14,055
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,990 (100.0%) of 81,991 articles have been extended.
+81,991 (100.0%) of 81,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### ”காணாமல் ஆக்கப்பட்டோர் வழக்கு விசாரணைகளில் முன்னேற்றம் இல்லை”
+### “Missing Case Inquiries are not progressed”
 
 *2025-10-07 22:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-ஆக்கப்பட்டோர்-வழக்கு-விசாரணைகளில்-முன்னேற்றம்-இல்லை/175-365927) · `ta`
 
-வலுக்கட்டாயமாக காணாமல் ஆக்கப்பட்டவர்கள் தொடர்பான ஐ.நா. குழு (CED), அதன் சமீபத்திய அமர்வில் மதிப்பாய்வு செய்த பிறகு, இலங்கை குறித்த அதன் கண்டுபிடிப்புகளை இன்று வெளியிட்டது.
+UN forcibly missing. The committee (CED) released its discoveries about Sri Lanka today after reviewing its recent session.
 
-வலிந்து காணாமல் போவதிலிருந்து அனைத்து நபர்களையும் பாதுகாப்பதற்கான சர்வதேச மாநாட்டை செயல்படுத்துவது குறித்த குழுவின் முக்கிய கவலைகள் மற்றும் பரிந்துரைகள் மற்றும் நேர்மறையான அம்சங்கள் இந்த கண்டுபிடிப்புகளில் உள்ளன. முக்கிய பிரச்சினைகள் பின்வருமாறு:
+These inventions are the main concerns and recommendations and positive aspects of the committee to implement the International Conference to Protect All Persons from Missing. The main issues are as follows:
 
-காணாமல் போனவர்களின் விரிவான பதிவேடு இல்லாதது மற்றும் அவர்களின் கதி மற்றும் இருப்பிடத்தை தெளிவுபடுத்துவதில் உள்ள மட்டுப்படுத்தப்பட்ட முன்னேற்றம் குறித்து குழு கவலை தெரிவித்தது, காணாமல் போனவர்கள் அலுவலகம் (OMP) பெறப்பட்ட 16,966 வழக்குகளில் 23 காணாமல் போனவர்களை மட்டுமே கண்டுபிடித்துள்ளது என்பதைக் குறிப்பிட்டது.
+The group expressed concern over the lack of detailed registration of the missing and the limited progress in clarifying their fate and location, noted that only 23 of the 16,966 cases received by the Office of the Missing Persons (OMP) were found.
 
-ஆயுத மோதலின் போது நடந்தவை உட்பட, வலிந்து காணாமல் ஆக்கப்பட்டதாக கூறப்படும் வழக்குகள் தொடர்பான விசாரணை மற்றும் வழக்குத் தொடுப்பதில் முன்னேற்றம் இல்லாததில் பிரதிபலிக்கும் அதிக அளவிலான தண்டனை விலக்குரிமை குறித்த தனது கவலையையும் அது தெரிவித்தது.
+It also expressed its concern over the excessive exemption of punishment exemption that reflected in the hearing of alleged disappearance, including what happened during the armed conflict.
 
 ...
 
 [Data](articles/47e4e12e.json)
+
+[Extended Data](ext_articles/47e4e12e.ext.json)
 
 ---
 

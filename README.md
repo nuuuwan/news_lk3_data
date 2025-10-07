@@ -1,37 +1,193 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 14:56:32**
+As of **2025-10-07 15:20:35**
 
 ## Newspaper Stats
 
-*Scraped **81,838** Articles*
+*Scraped **81,892** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 636
 dbsjeyarajcom | 637
-bbccomsinhala | 726
-colombotelegraphcom | 813
-lankadeepalk | 934
+bbccomsinhala | 727
+colombotelegraphcom | 815
+lankadeepalk | 937
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,821
-adaderanalk | 10,513
-tamilmirrorlk | 12,134
-virakesarilk | 13,467
-adaderanasinhalalk | 14,039
+adalk | 7,824
+adaderanalk | 10,520
+tamilmirrorlk | 12,147
+virakesarilk | 13,490
+adaderanasinhalalk | 14,041
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,837 (100.0%) of 81,838 articles have been extended.
+81,857 (100.0%) of 81,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### දඬුවම් පනත බිල්ලෙක්ද?
+
+*2025-10-07 15:00:30* · [`lankadeepalk`](https://www.lankadeepa.lk/features/දඬවම-පනත-බලලකද/2-680858) · `si`
+
+දණ්ඩ නීති සංග්‍රහය සංශෝධනය කිරීම සඳහා පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති පනත් කෙටුම්පත සම්බන්ධයෙන් යම් සමාජ කතිකාවක් ගොඩ නැගී ඇති බව පෙනේ. දණ්ඩ නීති සංග්‍රහයේ 308 අ වගන්තියේ දැක්වෙන “ඕනෑකමින්” යන වචනය වෙනුවට “චේතනාන්විත” යන යෙදුම මෙම සංශෝධිත පනත් කෙටුම්පතට ඇතුළත් කර තිබේ.
+
+එමෙන් ම මේ සංශෝධිත පනත් කෙටුම්පතෙහි 308 ආ 1 වගන්තිය නමින් අලු‍ත් වගන්තියක් ඇතුළත් කර ඇති අතර එහි ශාරීරික දඬුවම් කිරීමේ වරද කරන අවස්ථාව විස්තර කර තිබේ. එය දැක්වෙන්නේ පහත පරිදි ය.
+
+වයස අවුරුදු 18 ට අඩු යම් තැනැත්තකුගේ භාරකාරත්වය, භාරය හෝ ආරක්ෂකත්වය දරා සිටින විට දඬුවම් කිරීමේ ක්‍රියාමාර්ගයක් වශයෙන් හෝ නිවැරැදි කිරීමේ ක්‍රමයක් වශයෙන් කෙතරම් අඩු වුව ද යම් ප්‍රමාණයක වේදනාවක් හෝ අපහසුතාවක් හෝ ඇති වීමට හේතු වන බවට දැනුම ඇතිව ශාරීරික බලය භාවිත කර යම් ක්‍රියාවක් සිදු කරන අවස්ථාවකදීත් එම වගන්තියේ ම, ආ, අනු වගන්තියෙහි දැක්වෙන පරිදි කෙතරම් අඩු වුවත් යම් ප්‍රමාණයක අවමානයක් ඇති වීමට හේතු වන බවට දැනුම ඇතිව ශාරීරික නොවන යම් ක්‍රියාවක් සිද්ධ කරන කවර හෝ තැනැත්තකු ශාරීරික දඬුවම් කිරීමේ වරද සිදු කරන බවය.
+
+...
+
+[Data](articles/c1df43c3.json)
+
+---
+
+### ගුරු දිනය - කළ යුත්තේ කුමක්ද?
+
+*2025-10-07 14:53:24* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ගර-දනය-කළ-යතත-කමකද/2-680857) · `si`
+
+අප “ලෝක ගුරු දිනය” සමරන්නේ ඔක්තෝබර් 07 වැනිදා අඟහරුවාදා දිනයේ ය. එහෙත් එය ඇත්තට යෙදෙන්නේ ඔක්තෝබර් 05 වැනිදාය. එදින ලෝක ගුරු දිනය ලෙස ප්‍රකාශයට පත් කරනු ලැබ ඇත්තේ අධ්‍යාපනයට හා ගුරු වෘත්තියට එදින විශේෂ දිනයක් වන හෙයිනි.
+
+එක්සත් ජාතීන්ගේ අධ්‍යාපන විද්‍යා හා සංස්කෘතික සංවිධානය (UNESCO) සමග ජාත්‍යන්තර කම්කරු සංවිධානය (IOL) එක්ව “ගුරුවරුන් සතු පිළිගැනීම සඳහා වන නිර්දේශ” ප්‍රකාශයට පත් කරනු ලැබුවේ 1966 ඔක්තෝබර් 05 වැනිදාය. එනිසා ඔක්තෝබර් 05 වැනිදා මුළු ලෝකයටම වැදගත් දිනයක් ලෙස 1994 දී මේ සංවිධාන ද්විත්වය “ලෝක ගුරු දිනය” ප්‍රකාශයට පත් කළහ.
+
+අපේ සමාජයේ මේ ගුරු දිනය සැමරෙන්නේ මවුපිය කණ්ඩායම් එකතුවී ගුරුවරුන්ට මුදලින් හෝ වෙනත් ආකාරයකින් තෑගි ලබා දීමේ උත්සව පැවැත්වීමෙනි. ඒ සඳහා මුදල් එකතු කිරීමත් පාසල්වල සිදුවන දූෂණයට එකතුවක්ව ඇත. සෑම වසරකම යුනෙස්කෝව විසින් ලෝක ගුරු දිනය වෙනුවෙන් තේමාවක් ලබා දෙන්නේ ය. එය කුමක්දැයි කියා හොයා බලන විදුහල්පතිවරුන්, ගුරුවරුන් හා මවුපියන් ඇතිදැයි නොදනිමි.
+
+ලෝක ගුරු දින වාර්ෂික තේමාව ඇසුරෙන් පාසල්වල සාකච්ඡා සංවාද පැවැත්වෙන්නේ යැයි මා අසා නැත.
+
+...
+
+[Data](articles/f1784fb8.json)
+
+---
+
+### රත්න ද්වි පුද්ගල ඝාතනයේ සුල මුල හෙළිවෙයි
+
+*2025-10-07 14:46:52* · [`adalk`](https://www.ada.lk/breaking_news/රත්න-ද්වි-පුද්ගල-ඝාතනයේ-සුල-මුල-හෙළිවෙයි/11-418956) · `si`
+
+හුංගම පොලිස් බල ප්‍රදේශයේ රන්න  වාඩිගල වලව්මහත්තයාගේ ආර ප්‍රදේශයේ නිවසකදී යුවළක් අද අලුයම් කාලයේ ඝාතනය කර තිබෙනවා.
+
+මෙසේ ඝාතනයට ඇත්තේ රන්න කහ මෝදර කැලණිගම ප්‍රදේශයේ පදිංචි විජේසේකර ආරච්චිගේ පසිදු හේෂාන් (28)නොහොත් බෝ පසිඳු නමැති අයෙකු හා ඔහුගේ අනියම් බිරිද වූ තිස්සමහාරාම ප්‍රදේශයේ පදිංචි  ඉමාෂා මදු භාශනී (27) නමැති තිදෙරු කාන්තාවක්වේ.
+
+ඝාතනයට ලක්වූ කාන්තාව මිට දින හතරකට පමණ ප්‍රථම මෙම නිවසට පැමිණ ඇති අතර පසිදු හේෂාන් නමැති නමැති අය පැමිණ ඇත්තේ පසුගිය 06 වනදා සවස බව ගෙහිමි කාන්තාව පොලිසියට පවසා තිබේ.
+
+...
+
+[Data](articles/3760debc.json)
+
+---
+
+### කාසියේ වාසිය එංගලන්තයට
+
+*2025-10-07 14:43:26* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-එංගලන්තයට/9-418955) · `si`
+
+2025 කාන්තා එක්දින ​ලෝක කුසලාන තරගාවලියේ බංග්ලාදේශය සහ එංගලන්තය අතර තරගය තව සුළු මොහොතකින් ආරම්භ වේ.
+
+මෙම තරගයේ කාසියේ වාසිය දිනා ගත් එංගලන්තය පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/d2eef29c.json)
+
+---
+
+### Everest kills one 137 people securely rescue
+
+*2025-10-07 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227120) · `ta`
+
+Blizzard is on the slopes of Everest mountain, the world's tallest hills. The snowstorm has occurred as trekkers from different countries have set up camps in these mountains.
+
+More than a thousand people were trapped in this blizzard. A 41 -year -old trekker from China died in a blizzard.
+
+137 people have been rescued so far. The rescue of more than a thousand people who have been trapped in the Everest blizzard is underway.
+
+◼️
+
+[Data](articles/a0b234ce.json)
+
+[Extended Data](ext_articles/a0b234ce.ext.json)
+
+---
+
+### Supreme Court upholds death sentence on ‘Julampitiye Amare’
+
+*2025-10-07 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/113302/supreme-court-upholds-death-sentence-on-julampitiye-amare) · `en`
+
+The Supreme Court today (07) dismissed, without proceeding to a hearing, the appeal filed by G.G. Amarasiri, also known as ‘Julampitiye Amare’, against the death sentence imposed on him following a conviction for murder.
+
+The Supreme Court issued the order while affirming the death sentence previously handed down by the Tangalle High Court.
+
+‘Julampitiye Amare’ had been convicted over an incident in 2012, where he forcibly entered a JVP rally in Katuwana and opened fire, killing two individuals and critically injuring another.
+
+The Tangalle High Court then imposed the death sentence on him.
+
+◼️
+
+[Data](articles/296ff30f.json)
+
+[Extended Data](ext_articles/296ff30f.ext.json)
+
+---
+
+### பெண் வைத்தியர் துஷ்பிரயோகம்: அதிரடி உத்தரவு பிறப்பிப்பு
+
+*2025-10-07 14:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-வைத்தியர்-துஷ்பிரயோகம்-அதிரடி-உத்தரவு-பிறப்பிப்பு/175-365894) · `ta`
+
+அனுராதபுரம் போதனா வைத்தியசாலையில் பெண் பயிற்சி நிபுணர் மருத்துவரை கடுமையாக துஷ்பிரயோகம் செய்ததாக கூறப்படும் வழக்கில் கிட்டத்தட்ட ஏழு மாதங்கள் விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் இராணுவ வீரர் செவ்வாய்க்கிழமை (07) பிணையில் விடுவிக்கப்பட்டார். அனுராதபுரம் நீதவான் நாலக சஞ்சீவ ஜெயசூரிய இந்த உத்தரவை பிறப்பித்தார்.
+
+கடுமையான பிணை நிபந்தனைகளின் பேரில் விடுவிக்கப்பட்ட நபர், கல்னேவ புதிய நகரம், எலா வீதி, டி துன் பகுதியைச் சேர்ந்த கே.பி. மதுரங்க ரத்நாயக்க ஆவார்.
+
+சந்தேக நபரை ரூ. 50,000 ரொக்கப் பிணையிலும், தலா ரூ. 500,000 இரண்டு சரீரப் பிணையிலும் விடுவிக்க நீதிமன்றம் உத்தரவிட்டுள்ளது, மேலும் பிணையில் இருப்பவர்களில் ஒருவர் சந்தேக நபரின் நெருங்கிய குடும்ப உறுப்பினராக இருக்க வேண்டும் என்றும் நீதவான் உத்தரவிட்டுள்ளார்.
+
+மேலும், சாட்சிகள் அல்லது விசாரணைகளில் எந்த வகையிலும் தலையிட வேண்டாம் என்று சந்தேக நபரை  நீதவான் கடுமையாக எச்சரித்துள்ளார், மேலும் அவரது வெளிநாட்டு பயணத்தையும் தடை செய்துள்ளார்.
+
+...
+
+[Data](articles/c3b5b65c.json)
+
+---
+
+### Dilvin Silva as the shadow president of Sri Lanka - Mano says
+
+*2025-10-07 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227119) · `ta`
+
+Though Anuragumara Dissanayake is the official president, Tilvin Silva, general secretary of the Janatha Vimukthi Peramuna (JVP) (JVP), is practically a 'shadow president'. Mano Ganeshan, the leader and parliamentarian of the Tamil Progressive Alliance, said that a high -level committee with the JVP's internal seat is the real power of the government.
+
+◼️
+
+[Data](articles/b8a1c62a.json)
+
+[Extended Data](ext_articles/b8a1c62a.ext.json)
+
+---
+
+### Contempt of Court case filed against YouTuber Sudaththa Thilaksiri to be taken up before Appeals Court
+
+*2025-10-07 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113301/contempt-of-court-case-filed-against-youtuber-sudaththa-thilaksiri-to-be-taken-up-before-appeals-court) · `en`
+
+The Court of Appeal today (07) ordered that the petition filed by former Minister Manusha Nanayakkara against YouTuber Sudaththa Thilaksiri, alleging contempt of court, be taken up on December 2 for reconsideration.
+
+The petition was called before a bench comprising the Chairman of the Court of Appeal, Justice Rohantha Abeysuriya and Justice Priyantha Fernando, said Ada Derana reporter.
+
+During the hearing, counsels representing both parties informed the bench that they would notify court during the next hearing date regarding the possibility of reaching an amicable settlement.
+
+Accordingly, the Court of Appeal directed that the petition be called again on December 2.
+
+Former Minister Manusha Nanayakkara had filed the petition, claiming that comments made by Sudaththa Thilaksiri on his YouTube channel amounted to contempt of court and requested that an investigation be conducted and appropriate legal action taken against him.
+
+◼️
+
+[Data](articles/a29d4c92.json)
+
+[Extended Data](ext_articles/a29d4c92.ext.json)
+
+---
 
 ### Government Vows Full Probe into Thajudeen Murder and More
 
@@ -40,6 +196,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/34d9794e.json)
+
+[Extended Data](ext_articles/34d9794e.ext.json)
+
+---
+
+### கிழக்கில் 2 கிலோ 03  கிராம் ஐஸ்: இளம் தம்பதி  கைது
+
+*2025-10-07 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-2-கிலோ-03-கிராம்-ஐஸ்-இளம்-தம்பதி-கைது/175-365893) · `ta`
+
+மட்டக்களப்பு வாழைச்சேனை பிரதேசத்தில் வைத்த 2 கிலோ 03 கிராம் ஐஸ் போதைப் பொருளுடன் 24,23 வயதுடைய இளம் தம்பதியினர் கைது செய்யப்பட்டுள்ளனர்.
+
+உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸ் தலைமையிலான பொலிஸார்  திங்கட்கிழமை (06) மாலை கைது செய்துள்ளனர்.
+
+கிழக்கு மாகாணத்தில் ஆகக்கூடிய தொகை  ஐஸ் போதை பொருள் கைப்பற்றப்பட்டது இதுவே முதன்முறையாகும் என்று    வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+
+வாழைச்சேனை உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸ் கிடைத்த தகவல் ஒன்றிணை அடுத்து அவர் தலைமையிலான பொலிஸ் குழுவினர்  சம்பவ தினமான திங்கட்கிழமை (06) மாலை 4.30 மணியளவில் உதவி பொலிஸ் அத்தியட்சகர் காரியாலயத்துக்கு அருகில் கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்த போது கல்குடாவில் இருந்து ஐஸ் போதை பொருளை முச்சக்கரவண்டியில் எடுத்துக் கொண்டு சென்ற போது அவர்களை சுற்றி வளைத்து மடக்கி பிடித்தனர்.
+
+இதையடுத்து அவர்களிடம் இருந்து 2 கிலோ .03 கிராம் ஐஸ் போதை பொருளை கைப்பற்றினர். அதனையடுத்து அவர்களையும் கைது செய்தது முச்சக்கரவண்டியும் கைப்பற்றினர்.
+
+...
+
+[Data](articles/91fa605a.json)
+
+---
+
+### The teacher who traveled with friends
+
+*2025-10-07 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/227118) · `ta`
+
+A teacher who was drowning in the Murudawela reservoir was drowned, Mitteniya police said.
+
+The incident took place yesterday (06) at 03.30 pm, police said.
+
+The deceased is a 32 -year -old teacher from Marawaka area, police said.
+
+Police investigations have revealed that the teacher was traveling with his friends and was suddenly drowned in the Murudawela reservoir.
+
+◼️
+
+[Data](articles/6abc126c.json)
+
+[Extended Data](ext_articles/6abc126c.ext.json)
 
 ---
 
@@ -52,6 +250,414 @@ Extensions include translations and NER (Named Entity Recognition).
 [Data](articles/294e46d8.json)
 
 [Extended Data](ext_articles/294e46d8.ext.json)
+
+---
+
+### Seven children hospitalised after being exposed to chemical substance in a school lab
+
+*2025-10-07 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/113300/seven-children-hospitalised-after-being-exposed-to-chemical-substance-in-a-school-lab) · `en`
+
+Seven children have been hospitalised after being exposed to a chemical substance in a laboratory of a school in Dambulla.
+
+Among the hospitalized students, five are boys and two are girls. They have been admitted to the Dambulla Base Hospital.
+
+According to police, the students affected are in the seventh grade and the school laboratory had been broken into during the recent school holidays, with some items stolen from the lab.
+
+The children had mistakenly assumed a red-colored substance scattered on the floor of the laboratory was chili powder and tasted it, police said.
+
+However, preliminary investigations revealed that the substance was a chemical used for detecting iron.
+
+The children are currently receiving medical treatment, and further investigations underway.
+
+◼️
+
+[Data](articles/ec4af931.json)
+
+[Extended Data](ext_articles/ec4af931.ext.json)
+
+---
+
+### 18 million rupees for the excavation of the sheep
+
+*2025-10-07 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227117) · `ta`
+
+It has been revealed that the amount of Rs.
+
+The Jaffna Legal Medical Officer Selva Pranavan was submitted to the Magistrate's Court on September 18, and the amount was reported to be about one million rupees (18 million rupees).
+
+On October 1, 2025, after an inquiry into the presence of Jaffna Magistrate Selvanayagam Lenin Kumar, on behalf of the victims of the media, K.. Subhakar noted that the Ministry of Finance has not yet been approved by the Ministry of Finance for excavation.
+
+The work has been paralyzed as the funds requested to carry out excavations of the human burial ground, which have been identified by 240 human skeletons, including children, have been paralyzed.
+
+Two weeks after the request of the legal officer, the Sri Lanka Human Rights Commission had recommended to the government to provide funding to prevent investigations into the sheep burial.
+
+...
+
+[Data](articles/221fde1b.json)
+
+[Extended Data](ext_articles/221fde1b.ext.json)
+
+---
+
+### மஹிந்தவை சந்தித்த மஹிந்த
+
+*2025-10-07 14:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்த-மஹிந்த/175-365890) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் நலன் தொடர்பில் கேட்டறிந்து கொள்வறத்கு முன்னாள் அமைச்சர் மஹிந்த அமரவீர  தங்காலையில் உள்ள கார்ல்டன் இல்லத்திற்கு செவ்வாய்க்கிழமை (07) சென்றார்.
+
+முன்னாள் ஜனாதிபதியை நேசிக்கும் பல அரசியல்வாதிகள் மற்றும் மக்கள் முன்னாள் ஜனாதிபதியின் நலனைக் காண தினமும் கார்ல்டன் இல்லத்திற்குச் சென்று வருகின்றனர்.
+
+முன்னாள் ஜனாதிபதிகளின் உரிமைகளை நீக்கும் சட்டமூலம் நிறைவேற்றப்பட்டதைத் தொடர்ந்து, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ கொழும்பில் உள்ள விஜேராம மாவத்தையில் உள்ள அரசாங்க உத்தியோகபூர்வ இல்லத்திலிருந்து புறப்பட்டு தங்காலையில் உள்ள கார்ல்டன் இல்லத்திற்கு வந்தார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த மஹிந்த மஹிந்த அமரவீர, மஹிந்த ராஜபக்ஷ ஒரு சகாப்தத்தை உருவாக்கிய தலைவர் என்று கூறினார்.
+
+◼️
+
+[Data](articles/6d81e81f.json)
+
+---
+
+### The unions urged the Samurdhi Authority to be transformed into a development organization
+
+*2025-10-07 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227114) · `ta`
+
+The Samurdhi -related trade unions say that the Samurdhi Authority should be created as an organization that will help the development of the country, not as a scholarship.
+
+The National Organizer of the Samurdhi Trade Union Servants Association, Keerthi Bandara Kivuldeeniya said this during a media briefing in Kandy.
+
+The previous rulers pushed the Samurdhi Authority to the bankruptcy to meet the need for the IMF.
+
+During the last regime, they said that they were in the interest of the IMF and said they guided the Samurdhi Authority to dissolve the Authority.
+
+Dubbleu Jyotiratne, Chief Secretary of the All Ceylon Progressive Samurdhi Manager Association, said,
+
+...
+
+[Data](articles/d1a6ad9c.json)
+
+[Extended Data](ext_articles/d1a6ad9c.ext.json)
+
+---
+
+### ජුලම්පිටිය අමරේගේ ඇපෑල විභාගයට නොගෙනම නිෂ්ප්‍රභ කෙරේ
+
+*2025-10-07 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215434) · `si`
+
+මිනීමැරිමේ චෝදනාවට වරදකරු වී මරණීය දණ්ඩනය නියම වී සිටින ජී. ජී. අමරසිරි හෙවත් 'ජුලම්පිටිය අමරේ' නැමැත්තාට පනවා තිබූ මරණීය දණ්ඩනයට එරෙහිව ඔහු විසින් ඉදිරිපත් කළ ඇපෑල විභාගයට නොගෙනම ශ්‍රේෂ්ඨාධිකරණය විසින් අද (07) නිෂ්ප්‍රභ කළේය.
+
+ජුලම්පිටිය අමරේ නමැත්තාට තංගල්ල මහාධිකරණය විසින් ප්‍රකාශිත මරණීය දණ්ඩනය තහවුරු කරමින් ශ්‍රේෂ්ඨාධිකරණය මෙම නියෝගය නිකුත් කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+2012 වසරේ කටුවන ප්‍රදේශයේ පැවති ජනතා විමුක්ති පෙරමුණේ රැස්වීමකට කඩා වැදී වෙඩිතබා පුද්ගලයින් දෙදෙනකු මරා දමා තවත් අයෙකුට මරණීය තුවාල සිදුකිරීමේ චෝදනාවට වරදකරු කෙරුණු විත්තිකරුට තංගල්ල මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කර තිබුණි.
+
+◼️
+
+[Data](articles/0d767a44.json)
+
+---
+
+### Sri Lanka's first private international airline, Fitsair
+
+*2025-10-07 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/227115) · `ta`
+
+Fitsair, the first international airline in Sri Lanka, is proud of the international passenger activities featured in the planned schedule and has become another decisive moment in air travel among Sri Lankan people.
+
+As for the company, it was a year of great growth and achievements last year.
+
+The newcomer of the Fitsair Airlines has successfully launched the Kuala Lumpur airline this year and increased the number of airline services to Maldives and Dakka due to increased question.
+
+As a result of furthering the commitment to the service company in independence, reactivity, and service glory, it has recently been recognized to deal with airport functions at the Bandaranaike International Airport, Colombo.
+
+Fitsair Director Amar Qasim commented on this year's closing
+
+The development of Fitsair depends on the history of flexibility and is based on the bold goal.
+
+...
+
+[Data](articles/247cdc84.json)
+
+[Extended Data](ext_articles/247cdc84.ext.json)
+
+---
+
+### மன்னாரிலும் சட்டத்தரணிகள் பணிப்பகிஷ்கரிப்பு
+
+*2025-10-07 13:55:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரிலும்-சட்டத்தரணிகள்-பணிப்பகிஷ்கரிப்பு/175-365889) · `ta`
+
+யாழ்ப்பாணத்தில்   சட்டத்தரணி ஒருவரின் வீட்டில் உரிய வகையில் தேடுதல் ஆணை இல்லாது பொலிஸாரால் சோதனை முன்னெடுக்கப்பட்டதாக கூறப்படும் சம்பவத்திற்கு எதிர்ப்பு தெரிவித்து  வடமாகாண  சட்டத்தரணிகள் செவ்வாய்க்கிழமை (07) ஒருநாள் பணிப்புறக்கணிப்பை முன்னெடுத்து வருகின்றனர்.  குறித்த பணிப் புறக்கணிப்புக்கு வலு சேர்க்கும் வகையில் மன்னார் சட்டத்தரணிகளும்  பணிப் பகிஷ்கரிப்பை மேற்கொண்டுள்ளனர்.
+
+யாழ்ப்பாணத்தில்   சட்டத்தரணிக்குஎதிராக முன்னெடுக்கப்பட்டசம்பவம் எதிர் காலத்தில் இடம் பெறக் கூடாது என்பதை வலியுறுத்தி குறித்த பணிப்பகிஷ்கரிப்பு போராட்டத்தை சட்டத்தரணிகள் முன்னெடுத்துள்ளனர்.
+
+இதனால்  மன்னாரில் நீதிமன்ற செயல்பாடுகள் ஸ்தம்பிதமடைந்துள்ளதோடு,இன்றைய (07) நாளுக்கான வழக்கு விசாரணைகள் பிரிதொரு தினத்திற்கு தவணை இடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/982db740.json)
+
+---
+
+### විද්‍යාගාරයක තිබූ රසායනික ද්‍රව්‍යක් ශරීරගත වී දරුවන් 7ක් රෝහලට
+
+*2025-10-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215433) · `si`
+
+දඹුල්ල ප්‍රදේශයේ පාසලක විද්‍යාගාරයක් තුළ තිබූ රසායනික ද්‍රව්‍යයක් දිවේ ගැවීමෙන් පාසල් සිසු සිසුවියන් හත්දෙනෙකු රෝහල්ගත කර තිබේ.
+
+රෝහල්ගත කළ සිසුන් අතර පිරිමි දරුවන් පස්දෙනෙකු හා ගැහැණු දරුවන් දෙදෙනෙකු සිටින අතර ඔවුන්ව දඹුල්ල මූලික රෝහලට ඇතුළත් කර ඇත.
+
+දඹුල්ල සහකාර පොලිස් අධිකාරි එම්. එස්. කේ. වික්‍රමනායක මහතා සහ දඹුල්ල මූලස්ථාන පොලිස් පරීක්ෂක සුගත් බණ්ඩාර යන මහත්වරුන් ඇතුළු පිරිසක් සිද්ධිය වාර්තා වීමත් සමඟ සිසු දරු දැරියන් පිළිබඳව සොයා බැලීම සඳහා රෝහලට ගොස් තිබුණි.
+
+සහකාර ‍පොලිස් අධිකාරියේ එම්. එස්. කේ  වික්‍රමනායක මහතා සඳහන් කළේ,  විද්‍යාලයේ හත්වැනි වසරේ ඉගෙනුම ලබන දරුවන් පිරිසක් මෙසේ රෝහල්ගත කොට තිබෙන බවත් විදුහලේ විද්‍යාගාරය පසුගිය නිවාඩු දින කිහිපයේ රිලවුන් කඩා එහි තිබූ භාණ්ඩ ඇද දමා තිබුණු බවය.
+
+ඒ අනුව එහි විසිරී තිබුණු රතු පැහැගැන්වූ ද්‍රව්‍යයක් මෙම දරුවන් මිරිස් කුඩු යැයි සිතා දිව මත ගා රස බලා ඇති බවය.
+
+කෙසේ වෙතත් සහකාර පොලිස් අධිකාරීවරයා සඳහන් කළේ, දැනට සිදුකරන ලද පරීක්ෂණවලින් හෙළි වී ඇත්තේ සිසුන්ගේ මුඛයට ගෑවී ඇත්තේ යකඩ හඳුනාගැනීම සඳහා යොදාගන්නා රසායනික ද්‍රව්‍යයක් බවය.
+
+...
+
+[Data](articles/0664ee96.json)
+
+---
+
+### World Bank warns US tariffs on Indian exports to slow South Asia growth next year
+
+*2025-10-07 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113299/world-bank-warns-us-tariffs-on-indian-exports-to-slow-south-asia-growth-next-year) · `en`
+
+The World Bank on Tuesday said higher tariffs on Indian goods exported to the U.S. will drag the South Asian growth rate in 2026, even as the current year remains shielded by government spending.
+
+The World Bank said growth in South Asia is expected to slow sharply to 5.8 per cent in 2026 from its projection of 6.6 per cent for 2025. Its forecast for the region comprises India, Bangladesh, Sri Lanka, Nepal, Bhutan, and the Maldives.
+
+“For 2026, the forecast has been downgraded, as some of these effects unwind and India continues to face higher-than-expected tariffs on goods exports to the United States,” the World Bank said in its report.
+
+The World Bank has raised its forecast for India’s growth in the current fiscal year ending March 2026 to 6.5 per cent from 6.3 per cent, while trimming its projection for the next fiscal year to 6.3 per cent from 6.5 per cent.
+
+...
+
+[Data](articles/780e369b.json)
+
+[Extended Data](ext_articles/780e369b.ext.json)
+
+---
+
+### If there is a issue on security
+
+*2025-10-07 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227113) · `ta`
+
+The government has a responsibility to ensure the safety of former presidents.  Minister of Public Security and Parliamentary Affairs Ananda Wijebala said that if there are any issues regarding security, it will be reviewed.
+
+He was speaking at a special statement during a session held in Parliament today (07).
+
+The President's Uriques (Removal) Act was recently passed. According to the law, a few privileges and privileges granted to the President have been recovered.
+
+Security vehicles used by former presidents have also been handed over. There is no mention of reducing the protection of the law in the enacted law.
+
+The government has a responsibility to ensure the safety of former presidents. Therefore, if there is any issues regarding security, the request may be made. He said they would be checked.
+
+◼️
+
+[Data](articles/ad86e6c7.json)
+
+[Extended Data](ext_articles/ad86e6c7.ext.json)
+
+---
+
+### Main suspect in brutal double murder in Hungama arrested
+
+*2025-10-07 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/113298/main-suspect-in-brutal-double-murder-in-hungama-arrested) · `en`
+
+A main suspect and three others have been arrested in connection with the brutal killing of a couple using sharp weapons at a house in Wadigala, Hungama.
+
+Hungama Police stated that the suspects were taken into custody this morning (07).
+
+The main suspect in the murder, known as “Andupelana Bindu”, has been identified as a person involved in drug trafficking in the area.
+
+The double homicide took place at approximately 12:45 a.m. today (07).
+
+According to police, a group of five individuals broke into the house after the female homeowner stepped outside to use the toilet. The attackers then entered a bedroom where a man and woman were staying and viciously attacked them with sharp weapons, killing both.
+
+It was further reported that the male victim had been decapitated in the attack.
+
+The victims were identified as a 28-year-old male and a 28-year-old female, who is believed to have been his mistress.
+
+...
+
+[Data](articles/ffda310a.json)
+
+[Extended Data](ext_articles/ffda310a.ext.json)
+
+---
+
+### Sudumalai Bhubaneswari Amman Temple Ancient Building with Divisional Secretariat Divisional Secretariat
+
+*2025-10-07 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/227112) · `ta`
+
+A protest was launched on Tuesday (07) in protest of the arbitrary activities of the administration of the Sudumalai Amman Temple and the unhappiness of the Chandilipayi Divisional Secretariat.
+
+The struggle, which began in front of the Siri Nagammal temple, went to the Chandilipayi Divisional Secretariat. Later, a Mahajar was handed over to a Divisional Secretariat Officer.
+
+Our Sudumalai Bhubaneswari Ambal Temple is a mythical and novelty temple. It was decided to rebuild the temple with the narrow thinking of the temple administration.
+
+The oldest buildings set up by our ancestors claimed for the reconstruction work were demolished. Thus there is a risk of going without old evidence. We do not prevent the construction of the rehab. The oldest of the temple will illustrate our existence.
+
+The oldest building has been demolished as the Divisional Secretariat has granted permission for fake documents and handed over copies to the Divisional Secretary without its original copies.
+
+...
+
+[Data](articles/dffc9fec.json)
+
+[Extended Data](ext_articles/dffc9fec.ext.json)
+
+---
+
+### Amit Weerasinghe as the leader of the new Independence Front
+
+*2025-10-07 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/227111) · `ta`
+
+Amit Weerasinghe, former leader of Mahason Balakaya, has been elected as the leader of the new Independence Front (Abhinava Nithas Peramuna).
+
+The general meeting of the new Independence Front was held at the Kandy Udarattu Arts Association Hall. He has been selected in it.
+
+It is noteworthy that he was popular during the past riots. Professor Kapila Feminimalla has been elected as its general secretary.
+
+There are many difficulties in registering a political party in Sri Lanka. It is a delightful thing that the leader of a political party was elected in such a situation. So he thanked the members who elected me as the leader.
+
+◼️
+
+[Data](articles/17dcc050.json)
+
+[Extended Data](ext_articles/17dcc050.ext.json)
+
+---
+
+### Trincomalee District Attorneys protest protest
+
+*2025-10-07 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227110) · `ta`
+
+The Trincomalee District Lawyers Association was engaged in anti -identity activities on Tuesday (07) in support of the protests by the Jaffna Lawyers Association.
+
+Yall. Attorney -at -law Dushyanthan said that the lawyer was engaged in a move towards justice that the judiciary should be properly adopted against the anarchy of the police without any court orders and anarchy without the appropriate judicial proceedings.
+
+Jaffna District Financial Crime Police Jaffna. The female lawyer from Mallakam visited the office of a lawyer and considered documents. It is also reported that he was released on a bail of Rs.. It was in this context that the anti -identification process was carried out.
+
+◼️
+
+[Data](articles/2d628c5b.json)
+
+[Extended Data](ext_articles/2d628c5b.ext.json)
+
+---
+
+### Attorneys struggle in Jaffna
+
+*2025-10-07 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/227106) · `ta`
+
+Attorneys on Tuesday (07) accused the police of violating the house of a lawyer in Jaffna without any court permission.
+
+Police have launched investigations against some lawyers for allegedly involved in land affirmations in Jaffna.
+
+In the meantime, the police went to his house with the intention of arresting a lawyer who was accused of fraud on Sunday and carried out search operations.
+
+Northern Provincial lawyers were involved in the courts and engaged in vigilante protests in front of the courts, denouncing the police action, denouncing the police action.
+
+At the same time, lawyers who have faced land fraudulent allegations are demanding bail in courts on Wednesday (08) to prevent the police from arrest.
+
+◼️
+
+[Data](articles/ab8f8101.json)
+
+[Extended Data](ext_articles/ab8f8101.ext.json)
+
+---
+
+### Yall. 'O Positive' Blood in Teaching
+
+*2025-10-07 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/227105) · `ta`
+
+The 'O Positive' blood variety at the Jaffna Teaching Hospital is currently undergoing a severe shortage of blood.
+
+The Blood Bank of the Jaffna Teaching Hospital was reported to have been reported to have a shortage of 'O Positive' blood type a few days ago.
+
+Therefore, the bloodbath of the Jaffna Teaching Hospital has requested that the 'O Positive' type of bloodshed and visited the Jaffna Teaching Hospital directly and engage in a bloodbath.
+
+◼️
+
+[Data](articles/a79a3141.json)
+
+[Extended Data](ext_articles/a79a3141.ext.json)
+
+---
+
+### நீச்சல் தடாகத்தில் காயமடைந்த சிறுவன் மரணம்
+
+*2025-10-07 13:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீச்சல்-தடாகத்தில்-காயமடைந்த-சிறுவன்-மரணம்/175-365888) · `ta`
+
+கொழும்பு நீச்சல் கிளப்பில் நடந்த ஒரு சம்பவத்தில் படுகாயமடைந்த எட்டு வயது சிறுவன், தனியார் மருத்துவமனையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்ததாக மருத்துவமனை வட்டாரங்கள் தெரிவித்தன.
+
+மாஸ்டர் ஆர்லான் என அடையாளம் காணப்பட்ட அந்த சிறுவன், கொழும்பு கிளப்பில் நடைபெற்ற ஒரு தனியார் பிறந்தநாள் விழாவின் போது நீச்சல் தடாகத்தில் விழுந்து காயமடைந்தார்.
+
+மூளையில் பலத்த காயங்களுக்கு ஆளானதால், பல நாட்களாக அவருக்கு உயிர்காக்கும் கருவிகள் வழங்கப்பட்டன.
+
+சம்பவம் நடந்தபோது, ​​குளத்தில் உயிர்காக்கும் எந்த காவலரும் இல்லை என்று கூறி, கிளப் மற்றும் அதன் ஊழியர்களின் அலட்சியத்தால் ஏற்பட்டதாக அவரது தந்தை பிரசாத் பனகோட பின்னர் பொலிஸில் முறைப்பாடு செய்திருந்தார்.
+
+கொழும்பு நீச்சல் கிளப் அதன் உறுப்பினர்களுக்கு அளித்த அறிக்கையில், ஒரு உயிர்காக்கும் காவலாளி குழந்தையை மீட்டதாகவும், விருந்தினர்களில் ஒருவரான மருத்துவரின் உதவியுடன் அவசர உதவியை வழங்கியதாகவும் தெரிவித்துள்ளது. பொலிஸ் விசாரணைகளுக்கு முழுமையாக ஒத்துழைப்பதாக கிளப் மேலும் கூறியது.
+
+◼️
+
+[Data](articles/01617d6e.json)
+
+---
+
+### Chinese citizen arrested in Bambalapitiya
+
+*2025-10-07 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227107) · `ta`
+
+The Bambalapitiya Police Criminal Investigation Department (CID) rallied on Monday night (06) a nightclub that illegally sold liquor without permission on a full moon holiday.
+
+The Bambalapitiya Police Criminal Investigation Division (CID) has received information that liquor is being sold at a full moon vacation at a nightclub at Bambalapitiya - Galle Road.
+
+Later, the police have seized liquor bottles and illegal cigarettes from the night's extravagant hotel.
+
+Subsequently, the Chinese citizen of the night's extravagant hotel has been arrested by the police.
+
+Police have taken steps to produce the arrested Chinese citizen in court on Tuesday (07).
+
+Further investigations are being carried out by the Bambalapitiya Police Criminal Investigation Division.
+
+◼️
+
+[Data](articles/6731540d.json)
+
+[Extended Data](ext_articles/6731540d.ext.json)
+
+---
+
+### ஆதிவாசி அகராதி வெளியீடு
+
+*2025-10-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆதிவாசி-அகராதி-வெளியீடு/76-365887) · `ta`
+
+ஊவா மாகாண சபையின் ஏற்பாட்டில், ஊவா நவோதயா கலாசார கலை விழாவுடன் இணைந்து ஆதிவாசி அகராதி வெளியீட்டு விழா பதுளை ஊவா மாகாண நூலக கேட்போர் கூடத்தில் அண்மையில் நடைபெற்றது.
+
+இந்நிகழ்வில் ஊவா மாகாண ஆளுநர் கபில ஜயசேகர, ஊவா மாகாண பிரதம செயலாளர் அனுஷா கோகுல, உருவரிகே வன்னில அத்தன் ஆகியோர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/70ea790a.json)
+
+---
+
+### US ends universal Covid-19 vaccine recommendation, leaves decision to patients
+
+*2025-10-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113297/us-ends-universal-covid-19-vaccine-recommendation-leaves-decision-to-patients) · `en`
+
+The Centers for Disease Control and Prevention (CDC) has implemented recommendations from a newly appointed panel of vaccine advisers. The agency will no longer recommend Covid-19 vaccinations for all Americans, leaving the decision to individual patients.
+
+The agency announced on Oct. 6 that it had implemented recommendations made last month by advisers appointed by US Health Secretary Robert F. Kennedy Jr, reported news agency Associated Press.
+
+Previously, US health officials, following advice from infectious disease experts, had recommended annual Covid-19 booster shots for everyone aged six months and older.
+
+...
+
+[Data](articles/d9c7990f.json)
+
+[Extended Data](ext_articles/d9c7990f.ext.json)
 
 ---
 
@@ -87,6 +693,28 @@ He had tried to kill him earlier and he had survived serious injuries.
 
 ---
 
+### பாகிஸ்தானில் தண்டவாளத்தில் குண்டு வெடிப்பு
+
+*2025-10-07 12:45:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-தண்டவாளத்தில்-குண்டு-வெடிப்பு/50-365885) · `ta`
+
+பாகிஸ்தானின் பலூசிஸ்தான் மாகாணத்தில் பலூச் விடுதலை ராணுவத்தின் போராளிகள் அடிக்கடி தாக்குதல் நடத்தி வருகிறார்கள்.
+
+சமீபகாலமாக ஜாபர் எக்ஸ்பிரஸ் ரெயிலை குறிவைத்து தாக்கினர். கடந்த மார்ச் மாதம் ஜாபர் எக்ஸ்பிரஸ் ரெயிலை கடத்தி 400 பயணிகளை பிணைக்கைதிகளாக பிடித்தனர்.
+
+இந்த நிலையில் இன்று ஜாபர் எக்ஸ்பிரஸ் ரெயில் மீது தாக்குதல் நடத்தப்பட்டுள்ளது. அந்த ரெயில் குவெட்டா நகருக்கு சென்று கொண்டிருந்தது.
+
+சிந்து-பலூசிஸ்தான் எல்லைக்கு அருகில் உள்ள சுல்தான்கோட் பகுதியில் ரெயில் சென்றபோது தண்டவாளத்தில் வைக்கப்பட்டிருந்த குண்டு வெடித்தது.
+
+இதனால் ரெயிலின் 6 பெட்டிகள் தடம் புரண்டு கவிழ்ந்தது. இதில் பலர் காயம் அடைந்தனர்.
+
+உடனே மீட்புக் குழுக்கள் மற்றும் பாதுகாப்புப் படையினர் சம்பவ இடத்துக்கு சென்று மீட்புப்பணியில் ஈடுபட்டனர். காயம் அடைந்தவர்களை மீட்டு ஆஸ்பத்திரிக்கு அனுப்பி வைத்தனர்.
+
+◼️
+
+[Data](articles/5d02cf2b.json)
+
+---
+
 ### England-Bangladeshi match today in Women's World Cup today
 
 *2025-10-07 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215431) · `si`
@@ -102,6 +730,40 @@ Both teams have won the first match in the tournament.
 [Data](articles/2844304d.json)
 
 [Extended Data](ext_articles/2844304d.ext.json)
+
+---
+
+### ரசாயனப் பொருளை சுவைத்த மாணவ குழுவுக்கு பாதிப்பு
+
+*2025-10-07 12:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரசாயனப்-பொருளை-சுவைத்த-மாணவ-குழுவுக்கு-பாதிப்பு/175-365884) · `ta`
+
+தம்புள்ளை பகுதியில் உள்ள ஒரு பாடசாலையில் ஏழாம் வகுப்பு மாணவர்கள் ஏழு பேர், ஆய்வகத்தில் உள்ள ரசாயனப் பொருளை செவ்வாய்க்கிழமை (07) நாக்கில் செலுத்தியதால் தம்புள்ளை ஆதார மருத்துவமனையில் அனுமதிக்கப்பட்டதாக தம்புள்ளை பொலிஸார் தெரிவித்தனர்.
+
+பாடசாலையில் ஏழாம் வகுப்பு மாணவர்கள் குழு மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளதாக உதவி பொலிஸ் கண்காணிப்பாளர் எம்.எஸ்.கே. விக்ரமநாயக்க தெரிவித்தார். கடந்த சில விடுமுறை நாட்களில் பாடசாலையில் ஆய்வகம் உடைக்கப்பட்டு உள்ளே இருந்த பொருட்கள் தூக்கி எறியப்பட்டிருந்தன.
+
+அதன்படி, மிளகாய் தூள் என்று நினைத்து அங்கு சிதறிக் கிடந்த சிவப்பு நிறப் பொருளை மாணவர்கள் சுவைத்ததாகக் கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/b554dcf3.json)
+
+---
+
+### போதை விருந்து: 22 சிறுமிகள் உள்பட 65 பேர் சிக்கினர்
+
+*2025-10-07 12:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-விருந்து-22-சிறுமிகள்-உள்பட-65-பேர்-சிக்கினர்/175-365883) · `ta`
+
+தெலுங்கானா தலைநகர் ஐதராபாத்தின் மொய்னாபாத்தில் உள்ள ஒரு பண்ணை வீட்டில் போதை விருந்து நடப்பதாக பொலிஸாருக்கு ரகசிய தகவல் கிடைத்தது.
+
+இதனையடுத்து பொலிஸார் சம்பவ இடத்திற்கு விரைந்து சென்றனர். அங்கு 22 சிறுமிகள் உள்பட 65 பேர் போதையில் இசைக்கு ஏற்றவாறு ஆடிக்கொண்டிருந்தனர்.
+
+அப்போது 2 பேர் கஞ்சா புகைத்திருந்தது தெரியவந்தது. மற்றவர்கள் மது அருந்தியுள்ளனர். அவர்களிடம் தொடர்ந்து விசாரணை நடந்து வருகிறது.
+
+இதற்கிடையே சமூகவலைத்தளம் மூலமாக ஆட்களை திரட்டி போதை விருந்துக்கு ஏற்பாடு செய்ததாக கனடாவை சேர்ந்த இஷான் உள்பட 6 பேரை பொலிஸார் கைது செய்தனர்.
+
+◼️
+
+[Data](articles/2c2d7900.json)
 
 ---
 
@@ -142,6 +804,74 @@ Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a le
 [Data](articles/0f8bdc18.json)
 
 [Extended Data](ext_articles/0f8bdc18.ext.json)
+
+---
+
+### பொலிஸாருக்கு எதிராக யாழ். வழக்கறிஞர்கள் வேலைநிறுத்தம்
+
+*2025-10-07 12:32:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-எதிராக-யாழ்-வழக்கறிஞர்கள்-வேலைநிறுத்தம்/175-365882) · `ta`
+
+நீதிமன்ற அனுமதியின்றி காவல்துறையினர் ஒரு வழக்கறிஞரின் வீட்டிற்குள் சட்டவிரோதமாக நுழைந்து சோதனை செய்ததாகக் குற்றம் சாட்டி, யாழ்ப்பாணத்தில் வழக்கறிஞர்கள், செவ்வாய்க்கிழமை(07) வேலைநிறுத்தத்தில் ஈடுபட்டனர்.
+
+யாழ்ப்பாணத்தில் நிலப் பத்திர மோசடியில் ஈடுபட்டதாகக் கூறப்படும் பல வழக்கறிஞர்கள் மீது காவல்துறையினர் விசாரணை நடத்தி வரும் நிலையில் இந்த சம்பவம் நிகழ்ந்துள்ளது. நில மோசடி குற்றச்சாட்டுக்கு உள்ளான அத்தகைய ஒரு வழக்கறிஞரை  கைது செய்யும் நோக்கத்துடன், காவல்துறை அதிகாரிகள் அவரது வீட்டிற்குள் ஞாயிற்றுக்கிழமை(05), நுழைந்து, வீட்டிற்குள் சோதனை நடவடிக்கையை மேற்கொண்டதாகக் கூறப்படுகிறது.
+
+இருப்பினும், நீதிமன்றத்தின் முன் அனுமதி அல்லது பிடிவிறாந்து பெறாமல் சோதனை நடத்தியதாக காவல்துறையினர் மீது குற்றம் சாட்டப்பட்டுள்ளது.
+
+இதற்கு பதிலளிக்கும் விதமாக, காவல்துறையினரின் நடவடிக்கைகளைக் கண்டித்து நீதிமன்றங்களுக்கு முன்பாக வழக்கறிஞர்கள் போராட்டங்களை நடத்தினர்.
+
+...
+
+[Data](articles/96325554.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2025-10-07 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/227103) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஒக். 07) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 306.2386 ரூபா ஆகவும் கொள்வனவு விலை  298.7404 ரூபா ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2cb434d8.json)
+
+---
+
+### ආදර්ශමත් ගුරු දින සැමරුමක්
+
+*2025-10-07 12:29:59* · [`adalk`](https://www.ada.lk/breaking_news/ආදර්ශමත්-ගුරු-දින-සැමරුමක්/11-418954) · `si`
+
+ලෝක ගුරු දිනයට සමගාමීව බගවන්තලාව ධර්ම කීර්ති විද්‍යාලයේ සිසු සිසුවියන් විසින් ආදර්ශමත් ගුරු දින සැමරුමක් අද (07) දින සංවිධානය කර තිබුණි.
+
+එම විදුහලේ විදුහල්පති තිස්ස ශ්‍රී ගුණසිංහ මහතා ඇතුලු ආචාර්ය මණ්ඩලයට එම පාසලේ අධ්‍යාපනය ලබන සිසු සිසුවියන් විසින් නිර්මාණය කරන ලද නිළ ලාංඡනයක් ගුරුවරුන්ට පළදවා තූර් වාදනය මැද්දේ විදුහල්පතිවරයා සහ ආචාර්ය මණ්ඩලය පාසල වෙත කැදවාගෙන ගොස් විදුහල්පතිවරයා සහ ආචාර්ය මණ්ඩලය අතින් රුක් රෝපණ වැඩසටහනක්ද සිදු කරනු ලැබූහ.
+
+ගුරු උපහාර උළෙලට අනවශ්‍ය වියදම් නොමැතිව රටට ආදරශයක් වන ආකාරයට ගුරු දින සැමරුම සැමරීමට එම පසලේ අධ්‍යාපනය ලබන සිසු සිසුවියන් කටයුතු කර තිබූණි.(I J)
+
+◼️
+
+[Data](articles/2752f89b.json)
+
+---
+
+### 2025ம் ஆண்டிற்கான பெறுமதி வாய்ந்த வணிக விருந்தினை வென்றுள்ளது தாய் சுமேத
+
+*2025-10-07 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/227102) · `ta`
+
+இலங்கையின் முன்னணி ஊதுபத்தி உற்பத்தியாளர் மற்றும் விநியோகஸ்தரான தாய் சுமேத என்டர்பிரைஸ் பிரைவேட் லிமிடெட் மீண்டும் ஒரு முறை சர்வதேச ரீதியிலான அங்கீகாரத்தினை பெற்றுள்ளது.
+
+BWIO ( USA- =yq;fh) சபையினால்  மிக பரந்தளவிலான பிரிவில் வழங்கப்பட்ட 2025ஆம்  ஆண்டிற்கான பெருமைமிகு வணிக விருதினை பெற்றுக்கொண்டது.
+
+இந்நிறுவனத்தின் சார்பாக இவ்விருதினை  பெற்றுக்கொண்டமைக்கு மனமார்ந்த நன்றிகளை தெரிவித்தார் தாய் சுமேதா என்டர்பிரைஸ்சின் தலைவரும் பிரதம நிறைவேற்று அதிகாரியுமான  சுமேத எல்பிடிய    கடந்த பல ஆண்டுகளாக தாய் சுமேத இவ்வகையான பல பாராட்டுகளை பெற்றுள்ளதோடு இத்துறையில் தனது தலைமைதுவத்தை மீண்டும் மீண்டும் நிறுபித்து வருகின்றது.
+
+இலங்கை பொருளாதாரத்தின் உந்துசக்தியாக இருக்கும் தாய் சுமேத பின்வரும் விடங்களுக்கு பங்களித்து வருகின்றது.
+
+குறிப்பாக சந்தையினை அபிவிருத்தி செய்யும் வகையில் சர்வதேச ரீதியில் உயர் தரத்திலான பொருட்களை ஏற்றுமதி செய்தல்
+
+இலங்கை சோசலிஸ குடியரசின் முன்னால் ஜனாதிபதியான மைத்திரிபால சிறிசேன இந்நிகழ்வின் பிரதம அதிதியாக கலந்துக்கொண்டு விருதினை வழங்கினார்.
+
+◼️
+
+[Data](articles/92905885.json)
 
 ---
 
@@ -205,6 +935,66 @@ When the flight eventually touched down in Edinburgh, Scotland, Jayaweera, a “
 
 ---
 
+### ஏக்ய ராஜ்ய என்ற ஒற்றையாட்சி வரைபை உருவாக்க இலங்கை தமிழ் அரசுக் கட்சி பெரும் பங்கு வகித்தது - கஜேந்திரகுமார் பொன்னம்பலம்
+
+*2025-10-07 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227101) · `ta`
+
+38 வருடம் நடைமுறைப்படுத்தாத 13ம் திருத்தத்தை இலங்கை தமிழ் அரசுக் கட்சி தற்போது அமுல்படுத்த கோருவது ஏக்ய ராஜ்ய என்ற ஒற்றையாட்சி முடக்குவதற்காகவே என அகில இலங்கை தமிழ் காங்கிரஸ் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் தெரிவித்தார்.
+
+இலங்கை தமிழ் அரசுக் கட்சி தலைவர் சி.வீ.கே.சிவஞானம் அண்மையில் தெரிவித்த கருத்துக்கள் தொடர்பாக யாழ்ப்பாணத்தில் திங்கட்கிழமை (06) இடம்பெற்ற ஊடக சந்திப்பில் கருத்து தெரிவித்த போதே இதனை தெரிவித்தார்.
+
+13ம் திருத்தத்தை அமுல்படுத்த வேண்டும் என தமிழ் தேசிய மக்கள் முன்னணி தவிர்ந்த அனைவரும் இணங்கியுள்ளதாக சி.வீ.கே.சிவஞானம் தெரிவித்துள்ளார். அதற்காக சி.வீ.கே.சிவஞானத்திற்கு நன்றி சொல்ல வேண்டும்.
+
+தமிழ் தேசிய மக்கள் முன்னணியை தவிர அனைத்து தரப்புக்களும் போருக்கு பிந்தைய காலத்தில் ஒற்றையாட்சிக்குள் உள்ள 13ற்கு இணங்கியிருந்தன.
+
+ஒற்றையாட்சிக்குள் முடக்கப்பட கூடாது. 13ஐ ஆரம்ப புள்ளியாக கொண்டு நகர்த்த முடியாது என சொல்லியே தமிழ் தேசிய கூட்டமைப்பில் இருந்து வெளியேறினோம்.
+
+...
+
+[Data](articles/ec58da80.json)
+
+---
+
+### 81 பற்களைக் கொண்ட 11 வயது சிறுமி
+
+*2025-10-07 12:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/81-பற்களைக்-கொண்ட-11-வயது-சிறுமி/53-365880) · `ta`
+
+11 வயது சிறுமி ஒருவருக்கு 32 பற்களை வளர்க்கவில்லை என்று எக்ஸ்ரே வெளிப்படுத்தியபோது மருத்துவர்கள் திகைத்துப் போனார்கள். அவளுக்கு 81 பற்கள் இருந்தது.
+
+ஹைபர்டோன்டியா என்று அழைக்கப்படும் இந்த அரிய நிலை, ஈறுகளுக்குள் மறைத்து வைக்கப்பட்டுள்ள கூடுதல் பற்களின் வளர்ச்சியை ஏற்படுத்துகிறது, இது அறுவை சிகிச்சை நிபுணர்களுக்கும் ஆர்த்தடான்டிஸ்டுகளுக்கும் கடுமையான சவால்களை உருவாக்குகிறது. இந்த நிலையில் , மருத்துவர்கள் அவரது தாடையின் கட்டமைப்பைப் பாதுகாக்கும் போது சாதாரண செயல்பாடு மற்றும் சீரமைப்பை மீட்டெடுக்க பிரித்தெடுத்தல் மற்றும் சிகிச்சைகளை கவனமாக திட்டமிட வேண்டியிருந்தது.
+
+அதன் காரணம் இன்னும் தெளிவாக இல்லை என்றாலும், இந்த அரிய ஒழுங்கின்மை மனித உடலை எவ்வளவு கணிக்க முடியாதது மற்றும் வியக்க வைக்கிறது என்பதைக் காட்டுகிறது.
+
+◼️
+
+[Data](articles/8c7a525b.json)
+
+---
+
+### இஸ்ரேல் - காசா சமாதான முயற்சிகள்: ஆபிரகாம் உடன்படிக்கை மற்றும் மோதலின் வேர்கள்
+
+*2025-10-07 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227104) · `ta`
+
+"மத்திய கிழக்கில் ஈரானின் வளர்ந்து வரும் செல்வாக்கு மற்றும் பிராந்திய பாதுகாப்பு குறித்த பொதுவான கவலைகள் ஆகியவற்றின் பின்னணியில், இஸ்ரேல் மற்றும் சுன்னி அரபு நாடுகளுக்கு இடையில் இந்த ஆபிரகாம் உடன்படிக்கை ஒரு புதிய அணிசேர்க்கையை உருவாக்கியுள்ளது. ஆபிரகாம் உடன்படிக்கை, பாதுகாப்பு, வர்த்தகம், சுற்றுலா மற்றும் தொழில்நுட்பம் போன்ற துறைகளில் இருதரப்பு ஒத்துழைப்புக்கு வழி வகுத்ததுள்ளது. இந்த உடன்படிக்கை, இஸ்ரேல்-பாலஸ்தீனிய மோதலின் நிலைப்பாட்டைத் தீர்க்காமல் பிராந்தியத்தில் அமைதியையும் ஸ்திரத்தன்மையையும் கொண்டு வர முடியும் என்று வாதிடும் ஒரு புதிய அணுகுமுறையை பிரதிபலித்தது. இது ட்ரம்ப்பின் புதிய சமாதானத் திட்டத்திற்கும் ஒரு அடித்தளமாகவும் அமைந்துள்ளது"
+
+◼️
+
+[Data](articles/51bad658.json)
+
+---
+
+### விவாகரத்து ஸ்வீட்  கொடுத்து கொண்டாடும் மகனுக்கு பாலபிஷேகம் செய்த தாய்
+
+*2025-10-07 12:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவாகரத்து-ஸ்வீட்-கொடுத்து-கொண்டாடும்-மகனுக்கு-பாலபிஷேகம்-செய்த-தாய்/175-365879) · `ta`
+
+மகாராஷ்டிரா: மனைவியை விவாகரத்து செய்த மகனுக்கு பாலபிஷேகம் செய்த தாய், மகனுக்கு புது துணி வாங்கிக்கொடுத்து கேக் வெட்டி கொண்டாடிய குடும்பம்; 120 கிராம் தங்கம், 18 லட்சம் பணத்தை மனைவிக்கு திரும்பக் கொடுத்ததாகவும், விவாகரத்துக்குப்பின் தான் சிங்களாகவும், மகிழ்ச்சியாகவும் இருப்பதாக பிரடர் என்ற இளைஞர் இன்ஸ்டாவில் பதிவை இட்டுள்ளார்...
+
+◼️
+
+[Data](articles/5641a7f4.json)
+
+---
+
 ### Sri Lanka’s economic recovery remains incomplete as key challenges persist, World Bank says
 
 *2025-10-07 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113295/sri-lankas-economic-recovery-remains-incomplete-as-key-challenges-persist-world-bank-says) · `en`
@@ -222,6 +1012,24 @@ The latest Sri Lanka Development Update, ‘Better Spending for All’ released 
 [Data](articles/65cb0fc7.json)
 
 [Extended Data](ext_articles/65cb0fc7.ext.json)
+
+---
+
+### Sri Lanka’s economic recovery remains incomplete, World Bank says
+
+*2025-10-07 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113295/sri-lankas-economic-recovery-remains-incomplete-world-bank-says) · `en`
+
+Despite Sri Lanka’s strong economic performance in recent times, the recovery remains incomplete, with growth still below pre-crisis levels and poverty significantly elevated, the World Bank said.
+
+The World Bank noted that strengthening the recovery will require continued macroeconomic stability, urgent structural reforms and more efficient, better-targeted public spending.
+
+The latest Sri Lanka Development Update, ‘Better Spending for All’ released by the World Bank today (07), projects Sri Lanka’s economy to grow by 4.6 percent in 2025 — supported by a modest rebound in industry and steady growth in services — before slowing to 3.5 percent in 2026. This outlook is subject to heightened risks, including from elevated global uncertainty.
+
+“While Sri Lanka’s recent economic progress is encouraging, the recovery is uneven and incomplete,” said David Sislen, World Bank Division Director for Maldives, Nepal, and Sri Lanka.
+
+...
+
+[Data](articles/1ea07d0d.json)
 
 ---
 
@@ -305,6 +1113,44 @@ Accordingly, a red have a redlified substance with these children to taste the c
 
 ---
 
+### மஹிந்த ராஜபக்ஷவை சந்தித்தார் மஹிந்த அமரவீர
+
+*2025-10-07 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/227100) · `ta`
+
+முன்னாள் அமைச்சர் மஹிந்த அமரவீர , முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவை தங்காலையில் உள்ள கால்டன் இல்லத்தில் சந்தித்துள்ளார்.
+
+இந்த சந்திப்பின் போது மஹிந்த அமரவீர மற்றும் மஹிந்த ராஜபக்ஷ இடையில் கலந்துரையாடல்கள் இடம்பெற்றுள்ளன.
+
+முன்னாள் ஜனாதிபதிகளின் சிறப்புரிமைகளை இரத்து செய்வதற்காக அரசாங்கத்தினால் சமர்ப்பிக்கப்பட்ட சட்டமூலம் செப்டெம்பர் 10 ஆம் திகதி பாராளுமன்றத்தில்  நிறைவேற்றப்பட்டதையடுத்து, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தான் தங்கியிருந்த கொழும்பு விஜேராம மாவத்தையில் அமைந்துள்ள அரச வாசஸ்தலத்திலிருந்து செப்டெம்பர் 11 ஆம் திகதி வெளியேறி, அம்பாந்தோட்டை - தங்காலையில் உள்ள கால்டன் இல்லத்திற்கு குடிபெயர்ந்தார்.
+
+தங்காலையில் உள்ள கால்டன் இல்லத்திற்கு குடிபெயர்ந்ததையடுத்து மஹிந்த ராஜபக்ஷவை சந்திப்பதற்காக பல அரசியல்வாதிகள், பாராளுமன்ற உறுப்பினர் மற்றும் குடும்ப உறுப்பினர்கள் கால்டன் இல்லத்திற்கு சென்றிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/33f2842b.json)
+
+---
+
+### ஜப்பானின் முன்னணி EV புத்தாக்கவியலாளர் Terra Motors இலங்கையில் உள்நாட்டு விநியோகத்தர்களுக்கும் அழைப்பு
+
+*2025-10-07 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227099) · `ta`
+
+முன்னணி ஜப்பானிய மின்சார வாகன போக்குவரத்து தீர்வுகளை வழங்கும் Terra Motors, இலங்கையில் தனது முன்னணி மின்சாரத்தில் இயங்கும் முச்சக்கர வண்டியான Kyoro ஐ அறிமுகம் செய்துள்ளது.
+
+Terra Motors இன் அடுத்த தலைமுறை மின்சார முச்சக்கர வண்டியாக அமைந்திருப்பதுடன், பயணிகள் போக்குவரத்து மற்றும் சரக்கு போக்குவரத்துக்கும் பயன்படுத்தக்கூடிய வகையில் வடிவமைக்கப்பட்டுள்ளது.
+
+பொறியியல் நுட்பங்களை இலங்கைக்கு கொண்டு வருவதில் நாம் பெருமை கொள்கிறோம். ஆசியாவில் நிலைபேறான போக்குவரத்துக் கட்டமைப்பை மாற்றியமைக்கக்கூடிய பிரதான சந்தைகளில் இலங்கையும் ஒன்றாக அமைந்துள்ளதாக நாம் காண்கிறோம்.” என்றார்.
+
+இந்த நடவடிக்கையினூடாக ஜப்பான் மற்றும் இலங்கையிடையே அதிகரித்துச் செல்லும் பொருளாதார மற்றும் வியாபார கைகோர்ப்புகள் பிரதிபலிக்கப்பட்டுள்ளது.
+
+Terra Motors இன் பிரவேசத்தினூடாக தொழில்னுட்பம், முதலீடு மற்றும் நிலைபேறான விருத்தி போன்றவற்றில் பரஸ்பர அனுகூலம் எற்படும் என்பதில் நிறுவனம் நம்பிக்கை கொண்டுள்ளதுடன், இரு நாடுகளுக்குமிடையே கைகோர்ப்புக்கான புதிய வாய்ப்புகளை ஏற்படுத்தியுமுள்ளது.
+
+...
+
+[Data](articles/08581e54.json)
+
+---
+
 ### Vehicles assigned for security of former presidents can be returned if requested: Public Security Minister
 
 *2025-10-07 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113294/vehicles-assigned-for-security-of-former-presidents-can-be-returned-if-requested-public-security-minister) · `en`
@@ -384,6 +1230,30 @@ Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the member
 [Data](articles/0c70714d.json)
 
 [Extended Data](ext_articles/0c70714d.ext.json)
+
+---
+
+### மின் சிகரெட் பயன்பாடு அதிகரிப்பு ; உலக சுகாதார ஸ்தாபனம் எச்சரிக்கை
+
+*2025-10-07 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227094) · `ta`
+
+தற்போது மின் சிகரெட்டுக்களை பயன்படுத்தும் மக்களின் எண்ணிக்கை அதிகரித்து வருவதாக உலக சுகாதார ஸ்தாபனம் (WHO) தெரிவித்துள்ளது.
+
+சுமார் 15 மில்லியன் சிறுவர்கள் உட்பட 100 மில்லியனுக்கும் அதிகமான மக்கள் மின் சிகரெட்டுகளைப் பயன்படுத்துகின்றனர்.
+
+இது நிக்கோடின் எனும் போதைப்பொருளின் புதிய அலையைத் தூண்டுவதாக உலக சுகாதார ஸ்தாபனம் எச்சரித்துள்ளது.
+
+உலகளாவிய புள்ளிவிவரங்களின் அடிப்படையில், சிறுவர்கள் சராசரியாக, பெரியவர்களை விட 9 மடங்கு அதிகமாக மின் சிகரெட்டுக்களை பயன்படுத்துவதற்கான வாய்ப்புள்ளதாக தெரிவிக்கப்படுகிறது.
+
+மின் சிகரெட்டுகள், நிக்கோடின் போதைப்பொருளின் புதிய அலையை தூண்டுவதாக உலக சுகாதார ஸ்தாபனத்தின் வைத்தியர் எட்டியென் க்ரூக(Etienne Krug) தெரிவித்துள்ளார்.
+
+ஆப்பிரிக்கா மற்றும் தென்கிழக்காசிய நாடுகள் சிலவற்றின் தரவுகளின்படி, மின் சிகரெட்டுக்களை பயன்படுத்தும் மக்களின் எண்ணிக்கை தோராயமானவையாக புள்ளிவிபரப்படுத்தப்பட்டுள்ளது.
+
+இந்த வருடம் பெப்ரவரி மாத நிலவரப்படி, குறைந்தது 86 மில்லியன் மின் சிகரெட் பயனர்கள் காணப்படுவதாக அறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/027afd13.json)
 
 ---
 
@@ -531,6 +1401,24 @@ Memorial events were scheduled in Israel on Tuesday to mark the anniversary.
 
 ---
 
+### பல்கலைக்கழகத்தில் கல்வி கற்று வந்த இளம் பிக்கு உயிரிழப்பு!
+
+*2025-10-07 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/227095) · `ta`
+
+இலங்கை பௌத்த மற்றும் பாளி பல்கலைக்கழக விடுதியின் இரண்டாம் மாடியிலிருந்து கீழே விழுந்து காயமடைந்த நிலையில் கொழும்பு தேசிய வைத்தியசாலையில் நீண்ட நாட்களாக சிகிச்சை பெற்று வந்த இளம் பிக்கு ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக ஹோமாகம தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் இலங்கை பௌத்த மற்றும் பாளி பல்கலைக்கழகத்தில் கல்வி கற்று வந்த 24 வயதுடைய இளம் பிக்கு ஆவார்.
+
+இளம் பிக்கு செப்டெம்பர் மாதம் 26 ஆம் திகதி அதிகாலை 02.30 மணியளவில் பல்கலைக்கழக விடுதியின் இரண்டாம் மாடியிலிருந்து கீழே விழுந்து காயமடைந்த நிலையில் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் நீண்ட நாட்களாக சிகிச்சை பெற்று வந்தார்.
+
+இவ்வாறு வைத்தியசாலையில் சிகிச்சை பெற்று வந்த இளம் பிக்கு சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/94284fb7.json)
+
+---
+
 ### Cultural Fund is time to the committee to 'Pass'
 
 *2025-10-07 11:33:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සසකතක-අරමදල-මගඩ-හයන-කමටවට-තව-කලදය/101-680833) · `si`
@@ -639,6 +1527,22 @@ With the abolition of the rights of the President, the former presidents resumed
 
 ---
 
+### போதை மாத்திரைகளுடன் பொலிஸ் நிலையத்துக்குள் சென்ற பொலிஸ் கான்ஸ்டபிள்!
+
+*2025-10-07 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227092) · `ta`
+
+போதை மாத்திரைகளுடன் பொலிஸ் நிலையத்துக்குள் சென்ற பொலிஸ் கான்ஸ்டபிள் ஒருவர் நேற்று திங்கட்கிழமை (06) மாலை கைதுசெய்யப்பட்டதாக ஹோமாகம தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபரான பொலிஸ் கான்ஸ்டபிள் கடமை நேரத்தில் கடமையை செய்யாமல் பொலிஸ் நிலையத்திலிருந்து வெளியே சென்று நீண்ட நேரத்தின் பின்னர் மீண்டும் பொலிஸ் நிலையத்துக்குள் சென்றுள்ளார்.
+
+இதன்போது பொலிஸ் அதிகாரிகளால் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபரான பொலிஸ் கான்ஸ்டபிளிடமிருந்து போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b484fb6b.json)
+
+---
+
 ### Mahinda Amaraweera visits ex-President Rajapaksa in Tangalle
 
 *2025-10-07 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113292/mahinda-amaraweera-visits-ex-president-rajapaksa-in-tangalle) · `en`
@@ -672,6 +1576,26 @@ Meanwhile, the price of a 24-carat gold sovereign, which stood at Rs. 306,000 on
 [Data](articles/a7030a58.json)
 
 [Extended Data](ext_articles/a7030a58.ext.json)
+
+---
+
+### பாப்பரசரை சந்தித்தார் யுனிசெப் நிர்வாக பணிப்பாளர் கேத்தரின் ரஸ்ஸல்
+
+*2025-10-07 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227087) · `ta`
+
+உலக சிறுவர்களின் நிலை தொடர்பில் கலந்துரையாட  யுனிசெப் (UNICEF) நிர்வாக பணிப்பாளர் கேத்தரின் ரஸ்ஸல் (Catherine Russell)  பாப்பரசர் 14-ஆம் லியோவைச் சந்தித்துள்ளார்.
+
+வத்திக்கானில் இடம்பெற்ற இந்த சந்திப்பில், குறிப்பாக மோதல்கள், வறுமை மற்றும் உலகளாவிய வெளிநாட்டு உதவித்தொகை மற்றும் கடன் நெருக்கடிகளால் பாதிக்கப்பட்ட சிறுவர்களின் நிலை குறித்து கலந்துரையாடப்பட்டுள்ளது.
+
+அதேநேரம், வெளிநாட்டு உதவி நிதியில் உலகளாவிய ரீதியில், சுகாதாரம், கல்வி மற்றும் பாதுகாப்பு சேவைகளுக்கான அணுகல் திரும்பப் பெறப்படுவதாகவும் யுனிசெப் (UNICEF) நிர்வாக பணிப்பாளர் கேத்தரின் ரஸ்ஸல் தெரிவித்துள்ளார்.
+
+காசா, கொங்கோ ஜனநாயகக் குடியரசு, ஹைட்டி, சூடான், உக்ரேன் மற்றும் ஏமன் போன்ற நாடுகளில் பல சிறுவர்கள், மோதல் மற்றும் வன்முறைகளுக்கு மத்தியில் வாழ்வதுடன் சிலர் அதிலிருந்து தப்பி ஓடுவதாகவும் தெரிவிக்கப்படுகிறது.
+
+இதற்கிடையில், தற்போது 1 பில்லியன் சிறுவர்கள் காலநிலை மாற்றங்களினால் தாக்கங்களுக்குள்ளாகி உள்ளதுடன், பலர் தீவிர வறுமையில் வாழ்வதாகவும் தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/e6069479.json)
 
 ---
 
@@ -1010,995 +1934,5 @@ The deceased in the incident is said to be 32 -year -old Hewa Nibuna Taraka Lakm
 [Data](articles/8c94c07e.json)
 
 [Extended Data](ext_articles/8c94c07e.ext.json)
-
----
-
-### They look like dad
-
-*2025-10-07 10:19:53* · [`lankadeepalk`](https://www.lankadeepa.lk/news/එයලට-හනනත-පනන-මමය-තතතය/101-680829) · `si`
-
-MP Namal Rajapaksa said that he would not succeed in making false evidence and put false evidence.
-
-"The President will sit on the world and come. It's good to go the country, it doesn't matter, and the head of the head of state should attend international conventions.
-
-We're not in the mentality they have been. But when you visit an international convention, the leaders of the state should also tell us about the consequences of them. Don't sign the covenants and shut the shop.
-
-.It 's not give you agreement with some countries that the government has signed agreements. If you can't give, it's something to hide? Why does the house and do politics? The government is trying to now when the government cannot work
-
-Show our mouths and show prisons, and lose their lives. We do not do politics. Building false evidence and put us in prisons, but it won't work.
-
-...
-
-[Data](articles/a76014e8.json)
-
-[Extended Data](ext_articles/a76014e8.ext.json)
-
----
-
-### They look like dad
-
-*2025-10-07 10:19:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/එයලට-හනනත-පනන-මමය-තතතය/1-680829) · `si`
-
-MP Namal Rajapaksa said that he would not succeed in making false evidence and put false evidence.
-
-"The President will sit on the world and come. It's good to go the country, it doesn't matter, and the head of the head of state should attend international conventions.
-
-We're not in the mentality they have been. But when you visit an international convention, the leaders of the state should also tell us about the consequences of them. Don't sign the covenants and shut the shop.
-
-.It 's not give you agreement with some countries that the government has signed agreements. If you can't give, it's something to hide? Why does the house and do politics? The government is trying to now when the government cannot work
-
-Show our mouths and show prisons, and lose their lives. We do not do politics. Building false evidence and put us in prisons, but it won't work.
-
-...
-
-[Data](articles/af162bb7.json)
-
-[Extended Data](ext_articles/af162bb7.ext.json)
-
----
-
-### Half a salary of suspended judges
-
-*2025-10-07 10:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைநீக்கம்-செய்யப்பட்ட-நீதிபதிகளுக்கு-பாதி-சம்பளம்/175-365867) · `ta`
-
-It has decided to pay half of their salary to the suspended judges, while the Judicial Service Commission (JSC) has suspended several allowances.
-
-The Secretary of the Justice Service Commission Prasanna Alwis has sent a circular describing this decision to all High Court judges.
-
-The move was taken following the recent suspension of judges who faced various allegations. The Judicial Service Commission has announced that the suspended judges will get 50% of their salary.
-
-At the meeting of the Ministry of Justice and the National Coordinating Committee of the Ministry of Justice and the Management Committee on payments to be paid with reduced salary.
-
-The group decided that only professional, personal, living expenses and language allowances would be added to half the salary allowances. Other allowances, including telephone, vehicle, driving, books, home rent, appeal and fuel allowances.
-
-...
-
-[Data](articles/e99802a9.json)
-
-[Extended Data](ext_articles/e99802a9.ext.json)
-
----
-
-### Stock of Magazines and Equipment Found in Weheragala Reservoir to Be Produced in Court Today
-
-*2025-10-07 10:18:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/stock-of-magazines-and-equipment-found-in-weheragala-reservoir-to-be-produced-in-court-today) · `en`
-
-COLOMBO (News 1st): A large stock of magazines and military equipment recovered from the Weheragala Reservoir in Kataragama is scheduled to be produced before the Wellawaya Magistrate’s Court today.Police said that the discovery included 215 empty T-56 magazines, 39 empty LMG drum magazines, 11 empty MPMG-200 magazines, 9 MPMG-100 magazines, 6 T-81 magazines, and one empty 12.7mm aircraft destroyer drum.The items were recovered during operations carried out by three naval diving teams in the Weheragala Reservoir.Following the discovery, the Special Task Force (STF) conducted a two-day search operation in the Yala National Park area adjacent to the reservoir.However, no additional items were found during the operations in the Yala National Park.
-
-◼️
-
-[Data](articles/f091e3a8.json)
-
-[Extended Data](ext_articles/f091e3a8.ext.json)
-
----
-
-### Arrested with a new rifle
-
-*2025-10-07 10:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ரக-துப்பாக்கியுடன்-ஒருவர்-கைது/175-365865) · `ta`
-
-Based on the evening, on the evening of 2025.10.06, the Nagoda Police Station officials seized the autonomous gun, 02 bullets and 05 used bullets made in the form of an abroad.
-
-A man involved in the incident was arrested on suspicion of Nagoda's Aluthanayamgoda. The suspect is a 23 -year -old from Mabalagama.
-
-◼️
-
-[Data](articles/34329b09.json)
-
-[Extended Data](ext_articles/34329b09.ext.json)
-
----
-
-### Humber recovery
-
-*2025-10-07 10:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாங்குளத்தில்-மனித-எலும்புக்கூடு-மீட்பு/175-365864) · `ta`
-
-A human skeleton was recovered on Saturday (04) in a private land in Mankulam Nagar area of ​​the Mangulam police division of the Mullaitivu district.
-
-The skeleton has been found in the area where a person died in the area, with a part of the land.
-
-A person who went to the area on Saturday evening (04) and the Mankulam police informed the Mankulam police.
-
-Following this, the Mankulam police went to the scene and started investigations into the area as a criminal area.
-
-In this case, the forensic police arrived at the site on Sunday morning (05) and carried out tests on the human body's remains in the area.
-
-Meanwhile, the Mullaitivu District Response District Response to the skeleton of the Mullaitivu District Judge Mrs. Nehrojini Arthanan has been taken to the Vavuniya Hospital in response to the judge's Forensic Police and the police in the presence of the judge.
-
-The skull and the bones were found in the land of the poisonous drug.
-
-...
-
-[Data](articles/4ad5c296.json)
-
-[Extended Data](ext_articles/4ad5c296.ext.json)
-
----
-
-### One arrested with a pen -shaped firearm!
-
-*2025-10-07 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/227079) · `ta`
-
-One person was arrested on Monday evening (06) evening in Galle, Nagoda with a pen -shaped gun, 02 bullets and 05 used ammunition bombs.
-
-According to information received by the Nagoda Police Station, the suspect was arrested during the raid.
-
-The suspect was 23 years old from Mabalagama, police said.
-
-◼️
-
-[Data](articles/06aaf019.json)
-
-[Extended Data](ext_articles/06aaf019.ext.json)
-
----
-
-### A criminal remanded for suspicion
-
-*2025-10-07 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215426) · `si`
-
-A person who was arrested on suspicion of crimes including human killings and remanded.
-
-The suspect was produced before the Kaduwela Magistrate's Court and remanded until the 21st of this month.
-
-The suspect was arrested recently in Thalawathugoda area with a raid conducted by the Talangama Police.
-
-The suspect is a 36 year old resident of Thalawathugoda and he has revealed that he is a person who is close to the organized criminal criminals.
-
-The police said that shot dead in Modara, to buy heroin, and the suspect is filed against the abduction of a person.
-
-The suspect has also been shot and served as the motorcyclist of the crimes of the crimes of the murder of murders in Gampaha.
-
-He was also shot in Weliweriya and the motorcyclist of the crime of attempting to be killed.
-
-The police said that a motorcycle which was suspected to be used for crimes in the possession of the suspect was found.
-
-◼️
-
-[Data](articles/4c4c037d.json)
-
-[Extended Data](ext_articles/4c4c037d.ext.json)
-
----
-
-### Innovation of drugs from lorry; Two arrested arrests!
-
-*2025-10-07 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/227083) · `ta`
-
-Two persons have been arrested by Dungalpitiya police with illegal beedi leaves and heroin.
-
-The suspects have been arrested when a suspicious lorry was found in the Gampaha, Dungalpitiya - Pittipana - Lelma area.
-
-In addition, police said that when the suspects were checked, one person had found 03 grams of 220 milligrams of heroin and another 03 grams of heroin.
-
-Police investigations have revealed that the suspects were 30 and 34 years old from Negombo and Parasankaswewa areas.
-
-◼️
-
-[Data](articles/eb1cba6d.json)
-
-[Extended Data](ext_articles/eb1cba6d.ext.json)
-
----
-
-### Helicopter accident on highway highway in the United States; 3 people are in danger!
-
-*2025-10-07 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227085) · `ta`
-
-A helicopter crashed on a highway on Tuesday (06) in Sacramento, California, USA.
-
-It has been revealed that the medical helicopter departed from a children's hospital.
-
-The video fell to the ground shortly after the helicopter lost control of the highway.
-
-According to reports, the incident took place at around 7.10 pm (local time) on the eastern road of the highway 50 near Howe Avenue.
-
-Last August, three people were killed when a helicopter crashed on White Island in Britain.
-
-◼️
-
-[Data](articles/e47a6841.json)
-
-[Extended Data](ext_articles/e47a6841.ext.json)
-
----
-
-### Sri Lanka rejects resolution presented to UN Human Rights Council
-
-*2025-10-07 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113289/sri-lanka-rejects-resolution-presented-to-un-human-rights-council) · `en`
-
-Sri Lanka, while disagreeing with coercive international action, rejected the resolution 60/L.1/Rev.1 presented to the United Nations Human Rights Council in Genève.
-
-Speaking during the 60th session of the UNHRC, Ambassador and Permanent Representative of Sri Lanka to the United Nations in Geneva Himalee Arunatilaka reiterated Sri Lanka’s rejection to the unprecedented and ad hoc move to expand the UN Human Rights Council´s mandate and the proposal to establish an external evidence gathering mechanism set up by the Office of the High Commissioner for Human Rights.
-
-Ambassador Arunatilaka noted that Sri Lanka participated in discussions on the resolution in a spirit of open and constructive engagement that the country has demonstrated throughout.
-
-She also appreciated the core group’s engagement on language amendments proposed by Sri Lanka but regrets that failure to find agreement on certain key concerns.
-
-...
-
-[Data](articles/4f43acb2.json)
-
-[Extended Data](ext_articles/4f43acb2.ext.json)
-
----
-
-### Sri Lanka rejects resolution presented to Human Rights Council
-
-*2025-10-07 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113289/sri-lanka-rejects-resolution-presented-to-human-rights-council) · `en`
-
-Sri Lanka, while disagreeing with coercive international action, rejected the resolution 60/L.1/Rev.1 presented to the United Nations Human Rights Council in Genève.
-
-Speaking during the 60th session of the UNHRC, Ambassador and Permanent Representative of Sri Lanka to the United Nations in Geneva Himalee Arunatilaka reiterated Sri Lanka’s rejection to the unprecedented and ad hoc move to expand the UN Human Rights Council´s mandate and the proposal to establish an external evidence gathering mechanism set up by the Office of the High Commissioner for Human Rights.
-
-Ambassador Arunatilaka noted that Sri Lanka participated in discussions on the resolution in a spirit of open and constructive engagement that the country has demonstrated throughout.
-
-She also appreciated the core group’s engagement on language amendments proposed by Sri Lanka but regrets that failure to find agreement on certain key concerns.
-
-...
-
-[Data](articles/6a790375.json)
-
-[Extended Data](ext_articles/6a790375.ext.json)
-
----
-
-### The government is ready to provide security to Mahinda
-
-*2025-10-07 09:50:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-பாதுகாப்பு-வழங்க-அரசாங்கம்-தயார்/175-365863) · `ta`
-
-Deputy Minister Mahinda Jayasinghe says the government is ready to provide security to former President Mahinda Rajapaksa.
-
-The Deputy Minister pointed out that there would be no problem in providing security after evaluating the conditions if he was assessed and declared the security requirements and threats he faced.
-
-Therefore, there will be no problems with this issue, he said.  R
-
-◼️
-
-[Data](articles/6d108856.json)
-
-[Extended Data](ext_articles/6d108856.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2025-10-07 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215425) · `si`
-
-◼️
-
-[Data](articles/5dff74ea.json)
-
-[Extended Data](ext_articles/5dff74ea.ext.json)
-
----
-
-### Employee fired at the weekend
-
-*2025-10-07 09:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வார-இறுதியில்-வேலைக்கு-வர-மறுத்த-ஊழியர்-பணிநீக்கம்/175-365862) · `ta`
-
-Excessive work pressure imposed on employees in small private companies in India has become a major debate. In this context, the company's dismissal of the employee who refused to work on the weekend on the weekend, considering the urgent medical needs of his family member in Hyderabad, has caused great shock.
-
-Inhumane act in medical emergency. In it, the company's manager has insisted that he continues to work on weekends and after office hours. Meanwhile, the employee told the manager that his grandmother had to go to the city immediately because he was diagnosed with cancer.
-
-But, the manager has no humanitarianism for the employee's request. Thus, the depressed employee has informed the company through e-mail about his condition and the harassment he faces. But shockingly, the administration, which was mistakenly regarded by the email, has fired him the next day without any prior notice.
-
-...
-
-[Data](articles/5782e85b.json)
-
-[Extended Data](ext_articles/5782e85b.ext.json)
-
----
-
-### A firearm like a pen
-
-*2025-10-07 09:31:08* · [`adalk`](https://www.ada.lk/picture_story/පෑනක්-වැනි-ගිනි-අවියක්/10-418948) · `si`
-
-According to information received by the Nagoda Police Station, a suspect has been arrested with a semiranted firearm in the Nagoda Police Station.
-
-The suspect is a 23 year old resident of Mapalagama. Nagoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/cafae188.json)
-
-[Extended Data](ext_articles/cafae188.ext.json)
-
----
-
-### Fisherman killed
-
-*2025-10-07 09:29:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අකණක-වද-ධවරය-මරට/101-680828) · `si`
-
-A fisherman was killed and another fisherman was killed and another fisherman was injured and injured in a fishing vessel.
-
-The deceased has been identified as a 41 year old father, a 41-year-old father, who is residing in the Diyalagoda area in Maggona.
-
-The accident had occurred when the two men went to a fishing vessel this morning.
-
-Boats were drowned, and the casual was taken and hospitalized.
-
-◼️
-
-[Data](articles/9492e471.json)
-
-[Extended Data](ext_articles/9492e471.ext.json)
-
----
-
-### Britain remembered Manoharan at the Convention; Point out that many relationships have died without truth and justice
-
-*2025-10-07 09:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/227082) · `ta`
-
-Speaking at the United Nations Human Rights Council, the British representative, who had long been fighting for justice, recalled that many family members were unaware of what had happened to their loved ones and not knowing what had happened to their loved ones.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, which was produced by the British -headed Canada, Montenegro and North Mesitonia, was submitted to the new proposal, 60/L1/Rev.1, under the topic of 'Reconciliation, Liability and Human Rights Improves in Sri Lanka' by the British -led Canada, Montenegro and North Mesitonia.
-
-Accordingly, the British representative who presented the proposal on behalf of the Internet countries:
-
-Here I am remembered here that the dead doctor.. Manoharan is the activist who fought for justice after the death of five students, including his son Rajikar, in 2006, in Trincomalee.
-
-...
-
-[Data](articles/99dd0f68.json)
-
-[Extended Data](ext_articles/99dd0f68.ext.json)
-
----
-
-### A person who served as a motorcyclist for several shootings
-
-*2025-10-07 09:25:52* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීම්-කිහිපයකට-යතුරු-පැදිකරු-ලෙස-කටයුතු-කළ-පුද්ගලයෙක්-අල්ලයි/11-418947) · `si`
-
-According to information received by the Talangama Police Officers, a suspect had been arrested with 12 ice narcotics in Thalawathugoda, Thalawathugoda area.
-
-In further investigation into the suspect, the suspect has been revealed that the suspect is currently having close relations with organized criminals. It has been revealed that the suspect shot dead in the Modara Police Division in Modara and Kollupitiya Police Divisions.
-
-Accordingly, the suspect was produced before the Kaduwela Hon.
-
-The suspect is connected to the following crimes in interrogation on detention orders.
-
-• Acting as a motorcyclist of the crime of a man to kill a man in the Gampaha Police Division on 08.08.2012.
-
-• Acting as the motorcyclist of the crimes of attempting to shoot at two murders on 15.03.2012.
-
-• Acting as a motorcyclist of the crime of the crime of the Weliweriya Police Division on 23.03.2013.
-
-Investigations have also been taught that the suspect suspected to be used for shooting crimes.
-
-...
-
-[Data](articles/12fdef46.json)
-
-[Extended Data](ext_articles/12fdef46.ext.json)
-
----
-
-### Indians lead drop in US university visas
-
-*2025-10-07 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113288/indians-lead-drop-in-us-university-visas) · `en`
-
-The United States issued nearly one-fifth fewer student visas in August following a crackdown by President Donald Trump, led by a steep drop for India which was overtaken by China as top country of origin, data showed Monday.
-
-The United States issued 313,138 student visas in August, the most common start month for US universities, a drop of 19.1 percent from the same month in 2024, according to the International Trade Commission.
-
-India, which last year was the top source of foreign students to the United States, saw the most dramatic drop with 44.5 percent fewer student visas issued than a year earlier.
-
-Visa issuance also dropped for Chinese students but not nearly at the same rate. The United States issued 86,647 visas to students from mainland China in August, more than double the number issued to Indians.
-
-The statistics do not reflect overall numbers of US-based students, many of whom remain on previously issued visas.
-
-...
-
-[Data](articles/68a7ee7b.json)
-
-[Extended Data](ext_articles/68a7ee7b.ext.json)
-
----
-
-### We completely reject the new proposal; Sri Lankans are not beneficial by accountability program
-
-*2025-10-07 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/227080) · `ta`
-
-Sri Lanka's resident Himali Arunathilaka, who pointed out that the Sri Lankan resident Himali Arunathilaka, pointed out that he has long been questioning the reliability of the Sri Lankan -related project, the implementation of the project and the allocation of funds.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th.
-
-The new proposal, titled 'Reconciliation, Responsibility and Human Rights Improves' in Sri Lanka, was submitted by the British -led Canada, Malavi, Montenegro and North Mesitonia, the British -led British -headed 60/L1/Rev.1.
-
-Speaking on the issue of the Sri Lankan government, Sri Lanka's Residents of the United Nations Human Rights Council, Himali Arunathilaka, pointed out that he was participating in unofficial discussions on the new proposal and that some of the amendments proposed by him had been embraced.
-
-However, he expressed concern that some of the key issues were not compatible with the Internet.
-
-...
-
-[Data](articles/8f81b791.json)
-
-[Extended Data](ext_articles/8f81b791.ext.json)
-
----
-
-### Constructive measures are essential on the issue of accountability - the European Union's emphasis on the council
-
-*2025-10-07 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/227078) · `ta`
-
-In the House, the European Union has urged the Sri Lankan government to carry out constructive measures in the matter of accountability, as it is essential for justice and accountability to ensure sustainable reconciliation and peace.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, titled 'Reconciliation, Liability and Human Rights Improves' in Sri Lanka, was presented by the Internet, including Canada, Malawi, Montenegro and North Mesitonia, under the aim of fulfilling the meeting during the meeting.
-
-Speaking on the occasion of the European Union's position on the new proposal, the country's representative of the country said he would welcome the progressive restructuring of the Sri Lankan government over the past 12 months.
-
-...
-
-[Data](articles/f99acdb9.json)
-
-[Extended Data](ext_articles/f99acdb9.ext.json)
-
----
-
-### Members
-
-*2025-10-07 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/227077) · `ta`
-
-While some member of the Committee and the High Commission's Office on the issue of Sri Lanka's Office, through a new proposal submitted by the Internet countries, some countries have expressed their respect, and some countries have honored Sri Lanka's sovereignty and urged the council not to interfere in the internal affairs of the country.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, titled 'Reconciliation, Liability and Human Rights Improves' in Sri Lanka, was presented by the Internet, including Canada, Malawi, Montenegro and North Mesitonia, under the aim of fulfilling the meeting during the meeting.
-
-...
-
-[Data](articles/adfb2f98.json)
-
-[Extended Data](ext_articles/adfb2f98.ext.json)
-
----
-
-### 28,000 individuals subjected to inspection during island-wide police operation
-
-*2025-10-07 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113286/28000-individuals-subjected-to-inspection-during-island-wide-police-operation) · `en`
-
-A total of 719 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (06).
-
-As part of the operation, 28,476 people were subjected to inspection, the Police Media Division said.
-
-Police have identified 13 individuals directly linked to criminal activities while 409 suspects with outstanding warrants were arrested during the operation, police noted.
-
-According to the report, a total of 19 drunk drivers were apprehended while a further 20 reckless drivers and 3,483 persons who violated various other traffic offences were identified.
-
-According to police, island-wide operations are conducted to apprehend small-, medium-, and large-scale drug traffickers, individuals involved in criminal activities, and those in possession of illegal firearms.
-
-◼️
-
-[Data](articles/839b5ee1.json)
-
-[Extended Data](ext_articles/839b5ee1.ext.json)
-
----
-
-### Missing Youth Discovery in Adampan Puliyankulam
-
-*2025-10-07 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/227075) · `ta`
-
-Sankar Arun (age 24) from Adampan Puliyankulam area in the Manthai West Divisional Secretariat Division has disappeared since the 30th of this month.
-
-It has been reported that the young man has not returned home on the 30th of this month.
-
-His father has lodged a complaint at the Adampan police station when the son did not return home.
-
-Relatives said that the youth was searched in several parts of the country and the youth was found from the neighboring village this morning.
-
-◼️
-
-[Data](articles/b43721de.json)
-
-[Extended Data](ext_articles/b43721de.ext.json)
-
----
-
-### Wanariya attack on a van
-
-*2025-10-07 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215424) · `si`
-
-The Wildlife is constantly being held at the road to the road from Buttala to Kataragama to Kataragama to Kataragama.
-
-Although wildlife officials do not receive any advertisement to the wildlife, the people are used to eat the people.
-
-The camera lens recorded how the elephant was hit by a van to a van that was staying near the road.
-
-The authorities have been reportedly welcome, so that the road is constantly reported on the road.
-
-◼️
-
-[Data](articles/d688f4c8.json)
-
-[Extended Data](ext_articles/d688f4c8.ext.json)
-
----
-
-### Double murder in Hangama area!
-
-*2025-10-07 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/227074) · `ta`
-
-A man and woman have been hacked to death in a house in Vadikala - Ranna, which belongs to the Hangama Police Division, police said.
-
-The information was received at the Hangama Police Station early this morning (07).
-
-Investigations have revealed that the victims were 28 years old from Ranna and Tissamaharama areas.
-
-While staying at home, it is reported that the unidentified group was attacked by sharp weapons.
-
-◼️
-
-[Data](articles/9b95207f.json)
-
-[Extended Data](ext_articles/9b95207f.ext.json)
-
----
-
-### Criminal gang members arrested
-
-*2025-10-07 08:58:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අපරධකලල-සමජකයක-අලලය/101-680824) · `si`
-
-Talangama Police say that a member of the LTTE has been arrested by a criminal criminal criminal criminal criminal criminal criminal crime.
-
-Police have seized 12200 millions of ice drugs in the suspect
-
-Suspect arrested near the fourth latter junction of Talwatte. The root of the root of a boring criminal in the Order Court on the ordinance of detainees is currently an organized criminal in Dubai in Dubai. Dinesh Wasantha, Navy, and Navy is revealed to be a disciple of those who attend Sumiti
-
-The motorcyclist of the Modara Police Division was shot dead in the Modara Police Division in Gampaha Police Division, 2024.03.202012.2012.2012. Police investigations have revealed that the motorcycle of the criminal was shot and reported to a man of the criminal in the criminal to the Gampaha police station, including the motorcycle of the motorcycle.
-
-◼️
-
-[Data](articles/e9a6c555.json)
-
-[Extended Data](ext_articles/e9a6c555.ext.json)
-
----
-
-### Criminal gang members arrested
-
-*2025-10-07 08:58:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපරධකලල-සමජකයක-අලලය/1-680824) · `si`
-
-Talangama Police say that a member of the LTTE has been arrested by a criminal criminal criminal criminal criminal criminal criminal crime.
-
-Police have seized 12200 millions of ice drugs in the suspect
-
-Suspect arrested near the fourth latter junction of Talwatte. The root of the root of a boring criminal in the Order Court on the ordinance of detainees is currently an organized criminal in Dubai in Dubai. Dinesh Wasantha, Navy, and Navy is revealed to be a disciple of those who attend Sumiti
-
-The motorcyclist of the Modara Police Division was shot dead in the Modara Police Division in Gampaha Police Division, 2024.03.202012.2012.2012. Police investigations have revealed that the motorcycle of the criminal was shot and reported to a man of the criminal in the criminal to the Gampaha police station, including the motorcycle of the motorcycle.
-
-◼️
-
-[Data](articles/6d154a8d.json)
-
-[Extended Data](ext_articles/6d154a8d.ext.json)
-
----
-
-### The reason for the Gampola accident was released
-
-*2025-10-07 08:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பளை-விபத்துக்கான-காரணம்-வெளியானது/175-365861) · `ta`
-
-More news has been revealed about the accident that took place yesterday in Toluwa area in Gampola.
-
-Police suspect that the accident may have been due to the negligence of the woman who drove the car.
-
-The car crashed into a fast -paced car and crashed into a lorry that was traveling there.
-
-A 36 -year -old woman injected the car caused by the accident. Police say he has a driver's training permit.
-
-The woman is said to have drove the car with her husband and two children.
-
-Preliminary inquiries by the police revealed that the husband had later given her wife the opportunity to pay the car.
-
-When she was traveling near the Vihara, the woman pressed the ACClerator instead of pressing the brake
-
-It is reported that four women traveling on the street and the lorry crashed.
-
-In this case, the woman who was driving the car was admitted to the hospital.. Remble
-
-◼️
-
-[Data](articles/6786a067.json)
-
-[Extended Data](ext_articles/6786a067.ext.json)
-
----
-
-### Decision on the salaries of the suspended judges
-
-*2025-10-07 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215423) · `si`
-
-The Judicial Service Commission has decided not to pay a few gifts with the acting payments with the acting payments.
-
-The Secretary of the Judicial Service Commission Prasanna Alwis has been released to all High Court Judges.
-
-The Judicial Service Commission had recently taken action to study the judges who were accused of various accusations.
-
-The Judicial Service Commission has decided that half salary payments should be made for the judges.
-
-Judicial and National Integration The Audit and National Integration Ministry have been discussed at the audit and management committee meeting of the Ministry.
-
-The committee has decided that only the payment of vocal allowances, private offers, cost of living allowances and language allowances should be applied.
-
-The Audit and Management Committee has decided not to pay telephone allowances, vehicle allowances, driving allowances, book offers, payday allowance and fuel allowances.
-
-...
-
-[Data](articles/f87e297a.json)
-
-[Extended Data](ext_articles/f87e297a.ext.json)
-
----
-
-### Judicial Service Commission decides to withhold several allowances for suspended judges
-
-*2025-10-07 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/113284/judicial-service-commission-decides-to-withhold-several-allowances-for-suspended-judges) · `en`
-
-The Judicial Service Commission (JSC) has decided to pay only partial salaries to judges currently under suspension and to withhold several allowances that they would normally be entitled to.
-
-According to reports, a circular related to the decision has been issued by Prasanna Alwis, the Secretary of the Judicial Service Commission, to all High Court Judges.
-
-The JSC had recently taken steps to suspend several judges who are facing various allegations. Following this, the Commission decided that those judges would only be entitled to reduced salaries during their period of suspension.
-
-The matter of which allowances are to be paid along with the partial salaries was discussed during a meeting of the Audit and Management Committee of the Ministry of Justice and National Integration.
-
-At the meeting, the committee decided that only the following allowances should be granted to suspended judges:
-
-The committee further ruled that the following allowances should not be paid to the suspended judges:
-
-...
-
-[Data](articles/4ec82696.json)
-
-[Extended Data](ext_articles/4ec82696.ext.json)
-
----
-
-### It is raining this afternoon
-
-*2025-10-07 08:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பிற்பகல்-மழை-பெய்யும்/175-365860) · `ta`
-
-The Department of Meteorology has predicted that rain or thunderstorms will occur after 1.00 pm in most parts of the country
-
-Heavy rainfall is likely in some parts of the Northern, North Central, Eastern, Central and Uva provinces.
-
-It has been announced that rain or thunderstorms will occur in the morning and in the Western Province and in the Galle, Matara, Puttalam, Jaffna and Trincomalee districts.. (A)
-
-◼️
-
-[Data](articles/bce86a07.json)
-
-[Extended Data](ext_articles/bce86a07.ext.json)
-
----
-
-### PB arrested for sale in policemen
-
-*2025-10-07 08:27:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මත-කරල-ගන-පලසයට-ආ-පස-අතඅඩගවට/1-680820) · `si`
-
-Police say a constable was arrested by the police station with alcohol, Homagama Police said.
-
-Police have seized 150 millions of drunkills in possession of the suspected constable.
-
-The suspected orders were ordered to work as the telephone operator at six am yesterday (6).
-
-The suspect had found these alcohol when he inspected the main entrance of the police station again at around 11 pm, the suspect was not visible from the police station.
-
-◼️
-
-[Data](articles/1e4a957b.json)
-
-[Extended Data](ext_articles/1e4a957b.ext.json)
-
----
-
-### PB arrested for sale in policemen
-
-*2025-10-07 08:27:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මත-කරල-ගන-පලසයට-ආ-පස-අතඅඩගවට/101-680820) · `si`
-
-Police say a constable was arrested by the police station with alcohol, Homagama Police said.
-
-Police have seized 150 millions of drunkills in possession of the suspected constable.
-
-The suspected orders were ordered to work as the telephone operator at six am yesterday (6).
-
-The suspect had found these alcohol when he inspected the main entrance of the police station again at around 11 pm, the suspect was not visible from the police station.
-
-◼️
-
-[Data](articles/b0aa3c7d.json)
-
-[Extended Data](ext_articles/b0aa3c7d.ext.json)
-
----
-
-### GMOA gathering suddenly today
-
-*2025-10-07 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215422) · `si`
-
-A urgent executive committee meeting of the Government Medical Officers Association is scheduled to be held today (07).
-
-Assistant Secretary of the Association Dr. H. Hansal Weerasuriya said that the objective of the Ampara District is to discuss the problem of medical transfers in the Ampara District.
-
-The Government Medical Officers Association has commenced a trade union action in protest of arbitrary skepticism by health administrations in the Ampara District.
-
-According to the Assistant Secretary of the Government Medical Officers Assistant Secretary Dr. H. Hansamal Weerasuriya said that the government is not focused on the issue.
-
-◼️
-
-[Data](articles/6afe6dca.json)
-
-[Extended Data](ext_articles/6afe6dca.ext.json)
-
----
-
-### Gold set to become Australia’s second-biggest resource earner
-
-*2025-10-07 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113283/gold-set-to-become-australias-second-biggest-resource-earner) · `en`
-
-Australia said on Tuesday it expected gold to become its second most valuable resource export after iron ore this financial year, dislodging liquefied natural gas, as concerns over geopolitical instability fuel demand for the safe-haven metal.
-
-Australia’s gold exports are expected to rise by A$12 billion ($7.9 billion) to A$60 billion in the current financial year ending in June 2026, as the country exports more gold at higher prices, the department of industry said in its September quarterly report.
-
-That would eclipse Australia’s export earnings for LNG, which are expected to fall to A$54 billion this financial year, and to A$48 billion the following year, tracking lower oil prices.
-
-A lower interest rate environment in the United States is also expected to support gold prices above $3,200 a troy ounce over the next two years, the report said. Gold prices hit a record high on Monday and are trading close to $4,000 an ounce.
-
-...
-
-[Data](articles/909677f5.json)
-
-[Extended Data](ext_articles/909677f5.ext.json)
-
----
-
-### A couple hacked to death
-
-*2025-10-07 08:09:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/යවළක-කප-කට-මරල/101-680819) · `si`
-
-A male and woman has been assaulted by a male and a woman in the Hungama Ara area in the Hungama Police Division in the Hungama Police Division.
-
-A man who had been resident of Kelaniya, a resident of Kelaniya, accused of killing several murders.
-
-According to police, several persons who covered their faces have been killed and have fled the police.
-
-◼️
-
-[Data](articles/0c85b1ad.json)
-
-[Extended Data](ext_articles/0c85b1ad.ext.json)
-
----
-
-### A couple hacked to death
-
-*2025-10-07 08:09:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/යවළක-කප-කට-මරල/1-680819) · `si`
-
-A male and woman has been assaulted by a male and a woman in the Hungama Ara area in the Hungama Police Division in the Hungama Police Division.
-
-A man who had been resident of Kelaniya, a resident of Kelaniya, accused of killing several murders.
-
-According to police, several persons who covered their faces have been killed and have fled the police.
-
-◼️
-
-[Data](articles/5df0a74b.json)
-
-[Extended Data](ext_articles/5df0a74b.ext.json)
-
----
-
-### Cutty murdering young couple
-
-*2025-10-07 08:02:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-தம்பதியினர்-வெட்டிக்-கொலை/175-365859) · `ta`
-
-A couple who were hacked to death by sharp weapons from a house in the Hungama - Dilut area have been recovered.
-
-Police have been informed that 2 people have died mysteriously in a house in the area. Accordingly, the police have begun investigations.
-
-Preliminary inquiries by the police revealed that the 28 -year -old husband and her wife died.
-
-◼️
-
-[Data](articles/0215a199.json)
-
-[Extended Data](ext_articles/0215a199.ext.json)
-
----
-
-### Sri Lanka Customs Records Highest-Ever Revenue in September
-
-*2025-10-07 07:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka-customs-records-highest-ever-revenue-in-september) · `en`
-
-COLOMBO (News 1st): Sri Lanka Customs has reported a record-breaking revenue collection for the month of September.According to official data, Customs generated a revenue of Rs. 253.152 Billion in September this year — marking a 74.6% increase compared to the same period last year.In September 2024, Customs revenue stood at Rs. 144.969 Billion.Meanwhile, Sri Lanka’s trade deficit narrowed to USD 414.2 million in August 2025, down from USD 422.3 million recorded in August 2024.The Central Bank attributes this improvement to higher growth in exports compared to imports.Commodity export earnings in August 2025 rose by 4.1%, while commodity import expenditure increased by 2.6% during the same period.
-
-◼️
-
-[Data](articles/12c19dac.json)
-
-[Extended Data](ext_articles/12c19dac.ext.json)
-
----
-
-### GMOA Executive Committee meeting called to discuss transfer issues
-
-*2025-10-07 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/113282/gmoa-executive-committee-meeting-called-to-discuss-transfer-issues) · `en`
-
-An emergency executive committee meeting of the Government Medical Officers’ Association (GMOA) is scheduled to be held today (07).
-
-According to Dr. Hansamal Weerasuriya, the Assistant Secretary of the GMOA, the purpose of the meeting is to discuss issues arising from recent medical officer transfers in the Ampara District.
-
-The GMOA has launched trade union action within the district, expressing opposition to what they claim are arbitrary transfers carried out by the Ampara District Health Administration.
-
-Dr. Weerasuriya further stated that since the government has not yet addressed the issue, the GMOA will decide today on the next steps regarding their ongoing trade union actions.
-
-◼️
-
-[Data](articles/1382700c.json)
-
-[Extended Data](ext_articles/1382700c.ext.json)
-
----
-
-### Telephone conversation between Brazil and American President
-
-*2025-10-07 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215421) · `si`
-
-Brazilian President Lewis Esio Lula de Silva and US President Donald Trump has taken place.
-
-Foreign media reports that the telephone conversation has taken place for about 30 minutes of the two countries.
-
-The President of the United States has requested the US President to remove sanctions imposed by the tariffs and officials of their country.
-
-The US President has also kept his social media account on this telephone conversation.
-
-It is reported that these telephones have also agreed to meet the leadership of the two countries.
-
-◼️
-
-[Data](articles/f5aebd6e.json)
-
-[Extended Data](ext_articles/f5aebd6e.ext.json)
-
----
-
-### Mahinda Rajapaksa should be killed
-
-*2025-10-07 07:39:15* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-රාජපක්ෂ-එල්ලා-මැරිය-යුතුයි/11-418946) · `si`
-
-President Mahinda Rajapaksa served as president in the last 10 kilometers of the war.  Former Army Commander Field Marshal Sarath Fonseka said that a ceasefradowed and was betrayed.
-
-He added that the former President should be hanged for that action. He was speaking at a function held at Matara.
-
-"At the time Namal was the king of the king. Daddy's jail in Sarath Fonseka and went wrong. Mahinda Rajapaksa wants to explain why the last 10 kilometers to go to Mahinda Rajapaksa to end the war. Safety was saved to save Prabhakaran, including Prabhakaran.
-
-If the 2005 presidential election should be won, would it not have been a racist if they gave the terrorists for two million dollars? We are fighting with the terrorists, he gives money to the weapons. President Mahinda Rajapaksa is killing Mahinda Rajapaksa to hang on the neck.
-
-◼️
-
-[Data](articles/74b7565e.json)
-
-[Extended Data](ext_articles/74b7565e.ext.json)
-
----
-
-### 5 casual couple murdered
-
-*2025-10-07 07:26:18* · [`adalk`](https://www.ada.lk/breaking_news/මුහුණු-ආවරණය-කරගෙන-පැමිණි-5ක්-අනියම්-යුවළක්-ඝාතනය-කරයි/11-418944) · `si`
-
-In the afternoon of the Hungama Police Division, a woman and a woman had been killed in a house in the Hungama area.
-
-The deceased and the victim are the 28 year old residents of the Tissamaharama area.
-
-While the deceased was with his mastery with his mistress of his friend, a group of five people who were covered with their mistreatment had been assaulted by sharp weapons.
-
-The cause of the murder is yet to be ascertained, and there is no place in the area for the bodies magistrate investigation. Hungama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/c8989381.json)
-
-[Extended Data](ext_articles/c8989381.ext.json)
-
----
-
-### Several houses damaged by strong winds in Welikanda
-
-*2025-10-07 07:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/113279/several-houses-damaged-by-strong-winds-in-welikanda) · `en`
-
-Several houses in Mahindagama within the Welikanda Divisional Secretariat Division in Polonnaruwa have been partially damaged or destroyed due to strong winds last evening (06).
-
-The incident occurred between 5:00 p.m. and 6:00 p.m., according to the Welikanda Divisional Secretariat.
-
-Since the exact number of damaged houses and the extent of the damages have not yet been determined, information about the affected houses is being collected through the respective Grama Niladhari officers, the Secretariat said.
-
-Once the information is received, arrangements will be made to allocate funds through the Disaster Relief Services Center to rebuild the damaged houses and immediate steps will be taken to provide necessary relief to those affected, Welikanda Divisional Secretariat noted.
-
-Meanwhile, around 6:00 p.m. yesterday, strong winds accompanied by rain in Punani, Welikanda reportedly caused partial or full damage to around 10 houses, according to local residents.
-
-...
-
-[Data](articles/eb1e58ac.json)
-
-[Extended Data](ext_articles/eb1e58ac.ext.json)
-
----
-
-### The first parliamentary week of October to today
-
-*2025-10-07 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215420) · `si`
-
-For the month of October, the first parliamentary week begins today (07).
-
-The Parliament's Secretariat said that the Parliament is scheduled to meet with Speaker Wickramaratne at 9.30 am today.
-
-The Convention Amendment Amendment Bill is due to be held in sports to take stimulus material in sports today.
-
-The Supplementary Estimate of the Ministry of Highways, Ports and Civil Aviation will be debated tomorrow (08).
-
-The council of the opposition on Thursday is scheduled to be held on Friday, eight private monthly proposals will be debated on Fridays.
-
-◼️
-
-[Data](articles/d9478835.json)
-
-[Extended Data](ext_articles/d9478835.ext.json)
-
----
-
-### Showers in the evening
-
-*2025-10-07 06:52:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සවස-කලය-වස-ඇත-ව/101-680818) · `si`
-
-Showers or thundershowers will occur at several places in the island.
-
-Some places in the North, North and Central East, Central and Uva provinces have more than 50 mm.
-
-Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincomalee districts.
-
-◼️
-
-[Data](articles/57ca4890.json)
-
-[Extended Data](ext_articles/57ca4890.ext.json)
-
----
-
-### Showers in the evening
-
-*2025-10-07 06:52:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සවස-කලය-වස-ඇත-ව/1-680818) · `si`
-
-Showers or thundershowers will occur at several places in the island.
-
-Some places in the North, North and Central East, Central and Uva provinces have more than 50 mm.
-
-Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincomalee districts.
-
-◼️
-
-[Data](articles/0bc1c44a.json)
-
-[Extended Data](ext_articles/0bc1c44a.ext.json)
 
 ---

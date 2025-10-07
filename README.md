@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 17:59:36**
+As of **2025-10-07 18:22:29**
 
 ## Newspaper Stats
 
-*Scraped **81,926** Articles*
+*Scraped **81,930** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 637
-newsfirstlk | 640
+newsfirstlk | 642
 bbccomsinhala | 727
 colombotelegraphcom | 815
 lankadeepalk | 952
@@ -19,19 +19,89 @@ islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,828
 adaderanalk | 10,520
-tamilmirrorlk | 12,153
+tamilmirrorlk | 12,154
 virakesarilk | 13,490
-adaderanasinhalalk | 14,046
+adaderanasinhalalk | 14,047
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,925 (100.0%) of 81,926 articles have been extended.
+81,930 (100.0%) of 81,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### Request of the Opposition to 323 Imported Contactations of Customs
+
+*2025-10-07 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215440) · `si`
+
+A proposal to appoint 323 containers from the Colombo Port has been handed over to the Speaker to appoint 323 containers.
+
+The proposal was handed over to the Speaker today a man of opposition members.
+
+Members of the Opposition of the Opposition of the Opposition of Members of the Agreement for the occasion, Ranjith Madduma Bandara, Harshana Rajakarunana, JC. The elephants and Dr. Kavinda Jayawardena were present.
+
+The Sri Lanka General Front is also appointed as MP. Paddy. Mr. Chanaka was participating.
+
+◼️
+
+[Data](articles/20210c3b.json)
+
+[Extended Data](ext_articles/20210c3b.ext.json)
+
+---
+
+### SC Confirms Death Sentence for Julampitiya Amare
+
+*2025-10-07 17:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sc-confirms-death-sentence-for-julampitiya-amare) · `en`
+
+COLOMBO (News 1st); The Supreme Court of Sri Lanka upheld the death sentence imposed by the Tangalle High Court on G.G. Amarasekara, widely known as Julampitiya Amare, for his conviction in a double murder that occurred in 2012.The ruling was delivered by a bench comprising Justices Janak de Silva, Sobhitha Rajakaruna, and Sampath Wijeratne, who dismissed the appeal filed by Amare’s legal team seeking acquittal and release. The appeal was rejected without being taken up for full hearing, thereby confirming the original sentence.Amare was found guilty of opening fire at a political rally organized by the Janatha Vimukthi Peramuna (JVP) in Katuwana, resulting in the deaths of two individuals and causing critical injuries to another. Following a lengthy trial, the Tangalle High Court sentenced him to death in 2019.
+
+◼️
+
+[Data](articles/586a96d8.json)
+
+[Extended Data](ext_articles/586a96d8.ext.json)
+
+---
+
+### IMF representatives who met the president
+
+*2025-10-07 17:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்த-IMF-பிரதிநிதிகள்/175-365910) · `ta`
+
+Representatives of the International Monetary Fund (IMF) praised the government's steps to restore the economy of the declined country and discussed the steps to be followed in the future.
+
+A discussion between President Anuragumara Dissanayake and the International Monetary Fund was held on Tuesday (07) at the Presidential Office.
+
+It was held as an interim discussion of the fifth review before the IMF to provide the sixth installment of the International Monetary Fund in the Debt Relief process.
+
+President Anura Kumara Dissanayake said that the main objective of the government is to liberate the country, which is economically bankrupt, and lead to development.
+
+The President also said that the International Monetary Fund's support for the success of this program is greatly appreciated.
+
+The President pointed out that the government had identified the need to exceed the targets set by the IMF to develop the country as an economic revival.
+
+...
+
+[Data](articles/5d141cf8.json)
+
+[Extended Data](ext_articles/5d141cf8.ext.json)
+
+---
+
+### Kajja Worked At MoD During Thajudeen Murder
+
+*2025-10-07 17:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/kajja-worked-at-mod-during-thajudeen-murder) · `en`
+
+...
+
+[Data](articles/aad1f350.json)
+
+[Extended Data](ext_articles/aad1f350.ext.json)
+
+---
 
 ### Sri Lanka Eyes Recovery Beyond IMF Targets
 
@@ -299,15 +369,17 @@ COLOMBO(News 1st); Seven students from a school in Dambulla have been hospitaliz
 
 ---
 
-### අන්තර්ජාලය හරහා සිදුවන වංචා ගැන පැමිණිලි ඉහළට
+### Complaints on the Internet
 
 *2025-10-07 16:36:40* · [`adalk`](https://www.ada.lk/breaking_news/අන්තර්ජාලය-හරහා-සිදුවන-වංචා-ගැන-පැමිණිලි-ඉහළට/11-418959) · `si`
 
-අන්තර්ජාලය හා සමාජ මාධ්‍ය ජාලා හරහා සිදුවන මූල්‍ය අක්‍රමිකතා සම්බන්ධයෙන් මහජනතාව දැනුවත් කිරීමට පොලීසිය නිවේදනයක් නිකුත් කර තිබේ. මේ හරහා සිදුවන මූල්‍ය වංචා සම්බන්ධයෙන් ලැබෙන පැමිණි දිනපතා වාර්තාවන බව පොලීසිය කියයි.
+Police have issued a statement to inform the public on financial irregularities caused through the Internet and Social Media column. The number of financial fraud is reported daily, police said.
 
 ◼️
 
 [Data](articles/4b2656c9.json)
+
+[Extended Data](ext_articles/4b2656c9.ext.json)
 
 ---
 
@@ -1976,95 +2048,5 @@ Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the member
 [Data](articles/0c70714d.json)
 
 [Extended Data](ext_articles/0c70714d.ext.json)
-
----
-
-### Increase in the use of electric cigarettes; World Health Organization Warning
-
-*2025-10-07 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227094) · `ta`
-
-The World Health Organization (WHO) said the number of people who use electric cigarettes is currently increasing.
-
-More than 100 million people, including about 15 million children, use electric cigarettes.
-
-The World Health Organization has warned that it will provoke a new wave of nickname, Nicotine.
-
-Based on global statistics, children are reportedly likely to use 9 times more power cigarettes than adults.
-
-World Health Organization's doctor Etienne Krug (Etienne Krug) said electric cigarettes stimulate the new wave of nicotine drugs.
-
-According to data from some countries in Africa and Southeast Asian, the number of people who use electrical cigarettes is approximately statistics.
-
-As of February this year, it is known that at least 86 million electric cigarette users are found.
-
-Based on studies conducted in 123 countries, about 15 million young people between the ages of 13 and 15 are already using electric cigarettes.
-
-◼️
-
-[Data](articles/027afd13.json)
-
-[Extended Data](ext_articles/027afd13.ext.json)
-
----
-
-### Sri Lanka’s Economy Grows, But Poverty Persists : World Bank Calls for Reform
-
-*2025-10-07 11:57:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka%e2%80%99s-economy-grows-but-poverty-persists-world-bank-calls-for-reform) · `en`
-
-COLOMBO (News 1st); Sri Lanka’s economy is showing signs of resilience, with a projected growth rate of 4.6% in 2025, according to the World Bank’s latest Sri Lanka Development Update, titled Better Spending for All.
-
-However, the report warns that the recovery remains incomplete and uneven, with growth still below pre-crisis levels and poverty significantly elevated.
-
-The report highlights that while inflation is low and external inflows are strong, food prices remain high, foreign reserves are growing slowly, and poverty levels are still double what they were in 2019.
-
-Many households continue to struggle, with 10% of the population living just above the poverty line, and malnutrition persisting among vulnerable groups.
-
-...
-
-[Data](articles/e1228de5.json)
-
-[Extended Data](ext_articles/e1228de5.ext.json)
-
----
-
-### Minimizing inequality between schools is a primary purpose of education - PM
-
-*2025-10-07 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215429) · `si`
-
-The main objective of education, Higher Education and Vocational Education, is the main objective of education, Harini Amarasuriya, the main objective of the education, Higher Education and Vocational Education.
-
-Due to the inequality of the schools, the Prime Minister points out that many decades have been faced with several decades in the school system in Sri Lanka.
-
-The Prime Minister made this observation at a function at the Ministry of Education.
-
-She added that all these problems facing the stress of school children in the competitive educational pattern of the school children's hardest, the inequality of the schools, and the current government is trying to avoid it, she added.
-
-The reduction in this inequality is a key objective of the education reform and the Prime Minister said:
-
-She emphasized that the direct participation, leadership, model and contribution needed to increase the quality of education.
-
-...
-
-[Data](articles/532f5e92.json)
-
-[Extended Data](ext_articles/532f5e92.ext.json)
-
----
-
-### If you make a request, a vehicle is given ...
-
-*2025-10-07 11:49:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉලලමක-කළත-වහනයක-දනව/101-680834) · `si`
-
-Common Security and Parliamentary Affairs Minister Ananda Wijepala said that if the security traffic and other activities were handed over to the use of the security officers deployed to the security officers deployed.
-
-හිටපු ජනාපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ  පනත් කෙටුම්පත  සම්මත වීමෙන් පසු  හිටපු ජනාධිපතිවරුන් පාවිච්චි කළ  ආරක්ෂක වාහන පවා  ආපසු බාරදීමක් කර ඇතැයිද  ඔහු ප්‍රකාශ කළේය.
-
-It is said that it is the responsibility of the government to provide security to former presidents not to protect the rights.
-
-◼️
-
-[Data](articles/d1af7962.json)
-
-[Extended Data](ext_articles/d1af7962.ext.json)
 
 ---

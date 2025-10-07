@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 00:24:08**
+As of **2025-10-08 00:37:11**
 
 ## Newspaper Stats
 
-*Scraped **81,994** Articles*
+*Scraped **81,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,14 +20,14 @@ dailyftlk | 5,683
 adalk | 7,831
 adaderanalk | 10,529
 tamilmirrorlk | 12,158
-virakesarilk | 13,518
+virakesarilk | 13,521
 adaderanasinhalalk | 14,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,994 (100.0%) of 81,994 articles have been extended.
+81,994 (100.0%) of 81,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,6 +70,28 @@ He highlighted that future support will focus on sectors such as green energy an
 [Data](articles/074598cf.json)
 
 [Extended Data](ext_articles/074598cf.ext.json)
+
+---
+
+### ஒக்டோபர் 7 தாக்குதலின் இரண்டாம் ஆண்டு நிறைவு : டிரம்ப்பின் 20 அம்ச திட்டம் மூலம் அமைதியை நிலைநாட்ட உறுதி
+
+*2025-10-07 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/227164) · `ta`
+
+இஸ்ரேலின் வரலாற்றில் மிகவும் கொடூரமான பயங்கரவாதத் தாக்குதலாகக் கருதப்படும் 2023 ஆம் ஆண்டு ஒக்டோபர் 7 ஆம் திகதி ஹமாஸ் நடத்திய தாக்குதலின் இரண்டாவது ஆண்டு நிறைவு செவ்வாய்க்கிழமை (ஒக்டோபர் 7, 2025) அனுசரிக்கப்படுகிறது.
+
+இந்நிலையில் அமெரிக்க வெளியுறவுத்துறை செயலாளர் மார்கோ ரூபியோ வெளியிட்டுள்ள அறிக்கையில் மேலும் குறிப்பிட்டுள்ளதாவது.
+
+இந்தத் தாக்குதலில் 46 அமெரிக்கர்கள் உட்பட 1,200க்கும் மேற்பட்ட அப்பாவி ஆண்கள், பெண்கள் மற்றும் குழந்தைகள் கொடூரமாகக் கொல்லப்பட்டனர்.
+
+அன்றைய தினம் ஹமாஸ் அமைப்பினரால் பிணைக் கைதிகளாகக் கொண்டு செல்லப்பட்ட 254 பேரில், 12 அமெரிக்கர்களும் அடங்குவர்.
+
+இன்றுவரை, அமெரிக்க குடிமக்களான இத்தாய் சென் மற்றும் ஓமர் நியூட்ரா ஆகியோரின் உடல்கள் உட்பட மொத்தம் 48 பணயக் கைதிகள் ஹமாஸின் பிடியில் உள்ளனர்.
+
+இஸ்ரேலுக்கு அமெரிக்காவின் அசைக்க முடியாத ஆதரவு இந்தத் துயரமான ஆண்டு நிறைவைக் குறிக்கும் வேளையில், இஸ்ரேலின் இருப்புக்கும், தன்னைத் தற்காத்துக் கொள்வதற்கும், அதன் மக்களின் பாதுகாப்பை உறுதி செய்வதற்கும் உள்ள உரிமையை அமெரிக்கா மீண்டும் உறுதிப்படுத்துகிறது.
+
+...
+
+[Data](articles/54777b1b.json)
 
 ---
 
@@ -1951,6 +1973,44 @@ The police states that Bo Bo Saspu and his casual wife are also involved in the 
 
 ---
 
+### அச்சுறுத்தலால் என்னை ஒருபோதும் மௌனிக்கச் செய்ய முடியாது ; இலஞ்ச, ஊழல் ஒழிப்பு விசாரணை ஆணைக்குழுவின் பணிப்பாளர் பதவியை இராஜிநாமா செய்ய வேண்டும் - உதய கம்மன்பில
+
+*2025-10-07 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227122) · `ta`
+
+இலஞ்ச, ஊழல் ஒழிப்பு விசாரணை ஆணைக்குழுவின் பணிப்பாளர் நாயகம் ரங்க திஸாநாயக்க எனக்கு எச்சரிக்கை விடுத்திருக்கின்றார். குறித்த பதவியை வகிப்பதற்கான அடிப்படை தகுதியைக் கூட பூர்த்தி செய்யாத அவரது அச்சுறுத்தலால் என்னை ஒருபோதும் மௌனிக்கச் செய்ய முடியாது. அவரது தகுதிகளை நான் நிரூபிக்க முன்னர் அவர் தானாகவே பதவியை இராஜிநாமா செய்வதே சிறந்ததது என பிவிதுரு ஹெல உருமயவின் தலைவர் உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பிலுள்ள பிவிதுரு ஹெல உருமய தலைமையகத்தில்  செவ்வாய்கிழமை (07) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+கடந்த 2ஆம் திகதி இலஞ்ச, ஊழல் ஒழிப்பு விசாரணை ஆணைக்குழுவின் பணிப்பாளர் நாயகம் ரங்க திஸாநாயக்க ஊடகவியலாளர் மாநாடொன்றில், நான் அவருக்கு எதிராக ஊடகங்கள் முன்னிலையில் கருத்து வெளியிட்டால் ஊழல் ஒழிப்பு சட்டத்தின் 118ஆம் உறுப்புரைக்கமைய ஆணைக்குழுவை விமர்சித்தாகக் கருதி சட்ட நடவடிக்கை எடுக்கப்படும் என எச்சரித்துள்ளார்.
+
+அவர் இலஞ்ச, ஊழல் ஒழிப்பு விசாரணை ஆணைக்குழுவின் பணிப்பாளராகப் பதவி வகித்தாலும் அதன் குறித்து அவருக்கு போதிய அறிவு இல்லை என்பது தெளிவாகிறது.
+
+...
+
+[Data](articles/fb587299.json)
+
+---
+
+### நாம் வங்குரோத்தான நாட்டை அனுபவிக்க வழிவகுத்த விசேட காரணிகளில் ஒன்று மோசமான கடன் முகாமைத்துவம் ; சஜித் பிரேமதாச
+
+*2025-10-07 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/227109) · `ta`
+
+அரசாங்கம் ஆட்சிக்கு வந்து ஒரு வருடமாகியுள்ள நிலையில் அரசாங்கம் உள்நாட்டு மற்றும் வெளிநாட்டு கடன்களை மீள செலுத்துவதற்கு  எடுத்துள்ள நடவடிக்கைகள் என்ன என்பதுடன் புதிய அரசாங்கம் ஆட்சிக்கு வந்தது முதல் எடுத்த புதிய கடன்களை சபைக்கு தெரிவிக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (07) நிலையியற் கட்டளை 27(2) இன் கீழ் கேள்வி எழுப்பி உரையாற்றுக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இலங்கையர்களாகிய நாம் வங்குரோத்தான நாட்டை அனுபவிக்க வழிவகுத்த விசேட காரணிகளில் ஒன்று தான் மோசமான கடன்  முகாமைத்துவமாகும்.
+
+சர்வதேச நாணய நிதியத்துடன் இணக்கப்பாடு கண்டிருந்த சமயம் நாட்டைப் பொறுப்பேற்ற தற்போதைய அரசாங்கம், நாட்டை அபிவிருத்திப் பாதையை நோக்கி வழிநடத்தும் என்று மக்கள் எதிர்பார்த்தனர்.
+
+இதன்பிரகாரம், புதிய அரசாங்கம் ஆட்சிக்கு வந்து ஒரு வருடத்திற்கும் மேலாகிவிட்ட இச்சந்தர்ப்பத்தில், நாட்டின் எதிர்கால அபிவிருத்தி இலக்குகள் மற்றும் அதற்கான பொருளாதார தயார்நிலையையும் தெரிந்து  கொள்ள பின்வரும் கேள்விகளைக் கேட்க விரும்புகிறேன்.
+
+...
+
+[Data](articles/7dc3b049.json)
+
+---
+
 ### Toss in the coin to England
 
 *2025-10-07 14:43:26* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-එංගලන්තයට/9-418955) · `si`
@@ -1982,73 +2042,5 @@ More than a thousand people were trapped in this blizzard. A 41 -year -old trekk
 [Data](articles/a0b234ce.json)
 
 [Extended Data](ext_articles/a0b234ce.ext.json)
-
----
-
-### Supreme Court upholds death sentence on ‘Julampitiye Amare’
-
-*2025-10-07 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/113302/supreme-court-upholds-death-sentence-on-julampitiye-amare) · `en`
-
-The Supreme Court today (07) dismissed, without proceeding to a hearing, the appeal filed by G.G. Amarasiri, also known as ‘Julampitiye Amare’, against the death sentence imposed on him following a conviction for murder.
-
-The Supreme Court issued the order while affirming the death sentence previously handed down by the Tangalle High Court.
-
-‘Julampitiye Amare’ had been convicted over an incident in 2012, where he forcibly entered a JVP rally in Katuwana and opened fire, killing two individuals and critically injuring another.
-
-The Tangalle High Court then imposed the death sentence on him.
-
-◼️
-
-[Data](articles/296ff30f.json)
-
-[Extended Data](ext_articles/296ff30f.ext.json)
-
----
-
-### Woman Doctor Abuse: Action Order
-
-*2025-10-07 14:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-வைத்தியர்-துஷ்பிரயோகம்-அதிரடி-உத்தரவு-பிறப்பிப்பு/175-365894) · `ta`
-
-For a former soldier who had been detained for nearly seven months on Tuesday (07), a female training specialist at the Anuradhapura Teaching Hospital. Anuradhapura Magistrate Nalaka Sanjeeva Jayasuriya issued this order.
-
-A person who was released on severe bail conditions. Mathuranga is Ratnayake.
-
-The suspect is at a cost of Rs.. 50,000 in cash bail. The magistrate has ordered the release of 500,000 on two physical bail, and that one of the bail should be a close family member of the suspect.
-
-Moreover, the magistrate has strongly warned the suspect not to interfere in any way in witnesses or investigations, and has banned his foreign journey.
-
-However, despite being granted bail for a former soldier in connection with the abuse incident, he is still in the process of holding a handgun.
-
-...
-
-[Data](articles/c3b5b65c.json)
-
-[Extended Data](ext_articles/c3b5b65c.ext.json)
-
----
-
-### 8 lakhs donation of Chinese community to the Uyana
-
-*2025-10-07 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215435) · `si`
-
-The Chinese community and Chinese community and Chinese people in Sri Lanka have to donate a financial donation of Rs. 800,000.
-
-The financial donation has been made to improve the rehabilitation and safety of the sence capacity due to the unfortunate casualties of medicine accidents recently.
-
-This sad event, Chinese journalist, Sri Lanka's Chinese Language Internet newspaper, was reported on the Web Site and many of the Chinese community in Sri Lanka and China.
-
-Later, contacting her willingness to contribute to the rehabilitation and improvement of the crowdial cable cable.
-
-According to the success of this charity, the Chinese Media Institute of China and the Colombo North Cultural Center in Colombo have joined the Chinese community.
-
-Accordingly Rs. 800,000 was presented to the Nayaka Thera on Saturday, opener on the 500,000.
-
-The Chinese leaders have been prompted that the Chinese community's respect and kindness to the work of Sri Lanka.
-
-...
-
-[Data](articles/cd2532bd.json)
-
-[Extended Data](ext_articles/cd2532bd.ext.json)
 
 ---

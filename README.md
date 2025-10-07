@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 21:21:02**
+As of **2025-10-07 22:11:07**
 
 ## Newspaper Stats
 
-*Scraped **81,978** Articles*
+*Scraped **81,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,21 +17,139 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,829
+adalk | 7,831
 adaderanalk | 10,526
-tamilmirrorlk | 12,156
-virakesarilk | 13,512
-adaderanasinhalalk | 14,052
+tamilmirrorlk | 12,157
+virakesarilk | 13,518
+adaderanasinhalalk | 14,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,978 (100.0%) of 81,978 articles have been extended.
+81,989 (100.0%) of 81,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### பொலிஸ் அதிகாரியை கைது செய்த விசேட அதிரடிப்படையினர்
+
+*2025-10-07 21:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரியை-கைது-செய்த-விசேட-அதிரடிப்படையினர்/175-365914) · `ta`
+
+முல்லைத்தீவு - மாங்குளம், கொக்காவில் பகுதியில் பொலிஸ் அதிகாரி ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்டுள்ளார்.
+
+இராணுவ புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய, ஏ-9 வீதியின் கொக்காவில் பகுதியில் இன்று காலை குறித்த பொலிஸ் அதிகாரி ஐஸ் போதைப்பொருளுடன் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டு மாங்குளம் பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+
+குறித்த பொலிஸ் அதிகாரி, தனது உடமையில் 92 கிராம் 400 மில்லிகிராம் ஐஸ் போதைப்பொருளை வைத்திருந்த குற்றச்சாட்டில் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c9aa42ad.json)
+
+---
+
+### Massive landslide in India
+
+*2025-10-07 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215448) · `si`
+
+A bus have been killed in a large number of landslides in the Hathachalle in the Hathachal area in the Billaspur district of India.
+
+It is reported that the accident had occurred while he was traveling from Rohtlevin to Gummervin.
+
+The Indian media reported that massive operations have been launched to release the buses of the accident.
+
+The bus has reported that the bus has collapsed at once on the road.
+
+◼️
+
+[Data](articles/bfdad714.json)
+
+[Extended Data](ext_articles/bfdad714.ext.json)
+
+---
+
+### Appoint a Special Select Committee to investigate 323 containers who have been released without testing!
+
+*2025-10-07 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227163) · `ta`
+
+The United People's Power -led Opposition on Tuesday (07) handed over the proposal to appoint a Special Select Committee to investigate the release of 323 containers from the Port of Colombo without compulsory physical examination.
+
+According to the guidance by the Honorable President, the Committee of the Committee has been appointed by the Treasury Secretary and that the process of release of its observation on its report is unconstitutional, and that "the release of containers without proper examination is" putting serious dangers in national security, income collection and public safety matters ";
+
+...
+
+[Data](articles/ad2de4df.json)
+
+[Extended Data](ext_articles/ad2de4df.ext.json)
+
+---
+
+### Asian Investment Bank Chairman who meets President
+
+*2025-10-07 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227162) · `ta`
+
+Jin Liqun, president of the Asian Infrastructure Investment Bank, said that Sri Lanka's Green Strength Department will be supported.
+
+The Asian Infrastructure Investment Bank Chairman Jin Liqun and its Senior Management Management were speaking at the Presidential Office at the Presidential Office on Tuesday (07).
+
+The Chairman said that the progress of the projects implemented in Sri Lanka under the loan of the Asian Infrastructure Investment Bank has been extensively investigated and will continue to work with Sri Lanka and support the country's progress.
+
+Accordingly, the power of power in Sri Lanka will be promoted and action will be taken to support the future in the fields of green power and green transport facilities.
+
+The president, explaining the economic progress that Sri Lanka has achieved economically, including reducing interest rates and controlling inflation, said the government's expectation is to bring the benefits of the national economy to the ordinary people.
+
+...
+
+[Data](articles/26e2b0ef.json)
+
+[Extended Data](ext_articles/26e2b0ef.ext.json)
+
+---
+
+### Asian Infrastructure Investment Bank President's Chairman and Teacher Meets President
+
+*2025-10-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215447) · `si`
+
+The Asian Infrastructure Investment Bank (AIIB), the President of the Asian Infrastruct Bank - AIIB (AIIB), said.
+
+The Asian Infrastructure Investment Bank Chairman Jin LIQUN (JIN LIQUN) and its senior management, including Jin LIQUN, met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
+
+The progress of the projects implemented in Sri Lanka so far under the Asian Infrastructure Bank is recently reviewed and supported by the country's progress.
+
+According to the Sri Lankan energy stability, he said that the growth of green energy, green transport facilities and focusing on the fields of green transport facilities.
+
+The government expects the President to take the growth of the national economy, which explains the interest rates and the control of inflation control.
+
+...
+
+[Data](articles/0c57785a.json)
+
+[Extended Data](ext_articles/0c57785a.ext.json)
+
+---
+
+### Police notify the public
+
+*2025-10-07 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215446) · `si`
+
+The police requests the public to be aware of the financial fraud.
+
+The fraudulent acts have occurred through Telegraph, Whatsapp Accounts and other social media masses.
+
+The police say that complaints have been reported regarding such financial fraud.
+
+Therefore, the police requested the public not to be caught by individuals who do not know that they are unknown in social media collateral accounts.
+
+The police also said that the account numbers, passwords and passwords are notified by giving out external people to external people.
+
+◼️
+
+[Data](articles/468e2166.json)
+
+[Extended Data](ext_articles/468e2166.ext.json)
+
+---
 
 ### Helps to improve green
 
@@ -52,6 +170,28 @@ The government expects the President to take the growth of the national economy,
 [Data](articles/f7c920a6.json)
 
 [Extended Data](ext_articles/f7c920a6.ext.json)
+
+---
+
+### Ajith P. Perera questioned today's allegations made by the President on the Cricket Board
+
+*2025-10-07 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227161) · `ta`
+
+President Anura Kumara Dissanayake has made several allegations regarding the fraud of the Sri Lanka Cricket Board while in the opposition party. He also noted that a short party has occupied the Cricket Board. The President is currently taking steps on the allegations made by the United People's Power Kalutara District Parliamentarian Ajith P. Perera.
+
+He was speaking at a debate on the Amendment Bill on Tuesday (7) in Parliament on Tuesday (7).
+
+We are firmly in the position of changing the oldest laws in the world. Therefore, we welcome the Equality (Amendment) Bill against the use of stimulant use in the game.
+
+During the last session, the government brought the Penal Code (Amendment) Bill. We have highlighted the legacy of this bill.
+
+Recently, a teacher has been attacked by a teacher in Moneragala. The teacher has lodged a complaint with the police.
+
+...
+
+[Data](articles/fe317444.json)
+
+[Extended Data](ext_articles/fe317444.ext.json)
 
 ---
 
@@ -79,6 +219,24 @@ The Gosl Must immeditely advcessers to the 22 million answers to the 22 million 
 
 ---
 
+### International pressure will gradually decrease if the solution is carried out - the Human Rights Commission of Sri Lanka
+
+*2025-10-07 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227160) · `ta`
+
+Nimal Punjiwa, a member of the Sri Lanka Human Rights Commission, said the new resolution at the UN Human Rights Council (UNHRC) would gradually decrease if the international community could be realized in the matter of human rights and accountability.
+
+The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, titled 'Reconciliation, Responsibility and Human Rights Improves in Sri Lanka' by the Internet countries including Canada, Malawi, Montenegro and North Messidonia, were submitted to the British -led government on Monday (6).
+
+He pointed out that various countries have insisted in the past to resolve human rights concerns in Sri Lanka and have passed some resolutions at the UN Human Rights Council, adding that the resolution was not very good.
+
+...
+
+[Data](articles/b07af789.json)
+
+[Extended Data](ext_articles/b07af789.ext.json)
+
+---
+
 ### Hindu Religious Blessing of Derana 20th Anniversary
 
 *2025-10-07 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215444) · `si`
@@ -96,6 +254,22 @@ Top President of the Derana Media Network, Luxiri Wickremage, Executive Director
 [Data](articles/89eaa4a0.json)
 
 [Extended Data](ext_articles/89eaa4a0.ext.json)
+
+---
+
+### Supreme Court confirms Julampitiy Amare's death
+
+*2025-10-07 19:07:37* · [`adalk`](https://www.ada.lk/breaking_news/ජුලම්පිටිය-අමරේගේ-මරණ-දඩුවම-ශ්‍රේෂ්ඨාධිකරණය-තහවුරු-කරයි/11-418962) · `si`
+
+The Supreme Court confirmed the death penalty prescribed by the Tangalle High Court, who was convicted of killing two persons in Hambantota and injuring another injury.
+
+The Supreme Court confirmed the punishment of two charges with two charges with the JVP in Katuwana, Katuwana, Katuwana, Katuwana, Katuwana, Katuwana.
+
+◼️
+
+[Data](articles/0e8854b6.json)
+
+[Extended Data](ext_articles/0e8854b6.ext.json)
 
 ---
 
@@ -283,6 +457,24 @@ The government has so far paid 155 million rupees to 155 poor families who have 
 
 ---
 
+### Speaker Certificate to act on banned stimulants
+
+*2025-10-07 18:08:07* · [`adalk`](https://www.ada.lk/sports/තහනම්-උත්තේජකවලට-එරෙහි-පනතට-කථානායක-සහතිකය/9-418961) · `si`
+
+Speaker Medical Jagath Wickramaratne today noted the certificate today (07).
+
+Today is 11.30 pm to. Conventions Against Machines (Amendment) Bill was held in the second reading of the Bill, without a bill, without a polling.. The Hon.
+
+This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.  World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
+
+◼️
+
+[Data](articles/556ea330.json)
+
+[Extended Data](ext_articles/556ea330.ext.json)
+
+---
+
 ### Young couple arrested with heavy ice drugs
 
 *2025-10-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227157) · `ta`
@@ -420,6 +612,22 @@ The Sri Lanka General Front is also appointed as MP. Paddy. Mr. Chanaka was part
 [Data](articles/20210c3b.json)
 
 [Extended Data](ext_articles/20210c3b.ext.json)
+
+---
+
+### New Resolution on Sri Lanka: Human Rights Watch has sown among affected parties
+
+*2025-10-07 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/227156) · `ta`
+
+The Human Rights Watch, which has rejected the United Nations, has rejected the United Nations's Magistrate's Project, but the new resolution passed in Sri Lanka yesterday, despite the fact that the President of the United Nations, which was appointed as the government of 2024, was appointed as the government of Sri Lanka, which was passed by the government in the United States of America yesterday. It has been sown among the affected parties.
+
+In a statement issued by Deputy Director of Human Rights Watch in Geneva, Lucy McCarenn, on the new resolution passed on Sri Lanka on Monday (6) at the 60th session of the United Nations Human Rights Council, said:
+
+...
+
+[Data](articles/abc9380f.json)
+
+[Extended Data](ext_articles/abc9380f.ext.json)
 
 ---
 
@@ -1433,6 +1641,24 @@ Although poverty is diminished, this is twice as much as 2019. Also, 10% of peop
 
 ---
 
+### The privilege of MPs has been violated - Dayasiri Jayasekara alleges
+
+*2025-10-07 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227129) · `ta`
+
+Dinesh Siriwardena, a civil member of the Constitutional Council, has expressed his opposition to the Speaker of the Constitution, pointing out that Pimal Ratnayake has been false to appoint Ranga Dissanayake as the Director General of the Commission on Bribery or Corruption.. United People's Power Kurunegala District Parliamentarian Dayasiri Jayasekara accused the Sabha Nayakar and the Chief Minister of the Sabha, the chief minister of the House of Commons, the presence of Parliament.
+
+He was speaking at the session held in Parliament on Tuesday (07).
+
+The Constitutional Council has sought the application on 2024.10.13 and 14 to elect the current Director General of the Commission to Investigate the Investigation of the Corporation or Corruption under Section 29 (1) and (2) of the Parliamentary Standing Ordinance.
+
+...
+
+[Data](articles/cb8cd205.json)
+
+[Extended Data](ext_articles/cb8cd205.ext.json)
+
+---
+
 ### Three scientists win Nobel Prize in physics for work on quantum mechanics
 
 *2025-10-07 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113303/three-scientists-win-nobel-prize-in-physics-for-work-on-quantum-mechanics) · `en`
@@ -1816,257 +2042,5 @@ Subsequently, the couple went to Colombo train and placed a couple to put a pupp
 [Data](articles/91fa605a.json)
 
 [Extended Data](ext_articles/91fa605a.ext.json)
-
----
-
-### 230 grams of ice in the east: Young couple arrested
-
-*2025-10-07 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-230-கிராம்-ஐஸ்-இளம்-தம்பதி-கைது/175-365893) · `ta`
-
-A 24,23 -year -old young couple have been arrested with 230 grams of ice drugs in Valaichenai area in Batticaloa.
-
-Assistant Superintendent of Police MSM. The police, led by Jarus, arrested the police on Monday evening.
-
-This is the first time in the Eastern Province, which has been seized by ice drugs, said Valaichenai police.
-
-Assistant Superintendent of Police MSM. Following the information received by the Juros, a police team led by him, who was engaged in surveillance near the Assistant Superintendent's Office at 4.30 pm on the day of the incident, was taken to the three -wheeler from Kalkudah when they took the ice.
-
-They then seized 230 grams of ice from them. Subsequently, the three -wheeler also seized them.
-
-A main narcotics dealer in Morakotanzenne has told the couple to buy a dog in Colombo.. He has paid Rs.
-
-Subsequently, the couple went to the Colombo train and placed a couple of puppies and a bag to the couple in the area of ​​the Parakkottai area.
-
-...
-
-[Data](articles/ba73ae3f.json)
-
-[Extended Data](ext_articles/ba73ae3f.ext.json)
-
----
-
-### The teacher who traveled with friends
-
-*2025-10-07 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/227118) · `ta`
-
-A teacher who was drowning in the Murudawela reservoir was drowned, Mitteniya police said.
-
-The incident took place yesterday (06) at 03.30 pm, police said.
-
-The deceased is a 32 -year -old teacher from Marawaka area, police said.
-
-Police investigations have revealed that the teacher was traveling with his friends and was suddenly drowned in the Murudawela reservoir.
-
-◼️
-
-[Data](articles/6abc126c.json)
-
-[Extended Data](ext_articles/6abc126c.ext.json)
-
----
-
-### 'Bo Pasindu' & Mistress Hacked to Death : Four in Custody
-
-*2025-10-07 14:06:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/bo-pasindu-mistress-hacked-to-death-four-in-custody) · `en`
-
-...
-
-[Data](articles/294e46d8.json)
-
-[Extended Data](ext_articles/294e46d8.ext.json)
-
----
-
-### Seven children hospitalised after being exposed to chemical substance in a school lab
-
-*2025-10-07 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/113300/seven-children-hospitalised-after-being-exposed-to-chemical-substance-in-a-school-lab) · `en`
-
-Seven children have been hospitalised after being exposed to a chemical substance in a laboratory of a school in Dambulla.
-
-Among the hospitalized students, five are boys and two are girls. They have been admitted to the Dambulla Base Hospital.
-
-According to police, the students affected are in the seventh grade and the school laboratory had been broken into during the recent school holidays, with some items stolen from the lab.
-
-The children had mistakenly assumed a red-colored substance scattered on the floor of the laboratory was chili powder and tasted it, police said.
-
-However, preliminary investigations revealed that the substance was a chemical used for detecting iron.
-
-The children are currently receiving medical treatment, and further investigations underway.
-
-◼️
-
-[Data](articles/ec4af931.json)
-
-[Extended Data](ext_articles/ec4af931.ext.json)
-
----
-
-### 18 million rupees for the excavation of the sheep
-
-*2025-10-07 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227117) · `ta`
-
-It has been revealed that the amount of Rs.
-
-The Jaffna Legal Medical Officer Selva Pranavan was submitted to the Magistrate's Court on September 18, and the amount was reported to be about one million rupees (18 million rupees).
-
-On October 1, 2025, after an inquiry into the presence of Jaffna Magistrate Selvanayagam Lenin Kumar, on behalf of the victims of the media, K.. Subhakar noted that the Ministry of Finance has not yet been approved by the Ministry of Finance for excavation.
-
-The work has been paralyzed as the funds requested to carry out excavations of the human burial ground, which have been identified by 240 human skeletons, including children, have been paralyzed.
-
-Two weeks after the request of the legal officer, the Sri Lanka Human Rights Commission had recommended to the government to provide funding to prevent investigations into the sheep burial.
-
-...
-
-[Data](articles/221fde1b.json)
-
-[Extended Data](ext_articles/221fde1b.ext.json)
-
----
-
-### Mahinda met Mahinda
-
-*2025-10-07 14:00:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவை-சந்தித்த-மஹிந்த/175-365890) · `ta`
-
-Former Minister Mahinda Amaraweera visited the Carlton residence in Tangalle on Tuesday (07) to hear about the welfare of former President Mahinda Rajapaksa.
-
-Many politicians and people who love the former president go to Carlton's house every day to see the benefit of the former president.
-
-Former President Mahinda Rajapaksa left the government official residence in Colombo and arrived at the Carlton residence in Tangalle, following the passage of the Bill to remove the rights of former presidents.
-
-Commenting on the media, Mahinda Mahinda Amaraweera said that Mahinda Rajapaksa was the leader who created a era.
-
-◼️
-
-[Data](articles/6d81e81f.json)
-
-[Extended Data](ext_articles/6d81e81f.ext.json)
-
----
-
-### The unions urged the Samurdhi Authority to be transformed into a development organization
-
-*2025-10-07 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227114) · `ta`
-
-The Samurdhi -related trade unions say that the Samurdhi Authority should be created as an organization that will help the development of the country, not as a scholarship.
-
-The National Organizer of the Samurdhi Trade Union Servants Association, Keerthi Bandara Kivuldeeniya said this during a media briefing in Kandy.
-
-The previous rulers pushed the Samurdhi Authority to the bankruptcy to meet the need for the IMF.
-
-During the last regime, they said that they were in the interest of the IMF and said they guided the Samurdhi Authority to dissolve the Authority.
-
-Dubbleu Jyotiratne, Chief Secretary of the All Ceylon Progressive Samurdhi Manager Association, said,
-
-...
-
-[Data](articles/d1a6ad9c.json)
-
-[Extended Data](ext_articles/d1a6ad9c.ext.json)
-
----
-
-### Julampitiye Amare's appeal was taken
-
-*2025-10-07 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215434) · `si`
-
-Grouquitar's murder is convicted and death sentence. G. The Supreme Court refuted by the Supreme Court today (07) without taking the appeal to the death penalty imposed by Amarasiri Amare.
-
-The Supreme Court issued the Supreme Court to ensure Julampitiye Amare, the death penalty published by the Tangalle High Court, Ada Derana reporter said.
-
-The Tangalle High Court had convicted the accused to kill a group of people who were killed and killed in the JVP in 2012.
-
-◼️
-
-[Data](articles/0d767a44.json)
-
-[Extended Data](ext_articles/0d767a44.ext.json)
-
----
-
-### Sri Lanka's first private international airline, Fitsair
-
-*2025-10-07 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/227115) · `ta`
-
-Fitsair, the first international airline in Sri Lanka, is proud of the international passenger activities featured in the planned schedule and has become another decisive moment in air travel among Sri Lankan people.
-
-As for the company, it was a year of great growth and achievements last year.
-
-The newcomer of the Fitsair Airlines has successfully launched the Kuala Lumpur airline this year and increased the number of airline services to Maldives and Dakka due to increased question.
-
-As a result of furthering the commitment to the service company in independence, reactivity, and service glory, it has recently been recognized to deal with airport functions at the Bandaranaike International Airport, Colombo.
-
-Fitsair Director Amar Qasim commented on this year's closing
-
-The development of Fitsair depends on the history of flexibility and is based on the bold goal.
-
-...
-
-[Data](articles/247cdc84.json)
-
-[Extended Data](ext_articles/247cdc84.ext.json)
-
----
-
-### Attorneys in Mannar also
-
-*2025-10-07 13:55:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரிலும்-சட்டத்தரணிகள்-பணிப்பகிஷ்கரிப்பு/175-365889) · `ta`
-
-The Northern Province lawyers are carrying out a one -day workplace on Tuesday (07) in protest of the alleged incident of raids by the police without a proper search order in the house of a lawyer in Jaffna.  Mannar lawyers have also been boycotted to strengthen the work boycott.
-
-Attorneys have launched a task protest demanding that the incident against the lawyer against the lawyer in Jaffna.
-
-This has resulted in court proceedings in Mannar and the hearing of today's (07) day has been installed for a day.
-
-◼️
-
-[Data](articles/982db740.json)
-
-[Extended Data](ext_articles/982db740.ext.json)
-
----
-
-### Secombums in a laboratory and 7 children hospitalized
-
-*2025-10-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215433) · `si`
-
-Seven school children have been hospitalized after a chemical in a school in Dambulla.
-
-There are five boys and two girls among the students who were hospitalized and two girls have been admitted to the Dambulla Base Hospital.
-
-Dambulla Assistant Superintendent of Police. S. K. Mr. Wickremanayake and Dambulla Police Inspector Sugath Bandara had reportedly visited the hospital to look into the students with the incident.
-
-Asst ASP. S. K. Wickramanayake said a number of children who were educated in the school had been hospitalized that the school lab was taken into hospital with the Last Holidays.
-
-Accordingly, there is a red to have a red tonegument with the chili powder on the tongue.
-
-The ASP, however, said the investigations have revealed that the students' mouth is a chemical used to identify iron.
-
-The children are receiving treatment and forward investigations are being treated.
-
-◼️
-
-[Data](articles/0664ee96.json)
-
-[Extended Data](ext_articles/0664ee96.ext.json)
-
----
-
-### World Bank warns US tariffs on Indian exports to slow South Asia growth next year
-
-*2025-10-07 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113299/world-bank-warns-us-tariffs-on-indian-exports-to-slow-south-asia-growth-next-year) · `en`
-
-The World Bank on Tuesday said higher tariffs on Indian goods exported to the U.S. will drag the South Asian growth rate in 2026, even as the current year remains shielded by government spending.
-
-The World Bank said growth in South Asia is expected to slow sharply to 5.8 per cent in 2026 from its projection of 6.6 per cent for 2025. Its forecast for the region comprises India, Bangladesh, Sri Lanka, Nepal, Bhutan, and the Maldives.
-
-“For 2026, the forecast has been downgraded, as some of these effects unwind and India continues to face higher-than-expected tariffs on goods exports to the United States,” the World Bank said in its report.
-
-The World Bank has raised its forecast for India’s growth in the current fiscal year ending March 2026 to 6.5 per cent from 6.3 per cent, while trimming its projection for the next fiscal year to 6.3 per cent from 6.5 per cent.
-
-...
-
-[Data](articles/780e369b.json)
-
-[Extended Data](ext_articles/780e369b.ext.json)
 
 ---

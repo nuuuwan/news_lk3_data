@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 19:14:21**
+As of **2025-10-07 19:38:58**
 
 ## Newspaper Stats
 
-*Scraped **81,962** Articles*
+*Scraped **81,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,8 +18,8 @@ economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,829
-adaderanalk | 10,520
-tamilmirrorlk | 12,154
+adaderanalk | 10,526
+tamilmirrorlk | 12,156
 virakesarilk | 13,512
 adaderanasinhalalk | 14,050
 
@@ -27,101 +27,181 @@ adaderanasinhalalk | 14,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,939 (100.0%) of 81,962 articles have been extended.
+81,965 (100.0%) of 81,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### பப்புவா நியூ கினியாவில் சக்திவாய்ந்த நிலநடுக்கம்
+### Powerful earthquake in Papua New Guinea
 
 *2025-10-07 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/227159) · `ta`
 
-பப்புவா நியூ கினியாவின் சாலமன் கடல் பகுதியில் ரிக்டர் அளவுகோலில் 6.8 ஆக பதிவான சக்திவாய்ந்த நிலநடுக்கம் ஒன்று ஏற்பட்டுள்ளது.
+A powerful earthquake hit 6.8 on the Richter scale in the Solomon Sea of ​​Papua New Guinea.
 
-ஜெர்மன் புவியியல் ஆய்வு மையம் (GFZ) தெரிவித்ததன்படி, நிலநடுக்க மையம் கிம்பே நகரத்திற்கு தென்கிழக்கே சுமார் 194 கிலோமீற்றர் தொலைவில், நிலத்தடுக்கு 10 கிமீ ஆழத்தில் அமைந்திருந்தது.
+According to the German Geological Survey Center (GFZ), the earthquake center was located about 194 km southeast of Kimbbey, about 10 km deep.
 
-நிலநடுக்கத்திற்குப் பிறகு அமெரிக்க சுனாமி எச்சரிக்கை அமைப்பு சுனாமி எச்சரிக்கை விடுத்திருந்தாலும் பின்னர் அது ரத்து செய்யப்பட்டது.
+The US tsunami warning issued a tsunami after the earthquake but was later canceled.
 
-பப்புவா நியூ கினியா பசிபிக் ரிங் ஆஃப் ஃபயர் பகுதியில் இருப்பதால் இவ்வாறான நிலநடுக்கங்கள் அப்பகுதியில் அடிக்கடி ஏற்படுவது வழக்கமானது. உயிரிழப்புகள் அல்லது பெரும் சேதங்கள் இதுவரை பதிவாகவில்லை.
+It is customary for these earthquakes to occur in the area as Papua New Guinea is in the Pacific of Fire. The casualties or major damage have not yet been reported.
 
 ◼️
 
 [Data](articles/093180d9.json)
 
+[Extended Data](ext_articles/093180d9.ext.json)
+
 ---
 
-### ஜனாதிபதிக்கும் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கும் இடையிலான கலந்துரையாடல்
+### Discussion between the President and the International Monetary Fund Representatives
 
 *2025-10-07 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/227151) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கும் இடையிலான கலந்துரையாடல் இன்று செவ்வாய்க்கிழமை (07) முற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+A discussion between President Anura Kumara Dissanayake and Representatives of the International Monetary Fund was held today (07) at the Presidential Office.
 
-கடன் மறுசீரமைப்பு செயல்பாட்டில் சர்வதேச நாணய நிதியத்தின் ஆறாவது தவணையை வழங்குவதற்கு முன்னதாக நடத்தப்படும் ஐந்தாவது மீளாய்வின் இடைக்காலக்  கலந்துரையாடலாக இது நடத்தப்பட்டது.
+It was held as an interim discussion of the fifth review before the IMF to provide the sixth installment of the International Monetary Fund in the Debt Relief process.
 
-பொருளாதார ரீதியாக வங்குரோத்து நிலையிலிருந்த நாட்டை,  அதிலிருந்து விடுவித்து அபிவிருத்தியை நோக்கி இட்டுச் செல்வதே அரசாங்கத்தின் முக்கிய நோக்கமாகும் என்றும், இதற்காக அரசாங்கத்திடம்  மூலோபாயத் திட்டம் இருப்பதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இங்கு தெரிவித்தார்.
+President Anura Kumara Dissanayake said that the main objective of the government is to liberate the country, which is economically bankrupt, and lead to development.
 
-இந்த வேலைத்திட்டத்தை வெற்றியடையச் செய்வதற்கு, சர்வதேச நாணய நிதியம் வழங்கும் ஆதரவை தான் பெரிதும் பாராட்டுவதாகவும் ஜனாதிபதி குறிப்பிட்டார்.
+The President also stated that he is greatly appreciative of the International Monetary Fund's support for the success of this program.
+
+The President pointed out that the government had identified the need to exceed the targets set by the International Monetary Fund to develop this country as an economic revival.
 
 ...
 
 [Data](articles/99299829.json)
 
+[Extended Data](ext_articles/99299829.ext.json)
+
 ---
 
-### රාජ්‍ය ව්‍යාපාරවලින් ලද රු. මිලියන 757.4ක ලාභාංශ භාණ්ඩාගාරයට භාරදෙයි
+### 323 containers controversy; team appointment
+
+*2025-10-07 18:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/323-கொள்கலன்கள்-சர்ச்சை-குழு-நியமனம்/175-365913) · `ta`
+
+Parliament is to appoint a selection committee to investigate the controversial case in violation of the established customs procedures, without compulsory inspection of 323 containers from the Port of Colombo.
+
+The resolution filed in Parliament states that the release of irregular containers is a serious danger to "national security, revenue collection and public security", in the report of the Inquiry Committee appointed by the Treasury Secretary on the instructions of the President.
+
+The investigation was followed by media reports that highlight the alleged allegation of customs.
+
+According to the resolution, the Sri Lanka Customs Officers Association has publicly stated that the contents of the containers released due to irregular process cannot be held responsible. There has also been concerns that such disadvantages may have led to the smuggling of drugs, guns or other restricted items into the country.
+
+...
+
+[Data](articles/a09753eb.json)
+
+[Extended Data](ext_articles/a09753eb.ext.json)
+
+---
+
+### Rs.. 757.4 million, handed over to the Treasury of 757.4 million
 
 *2025-10-07 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215443) · `si`
 
-කර්මාන්ත අමාත්‍යාංශය යටතේ පවතින රාජ්‍ය ව්‍යාපාරවලින් ලද රුපියල් මිලියන 757.4ක ලාභාංශ භාණ්ඩාගාරය වෙත භාරදී තිබේ.
+757.4 million of the state enterprises under the Ministry of Industries has been handed over to the Treasury.
 
-අද (07) දින පාර්ලිමේන්තුවේ දී කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත මහතාට සහ මුදල් අමාත්‍යාංශ ලේකම් හර්ෂණ සූරියප්පෙරුම මහතාට මෙම ලාභාංශය නිල වශයෙන් භාර දී ඇත.
+The dividend has been officially handed over to Labor Minister and Deputy Minister of Economic Development, Anil Jayantha, Deputy Minister of Labor and Economic Development Mr. Harshana Sooriyapperuma in parliament today (07).
 
-කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ පවතින ලංකා මිනරල් සෑන්ඩ්, BCC Lanka Limited, ජාතික ලුණු සමාගම, ලංකා පොස්පේට් සමාගම සහ ලංකා කහටගහ ග්‍රැෆයිට් ලිමිටඩ් යන ආයතන නව රජය යටතේ ලබාගත් ලාභාංශවලින් කොටසක් මෙලෙස භාරදුන් බව සඳහන්ය.
+It is said that Lanka Minal Salt Limited, BCC Lanka Limited, BCC Lanka Limited, BCC Lanka Limited, BCC Lanka Limited, Limited, and Lanka Kahathoya Limitted under the new government.
 
-ලංකා මිනරල් සෑන්ඩ් ආයතනය වෙනුවෙන් ආයතනයේ වැඩබලන සභාපති ගයාන් වෙල්ලාල මහතා රුපියල් මිලියන 500ක මුදලක් පසුගිය මාස 9 කාලයේදී ලැබූ ලාභාංශවලින් කොටසක් ලෙස භාණ්ඩාගාරයට ලබාදුනි.
+Acting Chairman Gayan Wellala, acting chairman of the Institute, was given a sum of Rs. 500 million as part of the dividends in the last 9 months.
 
-මෙම වර්ෂය අවසාන වන විට රුපියල් බිලියන 5ක ආදායම් ඉලක්කවලට යාමට උත්සාහ කරන බවද වැඩබලන සභාපතිවරයා මෙහිදී ප්‍රකාශ කළේය.
+At the end of this year, the Acting Chairman said that the acting chairman said he would attempt to reach Rs. 5 billion.
+
+Sri Lanka President of the BCC Lanka Limited. Prasanna Indrajith was given to the Treasury as part of its dividends in their company dividends, which is a company that was due to liquidate due to the loss of BCC.
 
 ...
 
 [Data](articles/30981353.json)
 
+[Extended Data](ext_articles/30981353.ext.json)
+
 ---
 
-### களுத்துறையில் குறைந்த வருமான குடும்பங்களுக்கு வீடுகள் கையளிப்பு
+### The gazette on the bet and gambling tax
+
+*2025-10-07 18:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தயம்-மற்றும்-சூதாட்ட-வரி-மீதான-வர்த்தமானி-வெளியீடு/175-365912) · `ta`
+
+The Gazette on Betting and Gambling Tax (Amendment) has been released from October 01, 2025.
+
+Accordingly, the tax on the total collection of gambling businesses has been increased from 15% to 18%, including a gambling or gambling director's business.
+
+In addition, the Cassino entry fee to be paid by Sri Lankan citizens has been increased to US $ 100, which is a 100% increase.
+
+◼️
+
+[Data](articles/2d75cb51.json)
+
+[Extended Data](ext_articles/2d75cb51.ext.json)
+
+---
+
+### Opposition MPs submit motion seeking probe into release of 323 containers
+
+*2025-10-07 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113308/opposition-mps-submit-motion-seeking-probe-into-release-of-323-containers) · `en`
+
+A motion seeking to appoint a special parliamentary committee to investigate the release of 323 shipping containers from the Colombo Port without mandatory physical inspection has been submitted to the Speaker of Parliament.
+
+A group of opposition MPs had submitted the motion to the Speaker Jagath Wickramaratne today.
+
+Chief Opposition Whip Gayantha Karunathilaka, MPs Ranjith Madduma Bandara, Harshana Rajakaruna, J.C. Alawathuwala, Dr. Kavinda Jayawardena, and several other members of the Samagi Jana Balawegaya (SJB) were present on this occasion.
+
+In addition, Sri Lanka Podujana Peramuna (SLPP) MP D. V. Chanaka was also present.
+
+◼️
+
+[Data](articles/d330da8c.json)
+
+[Extended Data](ext_articles/d330da8c.ext.json)
+
+---
+
+### Homes to low income families in Kalutara
 
 *2025-10-07 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/227155) · `ta`
 
-வீடு கட்ட நிதி வசதி இல்லாத குறைந்த வருமானம் குடும்பங்களுக்கான புதிய அரசாங்க கொள்கையின் அடிப்படையில் செயல்படுத்தப்படும் “சொந்தமாக ஒரு இடம் - ஒரு அழகான வாழ்க்கை” திட்டத்தின் கீழ், களுத்துறை மாவட்டத்தின் மில்லனிய, பண்டாரகம மற்றும் ஹொரண பிரதேச செயலாளர் பிரிவுகளில் வசிக்கும் ஐந்து குறைந்த வருமானம் பெறும் குடும்பங்களுக்காக அரசாங்க உதவியுடன் கட்டப்பட்ட வீடுகளை கையளிக்கும் நிகழ்வு நேற்று திங்கட்கிழமை (6) பிற்பகல் சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தலைமையில் நடைபெற்றது.
+Under the "Own Place - A Beautiful Life" program implemented on the basis of the new government policy for low -income families, the government -funded housing and Mass Media Minister of State for Health and Mass Media, Monday (6), was held on Monday afternoon.
 
-மில்லனிய பிரதேச செயலாளர் பிரிவில் உள்ள வெனிவெல்பிட்டிய மற்றும் பண்டாரகம பிரதேச செயலாளர் பிரிவில் உள்ள யட்டியான மற்றும் சேனபுர கிராமங்களில் வசிக்கும் மூன்று குறைந்த வருமானம் பெறும் குடும்பங்களுக்காக கட்டப்பட்ட வீடுகளின் சாவிகளை அமைச்சர் வழங்கினார்.
+The Minister presented the keys of the houses built for three low -income families living in the villages of Yattiyan and Senapura in the Venivelpitiya and Bandaragama Divisional Secretariat Division in the Millaniya Divisional Secretariat Division.
 
-ஹொரண பிரதேச செயலகப் பிரிவின் கும்புக, கிழக்கு மற்றும் கோனபொல கிராமங்களில் குறைந்த வருமானம் பெறும் குடும்பங்களுக்காக கட்டப்பட்ட இரண்டு வீடுகளின் சாவிகளை அமைச்சர் வழங்கினார்.
+The Minister presented the keys of two houses built for low income families in the Kumbuga, Eastern and Konapola villages of the Horana Divisional Secretariat Division.
+
+The government has taken steps to provide 1 million rupees to build each house.
+
+The government has so far paid 155 million rupees to 155 poor families who have no housing in Kalutara district. Steps have been taken to hand over the five houses built under the scheme today.
 
 ...
 
 [Data](articles/13c9053f.json)
 
+[Extended Data](ext_articles/13c9053f.ext.json)
+
 ---
 
-### வாழைச்சேனையில் அதிகளவு ஐஸ் போதைப்பொருளுடன் இளம் தம்பதி கைது
+### Young couple arrested with heavy ice drugs
 
 *2025-10-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227157) · `ta`
 
-மட்டக்களப்பு வாழைச்சேனை பிரதேசத்தில் 2030 கிராம் ஐஸ் போதைப்பொருளுடன் இளம் தம்பதி திங்கட்கிழமை (6) மாலை வாழைச்சேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+A young couple has been arrested by the Valaichenai police on Monday evening with 2030 grams of ice drugs in Valaichenai area in Batticaloa.
 
-கிழக்கு மாகாணத்தில் ஆகக்கூடிய தொகையிலான ஐஸ் போதைப்பொருள் இதன்போது முதல் முறையாக கைப்பற்றப்பட்டுள்ளதாக  வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
+Valaichenai police said that the amount of ice drugs in the Eastern Province has been seized for the first time.
 
-வாழைச்சேனை உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸுக்கு கிடைத்த தகவலின் அடிப்படையில் அவர் தலைமையிலான பொலிஸ் குழு நேற்று மாலை 4.30 மணியளவில் சம்பவ இடத்துக்குச் சென்று, உதவி பொலிஸ் அத்தியட்சகர் கரியாலயத்துக்கு அருகில் கண்காணிப்பில் ஈடுபட்டது.
+Assistant Superintendent of Police MSM. Based on the information received by Jaruus, a police team led by him went to the scene at 4.30 pm yesterday and engaged in surveillance near the Assistant Superintendent of Police.
 
-அவ்வேளை கல்குடாவில் இருந்து ஐஸ் போதைப்பொருளை முச்சக்கரவண்டியில் எடுத்துச்சென்ற கணவன், மனைவி ஆகிய இருவரை பொலிஸார் சுற்றிவளைத்து மடக்கிப் பிடித்தனர்.
+The police surrounded the husband and wife who had taken the ice drug from Kalkuda in the three -wheeler.
 
-இதனையடுத்து, அவர்களிடமிருந்து 2030 கிராம் ஐஸ் போதைப்பொருள் மற்றும் முச்சக்கரவண்டி ஆகியன கைப்பற்றப்பட்டதையடுத்து, சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+Subsequently, the suspects were arrested after they seized 2030 grams of ice and three wheelers.
+
+A main drug dealer in Morakottanjane has sought a puppy in Colombo and paid Rs.
+
+Subsequently, the couple went to Colombo train. There, a woman gave a puppy and a bag to the couple in the Parakkottai area, and they took it and returned to their home in Calcutta by bus.
 
 ...
 
 [Data](articles/c7e33378.json)
+
+[Extended Data](ext_articles/c7e33378.ext.json)
 
 ---
 
@@ -195,6 +275,30 @@ Accordingly, the Convention Amendment Amendments to the Struggle to Take Strain 
 
 ---
 
+### Earthquake of magnitude 6.6 shakes Lae city in Papua New Guinea
+
+*2025-10-07 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113307/earthquake-of-magnitude-66-shakes-lae-city-in-papua-new-guinea) · `en`
+
+An earthquake of magnitude 6.6 struck near Lae, the second largest city in Papua New Guinea, on Tuesday, the U.S. Geological Survey (USGS) said.
+
+City police official Mildred Ongige told Reuters by telephone that a “very huge” earthquake was felt. “It was a few minutes ago so we have no further details of damage but we are concerned,” she added.
+
+A tsunami warning was not issued after the quake, which struck at a depth of 10 km, according to the Pacific Tsunami Warning Center.
+
+The quake’s epicentre was 26 km (~16 miles) from the city of Lae, which has a population of over 76,000 and is located in the country’s Morobe province, according to USGS.
+
+The quake was initially reported at a magnitude of 6.8 by the German Research Centre for Geosciences (GFZ) before the agency revised it to 6.6.
+
+Papua New Guinea straddles the Pacific’s “Ring of Fire”, a region known for frequent earthquakes.
+
+...
+
+[Data](articles/34c5f167.json)
+
+[Extended Data](ext_articles/34c5f167.ext.json)
+
+---
+
 ### Request of the Opposition to 323 Imported Contactations of Customs
 
 *2025-10-07 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215440) · `si`
@@ -253,17 +357,21 @@ The President pointed out that the government had identified the need to exceed 
 
 ---
 
-### பௌதீகவியலுக்கான நோபல் பரிசு 3 பேருக்கு அறிவிப்பு
+### Nobel Prize for Physics 3
 
 *2025-10-07 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227154) · `ta`
 
-அமெரிக்காவை சேர்ந்த ஜான் கிளார்க், மிச்செல் எச்.தேவோரெத் மற்றும் ஜான் எம். மார்டினிஸ் ஆகியோருக்கு பௌதீகவியலுக்கான நோபல் பரிசு பகிர்ந்து அளிக்கப்பட உள்ளது.
+John Clark of the United States, Michelle H. Devoreth and John M. Martinis is to be awarded the Nobel Peace Prize for Physics.
 
-2025-ம் ஆண்டுக்கான நோபல் பரிசு பெறுவோர் விவரங்கள் திங்கட்கிழமை முதல் அறிவிக்கப்பட்டு வருகின்றன. முதல் நாளான நேற்று மருத்துவத்துக்கான நோபல் பரிசு அறிவிக்கப்பட்டது. இதன்படி, இந்த ஆண்டின் மருத்துவத்துக்கான நோபல் பரிசு 3 பேருக்கு பகிர்ந்தளிக்கப்படும் என அறிவிக்கப்பட்டுள்ளது.  புற நோயெதிர்ப்பு சகிப்புத்தன்மை தொடர்பான கண்டுபிடிப்புகளுக்காக மேரி இ. பிரன்கோவ், பிரெட் ராம்ஸ்டெல் மற்றும் ஷிமோன் சகாகுச்சி ஆகியோருக்கு 2025-ம் ஆண்டின் மருத்துவத்துக்கான நோபல் பரிசு வழங்கப்படும் என அறிவிக்கப்பட்டுள்ளது.
+Nobel Prize winners for 2025 have been announced from Monday. The Nobel Prize for Medicine was announced yesterday as the first day. Accordingly, the Nobel Prize for Medicine this year will be distributed to 3 people.  Mary E. Frankov, Brett Ramstel and Shimon Sahakuchi have been announced to be awarded the Nobel Prize for Medicine in 2025.
 
-...
+Following this, the Nobel Prize for Physics for 2025 has been announced. John Clark of the United States, Michelle H. Devoreth and John M. The Nobel Prize is to be shared for Martinis. The gift has been announced for detecting macroscopic quantum mechanical tunnel and energy measurement in one of the electrical circuits.
+
+◼️
 
 [Data](articles/c587af24.json)
+
+[Extended Data](ext_articles/c587af24.ext.json)
 
 ---
 
@@ -279,37 +387,65 @@ The President pointed out that the government had identified the need to exceed 
 
 ---
 
-### இலஞ்ச ஊழல் ஆணைக்குழுவுக்கான நியமனம் தொடர்பில் ஜீவன் தொண்டமான், சாணக்கியன், தயாசிறி ஜயசேகர சபையில் எதிர்ப்பு!
+### Jeevan Thondaman, Chanakyan, Dayasiri Jayasekara Council
 
 *2025-10-07 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/227153) · `ta`
 
-இலஞ்ச ஊழல் ஆணைக்குழுவுக்கான அரச நியமனத்தை எதிர்த்து, எதிர்க்கட்சியைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்களான ஜீவன் தொண்டமான், சாணக்கியன், தயாசிறி ஜயசேகர ஆகியோர் இன்று (7) நடைபெற்ற பாராளுமன்ற அமர்வில் கடும் கண்டனங்களை பதிவு செய்திருந்தனர்.
+Opposition MPs Jeevan Thondaman, Chanakyan and Dayasiri Jayasekara have recorded strong protests at the parliamentary session held today (7) against the appointment of the Bribery Commission.
 
-அரசாங்கத்தினால் அண்மையில் வழங்கப்பட்ட இலஞ்ச ஊழல் ஆணைக்குழுவின் புதிய பணிப்பாளர் நாயகத்தின் நியமனம் குறித்து கேள்வி எழுப்பிய உறுப்பினர்கள் இந்நியமனம் சுதந்திரத்தையும் நியாயத்தையும் புறக்கணிப்பதாக குற்றஞ்சாட்டினர்.
+Members who questioned the appointment of the new Director General of the Bribery Commission recently issued by the government accused the government of ignoring freedom and justice.
 
-மேலும், எதிர்க்கட்சியைச் சேர்ந்த பாராளுமன்ற உறுப்பினர்களான ஜீவன் தொண்டமான், சாணக்கியன், தயாசிறி ஜயசேகர ஆகியோர் கருத்து தெரிவித்தபோதிலும், எதிர்க்கட்சியைச் சேர்ந்த ஏனைய உறுப்பினர்கள் மௌனமாக இருந்தனர்.
+Also, the Opposition MPs Jeevan Thondaman, Chanakyan and Dayasiri Jayasekara commented, but other members of the opposition remained silent.
 
 ◼️
 
 [Data](articles/e188d0f2.json)
 
+[Extended Data](ext_articles/e188d0f2.ext.json)
+
 ---
 
-### போதைப்பொருள், ஊழலுக்கு எதிராக நடவடிக்கைகள் எடுத்தபோதிலும் தமிழர்களுக்கு தீர்வு வழங்க அரசு நடவடிக்கை எடுக்கவில்லை - இ.சிறிநாத்
+### The government has not taken steps to resolve Tamils ​​despite taking action against drugs and corruption -E. Sirinath
 
 *2025-10-07 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/227152) · `ta`
 
-புதிய அரசாங்கத்தினால் பல்வேறு வகையான அபிவிருத்தித் திட்டங்களும் போதைப்பொருள், ஊழலுக்கு எதிராக பல நடவடிக்கைகளும் எடுக்கப்பட்டாலும் தமிழ் மக்களுக்கான நியாயமான தீர்வினை வழங்குவதற்கான எந்த நடவடிக்கையும் எடுக்கப்படாத சூழ்நிலையே காணப்படுவதாக இலங்கை தமிழ் அரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் வைத்தியர் இ.சிறிநாத் தெரிவித்தார்.
+Sri Lanka Tamil State Party Batticaloa District Parliamentarian E. Sirinath said that although the new government has taken a variety of development programs, drugs and many other measures against corruption and corruption.
 
-இந்த நாட்டில் அனைத்து இன மக்களும் சமமாக மதிக்கப்படவேண்டும் எனக் கூறுகின்ற அரசாங்கம் தமிழ் மக்களுக்கான தீர்வினை வழங்குவதற்கான தயக்கத்தினை காட்டி நிற்பதையே நாங்கள் காண்கின்றோம் எனவும் தெரிவித்தார்.
+"We see the reluctance of the government to provide a solution to the Tamil people," he said.
 
-மட்டக்களப்பு செங்கலடி ஐயங்கேணி பகுதியில் அமைந்துள்ள வடபத்திரகாளி அம்மாள் ஆலயத்துக்கான கட்டட நிர்மானத்திற்கான அடிக்கல் நடும் நிகழ்வு இன்று செவ்வாய்க்கிழமை (7) நடைபெற்றது.
+The foundation stone for the construction of the Vadapatrakali Ammal Temple, located in the Sengaladi Iyengani area in Batticaloa, was held on Tuesday (7).
 
-ஆலய நிர்வாகத்தினரின் ஏற்பாட்டிலும் கோயில் பூசகரின் தலைமையிலும் நடைபெற்ற இந்த நிகழ்வில் பாராளுமன்ற உறுப்பினர் வைத்தியர் சிறிநாத் பிரதம அதிதியாக கலந்துகொண்டார்.
+The event was held at the arrangement of the temple administration and the chairman of the temple priest.
+
+In today's period, young people are undergoing various guidelines. In this case, the temples are responsible for the preservation of the youth and the builders of our areas in the future.
+
+We have a huge responsibility for the Tamil people, our political leaderships and social organizations in our area to unite and lead our society and religion.
 
 ...
 
 [Data](articles/1a4a3f49.json)
+
+[Extended Data](ext_articles/1a4a3f49.ext.json)
+
+---
+
+### President meets IMF delegation to discuss Sri Lanka’s fifth review
+
+*2025-10-07 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113306/president-meets-imf-delegation-to-discuss-sri-lankas-fifth-review) · `en`
+
+President Anura Kumara Dissanayake met with the delegation of the International Monetary Fund (IMF) at the Presidential Secretariat this morning to discuss the fifth review of the IMF’s Extended Fund Facility (EFF) program for Sri Lanka, according to the President’s Office.
+
+The discussion was held on the occasion of the mid-term phase of the fifth review, which is being conducted before the release of the sixth tranche of the IMF assistance in Sri Lanka’s debt restructuring process.
+
+During the meeting, President Dissanayake said that the government’s main objective is to rescue the country from economic bankruptcy and take it towards development, and that the government has a strategic plan for that.
+
+The President also stated that he greatly appreciates the support provided by the IMF in the process of making that program a success, the President’s Media Division reported.
+
+◼️
+
+[Data](articles/fc1955d9.json)
+
+[Extended Data](ext_articles/fc1955d9.ext.json)
 
 ---
 
@@ -415,23 +551,27 @@ She said most of the total number of dengue patients were reported from the West
 
 ---
 
-### சிகை அலங்கரிப்பாளர்களும் தொழில்வாண்மை மிகுந்தவர்களாக மாறவேண்டும் -   வடக்கு மாகாண ஆளுநர் வேதநாயகன்
+### Hairstylers should also become professional - Governor of the Northern Province Vedanayaka
 
 *2025-10-07 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/227150) · `ta`
 
-எமது மாகாணத்திலுள்ள சிகை அலங்கரிப்பாளர்களும் தொழில்வாண்மை மிகுந்தவர்களாக தற்போதைய யுகத்துக்கு ஏற்றவர்களாக மாறவேண்டும். தேசிய பயிலுநர் மற்றும் கைத்தொழிற் பயிற்சி அதிகார சபை (NAITA) அதனைச் செய்வதற்குத் தயாராக இருக்கின்றது. அதனைப் பயன்படுத்தி தேசிய தொழில்முறை தகுதிச் சான்றிதழை (NVQ) எல்லோரும் பெற்றுக்கொள்ள வேண்டும். இவ்வாறு வடக்கு மாகாண  ஆளுநர் நா.வேதநாயகன்  தெரிவித்தார்.
+Hairstyers in our province must also become a professional and a suitable for the present era. The National Trainee and Industrial Training Authority (NAITA) is ready to do it. Everyone should obtain the National Professional Qualification Certificate (NVQ) using it. Governor of the Northern Province, N. Vedanayanan said.
 
-யாழ். மாவட்ட சிகை ஒப்பனையாளர் கூட்டுறவுச் சங்கங்களின் சமாசத்தின் பொதுக்கூட்டம் தந்தைசெல்வா அரங்கில்  செவ்வாய்க்கிழமை  (07) நடைபெற்றது.
+Yall. A public meeting of the District Hairstyle Statist's Co -operative Societies was held on Tuesday (07) at the Father Selva Stadium.
 
-இந்த நிகழ்வில் பிரதம விருந்தினராகக் கலந்துகொண்ட ஆளுநர் தனது உரையில் மேலும் தெரிவித்ததாவது,
+The Governor, who was the chief guest at the event, added in his speech.
 
-நான் ஆளுநராகப் பதவியேற்ற பின்னர் இரண்டு தடவைகள் உங்கள் சங்கத்தினர் என்னை வந்து சந்தித்திருந்தார்கள். சங்க அங்கத்தவர்களிடையே கட்டுப்பாடு நடைமுறைப்படுத்தப்பட வேண்டும் என்பதில் ஆர்வமாக இருந்தார்கள்.
+Your association had come to me twice after I was sworn in as Governor. They were interested in restrictions among the members of the association.
 
-குறிப்பாக பாடசாலை மாணவர்களுக்கான தலைமுடி அலங்காரம் தொடர்பில் இறுக்கமான – ஒழுக்கமான நடைமுறை தேவை என அவர்கள் வலியுறுத்தியிருந்தார்கள்.
+They insisted that they need a tight and decent practice of hair decoration, especially for schoolchildren.
+
+Regulations - Many people do not like restrictions. But it is commendable that your association is looking for it and implementing it. Likewise, members must cooperate to implement your association and resolutions.
 
 ...
 
 [Data](articles/96381c2d.json)
+
+[Extended Data](ext_articles/96381c2d.ext.json)
 
 ---
 
@@ -451,19 +591,23 @@ Foreign media reports that the US tsunami alarm system has not issued a tsunami 
 
 ---
 
-### இன அழிப்புக்கு நியாயம் கோரி பாலஸ்தீன கொடிகளுடன் மட்டக்களப்பில் கவனயீர்ப்பு
+### Attention in Batticaloa with Palestinian flags demanding justice for genocide
 
 *2025-10-07 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227145) · `ta`
 
-மட்டக்களப்பில் காசா யுத்தத்தின் மூன்று வருட நினைவு நாளை முன்னிட்டு இன அழிப்புக்கு நியாயம் கோரியும் தனி நாடாக பிரகடனப்படுத்தி கோரி 1245 வது நாள் நியாய பயணத்தின் ஊடாக பலஸ்தீன கொடிகளை ஏந்தியவாறு  பெண்கள்  இன்று செவ்வாய்க்கிழமை (07) கல்லடி பாலத்துக்கு அருகில் உள்ள செபஸ்தியார் ஆலயத்தில் இருந்து காந்தி பூங்கா வரையும் கவனயீர்ப்பு நடைபயணம் இடம்பெற்றது.
+On the day of the Gaza War in Batticaloa, the women were carrying Palestinian flags on Tuesday (07) from the Sebastiyar Temple near the Kalladi Bridge on Tuesday (07).
 
-மட்டக்களப்பு கல்லடி பாலத்துக்கு அருகில் உள்ள செபஸ்தியார் ஆலயத்தில் இருந்து காந்தி பூங்கா வரையும் நீதி நியாயம் கோரி தொடர்ந்து 1245 வது நாள் நியாய பயணம் என்ற தொனிப்பொருளில் அநீதிகள் படுகொலைகளுக்கு எதிரான சுலோகங்கள் ஏந்தியவாறு பெண்கள் அமைப்பு நடைபயணம் மேற்கொண்டு வருகின்றது
+The women's organization is carrying out slogans against the massacre on the 1245th day of the 1245th day of the 1245th day demanding justice from the Sebastiyar Temple to the Gandhi Park near the Kalladi Bridge in Batticaloa.
 
-இந்நிலையில் இன்று காசா யுத்தம் தொடங்கி மூன்று வருட நினைவை முன்னிட்டு பெண்கள் நியாய பயணம் அமைப்புடன் கல்லடி பாலத்துக்கு அருகே உள்ள செபஸ்தியார் ஆலயத்தில்  முன்னாள்   பெண்கள்  ஒன்று சேர்ந்தனர்.
+In the meantime, the women joined the Sebastiyar Temple near the Kalladi Bridge with a fair journey organization in the wake of the Gaza war today.
+
+After 77 years, Palestine has tried to bury you from you again, you will again get up from the ashes, and again, the country is uninhabited and unprecedented as a foodless food.
 
 ...
 
 [Data](articles/d834b5f1.json)
+
+[Extended Data](ext_articles/d834b5f1.ext.json)
 
 ---
 
@@ -533,6 +677,24 @@ G.G.. The Supreme Court upheld the death penalty by dismissing the special appea
 
 ---
 
+### CIABOC launches new case tracking system to enhance transparency and efficiency
+
+*2025-10-07 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113305/ciaboc-launches-new-case-tracking-system-to-enhance-transparency-and-efficiency) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) marked a major step in institutional modernization with the launch of its new Case Tracking System at the CIABOC Auditorium today (07).
+
+The ceremony was graced by Azusa Kubota, Resident Representative of the United Nations Development Programme (UNDP); Kamoshida Naoaki, Minister at the Embassy of Japan; Professor Chathura De Silva, senior IT expert and consultant to UNDP; members of the Tek-Greeks development team; Brother Commissioners, the Director General, and senior officials of the Commission, according to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Justice Neil Iddawala, Chairman of CIABOC, delivering the keynote address, described the launch as “a transformative step toward greater efficiency, transparency, and accountability— ensuring better service delivery to the people of Sri Lanka.”
+
+...
+
+[Data](articles/40527087.json)
+
+[Extended Data](ext_articles/40527087.ext.json)
+
+---
+
 ### No Legal Block to Providing Vehicles and Protection to Ex-Presidents
 
 *2025-10-07 16:57:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/no-legal-block-to-providing-vehicles-and-protection-to-ex-presidents) · `en`
@@ -553,37 +715,43 @@ The Minister made these remarks in response to public discussions surrounding th
 
 ---
 
-### கிழக்கு ஆளுநர் அலுவலகத்துக்கு முன் ஒன்றுதிரண்ட தனியார் பேருந்து உரிமையாளர்கள், சாரதிகள், நடத்துநர்கள்!
+### Private bus owners, drivers, operators in front of the East Governor's Office!
 
 *2025-10-07 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/227146) · `ta`
 
-திருகோணமலை முதல் அக்கரைப்பற்று வரை சேவையில் ஈடுபடும் தனியார் பேருந்துகளின் உரிமையாளர்கள், சாரதிகள் மற்றும் நடத்துநர்கள் இணைந்து இன்று (7) கிழக்கு மாகாண ஆளுநர் அலுவலகத்துக்கு முன்னால் பேருந்துகளை நிறுத்திவைத்து ஆர்ப்பாட்டத்தில் ஈடுபட்டதைத் தொடர்ந்து, போராட்டத்தை கைவிடுவதாகவும் அறிவித்துள்ளனர்.
+Owners, drivers and operators of private buses from Trincomalee to Akkaraipattu have announced that they will abandon the protest after the buses stopped in front of the Eastern Province Governor's Office today.
 
-கிழக்கு மாகாண தனியார் பயணிகள் போக்குவரத்து அதிகார சபையினால் முன்வைக்கப்பட்டு, நடைமுறைப்படுத்தப்படவிருந்த நேர அட்டவணைக்கு எதிர்ப்பு தெரிவித்து இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+The demonstration was carried out in protest of the schedule of the Eastern Province Private Passenger Transport Authority.
 
-இன்று முதல் தொடர்ச்சியாக ஆர்ப்பாட்டத்தில் ஈடுபடுவதாக அறிவிக்கப்பட்டிருந்த நிலையில்,  நடைமுறைப்படுத்தவிருந்த நேர அட்டவணை தற்காலிகமாக கைவிடப்படுவதாக கிழக்கு மாகாண ஆளுநர் அளித்த உறுதிமொழியை சுட்டிக்காட்டி, போராட்டத்தை தற்காலிகமாக கைவிடுவதாக, போராட்டத்தை ஒழுங்கமைத்த தென்கிழக்கு கரையோர பிரதேச தனியார் பஸ் உரிமையாளர் சங்கத்தின் செயலாளர் எம்.எஸ்.பைரூஸ் தெரிவித்துள்ளார்.
+Secretary of the Southeastern Coastal Bus Owners Association, MS Pyrus, said that the Governor of the Eastern Province, who had been temporarily abandoned by the Governor of the Eastern Province, pointing out that the time schedule was to be temporarily abandoned as it was announced to be a continuous demonstration from today.
+
+Eleven private buses, who were working in the Trincomalee - Akkaraipattu, Trincomalee - Kalmunai and Trincomalee -Ambarasadi routes yesterday morning, launched a protest in front of the provincial governor's office.
 
 ...
 
 [Data](articles/45dcf41e.json)
 
+[Extended Data](ext_articles/45dcf41e.ext.json)
+
 ---
 
-### “அரசன்“ ஆன சிலம்பரசன்
+### Silambarasan, the "king"
 
 *2025-10-07 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/227149) · `ta`
 
-சிலம்பரசன் டி ஆர் நடிப்பில் வெற்றிமாறன் இயக்கத்தில் கலைப்புலி எஸ் தாணுவின் தயாரிப்பில் உருவாகி வரும் புதிய திரைப்படத்திற்கு, 'அரசன்' என பெயரிடப்பட்டு, அதற்கான அறிவிப்பினை பிரத்யேக புகைப்படத்தை வெளியிட்டு படக் குழுவினர் உற்சாகத்துடன் அறிவித்துள்ளனர்.
+The new film, which is being produced by Kalaipuli S Thaan, starring Silambarasan DR starring Silambarasan DR, has been named 'Rajan' and the film crew has been enthusiastically announced by posting a special photo.
 
-இந்திய திரையுலகில் சாதனையாளர்களாக வலம் வரும் இயக்குநர் வெற்றிமாறன் - தயாரிப்பாளர் கலைப்புலி எஸ் தாணு-   சிலம்பரசன் டி ஆர் ஆகியோர் இணைந்து '#STR 49 'எனும் பெயரில் தொடங்கிய திரைப்படம் தொடர்பான அதிகாரப்பூர்வ அறிவிப்பு எப்போது வெளியாகும்? என்ற ஆவல் ரசிகர்களிடம் இருந்தது.
+When will director Vijayamaran - producer Kalaipuli S Thanu and Silambarasan DR, who are the achievers of the Indian film industry, are titled '#Str 49', when will the official announcement be made? The fans were excited.
 
-இந்நிலையில் இந்த சாதனை கூட்டணியில் உருவாகும் படத்திற்கு 'அரசன்' என பெயரிடப்பட்டிருப்பதாக மகிழ்ச்சியுடன் பகிர்ந்து கொண்டதுடன்.. படத்தை பற்றிய அதிலும் குறிப்பாக சிலம்பரசனின் கதாபாத்திரம் குறித்த தோற்றத்தை குறியீடாக வெளியிட்டு, ரசிகர்களை படக்குழுவினர் உற்சாகப்படுத்தி இருக்கிறார்கள்.
+In this case, the film, which is being made in the alliance, was labeled as 'Rajan'.. The film crew has encouraged the fans, especially the image of Silambarasan's character.
 
-இப்படத்தில் நடிக்கும் ஏனைய நடிகர்கள், நடிகைகள் மற்றும் பணியாற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த அதிகாரப்பூர்வமான விவரங்கள் விரைவில் வெளியிடப்படும் என படக் குழுவினர் தெரிவித்துள்ளனர்.
+Official details of other actors, actresses and working technicians will be released soon, the film crew said.
 
 ◼️
 
 [Data](articles/a00919da.json)
+
+[Extended Data](ext_articles/a00919da.ext.json)
 
 ---
 
@@ -683,21 +851,23 @@ However, the Minister said that the telephone of the Rambukkana section of the R
 
 ---
 
-### கொட்டகலையில் இரண்டு மோட்டார் சைக்கிள்கள் நேருக்கு நேர் மோதி விபத்து
+### Two motorcycles collided face -to -face
 
 *2025-10-07 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/227147) · `ta`
 
-இரண்டு மோட்டார் சைக்கிள்கள் நேருக்கு நேர் மோதிக்கொண்ட விபத்தில் மோட்டார் சைக்கிள் சாரதிகள் இருவர் காயமடைந்து கொட்டகலை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக திம்புள்ள பத்தனை பொலிஸார் தெரிவித்தனர்.
+Two motorcyclists were injured in the accident and two motorcyclists were injured and admitted to the Kotagala Divisional Hospital, Dimbulla Pathana police said.
 
-தலவாக்கலையில் இருந்து ஹட்டன் நோக்கியும், ஹட்டனில் இருந்து கொட்டகலை நோக்கியும் பயணித்த இரண்டு மோட்டார் சைக்கிள்கள் கொட்டகலை நகர மைய பகுதியில் நேருக்கு நேர் மோதியதில் இந்த விபத்து இன்று செவ்வாய்க்கிழமை (07) இடம்பெற்றுள்ளது.
+The accident occurred on Tuesday (07) when two motorcycles traveling from Talawakelle to Hatton and Hatton from Hatton collided head -on.
 
-ஹட்டனில் இருந்து கொட்டகலை நோக்கி பயணித்த மோட்டார் சைக்கிள், அதே திசையில் பயணித்த முச்சக்கர வண்டியை முந்திச் செல்ல முயன்றபோது, எதிர் திசையில் வந்த மோட்டார் சைக்கிள் மீது மோதியதாக திம்புள்ள பத்தனை பொலிஸார் தெரிவித்தனர்.
+Dimbulla police said that the motorcycle traveling from Hatton to Kotagala was crashed into a motorcycle in the opposite direction as she tried to overtake the three -wheeler traveling in the same direction.
 
-விபத்தில் இரண்டு மோட்டார் சைக்கிள்களும் பலத்த சேதமடைந்துள்ளன. விபத்து குறித்து திம்புள்ள பத்தனை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Two motorcycles were severely damaged in the accident. Dimbulla police are investigating the accident.
 
 ◼️
 
 [Data](articles/554a8974.json)
+
+[Extended Data](ext_articles/554a8974.ext.json)
 
 ---
 
@@ -737,19 +907,39 @@ One of its training programs will be held at Hector Kobbekaduwa Agrarian Researc
 
 ---
 
-### கவின் நடிக்கும் 'மாஸ்க்' படத்தின் அப்டேட்
+### Update of 'Mask' starring Gavin
 
 *2025-10-07 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/227148) · `ta`
 
-நட்சத்திர நடிகராக வலம் வருவதற்கு கடுமையான சவால்களை சந்தித்து கொண்டிருக்கும் நடிகர் கவின் கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் 'மாஸ்க்' எனும் திரைப்படத்தில் இடம்பெற்ற 'கண்ணுமுழி..' எனும் முதல் பாடலையும் , பாடலுக்கான லிரிக்கல் விடியோவையும் படக் குழுவினர் வெளியிட்டுள்ளனர்.
+The film crew has released the first song 'Kannuzhi ..' in the movie 'Mask', which is playing the role of actor Gavin's story, which is facing serious challenges to be a star actor.
 
-இயக்குநர் விகர்ணன் அசோக் இயக்கத்தில் உருவாகி உள்ள 'மாஸ்க்' எனும் திரைப்படத்தில் கவின், ஆண்ட்ரியா ஜெர்மியா, ருஹானி சர்மா, அர்ச்சனா சந்தோக், பால சரவணன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஆர். டி. ராஜசேகர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.
+Directed by director Vikarnan Ashok, Gavin, Andrea Germa, Ruhani Sharma, Archana Santok, Bala Saravanan and many others have starred in the film 'Mask'.. R. D. Rajasekhar's cinematography. V.. Prakash Kumar has composed the music.
 
-வட இந்திய இளம் பெண்ணுக்கும், தமிழ் பையனுக்கும் இடையேயான காதலை உணர்வுபூர்வமாக பேசும் இந்தத் திரைப்படத்தை தி ஷோ மஸ்ட் கோ ஆன் - பிளாக் மெட்ராஸ் ஃபிலிம்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் ஆண்ட்ரியா ஜெர்மயா மற்றும் எஸ். பி. சொக்கலிங்கம் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+The film, which speaks emotionally between the young girl and the Tamil boy, is the producers of Andrea Germaya and S.. B.. Sokalingam has co -produced.
+
+The film, which was announced at the film House around the world on the 31st of this month, was held in the film 'Kannu Kakka Mullu.. The song, which starts with the eyebrow and the CD Nella .. '. The song is sung by songwriter Karumathoor Manimaran, playback singer Anthony Dasan and playback singer Subalakshini.. The song, which is being produced in rural music of the soil, has attracted mass music fans.
+
+◼️
+
+[Data](articles/331df42d.json)
+
+[Extended Data](ext_articles/331df42d.ext.json)
+
+---
+
+### Chinese community in SL makes donation in support of Na Uyana Monastery following tragic accident
+
+*2025-10-07 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113304/chinese-community-in-sl-makes-donation-in-support-of-na-uyana-monastery-following-tragic-accident) · `en`
+
+In the wake of the tragic accident at the Na Uyana Monastery in Malsiripura, Kurunegala District, the Chinese Community in Sri Lanka has extended a heartfelt gesture of solidarity and compassion toward the victims and the monastic community.
+
+On the night of September 25, 2025, a devastating accident occurred when one of the supporting cables of the monastery’s cable car snapped, sending it plunging down a steep slope. The incident claimed the lives of seven Buddhist monks, including Russian, Romanian, and Indian nationals, and left six others seriously injured.
+
+The tragedy deeply moved Buddhists across Sri Lanka and the international community.
 
 ...
 
-[Data](articles/331df42d.json)
+[Data](articles/1f381932.json)
 
 ---
 
@@ -781,21 +971,23 @@ Police have issued a statement to inform the public on financial irregularities 
 
 ---
 
-### இரண்டு மாடி வீட்டில் இயங்கி வந்த சட்டவிரோத மதுபான உற்பத்தி நிலையம் சுற்றிவளைப்பு!
+### Illegal Liquor Production Center in a two -storey house
 
 *2025-10-07 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/227143) · `ta`
 
-பாணந்துறை - பின்வத்த பிரதேசத்தில் உள்ள இரண்டுமாடி வீடொன்றில்  இயங்கி வந்த சட்டவிரோத மதுபான உற்பத்தி நிலையம் ஒன்றை பின்வத்த பொலிஸார் நேற்று திங்கட்கிழமை (06) இரவு  சுற்றிவளைத்துள்ளனர்.
+Panadura - A two -year -old house in the aftermath of the Panadura - The police then raided the illegal liquor manufacturing plant on Monday night (06).
 
-இந்த சுற்றிவளைப்பின் போது அங்கு இருந்த இரண்டு சந்தேக நபர்கள் பொலிஸாரால் கைதுசெய்யப்பட்டுள்ளார்.
+Two suspects were arrested by the police during the raid.
 
-குறித்த இரண்டுமாடி வீட்டிலிருந்து 200 லீற்றர் கோடா, 2 எரிவாயு அடுப்புகள், சிலிண்டர் உள்ளிட்ட பல்வேறு பொருட்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+The police have seized various items including 200 liters of Koda, 2 gas stoves and cylinder from the two -storey house.
 
-சந்தேக நபர்கள் இருவரும் சட்டவிரோத மதுபானத்தை உற்பத்தி செய்து வாதுவை, பாணந்துறை, பண்டாரகம மற்றும் வஸ்கடுவ உள்ளிட்ட பல பிரதேசங்களுக்கு விற்பனை செய்து வந்துள்ளதாக பொலிஸாரின் விசாரணைகளில் தெரியவந்துள்ளது.
+Police investigations have revealed that the two suspects have produced illegal liquor and sold to several areas including Vadduwa, Panadura, Bandaragama and Vaskaduwa.
 
 ◼️
 
 [Data](articles/27f9394b.json)
+
+[Extended Data](ext_articles/27f9394b.ext.json)
 
 ---
 
@@ -823,15 +1015,19 @@ A major question in physics is the maximum size of a system that can demonstrate
 
 ---
 
-### ரசிகர்களை 'முதல் நாள் முதல் காட்சி'க்காக தயார்படுத்தும் சிவகார்த்திகேயனின் 'பராசக்தி' படக் குழு
+### Sivakarthikeyan's 'Parasakthi' film crew, who is preparing fans for the first day of the scene
 
 *2025-10-07 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/227144) · `ta`
 
-தமிழ் சினிமாவில் முன்னணி நட்சத்திர நடிகராக திகழ்ந்த விஜய்- தீவிர அரசியலில் இறங்கி, அதில் மக்கள் நல பணியை மேற்கொண்டு வருவதால்... காலியான அந்த நட்சத்திர இடத்தை தொடுவதற்காக பகீரத பிரயத்தனம் மேற்கொண்டிருக்கும் நடிகர் சிவகார்த்திகேயன் நடிப்பில் உருவாகி வரும் 'பராசக்தி' படத்தை 'முதல் நாள் முதல் காட்சி'யில் ரசிகர்களை பட மாளிகைக்கு வரவழைப்பதற்காக படக்குழு - நூறு நாள் முன்பாகவே ரசிகர்களை உளவியல் ரீதியாக தயார்படுத்துகிறது. இதற்காக படக்குழுவினர் 'இன்னும் நூறு நாட்களே உள்ளன..' என்ற ரீதியில் பிரத்யேக போஸ்டரை வெளியிட்டு, ரசிகர்களின் கவனத்தை ஈர்த்திருக்கிறார்கள்.
+Vijay, a leading star actor in Tamil cinema, has embarked on radical politics and is doing welfare of the people.. Actor Sivakarthikeyan, who has been trying to touch the empty star space, is being produced by the film 'Parasakthi' to bring fans to the film mansion in the first day of the first day of the film - a hundred days ago. For this, the film crew has released the special poster of 'one hundred days ..' and has attracted the attention of the fans.
+
+Directed by director Sudha Kongara, 'Parasakthi' starring Shiva Karthikeyan, Ravi Mohan, Atharva Murali, Sri Leela, Abbas, Rana Dagupati, Prithvi Rajan, Guru Somasundaram, Basil Joseph and many others.. Ravi K. The film is being recorded by Moon. Prakash Kumar is composed by Prakash Kumar, produced by Dan Pictures Company producer Akash Baskaran, which is being prepared as the backdrop of the anti -dumping struggle in Tamil Nadu in 1965.
 
 ...
 
 [Data](articles/1316af84.json)
+
+[Extended Data](ext_articles/1316af84.ext.json)
 
 ---
 
@@ -857,23 +1053,25 @@ The National Commemoration Festival will be held tomorrow (08) at the Sri Lanka 
 
 ---
 
-### நாங்கள் இந்த சிங்கள பௌத்த ஆட்சியாளர்களை நம்பவே மாட்டோம் - சிவாஜிலிங்கம் இடித்துரைப்பு!
+### We will not trust these Sinhala Buddhist rulers - Sivajilingam demolition!
 
 *2025-10-07 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/227141) · `ta`
 
-தொடர்ந்தும் எங்களுடைய மக்கள் போராடுவார்கள் நாங்கள் இந்த சிங்கள பௌத்த ஆட்சியாளர்களை நம்ப மாட்டோம் என முன்னாள் நாடாளுமன்ற உறுப்பினர் எம்.கே.சிவாஜிலிங்கம் கூறியுள்ளார்.
+Former parliamentarian MK Sivajilingam has said that we will continue to fight these Sinhala Buddhist rulers.
 
-யாழ்ப்பாணம் - வலிகாமம், தையிட்டி பகுதியில் அமைந்துள்ள, திஸ்ஸ விகாரைக்கு எதிராக இன்று செவ்வாய்க்கிழமை (07) போராட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+A protest was launched on Tuesday (07) against the Tissa Vihara, located in the Taiti area of ​​Jaffna - Valikamam.
 
-சட்ட விரோதமாக தனியார் காணிகளை ஆக்கிரமிப்பு செய்து கட்டப்பட்ட திஸ்ஸ விகாரையை அகற்றுமாறும், இப்பிரதேச மக்களும் தமிழ் தேசிய மக்கள் முன்னணியினரும் ஒவ்வொரு பௌர்ணமி தினமும் போராடிக்கொண்டு இருக்கின்றனர்.
+The people and the Tamil National Alliance (TNA) are fighting every day to remove the Tissa Vihara, which has been illegally occupied by private lands.
 
-தேசிய மக்கள் சக்தி அரசின் ஆட்சி ஒரு வருடம் நிறைவு பெற்றதன் பின்னரும் ஆராய்கிறோம் ஆராய்கிறோம் என கூறி, கடந்த கால சிங்கள பௌத்த ஆட்சியாளர்களை போலவே தாங்களும் இருக்கின்றோம் என எமக்கு தெளிவாக புரியவைக்கின்றனர்.
+We are clearly understanding that they are just like the Sinhala Buddhist rulers of the past, saying that we are investigating even after the completion of the rule of the National People's Shakti state.
 
-இப்பொழுது விகாரையை அகற்ற முடியாது என கூறும் நிலைமை காணப்படுகிறது. இதனை பற்றி தீர்மானிக்கவே இவ்வளவு காலம் எடுப்பது என்றால் ஆக்கிரமிப்பை தொடர்ந்து நடத்தும் போது பொது மக்கள் களைப்படைவார்கள் இல்லை என்றால் இதனை கை விடுவார்கள் எனும் எண்ணத்தில் தான் இழுத்தடிக்கிறார்களோ தெரியவில்லை.
+The situation is now seen that the idol cannot be removed. It is not known if the public is not tired when it comes to the occupation, if it takes so long to decide on this, it is not known if they are tired.
 
 ...
 
 [Data](articles/99bccd72.json)
+
+[Extended Data](ext_articles/99bccd72.ext.json)
 
 ---
 
@@ -897,51 +1095,61 @@ Shivani's father Narayana Singh says, “I have two women and two sons. Both wom
 
 ---
 
-### படத் தொகுப்பாளர் அண்டனி வெளியிட்ட 'தடை அதை உடை 'படத்தின் பிரத்யேக காணொலி
+### Film presenter Antony released a special video
 
 *2025-10-07 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/227142) · `ta`
 
-'அங்காடித்தெரு' மகேஷ் - அறிமுக நடிகர் குணா பாபு ஆகியோர் கதையின் நாயகர்களாக நடித்திருக்கும்' தடை அதை உடை' எனும் திரைப்படத்தின் பிரத்யேக காணொளி வெளியிடப்பட்டுள்ளது. இதனை சர்வதேச விருதுகளை வென்ற படத்தொகுப்பாளரும், இயக்குநருமான அண்டனி- அவருடைய சமூக வலைதள பக்கத்தில் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+'Angaditheru' Mahesh - debutant actor Guna Babu has been released as the hero of the story.. The filmmaker and director, who won the International Awards, has posted on her social network and congratulated the film crew.
 
-இயக்குநர் அறிவழகன் முருகேசன் இயக்கத்தில் உருவாகியுள்ள 'தடை அதை உடை' எனும் திரைப்படத்தில் மகேஷ், குணா பாபு ,திருவாரூர் கணேஷ், மகாதீர் முஹம்மத் , கே. எம். பாரிவள்ளல், கௌதமி வேம்பு நாதன்,  நாகராஜ், அம்பாள் சதீஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். தங்கபாண்டியன் மற்றும் சோட்டா மணிகண்டன் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு பி சாய் சுந்தர் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை காந்திமதி பிக்சர்ஸ் நிறுவனம்  தயாரித்திருக்கிறது.
+Mahesh, Guna Babu, Thiruvarur Ganesh, Mahathir Muhammad, K.. M.. Barivallal, Gautami Vembu Nathan, Nagaraj, Ambal Satish and many others have been cast. P Sai Sundar has composed the film, which is being recorded by Thangapandian and Chota Manikandan.. The film was produced by Gandhimathi Pictures.
 
-...
+A special video has been released from the film, which is expected to be released at the film House around the world on the 31st of this month.. The expectation of the film has been created by fans as he is preparing to be an exercise entertainer in 1995, embracing the real incident in the Delta area of ​​Tamil Nadu.
+
+◼️
 
 [Data](articles/6fa416a2.json)
 
+[Extended Data](ext_articles/6fa416a2.ext.json)
+
 ---
 
-### போராட்டக்காலத்தில் மக்களை எழுச்சிகொள்ள வைத்த கலை, இலக்கியங்கள் இப்போது ஊமையாக இருப்பது வருத்தமளிக்கிறது - பொ. ஐங்கரநேசன் ஆதங்கம்!
+### It is sad that the arts and literature that has upheld the people during the struggle. Angaranesan
 
 *2025-10-07 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227139) · `ta`
 
-தமிழ்த்தேசிய விடுதலைப் போராட்டத்தில் கலை, இலக்கியங்கள் அளப்பெரிய பணிகளை ஆற்றியிருக்கின்றன. போர்க்களத்தில் ஆயுதங்கள் பேசியபோது மக்கள் களத்தில் நின்று கலை, இலக்கியங்கள் பேசின, போராட்டங்களின் நியாயங்களையும், வலிகளையும் சொல்லி மக்களை எழுச்சிகொள்ள வைத்து அவர்களைத் தேசமாக ஒருங்கிணைத்ததில் கலை, இலக்கியங்கள் பெரும் பங்களிப்புகளைச் செய்தன. ஆனால், முள்ளிவாய்க்காலில் ஆயுதங்கள் மௌனித்ததோடு, எமது கலை, இலக்கியங்களும் மூச்சிழந்து விட்டன கலை, இலக்கியங்கள் பேசவேண்டிய விடயங்கள் இன்னும் ஏராளம் இருக்க, அவை ஊமையாக இருப்பது வருத்தமளிக்கிறது என்று தமிழ்த்தேசியப் பசுமை இயக்கத்தின் தலைவரும், 'வேர்முகங்கள்' நூலின் ஆசிரியருமான பொ. ஐங்கரநேசன் தனது ஆதங்கத்தை வெளிப்படுத்தியுள்ளார்.
+Arts and literature have performed great tasks in the Tamil Liberation struggle. When we spoke on the battlefield, art and literature made great contributions to the people who stood on the field and spoken the arts and literature, the struggles and the legitimate of the people, to uplift them as a nation.. But in Mullivaikkal, weapons are silenced and our arts, literature is breathtaking.. Aingeranesan has expressed his support.
 
-பொ. ஐங்கரநேசன் கலை, இலக்கிய ஆளுமைகளுடன் நிகழ்த்திய நேர்காணல்களின் தொகுப்பான 'வேர்முகங்கள்' நூலின் அறிமுகவிழா கடந்த ஞாயிற்றுக்கிழமை (05) முள்ளியவளை பரி-மத்தியா ஆலய மண்டபத்தில் நடைபெற்றது. இவ்விழாவில் ஏற்புரை ஆற்றியபோதே பொ. ஐங்கரநேசன் இவ்வாறு தனது ஆதங்கத்தை வெளிப்படுத்தியுள்ளார்.
+P. A collection of interviews with art and literary personalities, 'Warmukas', was held at the Mulliyawalai Pari-Madhya Temple Hall last Sunday (05).. When the acceptance of the event. Aingeranesan has thus expressed his support.
+
+The armed struggle of the Tamil National Liberation Movement has ended and the Tamil National Liberation Struggle has not ended. When the causes of the struggle sprout still remain the same, the struggle cannot end. It must be carried out as a democratic struggle in all possible ways.
 
 ...
 
 [Data](articles/af179eb8.json)
 
+[Extended Data](ext_articles/af179eb8.ext.json)
+
 ---
 
-### மட்டக்களப்பு மாவட்டத்தின் புதிய பொலிஸ் மா அதிபராக பொறுப்பேற்றார் டபிள்யூ.யு.டி கினிகே
+### WUT Ginike took over as the new Inspector General of Police of Batticaloa District
 
 *2025-10-07 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/227137) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் புதிய உதவி பொலிஸ் மா அதிபராக நியமிக்கப்பட்ட  டபிள்யூ.யு.டி கினிகே தனது கடமைகளை செவ்வாய்க்கிழமை (07) சம்பிரதாயபூர்வமாக பொறுப்பேற்றுக் கொண்டார்.
+WUD Ginike, who was appointed as the new Assistant Inspector General of Police of the Batticaloa District, was formally assumed to take his duties on Tuesday (07).
 
-மாவட்டத்தில் உதவி பொலிஸ் மா அதிபராக கடமையற்றிவந்த எம்.என்.எஸ்.நுவான்மெண்டிஸ் இடமாற்றம் பெற்று சென்றதையடுத்து இந்த வெற்றிடத்துக்கு புதிய உதவி பொலிஸ் மா அதிபராக டபிள்யூ.யு.டி கினிகே நியமிக்கப்பட்டார்.
+MNS Nuwanmentis, who was assistant Inspector of Police in the district, was appointed as the new Assistant Inspector General of Police for the vacancy.
 
-இதனையடுத்து அவர் தனது கடமைகளை பொறுப்பேற்கும் நிகழ்வு மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகர்  லலித் லீலாரத்ன தலைமையில் இடம்பெற்றது.
+Subsequently, the event was held under the patronage of District Senior Superintendent of Police Lalith Lilaratne.
 
-இதில் 15 பொலிஸ் நிலையங்களின் பொறுப்பதிகாரிகள், மற்றும் உதவி பொலிஸ் அத்தியட்சகர்  உட்பட அதிகாரிகள் பங்குபற்றனர்.
+Officers, including the officers of 15 police stations, and the Assistant Superintendent of Police participated.
 
-இதன் போது அவருக்கு பொலிஸ் அணிவகுப்பு மரியாதை வழங்கப்பட்டு சர்வ மதங்களைச் சேர்ந்த குருமார்களின் ஆசீர்வாதத்துடன் அவர் கடமையை பொறுப்பேற்றுக் கொண்டார்.
+At this time, he was honored with the police parade and he took charge of the duties with the blessings of the priests of all religions.
 
 ◼️
 
 [Data](articles/f5a1a253.json)
+
+[Extended Data](ext_articles/f5a1a253.ext.json)
 
 ---
 
@@ -1106,6 +1314,30 @@ Local media reports suggest that the suspect was shot dead as expected to lose t
 ...
 
 [Data](articles/c1bc1d14.json)
+
+---
+
+### Three scientists win Nobel Prize in physics for work on quantum mechanics
+
+*2025-10-07 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113303/three-scientists-win-nobel-prize-in-physics-for-work-on-quantum-mechanics) · `en`
+
+Three scientists at American universities won the 2025 Nobel Prize in Physics for their work on quantum mechanics.
+
+The winners are John Clarke, Michel H. Devoret, and John M. Martinis.
+
+The Nobel Prizes were created by the Swedish inventor Alfred Nobel, who died in 1896. It comes with a cash award of 11 million Swedish kroner, which is more than €997,000.
+
+From 1901 to 2024, 118 Nobel Prizes were awarded in physics. Five of the 227 physics winners have been women, including Marie Curie in 1903.
+
+Last year’s physics award went to physicist John Hopfield and computer scientist Geoffrey Hinton, who is considered one of the godfathers of artificial intelligence (AI).
+
+Their discoveries in the 1980s enabled machine learning with artificial neural networks and paved the way for modern breakthroughs in AI.
+
+The rest of the 2025 Nobel Prizes, awarded for advancements in chemistry, literature, and toward peace, will be announced throughout the week. The economics prize will be granted on 13 October.
+
+...
+
+[Data](articles/880f7e95.json)
 
 ---
 
@@ -1826,187 +2058,5 @@ At the same time, lawyers who have faced land fraudulent allegations are demandi
 [Data](articles/ab8f8101.json)
 
 [Extended Data](ext_articles/ab8f8101.ext.json)
-
----
-
-### Yall. 'O Positive' Blood in Teaching
-
-*2025-10-07 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/227105) · `ta`
-
-The 'O Positive' blood variety at the Jaffna Teaching Hospital is currently undergoing a severe shortage of blood.
-
-The Blood Bank of the Jaffna Teaching Hospital was reported to have been reported to have a shortage of 'O Positive' blood type a few days ago.
-
-Therefore, the bloodbath of the Jaffna Teaching Hospital has requested that the 'O Positive' type of bloodshed and visited the Jaffna Teaching Hospital directly and engage in a bloodbath.
-
-◼️
-
-[Data](articles/a79a3141.json)
-
-[Extended Data](ext_articles/a79a3141.ext.json)
-
----
-
-### The death of a boy who was injured in swimming lake
-
-*2025-10-07 13:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீச்சல்-தடாகத்தில்-காயமடைந்த-சிறுவன்-மரணம்/175-365888) · `ta`
-
-An eight -year -old boy, who was injured in an incident at the Colombo Swimming Club, died after being treated at a private hospital, hospital sources said.
-
-The boy, who was identified as Master Orlan, fell into a swimming lake during a private birthday party at the Colombo club.
-
-He was given life -saving equipment for several days as he suffered severe injuries in the brain.
-
-At the time of the incident, his father Prasad Panagoda had lodged a complaint with the police that there was no policeman in the pool, claiming that there was no policeman in the pool.
-
-In a statement to its members, the Colombo Swimming Club said that a life -saving guard rescued the child and provided emergency assistance with the help of one of the guests, a doctor.. The club further stated that it was fully cooperating with the police investigations.
-
-◼️
-
-[Data](articles/01617d6e.json)
-
-[Extended Data](ext_articles/01617d6e.ext.json)
-
----
-
-### Chinese citizen arrested in Bambalapitiya
-
-*2025-10-07 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227107) · `ta`
-
-The Bambalapitiya Police Criminal Investigation Department (CID) rallied on Monday night (06) a nightclub that illegally sold liquor without permission on a full moon holiday.
-
-The Bambalapitiya Police Criminal Investigation Division (CID) has received information that liquor is being sold at a full moon vacation at a nightclub at Bambalapitiya - Galle Road.
-
-Later, the police have seized liquor bottles and illegal cigarettes from the night's extravagant hotel.
-
-Subsequently, the Chinese citizen of the night's extravagant hotel has been arrested by the police.
-
-Police have taken steps to produce the arrested Chinese citizen in court on Tuesday (07).
-
-Further investigations are being carried out by the Bambalapitiya Police Criminal Investigation Division.
-
-◼️
-
-[Data](articles/6731540d.json)
-
-[Extended Data](ext_articles/6731540d.ext.json)
-
----
-
-### Abnormal
-
-*2025-10-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆதிவாசி-அகராதி-வெளியீடு/76-365887) · `ta`
-
-Uva Provincial Council organized by the Uva Navodaya Cultural Arts Festival recently held the launch of the Adivasi Dictionary at the Uva Provincial Library Auditorium.
-
-Governor of Uva Province Kapila Jayasekara, Uva Provincial Chief Secretary Anusha Gokula and Avaurige Wannila Attan were also present.
-
-◼️
-
-[Data](articles/70ea790a.json)
-
-[Extended Data](ext_articles/70ea790a.ext.json)
-
----
-
-### The proposal to the Human Rights Council to Sri Lanka and Sri Lanka's intense response
-
-*2025-10-07 12:54:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3vke41k14o) · `si`
-
-The proposal to the Human Rights Council to Sri Lanka and Sri Lanka's intense response
-
-A proposal on Sri Lanka in the 60th session of the UN Human Rights Council was presented.
-
-The Grossen Sinhala translation of the proposal on Sri Lanka under the Title of Sri Lanka, the Promote Sri Lanka's Reconciliation and Human Rights, "says the Sinhala translation of Sri Lanka.
-
-Promotion of goals and principles of reconciliation, accountability and human rights, United Nations Charter
-
-The Universal Declaration of Human Rights and the relevant international human rights agreements are guided.
-
-Recalling the 57/1 proposal on October 9, 2024 on reconciliation, accountability and human rights in Sri Lanka
-
-Return to the sovereignism, independence, unity, and territorial integrity of Sri Lanka
-
-Skip Podcast Promotion Contoion and Continue Reading Our BBC News Sinhala Business Whatsapp Channel Following.
-
-...
-
-[Data](articles/0384159c.json)
-
-[Extended Data](ext_articles/0384159c.ext.json)
-
----
-
-### US ends universal Covid-19 vaccine recommendation, leaves decision to patients
-
-*2025-10-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113297/us-ends-universal-covid-19-vaccine-recommendation-leaves-decision-to-patients) · `en`
-
-The Centers for Disease Control and Prevention (CDC) has implemented recommendations from a newly appointed panel of vaccine advisers. The agency will no longer recommend Covid-19 vaccinations for all Americans, leaving the decision to individual patients.
-
-The agency announced on Oct. 6 that it had implemented recommendations made last month by advisers appointed by US Health Secretary Robert F. Kennedy Jr, reported news agency Associated Press.
-
-Previously, US health officials, following advice from infectious disease experts, had recommended annual Covid-19 booster shots for everyone aged six months and older.
-
-...
-
-[Data](articles/d9c7990f.json)
-
-[Extended Data](ext_articles/d9c7990f.ext.json)
-
----
-
-### The main suspect in the Hungama double murder surrenders to the police
-
-*2025-10-07 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215432) · `si`
-
-The main suspect in assassinating a couple has surrendered to the murder of a couple in a house at a house in the Wadigala area in Hungama.
-
-The double murder had taken place at around 12.45 am today at around 12.45 am today (07) at Wadigala area in Hungama.
-
-According to the police, a group of five people had declined in the house when the house arrived outside the toilet.
-
-Later, a couple in a room at home were brutally assaulted by sharp weapons.
-
-The police said that the head of the victim had been attacked by the trunk.
-
-The victim was a 28 year old man named Pasindu Heshan, a woman who claims to be the murdered casual wife was 28 year old Imasha Madushiani.
-
-The deceased is a person who is involved in two previous person's murders.
-
-Police say the victim has been killed in the past year.
-
-The victim had been arrested by the police on a warrant on Monday yesterday (06).
-
-He had tried to kill him earlier and he had survived serious injuries.
-
-...
-
-[Data](articles/0c355377.json)
-
-[Extended Data](ext_articles/0c355377.ext.json)
-
----
-
-### Bomb blast on the railway in Pakistan
-
-*2025-10-07 12:45:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-தண்டவாளத்தில்-குண்டு-வெடிப்பு/50-365885) · `ta`
-
-Baloch Liberation Army militants are frequent attacks in Pakistan's Balochistan province.
-
-Recently attacked the Jafar Express train. Last March, 400 passengers were hijacked by the Jafar Express train.
-
-The Jafar Express train has been attacked today. The train was heading to Quetta.
-
-The bomb exploded on the railway when the train was traveling in the Sultankot area near the Indus-Balusistan border.
-
-Thus the 6 compartments of the train were derailed. Many of them were injured.
-
-Immediately rescue teams and security forces went to the scene and engaged in rescue operations. The injured were rescued and sent to the hospital.
-
-◼️
-
-[Data](articles/5d02cf2b.json)
-
-[Extended Data](ext_articles/5d02cf2b.ext.json)
 
 ---

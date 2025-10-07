@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 16:53:52**
+As of **2025-10-07 17:20:34**
 
 ## Newspaper Stats
 
-*Scraped **81,901** Articles*
+*Scraped **81,912** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 636
 dbsjeyarajcom | 637
+newsfirstlk | 638
 bbccomsinhala | 727
 colombotelegraphcom | 815
-lankadeepalk | 937
+lankadeepalk | 945
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
@@ -21,31 +21,175 @@ adalk | 7,826
 adaderanalk | 10,520
 tamilmirrorlk | 12,151
 virakesarilk | 13,490
-adaderanasinhalalk | 14,044
+adaderanasinhalalk | 14,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,900 (100.0%) of 81,901 articles have been extended.
+81,911 (100.0%) of 81,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### භෞතික විද්‍යා නොබෙල් ත්‍යාගය විද්‍යාඥයින් තිදෙනෙකුට
+### ජනපති සහ IMF නියෝජිතයන් අතර සාකච්ඡාවක්
+
+*2025-10-07 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215438) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් අතර සාකච්ඡාවක් අද (07) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජාත්‍යන්තර මූල්‍ය අරමුදලේ හයවෙනි වාරිකය ලබා දීමට පෙර පැවැත්වෙන පස්වැනි සමාලෝචනයේ මධ්‍යම අදියර වෙනුවෙන් මෙම සාකච්ඡාව පැවැත්විණි.
+
+ආර්ථික වශයෙන් බංකොලොත් වී තිබූ රට ඉන් මුදා ගෙන සංවර්ධනය කරා රැගෙන යාම රජයේ ප්‍රධාන අරමුණක් බවත්,  ඒ සඳහා උපායමාර්ගික වැඩ පිළිවෙලක් රජයට පවතින බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී පැවසීය.
+
+එම වැඩපිළිවෙල සාර්ථක කර ගැනීමේ ක්‍රියාවලියේදී  ජාත්‍යන්තර මූල්‍ය අරමුදල ලබා දෙන සහාය ඉතා අගය කරන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ආර්ථික පුනර්ජීවනයක් අත්පත් කර දිය හැකි රටක් ලෙස මේ රට සංවර්ධනය කිරීමට නම් ජාත්‍යන්තර මූල්‍ය අරමුදල ලබා දී ඇති ඉලක්ක ද අභිබවා යාමේ අවශ්‍යතාව රජය හඳුනාගෙන ඇති බවත්, ඒ සඳහා විධිමත් වැඩපිළිවෙලක් රජය සතුව ඇති බවත් ජනාධිපතිවරයා එහිදී පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/016cc890.json)
+
+---
+
+### Supreme Court confirms Amare
+
+*2025-10-07 16:46:49* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අමරට-තගලලන-දන-දඬවම-ශරෂඨධකරණය-තහවර-කරය/101-680876) · `si`
+
+In 2011, Julampitiye Amare was the death penalty for the death sentence of the Tangalle High Court today (07).
+
+The Supreme Court sentenced to death by GG Amarasiri, Julampitiye Amare, without denying a special appeal petition filed.
+
+The petition was considered by Supreme Court Justice Janaka de Silva, Sobhitha de Silva, Sobhitha de Silva, Sobhitha de Silva and Sobhitha Rajakaruna and Sampath Wijeyratne.
+
+The Attorney General has been named as the respondent of the Special Appeal Petition filed by GG Amarasiri (Julampitiye Amare).
+
+The Attorney General had filed a sued the Tangalle High Court against the accused and killed two persons who were shot dead in 2011 and killed two persons who were killed in the JVP in Tangalle.
+
+Julampitiye Amare, a petition filed by the Court of Appeal against the Tangalle High Court, filed a petition to the Supreme Court after the petition was dismissed.
+
+After consolidation of the special appeal petition, the Supreme Court refused to do not take the hearing.
+
+◼️
+
+[Data](articles/5f4f75a1.json)
+
+[Extended Data](ext_articles/5f4f75a1.ext.json)
+
+---
+
+### Special training for tourist three-wheelers
+
+*2025-10-07 16:42:11* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සචරක-තරරද-රයදරනට-වශෂ-පහණවක/101-680875) · `si`
+
+The Government has decided to provide special training to the Dhamma Dhamma in the tourism industry.
+
+The program is implemented under the Government Clean Sri Lanka Program.
+
+One of its training programs will be held at Hector Kobbekaduwa Agrarian Research and Training Institute tomorrow (8) at the Farmers Research and Training Institute.
+
+◼️
+
+[Data](articles/dd485b0c.json)
+
+[Extended Data](ext_articles/dd485b0c.ext.json)
+
+---
+
+### Seven Students Hospitalized After Chemical Incident at Dambulla School
+
+*2025-10-07 16:40:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/seven-students-hospitalized-after-chemical-incident-at-dambulla-school) · `en`
+
+COLOMBO(News 1st); Seven students from a school in Dambulla have been hospitalized after coming into contact with a chemical substance found in the school’s science laboratory.According to police, the students are from Grade 7.During the recent school holidays, toque macaques had broken into the school’s science laboratory and damaged the roof and had destroyed various items.Following the incident, a red-colored substance had spilled, and the students, mistaking it for chili powder, had tasted it. As a result, they are believed to have ingested a chemical known as potassium ferrocyanide, police said.The affected students—five boys and two girls—were promptly admitted to hospital. Police confirmed that their condition is not serious.
+
+◼️
+
+[Data](articles/88819df1.json)
+
+[Extended Data](ext_articles/88819df1.ext.json)
+
+---
+
+### 2025 Nobel Prize in Physics Awarded for Groundbreaking Discovery in Macroscopic Quantum Mechanics
+
+*2025-10-07 16:33:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/2025-nobel-prize-in-physics-awarded-for-groundbreaking-discovery-in-macroscopic-quantum-mechanics) · `en`
+
+COLOMBO (News 1st); The Royal Swedish Academy of Sciences has awarded the 2025 Nobel Prize in Physics to three pioneering scientists for their revolutionary work in quantum mechanics:
+
+Michel H. Devoret – Yale University, New Haven, CT and University of California, Santa Barbara, USA
+
+John M. Martinis – University of California, Santa Barbara, USA
+
+The trio is recognized “for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit.”
+
+Their experiments on a chip revealed quantum physics in action
+
+A major question in physics is the maximum size of a system that can demonstrate quantum mechanical effects. This year’s Nobel Prize laureates conducted experiments with an electrical circuit in which they demonstrated both quantum mechanical tunnelling and quantised energy levels in a system big enough to be held in the hand.
+
+...
+
+[Data](articles/1a0d0bfb.json)
+
+[Extended Data](ext_articles/1a0d0bfb.ext.json)
+
+---
+
+### An eighth of mental illness
+
+*2025-10-07 16:30:57* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අටන-එකක-මනසක-ලඩක/101-680873) · `si`
+
+The World Health Organization says that in what eight people globally live in a state of mental health.
+
+The organization states that the development of mental health problems can be seen among adolescents and youths.
+
+The World Health Organization says that in any mental health conditions, as they deal with their physical health, deactivate with other people, and even livelihoods.
+
+World Mental Health Day is on the 10th of October every year.
+
+The National Commemoration Festival will be held tomorrow (08) at the Sri Lanka Foundation Organization Auditorium.
+
+◼️
+
+[Data](articles/fdcf9221.json)
+
+[Extended Data](ext_articles/fdcf9221.ext.json)
+
+---
+
+### 3 scientists prize Physics' Nobel Prize
 
 *2025-10-07 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215437) · `si`
 
-2025 වසරේ භෞතික විද්‍යාව සඳහා වූ නොබෙල් ත්‍යාගය බ්‍රිතාන්‍ය, ප්‍රංශ සහ අමෙරිකානු ජාතික විද්‍යාඥයින් තිදෙනාට ප්‍රදානය කරන බව නොබෙල් ත්‍යාග කමිටුව අද (07) නිවේදනය කළේය.
+The Nobel Prize Committee today announced that the Nobel Prize Prize is awarded to British, French and American scientists.
 
-එම ත්‍යාගය හිමිකරගෙන ඇත්තේ ජෝන් ක්ලාක්, මයිකල් එච්. ඩෙවොරෙට් සහ ජෝන් එම්. මාර්ටිනිස් යන විද්‍යාඥයින්ය.
+John Clarke, Michael H. Darott and John M. The scientists of Martinis.
 
-ක්වොන්ටම් යාන්ත්‍ර විද්‍යාව පිළිබඳ සොයාගැනීම් සඳහා මෙම විද්‍යාඥයින් තිදෙනාට නොබෙල් ත්‍යාගය ලබාදීමට තීරණය කළ බව නොබෙල් ත්‍යාග කමිටුව  අද ස්වීඩනයේ ස්ටොක්හෝම් හි පැවති උත්සවයකදී මෙම නිවේදනය කර තිබුණි.
+The Nobel Prize Committee had announced that the three scientists decided to give the Nobel Prize today for quantum mechanics.
 
 ◼️
 
 [Data](articles/73e04c18.json)
+
+[Extended Data](ext_articles/73e04c18.ext.json)
+
+---
+
+### The government cannot get rid of Mahinda
+
+*2025-10-07 15:50:10* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනද-රකමන-මදනන-ආණඩවට-බ/101-680870) · `si`
+
+Galle District MP Chana Sampath Madugugoda said: In Parliament, he said:
+
+The Public Federation has agreed on the Sports Stimulant Act.. Needless to say about the danger of leader of the world that ended war in war.
+
+The government should take the responsibility of those who lost their lives as a result of the dependence of the bill.. The young child who leads to the game has become unable to stay in the game today. Therefore, we call upon us to remove taxes made to sports goods.
+
+◼️
+
+[Data](articles/8ad10697.json)
+
+[Extended Data](ext_articles/8ad10697.ext.json)
 
 ---
 
@@ -66,6 +210,22 @@ The aircraft landed, and Air India engineers carried out extensive tests, and th
 [Data](articles/6ceae880.json)
 
 [Extended Data](ext_articles/6ceae880.ext.json)
+
+---
+
+### "Has a cry to the day of the day,"
+
+*2025-10-07 15:42:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දවස-වඩලල-දවස-ඇඬලල-වල/101-680868) · `si`
+
+Badulla District MP Dyunumanu Saman has said in parliament today.
+
+We have seen in the event of the end of the robbery of the sports, as a result of the infurmation of the country. I saw.. The Sri Lankan era was the opportunity to criminate politics. We know about Julniti Amid, who is behind the Prince Iceland.
+
+◼️
+
+[Data](articles/55051f59.json)
+
+[Extended Data](ext_articles/55051f59.ext.json)
 
 ---
 
@@ -92,6 +252,32 @@ Local media reports suggest that the suspect was shot dead as expected to lose t
 [Data](articles/c8e7fce9.json)
 
 [Extended Data](ext_articles/c8e7fce9.ext.json)
+
+---
+
+### The elephant fell on the felling of the planting
+
+*2025-10-07 15:34:44* · [`lankadeepalk`](https://www.lankadeepa.lk/test/වගා-ළිඳට-වැටුනු-අලියා-දිනකට-පසු-ගොඩ-ගනියි/222-680866) · `si`
+
+Wildlife officials were able to release an elephant in a well-being of the Bellankadawala Divisional Secretariat of the Palugaswewa Divisional Secretariat.
+
+Residents of the Habarana Ganevi
+
+Accordingly, wildlife officials in the afternoon came to the night, but it failed with the night to build this elephant
+
+The Elephant has taken steps to build the elephant in Kekirawa Pradeshiya Sabha on the next morning, ensuring the safety of the elephant.
+
+Wildlife officials use large elephant shots for the wild elephant at situations fallen into well-fallen elephants
+
+But the unleasant release of the wilderness is not a brief, not to take the same elephant and used the same elephant to carry on the well
+
+The elephant that came to the land is also the case with the move to the forest without any disturbance. The fall of unsecured cultivation wells is commonplace these days, due to the ground, the water is common.
+
+◼️
+
+[Data](articles/552dd385.json)
+
+[Extended Data](ext_articles/552dd385.ext.json)
 
 ---
 
@@ -126,6 +312,28 @@ The public is kindly requested as the Department of Meteorology to minimize the 
 [Data](articles/07412bf2.json)
 
 [Extended Data](ext_articles/07412bf2.ext.json)
+
+---
+
+### '' The boss' says' '' 'about the official language policy
+
+*2025-10-07 15:20:36* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රජය-භෂ-පරතපතතය-ගන-ලකකනට-කය-දය/101-680863) · `si`
+
+It has been decided to inform the heads of the Official Languages ​​Policy and its significance.
+
+The awareness is conducted by the Official Languages ​​Commission.
+
+Accordingly, the Heads of Local Government Agencies in the Western Province regarding the Official Languages ​​Policy and its significance was held today (07).
+
+The General Assemblies of the Municipal Commissioners and the Secretaries of the Municipal Council and the Secretaries were present at the occasion.
+
+Chairman of the Official Languages ​​Commission Attorney General Thilak Nandana Hettara Arachchi, Commissioner General of Official Languages, Nimal R Ranawaka.
+
+◼️
+
+[Data](articles/abaf4e4f.json)
+
+[Extended Data](ext_articles/abaf4e4f.ext.json)
 
 ---
 
@@ -1323,6 +1531,26 @@ The responsibility of these institutions is to provide a clean game guidelines. 
 
 ---
 
+### Seven students of Dambulla Vidyalaya to be sent to hospital
+
+*2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-7ක-රහලට-යවය/101-680837) · `si`
+
+According to Dambulla Police, 7 seventh-year students who have been admitted to the Dambulla hospital.
+
+Five boys and two girls have been hospitalized.
+
+Asst ASP. Mr. SK Wickramanayaka said that a seventh year of school-educated children had been hospitalized that the Laboratory of the school had been taken to the past few days.
+
+Accordingly, a red have a redlified substance with these children to taste the chili powder on the tongue.
+
+◼️
+
+[Data](articles/87c28615.json)
+
+[Extended Data](ext_articles/87c28615.ext.json)
+
+---
+
 ### Eight students of Dambulla Vidyalaya receives eight students to hospital
 
 *2025-10-07 12:13:52* · [`lankadeepalk`](https://www.lankadeepa.lk/news/රසයනක-දරවයක-දඹලල-වදහලක-සසන-8ක-රහලට-යවය/101-680837) · `si`
@@ -1820,229 +2048,5 @@ It is reported that Amaraweera met the former President to inquire about his hea
 [Data](articles/7b0cf83f.json)
 
 [Extended Data](ext_articles/7b0cf83f.ext.json)
-
----
-
-### Local gold price hits historic high after sharp rise in global rates
-
-*2025-10-07 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/113291/local-gold-price-hits-historic-high-after-sharp-rise-in-global-rates) · `en`
-
-The price of gold has surpassed USD 3,950 per ounce for the first time in history, global market data indicates.
-
-In response to the surge, gold prices in Sri Lanka have increased by approximately Rs. 8,000 compared to Saturday’s rates.
-
-As of this morning (07), the price of a 22-carat gold sovereign in the Colombo Pettah market has risen to Rs. 290,500, up from Rs. 283,000 recorded on Saturday.
-
-Meanwhile, the price of a 24-carat gold sovereign, which stood at Rs. 306,000 on Saturday, has now climbed to Rs. 314,000, according to traders at the Pettah market.
-
-◼️
-
-[Data](articles/a7030a58.json)
-
-[Extended Data](ext_articles/a7030a58.ext.json)
-
----
-
-### Meeting Pope
-
-*2025-10-07 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227087) · `ta`
-
-UNICEF Managing Director Catherine Russell meets Leo on 14th Leo to discuss the plight of the world's children.
-
-The meeting, which was held at the Vatican, discussed the plight of children affected by conflicts, poverty and global foreign scholarships and credit crises.
-
-At the same time, UNICEF Managing Director Catherine Russell said that access to the Foreign Assistance Fund is globally with access to health, education and safety services.
-
-Many children in countries such as Gaza, the Democratic Republic, Haitan, Sudan, Ukraine and Yemen are living in the midst of conflict and violence and some are fleeing.
-
-Meanwhile, 1 billion boys are currently undergoing climate change and many are reported to be in serious poverty.
-
-UNICEF Executive Director Catherine Russell thanked the Pope 14 Leo's leadership for all children to be educated and remedy the debt crisis.
-
-Many countries are now investing more on debt interest than investing in health, education and social security.
-
-...
-
-[Data](articles/e6069479.json)
-
-[Extended Data](ext_articles/e6069479.ext.json)
-
----
-
-### Barefoot and POLS POTTEN partnership in the Netherlands
-
-*2025-10-07 10:57:19* · [`adalk`](https://www.ada.lk/business/BAREFOOT-සහ-නෙදර්ලන්තයේ-POLSPOTTEN-හවුල්කාරීත්වයක්/7-418951) · `si`
-
-Barefoot, a brand in Sri Lanka, is a lateral collection, which is to be launched in POLSPotten, 2025/2026.
-
-This unique cooperation, Barefoot's handloom fabric and color combination will mix with the special style of POLSPotten. This is the first partnership between Sri Lanka and POLSPotten and will continue to expand the excellence of working with international partners with decades.. The new collection is expected to submit the handicrafts in Sri Lanka to the global specialized market customers.
-
-This cooperation, which is being carried out with the Sri Lanka Export Development Board (EDB), is one aspect of the Sri Lankan Coordinating Program (eu-Sri Lanka matchmaking program). This program is supported by Cultural Relations PLATFORM-CRP. The Institute of Future Creeitions (TIFC) is also the Institute of Future Creations (TIFC) as knowledge partners.
-
-...
-
-[Data](articles/a18e4ef9.json)
-
-[Extended Data](ext_articles/a18e4ef9.ext.json)
-
----
-
-### Amaraweera goes to see Mahinda
-
-*2025-10-07 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215428) · `si`
-
-Former Minister Mahinda Amaraweera has gone to Tangalle Carlton to consult his former President Mahinda Rajapaksa.
-
-Former President Mahinda Rajapaksa left September 11 from his official residence in Wijerama.
-
-According to the provisions of the President of the President of the President of the President of the President, "with the official quarters given to former presidents, the quarters given to the government are back to their government.
-
-Although former President Mahinda Rajapaksa was using the official residence, he also lost that privilege.
-
-Accordingly, he came to the Carlton House in Hambantota and the people who love the former President and former President to date have come to Carlton.
-
-◼️
-
-[Data](articles/32ee24f8.json)
-
-[Extended Data](ext_articles/32ee24f8.ext.json)
-
----
-
-### Suspect remanded over multiple crimes including murder
-
-*2025-10-07 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113290/suspect-remanded-over-multiple-crimes-including-murder) · `en`
-
-An individual arrested on suspicion of multiple crimes, including murder, has been remanded until October 21, police stated.
-
-The order was issued by the Kaduwela Magistrate’s Court, police said.
-
-The 36-year-old suspect, a resident of Thalawathugoda, was arrested in the same area during a raid conducted by the Thalangama Police based on a tip-off. During the raid, officers recovered 12 grams and 200 milligrams of crystal methamphetamine (ICE) from the suspect’s possession.
-
-Police investigations have revealed that the suspect maintains close connections with organized criminal groups currently operating from abroad.
-
-According to police, there are several ongoing cases against the suspect for attempted murder by shooting, possession of heroin, and kidnapping.
-
-Further investigations have identified the suspect as the motorcyclist involved in the shooting and murder of a person in Gampaha, as well as in two other shootings and attempted murders reported in the same locality.
-
-...
-
-[Data](articles/c3dab411.json)
-
-[Extended Data](ext_articles/c3dab411.ext.json)
-
----
-
-### Harini Amarasuriya and Narendra Modi participate in the NDTV World Summit this month
-
-*2025-10-07 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/227071) · `ta`
-
-Prime Minister Harini Amarasuriya and Indian Prime Minister Narendra Modi are expected to be held this month.
-
-The summit will be held in New Delhi on October 17 and 18.
-
-2025 - Leaders of some of the most influential countries in the world are reported to be participating in global conversation at the NDTV World Summit.
-
-Indian Prime Minister Narendra Modi, Sri Lanka's Harini Amarasuriya and two former prime ministers, Rishi Sunak of the United Kingdom and Tony Abbott of Australia will participate in the summit.
-
-◼️
-
-[Data](articles/ea2dca98.json)
-
-[Extended Data](ext_articles/ea2dca98.ext.json)
-
----
-
-### Gampola incident; Car driver arrested!
-
-*2025-10-07 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227088) · `ta`
-
-The driver of the car has been arrested by the Gampola police in connection with the accident which took place on Monday afternoon in Tholuwa area in Kandy, Gampola, Kandy.
-
-Three women died on the spot and another woman was injured and admitted to the Gampola hospital.
-
-Investigations carried out by the police revealed that a 36 -year -old woman was driving the car.
-
-Police investigations have revealed that the woman was the first husband and the car had been driven by her husband and children to the city of Gampola.
-
-◼️
-
-[Data](articles/1d7a68ab.json)
-
-[Extended Data](ext_articles/1d7a68ab.ext.json)
-
----
-
-### Handunneti's invitation to glass bottles
-
-*2025-10-07 10:40:26* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වදර-බතල-හදනන-හඳනනතතගන-ආරධනයක/1-680831) · `si`
-
-Entrepreneurship Development Minister Sunil Handunnetti requested entrepreneurs today to establish glass bottles factories.
-
-දැනට රටේ වීදුරු බෝතල් නිෂ්පාදනය කරන කර්මාන්තශාලා ඇත්තේ එකක් පමණක් බවද ඔහු සඳහන් කළේය.
-
-The Minister added that if the government is produced to produce glass bottles, the government is ready to support them.
-
-◼️
-
-[Data](articles/14f29155.json)
-
-[Extended Data](ext_articles/14f29155.ext.json)
-
----
-
-### Handunneti's invitation to glass bottles
-
-*2025-10-07 10:40:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදර-බතල-හදනන-හඳනනතතගන-ආරධනයක/101-680831) · `si`
-
-Entrepreneurship Development Minister Sunil Handunnetti requested entrepreneurs today to establish glass bottles factories.
-
-He added that only one of the factories produced in the country.
-
-The Minister added that if the government is produced to produce glass bottles, the government is ready to support them.
-
-◼️
-
-[Data](articles/a551d92a.json)
-
-[Extended Data](ext_articles/a551d92a.ext.json)
-
----
-
-### Nobel Prize for Medicine for 2025
-
-*2025-10-07 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227086) · `ta`
-
-The Nobel Prize winners for 2025 will be announced from Monday.
-
-The Nobel Prize is awarded annually to the enormous achievement in the fields of medicine, physics, chemistry, literature, economics and peace.. The Nobel Prize includes a medal, certificate and cash prize.
-
-The Nobel Prize for Medicine this year has been announced to be distributed to 3. Mary E. Frankov, Brett Ramstell and Shimon Sahakuchi have been awarded the Nobel Prize for Medicine in 2025.
-
-◼️
-
-[Data](articles/ee504c2b.json)
-
-[Extended Data](ext_articles/ee504c2b.ext.json)
-
----
-
-### Sri Lanka Crosses 1.7 Million Tourist Arrivals
-
-*2025-10-07 10:38:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka-crosses-1-7-million-tourist-arrivals) · `en`
-
-COLOMBO (News 1st); Sri Lanka’s tourism industry continues its upward trajectory, with 1,725,494 international visitors arriving in the country during the year to date, according to the Sri Lanka Tourism Development Authority.
-
-In September alone, the island welcomed 158,971 tourists, reflecting sustained global interest in Sri Lanka as a travel destination.
-
-India remains the leading source of tourists, contributing 375,292 arrivals so far this year.
-
-Significant numbers have also arrived from the United Kingdom, Russia, Germany, and China, each surpassing the 100,000 mark.
-
-◼️
-
-[Data](articles/101c8c13.json)
-
-[Extended Data](ext_articles/101c8c13.ext.json)
 
 ---

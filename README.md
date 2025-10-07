@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 13:06:14**
+As of **2025-10-07 13:40:18**
 
 ## Newspaper Stats
 
-*Scraped **81,818** Articles*
+*Scraped **81,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,37 +17,89 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,819
-adaderanalk | 10,505
+adalk | 7,821
+adaderanalk | 10,513
 tamilmirrorlk | 12,134
 virakesarilk | 13,467
-adaderanasinhalalk | 14,037
+adaderanasinhalalk | 14,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,814 (100.0%) of 81,818 articles have been extended.
+81,830 (100.0%) of 81,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### මහින්ද බලන්න මහින්දත් එයි
+### The main suspect in the Hungama double murder surrenders to the police
+
+*2025-10-07 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215432) · `si`
+
+The main suspect in assassinating a couple has surrendered to the murder of a couple in a house at a house in the Wadigala area in Hungama.
+
+The double murder had taken place at around 12.45 am today at around 12.45 am today (07) at Wadigala area in Hungama.
+
+According to the police, a group of five people had declined in the house when the house arrived outside the toilet.
+
+Later, a couple in a room at home were brutally assaulted by sharp weapons.
+
+The police said that the head of the victim had been attacked by the trunk.
+
+The victim was a 28 year old man named Pasindu Heshan, a woman who claims to be the murdered casual wife was 28 year old Imasha Madushiani.
+
+The deceased is a person who is involved in two previous person's murders.
+
+Police say the victim has been killed in the past year.
+
+The victim had been arrested by the police on a warrant on Monday yesterday (06).
+
+He had tried to kill him earlier and he had survived serious injuries.
+
+...
+
+[Data](articles/0c355377.json)
+
+[Extended Data](ext_articles/0c355377.ext.json)
+
+---
+
+### England-Bangladeshi match today in Women's World Cup today
+
+*2025-10-07 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215431) · `si`
+
+Another match will be held today (07) at the Women's World Cup ODI series.
+
+The competition will commence at 3.00 pm in India's Guahath.
+
+Both teams have won the first match in the tournament.
+
+◼️
+
+[Data](articles/2844304d.json)
+
+[Extended Data](ext_articles/2844304d.ext.json)
+
+---
+
+### Mahinda will see Mahinda
 
 *2025-10-07 12:35:57* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනද-බලනන-මහනදත-එය/101-680843) · `si`
 
-හිටපු අමාත්‍ය මහින්ද අමරවීර මහතාද හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ සුව දුක් බැලීමට තංගල්ලේ කාල්ටන් නිවසට අද පැමිණියේය
+Former Minister Mahinda Amaraweera also arrived at Tangalle Carlton House to seek the well-being of former President Mahinda Rajapaksa
 
-හිටපු ජනාධිපතිවරයාගේ සුව දුක් බැලීමට බොහෝ දේශපාලඥයන් මෙන්ම හිටපු ජනාධිපතිවරයාට ආදරය කරන ජනතාව කාල්ටන්  නිවසට දිනපතා පැමිණෙමින් සිටිති.
+Many politicians and former President loves former President and former President are coming to Carlton home.
 
-හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්භක සම්මත  වීමෙන් පසු හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා කොළඹ විජේරාම මාවතේ රජයේ  නිල නිවසින් ඉවත්වී  තංගල්ලේ කාල්ටන් නිවසට පැමිණියේය.
+Former President Mahinda Rajapaksa has left the official residence of the former president's claim and returned from the Carlton house in Wijerama Mawatha, Colombo.
 
-මෙහිදී අදහස් දැක්වූ මහින්ද මහින්ද අමරවීර මහතා පැවසුවේ මහින්ද රාජපක්ෂ කියන්නේ යුගයක් නිර්මාණය කළ නායකයකු බවයි.
+Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a leader.
 
 ◼️
 
 [Data](articles/0f8bdc18.json)
+
+[Extended Data](ext_articles/0f8bdc18.ext.json)
 
 ---
 
@@ -68,6 +120,46 @@ The committee had been given two months of time to investigate.
 [Data](articles/884c7616.json)
 
 [Extended Data](ext_articles/884c7616.ext.json)
+
+---
+
+### Airline accused of killing ‘strict vegetarian’ Sri Lankan passenger with meat-based meal: Report
+
+*2025-10-07 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/113296/airline-accused-of-killing-strict-vegetarian-sri-lankan-passenger-with-meat-based-meal-report) · `en`
+
+A Southern California cardiologist flying Qatar Airways from Los Angeles to Sri Lanka was denied the vegetarian meal he had ordered, then died after choking on a piece of food while attempting to “eat around” the meat in meal he was given instead, according to his grieving family.
+
+The pilot couldn’t make an emergency landing to get 85-year-old Asoka Jayaweera to a doctor because the plane was “traveling over the Arctic Circle/Ocean,” alleges a newly filed wrongful death lawsuit obtained by The Independent.
+
+However, Jayaweera’s son Surya contends the aircraft was actually over the Midwest at the time and could have easily diverted, their complaint states.
+
+When the flight eventually touched down in Edinburgh, Scotland, Jayaweera, a “strict vegetarian,” had been unconscious for some three-and-a-half hours, according to the complaint. It says he was taken to the hospital – but that it was already too late.
+
+...
+
+[Data](articles/ed12522d.json)
+
+[Extended Data](ext_articles/ed12522d.ext.json)
+
+---
+
+### Sri Lanka’s economic recovery remains incomplete as key challenges persist, World Bank says
+
+*2025-10-07 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/113295/sri-lankas-economic-recovery-remains-incomplete-as-key-challenges-persist-world-bank-says) · `en`
+
+Despite Sri Lanka’s strong economic performance in recent times, the recovery remains incomplete, with growth still below pre-crisis levels and poverty significantly elevated, the World Bank said.
+
+The World Bank noted that strengthening the recovery will require continued macroeconomic stability, urgent structural reforms and more efficient, better-targeted public spending.
+
+The latest Sri Lanka Development Update, ‘Better Spending for All’ released by the World Bank today (07), projects Sri Lanka’s economy to grow by 4.6 percent in 2025 — supported by a modest rebound in industry and steady growth in services — before slowing to 3.5 percent in 2026. This outlook is subject to heightened risks, including from elevated global uncertainty.
+
+“While Sri Lanka’s recent economic progress is encouraging, the recovery is uneven and incomplete,” said David Sislen, World Bank Division Director for Maldives, Nepal, and Sri Lanka.
+
+...
+
+[Data](articles/65cb0fc7.json)
+
+[Extended Data](ext_articles/65cb0fc7.ext.json)
 
 ---
 
@@ -151,6 +243,26 @@ Accordingly, a red have a redlified substance with these children to taste the c
 
 ---
 
+### Vehicles assigned for security of former presidents can be returned if requested: Public Security Minister
+
+*2025-10-07 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/113294/vehicles-assigned-for-security-of-former-presidents-can-be-returned-if-requested-public-security-minister) · `en`
+
+Minister of Public Security Ananda Wijepala says that although the Former Presidents’ Entitlements Act has been repealed, this does not mean that necessary measures will not be taken to ensure their security.
+
+The Public Security Minister made this statement during Parliament proceedings today (07).
+
+The Minister further noted that some former Presidents have already returned the vehicles previously used for their security, but emphasised that this does not fall under the scope of the repealed entitlements law.
+
+Minister Wijepala also reaffirmed that ensuring the security of former Presidents remains a responsibility of the government, and if any requests are made for security-related vehicles or other requirements, the present administration is prepared to make the necessary arrangements.
+
+◼️
+
+[Data](articles/fedcd35b.json)
+
+[Extended Data](ext_articles/fedcd35b.ext.json)
+
+---
+
 ### Protection of the Claim Act of former Tama Skills Act
 
 *2025-10-07 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215430) · `si`
@@ -191,21 +303,25 @@ Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the member
 
 ---
 
-### හෙද සේවයේ  515කට තව පුහුණුවක්
+### Another training for 515 nurses
 
 *2025-10-07 12:03:09* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හද-සවය-515කට-තව-පහණවක/101-680835) · `si`
 
-රෝහල් පද්ධතිය කලමණාකරණය කර ගනිමින්, රෝගියාට ඉහළම රෝගී සත්කාර සේවාවක් ලබාදීමට කටයුතු කරන බව සෞඛ්‍ය හා ජනමාධ්‍ය මහත්තය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+Dr. Nalinda Jayatissa said Dr. Nalinda Jayatissa said that the hospital system would be managed to manage the hospital.
 
-අමාත්‍යවරයා මේ බව කීවේ හෙද සේවාවේ වාට්ටු කලමණාකරණ සහ අධීක්ෂණ ඩිප්ලෝමා පාඨමාලාව සඳහා හෙද හෙදියන්  515 දෙනෙකු පුහුණුවට බඳවා ගැනීමේ පත්වීම් ලිපි ප්‍රදානෝත්සවයේදීය.
+The Minister said that 515 nurses of training training were trained in the National Training Management and Supervising Diploma in the Nursing Service.
 
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් කොළඹ පශ්චාත් ප්‍රාථමික හෙද විදුහලේ දී මෙය පැවැත්විණි.
+This was held at the Colombo Post Primary Nursing College, the patronage of Health and Mass Media Media Dr. Nalinda Jayatissa.
 
-සායනිකව විශේෂිත වූ පූර්ණ කාලීන ඩිප්ලෝමා පාඨමාලා සහ උසස් වීම් ඉලක්ක කර ගත් වසර එකහමාරක පුහුණු පාඨමාලා අතර, වාට්ටු කලමණාකරණ හා අධීක්ෂණ ඩිප්ලෝමා පාඨමාලාව සඳහා හෙද හෙද නිලධාරීන් සෞඛ්‍ය හා ජනමාධ්‍ය  අමාත්‍යාංශය මගින් පවත්වන ලද විශේෂිත තරඟ විභාග ප්‍රතිඵල කුසලතා මත 177 ක් සහ ඡ්‍යෙෂ්ඨතාව මත 338 ක්  වශයෙන් තෝරා  ගැනීම සිදු කර ඇත.
+The Nurses of the Ward Management and Supervisory Diploma in the Ministry of Health and Massestination have been selected among the year and a half-year-old diploma courses and promotions.
 
-...
+Speaking at the meeting, Minister Dr. Nalinda Jayatissa said that all the members of the recruitment of the training were a group of difficulties as a group of hardships in different parts of the island.
+
+◼️
 
 [Data](articles/0c70714d.json)
+
+[Extended Data](ext_articles/0c70714d.ext.json)
 
 ---
 
@@ -253,19 +369,21 @@ She emphasized that the direct participation, leadership, model and contribution
 
 ---
 
-### ඉල්ලීමක් කළොත් වාහනයක් දෙනවා...
+### If you make a request, a vehicle is given ...
 
 *2025-10-07 11:49:50* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඉලලමක-කළත-වහනයක-දනව/101-680834) · `si`
 
-හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාවට යොදවනු ලැබ සිටින ආරක්ෂක නිලධාරීන්ගේ පාවිච්චිය සඳහා ලබාදී තිබූ ආරක්ෂක   රථ වාහන සහ  අනෙකුත් දේ රජයට භාර දී ඇති හෙයින් ඒ සම්බන්ධයෙන් යම් ඉල්ලීමක් කළහොත් නැවතත්  සලකා බැලිය හැකි බව මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා පාර්ලිමේන්තුවේදී අද පැවසීය.
+Common Security and Parliamentary Affairs Minister Ananda Wijepala said that if the security traffic and other activities were handed over to the use of the security officers deployed to the security officers deployed.
 
 හිටපු ජනාපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ  පනත් කෙටුම්පත  සම්මත වීමෙන් පසු  හිටපු ජනාධිපතිවරුන් පාවිච්චි කළ  ආරක්ෂක වාහන පවා  ආපසු බාරදීමක් කර ඇතැයිද  ඔහු ප්‍රකාශ කළේය.
 
-හිමිකම් පනතට ආරක්ෂාව කියන කාරණය නොගැනෙන බව පැවසු අමාත්‍යවරයා   හිටපු ජනාධිපතිවරුන්ට ආරක්ෂාව සැපයීම ආණ්ඩුවේ වගකීමක්  බවද  ප්‍රකාශ කළේය.
+It is said that it is the responsibility of the government to provide security to former presidents not to protect the rights.
 
 ◼️
 
 [Data](articles/d1af7962.json)
+
+[Extended Data](ext_articles/d1af7962.ext.json)
 
 ---
 
@@ -327,19 +445,45 @@ At the same time, its owners are worried that the gangs are using the names of t
 
 ---
 
-### සංස්කෘතික අරමුදලේ ’’මගඩි’’ හොයන කමිටුවට තව කල්දෙයි
+### Israelis mark 2 years since October 7 Hamas attacks
+
+*2025-10-07 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113293/israelis-mark-2-years-since-october-7-hamas-attacks) · `en`
+
+Israel marks the second anniversary of the October 7, 2023 attack on Tuesday, as Hamas and Israeli negotiators hold indirect talks to end the two-year war in Gaza under a US proposed peace plan.
+
+Two years ago to the day, at the close of the Jewish festival of Sukkot, Hamas-led militants launched a surprise assault on Israel, making it the deadliest day in the country’s history.
+
+Palestinian fighters breached the Gaza-Israel border, storming southern Israeli communities and a desert music festival with gunfire, rockets and grenades.
+
+The attack resulted in the deaths of 1,219 people on Israeli side, mostly civilians, according to an AFP tally based on official Israeli figures.
+
+Militants also abducted 251 hostages into Gaza, of whom 47 remain captive, including 25 the Israeli military says are dead.
+
+Memorial events were scheduled in Israel on Tuesday to mark the anniversary.
+
+...
+
+[Data](articles/de595c12.json)
+
+[Extended Data](ext_articles/de595c12.ext.json)
+
+---
+
+### Cultural Fund is time to the committee to 'Pass'
 
 *2025-10-07 11:33:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සසකතක-අරමදල-මගඩ-හයන-කමටවට-තව-කලදය/101-680833) · `si`
 
-සංස්කෘතික අරමුදලේ කෝටි 850 ක මුදල් එහි අධ්‍යක්ෂ මණ්ඩලයේ අනුමැතියකින් තොරව පාවිච්චි කරන ලදැයි කියන සිද්ධිය සම්බන්ධයෙන් සොයා බැලීමට පත් කෙරුණු  විශේෂ කමිටුවේ කාලය  පසුගිය 30 වැනිදායින් අවසන්ව ඇත.
+The time of the Special Committee appointed to look into the incident of the Cultural Fund (Cultural Fund) has ended on the 30th.
 
-එම සිද්ධිය සම්බන්ධයෙන් තවදුරටත් විමර්ශන පැවැත්වීමට  ඇති බව දැනුම්දී ඇති හෙයින්  කමිටුවේ කාලය තවදුරටත් දීර්ඝ කිරීමට අපේක්ෂා කරන බව බුද්ධ ශාසන ආගමික කටයුතු සහ   සංස්කෘතික  නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතා පැවසීය.
+Deputy Minister of Buddha Sasana, Religious Affairs and Cultural Affairs, Dissanayake, said that the term of the committee would continue to extend further investigations into the incident.
 
-මේ සම්බන්ධයෙන් තීරණයක් ගැනීමට  අරමුදලේ  අධ්‍යක්ෂ මණ්ඩලය අද රැස්වීමට නියමිතය.
+The Board of Directors will meet today to meet this regard.
 
 ◼️
 
 [Data](articles/fcf98609.json)
+
+[Extended Data](ext_articles/fcf98609.ext.json)
 
 ---
 
@@ -433,6 +577,60 @@ With the abolition of the rights of the President, the former presidents resumed
 
 ---
 
+### Mahinda Amaraweera visits ex-President Rajapaksa in Tangalle
+
+*2025-10-07 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/113292/mahinda-amaraweera-visits-ex-president-rajapaksa-in-tangalle) · `en`
+
+Former Minister Mahinda Amaraweera visited former President Mahinda Rajapaksa at Carlton House in Tangalle today (07).
+
+It is reported that Amaraweera met the former President to inquire about his health and well-being.
+
+◼️
+
+[Data](articles/7b0cf83f.json)
+
+[Extended Data](ext_articles/7b0cf83f.ext.json)
+
+---
+
+### Local gold price hits historic high after sharp rise in global rates
+
+*2025-10-07 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/113291/local-gold-price-hits-historic-high-after-sharp-rise-in-global-rates) · `en`
+
+The price of gold has surpassed USD 3,950 per ounce for the first time in history, global market data indicates.
+
+In response to the surge, gold prices in Sri Lanka have increased by approximately Rs. 8,000 compared to Saturday’s rates.
+
+As of this morning (07), the price of a 22-carat gold sovereign in the Colombo Pettah market has risen to Rs. 290,500, up from Rs. 283,000 recorded on Saturday.
+
+Meanwhile, the price of a 24-carat gold sovereign, which stood at Rs. 306,000 on Saturday, has now climbed to Rs. 314,000, according to traders at the Pettah market.
+
+◼️
+
+[Data](articles/a7030a58.json)
+
+[Extended Data](ext_articles/a7030a58.ext.json)
+
+---
+
+### Barefoot and POLS POTTEN partnership in the Netherlands
+
+*2025-10-07 10:57:19* · [`adalk`](https://www.ada.lk/business/BAREFOOT-සහ-නෙදර්ලන්තයේ-POLSPOTTEN-හවුල්කාරීත්වයක්/7-418951) · `si`
+
+Barefoot, a brand in Sri Lanka, is a lateral collection, which is to be launched in POLSPotten, 2025/2026.
+
+This unique cooperation, Barefoot's handloom fabric and color combination will mix with the special style of POLSPotten. This is the first partnership between Sri Lanka and POLSPotten and will continue to expand the excellence of working with international partners with decades.. The new collection is expected to submit the handicrafts in Sri Lanka to the global specialized market customers.
+
+This cooperation, which is being carried out with the Sri Lanka Export Development Board (EDB), is one aspect of the Sri Lankan Coordinating Program (eu-Sri Lanka matchmaking program). This program is supported by Cultural Relations PLATFORM-CRP. The Institute of Future Creeitions (TIFC) is also the Institute of Future Creations (TIFC) as knowledge partners.
+
+...
+
+[Data](articles/a18e4ef9.json)
+
+[Extended Data](ext_articles/a18e4ef9.ext.json)
+
+---
+
 ### Amaraweera goes to see Mahinda
 
 *2025-10-07 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215428) · `si`
@@ -452,6 +650,30 @@ Accordingly, he came to the Carlton House in Hambantota and the people who love 
 [Data](articles/32ee24f8.json)
 
 [Extended Data](ext_articles/32ee24f8.ext.json)
+
+---
+
+### Suspect remanded over multiple crimes including murder
+
+*2025-10-07 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113290/suspect-remanded-over-multiple-crimes-including-murder) · `en`
+
+An individual arrested on suspicion of multiple crimes, including murder, has been remanded until October 21, police stated.
+
+The order was issued by the Kaduwela Magistrate’s Court, police said.
+
+The 36-year-old suspect, a resident of Thalawathugoda, was arrested in the same area during a raid conducted by the Thalangama Police based on a tip-off. During the raid, officers recovered 12 grams and 200 milligrams of crystal methamphetamine (ICE) from the suspect’s possession.
+
+Police investigations have revealed that the suspect maintains close connections with organized criminal groups currently operating from abroad.
+
+According to police, there are several ongoing cases against the suspect for attempted murder by shooting, possession of heroin, and kidnapping.
+
+Further investigations have identified the suspect as the motorcyclist involved in the shooting and murder of a person in Gampaha, as well as in two other shootings and attempted murders reported in the same locality.
+
+...
+
+[Data](articles/c3dab411.json)
+
+[Extended Data](ext_articles/c3dab411.ext.json)
 
 ---
 
@@ -939,6 +1161,26 @@ Last August, three people were killed when a helicopter crashed on White Island 
 
 ---
 
+### Sri Lanka rejects resolution presented to UN Human Rights Council
+
+*2025-10-07 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113289/sri-lanka-rejects-resolution-presented-to-un-human-rights-council) · `en`
+
+Sri Lanka, while disagreeing with coercive international action, rejected the resolution 60/L.1/Rev.1 presented to the United Nations Human Rights Council in Genève.
+
+Speaking during the 60th session of the UNHRC, Ambassador and Permanent Representative of Sri Lanka to the United Nations in Geneva Himalee Arunatilaka reiterated Sri Lanka’s rejection to the unprecedented and ad hoc move to expand the UN Human Rights Council´s mandate and the proposal to establish an external evidence gathering mechanism set up by the Office of the High Commissioner for Human Rights.
+
+Ambassador Arunatilaka noted that Sri Lanka participated in discussions on the resolution in a spirit of open and constructive engagement that the country has demonstrated throughout.
+
+She also appreciated the core group’s engagement on language amendments proposed by Sri Lanka but regrets that failure to find agreement on certain key concerns.
+
+...
+
+[Data](articles/4f43acb2.json)
+
+[Extended Data](ext_articles/4f43acb2.ext.json)
+
+---
+
 ### Sri Lanka rejects resolution presented to Human Rights Council
 
 *2025-10-07 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113289/sri-lanka-rejects-resolution-presented-to-human-rights-council) · `en`
@@ -1004,6 +1246,22 @@ But, the manager has no humanitarianism for the employee's request. Thus, the de
 [Data](articles/5782e85b.json)
 
 [Extended Data](ext_articles/5782e85b.ext.json)
+
+---
+
+### A firearm like a pen
+
+*2025-10-07 09:31:08* · [`adalk`](https://www.ada.lk/picture_story/පෑනක්-වැනි-ගිනි-අවියක්/10-418948) · `si`
+
+According to information received by the Nagoda Police Station, a suspect has been arrested with a semiranted firearm in the Nagoda Police Station.
+
+The suspect is a 23 year old resident of Mapalagama. Nagoda Police are conducting further investigations.
+
+◼️
+
+[Data](articles/cafae188.json)
+
+[Extended Data](ext_articles/cafae188.ext.json)
 
 ---
 
@@ -1768,243 +2026,5 @@ The hard line taken by Democrats marks a rare moment of leverage for the opposit
 [Data](articles/5c60b861.json)
 
 [Extended Data](ext_articles/5c60b861.ext.json)
-
----
-
-### Bodies of couple hacked to death found in a house in Hungama
-
-*2025-10-07 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113275/bodies-of-couple-hacked-to-death-found-in-a-house-in-hungama) · `en`
-
-The bodies of a couple hacked to death with sharp weapons have been discovered in a house in Wadigala, Hungama this morning (07), police stated.
-
-According to police, the deceased man and woman were both 28 years old and were residents of Ranna and Tissamaharama.
-
-The man had been reportedly staying at a friend’s house with his mistress when a group of about five individuals, with their faces covered, entered the house and attacked them with sharp weapons, police stated.
-
-The bodies remain at the scene under police protection for the magistrate’s inquest.
-
-◼️
-
-[Data](articles/5b58466d.json)
-
-[Extended Data](ext_articles/5b58466d.ext.json)
-
----
-
-### Ukraine attack on Russia's oil station
-
-*2025-10-07 05:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-எண்ணெய்-நிலையம்-மீது-உக்ரைன்-தாக்குதல்/50-365857) · `ta`
-
-The Ukrainian military said it was hit by a drone by a drone.
-
-Ukraine General Staff says that the Surdlov ammunition factory has been attacked in the province of Nisni Novgorodu in West Russia. He said that the explosion was heard and the fire was burnt.
-
-The factory is one of the major factories that provide ammunition to Russian forces. (A)
-
-◼️
-
-[Data](articles/59901189.json)
-
-[Extended Data](ext_articles/59901189.ext.json)
-
----
-
-### Showers or thundershowers expected in most places of the island after 1pm
-
-*2025-10-07 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113274/showers-or-thundershowers-expected-in-most-places-of-the-island-after-1pm) · `en`
-
-Showers or thundershowers will occur at most places of the island after 1.00 p.m. today (07), the Department of Meteorology said.
-
-Fairly heavy falls above 50 mm are likely at some places in the Northern, North-central, Eastern, Central and Uva provinces, the Met. Department added.
-
-Showers or thundershowers may occur in the Western province and in the Galle, Matara, Puttalam, Jaffna and Trincomalee districts in the morning.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
-
-◼️
-
-[Data](articles/dd228b9c.json)
-
-[Extended Data](ext_articles/dd228b9c.ext.json)
-
----
-
-### One person arrested by special troops with ice drug
-
-*2025-10-07 05:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/227072) · `ta`
-
-The Kalmunai Special Task Force (STF) has arrested a suspect on Monday evening (06) evening on the Napitimunai Old Electricity Board Road, which belongs to the Kalmunai Police Division of the Ampara District.
-
-Kalmunai Special Task Force (STF) has arrested a suspect with ice drugs during a roundup of secret information available to Kalmunai Special Task Force officers.
-
-The 23 -year -old suspect from Napitimunai has been arrested.
-
-During this time, 770 milligrams of Ice had been recovered from the arrested suspect and the proceedings, including the suspects, have been handed over to the Kalmunai Police Station for legal action.
-
-...
-
-[Data](articles/a3442fde.json)
-
-[Extended Data](ext_articles/a3442fde.ext.json)
-
----
-
-### The livelihood of the people of Mannar
-
-*2025-10-07 04:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227070) · `ta`
-
-'The question of the windmill and the question of heavy sand has created a situation where Mannar has been affected by the environmental impact "
-
-Although the Mannar Wind Electricity Project is considered an important step towards the strength of Sri Lanka, it has emerged as the focus of complex controversies related to the global importance of the Mannar Island, the highest sensitivity environment and the livelihood of the Mannar people.
-
-With 30 wind towers already established under the Finance of the Asian Development Bank under the Ceylon Electricity Board, the efforts to further expand the project have been strongly obtained by the people's resistance and the warnings of experts on environmental and geological risks.
-
-...
-
-[Data](articles/c7e735ff.json)
-
-[Extended Data](ext_articles/c7e735ff.ext.json)
-
----
-
-### A group of people who came to carry out a windmill project on the south coast of Mannar Basal
-
-*2025-10-07 04:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227069) · `ta`
-
-The committee has left the group to carry out a sand inspection to implement the windmill project on Monday (6) evening at the Basalai Police Division of the Mannar Divisional Secretary Bril.
-
-The people who visited the area of ​​the area, who had come to the area, had been involved in a group of people who had come to the area with a group of machines to carry out a sand inspection to implement the windmill in the southern coast of the village of Basal.
-
-As the Pasal police went to the scene, there was a rhetoric between the police and the people.
-
-Moreover, the people were protesting over the tractor machine loaded with machinery to carry out sand inspecting the wind power project.
-
-Residents of the area said that the group who followed the continued opposition of the people had withdrawn from the site.
-
-◼️
-
-[Data](articles/df03145a.json)
-
-[Extended Data](ext_articles/df03145a.ext.json)
-
----
-
-### Discussion titled "Kanal Justice"
-
-*2025-10-07 04:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227068) · `ta`
-
-A conversation titled "Kanal Justice" was held at the Father Selva Hall in Jaffna on Monday (6) at the Jaffna Father Selva Stadium.
-
-Parliamentarian Gajendrakumar Ponnambalam, Political Analyst, M. Nandanthan, Political activist E. Rajiv Khan, Journalist A. Nixon, Jaffna University Political President
-
-◼️
-
-[Data](articles/09693201.json)
-
-[Extended Data](ext_articles/09693201.ext.json)
-
----
-
-### Action of the Superintendent of Police of the Samanthurai Police Station; 18 motorcycles rescued in violation of traffic laws
-
-*2025-10-07 04:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/227067) · `ta`
-
-Samanthurai police have arrested some people on charges of violating drugs, court cases and traffic laws, without a driver's license, without a helmet in the area of ​​the Samanthurai police division.. A team led by the Superintendent of Police of the Samanthurai Police Station has also recovered the motorcycle.
-
-The incident took place on Monday (06). The arrest was held on the main road belonging to the Samanthurai Police Division in Ampara District.
-
-During the raid on a complaint made to the Superintendent of Police, the police said that a man from the Samanthurai area of ​​Samanthurai (27), who had been charged with 220 milligrams of ice, had been arrested in the area during the raid.
-
-In addition, the police have seized some motorcycle and have been handed over to the Samanthurai Police Station for legal action.
-
-In the roundabout, the Samanthurai, Chawalakkady, Central Camp, Kalmunai and Karadivu police were on duty.
-
-...
-
-[Data](articles/f331d72d.json)
-
-[Extended Data](ext_articles/f331d72d.ext.json)
-
----
-
-### No government is prepared to place the Sri Lankan government in the International Court of Justice - Gajendrakumar Ponnambalam
-
-*2025-10-07 04:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/227066) · `ta`
-
-On May 16, the Liberation Tigers of Tamil Eelam (LTTE) told me that more than 100,000 Tamil people were assassinated, MP Gajendrakumar Ponnambalam said.
-
-A conversation titled "Kanal Justice" was held today at the Father Selva Stadium in Jaffna, commemorating the doctor Manoharan and the murdered students who fought for justice for the 2009 military shot dead by the military in Trincomalee.
-
-I have said that the international community is not a mechanism to provide justice to the affected people in the UN Human Rights Council.
-
-In the testimony I gave, the LTTE's Nadesan, Pulithevan and Padmanathan contacted me and more than one thousand people. They spoke to the government to stop the war and asked them to create a mechanism.
-
-I am compatible with Basil Rajapaksa, Mahinda and some of the blessings. May 16 It featured. They engaged in this effort on the other side.
-
-...
-
-[Data](articles/9dfbeed6.json)
-
-[Extended Data](ext_articles/9dfbeed6.ext.json)
-
----
-
-### Why is it that Wijeweera's family is unable to provide security to Mahinda? - Ajith P Perera Question
-
-*2025-10-07 04:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227065) · `ta`
-
-The security of his family has been confirmed by all governments to date after Rohana Wijeweera died. It is essential to ensure the safety of national citizens in any government. United People's Power MP Ajith P. Perera said the government should take steps to provide security to Mahinda Rajapaksa if the family of Rohana Wijeweera is provided with security.
-
-He made this statement at a press conference held in Colombo on Monday (6). As he further stated,
-
-Everyone should follow the Act to remove privileges for the President. But as a citizen of the country, he cannot eliminate his right to Mahinda Rajapaksa's security. The former president's pension and privileges are eliminated, but his security cannot be recognized.
-
-The last governments, the current government and the future governments are responsible for ensuring his safety on the basis of being a leadership to complete the war.. Therefore, the removal of his security for political revenge is a false role.
-
-...
-
-[Data](articles/f6f2218f.json)
-
-[Extended Data](ext_articles/f6f2218f.ext.json)
-
----
-
-### International Day for Universal Access to Information
-
-*2025-10-07 03:06:34* · [`dailyftlk`](https://www.ft.lk/news/International-Day-for-Universal-Access-to-Information/56-782667) · `en`
-
-Environmental information systems must be transparent, well-organised, and easily accessible, including for people with disabilities
-
-Following is the statement endorsed by the participants at the International Day for Universal Access to Information held in Manila, Republic of the Philippines on 29-30 September 2025.
-
-In accordance with the 1948 Universal Declaration of Human Rights,
-
-Recalling key international instruments, including the 1992 Rio Declaration, especially Principle 10, and the 2015 Paris Agreement, in particular its Preamble, which affirms the integration of human rights in climate action, and its Article 12, which promotes cooperation to enhance climate change education, training, public awareness, public participation and public access to information.
-
-...
-
-[Data](articles/94582940.json)
-
-[Extended Data](ext_articles/94582940.ext.json)
-
----
-
-### Series of religious blessing programs to mark 76th anniversary of SL Army
-
-*2025-10-07 03:04:30* · [`dailyftlk`](https://www.ft.lk/news/Series-of-religious-blessing-programs-to-mark-76th-anniversary-of-SL-Army/56-782666) · `en`
-
-The Sri Lanka Army has commenced a series of multi-religious blessing ceremonies in connection with its 76th Anniversary, falling on 10 October.
-
-These programs, held across the country, invoked blessings on the Army, its personnel, and the motherland, reflecting the nation’s rich religious and cultural traditions.
-
-The inaugural ceremony was held on 26 September at the Jaya Sri Maha Bodhi, Anuradhapura, under the patronage of Commander of the Army Lieutenant General Lasantha Rodrigo. A procession, carrying flags of all Army establishments, began near the historic Ruwanweli Seya and proceeded to the Jaya Sri Maha Bodhi, where the flags were blessed before the sacred tree.
-
-Simultaneously, Hindu religious rites were conducted at the Sri Kandasamy Kovil, Vavuniya, also under the patronage of the Army Commander. In addition, the Commander paid a special visit to ‘Abhimansala 1’ wellness resort in Anuradhapura, where he inquired into the wellbeing of disabled veterans undergoing treatment.
-
-...
-
-[Data](articles/7009856e.json)
-
-[Extended Data](ext_articles/7009856e.ext.json)
 
 ---

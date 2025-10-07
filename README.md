@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 08:16:16**
+As of **2025-10-07 07:05:26**
 
 ## Newspaper Stats
 
-*Scraped **81,718** Articles*
+*Scraped **81,704** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 628
+newsfirstlk | 627
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
 lankadeepalk | 895
 dailymirrorlk | 4,733
 economynextcom | 4,774
-islandlk | 4,928
+islandlk | 4,915
 dailyftlk | 5,683
 adalk | 7,809
 adaderanalk | 10,493
@@ -27,23 +27,11 @@ adaderanasinhalalk | 14,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,715 (100.0%) of 81,718 articles have been extended.
+81,704 (100.0%) of 81,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
-
-### Sri Lanka Customs Records Highest-Ever Revenue in September
-
-*2025-10-07 07:58:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka-customs-records-highest-ever-revenue-in-september) · `en`
-
-COLOMBO (News 1st): Sri Lanka Customs has reported a record-breaking revenue collection for the month of September.According to official data, Customs generated a revenue of Rs. 253.152 Billion in September this year — marking a 74.6% increase compared to the same period last year.In September 2024, Customs revenue stood at Rs. 144.969 Billion.Meanwhile, Sri Lanka’s trade deficit narrowed to USD 414.2 million in August 2025, down from USD 422.3 million recorded in August 2024.The Central Bank attributes this improvement to higher growth in exports compared to imports.Commodity export earnings in August 2025 rose by 4.1%, while commodity import expenditure increased by 2.6% during the same period.
-
-◼️
-
-[Data](articles/12c19dac.json)
-
----
 
 ### Ukraine attack on Russia's oil station
 
@@ -551,56 +539,6 @@ CH17 Loyalty is built on the principle of understanding customer behaviour and a
 
 ---
 
-### New role for singer Alston Koch
-
-*2025-10-06 22:46:00* · [`islandlk`](http://island.lk/new-role-for-singer-alston-koch/) · `en`
-
-Singer Alston Koch, of ‘Disco Lady’ fame, is in the news again, in a big way, but not as a performer!
-
-Reports coming my way indicate that Alston has been appointed Envoy for the Commonwealth Union to Australia and the Pacific Region, and that the appointment came into effect on 03rd October, 2025.
-
-Alston, they say, will represent the Commonwealth Union and promote its objectives in line with the People’s Charter of the Commonwealth, focusing on strengthening regional collaboration, advancing the Commonwealth Union’s mission of inclusivity and sustainability, and fostering greater engagement with communities across Australia and the Pacific.
-
-Alongside his Envoy responsibilities, the singer, I’m told, will also serve as a Consultant to the Commonwealth Union, providing advisory services and acting as a marketing consultant to enhance the Union’s outreach and global presence.
-
-...
-
-[Data](articles/89f1ab19.json)
-
-[Extended Data](ext_articles/89f1ab19.ext.json)
-
----
-
-### Bouquets for Michael de Silva
-
-*2025-10-06 22:43:00* · [`islandlk`](http://island.lk/bouquets-for-michael-de-silva/) · `en`
-
-Ex-Purple Rain Michael de Silva certainly had many eyes focused on him when he performed in Colombo, last month, with a band from Switzerland.
-
-When we highlighted the fact that Michael will be doing his thing in Colombo, even before his arrival, he had plenty of bouquets coming his way, and these are some of the comments that appeared in social media:
-
-One of the best talented musicians – a legend, indeed. All the very best Michael de Silva.
-
-Looking the same Mr. Handsome. Will come to listen to you sing.
-
-A great musician and, most importantly, a great human being.
-
-Congratulations Michael. You are a great legend and we love you.
-
-The Timeless Bloom: How Sri Lanka’s Horton Plains awaken every 12 Years
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/7d79a9ab.json)
-
-[Extended Data](ext_articles/7d79a9ab.ext.json)
-
----
-
 ### Vijay Deverakonda
 
 *2025-10-06 22:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விபத்தில்-சிக்கினார்-விஜய்-தேவரகொண்டா/54-365856) · `ta`
@@ -622,114 +560,6 @@ Vijay Deverakonda seems to have survived the wounds without injuries as the car 
 [Data](articles/bc7b5d68.json)
 
 [Extended Data](ext_articles/bc7b5d68.ext.json)
-
----
-
-### Retail Industry Technology Trends 2025 – Kandy Edition introduces next-gen AI and smart retail solutions
-
-*2025-10-06 22:19:00* · [`islandlk`](http://island.lk/retail-industry-technology-trends-2025-kandy-edition-introduces-next-gen-ai-and-smart-retail-solutions/) · `en`
-
-Retail Information Technologies (RIT), a subsidiary of Sumathi Holdings, recently hosted the high-profile ‘Retail Industry Technology Trends 2025 – Kandy Edition’, bringing together Sri Lanka’s foremost retail and technology leaders. At the event, RIT unveiled its advanced software portfolio, specifically designed to equip the nation’s retail sector with future-ready solutions.
-
-...
-
-[Data](articles/c366340f.json)
-
-[Extended Data](ext_articles/c366340f.ext.json)
-
----
-
-### Sun Siyam Pasikudah wins Best Global Hotel Design at Homes & Gardens’ Design Awards 2025
-
-*2025-10-06 22:18:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudah-wins-best-global-hotel-design-at-homes-gardens-design-awards-2025/) · `en`
-
-Sun Siyam Pasikudah, part of Sun Siyam Resorts’ Privé Collection, has won the coveted Best Global Hotel Design award at the Homes & Gardens Design Awards 2025. The accolade recognises Studio Sixty7, led by founders Lee McNichol and Jose Rivero, for a transformative redesign that blended artisanal craftsmanship, cultural authenticity, and sustainability to set a new benchmark for luxury hospitality in Sri Lanka.
-
-The Homes & Gardens Design Awards celebrate the best in design and decorating, spotlighting inspiring projects and innovations shaping the way we live now and into the future. Within the Best Global Hotel Design category, the judges recognised the transformation of Sun Siyam Pasikudah for its blend of refined hospitality, artisanal craftsmanship, and environmental responsibility.
-
-...
-
-[Data](articles/89a1c4d4.json)
-
-[Extended Data](ext_articles/89a1c4d4.ext.json)
-
----
-
-### FitsAir celebrates three years of passenger operations
-
-*2025-10-06 22:17:00* · [`islandlk`](http://island.lk/fitsair-celebrates-three-years-of-passenger-operations/) · `en`
-
-FitsAir, Sri Lanka’s first privately-owned international airline, celebrates three years of international scheduled passenger operations, marking another defining moment in its journey to transform air travel for Sri Lankans.
-
-The past year has been one of exceptional growth and achievements for the airline. FitsAir successfully launched Kuala Lumpur as a new destination on its network, expanded frequencies to Malé and Dhaka in response to strong demand, and most recently secured approvals to undertake its own ground handling operations at Colombo’s Bandaranaike International Airport, a major step that cements the airline’s commitment to independence, efficiency, and service excellence.
-
-...
-
-[Data](articles/d91b2833.json)
-
-[Extended Data](ext_articles/d91b2833.ext.json)
-
----
-
-### Central Bank of Sri Lanka releases “Sri Lanka Socio-Economic Data – 2025”
-
-*2025-10-06 22:13:00* · [`islandlk`](http://island.lk/central-bank-of-sri-lanka-releases-sri-lanka-socio-economic-data-2025/) · `en`
-
-“Sri Lanka Socio-Economic Data – 2025”, the annually published data folder of the CBSL, is now available for public information. The current data folder is the 48th volume of the series.
-
-This easy-to-carry booklet contains information categorised under 14 topics, namely, Country Profile; Key Economic Indicators; Country Comparisons; Socio-Economic Conditions; Human Resources; National Accounts; Agriculture; Industry; Economic and Social Infrastructure; Prices and Wages; External Trade and Tourism; External Finance; Government Finance; and Money, Banking and Finance. As the data folder presents a wide range of socio-economic data of current interest in a concise and summary form, it will serve as a useful publication for policymakers, researchers, academics, professionals, students and the general public.
-
-...
-
-[Data](articles/ff9d9376.json)
-
-[Extended Data](ext_articles/ff9d9376.ext.json)
-
----
-
-### HUTCH honored among Sri Lanka’s Best Employer Brands 2025
-
-*2025-10-06 22:12:00* · [`islandlk`](http://island.lk/hutch-honored-among-sri-lankas-best-employer-brands-2025/) · `en`
-
-Hutch Telecommunications Lanka Pvt Ltd has been recognized with the Sri Lanka Best Employer Brand Award 2025, reaffirming its status as one of the nation’s most progressive and people-focused organizations. The accolade was presented on 10th September at Taj Samudra, Colombo, by the World Federation of HR Professionals, in celebration of organizations that set benchmarks in human resource development and employer branding.
-
-The award highlights HUTCH’s success in aligning its human resource strategy with business goals while cultivating a future-ready workforce. Through a strong focus on continuous learning, leadership development, and employee well-being, HUTCH has consistently demonstrated its ability to foster a culture of growth, inclusivity, and innovation within the telecommunications sector.
-
-...
-
-[Data](articles/f5b14d0f.json)
-
-[Extended Data](ext_articles/f5b14d0f.ext.json)
-
----
-
-### Gamer.LK dominates video games marketing category with Gold Award at SLIM DIGIS 2.5
-
-*2025-10-06 22:11:00* · [`islandlk`](http://island.lk/gamer-lk-dominates-video-games-marketing-category-with-gold-award-at-slim-digis-2-5/) · `en`
-
-Gamer.LK, Sri Lanka’s premier Video Games and Esports company, was recognised once again at the SLIM DIGIS 2.5 Awards, winning the Gold Award in the Gaming, Gamification & Esports category at the 2025 edition.
-
-...
-
-[Data](articles/628882d8.json)
-
-[Extended Data](ext_articles/628882d8.ext.json)
-
----
-
-### Parental Intelligence, ‘Sri Lanka’s first parenting AI companion’
-
-*2025-10-06 22:10:00* · [`islandlk`](http://island.lk/parental-intelligence-sri-lankas-first-parenting-ai-companion/) · `en`
-
-The recently announced Parental Intelligence (PI), Sri Lanka’s first culturally relevant AI parenting companion, was developed to support parents and caregivers in manoeuvring the daily challenges of family life.
-
-Compared to global AI platforms, PI was created locally for Sri Lankan parents and offers a safe, useful, and judgment-free environment where families can get advice on how to raise kids of all ages. Instantly accessible at www.chatpi.lk, PI creates a distinctly comforting parenting experience by fusing age-specific guidance, bilingual support (in both Sinhala and English), and a privacy-first design. Knowing that conversations are never saved gives parents the confidence to voice concerns.
-
-...
-
-[Data](articles/36244a03.json)
-
-[Extended Data](ext_articles/36244a03.ext.json)
 
 ---
 
@@ -2008,5 +1838,195 @@ According to the police, the brick drop to the ride motor vehicle temple was in 
 [Data](articles/8bfcb957.json)
 
 [Extended Data](ext_articles/8bfcb957.ext.json)
+
+---
+
+### The Breakabout switches and three dead
+
+*2025-10-06 16:36:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බරක-පටලය-මර-ව-තනක-මර-තරලට/1-680801) · `si`
+
+Three were killed and two others were injured in an accident in front of a Gampola Doluwa Temple, police said.
+
+The accident had occurred when several traveled route. The motor vehicle was driving at the time of the accident, police said.
+
+According to the police, the brick drop to the ride motor vehicle temple was in line with the riding motor vehicle temple, police said,
+
+◼️
+
+[Data](articles/6120e1c5.json)
+
+[Extended Data](ext_articles/6120e1c5.ext.json)
+
+---
+
+### Badulla-Chengaladi Road has returned to usual
+
+*2025-10-06 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/227044) · `ta`
+
+EML Badulla District Disaster Management Center Assistant Officer EML has now returned to normal.. Udayakumara reports.
+
+Traffic was blocked for several days due to the decline in massive boulders in the early part of this year.
+
+This resulted in traffic from Bibil, Moneragala, Batticaloa and Ampara.
+
+This has taken place after a long -standing field surveillance, which has taken place over the past two months after the massive boulders that have fallen on the road have been removed.
+
+The employees of the Road Development Authority have acted swiftly and once again opened the road to a route traffic.
+
+He said that a route traffic will be held at the moment as there is a situation where massive disasters in the area are causing massive disasters.
+
+◼️
+
+[Data](articles/7716bb2d.json)
+
+[Extended Data](ext_articles/7716bb2d.ext.json)
+
+---
+
+### Tusker ‘Manika’ of Bellanwila Temple passes away
+
+*2025-10-06 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/113261/tusker-manika-of-bellanwila-temple-passes-away) · `en`
+
+‘Manika,’ a majestic tusker lived at the Bellanwila Temple and was around 76 years old, passed away this afternoon (October 6).
+
+The tusker had participated in the annual procession of the historic Bellanwila Rajamaha Viharaya for many years, becoming a beloved figure in the temple’s traditions.
+
+◼️
+
+[Data](articles/c67ab589.json)
+
+[Extended Data](ext_articles/c67ab589.ext.json)
+
+---
+
+### Bellanwila 'Geika "
+
+*2025-10-06 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215407) · `si`
+
+Around 76-year-old Geika, the age of 76 years of the Bellanwila Viharaya, has died this afternoon.
+
+Generic to the procession of the historic Bellanwila Raja Maha Viharaya has participated in the event.
+
+◼️
+
+[Data](articles/4b7bd181.json)
+
+[Extended Data](ext_articles/4b7bd181.ext.json)
+
+---
+
+### The new woman who ran with her husband's condom
+
+*2025-10-06 16:15:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனின்-ஆணுறையுடன்-கள்ளக்காதலனுடன்-ஓடிய-புதுப்பெண்/175-365834) · `ta`
+
+The life of a newly married Arvin John and Stella began to be a dream in the quiet part of the Church Colony near Virudhampattu, along the banks of Vellore's beautiful Palaru river.
+
+Good work, pay, quiet house - everything was right. But, on September 25, that silence was scattered. Stella suddenly disappeared.
+
+Arvin John, searched everywhere as relatives and girlfriends. Finally, the police complained at the police station. The investigation began. Stella's phone call history was examined.
+
+In it, it was revealed that a person named Sivakumaran had frequent calls. When Arvin and the family inquired, they said, "Sivakumaran does not know who is the. When contacted Sivakumaran, “I have nothing to do with Stella. I am in Bangalore ”denied. He refused to come to trial and said, "Listen on the phone."
+
+...
+
+[Data](articles/f31ab98e.json)
+
+[Extended Data](ext_articles/f31ab98e.ext.json)
+
+---
+
+### Nobel Prize for Medicine for Three Scientists
+
+*2025-10-06 16:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-விஞ்ஞானிகளுக்கு-மருத்துவத்திற்கான-நோபல்-பரிசு/175-365833) · `ta`
+
+The Nobel Prize for Physiology or Medicine for 2025 has been awarded to the three of the Americans and Japanese for the discovery of how the immune system protects us from thousands of different microorganisms trying to occupy our body.
+
+Mary e. The Nobel Committee announced on Monday at a function held at Stockholm, Sweden, that Frankov, Brett Ramstell and Shimon Sahakuchi will share the gift.
+
+Recipients identified regulatory D cells that act as the protective guards of the immune system and prevent the immune cells from attacking our own body.
+
+"Their findings are decisive to understand how the immune system works and why we all do not develop severe self -inflicted diseases," the Nobel Group Chairman Ole Cambe said.
+
+The group claimed that the Japanese immune expert, Sahakakuchi in 1995, found that the new type of D cells proved that the immune system was more complicated than what was generally believed at the time.
+
+...
+
+[Data](articles/e3f9c9b3.json)
+
+[Extended Data](ext_articles/e3f9c9b3.ext.json)
+
+---
+
+### Arrested for selling liquor on Boya day
+
+*2025-10-06 16:11:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போயா-நாளில்-மதுபானம்-விற்றவர்-கைது/175-365832) · `ta`
+
+A man who illegally sells liquor at a house has been arrested and seized by the headquarters of the Kalmunai and headquarters.
+
+Officers of the Drug Eradication Unit have taken the arrest on Monday (06), the Boya holiday.
+
+More than 25 liquor bottles have been seized, including more than 40 beers hiding at home without illegally permits.
+
+The police are conducting investigations and are taking steps to bring the suspect to the Kalmunai Magistrate's Court.
+
+◼️
+
+[Data](articles/11386055.json)
+
+[Extended Data](ext_articles/11386055.ext.json)
+
+---
+
+### Three killed in Gampola accident
+
+*2025-10-06 16:11:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கம்பளை-விபத்தில்-மூவர்-பலி/76-365831) · `ta`
+
+Three people were killed and two others were injured in a road accident in front of a Piruva Vihar on the carpet, Gampola police said.
+
+The accident occurred when a motor vehicle crashed into many people walking on the street. A woman who was training the driver was driving the vehicle at the time of the accident, police said.
+
+The motor vehicle, the speeding motor vehicle, thought of being a brake when the truck was overturning, and the motor vehicle was speeding and crashed into the street.. Police said the accident were the victims of the accident.
+
+◼️
+
+[Data](articles/bd0eb81c.json)
+
+[Extended Data](ext_articles/bd0eb81c.ext.json)
+
+---
+
+### Transfers to 32 OIC La 32
+
+*2025-10-06 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215406) · `si`
+
+According to the approval of the National Police Commission, 32 police officers have been transferred.
+
+IGP Priyantha Weerasuriya has been transferred with immediate effect.
+
+◼️
+
+[Data](articles/8e8ef147.json)
+
+[Extended Data](ext_articles/8e8ef147.ext.json)
+
+---
+
+### Action against Wimal Weerawansa
+
+*2025-10-06 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227035) · `ta`
+
+Sanath Weerasinghe and the government have nothing to do with the arrested 'Beliatta Sana'. If Wimal Weerawansa says, he must prove it with evidence. Deputy Minister of Public Safety and Parliamentary Affairs Sunil Vatagala said that if he does not, the witness will take action against him.
+
+He made this statement while commenting to the media on Monday (06). As he further stated in this regard,
+
+We make clear that Sanath Weerasinghe and the government have nothing to do with the arrested 'Beliatta Sana'. The legal proceedings against him are being properly carried out. How does the government cooperate with him? As in Negombo, no one in the government went and hugged Beliatta Sana.
+
+The government can accuse him of protecting him. But as a government we do not protect any criminal. The law will be severely implemented against them. Opposition parties are spreading such fake news, which is not their own.
+
+...
+
+[Data](articles/495393fa.json)
+
+[Extended Data](ext_articles/495393fa.ext.json)
 
 ---

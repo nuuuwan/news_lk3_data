@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 13:40:18**
+As of **2025-10-07 13:57:08**
 
 ## Newspaper Stats
 
-*Scraped **81,830** Articles*
+*Scraped **81,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 634
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 928
+lankadeepalk | 934
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,039
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,830 (100.0%) of 81,830 articles have been extended.
+81,830 (100.0%) of 81,836 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,24 @@ Both teams have won the first match in the tournament.
 
 ---
 
+### මහින්ද බලන්න මහින්දත් එයි
+
+*2025-10-07 12:35:57* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මහනද-බලනන-මහනදත-එය/1-680843) · `si`
+
+හිටපු අමාත්‍ය මහින්ද අමරවීර මහතාද හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ සුව දුක් බැලීමට තංගල්ලේ කාල්ටන් නිවසට අද පැමිණියේය
+
+හිටපු ජනාධිපතිවරයාගේ සුව දුක් බැලීමට බොහෝ දේශපාලඥයන් මෙන්ම හිටපු ජනාධිපතිවරයාට ආදරය කරන ජනතාව කාල්ටන්  නිවසට දිනපතා පැමිණෙමින් සිටිති.
+
+හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්භක සම්මත  වීමෙන් පසු හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා කොළඹ විජේරාම මාවතේ රජයේ  නිල නිවසින් ඉවත්වී  තංගල්ලේ කාල්ටන් නිවසට පැමිණියේය.
+
+මෙහිදී අදහස් දැක්වූ මහින්ද මහින්ද අමරවීර මහතා පැවසුවේ මහින්ද රාජපක්ෂ කියන්නේ යුගයක් නිර්මාණය කළ නායකයකු බවයි.
+
+◼️
+
+[Data](articles/d8576c22.json)
+
+---
+
 ### Mahinda will see Mahinda
 
 *2025-10-07 12:35:57* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මහනද-බලනන-මහනදත-එය/101-680843) · `si`
@@ -100,6 +118,24 @@ Speaking at the meeting, Mahinda Amaraweera said that Mahinda Rajapaksa was a le
 [Data](articles/0f8bdc18.json)
 
 [Extended Data](ext_articles/0f8bdc18.ext.json)
+
+---
+
+### සංස්කෘතියේ ’’මගඩි’’ හොයන කමිටුවට තව කල්දෙයි
+
+*2025-10-07 12:26:07* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සසකතය-මගඩ-හයන-කමටවට-තව-කලදය/1-680841) · `si`
+
+සංස්කෘතික අරමුදලේ කෝටි 850 ක මුදල් එහි අධ්‍යක්ෂ මණ්ඩලයේ අනුමැතියකින් තොරව පාවිච්චි කරන ලදැයි කියන සිද්ධිය සම්බන්ධයෙන් සොයා බැලීමට පත් කෙරුණු  විශේෂ කමිටුවේ කාලය  පසුගිය 30 වැනිදායින් අවසන්ව ඇත.
+
+එම සිද්ධිය සම්බන්ධයෙන් තවදුරටත් විමර්ශන පැවැත්වීමට  ඇති බව දැනුම්දී ඇති හෙයින්  කමිටුවේ කාලය තවදුරටත් දීර්ඝ කිරීමට අපේක්ෂා කරන බව බුද්ධ ශාසන ආගමික කටයුතු සහ   සංස්කෘතික  නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතා පැවසීය.
+
+මේ සම්බන්ධයෙන් තීරණයක් ගැනීමට  අරමුදලේ  අධ්‍යක්ෂ මණ්ඩලය අද රැස්වීමට නියමිතය.
+
+විමර්ශන කටයුතු සඳහා මෙම කමිටුවට ලබාදී තිබුණේ මාස දෙකක කාලයකි.
+
+◼️
+
+[Data](articles/99c401f5.json)
 
 ---
 
@@ -1513,6 +1549,22 @@ The motorcyclist of the Modara Police Division was shot dead in the Modara Polic
 
 ---
 
+### අපරාධකල්ලි සාමාජිකයෙක් අල්ලයි
+
+*2025-10-07 08:58:49* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අපරධකලල-සමජකයක-අලලය/1-680824) · `si`
+
+පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීම සහ තවත් පුද්ගලයන් රැසකට බරපතල තුවාල සිදු කිරීමේඅපරාධ රැසක පැදිකරු ලෙස කටයුතු සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු අත්අඩංගුවට ගත් බව තලංගම පොලිසිය කියයි.
+
+එම සැකකරු සන්තකේ තිබී අයිස් මත්ද්‍රව‍ය මිලිගෑම් 12200 ක් පොලිස් භාරයට ගෙන ඇත
+
+.2025 .09.29 වෙනිදින තලවතු ගොඩ වැලි පාර හතරවෙනි පටුමගට හැරෙන හන්දිය අසලදී අත්අඩංගුවට ගත් සැකකරු. රැදයුම් නියෝග මත රඳවාගෙන සිදුකළ ප්‍රශ්න කිරීමේදී අලුත් කඩේ අධිකරණය තුළ විත්ති කූඩුව තුළ වෙඩි පහරකින් මිය ගිය සංවිධානාත්මක අපරාධ කරුවෙකු වන ගනේ මුල සංජීව පාර්ශවයේ දැනට ඩුබායි රටේ සැඟව සිටින සංවිධානාත්මක අපරාධකරුවෙකු වන. දිනේෂ් වසන්ත නොහොත් නේවි වසා සහ තම්මිට සුමිත් යන අයවලුන්ගේ ගෝලයකු බවට අනාවරණය වී යයි පොලිසිය කියයි
+
+...
+
+[Data](articles/6d154a8d.json)
+
+---
+
 ### The reason for the Gampola accident was released
 
 *2025-10-07 08:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பளை-விபத்துக்கான-காரணம்-வெளியானது/175-365861) · `ta`
@@ -1611,6 +1663,24 @@ It has been announced that rain or thunderstorms will occur in the morning and i
 
 ---
 
+### මත් කරල් ගෙන පොලීසියට ආ පීසී අත්අඩංගුවට
+
+*2025-10-07 08:27:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මත-කරල-ගන-පලසයට-ආ-පස-අතඅඩගවට/1-680820) · `si`
+
+මත්කරල් රැගෙන පොලිස් ස්ථානය වෙත පැමිණෙමින් සිටි කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව හෝමාගම මූලස්ථාන පොලිසිය කියයි.
+
+සැකකාර කොස්තාපල්වරයා සන්තකයේ තිබී මිලිගෑම් 150 ප්‍රමාණයේ මත් කරල් 5 ක් පොලිස් භාරයට ගෙන ඇත.
+
+සැකකාර කොස්තාපල්වරයාට ඊයේ  (6)  සවස හයේ සිට පසු දින උදෑසන හය දක්වා පොලිස් ස්ථානයේ දුරකථන ක්‍රියාකරු ලෙස රාජකාරී   යෙදෙන ලෙසට නියෝග යොදා තිබී ඇතැයි පොලිසිය කියයි.
+
+සැකකරු එම රාජකාරියට වාර්තා නොකර අවසර නොලබා ස්ථානයෙන් බැහැරව ගොස් සිට නැවතත් පොලිස් ස්ථාන වෙත පැමිණීමේ දී පොලිස් ස්ථානයේ ප්‍රධාන දොරටුව අබියස දී රාත්‍රී 11  ට පමණ පරික්ෂා කිරීමේදී සැකකරු සතුව මෙම මත්කරල් තිබී සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/1e4a957b.json)
+
+---
+
 ### PB arrested for sale in policemen
 
 *2025-10-07 08:27:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මත-කරල-ගන-පලසයට-ආ-පස-අතඅඩගවට/101-680820) · `si`
@@ -1686,6 +1756,22 @@ According to police, several persons who covered their faces have been killed an
 [Data](articles/0c85b1ad.json)
 
 [Extended Data](ext_articles/0c85b1ad.ext.json)
+
+---
+
+### යුවළක් කපා කොටා මරලා
+
+*2025-10-07 08:09:37* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/යවළක-කප-කට-මරල/1-680819) · `si`
+
+හුංගම පොලිස් වසමේ රන්න වාඩිගල වලව් මහත්තයා ආර ප්‍රදේශයේදී පිරිමි පුද්ගලයකු හා කාන්තාවක් අද අලුයම තියුණු ආයුධ වලින් පහරදී ඝාතනය කොට ඇතැයි හුංගම පොලිසිය පවසයි.
+
+ඝාතනය වී ඇත්තේ මනුෂ්‍ය ඝාතන කිහිපයකට චෝදනා ලැබූ රන්න කැලණිගම පදිංචිව සිටි අයෙකු හා කුඩා වැල්ලේ පදිංචිව සිටි කාන්තාවකි.
+
+මුහුණු ආවරණය කරගෙන පැමිණි පුද්ගලයන් කිහිප දෙනෙකු මොවුන් දෙදෙනා ඝාතනය කොට පලා ගොස් ඇති බවට තොරතුරු ලැබී ඇතැයි පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/5df0a74b.json)
 
 ---
 
@@ -1865,6 +1951,22 @@ Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincom
 
 ---
 
+### සවස් කාලයේ වැසි ඇති වේ
+
+*2025-10-07 06:52:27* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සවස-කලය-වස-ඇත-ව/1-680818) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවලට පස්වරු 1.00 පමණ  පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+උතුරු,උතුරු - මැද නැගෙනහිර,මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 50ට වැඩි තරමක තද වැසි ඇති වේ.‍ෙ
+
+බස්නාහිර පළාතෙත් ගාල්ල,මාතර,පුත්තලම,යාපනය සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී වැසි ඇති විය හැකියි.
+
+◼️
+
+[Data](articles/0bc1c44a.json)
+
+---
+
 ### Shoe thrown at India’s Chief Justice in religious row
 
 *2025-10-07 06:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113278/shoe-thrown-at-indias-chief-justice-in-religious-row) · `en`
@@ -1904,127 +2006,5 @@ Meanwhile, Israeli Prime Minister Benjamin Netanyahukuku stated that he is expec
 [Data](articles/feaeafb2.json)
 
 [Extended Data](ext_articles/feaeafb2.ext.json)
-
----
-
-### Convention against Doping in Sport Amendment Bill to be debated in Parliament today
-
-*2025-10-07 06:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113277/convention-against-doping-in-sport-amendment-bill-to-be-debated-in-parliament-today) · `en`
-
-The second reading of the Convention against Doping in Sport (Amendment) Bill is scheduled to take place in Parliament today (07).
-
-The debate will take place when Parliament convenes for the first time in October at 9:30 a.m. today.
-
-◼️
-
-[Data](articles/212385c4.json)
-
-[Extended Data](ext_articles/212385c4.ext.json)
-
----
-
-### Double murder of a Hungama residence
-
-*2025-10-07 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215417) · `si`
-
-The police said that the murder had been assaulted by sharp weapons.
-
-According to information received by the police, two persons were killed in a house of the Hungama Ranna area have been identified as a mysterious deceased.
-
-Initial investigations have revealed that the victim has been identified as a 28-year-old man and his mistress.
-
-The owner of the house is now in prison and said that the couple had been living in the house on a temporary basis.
-
-The killing of the murder is yet to be ascertained and the post mortem will be held today (07).
-
-◼️
-
-[Data](articles/df69ea5b.json)
-
-[Extended Data](ext_articles/df69ea5b.ext.json)
-
----
-
-### Thundershowers at several places
-
-*2025-10-07 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215416) · `si`
-
-Showers or thundershowers will occur at several places in the country today (07).
-
-In some places in the Northern, North-Central, Central and Uva provinces. It is informed that there may be heavy rains at more than 50.
-
-Showers or thundershowers will occur at the same time in Galle, Matara, Puttalam and Trincomalee districts, the Western Province.
-
-The Department has informed the people to take necessary accidents to reduce the dangers of lightning and temporary winds with thunderstorms.
-
-◼️
-
-[Data](articles/d8658fa7.json)
-
-[Extended Data](ext_articles/d8658fa7.ext.json)
-
----
-
-### Showers in many parts of the evening
-
-*2025-10-07 06:12:14* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-හවස-බොහෝ-පළාත්වලට-වැසි/11-418943) · `si`
-
-Showers or thundershowers will occur at several places in the country after 1.00 pm.
-
-Mm in the Northern, North-Central, Eastern, Eastern, Uva provinces. The department was released this morning.
-
-Showers or thundershowers will occur at several places in the Galle, Matara, Puttalam and Trincomalee districts, the other.
-
-◼️
-
-[Data](articles/7d78b5bc.json)
-
-[Extended Data](ext_articles/7d78b5bc.ext.json)
-
----
-
-### The weather today
-
-*2025-10-07 06:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227073) · `ta`
-
-The Department of Meteorology has said that rain or thunderstorms are in the afternoon after one hour in many parts of the country.
-
-Heavy rains are expected to occur in some parts of the North, Eastern, North Central, Central and Uva provinces.
-
-Rainfall is expected in the Western Province as well as in the morning.
-
-In cases where strong winds and lightning are occurring, the public is asked to avoid losses or damage.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-In the sea regions, the wind blows from the southwest or the contrasting directions at 25 - 35 kilometers per hour.
-
-But in the event of thunderstorms, strong winds are blowing and the sea regions are temporarily in a very turbulent.
-
-◼️
-
-[Data](articles/3d30a958.json)
-
-[Extended Data](ext_articles/3d30a958.ext.json)
-
----
-
-### US government shutdown enters second week after funding measures fail again in Senate
-
-*2025-10-07 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113276/us-government-shutdown-enters-second-week-after-funding-measures-fail-again-in-senate) · `en`
-
-The US government shutdown entered its second week on Monday (Oct 6), with no sign of a deal between President Donald Trump’s Republicans and Democrats to end the crisis.
-
-Democrats are refusing to provide the handful of votes the ruling Republicans need to reopen federal departments, unless an agreement is reached on extending expiring “Obamacare” healthcare subsidies and reversing some cuts to health programmes passed as part of Trump’s signature “One Big Beautiful Bill”.
-
-With the government out of money since Wednesday and grinding to a halt, Senate Democrats looked set to vote against a House-passed temporary funding bill for a fifth time.
-
-The hard line taken by Democrats marks a rare moment of leverage for the opposition party in a period when Trump and his ultra-loyal Republicans control every branch of government and Trump himself is accused of seeking to amass authoritarian-like powers.
-
-...
-
-[Data](articles/5c60b861.json)
-
-[Extended Data](ext_articles/5c60b861.ext.json)
 
 ---

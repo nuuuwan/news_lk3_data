@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 11:57:33**
+As of **2025-10-07 11:40:53**
 
 ## Newspaper Stats
 
-*Scraped **81,796** Articles*
+*Scraped **81,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 632
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 912
+lankadeepalk | 909
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,819
+adalk | 7,813
 adaderanalk | 10,505
 tamilmirrorlk | 12,132
 virakesarilk | 13,467
@@ -27,65 +27,29 @@ adaderanasinhalalk | 14,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,787 (100.0%) of 81,796 articles have been extended.
+81,781 (100.0%) of 81,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### වකුගඩු රෝගීන්ගේ ලේ මාරු කරන කටු හිඟයක්
-
-*2025-10-07 11:28:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වකගඩ-රගනග-ල-මර-කරන-කට-හඟයක/101-680832) · `si`
-
-වකුගඩු රෝගීන්ගේ ලේ මාරු කරන කටු වල හිඟයක් පවතින බව බදුල්ල  දිස්ත්‍රික් මන්ත්‍රී චාමර සම්පත් දසනායක  මහතා පාර්ලිමේන්තුවේදී පැවසීය.
-
-පදවිය රෝහලේ අදාල කටු නොමැති බවට තමාට දැනගන්නට ලැබුණු බව කී මන්ත්‍රීවරයා මුළු රටේම රෝහල්වල තත්ත්වයද එය බව සඳහන් කළේය.
-
-හදාර කටු සැපයීම සඳහා ටෙන්ඩර් ගත්ත සැපයුම්කරුවාගේ වරදක් නිසා ඒ තත්ත්වය නිර්මාණය වී තිබෙනවා.
-
-හැම රෝහලක් සඳහාම ප්‍රාදේශීය මිලදී ගැනීම් කරන්න මුදල් ලබා දී තිබෙනවා.ඔක්තෝබර් 12 වන විට ඒ අවශ්‍යතා සම්පූර්ණ වෙනවා.
-
-◼️
-
-[Data](articles/405035ac.json)
-
----
-
-### හිටපු ජනාධිපතිවරු ආරක්ෂක වාහන ගැන ඉල්ලීමක් කලොත් සලකා බලනවා
-
-*2025-10-07 11:23:33* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපතිවරු-ආරක්ෂක-වාහන-ගැන-ඉල්ලීමක්-කලොත්-සලකා-බලනවා/11-418952) · `si`
-
-හිටපු ජනාධිපතිවරු ආරක්ෂක වාහන ලබා දෙන ලෙස ඉල්ලීමක්  කළහොත් ඒ පිළිබඳ සලකා බැලීමට ආණ්ඩුව සූදානම් බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පැවසීය.
-
-ජනාධිපතිවරයන්ගේ හිමිකම් පනත අහෝසි කිරීමත් සමග හිටපු ජනාධිපතිවරුන් ඔවුන්ගේ ආරක්ෂක රථ යළි භාරදීම සිදු කළ අතර, ඒ සම්බන්ධයෙන් අද(07දා) පාර්ලිමේන්තුවේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“පසුගිය දිනක මේ සභාවේදී අනුමත වුණා විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් පනත. ඒ පනත අනුව එතුමන්ලා භුක්ති විඳි සමහර හිමිකම් ආපසු භාරදීමක් මේ වන විට කරලා තිබෙනවා. නමුත් ඒ හිමිකම් පනත යටතට ආරක්ෂාව කියන කාරණය ගැනෙන්නේ නෑ. මේ වන විට එතුමන්ලා තමන් භාවිතා කරපු සමහර ආරක්ෂිත වාහන පවා භාරදීම සිදු කරලා තිබෙනවා. හිමිකම් පනත අනුව හිමිකම් භාර දිය යුතු වුවත් ආරක්ෂාව සැපයීම ආණ්ඩුවේ වගකීමක්. ඒ නිසා ආරක්ෂාවට අදාළ ආරක්ෂිත වාහන ඇතුළු අනිකුත් දේ එතුමන්ලා ඉල්ලීමක් කළොත් ඒ පිළිබඳව ආණ්ඩුව සලකා බලන්න සූදානම්. ”
-
-◼️
-
-[Data](articles/4c04d430.json)
-
----
-
-### Amaraweera goes to see Mahinda
+### මහින්ද බලන්න අමරවීර යයි
 
 *2025-10-07 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215428) · `si`
 
-Former Minister Mahinda Amaraweera has gone to Tangalle Carlton to consult his former President Mahinda Rajapaksa.
+හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාගේ සුවදුක් විමසීම සඳහා හිටපු අමාත්‍ය මහින්ද අමරවීර මහතා තංගල්ල කාල්ටන් නිවසට ගොස් තිබේ.
 
-Former President Mahinda Rajapaksa left September 11 from his official residence in Wijerama.
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා විජේරාමයේ පිහිටි සිය නිල නිවසින් සැප්තැම්බර් මස 11 වන දා නික්ම ගියේය.
 
-According to the provisions of the President of the President of the President of the President of the President, "with the official quarters given to former presidents, the quarters given to the government are back to their government.
+ඒ "ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ" පනතේ විධිවිධානයන් අනුව හිටපු ජනාධිපතිවරුන් සඳහා ලබා දී ඇති නිල නිවාස ඔවුන්ට යළි රජයට භාරදීමට සිදුවීමත් සමඟය.
 
-Although former President Mahinda Rajapaksa was using the official residence, he also lost that privilege.
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා නිල නිවස භාවිත කරමින් සිටියත් මෙම පනත අනුව ඔහුට ද එම වරප්‍රසාදය අහිමි වී ගියේය.
 
-Accordingly, he came to the Carlton House in Hambantota and the people who love the former President and former President to date have come to Carlton.
+ඒ අනුව ඔහු විජේරාමයේ පිහිටි නිල නිවසින් නික්ම හම්බන්තොට කාල්ටන් නිවස වෙත පැමිණි අතර, එදින සිට මේ දක්වා බොහෝ දේශපාලනඥයින් සහ හිටපු ජනාධිපතිවරයාට ආදරය දක්වන ජනතාව ඔහුගේ සුවදුක් බැලීමට කාල්ටන් වෙත පැමිණෙමින් සිටී.
 
 ◼️
 
 [Data](articles/32ee24f8.json)
-
-[Extended Data](ext_articles/32ee24f8.ext.json)
 
 ---
 
@@ -129,22 +93,6 @@ Police investigations have revealed that the woman was the first husband and the
 
 ---
 
-### වීදුරු බෝතල් හදන්න හඳුන්නෙත්තිගෙන් ආරාධනයක්
-
-*2025-10-07 10:40:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදර-බතල-හදනන-හඳනනතතගන-ආරධනයක/101-680831) · `si`
-
-වීදුරු බෝතල් නිෂ්පාදනය කිරීමේ කර්මාන්තශාලා පිහිටුවීමට ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා පාර්ලිමේන්තුවේදී අද ව්‍යවසායකයන්ගෙන් ඉල්ලීමක් කළේය .
-
-දැනට රටේ වීදුරු බෝතල් නිෂ්පාදනය කරන කර්මාන්තශාලා ඇත්තේ එකක් පමණක් බවද ඔහු සඳහන් කළේය.
-
-වීදුරු බෝතල් නිෂ්පාදනය කිරීමට ඉදිරිපත් වන්නේ නම් රජය ඔවුනට අත හිත දීමට සූදානම් බව අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/a551d92a.json)
-
----
-
 ### Nobel Prize for Medicine for 2025
 
 *2025-10-07 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227086) · `ta`
@@ -179,22 +127,6 @@ Significant numbers have also arrived from the United Kingdom, Russia, Germany, 
 
 [Data](articles/101c8c13.json)
 
-[Extended Data](ext_articles/101c8c13.ext.json)
-
----
-
-### මහානාම SOS තානාපතීත්වය අලුත් කරද්දී - උමාරියා අලුතින් එක්වෙයි
-
-*2025-10-07 10:33:39* · [`adalk`](https://www.ada.lk/business/මහානාම-SOS-තානාපතීත්වය-අලුත්-කරද්දී---උමාරියා-අලුතින්-එක්වෙයි/7-418950) · `si`
-
-ලංකා SOS ළමා ගම්මාන සංවිධානය මෙවර ලෝක ළමා දිනය වෙනුවෙන් ‘Together for Children - Ambassador Signing & Partnership Summit’ නමින් සුවිශේෂී උත්සවයක් සංවිධානය කර තිබුණි. කොළඹ Radisson හෝටලයේදී පැවති මෙම උත්සවයේදී ජාතික හා ජාත්‍යන්තර සම්මානලාභී පටිගත කිරීමේ ශිල්පිනියක් සහ ගායන ශිල්පිනියක් වන උමාරියා සිංහවංශ නව තානාපතිවරියක් ලෙස නිල වශයෙන් එක් වූ අතර හිටපු ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩකයෙකු මෙන්ම ගෞරවණීය ICC තරග තීරකයෙකු ලෙස කටයුතු කරනු ලැබූ රොෂාන් මහානාම ශ්‍රී ලංකා SOS ළමා ගම්මාන තානාපතිවරයෙකු ලෙස පැවැති දශකයක හවුල්කාරිත්වය අඛණ්ඩව පවත්වාගෙන යාම සමරනු ලැබීය.
-
-රොෂාන් මහානාම සහ උමාරියා සිංහවංශ මෙම උදාර කර්තව්‍යයට දායක වනුයේ ස්වේච්ඡාවෙනි. ඔවුන් මීට පෙරද මෙවැනි සමාජ සත්කාරයන් සඳහා නිර්ලෝභීව දායක වී තිබේ. මෙම නව භූමිකාව තුළ ඔවුන් දරුවන්ගේ අයිතීන් පිළිබඳව ජනතාව දැනුවත් කිරීමට සහ තරුණ පරපුර සවිබල ගැන්වීමට දායක වනු ඇති අතර, රටේ දෙමාපිය රැකවරණය අහිමි වූ හෝ අහිමි වීමේ අවධානමකට මුහුණදී සිටින දරුවන් වෙනුවෙන් අරමුදල් රැස්කිරීමේ උත්සාහයන්ටද සහයෝගය ලබාදෙනු ඇත.
-
-...
-
-[Data](articles/6be414e5.json)
-
 ---
 
 ### Government Moves to Equalize Learning Opportunities
@@ -212,8 +144,6 @@ She highlighted how structural inequalities between schools have contributed to 
 ...
 
 [Data](articles/0e86c04e.json)
-
-[Extended Data](ext_articles/0e86c04e.ext.json)
 
 ---
 
@@ -257,36 +187,6 @@ The drowning person was later taken to Valasmulla Base Hospital in Swaseriya amb
 
 ---
 
-### GMOA අද  හදීසියේම රැස්වෙයි
-
-*2025-10-07 10:25:46* · [`adalk`](https://www.ada.lk/breaking_news/GMOA-අද--හදීසියේම-රැස්වෙයි/11-418949) · `si`
-
-රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ හදිසි විධායක කමිටු රැස්වීමක් අද (07දා) පැවැත්වීමට නියමිතව තිබේ.
-
-අම්පාර දිස්ත්‍රික්කයේ වෛද්‍ය ස්ථානමාරුවීම් සම්බන්ධයෙන් මතුව ඇති ගැටලුව පිළිබඳව සාකච්ඡා කිරීම සඳහා මෙලෙස රැස්වන අතර, එහිදී ඉදිරි ක්‍රියාමාර්ග සම්බන්ධයෙන් තීරණයක් ගැනීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/468a54e1.json)
-
----
-
-### ආණ්ඩුව මැවූ දිව්‍යලෝකය කඩා වැටිලා
-
-*2025-10-07 10:25:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආණඩව-මව-දවයලකය-කඩ-වටල/101-680830) · `si`
-
-පසුගිය මැතිවරණ වලදී රටේ ජනතාවට රජය දිව්‍ය ලෝකයක් මවා පෑවත් දැන් ඒ මවාපෑ දිව්‍ය ලෝකය යථාර්ථයක් කිරීමට නොහැකිව අන්දමන්දව සිටින බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
-
-මේ දිව්‍ය ලෝක සැප මන්ත්‍රිට සහ පාලකයන්ට පමණක් සීමා නොවිය යුතු වුවත් වත්මන් රජයේ මැති ඇමැතිවරුන් නම් දිව්‍ය ලෝකය සාදා ගෙන සිටින බවද හෙතෙම සඳහන් කළේය .
-
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව කියා සිටියේ අනුරාධපුර දිස්ත්‍රික්කයේ තලාව, නබඩවැව ග්‍රාමයේ නබඩවැව ශ්‍රී බෝධිරුක්කාරාමයේ පැවැති ගමින් ගමට දොරින් දොරට විපක්ෂ නායක ජංගම සේවා වැඩසටහනේදීය
-
-◼️
-
-[Data](articles/8baf522a.json)
-
----
-
 ### Suspect Arrested in Mapalagama with Foreign-Manufactured Semi-Automatic Firearm
 
 *2025-10-07 10:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/suspect-arrested-in-mapalagama-with-foreign-manufactured-semi-automatic-firearm) · `en`
@@ -296,8 +196,6 @@ COLOMBO (News 1st): A suspect has been arrested in Mapalagama with a foreign-man
 ◼️
 
 [Data](articles/e3868fdc.json)
-
-[Extended Data](ext_articles/e3868fdc.ext.json)
 
 ---
 
@@ -372,8 +270,6 @@ COLOMBO (News 1st): A large stock of magazines and military equipment recovered 
 ◼️
 
 [Data](articles/f091e3a8.json)
-
-[Extended Data](ext_articles/f091e3a8.ext.json)
 
 ---
 
@@ -615,26 +511,6 @@ Here I am remembered here that the dead doctor.. Manoharan is the activist who f
 
 ---
 
-### වෙඩි තැබීම් කිහිපයකට යතුරු පැදිකරු ලෙස කටයුතු කළ පුද්ගලයෙක් අල්ලයි
-
-*2025-10-07 09:25:52* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීම්-කිහිපයකට-යතුරු-පැදිකරු-ලෙස-කටයුතු-කළ-පුද්ගලයෙක්-අල්ලයි/11-418947) · `si`
-
-තලංගම පොලිස් ස්ථානයේ  නිලධාරින්ට ලද තොරතුරකට අනුව තලංගම පොලිස් වසමේ තලවතුගොඩ ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 12 මිලිග්‍රෑම් 200 ක් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබුණි.
-
-සැකකරු සම්බන්ධයෙන්  සිදු කරන ලද වැඩිදුර විමර්ශනයේදී, සැකකරු දැනට විදෙස්ගතව සැඟව සිටින සංවිධානාත්මක අපරාධකරුවන් සමඟ සමීප සබඳතා පවත්වන පුද්ගලයෙකු බවට අනාවරණය වී ඇත. සැකකරු මෝදර පොලිස් වසමේදී වෙඩි තබා මනුෂ්‍ය ඝාතනය කිරීමකට තැත් කිරීම, මෝදර සහ කොල්ලුපිටිය පොලිස් වසම්වලදී හෙරොයින් සන්තකයේ තබා ගැනීම සහ පුද්ගලයෙකු පැහැර ගැනීමක් සම්බන්ධයෙන් සැකකරුට එරෙහිව නඩු පවරා ඇති බවට අනාවරණය වී ඇත.
-
-ඒ අනුව සැකකරු කඩුවෙල ගරු මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර දින 07 ක් රැඳවුම් නියෝග මත රඳවාගෙන විමර්ශන කටයුතු සිදු කරන ලදී.
-
-රැඳවුම් නියෝග මත රඳවාගෙන සිදු කළ ප්‍රශ්න කිරිම් වලදී සැකකරු පහත අපරාධ වලට සම්බන්ධ බවට අනාවරණය වී ඇත.
-
-• 2024.12.08 වන දින ගම්පහ පොලිස් වසමේදී පුද්ගලයෙකුට වෙඩි තබා මනුෂ්‍ය ඝාතනයක් සිදු කිරීමේ අපරාධයේ යතුරු පැදියේ පැදිකරු ලෙස ක්‍රියා කිරීම.
-
-...
-
-[Data](articles/12fdef46.json)
-
----
-
 ### Indians lead drop in US university visas
 
 *2025-10-07 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113288/indians-lead-drop-in-us-university-visas) · `en`
@@ -755,23 +631,21 @@ Relatives said that the youth was searched in several parts of the country and t
 
 ---
 
-### Wanariya attack on a van
+### වෑන් රථයකට වනඅලි ප්‍රහාරයක්
 
 *2025-10-07 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215424) · `si`
 
-The Wildlife is constantly being held at the road to the road from Buttala to Kataragama to Kataragama to Kataragama.
+බුත්තල සිට කතරගම දක්වා යාල ජාතික වනෝද්‍යානය මැදින් දිවෙන මාර්ගයේ ගමන් ගන්නා රථ වාහන වලින් ලබාදෙන ආහාර බලාපොරොත්තුවෙන් වනඅලි මග දෙපස රැඳී සිටින ආකාරය නිරන්තරයෙන් දක්නට ලැබේ.
 
-Although wildlife officials do not receive any advertisement to the wildlife, the people are used to eat the people.
+වනඅලින්ට ආහාර ලබානොදෙන ලෙස වනජීවි නිලධාරීන් විසින් සංචාරකයින් හට දැනුම්වත් කිරීම් සිදුකළත් ඒ කිසිඳු දැන්වීමක් නොතකමින් ජනතාව වනඅලීන්ට ආහාරදීමට පුරුදුව සිටියි.
 
-The camera lens recorded how the elephant was hit by a van to a van that was staying near the road.
+මේ අකාරයට මාර්ගය අසල රැදී සිටි වනඅලියෙකුට ආහාර ලබාදුන් වෑන් රථයකට එම අලියා තවත් ආහාර බලාපොරොත්තුවෙන් පහරදෙන ආකාරය කැමරා කාචයේ මෙලෙස පටිගත වී තිබුණි.
 
-The authorities have been reportedly welcome, so that the road is constantly reported on the road.
+මෙම මාර්ගයේ නිරන්තරයෙන් වනඅලි පහරදීම් වාර්තා වන අතර එබැවින් බුත්තල කතරගම මාර්ගයේ ගමන් කිරීමේ දී වනසතුන් ට ආහාර ලබා දීමෙන් වැලකී සිටින ලෙස බලධාරීන් දැනුම් දී තිබේ.
 
 ◼️
 
 [Data](articles/d688f4c8.json)
-
-[Extended Data](ext_articles/d688f4c8.ext.json)
 
 ---
 
@@ -1062,22 +936,6 @@ It is reported that these telephones have also agreed to meet the leadership of 
 [Data](articles/f5aebd6e.json)
 
 [Extended Data](ext_articles/f5aebd6e.ext.json)
-
----
-
-### මහින්ද රාජපක්ෂ එල්ලා මැරිය යුතුයි
-
-*2025-10-07 07:39:15* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-රාජපක්ෂ-එල්ලා-මැරිය-යුතුයි/11-418946) · `si`
-
-යුද්ධයේ අවසන් කිලෝමීටර් 10 තුළදී එවක ජනපති වශයෙන් කටයුතු කළ මහින්ද රාජපක්ෂ මහතා එල්.ටී.ටී.ඊ.  සංවිධානයට සටන් විරාමයක් දුන් බවත් එය ද්‍රෝහී ක්‍රියාවක් බවත් හිටපු යුද හමුදාපති ෆීල්ඩ් මාෂල් සරත් ෆොන්සේකා මහතා පැවැසීය.
-
-එම ක්‍රියාවට ව්‍යවස්ථාමය වශයෙන් හිටපු ජනපතිවරයා එල්ලා මැරිය යුතු බවද ඔහු පැවැසීය. මාතර පැවැති උත්සවයක් අමතමින් ඔහු මේ බව පැවැසීය.
-
-"මේ කාලේ නාමල් රජපක්ෂට රණවිරුගාය. තාත්තා සරත් ෆොන්සේකා හිරේ දාපු එකත් වැරදීලු මාර කැක්කුමක් ඇවිල්ලා. මහින්ද රාජපක්ෂ යුද්ධය ඉවරවෙන්න අන්තිම කිලෝමීටර් 10 යන්න තියෙද්දි සටන් විරාමයක් දුන්නේ මොකටද කියලා මහින්ද රාජපක්ෂ විසින් ජාතියට විස්තර කරලා කියන්න ඕනේ. සටන්විරාමය දුන්නේ ප්‍රභාකරන් ඇතුළු නායකයින්ටික බේර ගන්න.
-
-...
-
-[Data](articles/74b7565e.json)
 
 ---
 
@@ -1974,5 +1832,153 @@ The Homes & Gardens Design Awards celebrate the best in design and decorating, s
 [Data](articles/89a1c4d4.json)
 
 [Extended Data](ext_articles/89a1c4d4.ext.json)
+
+---
+
+### FitsAir celebrates three years of passenger operations
+
+*2025-10-06 22:17:00* · [`islandlk`](http://island.lk/fitsair-celebrates-three-years-of-passenger-operations/) · `en`
+
+FitsAir, Sri Lanka’s first privately-owned international airline, celebrates three years of international scheduled passenger operations, marking another defining moment in its journey to transform air travel for Sri Lankans.
+
+The past year has been one of exceptional growth and achievements for the airline. FitsAir successfully launched Kuala Lumpur as a new destination on its network, expanded frequencies to Malé and Dhaka in response to strong demand, and most recently secured approvals to undertake its own ground handling operations at Colombo’s Bandaranaike International Airport, a major step that cements the airline’s commitment to independence, efficiency, and service excellence.
+
+...
+
+[Data](articles/d91b2833.json)
+
+[Extended Data](ext_articles/d91b2833.ext.json)
+
+---
+
+### Central Bank of Sri Lanka releases “Sri Lanka Socio-Economic Data – 2025”
+
+*2025-10-06 22:13:00* · [`islandlk`](http://island.lk/central-bank-of-sri-lanka-releases-sri-lanka-socio-economic-data-2025/) · `en`
+
+“Sri Lanka Socio-Economic Data – 2025”, the annually published data folder of the CBSL, is now available for public information. The current data folder is the 48th volume of the series.
+
+This easy-to-carry booklet contains information categorised under 14 topics, namely, Country Profile; Key Economic Indicators; Country Comparisons; Socio-Economic Conditions; Human Resources; National Accounts; Agriculture; Industry; Economic and Social Infrastructure; Prices and Wages; External Trade and Tourism; External Finance; Government Finance; and Money, Banking and Finance. As the data folder presents a wide range of socio-economic data of current interest in a concise and summary form, it will serve as a useful publication for policymakers, researchers, academics, professionals, students and the general public.
+
+...
+
+[Data](articles/ff9d9376.json)
+
+[Extended Data](ext_articles/ff9d9376.ext.json)
+
+---
+
+### HUTCH honored among Sri Lanka’s Best Employer Brands 2025
+
+*2025-10-06 22:12:00* · [`islandlk`](http://island.lk/hutch-honored-among-sri-lankas-best-employer-brands-2025/) · `en`
+
+Hutch Telecommunications Lanka Pvt Ltd has been recognized with the Sri Lanka Best Employer Brand Award 2025, reaffirming its status as one of the nation’s most progressive and people-focused organizations. The accolade was presented on 10th September at Taj Samudra, Colombo, by the World Federation of HR Professionals, in celebration of organizations that set benchmarks in human resource development and employer branding.
+
+The award highlights HUTCH’s success in aligning its human resource strategy with business goals while cultivating a future-ready workforce. Through a strong focus on continuous learning, leadership development, and employee well-being, HUTCH has consistently demonstrated its ability to foster a culture of growth, inclusivity, and innovation within the telecommunications sector.
+
+...
+
+[Data](articles/f5b14d0f.json)
+
+[Extended Data](ext_articles/f5b14d0f.ext.json)
+
+---
+
+### Gamer.LK dominates video games marketing category with Gold Award at SLIM DIGIS 2.5
+
+*2025-10-06 22:11:00* · [`islandlk`](http://island.lk/gamer-lk-dominates-video-games-marketing-category-with-gold-award-at-slim-digis-2-5/) · `en`
+
+Gamer.LK, Sri Lanka’s premier Video Games and Esports company, was recognised once again at the SLIM DIGIS 2.5 Awards, winning the Gold Award in the Gaming, Gamification & Esports category at the 2025 edition.
+
+...
+
+[Data](articles/628882d8.json)
+
+[Extended Data](ext_articles/628882d8.ext.json)
+
+---
+
+### Parental Intelligence, ‘Sri Lanka’s first parenting AI companion’
+
+*2025-10-06 22:10:00* · [`islandlk`](http://island.lk/parental-intelligence-sri-lankas-first-parenting-ai-companion/) · `en`
+
+The recently announced Parental Intelligence (PI), Sri Lanka’s first culturally relevant AI parenting companion, was developed to support parents and caregivers in manoeuvring the daily challenges of family life.
+
+Compared to global AI platforms, PI was created locally for Sri Lankan parents and offers a safe, useful, and judgment-free environment where families can get advice on how to raise kids of all ages. Instantly accessible at www.chatpi.lk, PI creates a distinctly comforting parenting experience by fusing age-specific guidance, bilingual support (in both Sinhala and English), and a privacy-first design. Knowing that conversations are never saved gives parents the confidence to voice concerns.
+
+...
+
+[Data](articles/36244a03.json)
+
+[Extended Data](ext_articles/36244a03.ext.json)
+
+---
+
+### Nothing felling name
+
+*2025-10-06 21:59:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උඩ-මහලන-වටණ-හම-නම-අපවත-වත/101-680811) · `si`
+
+Humanitarian Police say that we are being treated at the ICU of the Colombo National Hospital with serious injuries in the University of Sri Lanka.
+
+Unlikely, we have been unfortunately a 24-year-old monk named Dehiattakandi was inscribed in the Veyangoda, Gampaha.
+
+He was speaking to the Homagama Hospital with a three-wheeler imported to the University at around 2.30 pm.
+
+In an inquiry by Hamaddhau Homagama, Homagama, Sri Lanka Buddhist and Pali University, said:
+
+We conducted an internal investigation as a Buddhist and Pali University of Sri Lanka.. First, we were told that I had fallen from a building, even though he fell in a stairs.
+
+The report of our internal investigation has been taken to the relevant divisions. Homagama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/d24a913c.json)
+
+[Extended Data](ext_articles/d24a913c.ext.json)
+
+---
+
+### Nothing felling name
+
+*2025-10-06 21:59:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උඩ-මහලන-වටණ-හම-නම-අපවත-වත/1-680811) · `si`
+
+Humanitarian Police say that we are being treated at the ICU of the Colombo National Hospital with serious injuries in the University of Sri Lanka.
+
+Unlikely, we have been unfortunately a 24-year-old monk named Dehiattakandi was inscribed in the Veyangoda, Gampaha.
+
+He was speaking to the Homagama Hospital with a three-wheeler imported to the University at around 2.30 pm.
+
+In an inquiry by Hamaddhau Homagama, Homagama, Sri Lanka Buddhist and Pali University, said:
+
+We conducted an internal investigation as a Buddhist and Pali University of Sri Lanka.. First, we were told that I had fallen from a building, even though he fell in a stairs.
+
+The report of our internal investigation has been taken to the relevant divisions. Homagama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/dfcb30b7.json)
+
+[Extended Data](ext_articles/dfcb30b7.ext.json)
+
+---
+
+### Three killed in the sea bath in Nilwella
+
+*2025-10-06 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215415) · `si`
+
+Three people were killed in the Yatiyana area in Yanwella, Dikwella, Dikwella.
+
+The accident had occurred at around 3.30 pm today (06), two persons were hospitalized.
+
+Troops have attempted to rescue the sinks of the area.
+
+The body of the deceased has been taken to the Bathagama hospital while the two others are receiving treatment in the Matara General Hospital.
+
+The deceased has been identified as a 32 year old, inigadu area, and 51 year old and 38 have been hospitalized.
+
+◼️
+
+[Data](articles/57a79da7.json)
+
+[Extended Data](ext_articles/57a79da7.ext.json)
 
 ---

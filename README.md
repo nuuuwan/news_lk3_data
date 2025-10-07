@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 16:37:22**
+As of **2025-10-07 16:09:22**
 
 ## Newspaper Stats
 
-*Scraped **81,900** Articles*
+*Scraped **81,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,9 +17,9 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,826
+adalk | 7,824
 adaderanalk | 10,520
-tamilmirrorlk | 12,151
+tamilmirrorlk | 12,147
 virakesarilk | 13,490
 adaderanasinhalalk | 14,043
 
@@ -27,57 +27,11 @@ adaderanasinhalalk | 14,043
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,894 (100.0%) of 81,900 articles have been extended.
+81,892 (100.0%) of 81,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
-
-### ஏர் இந்தியா விமானம் அவசரமாக தரையிறக்கம்
-
-*2025-10-07 15:46:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏர்-இந்தியா-விமானம்-அவசரமாக-தரையிறக்கம்/175-365901) · `ta`
-
-கொழும்பிலிருந்து சென்னைக்கு செவ்வாய்க்கிழமை (07) அன்று 158 பயணிகளுடன் சென்ற ஏர் இந்தியா (Air India) விமானத்தில் பறவை மோதியதால், விமான நிறுவனம் அதன் பயணத்தை ரத்து செய்ததாக விமான நிலைய அதிகாரிகள் தெரிவித்தனர்.
-
-விமானம் பாதுகாப்பாக தரையிறங்கியது, மேலும் அனைத்து பயணிகளும் விமானத்திலிருந்து பாதுகாப்பாக இறக்கி விடப்பட்டனர் என்று விமான நிலைய அதிகாரிகள் தெரிவித்தனர்.
-
-இங்குள்ள விமான நிலையத்தில் தரையிறங்கிய பிறகு பறவை மோதியது கண்டறியப்பட்டது என்று அதிகாரிகள் மேலும் தெரிவித்தனர்.
-
-விமானம் தரையிறக்கப்பட்டது, மேலும் ஏர் இந்தியா பொறியாளர்களால் விரிவான சோதனைகள் மேற்கொள்ளப்பட்டன, விமானம் பின்னர் கொழும்புக்கு புறப்பட்ட 137 பயணிகளுக்கு மற்றொரு விமானத்தை ஏற்பாடு செய்ததாக அவர்கள் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/6ceae880.json)
-
----
-
-### அல்பேனிய நீதிபதி நீதிமன்றுக்குள் சுட்டுக்கொலை
-
-*2025-10-07 15:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அல்பேனிய-நீதிபதி-நீதிமன்றுக்குள்-சுட்டுக்கொலை/50-365900) · `ta`
-
-அல்பேனியாவில் தலைநகர் டிரானாவில் உள்ள மேல்முறையீட்டு நீதிமன்றத்தில் நடந்த விசாரணையின் போது ஒருவர் துப்பாக்கிச் சூடு நடத்தியதில் நீதிபதி ஒருவர் சுட்டுக் கொல்லப்பட்டார்.
-
-சொத்து தகராறு தொடர்பாக விசாரணையில் ஈடுபட்டிருந்த தந்தை மற்றும் மகன் ஆகிய இருவர் மீதும் துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டிருந்தாலும் அவ்விருவருக்கும் உயிருக்கு ஆபத்தான காயங்கள் இல்லாத நிலையில் மருத்துவமனையில் அனுமதிக்கப்பட்டதாக அதிகாரிகள் தெரிவித்தனர்.
-
-"E Sh" என்ற முதலெழுத்துக்களால் அடையாளம் காணப்பட்ட 30 வயது ஆண் சந்தேக நபரை கைது செய்ததாக பொலிஸார் தெரிவித்தனர், ஆனால் அல்பேனிய ஊடகங்கள் எல்விஸ் ஷ்கெம்பி என்று பெயரிட்டுள்ளன.
-
-"நீதிபதிக்கு எதிரான குற்றவியல் ஆக்கிரமிப்பு சந்தேகத்திற்கு இடமின்றி ஆக்கிரமிப்பாளருக்கு எதிராக மிகவும் கடுமையான சட்டப்பூர்வ நடவடிக்கை முன்னெடுக்கப்படும் என தெரிவித்துள்ள அல்பேனியாவின் பிரதமர் எடி ராமா, நீதிபதி கலாஜாவின் குடும்பத்தினருக்கு இரங்கல் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/c8e7fce9.json)
-
----
-
-### வாழை மரம் என நினைத்தாயோ
-
-*2025-10-07 15:31:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/வாழை-மரம்-என-நினைத்தாயோ/62-365899) · `ta`
-
-◼️
-
-[Data](articles/1b2562a6.json)
-
----
 
 ### A pronouncement of strong lightning
 
@@ -136,22 +90,6 @@ I have not heard that discussion discussions will be held in schools with the an
 [Data](articles/f1784fb8.json)
 
 [Extended Data](ext_articles/f1784fb8.ext.json)
-
----
-
-### කූ‍ඨ වෙළදුන්ගෙන් වාර්තාගත ගත දඩ මුදලක් අය කර ගනියි
-
-*2025-10-07 14:52:28* · [`adalk`](https://www.ada.lk/breaking_news/කූ‍ඨ-වෙළදුන්ගෙන්-වාර්තාගත-ගත-දඩ-මුදලක්-අය-කර-ගනියි/11-418957) · `si`
-
-පාරිභෝගික පනත උල්ලංඝනය කරමින් ව්‍යාපාර පවත්වාගෙන ගිය වෙළඳුන්ට එරෙහිව පැවරූ නඩු වලින් රුපියල් 85,87000 ක (අසූපන් ලක්ෂ අසූ හත්දහසක) මුදලක් දඩ වශයෙන් අය කර ගැනීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ මහනුවර දිස්ත්‍රික් කාර්යාලය සමත් වූ බව එම අධිකාරී කාර්යාලයේ මහනුවර දිස්ත්‍රික් ප්‍රදානී තුෂාර රෑනපාන මහතා කියයි.
-
-පාලන මිලට වඩා වැඩි මිලට භාණ්ඩ අලෙවි කිරීම, කල් ඉකුත් වූ භාණ්ඩ අලෙවි කිරීම, මිල සඳහන් නොකිරීම ඇතුළුව අධිකාරි පනත උල්ලංඝනය කළ ව්‍යාපාරිකයන් 989 දෙනෙකු සඳහා ඉකුත් මාස 09 ක කාලය තුළදී පැවරු නඩුවලින් එම දඩ මුදල් අය කරගෙන තිබෙන බවද ඒ මහතා කියයි.
-
-මහනුවර, වත්තේගම, නාවලපිටිය, ගම්පොළ, කඩුගන්නාව, දිගන, තෙල්දෙණිය, පේරාදෙණිය ඇතුළු මහනුවර දිස්ත්‍රික්කයේ සියලුම ප්‍රදේශ ආවරණය වන පරිදි මෙම වැටලීම් සිදුකොට තිබේ.
-
-...
-
-[Data](articles/21e89ed4.json)
 
 ---
 
@@ -350,26 +288,6 @@ Subsequently, the couple went to Colombo train and placed a couple to put a pupp
 [Data](articles/91fa605a.json)
 
 [Extended Data](ext_articles/91fa605a.ext.json)
-
----
-
-### கிழக்கில் 230  கிராம் ஐஸ்: இளம் தம்பதி  கைது
-
-*2025-10-07 14:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கில்-230-கிராம்-ஐஸ்-இளம்-தம்பதி-கைது/175-365893) · `ta`
-
-மட்டக்களப்பு வாழைச்சேனை பிரதேசத்தில் வைத்த 230 கிராம் ஐஸ் போதைப் பொருளுடன் 24,23 வயதுடைய இளம் தம்பதியினர் கைது செய்யப்பட்டுள்ளனர்.
-
-உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸ் தலைமையிலான பொலிஸார்  திங்கட்கிழமை (06) மாலை கைது செய்துள்ளனர்.
-
-கிழக்கு மாகாணத்தில் ஆகக்கூடிய தொகை  ஐஸ் போதை பொருள் கைப்பற்றப்பட்டது இதுவே முதன்முறையாகும் என்று    வாழைச்சேனை பொலிஸார் தெரிவித்தனர்.
-
-வாழைச்சேனை உதவி பொலிஸ் அத்தியட்சகர் எம்.எஸ்.எம். ஜறூஸ் கிடைத்த தகவல் ஒன்றிணை அடுத்து அவர் தலைமையிலான பொலிஸ் குழுவினர்  சம்பவ தினமான திங்கட்கிழமை (06) மாலை 4.30 மணியளவில் உதவி பொலிஸ் அத்தியட்சகர் காரியாலயத்துக்கு அருகில் கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்த போது கல்குடாவில் இருந்து ஐஸ் போதை பொருளை முச்சக்கரவண்டியில் எடுத்துக் கொண்டு சென்ற போது அவர்களை சுற்றி வளைத்து மடக்கி பிடித்தனர்.
-
-இதையடுத்து அவர்களிடம் இருந்து 230 கிராம் ஐஸ் போதை பொருளை கைப்பற்றினர். அதனையடுத்து அவர்களையும் கைது செய்தது முச்சக்கரவண்டியும் கைப்பற்றினர்.
-
-...
-
-[Data](articles/ba73ae3f.json)
 
 ---
 
@@ -1030,22 +948,6 @@ The students who have studied the students to celebrate the teachers' Day as the
 [Data](articles/2752f89b.json)
 
 [Extended Data](ext_articles/2752f89b.ext.json)
-
----
-
-### ප්‍රධාන අභියෝග තවමත්, ආර්ථික ප්‍රකෘතිය අසම්පූර්ණයි - WB
-
-*2025-10-07 12:29:32* · [`adalk`](https://www.ada.lk/business/ප්‍රධාන-අභියෝග-තවමත්--ආර්ථික-ප්‍රකෘතිය-අසම්පූර්ණයි---WB/7-418953) · `si`
-
-ශ්‍රී ලංකාවේ මෑත කාලීන ආර්ථික ක්‍රියාකාරිත්වය ශක්තිමත්ව පැවතුණත්, ප්‍රකෘතිය අසම්පූර්ණව පවතින අතර, වර්ධනය තවමත් අර්බුදයට පෙර මට්ටම්වලට වඩා පහළින් සහ දරිද්‍රතාවය සැලකිය යුතු ලෙස ඉහළ ගොස් ඇති බව ලෝක බැංකුව පවසයි.
-
-ඒ අනුව, රටේ ආර්ථික ප්‍රකෘතිය ශක්තිමත් කිරීම සඳහා අඛණ්ඩ සාර්ව ආර්ථික ස්ථාවරත්වය, හදිසි ව්‍යුහාත්මක ප්‍රතිසංස්කරණ සහ වඩාත් කාර්යක්ෂම, වඩා හොඳින් ඉලක්ක කරගත් රාජ්‍ය වියදම් අවශ්‍ය වනු ඇතැයි ලෝක බැංකුව අවධාරණය කරයි.
-
-අද (07දා) දින නිකුත් කරන ලද නවතම ශ්‍රී ලංකා සංවර්ධන යාවත්කාලීන වාර්තාව, "Better Spending for All" (සැමට වඩාත් හොඳින් වියදම් කිරීමේ හැකියාවක්) අනුව, 2026 දී ආර්ථිකය සියයට 3.5ක් දක්වා මන්දගාමී වීමට පෙර, 2025 දී ශ්‍රී ලංකාවේ ආර්ථිකය සියයට 4.6කින් වර්ධනය වනු ඇතැයි පුරෝකථනය කරන අතර, කර්මාන්ත ක්ෂේත්‍රයේ සුළු ප්‍රකෘතිමත් වීමක් සහ සේවාවල ස්ථාවර වර්ධනය ඊට සහාය වී ඇති බවද පෙන්වා දෙයි. කෙසේ වෙතත්, මෙම පුරෝකථන ඉහළ යන ගෝලීය අවිනිශ්චිතතාවය ඇතුළුව ඉහළ යන අවදානම්වලට යටත් බවද පෙන්වා දෙයි.
-
-...
-
-[Data](articles/ff6f72a8.json)
 
 ---
 
@@ -2020,5 +1922,117 @@ Roshan Mahanama and Umaria Sinhawana contributes voluntary task. They have alrea
 [Data](articles/6be414e5.json)
 
 [Extended Data](ext_articles/6be414e5.ext.json)
+
+---
+
+### Government Moves to Equalize Learning Opportunities
+
+*2025-10-07 10:33:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/government-moves-to-equalize-learning-opportunities) · `en`
+
+COLOMBO (News 1st); Minister of Education, Higher Education, and Vocational Training, Prime Minister Dr. Harini Amarasuriya, emphasized that reducing disparities among schools and enhancing the quality of educational experiences for all children are central goals of the upcoming education reform agenda.
+
+Speaking at a high-level meeting with education sector officials held at the Ministry of Education, Dr. Amarasuriya addressed long-standing challenges that have plagued the school system for decades.
+
+She highlighted how structural inequalities between schools have contributed to a range of issues — from student stress and learning gaps to the pressures faced by teachers and principals.
+
+“The competitive nature of our education system has created immense pressure on students, educators, and administrators alike. At the heart of these challenges lies the deep-rooted inequality among schools,” Dr. Amarasuriya stated.
+
+...
+
+[Data](articles/0e86c04e.json)
+
+[Extended Data](ext_articles/0e86c04e.ext.json)
+
+---
+
+### A change of gold prices
+
+*2025-10-07 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215427) · `si`
+
+Market data points out that world gold prices have crossed $ 3,950 for the first time in history.
+
+Accordingly, gold is also increased by Rs. 8,000 compared to Saturday.
+
+Accordingly, the price of a 22 carrots in the gold market in the gold market in Colombo this morning (07) was Rs.. Up to 290,500.
+
+Meanwhile, Saturday is Rs. 306,000 "24 carrots" gold pound is Rs.. According to Rattota Market, Colombo, Colombo, Colombo said that up to 314,000.
+
+◼️
+
+[Data](articles/0d387802.json)
+
+[Extended Data](ext_articles/0d387802.ext.json)
+
+---
+
+### The death of the teacher drowning in the water
+
+*2025-10-07 10:28:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-ஆசிரியர்-மரணம்/175-365869) · `ta`
+
+A school teacher who was bathing in the Murudawela reservoir at 3.30 pm on Sunday (06)
+
+The deceased Varala Morawaka, WJKP from Varala area. Suresh (age 32) has been identified.
+
+He was bathing in the Murudawela reservoir with a group of friends.
+
+The drowning person was later taken to Valasmulla Base Hospital in Swaseriya ambulance. The body is placed at Valasmulla Hospital.
+
+◼️
+
+[Data](articles/c6030d5e.json)
+
+[Extended Data](ext_articles/c6030d5e.ext.json)
+
+---
+
+### GMOA අද  හදීසියේම රැස්වෙයි
+
+*2025-10-07 10:25:46* · [`adalk`](https://www.ada.lk/breaking_news/GMOA-අද--හදීසියේම-රැස්වෙයි/11-418949) · `si`
+
+A urgent executive committee meeting of the Government Medical Officers Association is scheduled to be held today (07).
+
+The decision is to be discussed to discuss the problem of medical sportsts regarding the medical sportsigations of the Ampara District.
+
+◼️
+
+[Data](articles/468a54e1.json)
+
+[Extended Data](ext_articles/468a54e1.ext.json)
+
+---
+
+### The rise of the government has collapsed
+
+*2025-10-07 10:25:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආණඩව-මව-දවයලකය-කඩ-වටල/101-680830) · `si`
+
+Opposition Leader Sajith Premadasa said that the government has created a divine world in the past, but now the Divine world is now unable to make the divine world real.
+
+He said that the present government ministers of the present government have made the divine world, though not limited to these Divine World Commons and the rulers.
+
+Opposition Leader Sajith Premadasa said this in Opposition Leader Mobile Service Program
+
+◼️
+
+[Data](articles/8baf522a.json)
+
+[Extended Data](ext_articles/8baf522a.ext.json)
+
+---
+
+### The rise of the government has collapsed
+
+*2025-10-07 10:25:39* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ආණඩව-මව-දවයලකය-කඩ-වටල/1-680830) · `si`
+
+Opposition Leader Sajith Premadasa said that the government has created a divine world in the past, but now the Divine world is now unable to make the divine world real.
+
+He said that the present government ministers of the present government have made the divine world, though not limited to these Divine World Commons and the rulers.
+
+Opposition Leader Sajith Premadasa said this in Opposition Leader Mobile Service Program
+
+◼️
+
+[Data](articles/450ef0c8.json)
+
+[Extended Data](ext_articles/450ef0c8.ext.json)
 
 ---

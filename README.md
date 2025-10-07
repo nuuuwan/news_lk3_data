@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 09:56:38**
+As of **2025-10-07 09:39:24**
 
 ## Newspaper Stats
 
-*Scraped **81,746** Articles*
+*Scraped **81,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 628
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 907
+lankadeepalk | 906
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,813
+adalk | 7,809
 adaderanalk | 10,493
 tamilmirrorlk | 12,125
 virakesarilk | 13,456
@@ -27,29 +27,11 @@ adaderanasinhalalk | 14,030
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,741 (100.0%) of 81,746 articles have been extended.
+81,741 (100.0%) of 81,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
-
-### අකුණක් වැදී ධීවරයා මරුට
-
-*2025-10-07 09:29:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අකණක-වද-ධවරය-මරට/101-680828) · `si`
-
-ධීවර යාත්‍රාවකට අකුණු සැර වැදීමෙන් එහි ගමන්ගත් ධීවරයෙකු මියගොස් අනෙක් තවත් ධීවරයකු තුවාල ලබා රෝහලේ ගතකර ඇති බව පොලිසිය සදහන් කරයි .
-
-අනතුරෙන් මියගොස් ඇත්තේ මග්ගොන , දියලගොඩ ප්‍රදේශයේ පදිංචිව සිටී හෙට්ටිආරච්චි දිශාන්ත නමැති 41 හැවිරිදි තිදරු පියෙකු බව පොලිසිය කීය.
-
-.ධීවරයින් දෙදෙනා අද උදෑසන එක්දින ධීවර යාත්‍රාවකින් මුහුදු ගොස් සිටියදී අනතුර සිදුව ඇති බව පොලිසිය සදහන් කරයි .
-
-බෝට්ටුව මුහුදේ ගිලී ඇති අතර,මෘතදේහය ගොඩගෙන තුවාලකරු රෝහල් ගතකර තිබේ.
-
-◼️
-
-[Data](articles/9492e471.json)
-
----
 
 ### Criminal gang members arrested
 
@@ -257,24 +239,6 @@ It is reported that these telephones have also agreed to meet the leadership of 
 
 ---
 
-### මුහුණු ආවරණය කරගෙන පැමිණි 5ක් අනියම් යුවළක් ඝාතනය කරයි
-
-*2025-10-07 07:26:18* · [`adalk`](https://www.ada.lk/breaking_news/මුහුණු-ආවරණය-කරගෙන-පැමිණි-5ක්-අනියම්-යුවළක්-ඝාතනය-කරයි/11-418944) · `si`
-
-අද දින අළුයම් කාලයේ හුංගම පොලිස් වසමේ වාඩිගල, රන්න ප්‍රදේශයේ නිවසක් තුල පුද්ගලයෙකු හා කාන්තාවක් තියුණු ආයුධවලින් පහරදී ඝාතනය කර ඇති බවට හුංගම පොලිස් ස්ථානය වෙත ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර ඇත.
-
-මරණකරු සහ මරණකාරිය වයස අවුරුදු 28 ක් වූ රන්න  ප්‍රදේශයේ සහ තිස්සමහාරාම ප්‍රදේශයේ පදිංචිකරුවන් වේ.
-
-මරණකරු තම මිතුරෙකුගේ නිවසේ සිය අනියම් බිරිඳ සමඟ රැඳී සිටියදී මුහුණු ආවරණය කරගත් පස් දෙනෙකුගෙන් පමණ සමන්විත කණ්ඩායමක් නිවසට ඇතුළු වී තියුණු ආයුධ වලින් පහරදී ඝාතනය කර ඇත.
-
-ඝාතනයට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර මෘත ශරීර මහේස්ත්‍රාත් පරීක්ෂණය සඳහා පොලිස් ආරක්ෂාව යටතේ සිද්ධිය වූ ස්ථානයේ ඇත. හුංගම පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-◼️
-
-[Data](articles/c8989381.json)
-
----
-
 ### The first parliamentary week of October to today
 
 *2025-10-07 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215420) · `si`
@@ -374,22 +338,6 @@ The Department has informed the people to take necessary accidents to reduce the
 [Data](articles/d8658fa7.json)
 
 [Extended Data](ext_articles/d8658fa7.ext.json)
-
----
-
-### අදත් හවස බොහෝ පළාත්වලට වැසි
-
-*2025-10-07 06:12:14* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-හවස-බොහෝ-පළාත්වලට-වැසි/11-418943) · `si`
-
-දිවයිනේ බොහෝ ප්‍රදේශ වල පස්වරු 1.00 න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යහා ස ඌව පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇති විය හැකි බවද එම දෙපාරමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.
-
-නැගෙනහිර පළාතෙත් ගාල්ල, මාතර, පුත්තලම, යාපනය හා ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් උදෑසන කාලහේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි‍.
-
-◼️
-
-[Data](articles/7d78b5bc.json)
 
 ---
 
@@ -1509,24 +1457,6 @@ India's Prime Minister Narendra Modi, Harini Amarasuriya and two former Prime mi
 
 ---
 
-### තැපෑල තව දුරටත් භාණ්ඩාගාරයට බරක් විය යුතු නැහැ
-
-*2025-10-06 21:12:59* · [`adalk`](https://www.ada.lk/breaking_news/තැපෑල-තව-දුරටත්-භාණ්ඩාගාරයට-බරක්-විය-යුතු-නැහැ/11-418942) · `si`
-
-ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයකයන් ලෙස තෝරාගත්  731 දෙනෙකු සඳහා ස්ථීර පත්වීම් ලිපි ප්‍රදානය කිරීම සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් අද (06) පෙරවරුවේ අරලියගහ මන්දිර පරිශ්‍රයේ දී   සිදු කෙරිණි.
-
-2021 වර්ෂයෙන් පසු ශ්‍රී ලංකා තැපැල් දෙපාර්තුමේන්තුවට ස්ථිර තැපැල් සහයක බඳවාගැනීම් සිදුකර නොමැති අතර ඒ හේතුවෙන් පසුගිය වර්ෂය අවසානය වන විට තැපැල් දෙපාර්තුමේන්තුවේ තැපැල් සහයක පුරප්පාඩු 1982 ක් පැවතිණි.
-
-එවන් පුරප්පාඩු සංඛ්‍යාවක් සමඟ දෙපාර්තුමේන්තුවේ කටයුතු පවත්වා ගෙන යාම දැඩි අර්බුධකාරී තත්වයක් මතු වු අතර එයට විසඳුමක් ලෙස අදාල පුරප්පාඩු සංඛ්‍යාවෙන් 1000 ක් බඳවා ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ඉල්ලීම පරිදි 2025 අගෝස්තු 19 වන දින අමාත්‍ය මණ්ඩල අනුමැතිය ලබා දී ඇත.
-
-ඒ අනුව මේ දක්වා තැපැල් දෙපාර්තුමේන්තුවේ ආදේශක සේවකයින් ලෙස ලියාපදිංචි වී සිටි නිසි සුදුසුකම් සම්පුර්ණ කළ පිරිස අතරින් ඉහත 731 දෙනෙකු මෙලෙස බඳවා ගැනීම සඳහා තෝරාගනු ලැබීය.
-
-...
-
-[Data](articles/eda58564.json)
-
----
-
 ### Muruthewela reservoir killed
 
 *2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/101-680804) · `si`
@@ -2002,5 +1932,89 @@ COLOMBO (News 1st): Sri Lankans will have a rare chance to witness a supermoon t
 [Data](articles/aede5154.json)
 
 [Extended Data](ext_articles/aede5154.ext.json)
+
+---
+
+### Israel deports 171 Gaza flotilla activists, including Greta Thunberg
+
+*2025-10-06 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113266/israel-deports-171-gaza-flotilla-activists-including-greta-thunberg) · `en`
+
+Israel said it deported on Monday (Oct 6) campaigner Greta Thunberg and another 170 activists from an international flotilla it had prevented last week from delivering aid to Gaza, sending them to Greece and Slovakia.
+
+Earlier, Swiss and Spanish activists from the flotilla said they were subjected to inhumane conditions during their detention by Israeli forces. Monday’s expulsions brought to 341 the total number deported from 479 detained.
+
+Israel’s foreign ministry issued a statement, accompanied by photos of Thunberg at the airport, saying all participants’ legal rights had been upheld and the only violence involved an activist who bit a female medic at Israel’s Ketziot prison.
+
+An Israeli foreign ministry spokesperson said Thunberg, a Swedish campaigner primarily for climate change, boarded a plane at Ramon airbase in Israel’s Negev Desert. Israel has dismissed the flotilla as a publicity stunt.
+
+...
+
+[Data](articles/bc3c6462.json)
+
+[Extended Data](ext_articles/bc3c6462.ext.json)
+
+---
+
+### PM Harini to attend NDTV World Summit
+
+*2025-10-06 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113265/pm-harini-to-attend-ndtv-world-summit) · `en`
+
+Prime Minister Dr. Harini Amarasuriya is scheduled to attend the NDTV World Summit 2025 along with Indian Prime Minister Narendra Modi.
+
+The NDTV World Summit 2025 will mark an extraordinary moment in global dialogue, bringing together some of the most influential voices at present.
+
+Among them are two serving Prime Ministers: Narendra Modi of India and Harini Amarasuriya of Sri Lanka; and two former Prime ministers: Rishi Sunak of the United Kingdom and Tony Abbott of Australia.
+
+The Summit is scheduled to be held on 17th and 18th October 2025 in New Delhi and the theme of the 2025 edition will be, ‘Edge of the Unknown: Risk. Resolve. Renewal’.
+
+◼️
+
+[Data](articles/b262e1a9.json)
+
+[Extended Data](ext_articles/b262e1a9.ext.json)
+
+---
+
+### Kammanpila, Wimal to appear before the inquiries - Deputy Minister of Labor Mahinda Jayasinghe
+
+*2025-10-06 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227058) · `ta`
+
+Udaya Kammanpila and Wimal Weerawansa are trying to socialize the fake matters of affairs.. Deputy Minister of Labor Mahinda Jayasinghe said that they are acting in highlighting communalism.
+
+He said this in a statement to the media after a religious event in Colombo on Monday (6).
+
+Those who have lost their defeat without contesting the election during the ongoing general election today speak like patriots. This country is facing many crises by racism.
+
+Udaya Kammanpila and Wimal Weerawansa are still acting as the last government is in power. When trying to socialize fake matters, those issues should be investigated.
+
+They are trying to recapture the lost political influence by highlighting racism.. He said it could not be aimed at socializing the wrong issue among the people.
+
+◼️
+
+[Data](articles/787293ee.json)
+
+[Extended Data](ext_articles/787293ee.ext.json)
+
+---
+
+### Deficiencies due to deficit. 100 selling a blood leakage injection sheet to Rs 760
+
+*2025-10-06 18:10:24* · [`adalk`](https://www.ada.lk/breaking_news/එන්නත්-කටු-හිඟය-නිසා-රු--100-රුධිර-කාන්දුකරන-එන්නත්-කටුවක්-රු-760ට-විකුණයි/11-418941) · `si`
+
+Due to the absence of the blood leakage of the kidney patients, the vaccine sheet of Rs. 100 has been increased to Rs.
+
+Health and Mass Media Mass Media Minister Dr. Nalinda Jayatissa said that the relevant institution was obtained for the public hospitals to the government hospitals.
+
+The Minister said that due to the deficit deficit, the funds will be allocated to purchase the vaccines from the sector.
+
+The tenderer is also limited to the private sector and that the vaccine thoroughle is limited to the private sector and a shortage of apartments said.
+
+However, the issue will be eligible on the next 10th and that the issue will be eligible on the next 10th.
+
+◼️
+
+[Data](articles/f9a66cf1.json)
+
+[Extended Data](ext_articles/f9a66cf1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 10:09:03**
+As of **2025-10-07 09:39:24**
 
 ## Newspaper Stats
 
-*Scraped **81,755** Articles*
+*Scraped **81,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,56 +12,26 @@ newsfirstlk | 628
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 907
+lankadeepalk | 906
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,813
-adaderanalk | 10,501
+adalk | 7,809
+adaderanalk | 10,493
 tamilmirrorlk | 12,125
 virakesarilk | 13,456
-adaderanasinhalalk | 14,031
+adaderanasinhalalk | 14,030
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,746 (100.0%) of 81,755 articles have been extended.
+81,741 (100.0%) of 81,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි
-
-*2025-10-07 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215425) · `si`
-
-◼️
-
-[Data](articles/5dff74ea.json)
-
----
-
-### Fisherman killed
-
-*2025-10-07 09:29:07* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අකණක-වද-ධවරය-මරට/101-680828) · `si`
-
-A fisherman was killed and another fisherman was killed and another fisherman was injured and injured in a fishing vessel.
-
-The deceased has been identified as a 41 year old father, a 41-year-old father, who is residing in the Diyalagoda area in Maggona.
-
-The accident had occurred when the two men went to a fishing vessel this morning.
-
-Boats were drowned, and the casual was taken and hospitalized.
-
-◼️
-
-[Data](articles/9492e471.json)
-
-[Extended Data](ext_articles/9492e471.ext.json)
-
----
 
 ### Criminal gang members arrested
 
@@ -197,24 +167,6 @@ According to the Assistant Secretary of the Government Medical Officers Assistan
 
 ---
 
-### Gold set to become Australia’s second-biggest resource earner
-
-*2025-10-07 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113283/gold-set-to-become-australias-second-biggest-resource-earner) · `en`
-
-Australia said on Tuesday it expected gold to become its second most valuable resource export after iron ore this financial year, dislodging liquefied natural gas, as concerns over geopolitical instability fuel demand for the safe-haven metal.
-
-Australia’s gold exports are expected to rise by A$12 billion ($7.9 billion) to A$60 billion in the current financial year ending in June 2026, as the country exports more gold at higher prices, the department of industry said in its September quarterly report.
-
-That would eclipse Australia’s export earnings for LNG, which are expected to fall to A$54 billion this financial year, and to A$48 billion the following year, tracking lower oil prices.
-
-A lower interest rate environment in the United States is also expected to support gold prices above $3,200 a troy ounce over the next two years, the report said. Gold prices hit a record high on Monday and are trading close to $4,000 an ounce.
-
-...
-
-[Data](articles/909677f5.json)
-
----
-
 ### A couple hacked to death
 
 *2025-10-07 08:09:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/යවළක-කප-කට-මරල/101-680819) · `si`
@@ -265,24 +217,6 @@ COLOMBO (News 1st): Sri Lanka Customs has reported a record-breaking revenue col
 
 ---
 
-### GMOA Executive Committee meeting called to discuss transfer issues
-
-*2025-10-07 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/113282/gmoa-executive-committee-meeting-called-to-discuss-transfer-issues) · `en`
-
-An emergency executive committee meeting of the Government Medical Officers’ Association (GMOA) is scheduled to be held today (07).
-
-According to Dr. Hansamal Weerasuriya, the Assistant Secretary of the GMOA, the purpose of the meeting is to discuss issues arising from recent medical officer transfers in the Ampara District.
-
-The GMOA has launched trade union action within the district, expressing opposition to what they claim are arbitrary transfers carried out by the Ampara District Health Administration.
-
-Dr. Weerasuriya further stated that since the government has not yet addressed the issue, the GMOA will decide today on the next steps regarding their ongoing trade union actions.
-
-◼️
-
-[Data](articles/1382700c.json)
-
----
-
 ### Telephone conversation between Brazil and American President
 
 *2025-10-07 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215421) · `si`
@@ -302,46 +236,6 @@ It is reported that these telephones have also agreed to meet the leadership of 
 [Data](articles/f5aebd6e.json)
 
 [Extended Data](ext_articles/f5aebd6e.ext.json)
-
----
-
-### 5 casual couple murdered
-
-*2025-10-07 07:26:18* · [`adalk`](https://www.ada.lk/breaking_news/මුහුණු-ආවරණය-කරගෙන-පැමිණි-5ක්-අනියම්-යුවළක්-ඝාතනය-කරයි/11-418944) · `si`
-
-In the afternoon of the Hungama Police Division, a woman and a woman had been killed in a house in the Hungama area.
-
-The deceased and the victim are the 28 year old residents of the Tissamaharama area.
-
-While the deceased was with his mastery with his mistress of his friend, a group of five people who were covered with their mistreatment had been assaulted by sharp weapons.
-
-The cause of the murder is yet to be ascertained, and there is no place in the area for the bodies magistrate investigation. Hungama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/c8989381.json)
-
-[Extended Data](ext_articles/c8989381.ext.json)
-
----
-
-### Several houses damaged by strong winds in Welikanda
-
-*2025-10-07 07:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/113279/several-houses-damaged-by-strong-winds-in-welikanda) · `en`
-
-Several houses in Mahindagama within the Welikanda Divisional Secretariat Division in Polonnaruwa have been partially damaged or destroyed due to strong winds last evening (06).
-
-The incident occurred between 5:00 p.m. and 6:00 p.m., according to the Welikanda Divisional Secretariat.
-
-Since the exact number of damaged houses and the extent of the damages have not yet been determined, information about the affected houses is being collected through the respective Grama Niladhari officers, the Secretariat said.
-
-Once the information is received, arrangements will be made to allocate funds through the Disaster Relief Services Center to rebuild the damaged houses and immediate steps will be taken to provide necessary relief to those affected, Welikanda Divisional Secretariat noted.
-
-Meanwhile, around 6:00 p.m. yesterday, strong winds accompanied by rain in Punani, Welikanda reportedly caused partial or full damage to around 10 houses, according to local residents.
-
-...
-
-[Data](articles/eb1e58ac.json)
 
 ---
 
@@ -385,26 +279,6 @@ Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincom
 
 ---
 
-### Shoe thrown at India’s Chief Justice in religious row
-
-*2025-10-07 06:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113278/shoe-thrown-at-indias-chief-justice-in-religious-row) · `en`
-
-An Indian lawyer has thrown a shoe at the country’s Chief Justice BR Gavai after apparently being angered by remarks the judge made about Hinduism.
-
-Rakesh Kishore launched his attack during Monday’s court proceedings in Delhi in what is seen across India as a serious public insult and security breach.
-
-Three lawyers present in the courtroom confirmed to the BBC that a shoe had been hurled at the judge, with one saying it “brushed against the chief justice and [another] justice... and fell behind them”.
-
-Kishore was heard saying “India won’t tolerate insult to Sanatan Dharma [Hinduism]”, as he was led away from the courtroom by security officials. He was later suspended from practice.
-
-Advocate Ravi Shanker Jha, a lawyer who was in the courtroom during the incident, told the BBC that Mr Kishore “threw his shoe, and raised his hand to indicate that he had thrown the shoe”.
-
-...
-
-[Data](articles/c96bb5d6.json)
-
----
-
 ### Negotiations on American peace plan begins
 
 *2025-10-07 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215419) · `si`
@@ -422,20 +296,6 @@ Meanwhile, Israeli Prime Minister Benjamin Netanyahukuku stated that he is expec
 [Data](articles/feaeafb2.json)
 
 [Extended Data](ext_articles/feaeafb2.ext.json)
-
----
-
-### Convention against Doping in Sport Amendment Bill to be debated in Parliament today
-
-*2025-10-07 06:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/113277/convention-against-doping-in-sport-amendment-bill-to-be-debated-in-parliament-today) · `en`
-
-The second reading of the Convention against Doping in Sport (Amendment) Bill is scheduled to take place in Parliament today (07).
-
-The debate will take place when Parliament convenes for the first time in October at 9:30 a.m. today.
-
-◼️
-
-[Data](articles/212385c4.json)
 
 ---
 
@@ -481,24 +341,6 @@ The Department has informed the people to take necessary accidents to reduce the
 
 ---
 
-### Showers in many parts of the evening
-
-*2025-10-07 06:12:14* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-හවස-බොහෝ-පළාත්වලට-වැසි/11-418943) · `si`
-
-Showers or thundershowers will occur at several places in the country after 1.00 pm.
-
-Mm in the Northern, North-Central, Eastern, Eastern, Uva provinces. The department was released this morning.
-
-Showers or thundershowers will occur at several places in the Galle, Matara, Puttalam and Trincomalee districts, the other.
-
-◼️
-
-[Data](articles/7d78b5bc.json)
-
-[Extended Data](ext_articles/7d78b5bc.ext.json)
-
----
-
 ### The weather today
 
 *2025-10-07 06:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227073) · `ta`
@@ -525,42 +367,6 @@ But in the event of thunderstorms, strong winds are blowing and the sea regions 
 
 ---
 
-### US government shutdown enters second week after funding measures fail again in Senate
-
-*2025-10-07 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113276/us-government-shutdown-enters-second-week-after-funding-measures-fail-again-in-senate) · `en`
-
-The US government shutdown entered its second week on Monday (Oct 6), with no sign of a deal between President Donald Trump’s Republicans and Democrats to end the crisis.
-
-Democrats are refusing to provide the handful of votes the ruling Republicans need to reopen federal departments, unless an agreement is reached on extending expiring “Obamacare” healthcare subsidies and reversing some cuts to health programmes passed as part of Trump’s signature “One Big Beautiful Bill”.
-
-With the government out of money since Wednesday and grinding to a halt, Senate Democrats looked set to vote against a House-passed temporary funding bill for a fifth time.
-
-The hard line taken by Democrats marks a rare moment of leverage for the opposition party in a period when Trump and his ultra-loyal Republicans control every branch of government and Trump himself is accused of seeking to amass authoritarian-like powers.
-
-...
-
-[Data](articles/5c60b861.json)
-
----
-
-### Bodies of couple hacked to death found in a house in Hungama
-
-*2025-10-07 05:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/113275/bodies-of-couple-hacked-to-death-found-in-a-house-in-hungama) · `en`
-
-The bodies of a couple hacked to death with sharp weapons have been discovered in a house in Wadigala, Hungama this morning (07), police stated.
-
-According to police, the deceased man and woman were both 28 years old and were residents of Ranna and Tissamaharama.
-
-The man had been reportedly staying at a friend’s house with his mistress when a group of about five individuals, with their faces covered, entered the house and attacked them with sharp weapons, police stated.
-
-The bodies remain at the scene under police protection for the magistrate’s inquest.
-
-◼️
-
-[Data](articles/5b58466d.json)
-
----
-
 ### Ukraine attack on Russia's oil station
 
 *2025-10-07 05:38:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்யாவின்-எண்ணெய்-நிலையம்-மீது-உக்ரைன்-தாக்குதல்/50-365857) · `ta`
@@ -576,24 +382,6 @@ The factory is one of the major factories that provide ammunition to Russian for
 [Data](articles/59901189.json)
 
 [Extended Data](ext_articles/59901189.ext.json)
-
----
-
-### Showers or thundershowers expected in most places of the island after 1pm
-
-*2025-10-07 05:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/113274/showers-or-thundershowers-expected-in-most-places-of-the-island-after-1pm) · `en`
-
-Showers or thundershowers will occur at most places of the island after 1.00 p.m. today (07), the Department of Meteorology said.
-
-Fairly heavy falls above 50 mm are likely at some places in the Northern, North-central, Eastern, Central and Uva provinces, the Met. Department added.
-
-Showers or thundershowers may occur in the Western province and in the Galle, Matara, Puttalam, Jaffna and Trincomalee districts in the morning.
-
-Meanwhile, the general public has been requested to take adequate precautions to minimize damages caused by lightning and temporary localized strong winds during thundershowers.
-
-◼️
-
-[Data](articles/dd228b9c.json)
 
 ---
 
@@ -1669,34 +1457,6 @@ India's Prime Minister Narendra Modi, Harini Amarasuriya and two former Prime mi
 
 ---
 
-### Mail should no longer be a burden to the treasury
-
-*2025-10-06 21:12:59* · [`adalk`](https://www.ada.lk/breaking_news/තැපෑල-තව-දුරටත්-භාණ්ඩාගාරයට-බරක්-විය-යුතු-නැහැ/11-418942) · `si`
-
-Awarding permanent appointment letters to 731 selected as the Post Assistants of the Department of Postal Department (SLMC) was held at Temple Trees today (06).
-
-After the year 2021, a permanent mailing recruitment was not carried out by the Postal Department of Postal Assistant.
-
-The departmental work with such a number of vacancies has emerged and the proceedings of Health and Mass Media Dr. Nalinda Jayatissa have been given to recruit 1000 vacancies as a solution.
-
-Accordingly, 731 of the above was selected for recruitment of the proper qualifications registered as substitute employees of the Department of Posts.
-
-The Ministry of Health and Mass Mediti has already taken action to recruit 269 other postvers.
-
-This postwititor also includes in grade III of non-primary techniques.
-
-The Minister of Health and Mass Media Dr. Nalinda Jayatissa said that the appointment of Rs.
-
-The cost of Rs. The Minister said.
-
-...
-
-[Data](articles/eda58564.json)
-
-[Extended Data](ext_articles/eda58564.ext.json)
-
----
-
 ### Muruthewela reservoir killed
 
 *2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/101-680804) · `si`
@@ -1998,5 +1758,263 @@ Field Marshal Sarath Fonseka says he should take strict action against former Pr
 [Data](articles/3d1aa7be.json)
 
 [Extended Data](ext_articles/3d1aa7be.ext.json)
+
+---
+
+### Ex-President Mahinda should face strict action: Field Marshal Sarath Fonseka
+
+*2025-10-06 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/113269/ex-president-mahinda-should-face-strict-action-field-marshal-sarath-fonseka) · `en`
+
+Former President Mahinda Rajapaksa should face strict action, says former Commander of the Sri Lanka Army Field Marshal Sarath Fonseka.
+
+...
+
+[Data](articles/d8e5c7eb.json)
+
+[Extended Data](ext_articles/d8e5c7eb.ext.json)
+
+---
+
+### It is difficult to solve some emergency problems-minister
+
+*2025-10-06 19:39:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-அவசரகால-பிரச்சினைகளுக்கு-தீர்வு-காண்பது-கடினம்-அமைச்சர்/175-365840) · `ta`
+
+Health Minister Dr. Nalinda Jayatissa today said that some laws and regulations have become a barrier to solving the current drug deficiency.
+
+He said this while addressing the inauguration of the Vibasi Buddhist Center at the Colombo National Hospital.
+
+The Minister of Health said that although some laws and regulations were preceding the British colonial period, most laws and regulations were interconnected.
+
+“Some may question whether these laws cannot be ignored when the government has two -thirds majority and administrative powers. Many of these laws and regulations are not recent, but they need to understand that they are pre -Era, ”he said.
+
+He said it was difficult to solve some emergency problems when taking a certain deadline, following some laws.
+
+◼️
+
+[Data](articles/68b4f932.json)
+
+[Extended Data](ext_articles/68b4f932.ext.json)
+
+---
+
+### Four Dead, Three Injured in Road Accidents Across Sri Lanka
+
+*2025-10-06 19:35:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/four-dead-three-injured-in-road-accidents-across-sri-lanka) · `en`
+
+COLOMBO (News 1st) : Four people have died and three others sustained injuries in separate road accidents across the island.In Guruluwela, Bingiriya, a 23-year-old woman died after a motorcycle veered off the road and hit a lamp post.The motorcyclist who sustained injuries was admitted to the hospital.In the Dandeniya, Hungama, a 51-year-old woman died when a three-wheeler collided with a bus.In Karumkali, Karainagar, a 34-year-old man died and another was injured after a motorcycle lost control and overturned.Meanwhile, in Pandarikulam on the Nedunkerni–Oddusuddan road, a 61-year-old man died when his motorcycle collided with a cow and subsequently a lorry.
+
+◼️
+
+[Data](articles/46b6fb2b.json)
+
+[Extended Data](ext_articles/46b6fb2b.ext.json)
+
+---
+
+### 36-year-old woman arrested following tragic Gampola accident
+
+*2025-10-06 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/113267/36-year-old-woman-arrested-following-tragic-gampola-accident) · `en`
+
+A tragic accident was reported earlier today (06) in Doluwa, Gampola, where three women lost their lives after being hit by a car.
+
+Police suspect that the cause of the accident was the reckless driving of a woman who was behind the wheel of the vehicle involved.
+
+The victims were among a group of four elderly women from Doluwa who were attempting to cross the road after attending a religious ceremony at around 1:30 p.m.
+
+Police stated a car approaching from behind struck all four women and then collided with a nearby lorry before coming to a stop.
+
+The impact trapped the women between the car and the lorry, causing severe injuries.
+
+Police confirmed that three of the women died at the scene, while the fourth woman was admitted to the Kandy National Hospital in critical condition.
+
+...
+
+[Data](articles/f0d602d7.json)
+
+[Extended Data](ext_articles/f0d602d7.ext.json)
+
+---
+
+### Aruni Shapiro Introduces Adam Smith To Sri Lanka’s Readers
+
+*2025-10-06 19:12:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/aruni-shapiro-introduces-adam-smith-to-sri-lankas-readers/) · `en`
+
+Aruni Shapiro, sociologist cum advocate for liberty, has published her 10th book introducing Adam Smith to Sri Lanka’s Sinhala readers under the title ‘Adam Smith and the Wealth of Nations’[1]. Her previous books have been on diverse themes like guide to mental health, translation of fictions, translation of rare but valuable books on economics, and biographies. In 2015, as I have explained in a previous article[2], she published the writings of the French economist and statesman in the early 19th century, Frederic Bastiat under the title Libertarian Economics. This was the first attempt to introduce Bastiat to Sri Lankan readers. All the copies numbering about 2000 were distributed freely to interested readers by the publisher, Sri Lanka Frederic Bastiat Society, of which Shapiro was one of the patrons. That shows the extent of her dedication for promoting sound and advanced economic literacy among the fellow Sri Lankans.
+
+...
+
+[Data](articles/e7e433a1.json)
+
+[Extended Data](ext_articles/e7e433a1.ext.json)
+
+---
+
+### "Kammanpila and Wimal have been talking like Luz for a long time"
+
+*2025-10-06 19:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பிலவும்-விமலும்-நீண்ட-காலமாக-லூசு-போல்-பேசி-வருகின்றனர்/175-365839) · `ta`
+
+Deputy Minister Mahinda Jayasinghe today said that politicians like Wimal Weerawansa and Udaya Kammanpila should be prepared to face the investigation if they continue to speak stupidly.
+
+“Wimal Weerawansa, Kammanpila and Opposition Committee thinks this is just like previous governments. They can no longer speak stupidly. If they speak stupidly, they should be prepared to face inquiries and inquiries into their reports, ”he said.
+
+Responding to a question of whether Wimal Weerawansa was invited to record the confession, Deputy Minister said this.
+
+“Kammanpila has been speaking for a long time. Wimal Weerawansa is talking stupidly. I would like to say that all the politicians who speak such a stupid politicians are ready to face investigations with evidence. ”
+
+◼️
+
+[Data](articles/3e2b079b.json)
+
+[Extended Data](ext_articles/3e2b079b.ext.json)
+
+---
+
+### "Kammanpila and Wimal have been talking like Luz for a long time"
+
+*2025-10-06 19:11:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்மன்பில-மற்றும்-விமல்-நீண்ட-காலமாக-லூசு-போல்-பேசி-வருகின்றனர்/175-365839) · `ta`
+
+Deputy Minister Mahinda Jayasinghe today said that politicians like Wimal Weerawansa and Udaya Kammanpila should be prepared to face the investigation if they continue to speak stupidly.
+
+“Wimal Weerawansa, Kammanpila and Opposition Committee thinks this is just like previous governments. They can no longer speak stupidly. If they speak stupidly, they should be prepared to face inquiries and inquiries into their reports, ”he said.
+
+Responding to a question of whether Wimal Weerawansa was invited to record the confession, Deputy Minister said this.
+
+“Kammanpila has been speaking for a long time. Wimal Weerawansa is talking stupidly. I would like to say that all the politicians who speak such a stupid politicians are ready to face investigations with evidence. ”
+
+◼️
+
+[Data](articles/d0d4801a.json)
+
+[Extended Data](ext_articles/d0d4801a.ext.json)
+
+---
+
+### More information on the fatal accident
+
+*2025-10-06 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215411) · `si`
+
+Three women who were sil in Poya Daya were reported from the Doluwa area in Gampola today (06).
+
+Police suspect that the car riding woman's unrespective driving accident is suspicious.
+
+The accident was four older women who were sillated in the temple of Gampola Doluwa Gampola Doluwa Gampola.
+
+These tragedies were faced at 1.30 pm while they were traveling to the toilets outside the temple to help them with the afternoon.
+
+A car behind the main road from the road, a car from the back had stopped at a nearby lorry.
+
+They were taken into the car and the lorry, who had been in the other.
+
+Three of the four women died on the spot, police said.
+
+The 50-year-old Ramananiwalage Paru Menike, 67 year old Mudinida Wijesuriya, a resident of 67-year-old Mudininiya Wijesuriya and Pallegedara Anulawathi resident of Gampola Gurukele.
+
+Police said she was a person who was trained.
+
+The woman had arrived in Gampola town with her husband and both children and the car was driven by her husband.
+
+...
+
+[Data](articles/953ed3ed.json)
+
+[Extended Data](ext_articles/953ed3ed.ext.json)
+
+---
+
+### Sri Lankans to Witness Supermoon Today
+
+*2025-10-06 19:02:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/06/sri-lankans-to-witness-supermoon-today) · `en`
+
+COLOMBO (News 1st): Sri Lankans will have a rare chance to witness a supermoon today. According to the Arthur C. Clarke Institute for Advanced Technology, the moon will appear larger and brighter than the usual full moon, approximately 7 percent bigger than normal.The institute also noted that the planet Saturn will be visible close to the full moon, providing a spectacular sight for skywatchers.Caution is advised near coastal areas as experts warn that the supermoon may cause higher tides along the coast compared to other days.Sky enthusiasts are encouraged to step outside after sunset to enjoy this celestial display.
+
+◼️
+
+[Data](articles/aede5154.json)
+
+[Extended Data](ext_articles/aede5154.ext.json)
+
+---
+
+### Israel deports 171 Gaza flotilla activists, including Greta Thunberg
+
+*2025-10-06 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/113266/israel-deports-171-gaza-flotilla-activists-including-greta-thunberg) · `en`
+
+Israel said it deported on Monday (Oct 6) campaigner Greta Thunberg and another 170 activists from an international flotilla it had prevented last week from delivering aid to Gaza, sending them to Greece and Slovakia.
+
+Earlier, Swiss and Spanish activists from the flotilla said they were subjected to inhumane conditions during their detention by Israeli forces. Monday’s expulsions brought to 341 the total number deported from 479 detained.
+
+Israel’s foreign ministry issued a statement, accompanied by photos of Thunberg at the airport, saying all participants’ legal rights had been upheld and the only violence involved an activist who bit a female medic at Israel’s Ketziot prison.
+
+An Israeli foreign ministry spokesperson said Thunberg, a Swedish campaigner primarily for climate change, boarded a plane at Ramon airbase in Israel’s Negev Desert. Israel has dismissed the flotilla as a publicity stunt.
+
+...
+
+[Data](articles/bc3c6462.json)
+
+[Extended Data](ext_articles/bc3c6462.ext.json)
+
+---
+
+### PM Harini to attend NDTV World Summit
+
+*2025-10-06 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/113265/pm-harini-to-attend-ndtv-world-summit) · `en`
+
+Prime Minister Dr. Harini Amarasuriya is scheduled to attend the NDTV World Summit 2025 along with Indian Prime Minister Narendra Modi.
+
+The NDTV World Summit 2025 will mark an extraordinary moment in global dialogue, bringing together some of the most influential voices at present.
+
+Among them are two serving Prime Ministers: Narendra Modi of India and Harini Amarasuriya of Sri Lanka; and two former Prime ministers: Rishi Sunak of the United Kingdom and Tony Abbott of Australia.
+
+The Summit is scheduled to be held on 17th and 18th October 2025 in New Delhi and the theme of the 2025 edition will be, ‘Edge of the Unknown: Risk. Resolve. Renewal’.
+
+◼️
+
+[Data](articles/b262e1a9.json)
+
+[Extended Data](ext_articles/b262e1a9.ext.json)
+
+---
+
+### Kammanpila, Wimal to appear before the inquiries - Deputy Minister of Labor Mahinda Jayasinghe
+
+*2025-10-06 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/227058) · `ta`
+
+Udaya Kammanpila and Wimal Weerawansa are trying to socialize the fake matters of affairs.. Deputy Minister of Labor Mahinda Jayasinghe said that they are acting in highlighting communalism.
+
+He said this in a statement to the media after a religious event in Colombo on Monday (6).
+
+Those who have lost their defeat without contesting the election during the ongoing general election today speak like patriots. This country is facing many crises by racism.
+
+Udaya Kammanpila and Wimal Weerawansa are still acting as the last government is in power. When trying to socialize fake matters, those issues should be investigated.
+
+They are trying to recapture the lost political influence by highlighting racism.. He said it could not be aimed at socializing the wrong issue among the people.
+
+◼️
+
+[Data](articles/787293ee.json)
+
+[Extended Data](ext_articles/787293ee.ext.json)
+
+---
+
+### Deficiencies due to deficit. 100 selling a blood leakage injection sheet to Rs 760
+
+*2025-10-06 18:10:24* · [`adalk`](https://www.ada.lk/breaking_news/එන්නත්-කටු-හිඟය-නිසා-රු--100-රුධිර-කාන්දුකරන-එන්නත්-කටුවක්-රු-760ට-විකුණයි/11-418941) · `si`
+
+Due to the absence of the blood leakage of the kidney patients, the vaccine sheet of Rs. 100 has been increased to Rs.
+
+Health and Mass Media Mass Media Minister Dr. Nalinda Jayatissa said that the relevant institution was obtained for the public hospitals to the government hospitals.
+
+The Minister said that due to the deficit deficit, the funds will be allocated to purchase the vaccines from the sector.
+
+The tenderer is also limited to the private sector and that the vaccine thoroughle is limited to the private sector and a shortage of apartments said.
+
+However, the issue will be eligible on the next 10th and that the issue will be eligible on the next 10th.
+
+◼️
+
+[Data](articles/f9a66cf1.json)
+
+[Extended Data](ext_articles/f9a66cf1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 21:38:51**
+As of **2025-10-07 21:21:02**
 
 ## Newspaper Stats
 
-*Scraped **81,980** Articles*
+*Scraped **81,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,831
+adalk | 7,829
 adaderanalk | 10,526
 tamilmirrorlk | 12,156
 virakesarilk | 13,512
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,978 (100.0%) of 81,980 articles have been extended.
+81,978 (100.0%) of 81,978 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -96,20 +96,6 @@ Top President of the Derana Media Network, Luxiri Wickremage, Executive Director
 [Data](articles/89eaa4a0.json)
 
 [Extended Data](ext_articles/89eaa4a0.ext.json)
-
----
-
-### ජුලම්පිටිය අමරේගේ මරණ දඩුවම ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරයි
-
-*2025-10-07 19:07:37* · [`adalk`](https://www.ada.lk/breaking_news/ජුලම්පිටිය-අමරේගේ-මරණ-දඩුවම-ශ්‍රේෂ්ඨාධිකරණය-තහවුරු-කරයි/11-418962) · `si`
-
-හම්බන්තොට, කටුවනේදී 2012 දී පුද්ගලයින් දෙදෙනෙකු ඝාතනය කර තවත් අයෙකුට තුවාල සිදු කිරීමේ චෝදනාවට වරදකරු වූ ගීගනගේ ගමගේ අමරසිරි නොහොත් ‘ජූලම්පිටියේ අමරේ’ ට තංගල්ල මහාධිකරණය විසින් නියම කරන ලද මරණ දඬුවම ශ්‍රේෂ්ඨාධිකරණය අද තහවුරු කළේය.
-
-විත්තිකරු විසින් ගොනු කරන ලද අභියාචනය ප්‍රතික්ෂේප කරමින්, 2012 ජුනි 15 වන දින කටුවන, හැඩිවත්තේ ලියනගේ රංජිත්ගේ නිවසේ පැවති ජනතා විමුක්ති පෙරමුණේ රැස්වීමකට වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කිරීම ඇතුළු චෝදනා පහක් යටතේ නියම කරන ලද දඬුවම ශ්‍රේෂ්ඨාධිකරණය තහවුරු කළේය.
-
-◼️
-
-[Data](articles/0e8854b6.json)
 
 ---
 
@@ -294,20 +280,6 @@ The government has so far paid 155 million rupees to 155 poor families who have 
 [Data](articles/13c9053f.json)
 
 [Extended Data](ext_articles/13c9053f.ext.json)
-
----
-
-### තහනම් උත්තේජකවලට එරෙහි පනතට කථානායක සහතිකය
-
-*2025-10-07 18:08:07* · [`adalk`](https://www.ada.lk/sports/තහනම්-උත්තේජකවලට-එරෙහි-පනතට-කථානායක-සහතිකය/9-418961) · `si`
-
-ක්‍රීඩාවල යේදීමේදී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති  (සංශෝධන) පනත්  කෙටුම්පත  සඳහා ගරු කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා  අද (07) සිය සහතිකය සටහන් කළේය.
-
-අද පෙ .ව 11.30 සිට ප.ව. 5.00 දක්වා ක්‍රීඩාවල යේදීමේ දී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති  (සංශෝධන ) පනත්   කෙටුම්පත දෙවැනිවර කියවීමේ  විවාදය  පැවැත්වුණු අතර,  ඡන්ද විමසීමකින් තොරව  එම පනත් කෙටුම්පත සංශෝධන රහිතව සම්මත විය. මෙම පනත් කෙටුම්පත පළමුවර කියවීම සඳහා 2025.09.12 දින  ගරු තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යතුමා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
-
-...
-
-[Data](articles/556ea330.json)
 
 ---
 
@@ -2050,5 +2022,51 @@ This has resulted in court proceedings in Mannar and the hearing of today's (07)
 [Data](articles/982db740.json)
 
 [Extended Data](ext_articles/982db740.ext.json)
+
+---
+
+### Secombums in a laboratory and 7 children hospitalized
+
+*2025-10-07 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215433) · `si`
+
+Seven school children have been hospitalized after a chemical in a school in Dambulla.
+
+There are five boys and two girls among the students who were hospitalized and two girls have been admitted to the Dambulla Base Hospital.
+
+Dambulla Assistant Superintendent of Police. S. K. Mr. Wickremanayake and Dambulla Police Inspector Sugath Bandara had reportedly visited the hospital to look into the students with the incident.
+
+Asst ASP. S. K. Wickramanayake said a number of children who were educated in the school had been hospitalized that the school lab was taken into hospital with the Last Holidays.
+
+Accordingly, there is a red to have a red tonegument with the chili powder on the tongue.
+
+The ASP, however, said the investigations have revealed that the students' mouth is a chemical used to identify iron.
+
+The children are receiving treatment and forward investigations are being treated.
+
+◼️
+
+[Data](articles/0664ee96.json)
+
+[Extended Data](ext_articles/0664ee96.ext.json)
+
+---
+
+### World Bank warns US tariffs on Indian exports to slow South Asia growth next year
+
+*2025-10-07 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/113299/world-bank-warns-us-tariffs-on-indian-exports-to-slow-south-asia-growth-next-year) · `en`
+
+The World Bank on Tuesday said higher tariffs on Indian goods exported to the U.S. will drag the South Asian growth rate in 2026, even as the current year remains shielded by government spending.
+
+The World Bank said growth in South Asia is expected to slow sharply to 5.8 per cent in 2026 from its projection of 6.6 per cent for 2025. Its forecast for the region comprises India, Bangladesh, Sri Lanka, Nepal, Bhutan, and the Maldives.
+
+“For 2026, the forecast has been downgraded, as some of these effects unwind and India continues to face higher-than-expected tariffs on goods exports to the United States,” the World Bank said in its report.
+
+The World Bank has raised its forecast for India’s growth in the current fiscal year ending March 2026 to 6.5 per cent from 6.3 per cent, while trimming its projection for the next fiscal year to 6.3 per cent from 6.5 per cent.
+
+...
+
+[Data](articles/780e369b.json)
+
+[Extended Data](ext_articles/780e369b.ext.json)
 
 ---

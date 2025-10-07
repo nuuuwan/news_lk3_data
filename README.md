@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 19:23:31**
+As of **2025-10-07 19:14:21**
 
 ## Newspaper Stats
 
-*Scraped **81,970** Articles*
+*Scraped **81,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,8 +18,8 @@ economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,829
-adaderanalk | 10,526
-tamilmirrorlk | 12,156
+adaderanalk | 10,520
+tamilmirrorlk | 12,154
 virakesarilk | 13,512
 adaderanasinhalalk | 14,050
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,939 (100.0%) of 81,970 articles have been extended.
+81,939 (100.0%) of 81,962 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,22 +69,6 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### 323 கொள்கலன்கள் சர்ச்சை;குழு நியமனம்
-
-*2025-10-07 18:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/323-கொள்கலன்கள்-சர்ச்சை-குழு-நியமனம்/175-365913) · `ta`
-
-கொழும்பு துறைமுகத்தில் இருந்து 323 கொள்கலன்கள் கட்டாய ஆய்வுக்கு உட்படுத்தப்படாமல், நிறுவப்பட்ட சுங்க நடைமுறைகளை மீறி விடுவிக்கப்பட்ட சர்ச்சைக்குரிய வழக்கை விசாரிக்க பாராளுமன்றம் ஒரு தேர்வுக் குழுவை நியமிக்க உள்ளது.
-
-பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்ட தீர்மானம், ஒழுங்கற்ற கொள்கலன்களை விடுவிப்பது "தேசிய பாதுகாப்பு, வருவாய் வசூல் மற்றும் பொது பாதுகாப்புக்கு கடுமையான ஆபத்துகளை" ஏற்படுத்துகிறது என்று குறிப்பிடுகிறது, இது ஜனாதிபதியின் அறிவுறுத்தலின் பேரில் கருவூல செயலாளரால் நியமிக்கப்பட்ட விசாரணைக் குழுவின் அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
-
-சுங்க விதிமுறைகளை மீறியதாகக் கூறப்படும் குற்றச்சாட்டை எடுத்துக்காட்டும் ஊடக அறிக்கைகளைத் தொடர்ந்து விசாரணை நடத்தப்பட்டது.
-
-...
-
-[Data](articles/a09753eb.json)
-
----
-
 ### රාජ්‍ය ව්‍යාපාරවලින් ලද රු. මිලියන 757.4ක ලාභාංශ භාණ්ඩාගාරයට භාරදෙයි
 
 *2025-10-07 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215443) · `si`
@@ -102,40 +86,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/30981353.json)
-
----
-
-### பந்தயம் மற்றும் சூதாட்ட வரி மீதான வர்த்தமானி வெளியீடு
-
-*2025-10-07 18:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தயம்-மற்றும்-சூதாட்ட-வரி-மீதான-வர்த்தமானி-வெளியீடு/175-365912) · `ta`
-
-பந்தயம் மற்றும் சூதாட்ட வரி (திருத்தம்) மீதான வர்த்தமானி 2025 ஒக்டோபர் 01 முதல் அமலுக்கு வரும்படியாக வெளியிடப்பட்டுள்ளது.
-
-அதன்படி, சூதாட்ட வணிகங்களுக்கான மொத்த வசூல் மீதான வரி, ஒரு சூதாட்டக்காரர் அல்லது சூதாட்ட இயக்குநரின் வணிகத்தை நடத்தும் அனைத்து நபர்களும் உட்பட, 15% இலிருந்து 18% ஆக அதிகரிக்கப்பட்டுள்ளது.
-
-மேலும், இலங்கை குடிமக்கள் செலுத்த வேண்டிய கசினோ நுழைவு கட்டணம் 100 அமெரிக்க டொலர்களாக உயர்த்தப்பட்டுள்ளது, இது 100% அதிகரிப்பாகும்.
-
-◼️
-
-[Data](articles/2d75cb51.json)
-
----
-
-### Opposition MPs submit motion seeking probe into release of 323 containers
-
-*2025-10-07 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113308/opposition-mps-submit-motion-seeking-probe-into-release-of-323-containers) · `en`
-
-A motion seeking to appoint a special parliamentary committee to investigate the release of 323 shipping containers from the Colombo Port without mandatory physical inspection has been submitted to the Speaker of Parliament.
-
-A group of opposition MPs had submitted the motion to the Speaker Jagath Wickramaratne today.
-
-Chief Opposition Whip Gayantha Karunathilaka, MPs Ranjith Madduma Bandara, Harshana Rajakaruna, J.C. Alawathuwala, Dr. Kavinda Jayawardena, and several other members of the Samagi Jana Balawegaya (SJB) were present on this occasion.
-
-In addition, Sri Lanka Podujana Peramuna (SLPP) MP D. V. Chanaka was also present.
-
-◼️
-
-[Data](articles/d330da8c.json)
 
 ---
 
@@ -242,28 +192,6 @@ Accordingly, the Convention Amendment Amendments to the Struggle to Take Strain 
 [Data](articles/3f38fcb1.json)
 
 [Extended Data](ext_articles/3f38fcb1.ext.json)
-
----
-
-### Earthquake of magnitude 6.6 shakes Lae city in Papua New Guinea
-
-*2025-10-07 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113307/earthquake-of-magnitude-66-shakes-lae-city-in-papua-new-guinea) · `en`
-
-An earthquake of magnitude 6.6 struck near Lae, the second largest city in Papua New Guinea, on Tuesday, the U.S. Geological Survey (USGS) said.
-
-City police official Mildred Ongige told Reuters by telephone that a “very huge” earthquake was felt. “It was a few minutes ago so we have no further details of damage but we are concerned,” she added.
-
-A tsunami warning was not issued after the quake, which struck at a depth of 10 km, according to the Pacific Tsunami Warning Center.
-
-The quake’s epicentre was 26 km (~16 miles) from the city of Lae, which has a population of over 76,000 and is located in the country’s Morobe province, according to USGS.
-
-The quake was initially reported at a magnitude of 6.8 by the German Research Centre for Geosciences (GFZ) before the agency revised it to 6.6.
-
-Papua New Guinea straddles the Pacific’s “Ring of Fire”, a region known for frequent earthquakes.
-
-...
-
-[Data](articles/34c5f167.json)
 
 ---
 
@@ -382,24 +310,6 @@ The President pointed out that the government had identified the need to exceed 
 ...
 
 [Data](articles/1a4a3f49.json)
-
----
-
-### President meets IMF delegation to discuss Sri Lanka’s fifth review
-
-*2025-10-07 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113306/president-meets-imf-delegation-to-discuss-sri-lankas-fifth-review) · `en`
-
-President Anura Kumara Dissanayake met with the delegation of the International Monetary Fund (IMF) at the Presidential Secretariat this morning to discuss the fifth review of the IMF’s Extended Fund Facility (EFF) program for Sri Lanka, according to the President’s Office.
-
-The discussion was held on the occasion of the mid-term phase of the fifth review, which is being conducted before the release of the sixth tranche of the IMF assistance in Sri Lanka’s debt restructuring process.
-
-During the meeting, President Dissanayake said that the government’s main objective is to rescue the country from economic bankruptcy and take it towards development, and that the government has a strategic plan for that.
-
-The President also stated that he greatly appreciates the support provided by the IMF in the process of making that program a success, the President’s Media Division reported.
-
-◼️
-
-[Data](articles/fc1955d9.json)
 
 ---
 
@@ -623,22 +533,6 @@ G.G.. The Supreme Court upheld the death penalty by dismissing the special appea
 
 ---
 
-### CIABOC launches new case tracking system to enhance transparency and efficiency
-
-*2025-10-07 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113305/ciaboc-launches-new-case-tracking-system-to-enhance-transparency-and-efficiency) · `en`
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) marked a major step in institutional modernization with the launch of its new Case Tracking System at the CIABOC Auditorium today (07).
-
-The ceremony was graced by Azusa Kubota, Resident Representative of the United Nations Development Programme (UNDP); Kamoshida Naoaki, Minister at the Embassy of Japan; Professor Chathura De Silva, senior IT expert and consultant to UNDP; members of the Tek-Greeks development team; Brother Commissioners, the Director General, and senior officials of the Commission, according to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Justice Neil Iddawala, Chairman of CIABOC, delivering the keynote address, described the launch as “a transformative step toward greater efficiency, transparency, and accountability— ensuring better service delivery to the people of Sri Lanka.”
-
-...
-
-[Data](articles/40527087.json)
-
----
-
 ### No Legal Block to Providing Vehicles and Protection to Ex-Presidents
 
 *2025-10-07 16:57:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/no-legal-block-to-providing-vehicles-and-protection-to-ex-presidents) · `en`
@@ -856,22 +750,6 @@ One of its training programs will be held at Hector Kobbekaduwa Agrarian Researc
 ...
 
 [Data](articles/331df42d.json)
-
----
-
-### Chinese community in SL makes donation in support of Na Uyana Monastery following tragic accident
-
-*2025-10-07 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/113304/chinese-community-in-sl-makes-donation-in-support-of-na-uyana-monastery-following-tragic-accident) · `en`
-
-In the wake of the tragic accident at the Na Uyana Monastery in Malsiripura, Kurunegala District, the Chinese Community in Sri Lanka has extended a heartfelt gesture of solidarity and compassion toward the victims and the monastic community.
-
-On the night of September 25, 2025, a devastating accident occurred when one of the supporting cables of the monastery’s cable car snapped, sending it plunging down a steep slope. The incident claimed the lives of seven Buddhist monks, including Russian, Romanian, and Indian nationals, and left six others seriously injured.
-
-The tragedy deeply moved Buddhists across Sri Lanka and the international community.
-
-...
-
-[Data](articles/1f381932.json)
 
 ---
 
@@ -1228,30 +1106,6 @@ Local media reports suggest that the suspect was shot dead as expected to lose t
 ...
 
 [Data](articles/c1bc1d14.json)
-
----
-
-### Three scientists win Nobel Prize in physics for work on quantum mechanics
-
-*2025-10-07 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/113303/three-scientists-win-nobel-prize-in-physics-for-work-on-quantum-mechanics) · `en`
-
-Three scientists at American universities won the 2025 Nobel Prize in Physics for their work on quantum mechanics.
-
-The winners are John Clarke, Michel H. Devoret, and John M. Martinis.
-
-The Nobel Prizes were created by the Swedish inventor Alfred Nobel, who died in 1896. It comes with a cash award of 11 million Swedish kroner, which is more than €997,000.
-
-From 1901 to 2024, 118 Nobel Prizes were awarded in physics. Five of the 227 physics winners have been women, including Marie Curie in 1903.
-
-Last year’s physics award went to physicist John Hopfield and computer scientist Geoffrey Hinton, who is considered one of the godfathers of artificial intelligence (AI).
-
-Their discoveries in the 1980s enabled machine learning with artificial neural networks and paved the way for modern breakthroughs in AI.
-
-The rest of the 2025 Nobel Prizes, awarded for advancements in chemistry, literature, and toward peace, will be announced throughout the week. The economics prize will be granted on 13 October.
-
-...
-
-[Data](articles/880f7e95.json)
 
 ---
 
@@ -1972,5 +1826,187 @@ At the same time, lawyers who have faced land fraudulent allegations are demandi
 [Data](articles/ab8f8101.json)
 
 [Extended Data](ext_articles/ab8f8101.ext.json)
+
+---
+
+### Yall. 'O Positive' Blood in Teaching
+
+*2025-10-07 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/227105) · `ta`
+
+The 'O Positive' blood variety at the Jaffna Teaching Hospital is currently undergoing a severe shortage of blood.
+
+The Blood Bank of the Jaffna Teaching Hospital was reported to have been reported to have a shortage of 'O Positive' blood type a few days ago.
+
+Therefore, the bloodbath of the Jaffna Teaching Hospital has requested that the 'O Positive' type of bloodshed and visited the Jaffna Teaching Hospital directly and engage in a bloodbath.
+
+◼️
+
+[Data](articles/a79a3141.json)
+
+[Extended Data](ext_articles/a79a3141.ext.json)
+
+---
+
+### The death of a boy who was injured in swimming lake
+
+*2025-10-07 13:03:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீச்சல்-தடாகத்தில்-காயமடைந்த-சிறுவன்-மரணம்/175-365888) · `ta`
+
+An eight -year -old boy, who was injured in an incident at the Colombo Swimming Club, died after being treated at a private hospital, hospital sources said.
+
+The boy, who was identified as Master Orlan, fell into a swimming lake during a private birthday party at the Colombo club.
+
+He was given life -saving equipment for several days as he suffered severe injuries in the brain.
+
+At the time of the incident, his father Prasad Panagoda had lodged a complaint with the police that there was no policeman in the pool, claiming that there was no policeman in the pool.
+
+In a statement to its members, the Colombo Swimming Club said that a life -saving guard rescued the child and provided emergency assistance with the help of one of the guests, a doctor.. The club further stated that it was fully cooperating with the police investigations.
+
+◼️
+
+[Data](articles/01617d6e.json)
+
+[Extended Data](ext_articles/01617d6e.ext.json)
+
+---
+
+### Chinese citizen arrested in Bambalapitiya
+
+*2025-10-07 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227107) · `ta`
+
+The Bambalapitiya Police Criminal Investigation Department (CID) rallied on Monday night (06) a nightclub that illegally sold liquor without permission on a full moon holiday.
+
+The Bambalapitiya Police Criminal Investigation Division (CID) has received information that liquor is being sold at a full moon vacation at a nightclub at Bambalapitiya - Galle Road.
+
+Later, the police have seized liquor bottles and illegal cigarettes from the night's extravagant hotel.
+
+Subsequently, the Chinese citizen of the night's extravagant hotel has been arrested by the police.
+
+Police have taken steps to produce the arrested Chinese citizen in court on Tuesday (07).
+
+Further investigations are being carried out by the Bambalapitiya Police Criminal Investigation Division.
+
+◼️
+
+[Data](articles/6731540d.json)
+
+[Extended Data](ext_articles/6731540d.ext.json)
+
+---
+
+### Abnormal
+
+*2025-10-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆதிவாசி-அகராதி-வெளியீடு/76-365887) · `ta`
+
+Uva Provincial Council organized by the Uva Navodaya Cultural Arts Festival recently held the launch of the Adivasi Dictionary at the Uva Provincial Library Auditorium.
+
+Governor of Uva Province Kapila Jayasekara, Uva Provincial Chief Secretary Anusha Gokula and Avaurige Wannila Attan were also present.
+
+◼️
+
+[Data](articles/70ea790a.json)
+
+[Extended Data](ext_articles/70ea790a.ext.json)
+
+---
+
+### The proposal to the Human Rights Council to Sri Lanka and Sri Lanka's intense response
+
+*2025-10-07 12:54:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3vke41k14o) · `si`
+
+The proposal to the Human Rights Council to Sri Lanka and Sri Lanka's intense response
+
+A proposal on Sri Lanka in the 60th session of the UN Human Rights Council was presented.
+
+The Grossen Sinhala translation of the proposal on Sri Lanka under the Title of Sri Lanka, the Promote Sri Lanka's Reconciliation and Human Rights, "says the Sinhala translation of Sri Lanka.
+
+Promotion of goals and principles of reconciliation, accountability and human rights, United Nations Charter
+
+The Universal Declaration of Human Rights and the relevant international human rights agreements are guided.
+
+Recalling the 57/1 proposal on October 9, 2024 on reconciliation, accountability and human rights in Sri Lanka
+
+Return to the sovereignism, independence, unity, and territorial integrity of Sri Lanka
+
+Skip Podcast Promotion Contoion and Continue Reading Our BBC News Sinhala Business Whatsapp Channel Following.
+
+...
+
+[Data](articles/0384159c.json)
+
+[Extended Data](ext_articles/0384159c.ext.json)
+
+---
+
+### US ends universal Covid-19 vaccine recommendation, leaves decision to patients
+
+*2025-10-07 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/113297/us-ends-universal-covid-19-vaccine-recommendation-leaves-decision-to-patients) · `en`
+
+The Centers for Disease Control and Prevention (CDC) has implemented recommendations from a newly appointed panel of vaccine advisers. The agency will no longer recommend Covid-19 vaccinations for all Americans, leaving the decision to individual patients.
+
+The agency announced on Oct. 6 that it had implemented recommendations made last month by advisers appointed by US Health Secretary Robert F. Kennedy Jr, reported news agency Associated Press.
+
+Previously, US health officials, following advice from infectious disease experts, had recommended annual Covid-19 booster shots for everyone aged six months and older.
+
+...
+
+[Data](articles/d9c7990f.json)
+
+[Extended Data](ext_articles/d9c7990f.ext.json)
+
+---
+
+### The main suspect in the Hungama double murder surrenders to the police
+
+*2025-10-07 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215432) · `si`
+
+The main suspect in assassinating a couple has surrendered to the murder of a couple in a house at a house in the Wadigala area in Hungama.
+
+The double murder had taken place at around 12.45 am today at around 12.45 am today (07) at Wadigala area in Hungama.
+
+According to the police, a group of five people had declined in the house when the house arrived outside the toilet.
+
+Later, a couple in a room at home were brutally assaulted by sharp weapons.
+
+The police said that the head of the victim had been attacked by the trunk.
+
+The victim was a 28 year old man named Pasindu Heshan, a woman who claims to be the murdered casual wife was 28 year old Imasha Madushiani.
+
+The deceased is a person who is involved in two previous person's murders.
+
+Police say the victim has been killed in the past year.
+
+The victim had been arrested by the police on a warrant on Monday yesterday (06).
+
+He had tried to kill him earlier and he had survived serious injuries.
+
+...
+
+[Data](articles/0c355377.json)
+
+[Extended Data](ext_articles/0c355377.ext.json)
+
+---
+
+### Bomb blast on the railway in Pakistan
+
+*2025-10-07 12:45:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-தண்டவாளத்தில்-குண்டு-வெடிப்பு/50-365885) · `ta`
+
+Baloch Liberation Army militants are frequent attacks in Pakistan's Balochistan province.
+
+Recently attacked the Jafar Express train. Last March, 400 passengers were hijacked by the Jafar Express train.
+
+The Jafar Express train has been attacked today. The train was heading to Quetta.
+
+The bomb exploded on the railway when the train was traveling in the Sultankot area near the Indus-Balusistan border.
+
+Thus the 6 compartments of the train were derailed. Many of them were injured.
+
+Immediately rescue teams and security forces went to the scene and engaged in rescue operations. The injured were rescued and sent to the hospital.
+
+◼️
+
+[Data](articles/5d02cf2b.json)
+
+[Extended Data](ext_articles/5d02cf2b.ext.json)
 
 ---

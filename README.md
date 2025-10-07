@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 12:14:14**
+As of **2025-10-07 12:24:40**
 
 ## Newspaper Stats
 
-*Scraped **81,797** Articles*
+*Scraped **81,802** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 633
+newsfirstlk | 634
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
@@ -19,19 +19,105 @@ islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,819
 adaderanalk | 10,505
-tamilmirrorlk | 12,132
+tamilmirrorlk | 12,134
 virakesarilk | 13,467
-adaderanasinhalalk | 14,035
+adaderanasinhalalk | 14,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,796 (100.0%) of 81,797 articles have been extended.
+81,797 (100.0%) of 81,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
+
+### හිටපු ජනාපතිවරුන්ගේ හිමිකම් පනතට ආරක්ෂාව අදාළ නෑ -ඇමති විජේපාල
+
+*2025-10-07 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215430) · `si`
+
+හිටපු ජනාධිපතිවරුන්ගේ හිමිකම් පනත අහෝසි කළ ද, ඒ යටතට ඔවුන්ගේ ආරක්ෂාව සඳහා අවශ්‍ය කටයුතු නොගැනෙන බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පැවසීය.
+
+ඇතැම් හිටපු ජනාධිපතිවරුන් ඔවුන්ගේ ආරක්ෂාව සඳහා භාවිතා කළ වාහන ද මේ වනවිට භාර දී ඇති අතර හිමිකම් අහෝසි කිරීමේ පනතට එය අදාළ නොවන බවද අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව තහවුරු කිරීම රජයේ වගකීමක් වන බැවින් ආරක්ෂාවට අදාළ වාහන ඇතුළු අනෙකුත් දේ සම්බන්ධයෙන් යම් ඉල්ලීමක් සිදුකරන්නේ නම් ඒ වෙනුවෙන් කටයුතු කිරීමට සුදානම් බව ද අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+◼️
+
+[Data](articles/0101d8a9.json)
+
+---
+
+### Sri Lanka’s Economy Grows, But Poverty Persists : World Bank Calls for Reform
+
+*2025-10-07 11:57:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka%e2%80%99s-economy-grows-but-poverty-persists-world-bank-calls-for-reform) · `en`
+
+COLOMBO (News 1st); Sri Lanka’s economy is showing signs of resilience, with a projected growth rate of 4.6% in 2025, according to the World Bank’s latest Sri Lanka Development Update, titled Better Spending for All.
+
+However, the report warns that the recovery remains incomplete and uneven, with growth still below pre-crisis levels and poverty significantly elevated.
+
+The report highlights that while inflation is low and external inflows are strong, food prices remain high, foreign reserves are growing slowly, and poverty levels are still double what they were in 2019.
+
+Many households continue to struggle, with 10% of the population living just above the poverty line, and malnutrition persisting among vulnerable groups.
+
+...
+
+[Data](articles/e1228de5.json)
+
+---
+
+### පාසල් අතර අසමානතාව අවම කිරීම අධ්‍යාපන ප්‍රතිසංස්කරණයේ මූලික අරමුණක් - අගමැති
+
+*2025-10-07 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215429) · `si`
+
+පාසල් අතර අසමානතාව අවමකර, දරුවන්ට ලැබීය යුතු අධ්‍යාපන අත්දැකීම්වල ගුණාත්මකභාවය ඉහළ දැමීම මෙම අධ්‍යාපන ප්‍රතිසංස්කරණයේ මූලික අරමුණ බව අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+
+පාසල් අතර අසමානතාව හේතුවෙන් ශ්‍රී ලංකාවේ අධ්‍යාපන ක්ෂේත්‍රයේ පාසල් පද්ධතිය තුළ දශක ගණනාවක් තිස්සේ මුහුණ දීමට සිදුව ඇති විවිධ ගැටලු නිර්මාණය වී ඇති අතර බරපතල ගැටලු රාශියකට මූලික වී ඇති බවද අග්‍රාමාත්‍යවරිය පෙන්වා දෙයි.
+
+අධ්‍යාපන අමාත්‍යාංශයේ පැවති උත්සවයක දී අග්‍රාමාත්‍යවරිය මේ බව ප්‍රකාශ කළාය.
+
+තරගකාරී අධ්‍යාපන රටාව තුළ  පාසල් දරුවන්ගේ ඉගෙනුම්-ඉගැන්වීම් ක්‍රියාවලිය තුළ ඔවුන් මුහුණ දෙන පීඩනය, ගුරුවරුන් මුහුණ දෙන පීඩනය, විදුහල්පතිවරුන් මුහුණ පාන ගැටලු මේ සියල්ලටම මුලික වී ඇත්තේ පාසල් අතර ඇති අසමානතාවය බවත්, එය මගහැරීම සඳහා වර්තමාන රජය විශාල උත්සාහයක් දරණ බවත් ඇය වැඩිදුරටත් පැවසීය.
+
+...
+
+[Data](articles/532f5e92.json)
+
+---
+
+### டயலிசிஸ் ஊசிப் பற்றாக்குறைக்குத் தீர்வு
+
+*2025-10-07 11:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயலிசிஸ்-ஊசிப்-பற்றாக்குறைக்குத்-தீர்வு/175-365876) · `ta`
+
+இலங்கையில் டயலிசிஸ் ஊசிகளுக்கு பற்றாக்குறை ஏற்பட்டுள்ளதை ஒப்புக்கொண்ட சுகாதார அமைச்சர் நளிந்த ஜெயதிஸ்ஸ, அரசு மருத்துவமனைகள் உள்ளூரில் கொள்முதல்களைச் செய்வதற்கான ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் சாமர சம்பத் தசநாயக்க எழுப்பிய கேள்விக்கு பதிலளித்த அமைச்சர், இதற்காக மருத்துவமனைகளுக்கு நிதி ஒதுக்கப்பட்டுள்ளதாகக் கூறினார்.
+
+◼️
+
+[Data](articles/3d51aca2.json)
+
+---
+
+### யாழ். தனியார் விடுதிகளில் பண மோசடி
+
+*2025-10-07 11:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-தனியார்-விடுதிகளில்-பண-மோசடி/175-365875) · `ta`
+
+யாழ்ப்பாணத்தில் உள்ள பிரபல தனியார் விடுதிகளின் பெயர்களை பாவித்து கும்பல் ஒன்று பாரிய பண மோசடிகளில் ஈடுபட்டு வருவதாக தகவல்கள் கிடைக்கப்பெற்றுள்ளன.
+
+சமூக வலைத்தளங்களான வாட்ஸ் அப் , வைபர், பேஸ்புக் மற்றும் இணைய தளங்கள் ஊடாக யாழ்ப்பாணத்தில் உள்ள பிரபல தனியார் விடுதிகளில் பெண்களுடன் உல்லாசமாக இருக்க முடியும் எனவும் , அதற்கான 10 ஆயிரம் ரூபாய் முதல் 20 ஆயிரம் ரூபாய் வரையில் செலவாகும்.
+
+என சில பெண்களின் புகைப்படங்களில் ,அவர்களின் முகங்கள் மறைக்கப்பட்ட புகைப் படங்களை விளம்பரமாக பிரசுரிக்கின்றனர்.  அவற்றை நம்பி சில அந்த விளம்பரங்களில் உள்ள தொலைபேசி இலக்கங்களுக்கு தொடர்பு கொண்டு விவரங்களை கேட்கும் போது, குறித்த தனியார் விடுதியில் பெண் உள்ளதாக கூறி பணத்தை வைப்பில் விடுமாறு கூறி பணத்தை பெற்றுக் கொள்கின்றனர்.
+
+பணத்தினை வழங்கியவர்கள் அந்த விடுதிகளில் சென்ற பின்னரே தாம் ஏமாற்றப்பட்ட விடயம் அறிந்து அந்த தொலைபேசி இலக்கம் செயலிழந்து காணப்படுகிறது.
+
+இது தொடர்பில் பாதிக்கப்பட்டவர்கள் பொலிஸ் நிலையங்களில் முறைப்பாடு செய்ய தயங்குவதால் , தொடர்ந்து குறித்த கும்பல் பண மோசடிகளில் ஈடுபட்டு வருகின்றனர்.
+
+...
+
+[Data](articles/ec784bc8.json)
+
+---
 
 ### Three New Rehabilitation and Treatment Centers to Open Before Year-End
 
@@ -42,6 +128,8 @@ COLOMBO (News 1st): The National Dangerous Drugs Control Board has announced pla
 ◼️
 
 [Data](articles/5f7b8698.json)
+
+[Extended Data](ext_articles/5f7b8698.ext.json)
 
 ---
 
@@ -1888,111 +1976,5 @@ A graduate of AOD’s BA (Hons) Graphics and Visual Communication Design program
 [Data](articles/f000266a.json)
 
 [Extended Data](ext_articles/f000266a.ext.json)
-
----
-
-### Signature partners CH17 Loyalty to elevate style with rewards
-
-*2025-10-06 23:00:38* · [`dailyftlk`](https://www.ft.lk/business/Signature-partners-CH17-Loyalty-to-elevate-style-with-rewards/34-782624) · `en`
-
-Signature Director Amjad Hameed Marikkar (right) displaying partnership card with CH17 Loyalty CEO Jumar Preena
-
-Loyalty and rewards management platform CH17 Loyalty, has announced its partnership with menswear brand – Signature. CH17 Loyalty CEO Jumar Preena said this collaboration marks yet another step forward in CH17’s mission to deliver unmatched privileges and lifestyle experiences to its growing base of discerning members.
-
-CH17 Loyalty is built on the principle of understanding customer behaviour and aligning rewards with real needs. Menswear remains a high-demand category within Sri Lanka’s retail landscape, particularly among young professionals, executives, and the aspirational middle class.
-
-...
-
-[Data](articles/b20ffc6e.json)
-
-[Extended Data](ext_articles/b20ffc6e.ext.json)
-
----
-
-### New role for singer Alston Koch
-
-*2025-10-06 22:46:00* · [`islandlk`](http://island.lk/new-role-for-singer-alston-koch/) · `en`
-
-Singer Alston Koch, of ‘Disco Lady’ fame, is in the news again, in a big way, but not as a performer!
-
-Reports coming my way indicate that Alston has been appointed Envoy for the Commonwealth Union to Australia and the Pacific Region, and that the appointment came into effect on 03rd October, 2025.
-
-Alston, they say, will represent the Commonwealth Union and promote its objectives in line with the People’s Charter of the Commonwealth, focusing on strengthening regional collaboration, advancing the Commonwealth Union’s mission of inclusivity and sustainability, and fostering greater engagement with communities across Australia and the Pacific.
-
-Alongside his Envoy responsibilities, the singer, I’m told, will also serve as a Consultant to the Commonwealth Union, providing advisory services and acting as a marketing consultant to enhance the Union’s outreach and global presence.
-
-...
-
-[Data](articles/89f1ab19.json)
-
-[Extended Data](ext_articles/89f1ab19.ext.json)
-
----
-
-### Bouquets for Michael de Silva
-
-*2025-10-06 22:43:00* · [`islandlk`](http://island.lk/bouquets-for-michael-de-silva/) · `en`
-
-Ex-Purple Rain Michael de Silva certainly had many eyes focused on him when he performed in Colombo, last month, with a band from Switzerland.
-
-When we highlighted the fact that Michael will be doing his thing in Colombo, even before his arrival, he had plenty of bouquets coming his way, and these are some of the comments that appeared in social media:
-
-One of the best talented musicians – a legend, indeed. All the very best Michael de Silva.
-
-Looking the same Mr. Handsome. Will come to listen to you sing.
-
-A great musician and, most importantly, a great human being.
-
-Congratulations Michael. You are a great legend and we love you.
-
-The Timeless Bloom: How Sri Lanka’s Horton Plains awaken every 12 Years
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/7d79a9ab.json)
-
-[Extended Data](ext_articles/7d79a9ab.ext.json)
-
----
-
-### Vijay Deverakonda
-
-*2025-10-06 22:36:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/விபத்தில்-சிக்கினார்-விஜய்-தேவரகொண்டா/54-365856) · `ta`
-
-Actor Vijay Deverakonda has been hit by an accident in Telangana.
-
-Vijay Deverakonda, one of the leading actors in Telugu cinema, has a lot of fans.
-
-There are reports that she and actress Rashmika Mandana have a romantic relationship and a recent wedding engagement.
-
-In the meantime, Vijay Deverakonda was involved in a car accident in Undavalli, Telangana.
-
-A truck carrying the goats suddenly hit the brake, and the car and another vehicle that went to Vijay Deverakonda were reportedly crashed.
-
-Vijay Deverakonda seems to have survived the wounds without injuries as the car was damaged.
-
-◼️
-
-[Data](articles/bc7b5d68.json)
-
-[Extended Data](ext_articles/bc7b5d68.ext.json)
-
----
-
-### Retail Industry Technology Trends 2025 – Kandy Edition introduces next-gen AI and smart retail solutions
-
-*2025-10-06 22:19:00* · [`islandlk`](http://island.lk/retail-industry-technology-trends-2025-kandy-edition-introduces-next-gen-ai-and-smart-retail-solutions/) · `en`
-
-Retail Information Technologies (RIT), a subsidiary of Sumathi Holdings, recently hosted the high-profile ‘Retail Industry Technology Trends 2025 – Kandy Edition’, bringing together Sri Lanka’s foremost retail and technology leaders. At the event, RIT unveiled its advanced software portfolio, specifically designed to equip the nation’s retail sector with future-ready solutions.
-
-...
-
-[Data](articles/c366340f.json)
-
-[Extended Data](ext_articles/c366340f.ext.json)
 
 ---

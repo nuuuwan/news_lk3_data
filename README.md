@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 11:40:53**
+As of **2025-10-07 12:14:14**
 
 ## Newspaper Stats
 
-*Scraped **81,787** Articles*
+*Scraped **81,797** Articles*
 
 newspaper | n
 --- | ---:
-newsfirstlk | 632
+newsfirstlk | 633
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 909
+lankadeepalk | 912
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
-adalk | 7,813
+adalk | 7,819
 adaderanalk | 10,505
 tamilmirrorlk | 12,132
 virakesarilk | 13,467
@@ -27,29 +27,81 @@ adaderanasinhalalk | 14,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,781 (100.0%) of 81,787 articles have been extended.
+81,796 (100.0%) of 81,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### මහින්ද බලන්න අමරවීර යයි
+### Three New Rehabilitation and Treatment Centers to Open Before Year-End
+
+*2025-10-07 11:31:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/three-new-rehabilitation-and-treatment-centers-to-open-before-year-end) · `en`
+
+COLOMBO (News 1st): The National Dangerous Drugs Control Board has announced plans to establish three new rehabilitation and treatment centers before the end of this year.According to the Board, the centers will be constructed in Matara, Kurunegala, and Batticaloa. Each facility will have the capacity to accommodate and treat around 120 individuals.Meanwhile, a special rehabilitation and treatment center for individuals under 21 years of age is also planned to be established in Peradeniya, Kandy.Construction of this youth rehabilitation center is scheduled to commence early next year, with operations expected to begin by January 2026.
+
+◼️
+
+[Data](articles/5f7b8698.json)
+
+---
+
+### A shortage of blood transferred thorns of kidney patients
+
+*2025-10-07 11:28:13* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වකගඩ-රගනග-ල-මර-කරන-කට-හඟයක/101-680832) · `si`
+
+Badulla District MP Chamara Sampath Dasanayake said in Parliament that there is a shortage of blood transferred thorns of kidney patients.
+
+He said that he had heard that he had learned that he had not learned that there was no sheddown in the Padaviya Hospital.
+
+The situation has been created because of the fault of tender supplier to supply acquisition.
+
+All hospital has been given money to buy local purchases.
+
+◼️
+
+[Data](articles/405035ac.json)
+
+[Extended Data](ext_articles/405035ac.ext.json)
+
+---
+
+### If the former presidents requests security vehicles
+
+*2025-10-07 11:23:33* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනාධිපතිවරු-ආරක්ෂක-වාහන-ගැන-ඉල්ලීමක්-කලොත්-සලකා-බලනවා/11-418952) · `si`
+
+The government is prepared to consider if former presidents are requested to provide security vehicles.
+
+With the abolition of the rights of the President, the former presidents resumed their security vehicles and expressed their views in Parliament today (07).
+
+"Recently in this House was approved recently in the Council of Retired Presidents Act. According to the Act, some of the claims that he had enjoyed it, there have been a return leave. However, the rights bill does not mean. He has already handed over some protective vehicles he used.. The government is the responsibility of the government, regardless of the claims. Therefore, if he requests the other thing, including security vehicles, including security vehicles, is ready to consider. "
+
+◼️
+
+[Data](articles/4c04d430.json)
+
+[Extended Data](ext_articles/4c04d430.ext.json)
+
+---
+
+### Amaraweera goes to see Mahinda
 
 *2025-10-07 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215428) · `si`
 
-හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාගේ සුවදුක් විමසීම සඳහා හිටපු අමාත්‍ය මහින්ද අමරවීර මහතා තංගල්ල කාල්ටන් නිවසට ගොස් තිබේ.
+Former Minister Mahinda Amaraweera has gone to Tangalle Carlton to consult his former President Mahinda Rajapaksa.
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා විජේරාමයේ පිහිටි සිය නිල නිවසින් සැප්තැම්බර් මස 11 වන දා නික්ම ගියේය.
+Former President Mahinda Rajapaksa left September 11 from his official residence in Wijerama.
 
-ඒ "ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ" පනතේ විධිවිධානයන් අනුව හිටපු ජනාධිපතිවරුන් සඳහා ලබා දී ඇති නිල නිවාස ඔවුන්ට යළි රජයට භාරදීමට සිදුවීමත් සමඟය.
+According to the provisions of the President of the President of the President of the President of the President, "with the official quarters given to former presidents, the quarters given to the government are back to their government.
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා නිල නිවස භාවිත කරමින් සිටියත් මෙම පනත අනුව ඔහුට ද එම වරප්‍රසාදය අහිමි වී ගියේය.
+Although former President Mahinda Rajapaksa was using the official residence, he also lost that privilege.
 
-ඒ අනුව ඔහු විජේරාමයේ පිහිටි නිල නිවසින් නික්ම හම්බන්තොට කාල්ටන් නිවස වෙත පැමිණි අතර, එදින සිට මේ දක්වා බොහෝ දේශපාලනඥයින් සහ හිටපු ජනාධිපතිවරයාට ආදරය දක්වන ජනතාව ඔහුගේ සුවදුක් බැලීමට කාල්ටන් වෙත පැමිණෙමින් සිටී.
+Accordingly, he came to the Carlton House in Hambantota and the people who love the former President and former President to date have come to Carlton.
 
 ◼️
 
 [Data](articles/32ee24f8.json)
+
+[Extended Data](ext_articles/32ee24f8.ext.json)
 
 ---
 
@@ -93,6 +145,24 @@ Police investigations have revealed that the woman was the first husband and the
 
 ---
 
+### Handunneti's invitation to glass bottles
+
+*2025-10-07 10:40:26* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වදර-බතල-හදනන-හඳනනතතගන-ආරධනයක/101-680831) · `si`
+
+Entrepreneurship Development Minister Sunil Handunnetti requested entrepreneurs today to establish glass bottles factories.
+
+He added that only one of the factories produced in the country.
+
+The Minister added that if the government is produced to produce glass bottles, the government is ready to support them.
+
+◼️
+
+[Data](articles/a551d92a.json)
+
+[Extended Data](ext_articles/a551d92a.ext.json)
+
+---
+
 ### Nobel Prize for Medicine for 2025
 
 *2025-10-07 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/227086) · `ta`
@@ -127,6 +197,24 @@ Significant numbers have also arrived from the United Kingdom, Russia, Germany, 
 
 [Data](articles/101c8c13.json)
 
+[Extended Data](ext_articles/101c8c13.ext.json)
+
+---
+
+### When Mahanama SOS Ambassador renewed - Umaria is newly
+
+*2025-10-07 10:33:39* · [`adalk`](https://www.ada.lk/business/මහානාම-SOS-තානාපතීත්වය-අලුත්-කරද්දී---උමාරියා-අලුතින්-එක්වෙයි/7-418950) · `si`
+
+Lanka SOS Children's Village Organized for World Children's Day This year's World Children's Day was organized. The ceremony was held at the Colombo Radisson Hotel and continued to maintain a national and international association.
+
+Roshan Mahanama and Umaria Sinhawana contributes voluntary task. They have already contributed to these social services before. In this new role, they will help to educate the people about their children and contribute to the efforts of the children who have lost or deprived of parental protection in the country.
+
+...
+
+[Data](articles/6be414e5.json)
+
+[Extended Data](ext_articles/6be414e5.ext.json)
+
 ---
 
 ### Government Moves to Equalize Learning Opportunities
@@ -144,6 +232,8 @@ She highlighted how structural inequalities between schools have contributed to 
 ...
 
 [Data](articles/0e86c04e.json)
+
+[Extended Data](ext_articles/0e86c04e.ext.json)
 
 ---
 
@@ -187,6 +277,40 @@ The drowning person was later taken to Valasmulla Base Hospital in Swaseriya amb
 
 ---
 
+### GMOA අද  හදීසියේම රැස්වෙයි
+
+*2025-10-07 10:25:46* · [`adalk`](https://www.ada.lk/breaking_news/GMOA-අද--හදීසියේම-රැස්වෙයි/11-418949) · `si`
+
+A urgent executive committee meeting of the Government Medical Officers Association is scheduled to be held today (07).
+
+The decision is to be discussed to discuss the problem of medical sportsts regarding the medical sportsigations of the Ampara District.
+
+◼️
+
+[Data](articles/468a54e1.json)
+
+[Extended Data](ext_articles/468a54e1.ext.json)
+
+---
+
+### The rise of the government has collapsed
+
+*2025-10-07 10:25:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ආණඩව-මව-දවයලකය-කඩ-වටල/101-680830) · `si`
+
+Opposition Leader Sajith Premadasa said that the government has created a divine world in the past, but now the Divine world is now unable to make the divine world real.
+
+He said that the present government ministers of the present government have made the divine world, though not limited to these Divine World Commons and the rulers.
+
+Opposition Leader Sajith Premadasa said this in Opposition Leader Mobile Service Program
+
+◼️
+
+[Data](articles/8baf522a.json)
+
+[Extended Data](ext_articles/8baf522a.ext.json)
+
+---
+
 ### Suspect Arrested in Mapalagama with Foreign-Manufactured Semi-Automatic Firearm
 
 *2025-10-07 10:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/suspect-arrested-in-mapalagama-with-foreign-manufactured-semi-automatic-firearm) · `en`
@@ -196,6 +320,8 @@ COLOMBO (News 1st): A suspect has been arrested in Mapalagama with a foreign-man
 ◼️
 
 [Data](articles/e3868fdc.json)
+
+[Extended Data](ext_articles/e3868fdc.ext.json)
 
 ---
 
@@ -270,6 +396,8 @@ COLOMBO (News 1st): A large stock of magazines and military equipment recovered 
 ◼️
 
 [Data](articles/f091e3a8.json)
+
+[Extended Data](ext_articles/f091e3a8.ext.json)
 
 ---
 
@@ -511,6 +639,34 @@ Here I am remembered here that the dead doctor.. Manoharan is the activist who f
 
 ---
 
+### A person who served as a motorcyclist for several shootings
+
+*2025-10-07 09:25:52* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තැබීම්-කිහිපයකට-යතුරු-පැදිකරු-ලෙස-කටයුතු-කළ-පුද්ගලයෙක්-අල්ලයි/11-418947) · `si`
+
+According to information received by the Talangama Police Officers, a suspect had been arrested with 12 ice narcotics in Thalawathugoda, Thalawathugoda area.
+
+In further investigation into the suspect, the suspect has been revealed that the suspect is currently having close relations with organized criminals. It has been revealed that the suspect shot dead in the Modara Police Division in Modara and Kollupitiya Police Divisions.
+
+Accordingly, the suspect was produced before the Kaduwela Hon.
+
+The suspect is connected to the following crimes in interrogation on detention orders.
+
+• Acting as a motorcyclist of the crime of a man to kill a man in the Gampaha Police Division on 08.08.2012.
+
+• Acting as the motorcyclist of the crimes of attempting to shoot at two murders on 15.03.2012.
+
+• Acting as a motorcyclist of the crime of the crime of the Weliweriya Police Division on 23.03.2013.
+
+Investigations have also been taught that the suspect suspected to be used for shooting crimes.
+
+...
+
+[Data](articles/12fdef46.json)
+
+[Extended Data](ext_articles/12fdef46.ext.json)
+
+---
+
 ### Indians lead drop in US university visas
 
 *2025-10-07 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/113288/indians-lead-drop-in-us-university-visas) · `en`
@@ -631,21 +787,23 @@ Relatives said that the youth was searched in several parts of the country and t
 
 ---
 
-### වෑන් රථයකට වනඅලි ප්‍රහාරයක්
+### Wanariya attack on a van
 
 *2025-10-07 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215424) · `si`
 
-බුත්තල සිට කතරගම දක්වා යාල ජාතික වනෝද්‍යානය මැදින් දිවෙන මාර්ගයේ ගමන් ගන්නා රථ වාහන වලින් ලබාදෙන ආහාර බලාපොරොත්තුවෙන් වනඅලි මග දෙපස රැඳී සිටින ආකාරය නිරන්තරයෙන් දක්නට ලැබේ.
+The Wildlife is constantly being held at the road to the road from Buttala to Kataragama to Kataragama to Kataragama.
 
-වනඅලින්ට ආහාර ලබානොදෙන ලෙස වනජීවි නිලධාරීන් විසින් සංචාරකයින් හට දැනුම්වත් කිරීම් සිදුකළත් ඒ කිසිඳු දැන්වීමක් නොතකමින් ජනතාව වනඅලීන්ට ආහාරදීමට පුරුදුව සිටියි.
+Although wildlife officials do not receive any advertisement to the wildlife, the people are used to eat the people.
 
-මේ අකාරයට මාර්ගය අසල රැදී සිටි වනඅලියෙකුට ආහාර ලබාදුන් වෑන් රථයකට එම අලියා තවත් ආහාර බලාපොරොත්තුවෙන් පහරදෙන ආකාරය කැමරා කාචයේ මෙලෙස පටිගත වී තිබුණි.
+The camera lens recorded how the elephant was hit by a van to a van that was staying near the road.
 
-මෙම මාර්ගයේ නිරන්තරයෙන් වනඅලි පහරදීම් වාර්තා වන අතර එබැවින් බුත්තල කතරගම මාර්ගයේ ගමන් කිරීමේ දී වනසතුන් ට ආහාර ලබා දීමෙන් වැලකී සිටින ලෙස බලධාරීන් දැනුම් දී තිබේ.
+The authorities have been reportedly welcome, so that the road is constantly reported on the road.
 
 ◼️
 
 [Data](articles/d688f4c8.json)
+
+[Extended Data](ext_articles/d688f4c8.ext.json)
 
 ---
 
@@ -936,6 +1094,26 @@ It is reported that these telephones have also agreed to meet the leadership of 
 [Data](articles/f5aebd6e.json)
 
 [Extended Data](ext_articles/f5aebd6e.ext.json)
+
+---
+
+### Mahinda Rajapaksa should be killed
+
+*2025-10-07 07:39:15* · [`adalk`](https://www.ada.lk/breaking_news/මහින්ද-රාජපක්ෂ-එල්ලා-මැරිය-යුතුයි/11-418946) · `si`
+
+President Mahinda Rajapaksa served as president in the last 10 kilometers of the war.  Former Army Commander Field Marshal Sarath Fonseka said that a ceasefradowed and was betrayed.
+
+He added that the former President should be hanged for that action. He was speaking at a function held at Matara.
+
+"At the time Namal was the king of the king. Daddy's jail in Sarath Fonseka and went wrong. Mahinda Rajapaksa wants to explain why the last 10 kilometers to go to Mahinda Rajapaksa to end the war. Safety was saved to save Prabhakaran, including Prabhakaran.
+
+If the 2005 presidential election should be won, would it not have been a racist if they gave the terrorists for two million dollars? We are fighting with the terrorists, he gives money to the weapons. President Mahinda Rajapaksa is killing Mahinda Rajapaksa to hang on the neck.
+
+◼️
+
+[Data](articles/74b7565e.json)
+
+[Extended Data](ext_articles/74b7565e.ext.json)
 
 ---
 
@@ -1816,169 +1994,5 @@ Retail Information Technologies (RIT), a subsidiary of Sumathi Holdings, recentl
 [Data](articles/c366340f.json)
 
 [Extended Data](ext_articles/c366340f.ext.json)
-
----
-
-### Sun Siyam Pasikudah wins Best Global Hotel Design at Homes & Gardens’ Design Awards 2025
-
-*2025-10-06 22:18:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudah-wins-best-global-hotel-design-at-homes-gardens-design-awards-2025/) · `en`
-
-Sun Siyam Pasikudah, part of Sun Siyam Resorts’ Privé Collection, has won the coveted Best Global Hotel Design award at the Homes & Gardens Design Awards 2025. The accolade recognises Studio Sixty7, led by founders Lee McNichol and Jose Rivero, for a transformative redesign that blended artisanal craftsmanship, cultural authenticity, and sustainability to set a new benchmark for luxury hospitality in Sri Lanka.
-
-The Homes & Gardens Design Awards celebrate the best in design and decorating, spotlighting inspiring projects and innovations shaping the way we live now and into the future. Within the Best Global Hotel Design category, the judges recognised the transformation of Sun Siyam Pasikudah for its blend of refined hospitality, artisanal craftsmanship, and environmental responsibility.
-
-...
-
-[Data](articles/89a1c4d4.json)
-
-[Extended Data](ext_articles/89a1c4d4.ext.json)
-
----
-
-### FitsAir celebrates three years of passenger operations
-
-*2025-10-06 22:17:00* · [`islandlk`](http://island.lk/fitsair-celebrates-three-years-of-passenger-operations/) · `en`
-
-FitsAir, Sri Lanka’s first privately-owned international airline, celebrates three years of international scheduled passenger operations, marking another defining moment in its journey to transform air travel for Sri Lankans.
-
-The past year has been one of exceptional growth and achievements for the airline. FitsAir successfully launched Kuala Lumpur as a new destination on its network, expanded frequencies to Malé and Dhaka in response to strong demand, and most recently secured approvals to undertake its own ground handling operations at Colombo’s Bandaranaike International Airport, a major step that cements the airline’s commitment to independence, efficiency, and service excellence.
-
-...
-
-[Data](articles/d91b2833.json)
-
-[Extended Data](ext_articles/d91b2833.ext.json)
-
----
-
-### Central Bank of Sri Lanka releases “Sri Lanka Socio-Economic Data – 2025”
-
-*2025-10-06 22:13:00* · [`islandlk`](http://island.lk/central-bank-of-sri-lanka-releases-sri-lanka-socio-economic-data-2025/) · `en`
-
-“Sri Lanka Socio-Economic Data – 2025”, the annually published data folder of the CBSL, is now available for public information. The current data folder is the 48th volume of the series.
-
-This easy-to-carry booklet contains information categorised under 14 topics, namely, Country Profile; Key Economic Indicators; Country Comparisons; Socio-Economic Conditions; Human Resources; National Accounts; Agriculture; Industry; Economic and Social Infrastructure; Prices and Wages; External Trade and Tourism; External Finance; Government Finance; and Money, Banking and Finance. As the data folder presents a wide range of socio-economic data of current interest in a concise and summary form, it will serve as a useful publication for policymakers, researchers, academics, professionals, students and the general public.
-
-...
-
-[Data](articles/ff9d9376.json)
-
-[Extended Data](ext_articles/ff9d9376.ext.json)
-
----
-
-### HUTCH honored among Sri Lanka’s Best Employer Brands 2025
-
-*2025-10-06 22:12:00* · [`islandlk`](http://island.lk/hutch-honored-among-sri-lankas-best-employer-brands-2025/) · `en`
-
-Hutch Telecommunications Lanka Pvt Ltd has been recognized with the Sri Lanka Best Employer Brand Award 2025, reaffirming its status as one of the nation’s most progressive and people-focused organizations. The accolade was presented on 10th September at Taj Samudra, Colombo, by the World Federation of HR Professionals, in celebration of organizations that set benchmarks in human resource development and employer branding.
-
-The award highlights HUTCH’s success in aligning its human resource strategy with business goals while cultivating a future-ready workforce. Through a strong focus on continuous learning, leadership development, and employee well-being, HUTCH has consistently demonstrated its ability to foster a culture of growth, inclusivity, and innovation within the telecommunications sector.
-
-...
-
-[Data](articles/f5b14d0f.json)
-
-[Extended Data](ext_articles/f5b14d0f.ext.json)
-
----
-
-### Gamer.LK dominates video games marketing category with Gold Award at SLIM DIGIS 2.5
-
-*2025-10-06 22:11:00* · [`islandlk`](http://island.lk/gamer-lk-dominates-video-games-marketing-category-with-gold-award-at-slim-digis-2-5/) · `en`
-
-Gamer.LK, Sri Lanka’s premier Video Games and Esports company, was recognised once again at the SLIM DIGIS 2.5 Awards, winning the Gold Award in the Gaming, Gamification & Esports category at the 2025 edition.
-
-...
-
-[Data](articles/628882d8.json)
-
-[Extended Data](ext_articles/628882d8.ext.json)
-
----
-
-### Parental Intelligence, ‘Sri Lanka’s first parenting AI companion’
-
-*2025-10-06 22:10:00* · [`islandlk`](http://island.lk/parental-intelligence-sri-lankas-first-parenting-ai-companion/) · `en`
-
-The recently announced Parental Intelligence (PI), Sri Lanka’s first culturally relevant AI parenting companion, was developed to support parents and caregivers in manoeuvring the daily challenges of family life.
-
-Compared to global AI platforms, PI was created locally for Sri Lankan parents and offers a safe, useful, and judgment-free environment where families can get advice on how to raise kids of all ages. Instantly accessible at www.chatpi.lk, PI creates a distinctly comforting parenting experience by fusing age-specific guidance, bilingual support (in both Sinhala and English), and a privacy-first design. Knowing that conversations are never saved gives parents the confidence to voice concerns.
-
-...
-
-[Data](articles/36244a03.json)
-
-[Extended Data](ext_articles/36244a03.ext.json)
-
----
-
-### Nothing felling name
-
-*2025-10-06 21:59:05* · [`lankadeepalk`](https://www.lankadeepa.lk/news/උඩ-මහලන-වටණ-හම-නම-අපවත-වත/101-680811) · `si`
-
-Humanitarian Police say that we are being treated at the ICU of the Colombo National Hospital with serious injuries in the University of Sri Lanka.
-
-Unlikely, we have been unfortunately a 24-year-old monk named Dehiattakandi was inscribed in the Veyangoda, Gampaha.
-
-He was speaking to the Homagama Hospital with a three-wheeler imported to the University at around 2.30 pm.
-
-In an inquiry by Hamaddhau Homagama, Homagama, Sri Lanka Buddhist and Pali University, said:
-
-We conducted an internal investigation as a Buddhist and Pali University of Sri Lanka.. First, we were told that I had fallen from a building, even though he fell in a stairs.
-
-The report of our internal investigation has been taken to the relevant divisions. Homagama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/d24a913c.json)
-
-[Extended Data](ext_articles/d24a913c.ext.json)
-
----
-
-### Nothing felling name
-
-*2025-10-06 21:59:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/උඩ-මහලන-වටණ-හම-නම-අපවත-වත/1-680811) · `si`
-
-Humanitarian Police say that we are being treated at the ICU of the Colombo National Hospital with serious injuries in the University of Sri Lanka.
-
-Unlikely, we have been unfortunately a 24-year-old monk named Dehiattakandi was inscribed in the Veyangoda, Gampaha.
-
-He was speaking to the Homagama Hospital with a three-wheeler imported to the University at around 2.30 pm.
-
-In an inquiry by Hamaddhau Homagama, Homagama, Sri Lanka Buddhist and Pali University, said:
-
-We conducted an internal investigation as a Buddhist and Pali University of Sri Lanka.. First, we were told that I had fallen from a building, even though he fell in a stairs.
-
-The report of our internal investigation has been taken to the relevant divisions. Homagama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/dfcb30b7.json)
-
-[Extended Data](ext_articles/dfcb30b7.ext.json)
-
----
-
-### Three killed in the sea bath in Nilwella
-
-*2025-10-06 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215415) · `si`
-
-Three people were killed in the Yatiyana area in Yanwella, Dikwella, Dikwella.
-
-The accident had occurred at around 3.30 pm today (06), two persons were hospitalized.
-
-Troops have attempted to rescue the sinks of the area.
-
-The body of the deceased has been taken to the Bathagama hospital while the two others are receiving treatment in the Matara General Hospital.
-
-The deceased has been identified as a 32 year old, inigadu area, and 51 year old and 38 have been hospitalized.
-
-◼️
-
-[Data](articles/57a79da7.json)
-
-[Extended Data](ext_articles/57a79da7.ext.json)
 
 ---

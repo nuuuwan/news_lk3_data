@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 08:58:16**
+As of **2025-10-07 08:39:19**
 
 ## Newspaper Stats
 
-*Scraped **81,736** Articles*
+*Scraped **81,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,110 +12,40 @@ newsfirstlk | 628
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 904
+lankadeepalk | 897
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,809
 adaderanalk | 10,493
-tamilmirrorlk | 12,124
-virakesarilk | 13,456
-adaderanasinhalalk | 14,028
+tamilmirrorlk | 12,122
+virakesarilk | 13,454
+adaderanasinhalalk | 14,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,720 (100.0%) of 81,736 articles have been extended.
+81,718 (100.0%) of 81,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### இன்று பிற்பகல் மழை பெய்யும்
-
-*2025-10-07 08:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பிற்பகல்-மழை-பெய்யும்/175-365860) · `ta`
-
-நாட்டின் பெரும்பாலான பகுதிகளில் பிற்பகல் 1.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது
-
-வடக்கு, வடமத்திய, கிழக்கு, மத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் 50 மில்லி மீற்றருக்கும் அதிகமான அளவில் பலத்த மழை பெய்யக்கூடும்.
-
-மேல் மாகாணத்திலும் காலி, மாத்தறை, புத்தளம், யாழ்ப்பாணம் மற்றும் திருகோணமலை மாவட்டங்களிலும் காலை வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என அறிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/bce86a07.json)
-
----
-
-### මත් කරල් ගෙන පොලීසියට ආ පීසී අත්අඩංගුවට
-
-*2025-10-07 08:27:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මත-කරල-ගන-පලසයට-ආ-පස-අතඅඩගවට/101-680820) · `si`
-
-මත්කරල් රැගෙන පොලිස් ස්ථානය වෙත පැමිණෙමින් සිටි කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව හෝමාගම මූලස්ථාන පොලිසිය කියයි.
-
-සැකකාර කොස්තාපල්වරයා සන්තකයේ තිබී මිලිගෑම් 150 ප්‍රමාණයේ මත් කරල් 5 ක් පොලිස් භාරයට ගෙන ඇත.
-
-සැකකාර කොස්තාපල්වරයාට ඊයේ  (6)  සවස හයේ සිට පසු දින උදෑසන හය දක්වා පොලිස් ස්ථානයේ දුරකථන ක්‍රියාකරු ලෙස රාජකාරී   යෙදෙන ලෙසට නියෝග යොදා තිබී ඇතැයි පොලිසිය කියයි.
-
-සැකකරු එම රාජකාරියට වාර්තා නොකර අවසර නොලබා ස්ථානයෙන් බැහැරව ගොස් සිට නැවතත් පොලිස් ස්ථාන වෙත පැමිණීමේ දී පොලිස් ස්ථානයේ ප්‍රධාන දොරටුව අබියස දී රාත්‍රී 11  ට පමණ පරික්ෂා කිරීමේදී සැකකරු සතුව මෙම මත්කරල් තිබී සොයාගෙන ඇත.
-
-◼️
-
-[Data](articles/b0aa3c7d.json)
-
----
-
-### GMOA අද හදිසියේ රැස්වෙයි
-
-*2025-10-07 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215422) · `si`
-
-රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ හදිසි විධායක කමිටු රැස්වීමක් අද (07) දිනයේ පැවැත්වීමට නියමිතව තිබේ.
-
-එම සංගමයේ සහකාර ලේකම් වෛද්‍ය හංසමාල් වීරසූරිය මහතා සඳහන් කළේ අම්පාර දිස්ත්‍රික්කයේ වෛද්‍ය ස්ථානමාරුවීම් සම්බන්ධයෙන් මතුව ඇති ගැටලුව පිළිබඳව සාකච්ඡා කිරීම මෙහි අරමුණ බවය.
-
-අම්පාර දිස්ත්‍රික්කයේ සෞඛ්‍ය පරිපාලනය විසින් අත්තනෝමතික ලෙස වෛද්‍ය මාරුවීම් සිදුකිරීමට විරෝධය පළකරමින් මේවන විට රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය එම දිස්ත්‍රික්කය තුළ වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කර තිබේ.
-
-මෙතෙක් අදාළ ගැටලුව සඳහා රජයේ අවධානය යොමුවී නොමැති බැවින් සිය වෘත්තීය සමිති ක්‍රියාමාර්ගය සම්බන්ධයෙන් ගනු ලබන ඉදිරි ක්‍රියාමාර්ග පිළිබඳව අද දිනයේ තීරණය කරන බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ සහකාර ලේකම් වෛද්‍ය හංසමාල් වීරසූරිය මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/6afe6dca.json)
-
----
-
-### A couple hacked to death
+### යුවළක් කපා කොටා මරලා
 
 *2025-10-07 08:09:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/යවළක-කප-කට-මරල/101-680819) · `si`
 
-A male and woman has been assaulted by a male and a woman in the Hungama Ara area in the Hungama Police Division in the Hungama Police Division.
+හුංගම පොලිස් වසමේ රන්න වාඩිගල වලව් මහත්තයා ආර ප්‍රදේශයේදී පිරිමි පුද්ගලයකු හා කාන්තාවක් අද අලුයම තියුණු ආයුධ වලින් පහරදී ඝාතනය කොට ඇතැයි හුංගම පොලිසිය පවසයි.
 
-A man who had been resident of Kelaniya, a resident of Kelaniya, accused of killing several murders.
+ඝාතනය වී ඇත්තේ මනුෂ්‍ය ඝාතන කිහිපයකට චෝදනා ලැබූ රන්න කැලණිගම පදිංචිව සිටි අයෙකු හා කුඩා වැල්ලේ පදිංචිව සිටි කාන්තාවකි.
 
-According to police, several persons who covered their faces have been killed and have fled the police.
+මුහුණු ආවරණය කරගෙන පැමිණි පුද්ගලයන් කිහිප දෙනෙකු මොවුන් දෙදෙනා ඝාතනය කොට පලා ගොස් ඇති බවට තොරතුරු ලැබී ඇතැයි පොලීසිය පවසයි.
 
 ◼️
 
 [Data](articles/0c85b1ad.json)
-
-[Extended Data](ext_articles/0c85b1ad.ext.json)
-
----
-
-### இளம் தம்பதியினர் வெட்டிக் கொலை
-
-*2025-10-07 08:02:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-தம்பதியினர்-வெட்டிக்-கொலை/175-365859) · `ta`
-
-ஹூங்கம - வடிகல பகுதியில் உள்ள வீடொன்றில் இருந்து கூர்மையான ஆயுதங்களால் வெட்டிக் கொலை செய்யப்பட்ட தம்பதியினர் சடலமாக மீட்கப்பட்டுள்ளனர்.
-
-குறித்த பகுதியில் உள்ள ஒரு வீட்டில் 2 பேர் மர்மமான முறையில் உயிரிழந்துள்ளதாக பொலிஸாருக்கு தகவல் வழங்கப்பட்டுள்ளது. இதற்கமைய பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
-
-28 வயதுடைய கணவரும் அவரது மனைவியுமே இதில் உயிரிழந்துள்ளதாக பொலிஸாரின் முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/0215a199.json)
 
 ---
 
@@ -133,119 +63,19 @@ COLOMBO (News 1st): Sri Lanka Customs has reported a record-breaking revenue col
 
 ---
 
-### ඔක්තෝබර් මාසයේ පළමු පාර්ලිමේන්තු සතිය අද සිට
-
-*2025-10-07 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215420) · `si`
-
-ඔක්තෝබර් මාසය සඳහා පළමු පාර්ලිමේන්තු සතිය අදින් (07) ආරම්භ වේ.
-
-අද පෙරවරු 9.30ට කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුව රැස්වීමට නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
-
-අද දිනයේ දි ක්‍රීඩාවල යෙදීමේ දී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති සංශෝධන පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය පැවැත්වීමට නියමිතව ඇත.
-
-හෙට (08) දිනයේ දි ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යංශයේ පරිපූරක ඇස්තමේන්තුව විවාදයට ගෙන සම්මත කර ගැනීමට නියමිත බව පාර්ලිමේන්තු මහලේකම් කාර්යාලය සඳහන් කළේය.
-
-බ්‍රහස්පතින්දා දිනයේ දී විපක්ෂය විසින් ගෙනඑනු ලබන සභාව කල් තැබීමේ විවාදයක් පැවැත්වීමට නියමිත අතර සිකුරාදා දිනයේ දි පෞද්ගලික මන්ත්‍රී යෝජනා 8ක් විවාදයට ගැනීමට නියමිතව තිබේ.
-
-◼️
-
-[Data](articles/d9478835.json)
-
----
-
-### Showers in the evening
+### සවස් කාලයේ වැසි ඇති වේ
 
 *2025-10-07 06:52:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සවස-කලය-වස-ඇත-ව/101-680818) · `si`
 
-Showers or thundershowers will occur at several places in the island.
+දිවයිනේ බොහෝ ප්‍රදේශවලට පස්වරු 1.00 පමණ  පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව කියයි.
 
-Some places in the North, North and Central East, Central and Uva provinces have more than 50 mm.
+උතුරු,උතුරු - මැද නැගෙනහිර,මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 50ට වැඩි තරමක තද වැසි ඇති වේ.‍ෙ
 
-Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincomalee districts.
+බස්නාහිර පළාතෙත් ගාල්ල,මාතර,පුත්තලම,යාපනය සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී වැසි ඇති විය හැකියි.
 
 ◼️
 
 [Data](articles/57ca4890.json)
-
-[Extended Data](ext_articles/57ca4890.ext.json)
-
----
-
-### අමෙරිකානු සාම සැලැස්ම පිළිබඳ සාකච්ඡා ඇරඹේ
-
-*2025-10-07 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215419) · `si`
-
-ගාසා තීරයේ යුද්ධය අවසන් කිරීම සඳහා වූ අමෙරිකානු සාම සැලැස්ම පිළිබඳ අවසන් එකඟතාවකට පැමිණීම අරමුණු කරගනිමින් නිල නොවන සාකච්ඡා ඊජිප්තුවේ ෂාර්ම් එල්-ෂෙයික් නගරයේදී ආරම්භ කර තිබේ.
-
-හමාස් සංවිධානය සාම සැලැස්මේ යෝජනාවලට අර්ධ වශයෙන් එකඟ වන බව පවසා ඇති නමුත්, එහි නිරායුධකරණය සහ ගාසා තීරයේ ඉදිරි සැලැස්ම ඇතුළු ප්‍රධාන ඉල්ලීම් කිහිපයකට ප්‍රතිචාර දක්වා නොමැති බව සඳහන් වේ.
-
-ඒ සඳහා දෙපාර්ශ්වයේ නියෝජිතයින්ට අමතරව අමෙරිකානු ජනාධිපතිගේ විශේෂ නියෝජිතයින් ලෙස ස්ටීව් විට්කොෆ් සහ ජනපතිගේ බෑණා වන ජෙරාඩ් කුෂ්නර් ද සහභාගී වන බව විදෙස් මාධ්‍ය මීට පෙර වාර්තා කර තිබුණි.
-
-මේ අතර, ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු පසුගිය සෙනසුරාදා පැවසුවේ ඉදිරි දිනවලදී ප්‍රාණ ඇපකරුවන් නිදහස් කිරීම නිවේදනය කිරීමට බලාපොරොත්තු වන බවයි.
-
-◼️
-
-[Data](articles/feaeafb2.json)
-
----
-
-### හුංගම නිවසක ද්විත්ව ඝාතනයක්
-
-*2025-10-07 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215417) · `si`
-
-පොලීසිය සඳහන් කළේ තියුණු ආයුධවලින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවය.
-
-හුංගම රන්න වාඩිගල ප්‍රදේශයේ නිවසක පුද්ගලයින් දෙදෙනෙකු අභිරහස් ලෙස මියගොස් ඇති බවට පොලීසියට ලැබුණු තොරතුරකට අනුව සිදුකළ පරීක්ෂාවක දී මෙම ඝාතනය පිළිබඳ තොරතුරු අනාවරණය වී තිබේ.
-
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ 28 හැවිරිදි පුද්ගලයෙකු සහ ඔහුගේ අනියම් බිරිඳ බවට සිදුකළ මූලික විමර්ශනවලින් අනාවරණය වී ඇති බව පොලීසිය සඳහන් කළේය.
-
-අදාළ නිවසේ හිමිකරු මේ වන විට බන්ධනාගාර ගතව සිටින අතර මෙම යුවළ තාවකාලික පදනම මත එම නිවසේ පදිංචිව සිට ඇති බව සඳහන් වේ.
-
-කවුරුන් විසින් කුමන හේතුවක් මත මෙම ඝාතනය සිදුකළේ ද යන්න මෙතෙක් අනාවරණය වී නොමැති අතර මළසිරුරු සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය අද (07) සිදුකිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/df69ea5b.json)
-
----
-
-### ප්‍රදේශ රැසකට හවසට ගිගුරුම් සහිත වැසි
-
-*2025-10-07 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215416) · `si`
-
-අද (07) දිවයිනේ බොහෝ ප්‍රදේශවල පස්වරු 1.00 න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇති විය හැකි බව දැනුම් දී තිබේ.
-
-බස්නාහිර පළාතෙත් ගාල්ල, මාතර, පුත්තලම, යාපනය සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව සඳහන් වේ.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි අකුණු අනතුරු සහ තාවකාලික තද සුළං මඟින් සිදු විය හැකි අනතුරු, අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/d8658fa7.json)
-
----
-
-### இன்றைய வானிலை
-
-*2025-10-07 06:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227073) · `ta`
-
-நாட்டின் பெரும்பாலான பகுதிகளின் பல இடங்களில் பிற்பகல் ஒரு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெபெய்யக்கூமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-வடக்கு, கிழக்கு, வடமத்திய, மத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் 50 மில்லிமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
-
-மேல் மாகாணத்திலும்  அத்துடன் காலி, மாத்தறை, புத்தளம், யாழ்ப்பாணம் மற்றும் திருகோணமலை மாவட்டங்களிலும் காலை வேளையிலும் மழை பெய்யக்கூடும்.
-
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்பட்டு இழப்புகளை அல்லது சேதங்களை தவிர்த்துக் கொள்ளுமாறு கேட்டுக் கொள்ளப்படுகின்றனர்.
-
-நாட்டை சூழ உள்ள   கடல் பிராந்தியங்களின் பல இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
-
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 25 - 35 கிலோமீற்றர் வேகத்தில் தென்மேற்குத் திசையில் இருந்து அல்லது மாறுபட்ட திசைகளில் இருந்து காற்று வீசும்.
-
-...
-
-[Data](articles/3d30a958.json)
 
 ---
 
@@ -264,24 +94,6 @@ The factory is one of the major factories that provide ammunition to Russian for
 [Data](articles/59901189.json)
 
 [Extended Data](ext_articles/59901189.ext.json)
-
----
-
-### ஐஸ் போதைப் பொருளுடன் விசேட அதிரடிப் படையினரினால் ஒருவர் கைது!
-
-*2025-10-07 05:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/227072) · `ta`
-
-அம்பாறை மாவட்டம் கல்முனை பொலிஸ் பிரிவுக்குட்பட்ட நற்பிட்டிமுனை பழைய மின்சார சபை வீதியில் வைத்து ஐஸ் போதைப் பொருளுடன் சந்தேக நபர் ஒருவரை திங்கட்கிழமை (06) மாலை வேளையில் கல்முனை விசேட அதிரடிப் படையினர் கைது செய்துள்ளனர்.
-
-கல்முனை விசேட அதிரடிப்படை அதிகாரிகளுக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கைகளின் போது, ஐஸ் போதைப் பொருளுடன் சந்தேக நபர் ஒருவரை கல்முனை விசேட அதிரடிப் படையினர் கைது செய்துள்ளனர்.
-
-நற்பிட்டிமுனை பகுதியைச் சேர்ந்த 23 வயது மதிக்கத்தக்க சந்தேக நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
-
-இதன்போது, கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 770 மில்லிகிராம் ஐஸ் போதைப் பொருள் மீட்கப்பட்டிருந்ததுடன், சந்தேக நபர்கள் உள்ளிட்ட  சான்றுப்பொருட்கள் என்பன சட்டநடவடிக்கைக்காக கல்முனை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/a3442fde.json)
 
 ---
 
@@ -1181,26 +993,6 @@ It is said that Limoru resigned from his party and other parties.
 
 ---
 
-### ඇමැතිවරුන් පත් කර ප්‍රංශ අගමැති ඉල්ලා අස්වේ
-
-*2025-10-06 21:28:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමතවරන-පත-කර-පරශ-අගමත-ඉලල-අසව/1-680808) · `si`
-
-ප්‍රංශ අග්‍රාමාත්‍ය සෙබස්තියන් ලෙකෝර්නු ධුරයට පත්වී මාසයක් යන්නටත් මත්තෙන් ඉල්ලා අස් වූවේය. ලෙකෝර්නු ඉල්ලා අස්වූයේ සිය කැබිනට් මණ්ඩලය එළිදක්වා පැය 24 ක් ගතවීමට පෙර වීම විශේෂත්වයකි.
-
-ලෙකෝර්නු වසර දෙකක් තුළ ප්‍රංශයේ පත්වූ පස්වැනි අගමැතිවරයා වන අතර ඔහු ඉල්ලා අස්වීමත් සමග ප්‍රංශයේ දේශපාලන අර්බුදයක් නිර්මාණය වී ඇත. ලෙකෝර්නු ප්‍රංශ අගමැති ධුරයේ දින 27 ක කටයුතු කළ අතර ඔහුගේ ආණ්ඩුව පැය 14 කට සීමාවී තිබිණි.
-
-නූතන ප්‍රංශ ඉතිහාසයේ අඩුම කාලයක් බලයේ සිටි ආණ්ඩුව බවට ලෙකෝර්නුගේ ආණ්ඩුව පත්වූ අතර අඩුම කාලයක් ධුර දැරූ අගමැතිවරයා ලෙස ලෙකෝර්නු ඉතිහාසගත විය.
-
-ලෙකෝර්නු, ප්‍රංශ ජනාධිපති ඉමැනුවෙල් මැක්රොන් හමුවී, ඉල්ලා අස්වීමේ ලිපිය බාර දුන් බවත්, ජනාධිපතිවරයා එය පිළිගත් බවත් ප්‍රංශ පුවත් සේවා පවසයි.
-
-ජනාධිපති මැක්රොන්, ලෙකෝර්නු අග්‍රාමාත්‍ය ධුරය පිරිනැමුවේ, මීට පෙර එම ධුරය දැරූ ෆ්‍රැන්ෂුවා බයිරූගේ ඉල්ලා අස්වීමෙන් පසුවය. ප්‍රංශ පාර්ලිමේන්තුවේ බහුතරය ඇත්තේ අන්ත දක්ෂිණාංශික පක්ෂ සතුවය. ප්‍රංශ ජනාධිපති මැක්රොන් සහ ඔහුගේ පාලක පක්ෂය මධ්‍යස්ථමතධාරීය.
-
-...
-
-[Data](articles/bcbfbcf5.json)
-
----
-
 ### Three for the Nobel Prize for Physiology or Medicine
 
 *2025-10-06 21:23:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කයක-වදයව-හ-වදය-වදයව-සඳහ-වන-නබල-තයගයට-තදනක/101-680807) · `si`
@@ -1221,24 +1013,6 @@ Thousands of people who are trying to invade our bodies have been awarded the No
 
 ---
 
-### කායික විද්‍යාව හෝ වෛද්‍ය විද්‍යාව සඳහා වන නොබෙල් ත්‍යාගයට තිදෙනෙක්
-
-*2025-10-06 21:23:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කයක-වදයව-හ-වදය-වදයව-සඳහ-වන-නබල-තයගයට-තදනක/1-680807) · `si`
-
-මෙම වසරේ කායික විද්‍යාව හෝ වෛද්‍ය විද්‍යාව සඳහා වන නොබෙල් තෑග්ග විද්‍යාඥයන් තිදෙනකුට පිරිනමන බව නොබෙල් කමිටුව නිවේදනයක් නිකුත් කරමින් පැවැසුවේය.
-
-මේරී ඊ බ්‍රන්කෝව්, ෆ්‍රෙඩ් රම්ස්ඩෙල් සහ ෂිමොන් සකගුජී යන විද්‍යාඥයින් තිදෙනාට මෙම වසරේ කායික විද්‍යාව හෝ වෛද්‍ය විද්‍යාව සඳහා වන නොබෙල් තෑග්ග පිරිනමා ඇත.
-
-එම විද්‍යාඥයින් තිදෙනාගෙන් මේරී ඊ බ්‍රන්කෝව්, ෆ්‍රෙඩ් රම්ස්ඩෙල් ඇමෙරිකානු ජාතිකයන් වන අතර ෂිමොන් සකගුජී ජපන් ජාතිකයෙකි.
-
-අපගේ ශරීර ආක්‍රමණය කිරීමට උත්සාහ කරන දහස් ගණනක් විවිධ ක්ෂුද්‍ර ජීවීන්ගෙන් ප්‍රතිශක්තිකරණ පද්ධතිය අපව ආරක්ෂා කරන ආකාරය සොයා ගැනීම වෙනුවෙන් එම විද්‍යාඥයින් තිදෙනාට මෙවර නොබෙල් තෑග්ග පිරිනමා ඇත.
-
-◼️
-
-[Data](articles/f34f9ad0.json)
-
----
-
 ### Work on the week of the Parliamentary PS on the Tomorrow, this is how
 
 *2025-10-06 21:19:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හට-ඇරඹන-පරලමනත-සතය-වඩ-වනන-මහමය/101-680806) · `si`
@@ -1252,38 +1026,6 @@ Tuesday 7th October to 9.30 am -. 10.00 is reserved for Parliamentary Business o
 [Data](articles/94abd315.json)
 
 [Extended Data](ext_articles/94abd315.ext.json)
-
----
-
-### හෙට ඇරැඹෙන පාර්ලිමේන්තු සතියේ වැඩ වෙන්නෙ මෙහෙමයි
-
-*2025-10-06 21:19:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හට-ඇරඹන-පරලමනත-සතය-වඩ-වනන-මහමය/1-680806) · `si`
-
-පාර්ලිමේන්තුව හෙට(7) සිට 10 වැනි සිකුරාදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
-
-ඔක්තෝබර් 7 වැනි අඟහරුවාදා පෙ.ව 9.30 - පෙ.ව. 10.00 කාලය ස්ථාවර නියෝග 22හි 1 සිට 6 දක්වා සඳහන් පාර්ලිමේන්තු කටයුතු සඳහා වෙන්කර ඇත. පෙ.ව 10.00 - පෙ.ව 11.00 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර තිබේ.පෙ.ව 11.00 - පෙ.ව 11.30 කාලය ස්ථාවර නියෝග 27(2) යටතේ ප්‍රශ්න සඳහා වෙන්කර ඇත. අනතුරුව පෙ.ව 11.30 - ප.ව 5.00 කාලය ක්‍රීඩාවල යෙදීමේ දී උත්තේජක ද්‍රව්‍ය ගැනීමට එරෙහි සම්මුති (සංශෝධන) පනත් කෙටුම්පත දෙවැනිවර කියවීම විවාදයට ගැනීමට නියමිතයි. අනතුරුව ප.ව 5.00 සිට ප.ව 5.30 දක්වා සභාව කල් තබන අවස්ථාවේ ඉදිරිපත් කරනු ලබන ප්‍රශ්න සඳහා කාලය වෙන්කර ඇත.
-
-...
-
-[Data](articles/119acfb2.json)
-
----
-
-### වකුගඩු එන්නත් කටුවෙන් ලොකු ගැහිල්ලක්
-
-*2025-10-06 21:15:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වකගඩ-එනනත-කටවන-ලක-ගහලලක/1-680805) · `si`
-
-වකුගඩු රෝගීන්ගේ රුධිර කාන්දු කරනය සඳහා යොදා ගන්නා එන්නත් කටු රජයේ රෝහල්වල නොමැති වීම හේතුවෙන් ඒවා පෞද්ගලික ඖෂධ සල්වලින් මිලදී ගැනීමට සිදුවීම හේතුවෙන් රුපියල් 100 කට වැනි මුදලකට තිබූ එම එන්නත් කටුවක් රුපියල් 760 ක් වැනි මුදලක් දක්වා ඉහල යාමෙන් රෝගීහු දැඩි අපහසුතාවයට පත්ව සිටිති.
-
-රජයේ රෝහල්වලට එම එන්නත් කටු ලබාදීම සඳහා ටෙන්ඩරය ලබා ගත් අදාල ආයතනය ප්‍රමිතියෙන් තොර එන්නත් කටු 400,000 ක් ආනයනය කිරීම හේතුවෙන් එම එන්නත් කටු ලබා ගැනීම ප්‍රතික්ෂේප කළ බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මහනුවරදී පැවසීය.
-
-එම එන්නත් කටු හිඟය හේතුවෙන් අදාල එන්නත් කටු පෞද්ගලික අංශයෙන් මිළදී ගැනීම සඳහා මුදල් වෙන් කොටදී තිබෙනන බවද අමාත්‍යවරයා පැවසීය.
-
-මෙම තත්ත්වය හමුවේ අදාළ ටෙන්ඩර්කරු පෞද්ගලික අංශයට ද එම එන්නත් කටු ලබාදීම සීමා කොට යම් හිගයක් මවා පා තිබෙන බව සෞඛ්‍ය හා ජනමාධ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හංසක විජේමුණි මහතාගෙන් කළ විමසීමකදී පැවසීය.
-
-◼️
-
-[Data](articles/603e3efe.json)
 
 ---
 
@@ -1344,24 +1086,6 @@ The sun was subsequently handed over to the Walasmulla Base Hospital.
 [Data](articles/30fdbb25.json)
 
 [Extended Data](ext_articles/30fdbb25.ext.json)
-
----
-
-### මුරුතවෙල ජලාශයේ ගිලී ගුරුවරයෙකු මරුට
-
-*2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/1-680804) · `si`
-
-මුරුතවෙල ජලාශයේ දිය නාමින් සිටි 32 හැවිරිදි පාසැල් ගුරුවරයෙකු අද (06) සවස 3.30 ට පමණ  දියේ ගිලී ජීවිතක්ෂයට පත්ව ඇතැයි මිද්දෙණිය පොලිසිය කියයි .
-
-ජීවිතක්ෂයට පත්ව ඇත්තේ වරල්ල මොරවක පදිංචි ඩබ්ලිව් .ජේ.කේ.බී.සුරේෂ් නමැති අයයි .
-
-ඔහු සිය මිතුරන් පිරිසක් සමග විනෝද චාරිකාවක පැමිණ මුරුතවෙල ජලාශයේ දිය නාමින් සිට ඇතැයි පොලිසිය පැවසීය
-
-පසුව සුවසැරිය ගිලන් රථයකින් දියේ ගිලුණු තැනැත්තා වලස්මුල්ල මූලික රෝහලට රැගෙන විත් තිබේ .
-
-◼️
-
-[Data](articles/6d0a24c1.json)
 
 ---
 
@@ -1476,24 +1200,6 @@ If HIV enters the body through such unprotected sexual contact, the virus can sp
 [Data](articles/819e0a3e.json)
 
 [Extended Data](ext_articles/819e0a3e.ext.json)
-
----
-
-### හිටපු මැති ඇමැති 40ගේ බැංකු ගිණුම් අවුස්සයි
-
-*2025-10-06 20:11:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-මත-ඇමත-40ග-බක-ගණම-අවසසය/1-680803) · `si`
-
-හිටපු මැති ඇමතිවරුන් මෙන්ම වර්තමාන මන්ත්‍රීවරුන් ඇතුළු දේශපාලඥයන් හතළිහකට ආසන්න  පිරිසක් සම්බන්ධයෙන් පරීක්ෂණ පවත්වන   අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වත්කම් විමර්ශන කොට්ඨාසය  එම දේශපාලනඥයන්ගේ බැංකු වාර්තා සහ  වත්කම් බැරකම්  ප්‍රකාශ ඇතුළු  විවිධ වාර්තා  පරීක්ෂා කිරීම ආරම්භ කර ඇත.
-
-මේ සම්බන්ධයෙන්    මහජන ආරක්ෂක සහ  පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල  මහතාගෙන්   අප ඊයේ  කළ විමසුමකදී   ඔහු පැවසුවේ  බොහෝ    ලියැකියවිලි පරීක්ෂා කිරීමට ඇති හෙයින්  මෙම   විමර්ශන   ඉතා සංකීර්ණවී අැති  බවයි.
-
-බැංකු ඇතුළු විවිධ අායතනවලින් වාර්තා රැසක් ලබාගෙන  ඒවා පරීක්ෂා කිරීමට සහ  තහවුරු කර ගැනීමට  යම් කාලයක් ගතවන බවද  හෙතෙම ප්‍රකාශ කළේය.
-
-අයථා  ලෙස වත්කම් ඉපයූ  බව පැවසෙන දේශපාලනඥයන් සම්බන්ධයෙන් තවදුරටත් පැමිණිලි ගලා  එමින් තිබෙන බවත්   ලැබෙන සියලුම  පැමිණිලි  සම්බන්ධයෙන් විමර්ශන පවත්වන   බවත් අමාත්‍යවරයා කීවේය.
-
-...
-
-[Data](articles/662c48fc.json)
 
 ---
 
@@ -1968,5 +1674,335 @@ Deputy Minister Mahinda Jayasinghe says that the amendment will not affect the s
 [Data](articles/ff4ad0c0.json)
 
 [Extended Data](ext_articles/ff4ad0c0.ext.json)
+
+---
+
+### One dead, two hospitalised due to drowning near Blue Beach Island
+
+*2025-10-06 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113264/one-dead-two-hospitalised-due-to-drowning-near-blue-beach-island) · `en`
+
+Three individuals have been swept away due strong currents while bathing in seas near the Blue Beach Island in Dikwella, police stated.
+
+Area residents had then acted swiftly to rescue the trio but one person was pronounced dead, according to police.
+
+The body of the deceased has been taken to the Batheegama Hospital, while the other two individuals have been admitted to the Matara General Hospital and are currently receiving treatment in the Intensive Care Unit (ICU).
+
+◼️
+
+[Data](articles/447b1b95.json)
+
+[Extended Data](ext_articles/447b1b95.ext.json)
+
+---
+
+### Somavati Vihara has the opportunity to enter the history of the Vihara - Minister Sunil Senevi
+
+*2025-10-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227051) · `ta`
+
+The new Archaeological Museum and the International Archaeological Research Institute are found in the history of the Somavati Vihara, said Buddha Sasana, Religious and Cultural Affairs Minister Dr. Hiniduma Sunil Senevi.
+
+He said this while addressing the event at the inauguration of the newly constructed Archaeological Museum and the International Archaeological Research Institute at the historic Somavathi Viharaya under the patronage of President Anura Kumara Dissanayake.
+
+We expect this new Archaeological Museum and the International Archaeological Research Institute to enter the history of the great archaeological Somavati Vihara.
+
+As a result of the systematic development program affiliated with science and technology, the event is being implemented by the historic Somavati Vihara to the people of the world and the people of Sri Lanka.
+
+◼️
+
+[Data](articles/7f141242.json)
+
+[Extended Data](ext_articles/7f141242.ext.json)
+
+---
+
+### Government permits to fill vacancies in universities
+
+*2025-10-06 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/227049) · `ta`
+
+The Ministry of Education, Higher Education and Vocational Education said that all universities have been allowed to obtain new education staff.
+
+Permission has been granted to resume recruitment process in recent months. It is now approved in accordance with the demands submitted by each university for the needs of academic and non -academic staff.
+
+Universities have been recognized by the Prime Minister's Office.
+
+The next step is to carry out related recruitment procedures for universities. There is a little more time to complete the procedures.
+
+It is normal for universities to have a shortage of universities when the recruitment has been stopped for many years, but the process of resurgence has now begun. However, he said it was impossible to fill the vacancies overnight.
+
+At the height of the economic crisis in the country, recruitment operations have not been carried out due to the suspension of work in many public sectors to reduce costs.
+
+...
+
+[Data](articles/401f2324.json)
+
+[Extended Data](ext_articles/401f2324.ext.json)
+
+---
+
+### Birth rate
+
+*2025-10-06 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/227055) · `ta`
+
+The number of births in Sri Lanka is dramatically declining. According to the official data of the Department of Statistics, the number of births in 2018 declined to 2,20,761 in 2024. It was reported to be about 33 percent.
+
+Former Education Minister Susil Premajayantha has recently warned that the annual births of the country have been drastically decreased, with the facts of the Ministry of Health, which will have long -term consequences for the country's schools and staff.
+
+Experts say that the combination of many reasons for this fall. Sri Lanka's fertility rate has been decreasing for many years to reflect the preference for small family sizes and delayed childbirth. Experts note that this long -term decline has worsened by recent crises.
+
+It is noteworthy that the Kovit-19 infection and the economic crisis of 2022 have had a double impact, resulting in a number of couples delaying weddings and pregnancy.
+
+◼️
+
+[Data](articles/1939209e.json)
+
+[Extended Data](ext_articles/1939209e.ext.json)
+
+---
+
+### Sajith 2 crore scandal scam Investigation Function - Kandaswamy Prabhu
+
+*2025-10-06 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227054) · `ta`
+
+When Opposition Leader Sajith Premadasa has been a minister in the past, with the political objective that he should be president, the National People's Power Member Kandasamy Prabhu said that the Commission was conducting an inquiry into the corruption scandal that had spent more than 2 crores of corruption scandal to inscribe the inscription.
+
+He told the media yesterday (5) after handing over the houses constructed by the Government of the Government's program on the occasion of World Residential Day in the Manmunai North Divisional Secretariat Division of Batticaloa on Sunday (5).
+
+In the past, the housing projects launched in the Batticaloa district in the past were abandoned and the houses were abandoned for the political purpose of becoming president at the time he was a minister.
+
+...
+
+[Data](articles/1c48ddda.json)
+
+[Extended Data](ext_articles/1c48ddda.ext.json)
+
+---
+
+### Manamberi is not the Coordinating Secretary appointed by me - Johnston Fernando
+
+*2025-10-06 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/227053) · `ta`
+
+Former Minister Johnston Fernando denies that Sampath Manamberi has not served as one of his coordinating secretaries. He said legal action is ready to take legal action against those who spread false information.
+
+He said this while addressing an event in the Sri Lanka PA.
+
+Currently, Manamberry says that one of my coordinating secretaries. Remember that I have only appointed coordinating secretaries from this district. Johnston Bernanato added that this claim is an attempt to tarnish my name.
+
+◼️
+
+[Data](articles/0667ac08.json)
+
+[Extended Data](ext_articles/0667ac08.ext.json)
+
+---
+
+### English author Jilly Cooper dies at age 88
+
+*2025-10-06 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113263/english-author-jilly-cooper-dies-at-age-88) · `en`
+
+English author Dame Jilly Cooper has died at age 88, her family has announced.
+
+The author was best known for The Rutshire Chronicles, including the second book in the series, Rivals, which was recently adapted into a Disney+ series starring David Tennant.
+
+Cooper’s novels were known for their glamorous settings, complex characters and romantic entanglements, starting in the world of British equestrianism and high society.
+
+Her books were often called “bonkbusters” but Cooper much preferred the phrase “low morals and high fences”, she told the BBC in 2024.
+
+Her death was made public with a statement from her children, Felix and Emily, who said her death came as a “complete shock”.
+
+“We are so proud of everything she achieved in her life and can’t begin to imagine life without her infectious smile and laughter all around us,” they said in a statement.
+
+Agent Felicity Blunt said Cooper had “defined culture, writing and conversation since she was first published over 50 years ago”.
+
+...
+
+[Data](articles/c2b08602.json)
+
+[Extended Data](ext_articles/c2b08602.ext.json)
+
+---
+
+### Facts will be revealed soon in connection with the murder of Tajuddin - Deputy Minister Sunil Vatagala
+
+*2025-10-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/227031) · `ta`
+
+Investigations related to the murder of rugby player Wasim Tajuddin are intensifying. Deputy Minister of Public Security and Parliamentary Affairs Sunil Vattakala said that the connections between the confusion and the murder of Tajuddin will soon be expressed to the country.
+
+He further stated that he was speaking to the media on Monday (06).
+
+Investigations related to the murder of Wasim Tajuddin are being carried out best. This is why some people are upset. Investigations reveal what the connections between this confusion and the murder of Tajuddin. A certain family is so much trouble.
+
+We cannot say whether the family is a Rajapaksa family or a different family. But the facts will be revealed according to the hearing.
+
+The affidavits of the arrested will be obtained. Further inquiries will be carried out without any obstacles based on information available from such affidations.. No one needs to be afraid. He said the facts would be revealed soon to the country through investigations.
+
+◼️
+
+[Data](articles/e710df44.json)
+
+[Extended Data](ext_articles/e710df44.ext.json)
+
+---
+
+### Set up the Presidential Commission and investigate Mahinda - Sarath Fonseka
+
+*2025-10-06 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227047) · `ta`
+
+The Rajapaksas, who are currently making crocodile tears regarding soldiers, paid $ 2 million for the purchase of the Liberation Tigers of Tamil Eelam (LTTE) for the election victory in 2005. Mahinda Rajapaksa has been guilty of the killing of more than 4,000 soldiers by announcing the ceasefire to escape Velupillai Prabhakaran during the final war in 2009.. Field Marshal Sarath Fonseka said it was the government's responsibility to file a charge sheet against him and carry out investigations through the Presidential Investigation Commission.
+
+He was speaking at an event held at Matara on Sunday night (5).
+
+Namal says that Mahinda's action is wrong to imprison me. Now they have an innovative compassion for the soldiers.
+
+But my daughters, who had been learning at the American University that day, were taken to the country at the airport at the airport. Despite the face -to -face face -to -face, the LTTE leader Prabhakaran did not give up on my family.
+
+...
+
+[Data](articles/67358850.json)
+
+[Extended Data](ext_articles/67358850.ext.json)
+
+---
+
+### Mahinda would have been arrested if I became president - Sarath Fonseka
+
+*2025-10-06 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227046) · `ta`
+
+The furniture used at the Mahinda Rajapaksa Wijerama residence and the President's House, which has just 40,000 rays at the Calton House. They are all imported. Field Marshal Sarath Fonseka said that if I became president, I would have taken steps to arrest him first.
+
+He was speaking at an event held in Matara on Sunday night (5).
+
+The Rajapaksa family manages corruption in the country. Corruption and scams are going to break the definitions. Even if they are incarcerated in a thousand prisons, they will not abandon corruption.
+
+Although the law has been passed to eliminate presidential privileges, all three former presidents have not yet handed over official homes to the government.
+
+...
+
+[Data](articles/91d32ecd.json)
+
+[Extended Data](ext_articles/91d32ecd.ext.json)
+
+---
+
+### Selling liquor on full moon holidays - how the suspect caught?
+
+*2025-10-06 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227050) · `ta`
+
+A suspect who was illegally selling liquor at a home on a full moon holiday was arrested by police today (06).
+
+Kalmunai Regional Assistant Superintendent of Police, MK Ibn Azar, under the direct guidance of the Narcotics Eradication Unit and the Sub -Inspector of Police, KLM Mustafa, has been subjected to the secret information available to the police team headed by the Kalmunai Headquarters Police Officer Lasantha Kaluwarayichi.
+
+An official of the Drug Eradication Unit has taken the action after receiving information about the suspect that he was on sale on Monday, a full moon holiday in Senaikkudiyiruppu, which belongs to the Kalmunai Headquarters Police Division.
+
+More than 25 liquor bottles, including 40 beers, have been seized by the police for sale at home without illegally permits.
+
+Police said they are taking steps to bring the suspect to the Kalmunai Magistrate's Court.
+
+◼️
+
+[Data](articles/d32740c6.json)
+
+[Extended Data](ext_articles/d32740c6.ext.json)
+
+---
+
+### Women traveling on the street
+
+*2025-10-06 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227052) · `ta`
+
+Three women were killed and another woman was injured in an accident in Tholuwa, Kandy, Kandy, Gampola police said.
+
+The accident occurred when a car crashed into four women who were traveling on the road, police said.
+
+The accident occurred while four women were traveling on the street to attend a religious worship event, police said.
+
+Three women died on the spot and another woman was injured and admitted to the Gampola hospital, police said.
+
+◼️
+
+[Data](articles/8e7157ce.json)
+
+[Extended Data](ext_articles/8e7157ce.ext.json)
+
+---
+
+### National Reading Month Events In The Libraries of the Manipay Pradeshiya Sabha
+
+*2025-10-06 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/227045) · `ta`
+
+The National Reading Month Competition for School Students has begun in the public libraries of Manipay, Anaikottai, Madagal and Pandathara, which runs under the Valikamam Southwest Manipay Pradeshiya Sabha on the National Reading Month.
+
+Arrangements have been made to hold various competitions among the reader and students in these public libraries under the theme "Read for Renaissance".
+
+There will be competitions such as Grade 1-3, Grade 4-5, Grade 4-5, Grade 6-8, Grade 9-11, Grade 9-11, Grade 12-13, Competitions such as reading, Tirukkural Mananam Competition, Essay, Poetry, Drawing, Common Knowledge, Legal Release, New Book Exhibition and Children's Entertainment.
+
+The tournament will commence tomorrow (7) and will be held till Tuesday, the 14th.
+
+Therefore, the librarian of the Manipay Pradeshiya Sabha has requested to participate in these competitions and showcase their talents.
+
+◼️
+
+[Data](articles/61e8e094.json)
+
+[Extended Data](ext_articles/61e8e094.ext.json)
+
+---
+
+### Super Moon tonight
+
+*2025-10-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215408) · `si`
+
+Arthur C Clarke Institute of Modern Technology says that the Moon is being seen as "Super Moon".
+
+Accordingly, the Moon is a 7 percent brighter in this country, researchers of about 7 percent and more brightly.
+
+He said that when the Moon appears as "Super Moon", he said that this situation would occur as a result of the Eleepastern orbit.
+
+The Arthur C Clark, Research Scientist Supervisor, Experts, Information of Modern Technology said that Saturn could be observed today.
+
+◼️
+
+[Data](articles/86dfe281.json)
+
+[Extended Data](ext_articles/86dfe281.ext.json)
+
+---
+
+### Human Rights Council adopts resolution on Sri Lanka
+
+*2025-10-06 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113262/human-rights-council-adopts-resolution-on-sri-lanka) · `en`
+
+The resolution A/HRC/60/L.1/Rev.1 on promoting reconciliation, accountability and human rights in Sri Lanka has been adopted at the United Nations Human Rights Council in Genève.
+
+The resolution has been adopted without a vote at the 60th session of the Human Rights Council.
+
+Twenty-two countries signed on as co-sponsors to the revised UN resolution, extending the Office of the High Commissioner for Human Rights’ (OHCHR) mandate in Sri Lanka for another two years.
+
+The resolution proposes to “extend the mandate of the Office of the High Commissioner and all work requested of it by the Human Rights Council in its resolution 51/1 of 6 October 2022, and request the Office to present a written update at its sixty-third session, and a comprehensive report on progress in reconciliation, accountability and human rights in Sri Lanka at its sixty-sixth session, to be discussed during an interactive dialogue.”
+
+...
+
+[Data](articles/2ca9d07c.json)
+
+[Extended Data](ext_articles/2ca9d07c.ext.json)
+
+---
+
+### One killed in motorcycle accident Two people hurt!
+
+*2025-10-06 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227048) · `ta`
+
+A youth was killed and two men were injured when a motorcycle crashed in the Vavuniya - Rashendramkulam area, Nelukkulam police said.
+
+Three youths are traveling in a motorcycle from Rasendrakulam, Vavuniya.
+
+The motorcycle crashed into a bus station near the Rasendrankulam school after the motorcycle lost control.
+
+A youth who was riding a motorcycle was killed and two others were injured and admitted to the Vavuniya hospital for treatment.
+
+◼️
+
+[Data](articles/2c55953f.json)
+
+[Extended Data](ext_articles/2c55953f.ext.json)
 
 ---

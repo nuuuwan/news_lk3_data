@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 20:38:42**
+As of **2025-10-07 20:56:27**
 
 ## Newspaper Stats
 
@@ -27,27 +27,31 @@ adaderanasinhalalk | 14,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,975 (100.0%) of 81,978 articles have been extended.
+81,978 (100.0%) of 81,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### හරිත බලශක්තිය නංවන්න උදව් කරනවා
+### Helps to improve green
 
 *2025-10-07 20:03:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරත-බලශකතය-නවනන-උදව-කරනව/101-680886) · `si`
 
-ශ්‍රී ලංකාවේ හරිත බලශක්ති ක්ෂේත්‍රයේ ප්‍රවර්ධනය වෙනුවෙන් සහාය ලබා දෙන බව ආසියානු යටිතල පහසුකම් ආයෝජන බැංකුවේ (Asian Infrastructure Investment Bank - AIIB)සභාපති ජින් ලික්‍යුන් (Jin Liqun) මහතා ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවේ පැවසීය.
+Investment Bank (AIIB), President of the Asian Infrastricture Investment Bank (AIIB) (AIIB) President Anura Kumara Dissanayake said he was responding to the promotion of the green energy sector in Sri Lanka.
 
-ආසියානු යටිතල පහසුකම් අයෝජන බැංකුවේ සභාපති ජින් ලික්‍යුන් (Jin Liqun) මහතා ඇතුළු එහි ජ්‍යෙෂ්ඨ කළමනාකාරිත්වය  ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා අද(7)හමු වූ අවස්ථාවේදී මේ බව ප්‍රකාශ කළේය.
+President Anura Kumara Dissanayake met at the Presidential Secretariat today (7), the Chairman of the Asian Infrastructure.
 
-ආසියානු යටිතල පහසුකම් ආයෝජන බැංකුවේ ණය මුදල් යටතේ මෙතෙක් ශ්‍රී ලංකාවේ  ක්‍රියාත්මක කර ඇති ව්‍යාපෘතින්හි ප්‍රගතිය මෙහිදී දීර්ඝ ලෙස සමාලෝචනයට ලක් කෙරුණු අතර ශ්‍රී ලංකාව සමග අඛණ්ඩව කටයුතු කරමින් රටේ ඉදිරි ගමනට සහාය ලබා දෙන බව සභාපතිවරයා මෙහිදී ප්‍රකාශ කර සිටියේය.
+The progress of the projects implemented in Sri Lanka so far under the Asian Infrastructure Bank is recently reviewed and supported by the country's progress.
 
-ඒ අනුව ශ්‍රී ලංකාවේ බලශක්ති ස්ථායීතාව වෙනුවෙන් හරිත බලශක්තිය, හරිත ප්‍රවාහන පහසුකම් ආදි ක්ෂේත්‍රයන් කෙරෙහි ප්‍රමුඛ අවධානය යොමු කරමින් ඉදිරි සහාය ලබා දීමට කටයුතු කරන බවද සඳහන් කළේය.
+According to the Sri Lankan energy stability, he said that the growth of green energy, green transport facilities and focusing on the fields of green transport facilities.
+
+The government expects the President to take the growth of the national economy, which explains the interest rates and the control of inflation control.
 
 ...
 
 [Data](articles/f7c920a6.json)
+
+[Extended Data](ext_articles/f7c920a6.ext.json)
 
 ---
 
@@ -1515,23 +1519,25 @@ The public is kindly requested as the Department of Meteorology to minimize the 
 
 ---
 
-### රාජ්‍ය භාෂා ප්‍රතිපත්තිය ගැන ’’ලොක්කන්ට’’ කියා දෙයි
+### '' The boss' says' '' 'about the official language policy
 
 *2025-10-07 15:20:36* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/රජය-භෂ-පරතපතතය-ගන-ලකකනට-කය-දය/1-680863) · `si`
 
-රාජ්‍ය භාෂා ප්‍රතිපත්තිය හා එහි වැදගත්කම පිළිබඳ ආයතන ප්‍රධානීන් දැනුවත් කිරීමට තීරණය කර තිබේ.
+It has been decided to inform the heads of the Official Languages ​​Policy and its significance.
 
-රාජ්‍ය භාෂා කොමිෂන් සභාව විසින් මෙම දැනුවත් කිරීමේ කටයුතු සිදුකරනු ලබයි.
+The awareness is conducted by the Official Languages ​​Commission.
 
-ඒ අනුව රාජ්‍ය භාෂා ප්‍රතිපත්තිය හා එහි වැදගත්කම පිළිබඳ බස්නාහිර පළාතේ පළාත් පාලන ආයතන ප්‍රධානීන් දැනුවත් කිරීමේ වැඩසටහනක් කොළඹ 07, පදනම් ආයතනයේදී අද (07)  පැවැත්විණි.
+Accordingly, the Heads of Local Government Agencies in the Western Province regarding the Official Languages ​​Policy and its significance was held today (07).
 
-මහ නගර සභා කොමසාරිස්වරු නගර සභා සහ ප්‍රාදේශීය සභා ලේකම්වරු ඇතුළු රාජ්‍ය නිලධාරීහු මේ සඳහා සහභාගී වූහ.
+The General Assemblies of the Municipal Commissioners and the Secretaries of the Municipal Council and the Secretaries were present at the occasion.
 
-රාජ්‍ය භාෂා කොමිෂන් සභාවේ සභාපති නීතීඥ, නිමල් ආර් රණවක රාජ්‍ය භාෂා කොමසාරිස් ජනරාල් තිලක් නන්දන හෙට්ටි ආරච්චි මහත්වරු මෙහි දෙසුම් පැවැත්වූහ.
+Chairman of the Official Languages ​​Commission Attorney General Thilak Nandana Hettara Arachchi, Commissioner General of Official Languages, Nimal R Ranawaka.
 
 ◼️
 
 [Data](articles/cda7444e.json)
+
+[Extended Data](ext_articles/cda7444e.ext.json)
 
 ---
 

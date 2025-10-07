@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 00:24:08**
+As of **2025-10-08 01:05:56**
 
 ## Newspaper Stats
 
-*Scraped **81,994** Articles*
+*Scraped **81,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,14 +20,14 @@ dailyftlk | 5,683
 adalk | 7,831
 adaderanalk | 10,529
 tamilmirrorlk | 12,158
-virakesarilk | 13,518
+virakesarilk | 13,521
 adaderanasinhalalk | 14,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,994 (100.0%) of 81,994 articles have been extended.
+81,997 (100.0%) of 81,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,6 +70,32 @@ He highlighted that future support will focus on sectors such as green energy an
 [Data](articles/074598cf.json)
 
 [Extended Data](ext_articles/074598cf.ext.json)
+
+---
+
+### Second Anniversary of October 7: To ensure peace of mind by Trump's 20 -point plan
+
+*2025-10-07 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/227164) · `ta`
+
+The second anniversary of the Hamas attack on October 7, 2023, which is considered the most brutal terrorist attack in Israel's history, is observed on Tuesday (October 7, 2025).
+
+In a statement issued by US Secretary of State Marco Rubio, he added.
+
+More than 1,200 innocent men, women and children were brutally killed in the attack, including 46 Americans.
+
+Of the 254 people who were taken to hostage by the Hamas organization that day, 12 Americans were included.
+
+To date, a total of 48 hostages, including the bodies of American citizens Iyai Sen and Omar Neutra, are in the grip of Hamas.
+
+While Israel's unwavering support for Israel, the US reaffirms the right to the existence of Israel, to defend itself and ensure the safety of its people.
+
+As a tribute to the victims, the US has updated its commitment to prevent such evil forces from happening again.
+
+...
+
+[Data](articles/54777b1b.json)
+
+[Extended Data](ext_articles/54777b1b.ext.json)
 
 ---
 
@@ -1951,6 +1977,52 @@ The police states that Bo Bo Saspu and his casual wife are also involved in the 
 
 ---
 
+### Threatening can never be silent; The resignation of the Director of the Bribery and Corruption Investigation Commission - Udaya Kammanpila
+
+*2025-10-07 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227122) · `ta`
+
+Director General of the Bribery and Corruption Investigation Commission has warned me of Ranga Dissanayake. His threat that does not meet even the basic merits for holding the post can never be silent. Udaya Kammanpila, president of Pivithuru Hela Urumaya, said that it is best to automatically resign his post before I prove his qualifications.
+
+He further stated this at a press conference held at the Pivithuru Hela Urumaya headquarters in Colombo on Tuesday (07).
+
+Ranga Dissanayake, Director General of the Bribery and Corruption Investigation Commission on the 2nd, warned that if I commented in the presence of the media against him, the Corruption Act would be criticized by Article 118 of the Anti -Corruption Act.
+
+It is clear that even though he is the Director of the Bribery and Corruption Investigation Commission, he has no knowledge of it.
+
+He has accepted the qualifications for holding this post and it is the act of pulling the Commission. He warns me without knowing my history.
+
+...
+
+[Data](articles/fb587299.json)
+
+[Extended Data](ext_articles/fb587299.ext.json)
+
+---
+
+### One of the most special factors that led to a bankrupt country is bad debt management; Sajith Premadasa
+
+*2025-10-07 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/227109) · `ta`
+
+Opposition leader Sajith Premadasa said that the government has taken the government to repay domestic and foreign loans as the government has come to power and the new government has come to power since the new government came to power.
+
+He said this in a speech on Tuesday (07) under the Standing Ordinance of Parliament (07).
+
+The worst debt management is one of the special factors that we, as Sri Lankans, have led to a bankrupt country.
+
+When the International Monetary Fund was compliant with the International Monetary Fund, the people expected the current government to lead the country towards the development of development.
+
+In the meantime, more than a year after the new government came to power, I would like to ask the following questions to know the country's future development goals and its economic reading.
+
+At present, how much is Sri Lanka's total stock?  What are the monthly changes that have been found in the stockpile last year?
+
+...
+
+[Data](articles/7dc3b049.json)
+
+[Extended Data](ext_articles/7dc3b049.ext.json)
+
+---
+
 ### Toss in the coin to England
 
 *2025-10-07 14:43:26* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-එංගලන්තයට/9-418955) · `si`
@@ -1982,73 +2054,5 @@ More than a thousand people were trapped in this blizzard. A 41 -year -old trekk
 [Data](articles/a0b234ce.json)
 
 [Extended Data](ext_articles/a0b234ce.ext.json)
-
----
-
-### Supreme Court upholds death sentence on ‘Julampitiye Amare’
-
-*2025-10-07 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/113302/supreme-court-upholds-death-sentence-on-julampitiye-amare) · `en`
-
-The Supreme Court today (07) dismissed, without proceeding to a hearing, the appeal filed by G.G. Amarasiri, also known as ‘Julampitiye Amare’, against the death sentence imposed on him following a conviction for murder.
-
-The Supreme Court issued the order while affirming the death sentence previously handed down by the Tangalle High Court.
-
-‘Julampitiye Amare’ had been convicted over an incident in 2012, where he forcibly entered a JVP rally in Katuwana and opened fire, killing two individuals and critically injuring another.
-
-The Tangalle High Court then imposed the death sentence on him.
-
-◼️
-
-[Data](articles/296ff30f.json)
-
-[Extended Data](ext_articles/296ff30f.ext.json)
-
----
-
-### Woman Doctor Abuse: Action Order
-
-*2025-10-07 14:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-வைத்தியர்-துஷ்பிரயோகம்-அதிரடி-உத்தரவு-பிறப்பிப்பு/175-365894) · `ta`
-
-For a former soldier who had been detained for nearly seven months on Tuesday (07), a female training specialist at the Anuradhapura Teaching Hospital. Anuradhapura Magistrate Nalaka Sanjeeva Jayasuriya issued this order.
-
-A person who was released on severe bail conditions. Mathuranga is Ratnayake.
-
-The suspect is at a cost of Rs.. 50,000 in cash bail. The magistrate has ordered the release of 500,000 on two physical bail, and that one of the bail should be a close family member of the suspect.
-
-Moreover, the magistrate has strongly warned the suspect not to interfere in any way in witnesses or investigations, and has banned his foreign journey.
-
-However, despite being granted bail for a former soldier in connection with the abuse incident, he is still in the process of holding a handgun.
-
-...
-
-[Data](articles/c3b5b65c.json)
-
-[Extended Data](ext_articles/c3b5b65c.ext.json)
-
----
-
-### 8 lakhs donation of Chinese community to the Uyana
-
-*2025-10-07 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215435) · `si`
-
-The Chinese community and Chinese community and Chinese people in Sri Lanka have to donate a financial donation of Rs. 800,000.
-
-The financial donation has been made to improve the rehabilitation and safety of the sence capacity due to the unfortunate casualties of medicine accidents recently.
-
-This sad event, Chinese journalist, Sri Lanka's Chinese Language Internet newspaper, was reported on the Web Site and many of the Chinese community in Sri Lanka and China.
-
-Later, contacting her willingness to contribute to the rehabilitation and improvement of the crowdial cable cable.
-
-According to the success of this charity, the Chinese Media Institute of China and the Colombo North Cultural Center in Colombo have joined the Chinese community.
-
-Accordingly Rs. 800,000 was presented to the Nayaka Thera on Saturday, opener on the 500,000.
-
-The Chinese leaders have been prompted that the Chinese community's respect and kindness to the work of Sri Lanka.
-
-...
-
-[Data](articles/cd2532bd.json)
-
-[Extended Data](ext_articles/cd2532bd.ext.json)
 
 ---

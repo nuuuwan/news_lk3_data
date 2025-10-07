@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-07 08:39:19**
+As of **2025-10-07 09:13:29**
 
 ## Newspaper Stats
 
-*Scraped **81,720** Articles*
+*Scraped **81,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,40 +12,118 @@ newsfirstlk | 628
 dbsjeyarajcom | 637
 bbccomsinhala | 726
 colombotelegraphcom | 813
-lankadeepalk | 897
+lankadeepalk | 904
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,928
 dailyftlk | 5,683
 adalk | 7,809
 adaderanalk | 10,493
-tamilmirrorlk | 12,122
-virakesarilk | 13,454
-adaderanasinhalalk | 14,023
+tamilmirrorlk | 12,124
+virakesarilk | 13,456
+adaderanasinhalalk | 14,029
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,718 (100.0%) of 81,720 articles have been extended.
+81,736 (100.0%) of 81,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-07 (Tuesday)
 
-### යුවළක් කපා කොටා මරලා
+### It is raining this afternoon
+
+*2025-10-07 08:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பிற்பகல்-மழை-பெய்யும்/175-365860) · `ta`
+
+The Department of Meteorology has predicted that rain or thunderstorms will occur after 1.00 pm in most parts of the country
+
+Heavy rainfall is likely in some parts of the Northern, North Central, Eastern, Central and Uva provinces.
+
+It has been announced that rain or thunderstorms will occur in the morning and in the Western Province and in the Galle, Matara, Puttalam, Jaffna and Trincomalee districts.. (A)
+
+◼️
+
+[Data](articles/bce86a07.json)
+
+[Extended Data](ext_articles/bce86a07.ext.json)
+
+---
+
+### PB arrested for sale in policemen
+
+*2025-10-07 08:27:06* · [`lankadeepalk`](https://www.lankadeepa.lk/news/මත-කරල-ගන-පලසයට-ආ-පස-අතඅඩගවට/101-680820) · `si`
+
+Police say a constable was arrested by the police station with alcohol, Homagama Police said.
+
+Police have seized 150 millions of drunkills in possession of the suspected constable.
+
+The suspected orders were ordered to work as the telephone operator at six am yesterday (6).
+
+The suspect had found these alcohol when he inspected the main entrance of the police station again at around 11 pm, the suspect was not visible from the police station.
+
+◼️
+
+[Data](articles/b0aa3c7d.json)
+
+[Extended Data](ext_articles/b0aa3c7d.ext.json)
+
+---
+
+### GMOA gathering suddenly today
+
+*2025-10-07 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215422) · `si`
+
+A urgent executive committee meeting of the Government Medical Officers Association is scheduled to be held today (07).
+
+Assistant Secretary of the Association Dr. H. Hansal Weerasuriya said that the objective of the Ampara District is to discuss the problem of medical transfers in the Ampara District.
+
+The Government Medical Officers Association has commenced a trade union action in protest of arbitrary skepticism by health administrations in the Ampara District.
+
+According to the Assistant Secretary of the Government Medical Officers Assistant Secretary Dr. H. Hansamal Weerasuriya said that the government is not focused on the issue.
+
+◼️
+
+[Data](articles/6afe6dca.json)
+
+[Extended Data](ext_articles/6afe6dca.ext.json)
+
+---
+
+### A couple hacked to death
 
 *2025-10-07 08:09:37* · [`lankadeepalk`](https://www.lankadeepa.lk/news/යවළක-කප-කට-මරල/101-680819) · `si`
 
-හුංගම පොලිස් වසමේ රන්න වාඩිගල වලව් මහත්තයා ආර ප්‍රදේශයේදී පිරිමි පුද්ගලයකු හා කාන්තාවක් අද අලුයම තියුණු ආයුධ වලින් පහරදී ඝාතනය කොට ඇතැයි හුංගම පොලිසිය පවසයි.
+A male and woman has been assaulted by a male and a woman in the Hungama Ara area in the Hungama Police Division in the Hungama Police Division.
 
-ඝාතනය වී ඇත්තේ මනුෂ්‍ය ඝාතන කිහිපයකට චෝදනා ලැබූ රන්න කැලණිගම පදිංචිව සිටි අයෙකු හා කුඩා වැල්ලේ පදිංචිව සිටි කාන්තාවකි.
+A man who had been resident of Kelaniya, a resident of Kelaniya, accused of killing several murders.
 
-මුහුණු ආවරණය කරගෙන පැමිණි පුද්ගලයන් කිහිප දෙනෙකු මොවුන් දෙදෙනා ඝාතනය කොට පලා ගොස් ඇති බවට තොරතුරු ලැබී ඇතැයි පොලීසිය පවසයි.
+According to police, several persons who covered their faces have been killed and have fled the police.
 
 ◼️
 
 [Data](articles/0c85b1ad.json)
+
+[Extended Data](ext_articles/0c85b1ad.ext.json)
+
+---
+
+### Cutty murdering young couple
+
+*2025-10-07 08:02:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-தம்பதியினர்-வெட்டிக்-கொலை/175-365859) · `ta`
+
+A couple who were hacked to death by sharp weapons from a house in the Hungama - Dilut area have been recovered.
+
+Police have been informed that 2 people have died mysteriously in a house in the area. Accordingly, the police have begun investigations.
+
+Preliminary inquiries by the police revealed that the 28 -year -old husband and her wife died.
+
+◼️
+
+[Data](articles/0215a199.json)
+
+[Extended Data](ext_articles/0215a199.ext.json)
 
 ---
 
@@ -63,19 +141,151 @@ COLOMBO (News 1st): Sri Lanka Customs has reported a record-breaking revenue col
 
 ---
 
-### සවස් කාලයේ වැසි ඇති වේ
+### බ්‍රසීල සහ අමෙරිකානු ජනපතිවරු අතර දුරකථන සංවාදයක්
+
+*2025-10-07 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215421) · `si`
+
+බ්‍රසීල ජනාධිපති ලුවිස් ඉනාසියෝ ලුලා ද සිල්වා සහ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අතර දුරකථන සංවාදය සිදුව ඇත.
+
+විදෙස් මාධ්‍ය වාර්තා කළේය, දෙරටේ නායකයින් අතර ඉතා මිත්‍රශීලීව මිනිත්තු 30ක පමණ කාලයක් දුරකථන සංවාදය සිදුව ඇති බවය.
+
+මෙහිදී තම රටේ නිෂ්පාදන සඳහා පනවා ඇති තීරුබදු සහ නිලධාරීන්ට එරෙහිව පනවා ඇති සම්බාධක ඉවත් කරන ලෙස බ්‍රසීල ජනාධිපතිවරයා අමෙරිකානු ජනාධිපතිවරයාගෙන් ඉල්ලීමක් කර ඇති බව සඳහන්වේ.
+
+අමෙරිකානු ජනාධිපතිවරයා මෙම දුරකථන සංවාදය සම්බන්ධයෙන් සිය සමාජ මාධ්‍ය ගිණුමේ සටහනක් ද තබා තිබේ.
+
+ඉදිරියේ දි දෙරටේ නායකයික් මුහුණට මුහුණ හමුවී සාකච්ඡා කිරීමට ද මෙම දුරකථන සංවාදයේදි එකඟතාව පළවී ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/f5aebd6e.json)
+
+---
+
+### The first parliamentary week of October to today
+
+*2025-10-07 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215420) · `si`
+
+For the month of October, the first parliamentary week begins today (07).
+
+The Parliament's Secretariat said that the Parliament is scheduled to meet with Speaker Wickramaratne at 9.30 am today.
+
+The Convention Amendment Amendment Bill is due to be held in sports to take stimulus material in sports today.
+
+The Supplementary Estimate of the Ministry of Highways, Ports and Civil Aviation will be debated tomorrow (08).
+
+The council of the opposition on Thursday is scheduled to be held on Friday, eight private monthly proposals will be debated on Fridays.
+
+◼️
+
+[Data](articles/d9478835.json)
+
+[Extended Data](ext_articles/d9478835.ext.json)
+
+---
+
+### Showers in the evening
 
 *2025-10-07 06:52:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සවස-කලය-වස-ඇත-ව/101-680818) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවලට පස්වරු 1.00 පමණ  පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Showers or thundershowers will occur at several places in the island.
 
-උතුරු,උතුරු - මැද නැගෙනහිර,මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 50ට වැඩි තරමක තද වැසි ඇති වේ.‍ෙ
+Some places in the North, North and Central East, Central and Uva provinces have more than 50 mm.
 
-බස්නාහිර පළාතෙත් ගාල්ල,මාතර,පුත්තලම,යාපනය සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් උදෑසන කාලයේදී වැසි ඇති විය හැකියි.
+Showers will occur in the morning in Galle, Matara, Puttalam, Jaffna and Trincomalee districts.
 
 ◼️
 
 [Data](articles/57ca4890.json)
+
+[Extended Data](ext_articles/57ca4890.ext.json)
+
+---
+
+### Negotiations on American peace plan begins
+
+*2025-10-07 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215419) · `si`
+
+The unofficial negotiations have been launched in the Sharm El-Sheikh, aim of attending a final agreement on the American peace plan for the end of the war.
+
+The Hamas has said he is partially agreed to the proposals of the peace plan, but it is said that there have not been responding to several major demands including the disarm and Gaza.
+
+In addition to the delegation of both sides, Steve Whveknoff and President's son-in-law Gerard Kushner had previously participated.
+
+Meanwhile, Israeli Prime Minister Benjamin Netanyahukuku stated that he is expected to announce the release of hostages in the next days.
+
+◼️
+
+[Data](articles/feaeafb2.json)
+
+[Extended Data](ext_articles/feaeafb2.ext.json)
+
+---
+
+### Double murder of a Hungama residence
+
+*2025-10-07 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215417) · `si`
+
+The police said that the murder had been assaulted by sharp weapons.
+
+According to information received by the police, two persons were killed in a house of the Hungama Ranna area have been identified as a mysterious deceased.
+
+Initial investigations have revealed that the victim has been identified as a 28-year-old man and his mistress.
+
+The owner of the house is now in prison and said that the couple had been living in the house on a temporary basis.
+
+The killing of the murder is yet to be ascertained and the post mortem will be held today (07).
+
+◼️
+
+[Data](articles/df69ea5b.json)
+
+[Extended Data](ext_articles/df69ea5b.ext.json)
+
+---
+
+### Thundershowers at several places
+
+*2025-10-07 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215416) · `si`
+
+Showers or thundershowers will occur at several places in the country today (07).
+
+In some places in the Northern, North-Central, Central and Uva provinces. It is informed that there may be heavy rains at more than 50.
+
+Showers or thundershowers will occur at the same time in Galle, Matara, Puttalam and Trincomalee districts, the Western Province.
+
+The Department has informed the people to take necessary accidents to reduce the dangers of lightning and temporary winds with thunderstorms.
+
+◼️
+
+[Data](articles/d8658fa7.json)
+
+[Extended Data](ext_articles/d8658fa7.ext.json)
+
+---
+
+### The weather today
+
+*2025-10-07 06:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/227073) · `ta`
+
+The Department of Meteorology has said that rain or thunderstorms are in the afternoon after one hour in many parts of the country.
+
+Heavy rains are expected to occur in some parts of the North, Eastern, North Central, Central and Uva provinces.
+
+Rainfall is expected in the Western Province as well as in the morning.
+
+In cases where strong winds and lightning are occurring, the public is asked to avoid losses or damage.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+In the sea regions, the wind blows from the southwest or the contrasting directions at 25 - 35 kilometers per hour.
+
+But in the event of thunderstorms, strong winds are blowing and the sea regions are temporarily in a very turbulent.
+
+◼️
+
+[Data](articles/3d30a958.json)
+
+[Extended Data](ext_articles/3d30a958.ext.json)
 
 ---
 
@@ -94,6 +304,26 @@ The factory is one of the major factories that provide ammunition to Russian for
 [Data](articles/59901189.json)
 
 [Extended Data](ext_articles/59901189.ext.json)
+
+---
+
+### One person arrested by special troops with ice drug
+
+*2025-10-07 05:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/227072) · `ta`
+
+The Kalmunai Special Task Force (STF) has arrested a suspect on Monday evening (06) evening on the Napitimunai Old Electricity Board Road, which belongs to the Kalmunai Police Division of the Ampara District.
+
+Kalmunai Special Task Force (STF) has arrested a suspect with ice drugs during a roundup of secret information available to Kalmunai Special Task Force officers.
+
+The 23 -year -old suspect from Napitimunai has been arrested.
+
+During this time, 770 milligrams of Ice had been recovered from the arrested suspect and the proceedings, including the suspects, have been handed over to the Kalmunai Police Station for legal action.
+
+...
+
+[Data](articles/a3442fde.json)
+
+[Extended Data](ext_articles/a3442fde.ext.json)
 
 ---
 
@@ -993,6 +1223,30 @@ It is said that Limoru resigned from his party and other parties.
 
 ---
 
+### French prime minister resigned from appointment of ministers
+
+*2025-10-06 21:28:06* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇමතවරන-පත-කර-පරශ-අගමත-ඉලල-අසව/1-680808) · `si`
+
+A month after the French Prime Minister Sebastian was appointed as LECORN. LECORNS resigned from his cabinet was a 24-hour before it was 24 hours before.
+
+The fifth Prime Minister of France is the fifth Prime Minister of France for two years and he has created a political crisis in France with resignation. ලෙකෝර්නු ප්‍රංශ අගමැති ධුරයේ දින 27 ක කටයුතු කළ අතර ඔහුගේ ආණ්ඩුව පැය 14 කට සීමාවී තිබිණි.
+
+The government of Licarin was the most powerful government in the history of modern French.
+
+French news services says that LECORN, French president, has been handed over to the resignation letter and the President accepts the resignation.
+
+President McConon, Licoring Prime Minister was appointed after the resignation of Franchouwa Birer. The majority of the French parliament has the right-wing parties. French President McCron and his ruling party in the center of the country.
+
+It is said that Limoru resigned from his party and other parties.
+
+...
+
+[Data](articles/bcbfbcf5.json)
+
+[Extended Data](ext_articles/bcbfbcf5.ext.json)
+
+---
+
 ### Three for the Nobel Prize for Physiology or Medicine
 
 *2025-10-06 21:23:43* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කයක-වදයව-හ-වදය-වදයව-සඳහ-වන-නබල-තයගයට-තදනක/101-680807) · `si`
@@ -1013,6 +1267,26 @@ Thousands of people who are trying to invade our bodies have been awarded the No
 
 ---
 
+### Three for the Nobel Prize for Physiology or Medicine
+
+*2025-10-06 21:23:43* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කයක-වදයව-හ-වදය-වදයව-සඳහ-වන-නබල-තයගයට-තදනක/1-680807) · `si`
+
+The Nobel Committee issued an announcement that the Nobel gifts of the Nobel gifts of physiology or medicine this year were awarded to three scientists.
+
+The three scientists Mary e bronkov, Fred Ramesdel and Shimon Zimon Zimon offered the Nobel Gift for Physiology or Medicine.
+
+Mary e Brenkov, Fred Ramesdel, Fred Ramesdel, is a Japanese.
+
+Thousands of people who are trying to invade our bodies have been awarded the Nobel Gift to find out how to protect us from the immune system of the microorganisms.
+
+◼️
+
+[Data](articles/f34f9ad0.json)
+
+[Extended Data](ext_articles/f34f9ad0.ext.json)
+
+---
+
 ### Work on the week of the Parliamentary PS on the Tomorrow, this is how
 
 *2025-10-06 21:19:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හට-ඇරඹන-පරලමනත-සතය-වඩ-වනන-මහමය/101-680806) · `si`
@@ -1026,6 +1300,42 @@ Tuesday 7th October to 9.30 am -. 10.00 is reserved for Parliamentary Business o
 [Data](articles/94abd315.json)
 
 [Extended Data](ext_articles/94abd315.ext.json)
+
+---
+
+### Work on the week of the Parliamentary PS on the Tomorrow, this is how
+
+*2025-10-06 21:19:40* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හට-ඇරඹන-පරලමනත-සතය-වඩ-වනන-මහමය/1-680806) · `si`
+
+The Secretary General of Parliament Kushani Rohanagadara said that Parliament is scheduled to meet tomorrow (7) to Friday.
+
+Tuesday 7th October to 9.30 am -. 10.00 is reserved for Parliamentary Business of the Standing Order 22. 10:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am - 11:00 am) Reserved for Question. 11.30 am - 11:30 am - 5:00 am. The time has been set aside for the questions that follow times at the adjournment at the post until 4 pm.
+
+...
+
+[Data](articles/119acfb2.json)
+
+[Extended Data](ext_articles/119acfb2.ext.json)
+
+---
+
+### The kidney is injection
+
+*2025-10-06 21:15:05* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වකගඩ-එනනත-කටවන-ලක-ගහලලක/1-680805) · `si`
+
+The vaccination of the vaccine for the blood leakage of the kidney patients has been increased to Rs. 100 to Rs.
+
+Health and Mass Media Mass Media Minister Dr. Nalinda Jayatissa said that the relevant institution was obtained to obtain 400,000 acquisitions due to the importation of 400,000 acquisitions to the public hospitals.
+
+The Minister said that due to the deficit deficit, the funds will be allocated to purchase the vaccines from the sector.
+
+The tenderer was also limited to the private sector and that the vaccine thoroughle was restricted to the private sector and had a deficit.
+
+◼️
+
+[Data](articles/603e3efe.json)
+
+[Extended Data](ext_articles/603e3efe.ext.json)
 
 ---
 
@@ -1086,6 +1396,26 @@ The sun was subsequently handed over to the Walasmulla Base Hospital.
 [Data](articles/30fdbb25.json)
 
 [Extended Data](ext_articles/30fdbb25.ext.json)
+
+---
+
+### Muruthewela reservoir killed
+
+*2025-10-06 20:50:34* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/මරතවල-ජලශය-ගල-ගරවරයක-මරට/1-680804) · `si`
+
+A 32-year-old schoolteacher, a 32-year-old schoolteacher, drowns around 3.30 pm today.
+
+The deceased is W.W.W.K.K.B.B.B.BSheles, a resident of Okarale.
+
+Police said he came to a picnic with his friends and was fired in the Muruthewela Reservoir
+
+The sun was subsequently handed over to the Walasmulla Base Hospital.
+
+◼️
+
+[Data](articles/6d0a24c1.json)
+
+[Extended Data](ext_articles/6d0a24c1.ext.json)
 
 ---
 
@@ -1200,6 +1530,28 @@ If HIV enters the body through such unprotected sexual contact, the virus can sp
 [Data](articles/819e0a3e.json)
 
 [Extended Data](ext_articles/819e0a3e.ext.json)
+
+---
+
+### The former Minister of Foreign Minister's 40th bank accounts provokes
+
+*2025-10-06 20:11:53* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හටප-මත-ඇමත-40ග-බක-ගණම-අවසසය/1-680803) · `si`
+
+The Asset Investigation Division of the Criminal Investigation Division of the Criminal Investigation Department including former MPs, including the present MPs and the present MPs, has commenced checking various reports, including bank reports and asset liabilities statements.
+
+When we inquired from the People's Defense and Members of Parliament and Parliamentary Affairs Ananda Wijepala, he said that these investigations were so complex because he had to examine many writings.
+
+He said that a large number of information including banks, including banks, it takes some time to check and verify them.
+
+The Minister said that the complaints were flowing further complaints regarding politicians, claiming that they were adopted.
+
+Meanwhile, police have commenced investigations into a group of former MPs who claim that relations with various underworld gangs. Details of these relations have been revealed in questioning famous underworkers.
+
+◼️
+
+[Data](articles/662c48fc.json)
+
+[Extended Data](ext_articles/662c48fc.ext.json)
 
 ---
 
@@ -1652,357 +2004,5 @@ The accident had occurred when a group of women who had come to join the road to
 [Data](articles/b3155dcd.json)
 
 [Extended Data](ext_articles/b3155dcd.ext.json)
-
----
-
-### The new Bill is targeted by the school - President of the Sri Lanka Teachers Service Association
-
-*2025-10-06 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/227057) · `ta`
-
-Sri Lanka Teachers Service Association President Priyantha Fernando said that the new Bill would be aimed at the school when the amendment to the Penal Code to prevent all kinds of disturbances against children.
-
-He was speaking at a press conference held in Colombo on Monday (6).
-
-The new Bill is often targeted when the amendment is amended to prevent all kinds of disturbances against children.. Such is the same as the Amendment Bill of the Penal Code (Chapter 19), which is currently being tabled in Parliament.
-
-We see a few ministers in Parliament regarding this Bill.. Students over the age of 16 have stated that there is no restriction on engaging in sexual activity.
-
-Deputy Minister Mahinda Jayasinghe says that the amendment will not affect the school.. But this amendment is targeting the school 80 per cent. Due to this amendment, it is a problem to protect the school's discipline and teachers are facing the issue of action in which they are protecting their careers.
-
-...
-
-[Data](articles/ff4ad0c0.json)
-
-[Extended Data](ext_articles/ff4ad0c0.ext.json)
-
----
-
-### One dead, two hospitalised due to drowning near Blue Beach Island
-
-*2025-10-06 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/113264/one-dead-two-hospitalised-due-to-drowning-near-blue-beach-island) · `en`
-
-Three individuals have been swept away due strong currents while bathing in seas near the Blue Beach Island in Dikwella, police stated.
-
-Area residents had then acted swiftly to rescue the trio but one person was pronounced dead, according to police.
-
-The body of the deceased has been taken to the Batheegama Hospital, while the other two individuals have been admitted to the Matara General Hospital and are currently receiving treatment in the Intensive Care Unit (ICU).
-
-◼️
-
-[Data](articles/447b1b95.json)
-
-[Extended Data](ext_articles/447b1b95.ext.json)
-
----
-
-### Somavati Vihara has the opportunity to enter the history of the Vihara - Minister Sunil Senevi
-
-*2025-10-06 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227051) · `ta`
-
-The new Archaeological Museum and the International Archaeological Research Institute are found in the history of the Somavati Vihara, said Buddha Sasana, Religious and Cultural Affairs Minister Dr. Hiniduma Sunil Senevi.
-
-He said this while addressing the event at the inauguration of the newly constructed Archaeological Museum and the International Archaeological Research Institute at the historic Somavathi Viharaya under the patronage of President Anura Kumara Dissanayake.
-
-We expect this new Archaeological Museum and the International Archaeological Research Institute to enter the history of the great archaeological Somavati Vihara.
-
-As a result of the systematic development program affiliated with science and technology, the event is being implemented by the historic Somavati Vihara to the people of the world and the people of Sri Lanka.
-
-◼️
-
-[Data](articles/7f141242.json)
-
-[Extended Data](ext_articles/7f141242.ext.json)
-
----
-
-### Government permits to fill vacancies in universities
-
-*2025-10-06 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/227049) · `ta`
-
-The Ministry of Education, Higher Education and Vocational Education said that all universities have been allowed to obtain new education staff.
-
-Permission has been granted to resume recruitment process in recent months. It is now approved in accordance with the demands submitted by each university for the needs of academic and non -academic staff.
-
-Universities have been recognized by the Prime Minister's Office.
-
-The next step is to carry out related recruitment procedures for universities. There is a little more time to complete the procedures.
-
-It is normal for universities to have a shortage of universities when the recruitment has been stopped for many years, but the process of resurgence has now begun. However, he said it was impossible to fill the vacancies overnight.
-
-At the height of the economic crisis in the country, recruitment operations have not been carried out due to the suspension of work in many public sectors to reduce costs.
-
-...
-
-[Data](articles/401f2324.json)
-
-[Extended Data](ext_articles/401f2324.ext.json)
-
----
-
-### Birth rate
-
-*2025-10-06 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/227055) · `ta`
-
-The number of births in Sri Lanka is dramatically declining. According to the official data of the Department of Statistics, the number of births in 2018 declined to 2,20,761 in 2024. It was reported to be about 33 percent.
-
-Former Education Minister Susil Premajayantha has recently warned that the annual births of the country have been drastically decreased, with the facts of the Ministry of Health, which will have long -term consequences for the country's schools and staff.
-
-Experts say that the combination of many reasons for this fall. Sri Lanka's fertility rate has been decreasing for many years to reflect the preference for small family sizes and delayed childbirth. Experts note that this long -term decline has worsened by recent crises.
-
-It is noteworthy that the Kovit-19 infection and the economic crisis of 2022 have had a double impact, resulting in a number of couples delaying weddings and pregnancy.
-
-◼️
-
-[Data](articles/1939209e.json)
-
-[Extended Data](ext_articles/1939209e.ext.json)
-
----
-
-### Sajith 2 crore scandal scam Investigation Function - Kandaswamy Prabhu
-
-*2025-10-06 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227054) · `ta`
-
-When Opposition Leader Sajith Premadasa has been a minister in the past, with the political objective that he should be president, the National People's Power Member Kandasamy Prabhu said that the Commission was conducting an inquiry into the corruption scandal that had spent more than 2 crores of corruption scandal to inscribe the inscription.
-
-He told the media yesterday (5) after handing over the houses constructed by the Government of the Government's program on the occasion of World Residential Day in the Manmunai North Divisional Secretariat Division of Batticaloa on Sunday (5).
-
-In the past, the housing projects launched in the Batticaloa district in the past were abandoned and the houses were abandoned for the political purpose of becoming president at the time he was a minister.
-
-...
-
-[Data](articles/1c48ddda.json)
-
-[Extended Data](ext_articles/1c48ddda.ext.json)
-
----
-
-### Manamberi is not the Coordinating Secretary appointed by me - Johnston Fernando
-
-*2025-10-06 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/227053) · `ta`
-
-Former Minister Johnston Fernando denies that Sampath Manamberi has not served as one of his coordinating secretaries. He said legal action is ready to take legal action against those who spread false information.
-
-He said this while addressing an event in the Sri Lanka PA.
-
-Currently, Manamberry says that one of my coordinating secretaries. Remember that I have only appointed coordinating secretaries from this district. Johnston Bernanato added that this claim is an attempt to tarnish my name.
-
-◼️
-
-[Data](articles/0667ac08.json)
-
-[Extended Data](ext_articles/0667ac08.ext.json)
-
----
-
-### English author Jilly Cooper dies at age 88
-
-*2025-10-06 17:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/113263/english-author-jilly-cooper-dies-at-age-88) · `en`
-
-English author Dame Jilly Cooper has died at age 88, her family has announced.
-
-The author was best known for The Rutshire Chronicles, including the second book in the series, Rivals, which was recently adapted into a Disney+ series starring David Tennant.
-
-Cooper’s novels were known for their glamorous settings, complex characters and romantic entanglements, starting in the world of British equestrianism and high society.
-
-Her books were often called “bonkbusters” but Cooper much preferred the phrase “low morals and high fences”, she told the BBC in 2024.
-
-Her death was made public with a statement from her children, Felix and Emily, who said her death came as a “complete shock”.
-
-“We are so proud of everything she achieved in her life and can’t begin to imagine life without her infectious smile and laughter all around us,” they said in a statement.
-
-Agent Felicity Blunt said Cooper had “defined culture, writing and conversation since she was first published over 50 years ago”.
-
-...
-
-[Data](articles/c2b08602.json)
-
-[Extended Data](ext_articles/c2b08602.ext.json)
-
----
-
-### Facts will be revealed soon in connection with the murder of Tajuddin - Deputy Minister Sunil Vatagala
-
-*2025-10-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/227031) · `ta`
-
-Investigations related to the murder of rugby player Wasim Tajuddin are intensifying. Deputy Minister of Public Security and Parliamentary Affairs Sunil Vattakala said that the connections between the confusion and the murder of Tajuddin will soon be expressed to the country.
-
-He further stated that he was speaking to the media on Monday (06).
-
-Investigations related to the murder of Wasim Tajuddin are being carried out best. This is why some people are upset. Investigations reveal what the connections between this confusion and the murder of Tajuddin. A certain family is so much trouble.
-
-We cannot say whether the family is a Rajapaksa family or a different family. But the facts will be revealed according to the hearing.
-
-The affidavits of the arrested will be obtained. Further inquiries will be carried out without any obstacles based on information available from such affidations.. No one needs to be afraid. He said the facts would be revealed soon to the country through investigations.
-
-◼️
-
-[Data](articles/e710df44.json)
-
-[Extended Data](ext_articles/e710df44.ext.json)
-
----
-
-### Set up the Presidential Commission and investigate Mahinda - Sarath Fonseka
-
-*2025-10-06 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/227047) · `ta`
-
-The Rajapaksas, who are currently making crocodile tears regarding soldiers, paid $ 2 million for the purchase of the Liberation Tigers of Tamil Eelam (LTTE) for the election victory in 2005. Mahinda Rajapaksa has been guilty of the killing of more than 4,000 soldiers by announcing the ceasefire to escape Velupillai Prabhakaran during the final war in 2009.. Field Marshal Sarath Fonseka said it was the government's responsibility to file a charge sheet against him and carry out investigations through the Presidential Investigation Commission.
-
-He was speaking at an event held at Matara on Sunday night (5).
-
-Namal says that Mahinda's action is wrong to imprison me. Now they have an innovative compassion for the soldiers.
-
-But my daughters, who had been learning at the American University that day, were taken to the country at the airport at the airport. Despite the face -to -face face -to -face, the LTTE leader Prabhakaran did not give up on my family.
-
-...
-
-[Data](articles/67358850.json)
-
-[Extended Data](ext_articles/67358850.ext.json)
-
----
-
-### Mahinda would have been arrested if I became president - Sarath Fonseka
-
-*2025-10-06 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227046) · `ta`
-
-The furniture used at the Mahinda Rajapaksa Wijerama residence and the President's House, which has just 40,000 rays at the Calton House. They are all imported. Field Marshal Sarath Fonseka said that if I became president, I would have taken steps to arrest him first.
-
-He was speaking at an event held in Matara on Sunday night (5).
-
-The Rajapaksa family manages corruption in the country. Corruption and scams are going to break the definitions. Even if they are incarcerated in a thousand prisons, they will not abandon corruption.
-
-Although the law has been passed to eliminate presidential privileges, all three former presidents have not yet handed over official homes to the government.
-
-...
-
-[Data](articles/91d32ecd.json)
-
-[Extended Data](ext_articles/91d32ecd.ext.json)
-
----
-
-### Selling liquor on full moon holidays - how the suspect caught?
-
-*2025-10-06 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/227050) · `ta`
-
-A suspect who was illegally selling liquor at a home on a full moon holiday was arrested by police today (06).
-
-Kalmunai Regional Assistant Superintendent of Police, MK Ibn Azar, under the direct guidance of the Narcotics Eradication Unit and the Sub -Inspector of Police, KLM Mustafa, has been subjected to the secret information available to the police team headed by the Kalmunai Headquarters Police Officer Lasantha Kaluwarayichi.
-
-An official of the Drug Eradication Unit has taken the action after receiving information about the suspect that he was on sale on Monday, a full moon holiday in Senaikkudiyiruppu, which belongs to the Kalmunai Headquarters Police Division.
-
-More than 25 liquor bottles, including 40 beers, have been seized by the police for sale at home without illegally permits.
-
-Police said they are taking steps to bring the suspect to the Kalmunai Magistrate's Court.
-
-◼️
-
-[Data](articles/d32740c6.json)
-
-[Extended Data](ext_articles/d32740c6.ext.json)
-
----
-
-### Women traveling on the street
-
-*2025-10-06 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/227052) · `ta`
-
-Three women were killed and another woman was injured in an accident in Tholuwa, Kandy, Kandy, Gampola police said.
-
-The accident occurred when a car crashed into four women who were traveling on the road, police said.
-
-The accident occurred while four women were traveling on the street to attend a religious worship event, police said.
-
-Three women died on the spot and another woman was injured and admitted to the Gampola hospital, police said.
-
-◼️
-
-[Data](articles/8e7157ce.json)
-
-[Extended Data](ext_articles/8e7157ce.ext.json)
-
----
-
-### National Reading Month Events In The Libraries of the Manipay Pradeshiya Sabha
-
-*2025-10-06 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/227045) · `ta`
-
-The National Reading Month Competition for School Students has begun in the public libraries of Manipay, Anaikottai, Madagal and Pandathara, which runs under the Valikamam Southwest Manipay Pradeshiya Sabha on the National Reading Month.
-
-Arrangements have been made to hold various competitions among the reader and students in these public libraries under the theme "Read for Renaissance".
-
-There will be competitions such as Grade 1-3, Grade 4-5, Grade 4-5, Grade 6-8, Grade 9-11, Grade 9-11, Grade 12-13, Competitions such as reading, Tirukkural Mananam Competition, Essay, Poetry, Drawing, Common Knowledge, Legal Release, New Book Exhibition and Children's Entertainment.
-
-The tournament will commence tomorrow (7) and will be held till Tuesday, the 14th.
-
-Therefore, the librarian of the Manipay Pradeshiya Sabha has requested to participate in these competitions and showcase their talents.
-
-◼️
-
-[Data](articles/61e8e094.json)
-
-[Extended Data](ext_articles/61e8e094.ext.json)
-
----
-
-### Super Moon tonight
-
-*2025-10-06 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215408) · `si`
-
-Arthur C Clarke Institute of Modern Technology says that the Moon is being seen as "Super Moon".
-
-Accordingly, the Moon is a 7 percent brighter in this country, researchers of about 7 percent and more brightly.
-
-He said that when the Moon appears as "Super Moon", he said that this situation would occur as a result of the Eleepastern orbit.
-
-The Arthur C Clark, Research Scientist Supervisor, Experts, Information of Modern Technology said that Saturn could be observed today.
-
-◼️
-
-[Data](articles/86dfe281.json)
-
-[Extended Data](ext_articles/86dfe281.ext.json)
-
----
-
-### Human Rights Council adopts resolution on Sri Lanka
-
-*2025-10-06 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113262/human-rights-council-adopts-resolution-on-sri-lanka) · `en`
-
-The resolution A/HRC/60/L.1/Rev.1 on promoting reconciliation, accountability and human rights in Sri Lanka has been adopted at the United Nations Human Rights Council in Genève.
-
-The resolution has been adopted without a vote at the 60th session of the Human Rights Council.
-
-Twenty-two countries signed on as co-sponsors to the revised UN resolution, extending the Office of the High Commissioner for Human Rights’ (OHCHR) mandate in Sri Lanka for another two years.
-
-The resolution proposes to “extend the mandate of the Office of the High Commissioner and all work requested of it by the Human Rights Council in its resolution 51/1 of 6 October 2022, and request the Office to present a written update at its sixty-third session, and a comprehensive report on progress in reconciliation, accountability and human rights in Sri Lanka at its sixty-sixth session, to be discussed during an interactive dialogue.”
-
-...
-
-[Data](articles/2ca9d07c.json)
-
-[Extended Data](ext_articles/2ca9d07c.ext.json)
-
----
-
-### One killed in motorcycle accident Two people hurt!
-
-*2025-10-06 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227048) · `ta`
-
-A youth was killed and two men were injured when a motorcycle crashed in the Vavuniya - Rashendramkulam area, Nelukkulam police said.
-
-Three youths are traveling in a motorcycle from Rasendrakulam, Vavuniya.
-
-The motorcycle crashed into a bus station near the Rasendrankulam school after the motorcycle lost control.
-
-A youth who was riding a motorcycle was killed and two others were injured and admitted to the Vavuniya hospital for treatment.
-
-◼️
-
-[Data](articles/2c55953f.json)
-
-[Extended Data](ext_articles/2c55953f.ext.json)
 
 ---

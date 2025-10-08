@@ -1,37 +1,123 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 12:14:21**
+As of **2025-10-08 12:24:30**
 
 ## Newspaper Stats
 
-*Scraped **82,096** Articles*
+*Scraped **82,106** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 638
 newsfirstlk | 653
-bbccomsinhala | 729
+bbccomsinhala | 730
 colombotelegraphcom | 815
-lankadeepalk | 980
+lankadeepalk | 984
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
 adalk | 7,840
 adaderanalk | 10,532
-tamilmirrorlk | 12,167
+tamilmirrorlk | 12,170
 virakesarilk | 13,530
-adaderanasinhalalk | 14,065
+adaderanasinhalalk | 14,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,090 (100.0%) of 82,096 articles have been extended.
+82,090 (100.0%) of 82,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### பாராளுமன்றத்தில் பதற்றம்
+
+*2025-10-08 12:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பதற்றம்/175-365954) · `ta`
+
+பொலிஸ் இடமாற்றங்கள் தொடர்பான விவகாரம் தொடர்பாக இன்று (08) பாராளுமன்றத்தில் பதற்றமான சூழ்நிலை ஏற்பட்டது.
+
+பாராளுமன்றத்தில் உரையாற்றிய எதிர்க்கட்சியின் பிரதம கொறடா கயந்த கருணாதிலக, பொலிஸ் ஆணைக்குழுவை புறக்கணித்து, பொலிஸ்மா அதிபரால் (ஐ.ஜி.பி) பொலிஸ் இடமாற்றங்கள் மேற்கொள்ளப்படுவதாகக் கூறப்படும் ஒரு செயல்முறை குறித்து அரசாங்கத்திடம் கேள்வி எழுப்பினார்.
+
+இதுபோன்ற நடைமுறைகள் நிறுத்தப்பட வேண்டும் என்று எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் கயந்த கருணாதிலக்க வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் பேசிய பாராளுமன்ற உறுப்பினர் தயாசிறி ஜெயசேகர, 2017 முதல், பொலிஸ் இடமாற்றங்கள் தொடர்ந்து பொலிஸ் ஆணையத்தால் கையாளப்பட்டு வருவதாகவும், இந்த கட்டத்தில் இந்த அதிகாரத்தை பொலிஸ்மா அதிபரிடம் ஒப்படைப்பது பொருத்தமற்றது என்றும் கூறினார்.
+
+32 மூத்த பொலிஸ் கண்காணிப்பாளர்களும், பல பிரதி பொலிஸ் ஆய்வாளர்களும் ஏற்கனவே பொலிஸ் ஆணையத்தின் எல்லைக்கு வெளியே இடமாற்றம் செய்யப்பட்டுள்ளனர் என்றும் அவர் மேலும் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/ab837e1a.json)
+
+---
+
+### සුව ඇමැති - ස්වීඩන් තානාපති හමුවක්
+
+*2025-10-08 12:07:18* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සව-ඇමත-සවඩන-තනපත-හමවක/1-680911) · `si`
+
+නවදිල්ලියේ නේවාසිකව සිටින ශ්‍රී ලංකාවේ ස්වීඩන තානාපති ජෑන් තෙස්ලෙෆ් (Jan Thesleff) මහතා සහ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අතර හමුවක් සෞඛ්‍ය අමාත්‍යංශයේ දී පැවැත්විණි.
+
+ශ්‍රී ලංකාවේ සෞඛ්‍ය ක්ෂේත්‍රයේ උන්නතිය මෙන්ම මෙරට ආර්ථිකයේ දියුණුව සඳහා ස්වීඩනය ඉතිහාසය පුරා කර ඇති මැදිහත්වීමි හා ව්‍යාපාරික අංශයේ කර තිබෙන ආයෝජන පිළිබඳව  මෙහිදී සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යරයා සිහිපත් කළ අතර, ශ්‍රී ලංකා රජය ගත වූ වසරක කාලයේ ලබා ඇති ප්‍රගතිය පිළිබඳව ද දැනුවත් කළේය.
+
+එමෙන් ම මෙම හමුවේ දී මෙරට සෞඛ්‍ය ක්ෂේත්‍රය පිළිබඳව සහ ජනමාධ්‍ය ක්ෂේත්‍රය පිළිබඳව ද සාකච්ඡා සිදු කරන ලද අතර, ශ්‍රී ලංකාවේ ආහාර සුරක්ෂිතතාව, ශ්‍රී ලංකාව කලාපය තුළ ඉහළ සෞඛ්‍ය දර්ශක පවත්වාගෙන යාම, ළමා පෝෂණය සහ පෝෂණ ඌණතා, පාසල් සිසුන් අතර පෝෂණ තත්ත්වය සහ අභියෝග, වයස්ගත ජනගහණ අභියෝග, මෙරට ඖෂධ නිෂ්පාදන වැඩපිළිවෙල පිළිබඳව මෙන්ම ප්‍රාථමික සෞඛ්‍ය ප්‍රවර්ධන වැඩපිළිවෙල පිළිබඳව  සාකච්ඡා කෙරිණි.
+
+◼️
+
+[Data](articles/222bbecb.json)
+
+---
+
+### ශානි ඇතුළු තිදෙනෙකුගේ පෙත්සම් විභාගයට අවසර
+
+*2025-10-08 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215462) · `si`
+
+2020 වසරේ කිසිදු සාධාරණ සැකයක් නොමැතිව කොළඹ අපරාධ කොට්ඨාශය මඟින් තමන්ව අත්අඩංගුවට ගැනීම තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ශානි අබේසේකර, එම දෙපාර්තමේන්තුවේ හිටපු පොලිස් පරීක්ෂකවරුන් වන සුදත් මෙන්ඩිස්  සහ එච්.ඩී.එම් ප්‍රේමතිලක විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සන් තුනක් විභාගයට ගැනීමට ශ්‍රේෂ්ඨාධිකරණය අද අවසර ලබා දී තිබේ.
+
+දීර්ඝ කරුණු සලකා බැලීමකින් අනතුරුව මහින්ද සමයවර්ධන මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළහ.
+
+◼️
+
+[Data](articles/0cd4ae11.json)
+
+---
+
+### වාහන අංක තහඩු ලබාදීමේ ප්‍රමාදය ගැන ඇමතිගෙන් පැහැදිලි කිරීමක්
+
+*2025-10-08 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215461) · `si`
+
+නව වාහන අංක තහඩු ලබාදීමේ ක්‍රමවේදයේ සිදුව ඇති ප්‍රමාදය සම්බන්ධයෙන් ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පාර්ලිමේන්තුවේදී පැහැදිලි කිරීමක් සිදුකළේය.
+
+පැනයකට පිළිතුරු දෙමින් අමාත්‍යවරයා සඳහන් කළේ, 2025 සැප්තැම්බර් 30 දිනට වාහන අංක තහඩු 165,512 ලබාදී නොමැති බවය.
+
+වාහන අංක තහඩු ලබාදීමේ ක්‍රමවේදයේ ප්‍රමාදයක් පවතින බවට අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+"වාහන අංක තහඩු ලබාදීම අපි සැලසුම් කළාට වැඩිය ප්‍රමාදයක් තියෙනවා. නව වාහන අංක තහඩුවල විශේෂ ආරක්ෂිත ලක්ෂණ 07ක් අඩංගු වෙනවා. මේ ලක්ෂණ 07 ලංකාවේ පරීක්ෂා කිරීම පිළිබඳව අපි භාරදුන්නා මොරටුව සරසවියට. ඔවුන් මාස තුනක වගේ කාලයක් ගත්තා. ඒ වගේම ඔවුන්ට පුළුවන් කියලා ප්‍රකාශ කළේ එයින් 06ක් පමණයි. ඒ නිසා අපි 07 වෙනි එක පිළිබඳ පරීක්ෂා කිරීම ජාත්‍යන්තර වශයෙන් සිදුකරන්න වෙලා තියෙනවා. ඒ නිසා තමයි මේ ප්‍රමාදය වෙලා තිබෙන්නේ. ආරක්ෂිත තත්ත්වය වැඩිකිරීමට දරපු උත්සහාය ප්‍රතිඵලයකුත් මේකට එකතුවෙලා තියෙනවා."
+
+...
+
+[Data](articles/808ce4ec.json)
+
+---
+
+### LGBTQ சுற்றுலா விவகாரம்;பிரதமர் விளக்கம்
+
+*2025-10-08 11:42:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/LGBTQ-சுற்றுலா-விவகாரம்-பிரதமர்-விளக்கம்/175-365947) · `ta`
+
+இலங்கையில் LGBTQ சுற்றுலாவை மேம்படுத்துவது தொடர்பான சர்ச்சையைத் தொடர்ந்து, இலங்கை சுற்றுலா அபிவிருத்தி ஆணைக்குழுத் (SLTDA) தலைவர் அரசியல் அதிகாரசபையுடன் கலந்தாலோசிக்காமல் LGBTQ சுற்றுலா தொடர்பாக ஒரு கடிதத்தை வெளியிட்டதாக பிரதமர் ஹரிணி அமரசூரிய இன்று தெரிவித்தார்.
+
+LGBTQ பிரச்சினையில் அரசாங்கத்தின் நிலைப்பாடு மற்றும் கொள்கை குறித்து SLTDA தலைவருக்கு அந்தந்த அமைச்சர் ஆலோசனை வழங்கியதாக அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+இந்த விஷயத்தில் அரசாங்கத்தின் நிலைப்பாடு என்னவென்றால், எந்தவொரு குறிப்பிட்ட குழுவிற்கும் அரசாங்கம் சிறப்பு சலுகைகளை ஊக்குவிக்கவோ அல்லது வழங்கவோ மாட்டாது.
+
+குறிப்பிட்ட கடிதம் தொடர்பாக SLTDA தலைவர் மீது அரசாங்கம் எடுத்த நடவடிக்கைகள் குறித்து SJB பாராளுமன்ற உறுப்பினர் கவிந்த ஜெயவர்தன எழுப்பிய கேள்விக்கு பதிலளிக்கும் போது அவர் இவ்வாறு கூறினார்.
+
+◼️
+
+[Data](articles/f10b776d.json)
+
+---
 
 ### Steps Taken to Fast-track Licenses for Surveying Graduates
 
@@ -65,6 +151,20 @@ CID officers are currently recording his statement in connection with these find
 
 ---
 
+### ජපානය අත්හැරීමේ විපාකය
+
+*2025-10-08 11:33:51* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ජපනය-අතහරම-වපකය/2-680904) · `si`
+
+තවත් දින කිහිපයකින් ජපානය‌ට ප්‍රථම වරට කාන්තා අගමැතිවරියක පත් වීමට නියමිතය. ජපානයේ පාර්ලිමේන්තු ක්‍රමය පිහිටුවීමෙන් පසු මේ දක්වා කිසිදු අවස්ථාවක කාන්තා අගමැතිවරියක පත් වී නැත‍. එම සම්ප්‍රදායය බිඳ දමමින් සනාඒ තකඉචි එරට විශාලතම දේශපාලන පක්ෂය වන ලිබරල් ප්‍රජාතන්ත්‍රවාදි පක්ෂයේ නායිකාව වශයෙන් තෝරා ගෙන ඇත.
+
+ඒ නිසාම ඇයට රටේ අග්‍රාමාත්‍ය ධුරය ද හිමි වනු ඇත. ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ජපාන නිල සංචාරයේදී වැඩ බලන අගමැතිවරයකු හමු වීමට ඔහුට සිදු වූයේ දැනට වැඩ බලන අගමැතිවරයා ලිබරල් ප්‍රජාතන්ත්‍රවාදි පක්ෂයේ නායකයා තෝරා ගන්නා තුරු පමණක් එම තනතුර දැරීම හේතුවෙනි. ජපන් ශ්‍රී ලංකා සම්බන්ධතා සම්බන්ධයෙන් නව ආකාරයකින් සිතීමේ සහ ක්‍රියාත්මක වීමේ අවශ්‍යතාව මේ වන විට දැඩිව ඉස්මතුව තිබේ. එමෙන්ම දෙරටේම සිදුව ඇති දේශපාලන වෙනස්කම් තුළ ජපාන ශ්‍රී ලංකා සම්බන්ධතා නව පරිච්ඡේදයකින් ආරම්භ කළ හැකි ආකාරය පිළිබඳව අවධානය යොමු විය යුතුව තිබේ.
+
+...
+
+[Data](articles/0fae90b3.json)
+
+---
+
 ### Suspect Arrested in Pelmadulla With Ammunition and Drugs
 
 *2025-10-08 11:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/suspect-arrested-in-pelmadulla-with-ammunition-and-drugs) · `en`
@@ -74,6 +174,24 @@ A 20-year-old resident of Pathakada, Pelmadulla was arrested with 20 T-56 bullet
 ◼️
 
 [Data](articles/dd25f630.json)
+
+---
+
+### கிரேட்வெஸ்டன் தேயிலைக்கு ஜப்பானில் தங்க விருது
+
+*2025-10-08 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கிரேட்வெஸ்டன்-தேயிலைக்கு-ஜப்பானில்-தங்க-விருது/76-365946) · `ta`
+
+ஐப்பானில் அண்மையில் நடைபெற்ற சிறந்த தேயிலை தயாரிப்புக்கான டிராகன் போல் தங்க விருதை (Dragon ball Gold winner)  தலவாக்கலை பெருந்தோட்ட கம்பனிக்குட்பட்ட கிரேட்வெஸ்டன் தோட்டம் பெற்றுக்கொண்டது.
+
+இதற்காக முன்னின்று உழைத்த தோட்ட தொழிற்சாலை உத்தியோகத்தர்கள் மற்றும் தொழிற்சாலை தொழிலாளர்களை கௌரவிக்கும் முகமாக தலவாக்கலை பெருந்தோட்ட கம்பெனியின் நிறைவேற்று பணிப்பாளர் ரொஷான் இராஜதுரையினால் நினைவுச்சின்னம் மற்றும்  சான்றிதழ்கள் வழங்கி கௌரவிக்கும் நிகழ்வு செவ்வாய்க்கிழமை (07) இடம்பெற்றது.
+
+இந்நிகழ்வுகள் கிரேட்வெஸ்டன் தோட்ட பிரதி பொது முகாமையாளர் சரத் ரணவீர தலைமையில் கிரேட்வெஸ்டன் தோட்ட தொழிற்சாலையில் நடைபெற்றது.
+
+இதன்போது  தலவாக்கலை பெருந்தோட்ட கம்பெனியின் நிறைவேற்று பணிப்பாளர் ரொஷான் இராஜதுரை,கிரேட்வெஸ்டன் தோட்ட பிரதி பொது முகாமையாளர் சரத் ரணவீர, கிரேட்வெஸ்டன் தோட்ட உதவி அதிகாரிகள் ஹெஹான் அபேவர்தன,  என்.பி.வலகம்பாய, கிரேட்வெஸ்டன் தேயிலை தொழிற்சாலை நிர்வாகி பரமசிவம், தோட்ட பொதுநல உத்தியோகத்தர் கமல், தொழிற்சாலை உத்தியோகத்தர்கள் மற்றும் தொழிலாளர்கள் என பலரும் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/b49ca2a3.json)
 
 ---
 
@@ -100,6 +218,22 @@ The Public Utilities Commission of Sri Lanka(PUCSL) said the public consultation
 ◼️
 
 [Data](articles/523ca2ec.json)
+
+---
+
+### ශෂීන්ද්‍රට උදවු කළ හානිපූර්ණ කාර්යාලයේ හිටපු ලොක්කියක් අත්අඩංගුවට
+
+*2025-10-08 11:20:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ශෂනදරට-උදව-කළ-හනපරණ-කරයලය-හටප-ලකකයක-අතඅඩගවට/1-680903) · `si`
+
+අරගල කරුවන් විසින්  2022 දී ගිනිබත්  කර විනාශයට පත් කළ කිරිඉබ්බන්වැව , මහවැලි අධිකාරියට අයත් ඉඩමේ දේපළ සඳහා  වන්දි නියම කිරීමේ දී හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා සමග කුමන්ත්‍රණය කළේ යැයි කියන හානිපූර්ණ කාර්යාලයේ එවකට වැඩ බලන අධ්‍යක්ෂ ජනරාල්වරිය අල්ලස් හෝ දූෂණ විමර්ශන කොමිසම සභාව මගින් අද අත්අඩංගුවට ගැනිණි.
+
+කිරිඉබ්බන්වැව , මහවැලි අධිකාරියට අයත් ඉඩමේ පැවති දේපල ගිනිබත් කිරීමෙන් සිදුවූ අගතියට  රුපියල් 885000ක වන්දි මුදලක් රජයේ නිලධාරීන්ට බලපෑම් කර ලබා ගනිමින් රාජ්‍ය දේපළ  සාපරාදී සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන්    හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාට එරෙහිව අල්ලස් කොමිසම පැවරූ විමර්ශනයේ දෙවන සැකකාරිය වන  අතිරේක ලේකම්වරිය රාජපක්ෂ මහතාට ආධාර අනුබලදීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාරිය අද දින කොළඹ ප්‍රධාන මහේස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/f6822bd3.json)
 
 ---
 
@@ -174,6 +308,24 @@ This is simple and is simple and the Purchase of the liter of the liter of the l
 [Data](articles/fbcddce2.json)
 
 [Extended Data](ext_articles/fbcddce2.ext.json)
+
+---
+
+### ඇල්පිටිය ප්‍රා.ස. විපක්ෂ මන්ත්‍රීවරියන් විරෝධයක්
+
+*2025-10-08 11:01:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇලපටය-පර-ස-වපකෂ-මනතරවරයන-වරධයක/1-680901) · `si`
+
+ඇල්පිටිය ප්‍රාදේශීය සභාවේ විපක්ෂය නියෝජනය කරන මන්ත්‍රිවරියන් විසින් ඇල්පිටිය ප්‍රාදේශීය සභා කාර්‍යාලය ඉදිරිපිටදී උදෑසන විරෝධතාවක් දක්වනු ලැබීය
+
+." සමරිසි අපට එපා." "මන්ත්‍රි දීමනා ගන්නෑ කියා ඇල්පිටිය ජනතාව මුලා කළේ ඇයි ."
+
+පාසල් පද්ධතිය වලපල්ලට දානවද?කොණ්ඩම් දරුවන් හට " යනුවෙන් ලියූ පුවරු ඔවුන් ප්‍රදර්ශනය කළාය.
+
+ඇල්පිටිය ප්‍රාදේශීය සභාවේ මාසික රැස්වීම අද පෙරවරුවේ ආරම්භවූ අතර ඊට පෙර විපක්ෂය නියෝජනය කරන මන්ත්‍රිවරියන් පෝස්ටර් ප්‍රදර්ශනය කරමින් සටන් පාඨ කියමින් සභාව ඉදිපිට සිට විරෝධතා දැක්වූ අතර පසුව එම පෝස්ටර් ප්‍රදර්ශනය කරමින් සභාවට ඇතුළු වූහ . සභාවේ කටයුතු සාමාන්‍ය පරිදි සභාපති වරයා විසින් කරගෙන යනු ලැබීය .
+
+◼️
+
+[Data](articles/3a7ef82e.json)
 
 ---
 
@@ -937,6 +1089,26 @@ Sustainability has emerged as one of the most critical strategic imperatives of 
 
 ---
 
+### 'කකුල් දෙක නෑ කියල හිත හිත ඉන්න ගියොත් මුකුත් කරන්න වෙන්නේ නෑ': දෙපා අහිමි මෝටර් රථ කාර්මිකයෙකුගේ කතාව
+
+*2025-10-08 06:24:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp8wg2n8wxyo) · `si`
+
+'කකුල් දෙක නෑ කියල හිත හිත ඉන්න ගියොත් මුකුත් කරන්න වෙන්නේ නෑ': දෙපා අහිමි මෝටර් රථ කාර්මිකයෙකුගේ කතාව
+
+නුගේගොඩ, දෙල්කඳ ප්‍රදේශයේ දිවි ගෙවන ඩී.එම්. ගාමිණී වෘත්තියෙන් ත්‍රිරෝද රථ සහ යතුරු පැදි අලුත්වැඩියා කරන මෝටර් රථ කාර්මික ශිල්පියෙකි.
+
+අවුරුදු 27දී ඔහු ධාවනය වන දුම්රියකට ගොඩවීමට ගත් උත්සහයකදී මුහුණ දුන් අනතුරකින් පාද දෙක ම අහිමි වී තිබේ.
+
+පාද දෙක ම අහිමි වුවත්, ජීවිතය පිළිබඳ බලාපොරොත්තු අත් නොහළ ඔහු ත්‍රිරෝද රථ අලුත්වැඩියා කිරීමෙන් ලබන ආදායමෙන් තෘප්තිමත් ජීවිතයක් ගත කරයි.
+
+ඔහු පවසන්නේ, පාද දෙක ම අහිමි වුව ද එය තමන්ට ගැටලුවක් නොවූ බව ය.
+
+◼️
+
+[Data](articles/1ab0fc84.json)
+
+---
+
 ### Compliance to EUDR not option but must for struggling local exporters
 
 *2025-10-08 06:20:05* · [`dailyftlk`](https://www.ft.lk/business/Compliance-to-EUDR-not-option-but-must-for-struggling-local-exporters/34-782696) · `en`
@@ -1686,215 +1858,5 @@ The bus has reported that the bus has collapsed at once on the road.
 [Data](articles/bfdad714.json)
 
 [Extended Data](ext_articles/bfdad714.ext.json)
-
----
-
-### Appoint a Special Select Committee to investigate 323 containers who have been released without testing!
-
-*2025-10-07 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227163) · `ta`
-
-The United People's Power -led Opposition on Tuesday (07) handed over the proposal to appoint a Special Select Committee to investigate the release of 323 containers from the Port of Colombo without compulsory physical examination.
-
-According to the guidance by the Honorable President, the Committee of the Committee has been appointed by the Treasury Secretary and that the process of release of its observation on its report is unconstitutional, and that "the release of containers without proper examination is" putting serious dangers in national security, income collection and public safety matters ";
-
-...
-
-[Data](articles/ad2de4df.json)
-
-[Extended Data](ext_articles/ad2de4df.ext.json)
-
----
-
-### Asian Investment Bank Chairman who meets President
-
-*2025-10-07 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227162) · `ta`
-
-Jin Liqun, president of the Asian Infrastructure Investment Bank, said that Sri Lanka's Green Strength Department will be supported.
-
-The Asian Infrastructure Investment Bank Chairman Jin Liqun and its Senior Management Management were speaking at the Presidential Office at the Presidential Office on Tuesday (07).
-
-The Chairman said that the progress of the projects implemented in Sri Lanka under the loan of the Asian Infrastructure Investment Bank has been extensively investigated and will continue to work with Sri Lanka and support the country's progress.
-
-Accordingly, the power of power in Sri Lanka will be promoted and action will be taken to support the future in the fields of green power and green transport facilities.
-
-The president, explaining the economic progress that Sri Lanka has achieved economically, including reducing interest rates and controlling inflation, said the government's expectation is to bring the benefits of the national economy to the ordinary people.
-
-...
-
-[Data](articles/26e2b0ef.json)
-
-[Extended Data](ext_articles/26e2b0ef.ext.json)
-
----
-
-### Asian Infrastructure Investment Bank President's Chairman and Teacher Meets President
-
-*2025-10-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215447) · `si`
-
-The Asian Infrastructure Investment Bank (AIIB), the President of the Asian Infrastruct Bank - AIIB (AIIB), said.
-
-The Asian Infrastructure Investment Bank Chairman Jin LIQUN (JIN LIQUN) and its senior management, including Jin LIQUN, met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
-
-The progress of the projects implemented in Sri Lanka so far under the Asian Infrastructure Bank is recently reviewed and supported by the country's progress.
-
-According to the Sri Lankan energy stability, he said that the growth of green energy, green transport facilities and focusing on the fields of green transport facilities.
-
-The government expects the President to take the growth of the national economy, which explains the interest rates and the control of inflation control.
-
-...
-
-[Data](articles/0c57785a.json)
-
-[Extended Data](ext_articles/0c57785a.ext.json)
-
----
-
-### “Complete abandonment of Sri Lanka’s inclusive nationalistic vision” – Dilith slams govt over UN resolution
-
-*2025-10-07 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113310/complete-abandonment-of-sri-lankas-inclusive-nationalistic-vision-dilith-slams-govt-over-un-resolution-) · `en`
-
-‘Sarvajana Balaya’ leader and Member of Parliament Dilith Jayaweera today demanded immediate answers from the government for the “shocking betrayal” of Sri Lanka’s allies who stood with the country against UNHRC resolutions.
-
-Posting on X (formerly Twitter), Jayaweera said he was “appalled by the disastrous execution of foreign policy by Sri Lanka’s delegation, led by the Foreign Minister, to the UNHRC.”
-
-He stated that the Government of Sri Lanka (GoSL) must immediately provide answers to the 22 million citizens it was duty-bound to represent, and the “shocking betrayal of our allies who stood with us by speaking against unfounded UN resolutions against Sri Lanka.”
-
-Jayaweera further alleged that the delegation’s actions displayed “sheer weakness and incompetence before the international community,” claiming that this reflected how poorly the government was handling the nation’s priorities.
-
-...
-
-[Data](articles/c6027f22.json)
-
-[Extended Data](ext_articles/c6027f22.ext.json)
-
----
-
-### Police notify the public
-
-*2025-10-07 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215446) · `si`
-
-The police requests the public to be aware of the financial fraud.
-
-The fraudulent acts have occurred through Telegraph, Whatsapp Accounts and other social media masses.
-
-The police say that complaints have been reported regarding such financial fraud.
-
-Therefore, the police requested the public not to be caught by individuals who do not know that they are unknown in social media collateral accounts.
-
-The police also said that the account numbers, passwords and passwords are notified by giving out external people to external people.
-
-◼️
-
-[Data](articles/468e2166.json)
-
-[Extended Data](ext_articles/468e2166.ext.json)
-
----
-
-### Helps to improve green
-
-*2025-10-07 20:03:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හරත-බලශකතය-නවනන-උදව-කරනව/1-680886) · `si`
-
-Investment Bank (AIIB), President of the Asian Infrastricture Investment Bank (AIIB) (AIIB) President Anura Kumara Dissanayake said he was responding to the promotion of the green energy sector in Sri Lanka.
-
-President Anura Kumara Dissanayake met at the Presidential Secretariat today (7), the Chairman of the Asian Infrastructure.
-
-The progress of the projects implemented in Sri Lanka so far under the Asian Infrastructure Bank is recently reviewed and supported by the country's progress.
-
-According to the Sri Lankan energy stability, he said that the growth of green energy, green transport facilities and focusing on the fields of green transport facilities.
-
-The government expects the President to take the growth of the national economy, which explains the interest rates and the control of inflation control.
-
-...
-
-[Data](articles/fb79bf88.json)
-
-[Extended Data](ext_articles/fb79bf88.ext.json)
-
----
-
-### Helps to improve green
-
-*2025-10-07 20:03:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරත-බලශකතය-නවනන-උදව-කරනව/101-680886) · `si`
-
-Investment Bank (AIIB), President of the Asian Infrastricture Investment Bank (AIIB) (AIIB) President Anura Kumara Dissanayake said he was responding to the promotion of the green energy sector in Sri Lanka.
-
-President Anura Kumara Dissanayake met at the Presidential Secretariat today (7), the Chairman of the Asian Infrastructure.
-
-The progress of the projects implemented in Sri Lanka so far under the Asian Infrastructure Bank is recently reviewed and supported by the country's progress.
-
-According to the Sri Lankan energy stability, he said that the growth of green energy, green transport facilities and focusing on the fields of green transport facilities.
-
-The government expects the President to take the growth of the national economy, which explains the interest rates and the control of inflation control.
-
-...
-
-[Data](articles/f7c920a6.json)
-
-[Extended Data](ext_articles/f7c920a6.ext.json)
-
----
-
-### Ajith P. Perera questioned today's allegations made by the President on the Cricket Board
-
-*2025-10-07 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227161) · `ta`
-
-President Anura Kumara Dissanayake has made several allegations regarding the fraud of the Sri Lanka Cricket Board while in the opposition party. He also noted that a short party has occupied the Cricket Board. The President is currently taking steps on the allegations made by the United People's Power Kalutara District Parliamentarian Ajith P. Perera.
-
-He was speaking at a debate on the Amendment Bill on Tuesday (7) in Parliament on Tuesday (7).
-
-We are firmly in the position of changing the oldest laws in the world. Therefore, we welcome the Equality (Amendment) Bill against the use of stimulant use in the game.
-
-During the last session, the government brought the Penal Code (Amendment) Bill. We have highlighted the legacy of this bill.
-
-Recently, a teacher has been attacked by a teacher in Moneragala. The teacher has lodged a complaint with the police.
-
-...
-
-[Data](articles/fe317444.json)
-
-[Extended Data](ext_articles/fe317444.ext.json)
-
----
-
-### Dilith's concerns about UNHRC's role in Sri Lankan delegation team
-
-*2025-10-07 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215445) · `si`
-
-Leader of the Alliance, MP Dilith Jayaweera says that the Sri Lankan delegation will be shocked to the Sri Lankan delegation in the UN Human Rights Council.
-
-Dilith Jayaweera has made this statement on the proposal for Sri Lanka by the UN Human Rights Council.
-
-They have noted that they should be provided to represent Sri Lanka at the UNHRC.
-
-He further stated that the priorities of our nation before the international community have shown that the present government is a demonstration and failure.
-
-I am Appalled by The Disastrous Execution Execution of Foreign Palicy by Sri Lanka's Delegation, LED By The Foreign Minister, To The UNHRC!
-
-The Gosl Must immeditely advcessers to the 22 million answers to the 22 million people tend to the repsent, and the shocking betrayal of ouries ...
-
-◼️
-
-[Data](articles/a6f98723.json)
-
-[Extended Data](ext_articles/a6f98723.ext.json)
-
----
-
-### International pressure will gradually decrease if the solution is carried out - the Human Rights Commission of Sri Lanka
-
-*2025-10-07 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227160) · `ta`
-
-Nimal Punjiwa, a member of the Sri Lanka Human Rights Commission, said the new resolution at the UN Human Rights Council (UNHRC) would gradually decrease if the international community could be realized in the matter of human rights and accountability.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, titled 'Reconciliation, Responsibility and Human Rights Improves in Sri Lanka' by the Internet countries including Canada, Malawi, Montenegro and North Messidonia, were submitted to the British -led government on Monday (6).
-
-He pointed out that various countries have insisted in the past to resolve human rights concerns in Sri Lanka and have passed some resolutions at the UN Human Rights Council, adding that the resolution was not very good.
-
-...
-
-[Data](articles/b07af789.json)
-
-[Extended Data](ext_articles/b07af789.ext.json)
 
 ---

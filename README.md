@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 09:56:43**
+As of **2025-10-08 10:09:16**
 
 ## Newspaper Stats
 
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,064 (100.0%) of 82,065 articles have been extended.
+82,065 (100.0%) of 82,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -407,19 +407,21 @@ Some places in the Northern, North Central East, Central and Uva provinces will 
 
 ---
 
-### තැනින් තැනට අදත් තරමක තද වැසි
+### Heavy rains in place today
 
 *2025-10-08 06:30:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තනන-තනට-අදත-තරමක-තද-වස/101-680890) · `si`
 
-උතුරු සහ උතුරු - මැද පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+Showers or thundershowers will occur at times in the North and North and Media areas.
 
-සෙසු ප්‍රදේශවල පස්වරු 1.00 පමන පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ. බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදිත් තැනින් තැන වැසි ඇති වේ.
+Showers or thundershowers will occur after the afternoon of other areas. Showers will occur at the Western and North Western Provinces and in the Galle and Matara districts.
 
-උතුරු,උතුරු මැද නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 50 වැඩි තරමක තද වැසි ඇති වේ.
+Some places in the Northern, North Central East, Central and Uva provinces will experience heavy showers.
 
 ◼️
 
 [Data](articles/b2cf7484.json)
+
+[Extended Data](ext_articles/b2cf7484.ext.json)
 
 ---
 

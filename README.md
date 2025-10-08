@@ -1,51 +1,111 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 09:12:54**
+As of **2025-10-08 09:39:19**
 
 ## Newspaper Stats
 
-*Scraped **82,059** Articles*
+*Scraped **82,064** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 638
-newsfirstlk | 643
+newsfirstlk | 645
 bbccomsinhala | 729
 colombotelegraphcom | 815
-lankadeepalk | 969
+lankadeepalk | 970
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
 adalk | 7,834
 adaderanalk | 10,532
-tamilmirrorlk | 12,162
+tamilmirrorlk | 12,163
 virakesarilk | 13,530
-adaderanasinhalalk | 14,060
+adaderanasinhalalk | 14,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,057 (100.0%) of 82,059 articles have been extended.
+82,062 (100.0%) of 82,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
 
-### 2026இல் வட மாகாணத்தில் ஏற்படவுள்ள பாரிய மாற்றம்
+### විදුලි ගාස්තු සංශෝධන ගැන අවසන් මහජන අදහස් ලබා ගැනීම අද
+
+*2025-10-08 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215456) · `si`
+
+ලංකා විදුලි බල මණ්ඩලය විසින් විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන උපයෝගීතා කොමිසම වෙත ඉදිරිපත් කළ යෝජනාවට අදාළ මහජන අදහස් ලබා ගැනීම අදින් අවසන් වේ.
+
+◼️
+
+[Data](articles/41a664d9.json)
+
+---
+
+### Police Open Fire on Reckless Driver in Matara
+
+*2025-10-08 09:07:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/police-open-fire-on-reckless-driver-in-matara) · `en`
+
+COLOMBO (News 1st) - Police opened fire on a vehicle in Wellamadama, Matara, around 9:30 last night after the driver reportedly failed to comply with police orders and continued to drive recklessly.The driver, a resident of Devinuwara, was arrested on suspicion.Upon searching the vehicle, police discovered approximately two grams of ICE.
+
+◼️
+
+[Data](articles/530ffccf.json)
+
+[Extended Data](ext_articles/530ffccf.ext.json)
+
+---
+
+### AG Department Seeks Discussion with President on Supreme Court Ruling Regarding X-Press Pearl Compensation
+
+*2025-10-08 09:04:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/ag-department-seeks-discussion-with-president-on-supreme-court-ruling-regarding-x-press-pearl-compensation) · `en`
+
+...
+
+[Data](articles/b3923a03.json)
+
+[Extended Data](ext_articles/b3923a03.ext.json)
+
+---
+
+### Firing on the car that violated the order
+
+*2025-10-08 08:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உத்தரவை-மீறிச்-சென்ற-கார்-மீது-துப்பாக்கிச்-சூடு/175-365932) · `ta`
+
+Police fired a car that was traveling in Wellamadama in Matara.
+
+It is reported that the police have fired a fire as the car went in violation of the order even though the police ordered the car to stop.
+
+The car was found abandoned in the Janaraja Mawatha area of ​​Matara, police said.
+
+The owner of the vehicle has been identified as the two passengers in the car have escaped and one person has been arrested in connection with the incident.. Remble
+
+◼️
+
+[Data](articles/943d05d2.json)
+
+[Extended Data](ext_articles/943d05d2.ext.json)
+
+---
+
+### Massive change in the Northern Province by 2026
 
 *2025-10-08 08:23:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/2026இல்-வட-மாகாணத்தில்-ஏற்படவுள்ள-பாரிய-மாற்றம்/71-365931) · `ta`
 
-2026 ஆம் ஆண்டு ஜனவரி முதலாம் திகதி முதல் வட மாகாணம் முழுவதும் லஞ்சீட் பாவனைக்குத் தடை விதிக்கவும், மாற்றீடாக வாழை இலையை பயன்படுத்தவும் வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் தலைமையில் நடைபெற்ற கலந்துரையாடலில் தீர்மானம் எடுக்கப்பட்டுள்ளது.
+The decision was taken at the meeting chaired by Governor of the Northern Province N Vethanayanagan to ban the use of luncheon throughout the Northern Province on January 2026.
 
-இதேவேளை, போக்குவரத்து நெரிசல்களைக் கட்டுப்படுத்துவதற்காக ஒருவழிப் பாதைகளை அறிமுகப்படுத்தல், கனரக வாகனங்களின் பாவனைக்கு நேரக்கட்டுப்பாடுகளை விதித்தல் ஆகியனவற்றைச் செயற்படுத்த வேண்டும் எனவும் அவர் வலியுறுத்தியுள்ளார்.
+At the same time, he urged the introduction of one -way routes to control traffic congestion and the imposition of time restrictions on heavy vehicles.
 
-எதிர்வரும் மழைக் காலத்துக்கு முன்னர், வெள்ளம் வடிந்தோடுவதற்கு தடையாக அமைந்துள்ள சட்டவிரோதக் கட்டுமானங்களை உடனடியாக அகற்றுவதற்கும் நடவடிக்கை எடுக்க வேண்டும் என வலியுறுத்தப்பட்டுள்ளது.  R
+It has been urged to take immediate steps to remove illegal constructions that are a barrier to flooding before the upcoming rainy season.  R
 
 ◼️
 
 [Data](articles/b5fbe902.json)
+
+[Extended Data](ext_articles/b5fbe902.ext.json)
 
 ---
 
@@ -65,19 +125,21 @@ Sri Lanka's official reserves in Sri Lanka were US $ 6.17 billion, up 6.24 billi
 
 ---
 
-### இஸ்ரேல் - ஹமாஸ் பேச்சுவார்த்தையில் முன்னேற்றம்
+### Israel - Improves Hamas negotiations
 
 *2025-10-08 08:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-ஹமாஸ்-பேச்சுவார்த்தையில்-முன்னேற்றம்/50-365930) · `ta`
 
-இஸ்​ரேல் அரசு, ஹமாஸ் குழு​வினர் இடையே எகிப்​தில் அமை​திப் பேச்​சு​வார்த்தை நடை​பெறுகிறது. இந்த பேச்​சு​வார்த்​தை​யில் முன்​னேற்​றம் ஏற்​பட்​டிருப்​பதாக தகவல்​கள் வெளி​யாகி உள்​ளன.
+The Israel Government, Hamas Group Winner. Information has been revealed in the past as a bunch of bunkers.
 
-இஸ்​ரேல் ராணுவம் மற்​றும் காசா​வின் ஹமாஸ் குழு​வினர் இடையே கடந்த 2 ஆண்​டு​களாக போர் நீடித்து வரு​கிறது. இந்த போருக்கு முற்​றுப்​புள்ளி வைக்க அமெரிக்க ஜனாதிபதி ட்ரம்ப் 20 அம்ச திட்​டத்தை முன்​மொழிந்​துள்​ளார்.
+The war has been going on between the Hamas Group Winner of the Isaral Army and the Gaza's Hamas Group.. US President Trump has been ahead of the 20 -featory Twenty -20th to put a point to this war.
 
-போரி​னால் பாதிக்​கப்​பட்​டுள்ளகாசா மீண்​டும் கட்டி எழுப்​பப்​படும். அந்த பகு​தி​யில் இருந்து தீவிர​வாதம் அகற்​றப்​படும். ஹமாஸ் குழு​வின் பிடி​யில் உள்ள இஸ்​ரேல் பிணைக் கைதி​கள் உடனடி​யாக விடு​தலை செய்​யப்பட வேண்​டும். உயி​ரிழந்​தவர்​களின் உடல்​களை ஒப்​படைக்க வேண்​டும். போர் நிறுத்​தம் அமல் செய்​யப்​பட்ட பிறகு காசா​வில் இருந்து இஸ்​ரேல் ராணுவம் படிப்​படி​யாக வெளி​யேறும்.
+Gaza will be tied up again by the battle. Extreme argument will be eliminated from that part. The Isaral hostage in Hamas Group's BT. The bodies of the deceased should be handed over. After the war is implemented, the Isaral army will be released from Gaza.
 
 ...
 
 [Data](articles/b4af4155.json)
+
+[Extended Data](ext_articles/b4af4155.ext.json)
 
 ---
 
@@ -1936,81 +1998,5 @@ We have a huge responsibility for the Tamil people, our political leaderships an
 [Data](articles/1a4a3f49.json)
 
 [Extended Data](ext_articles/1a4a3f49.ext.json)
-
----
-
-### President meets IMF delegation to discuss Sri Lanka’s fifth review
-
-*2025-10-07 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/113306/president-meets-imf-delegation-to-discuss-sri-lankas-fifth-review) · `en`
-
-President Anura Kumara Dissanayake reaffirmed that the International Monetary Fund (IMF) remains a vital partner in Sri Lanka’s accelerated journey from crisis to recovery, emphasizing that the government regards IMF support not merely as external assistance, but as an integral element of its comprehensive strategy for sustainable economic progress.
-
-Speaking at the fifth mid-point review meeting held today (07) at the Presidential Secretariat with an IMF delegation, the President stressed that the government’s reform agenda is focused on achieving long-term stability, inclusive growth, and investor confidence. The sixth tranche of IMF assistance is scheduled for release in December.
-
-During the discussions, the IMF delegation commended Sri Lanka’s reform progress, noting that the country’s economic reform program is yielding commendable outcomes, according to the President’s Media Division (PMD).
-
-...
-
-[Data](articles/fc1955d9.json)
-
-[Extended Data](ext_articles/fc1955d9.ext.json)
-
----
-
-### Sri Lanka Eyes Recovery Beyond IMF Targets
-
-*2025-10-07 17:15:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sri-lanka-eyes-recovery-beyond-imf-targets) · `en`
-
-COLOMBO (News 1st); President Anura Kumara Dissanayake held a high-level discussion this (7) morning with representatives of the International Monetary Fund (IMF) at the Presidential Secretariat, as part of the fifth review of Sri Lanka’s ongoing debt restructuring program, ahead of the release of the sixth tranche of IMF support.
-
-During the meeting, President Dissanayake reaffirmed the government’s commitment to reviving and stabilizing the economy, stating that the administration has a strategic roadmap to guide the country from bankruptcy toward sustainable development.
-
-The President had noted that the IMF’s support is deeply valued in the journey to economic recovery, adding that the government is focused on exceeding the targets set by the IMF to position Sri Lanka as a resilient and investment-ready economy.
-
-...
-
-[Data](articles/19a0f592.json)
-
-[Extended Data](ext_articles/19a0f592.ext.json)
-
----
-
-### A special committee to look into the container mess
-
-*2025-10-07 17:13:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/බහලම-අවල-හයනන-වශෂ-කරක-සභවක/1-680879) · `si`
-
-A proposal to appoint a special committee to investigate the release of 323 containers without checking for 323 containers was handed over to Speaker.
-
-The General Secretary of the JSP, Chief Opposition Whip Karunathilaka, Chief Secretary General of Opposition and Members of the Opposition Gayantha Karunatilake and Members of the Opposition Gayantha Karunatilake and Members of Parliament were also present.
-
-The incident is also known that the case is being carried out in Parliament that the information is being carried out in the area of ​​this container and other banquacked authorities, as well as these containers have been brought to the Sri Lankan content, and the information is being carried out in this regard. The proposal states.
-
-Commenting with us, MP MP Kavindha Jayawardene said that the report of the committee had yet to be officially presented to Parliament, except the report conducted by the Investigation Committee on Release of the Container.
-
-...
-
-[Data](articles/79f77560.json)
-
-[Extended Data](ext_articles/79f77560.ext.json)
-
----
-
-### A special committee to look into the container mess
-
-*2025-10-07 17:13:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/බහලම-අවල-හයනන-වශෂ-කරක-සභවක/101-680879) · `si`
-
-A proposal to appoint a special committee to investigate the release of 323 containers without checking for 323 containers was handed over to Speaker.
-
-The General Secretary of the JSP, Chief Opposition Whip Karunathilaka, Chief Secretary General of Opposition and Members of the Opposition Gayantha Karunatilake and Members of the Opposition Gayantha Karunatilake and Members of Parliament were also present.
-
-The incident is also known that the case is being carried out in Parliament that the information is being carried out in the area of ​​this container and other banquacked authorities, as well as these containers have been brought to the Sri Lankan content, and the information is being carried out in this regard. The proposal states.
-
-Commenting with us, MP MP Kavindha Jayawardene said that the report of the committee had yet to be officially presented to Parliament, except the report conducted by the Investigation Committee on Release of the Container.
-
-...
-
-[Data](articles/f7f091b3.json)
-
-[Extended Data](ext_articles/f7f091b3.ext.json)
 
 ---

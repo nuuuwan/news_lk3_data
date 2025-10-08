@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 11:57:43**
+As of **2025-10-08 12:14:21**
 
 ## Newspaper Stats
 
-*Scraped **82,090** Articles*
+*Scraped **82,096** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 638
-newsfirstlk | 649
+newsfirstlk | 653
 bbccomsinhala | 729
 colombotelegraphcom | 815
 lankadeepalk | 980
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
-adalk | 7,838
+adalk | 7,840
 adaderanalk | 10,532
 tamilmirrorlk | 12,167
 virakesarilk | 13,530
@@ -27,11 +27,81 @@ adaderanasinhalalk | 14,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,090 (100.0%) of 82,090 articles have been extended.
+82,090 (100.0%) of 82,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### Steps Taken to Fast-track Licenses for Surveying Graduates
+
+*2025-10-08 11:41:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/steps-taken-to-fast-track-licenses-for-surveying-graduates) · `en`
+
+The Ministry of Education has decided to remove barriers preventing surveying graduates from becoming chartered surveyors.Deputy Minister of Education Dr. Madura Seneviratne said that nearly 500 graduates from Sabaragamuwa University are affected by the issue.Currently, graduates must serve in the Survey Department for three years to obtain their surveyor’s license. The Deputy Minister noted that measures will be taken to provide the necessary facilities to shorten this period and expedite the licensing process.He added that a discussion regarding the matter was held yesterday at the Parliament.
+
+◼️
+
+[Data](articles/094ccd61.json)
+
+---
+
+### Easter Attacks: Sirisena’s Statement Leads CID to Sajin Vass
+
+*2025-10-08 11:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/easter-attacks-sirisena%e2%80%99s-statement-leads-cid-to-sajin-vass) · `en`
+
+COLOMBO (News 1st); Former Parliamentarian Sajin Vass Gunawardena appeared before the Criminal Investigation Department (CID) this morning (8) following a summons related to the ongoing investigation into the 2019 Easter Sunday terror attacks.
+
+Police confirmed that Gunawardena was called in to provide a statement regarding telephone calls allegedly linked to prior warnings about the attacks.
+
+The development follows earlier testimony by former President Maithripala Sirisena, who stated that he had received calls from an Indian intelligence service warning of the impending attacks.
+
+Investigators revealed that during the probe into the relevant phone numbers, evidence surfaced indicating that the calls in question were made by Gunawardena.
+
+CID officers are currently recording his statement in connection with these findings.
+
+...
+
+[Data](articles/c3c1145b.json)
+
+---
+
+### Suspect Arrested in Pelmadulla With Ammunition and Drugs
+
+*2025-10-08 11:29:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/suspect-arrested-in-pelmadulla-with-ammunition-and-drugs) · `en`
+
+A 20-year-old resident of Pathakada, Pelmadulla was arrested with 20 T-56 bullets and three grams of the ICE.The arrest was made by officers from the Ratnapura Divisional Crime Investigation Division, following a tipoff provided by a suspect previously apprehended by the Criminal Investigation Department.
+
+◼️
+
+[Data](articles/dd25f630.json)
+
+---
+
+### Public Consultation on Electricity Tariff Hike Ends Today
+
+*2025-10-08 11:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/public-consultation-on-electricity-tariff-hike-ends-today) · `en`
+
+The Public Utilities Commission of Sri Lanka(PUCSL) said the public consultation on the Ceylon Electricity Board’s proposal to raise electricity tariffs will conclude today.Consultation from Western Province will be heard today. The proceedings will be held from 8:30 a.m. to 5:00 p.m. at the Bandaranaike International Conference Hall in Colombo.Consultations have already been completed in the other eight provinces. The PUCSL is scheduled to announce its decision on the proposed 6.8% tariff increase by the 15th of this month.
+
+◼️
+
+[Data](articles/ae0b4ead.json)
+
+---
+
+### අයවැයෙන් ඉල්ලීම් වලට විසඳුම් නොලැබුණොත් අනිවාර්යෙන් පාරට බහිනවා
+
+*2025-10-08 11:23:54* · [`adalk`](https://www.ada.lk/breaking_news/අයවැයෙන්-ඉල්ලීම්-වලට-විසඳුම්-නොලැබුණොත්-අනිවාර්යෙන්-පාරට-බහිනවා/11-418975) · `si`
+
+2026 අයවැය තුළින් සිය ඉල්ලීම් වලට විසඳුම් ලබා නොදෙන්නේ නම් , අනිවාර්යෙන් වෘත්තීය සමිති ක්‍රියාමාර්ග ගන්නා බව එක්සත් ග්‍රාම නිලධාරී සංගමයේ සභාපති නන්දන රණසිංහ මහතා පැවසීය.
+
+කොළඹ අද(08දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/523ca2ec.json)
+
+---
 
 ### World Gold prices jumps $ 4,000 - gold price to be reappeared
 
@@ -490,6 +560,22 @@ Gaza will be tied up again by the battle. Extreme argument will be eliminated fr
 [Data](articles/b4af4155.json)
 
 [Extended Data](ext_articles/b4af4155.ext.json)
+
+---
+
+### ඉඩම් කොමිෂන් සභාවට ලැබිය යුතු ආදායමවත් අයකරගෙන න‍ෑ
+
+*2025-10-08 08:02:07* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-කොමිෂන්-සභාවට-ලැබිය-යුතු-ආදායමවත්-අයකරගෙන-න‍ෑ/11-418970) · `si`
+
+ඉඩම් ප්‍රතිසංස්කරණ කොමිෂම් සභාවට අයත්  කුරුණැගල දිස්ත්‍රික්කයේ ඉබ්බාගමුව  ප්‍රා දේශිය ලේකම් කොට්ඨාශයේ පිහිටි රාගෙදර වත්ත ඉඩමෙන් අක්කර 70ක් මිනිරන් කැණිම සදහා පුද්ගලික සමාගමක් වෙත බදු පදනම මත ලබා දි වසර 13ක් ගතවි තිබුණද  එකි ඉඩම තක්සේරුකර  බදු  මුදල් අයකරගැනිමට කටයුතුකර   නොතිබු  බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+
+ඉඩම අදාළ පුද්ගලික සමාගමට ලබා දි වසර 13ක් ගතවි තිබුණද  දෙපාර්ශවය අතර බදු ගිවිසුමකට  එළබිමට කොමිෂම් සභාව  කටයුතු කර නොතිබුණි. මෙකි ඉඩම රජයේ  තක්සේරුකරුවකුගේ  වර්තමාන තක්සේරු වටිනාකම මත තක්සේරුකොට  වසර 05ක කාලයක් සදහා  2011 වර්ෂයේ   පුද්ගලික සමාගමක් වෙත ලබාදිමට කොමිෂම් සභාව විසින්  කොමිෂන් පත්‍රිකාවක් මගින් අනුමැතිය ලබා දි තිබුණි.
+
+මෙකි ඉඩමට අදාළව  කොමිෂම් සභාව විසින්  ප්‍රධාන තක්සේරුකරු  වෙතින් තක්සේරුව කැදවා ඇත්තේ 2022.08.18 වැනිදින වන අතර  එහෙත් තක්සේරුව නොලැබිම මත 2023.03.29 වැනිදන  පළාත් තක්සේරුකරු වෙත  සිහිකැදවිමක් යොමුකොට ඇති බවද විගණන වාර්තාවේ සදහන් වේ.
+
+...
+
+[Data](articles/0fd3ed99.json)
 
 ---
 
@@ -1810,123 +1896,5 @@ He pointed out that various countries have insisted in the past to resolve human
 [Data](articles/b07af789.json)
 
 [Extended Data](ext_articles/b07af789.ext.json)
-
----
-
-### Government's efforts to build the economy. Appreciation
-
-*2025-10-07 19:16:47* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකය-ගොඩ-නැගීමට-රජය-ගත්-වෑයම-අයි-එම්-එෆ්--අගයයි/11-418963) · `si`
-
-President Anura Kumara Dissanayake and the International Monetary Fund representatives were held today (07).
-
-The discussion was held on behalf of the central phase of the fifth review of the IMF in the restructuring process.
-
-President Anura Kumara Dissanayake said that the government's main objective is to be released and taken to developing the country economically towards development.
-
-The President also appreciates the assistance of the IMF in the process of making the program.
-
-The President pointed out that the government has identified the needs of the International Monetary Fund as a country that can be developed as a country that can be developed as a country where the country has been developed.
-
-Mr. Anura Kumara Dissanayake pointed out that local and foreign investors should be taken further to meet the target of achieving an economic revival.
-
-The IMF representatives of the IMF also expressed their appreciation for the recovering of the country's economy.
-
-◼️
-
-[Data](articles/91f412f2.json)
-
-[Extended Data](ext_articles/91f412f2.ext.json)
-
----
-
-### Hindu Religious Blessing of Derana 20th Anniversary
-
-*2025-10-07 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215444) · `si`
-
-TV Derana celebrates 20th anniversary of this year's anniversary of the theme from the theme from the theme with knowledge of the Sri Lankan audience with knowledge.
-
-Hindu religious observances were launched today (07).
-
-Accordingly, Hindu Religious Basket was held at the Pilleyar Pillayar Pillayar Pillayar Kovil of Bambalapitiya this morning.
-
-Top President of the Derana Media Network, Luxiri Wickremage, Executive Director of Executive Director of Program Director Sharmila Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmala Dharmalai and Derana staff participated.
-
-◼️
-
-[Data](articles/89eaa4a0.json)
-
-[Extended Data](ext_articles/89eaa4a0.ext.json)
-
----
-
-### Supreme Court confirms Julampitiy Amare's death
-
-*2025-10-07 19:07:37* · [`adalk`](https://www.ada.lk/breaking_news/ජුලම්පිටිය-අමරේගේ-මරණ-දඩුවම-ශ්‍රේෂ්ඨාධිකරණය-තහවුරු-කරයි/11-418962) · `si`
-
-The Supreme Court confirmed the death penalty prescribed by the Tangalle High Court, who was convicted of killing two persons in Hambantota and injuring another injury.
-
-The Supreme Court confirmed the punishment of two charges with two charges with the JVP in Katuwana, Katuwana, Katuwana, Katuwana, Katuwana, Katuwana.
-
-◼️
-
-[Data](articles/0e8854b6.json)
-
-[Extended Data](ext_articles/0e8854b6.ext.json)
-
----
-
-### 757.4 million dividend to the Ministry of Industry to give the Treasury
-
-*2025-10-07 18:58:08* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කරමනත-අමතයශය-ලභශ-මලයන-757-4-ක-භණඩගරයට-දය/1-680884) · `si`
-
-757.4 million, the Ministry of Industry, was given to the Treasury of Rs. 757.4 million.
-
-Ceylon Minary Sand, BCC Lanka Limited, BCC Lanka Limited, BCC Lanka Limited, Lanka Phosphate Company and Lanka Kahathoit Limited has been handed over to the Treasury.
-
-Deputy Minister of Labor and Deputy Minister of Labor, Anil Jayantha and Finance Ministry Secretary to the Ministry of Finance have been officially handed over at the Parliamentary Complex at the Parliamentary Complex.
-
-◼️
-
-[Data](articles/3c4058d0.json)
-
-[Extended Data](ext_articles/3c4058d0.ext.json)
-
----
-
-### 757.4 million dividend to the Ministry of Industry to give the Treasury
-
-*2025-10-07 18:58:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරමනත-අමතයශය-ලභශ-මලයන-757-4-ක-භණඩගරයට-දය/101-680884) · `si`
-
-757.4 million, the Ministry of Industry, was given to the Treasury of Rs. 757.4 million.
-
-කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ පවතින ලංකා මිනරල් සෑන්ඩ්, BCC Lanka Limited, ජාතික ලුණු සමාගම, ලංකා පොස්පේට් සමාගම සහ ලංකා කහටගහ ග්‍රැෆයිට් ලිමිටඩ් යන ආයතන නව රජය යටතේ ලබාගත් ලාභාංශ වලින් කොටසක් මෙලෙස භාණ්ඩාගාරයට භාරදී ඇත.
-
-Deputy Minister of Labor and Deputy Minister of Labor, Anil Jayantha and Finance Ministry Secretary to the Ministry of Finance have been officially handed over at the Parliamentary Complex at the Parliamentary Complex.
-
-◼️
-
-[Data](articles/b5195478.json)
-
-[Extended Data](ext_articles/b5195478.ext.json)
-
----
-
-### Powerful earthquake in Papua New Guinea
-
-*2025-10-07 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/227159) · `ta`
-
-A powerful earthquake hit 6.8 on the Richter scale in the Solomon Sea of ​​Papua New Guinea.
-
-According to the German Geological Survey Center (GFZ), the earthquake center was located about 194 km southeast of Kimbbey, about 10 km deep.
-
-The US tsunami warning issued a tsunami after the earthquake but was later canceled.
-
-It is customary for these earthquakes to occur in the area as Papua New Guinea is in the Pacific of Fire. The casualties or major damage have not yet been reported.
-
-◼️
-
-[Data](articles/093180d9.json)
-
-[Extended Data](ext_articles/093180d9.ext.json)
 
 ---

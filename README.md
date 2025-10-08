@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 13:06:26**
+As of **2025-10-08 13:40:53**
 
 ## Newspaper Stats
 
-*Scraped **82,108** Articles*
+*Scraped **82,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,142 @@ dbsjeyarajcom | 638
 newsfirstlk | 653
 bbccomsinhala | 730
 colombotelegraphcom | 815
-lankadeepalk | 984
+lankadeepalk | 989
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
 adalk | 7,842
 adaderanalk | 10,532
-tamilmirrorlk | 12,170
+tamilmirrorlk | 12,172
 virakesarilk | 13,530
-adaderanasinhalalk | 14,067
+adaderanasinhalalk | 14,068
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,106 (100.0%) of 82,108 articles have been extended.
+82,110 (100.0%) of 82,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### කර්මාන්ත අමාත්‍යාංශයෙන් භාණ්ඩාගාරයට කෝටි 75ක්
+
+*2025-10-08 13:19:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරමනත-අමතයශයන-භණඩගරයට-කට-75ක/101-680930) · `si`
+
+කර්මාන්ත අමාත්‍යාංශය යටතේ ක්‍රියාත්මක රාජ්‍ය ව්‍යාපාරවලින් ලැබූ රුපියල් මිලියන 757.4 ක් හෙවත් රුපියල් කෝටි 75 කට අධික ලාභාංශ භාණ්ඩාගාරයට භාරදුන්නේය.
+
+මෙම ආයතනය භාණ්ඩාගාරයට වසර 14 කට පසු ලාභාංශ යොමු කිරීම මෙහිදී කැපී පෙනේ.
+
+මෙම රුපියල් කෝටි 75 කට අධික මුදල අර්ධ වාර්ෂික ලාභාංශයකින් යොමුකළ අතර ඉදිරි කාලය තුළදී පූර්ණ ලාභාංශ තුළින් ප්‍රතිපාදන දීමට හැකියාව පවතින බව ද එම අමාත්‍යංශය කීය.
+
+කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ පවතින ලංකා මිනරල් සෑන්ඩ්, බීසීසී ලංකා ලිමිටඩ් ජාතික ලුණු සමාගම, ලංකා පොස්පේට් සමාගම සහ ලංකා කහටගහ ග්‍රැෆයිට් ලිමිටඩ් යන ආයතන නව රජය යටතේ ලැබූ ලාභාංශවලින් කොටසක් මෙසේ කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත සහ මුදල් අමාත්‍යාංශ ලේකම් හර්ෂණ සූරියප්පෙරුම මහත්වරුන්ට නිල වශයෙන් පාර්ලිමේන්තුවේදී දුන්හ.
+
+...
+
+[Data](articles/f74eb745.json)
+
+---
+
+### කොත්මලා ඔයේ නාඳුනන මළ සිරුරක්
+
+*2025-10-08 13:05:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කතමල-ඔය-නඳනන-මළ-සරරක/101-680929) · `si`
+
+කොත්මලේ ජලාශයට ජලය ගලා බසිනා කොත්මලා ඔයේ පාවෙමින් තිබූ හඳුනා ගැනීමට නොහැකි තත්වයේ තිබෙන මිනිස් මළ සිරුරක් අද (08) හමු වූ බව ලිදුල පොලිසියේ නිළධාරියෙකු පැවසීය.
+
+හැටන් නුවරඑලිය ප්‍රධාන මාර්ගයේ ලිදුල කොත්මලා ඔය හරහා ඉදි කර ඇති පාළම යට තිබී මෙම මළසිරුර සොයා ගෙන ඇත.
+
+කොත්මලා ඔයේ මාළු ඇල්ලීමට ගිය පුද්ගලයෙකු විසින් ඔයේ පාවෙමින් තිබූ මළ සිරුර දැක ඒ බව ලිදුල පොලිසියට දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/254fbc1d.json)
+
+---
+
+### බැංකු කාඩ්පත්වලින් බස් ගාස්තු ගෙවන්න අවස්ථාව
+
+*2025-10-08 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215463) · `si`
+
+2025 නොවැම්බර් 30 වන දින සිට ක්‍රියාත්මක වන පරිදි, ටිකට්පත් නිකුත් කිරීමේ යන්ත්‍ර සහිත බස් රථවල, බැංකු කාඩ්පත් භාවිතයෙන් මගීන්ට බස් ගාස්තු ගෙවීමට හැකියාව ලබාදීමට රජය තීරණය කර තිබේ.
+
+ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පාර්ලිමේන්තුවේදී ඒ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/171d0aa7.json)
+
+---
+
+### කතුන්ට නොවැම්බරයේ බස් රියැදුරු වරම්
+
+*2025-10-08 12:45:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කතනට-නවමබරය-බස-රයදර-වරම/101-680928) · `si`
+
+බස් රියැදුරුවරියන් සහ කොන්දොස්තරවරියන් නොවැම්බර් අවසානයේ බඳවා ගන්නා බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පාර්ලිමේන්තුවේදී අද පැවසීය.
+
+අමාත්‍යවරයා මේ බව කීවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශයේ පරිපුරක ඇස්තමේන්තුව සම්මත කරගැනීම සඳහා වන විවාදය අරඹමිනි.
+
+කාන්තා රියැදුරුවරියන් සහ කොන්දොස්තරවරියන් නොවැම්බර් අවසානය වන විට බඳවා ගන්නවා. ඒ වගේම මෙට්රෝ බස් සේවය අප පටන් ගන්නවා.බස් ටිකට් එකෙන් මාටියා ගැසීම ප්‍රසිද්ධ දෙයක්.ඒ නිසා කාඩ් ගෙවීම් ක්‍රමයක්  හැදීමේ ඉල්ලීම තිබුනා.නොවැම්බර් 30 වන විට දැනට තිබෙන බස් ටිකට් මැෂින් වලින් බැංකු කාඩ් මගින්  ගෙවීම් කරන්නට පහසුකම් ලබා දෙනවා.තවමත් පොදු මගී ප්‍රවාහනය තියෙන්නේ නරක තත්ත්වයේ.එය විසඳන්න සැමගේ උදව්ව ලබා දෙන්න යනුවෙන්ද අමාත්‍යවරයා කීය.
+
+◼️
+
+[Data](articles/a1a16642.json)
+
+---
+
+### Chandrani Gunawardena, a famous singer and radio actress, passed away
+
+*2025-10-08 12:44:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-பாடகியும்-வானொலி-நடிகையுமான-சந்திராணி-குணவர்தன-காலமானார்/175-365956) · `ta`
+
+Chandrani Gunawardena, a famous Sri Lankan singer, radio voice actress and stage performer, passed away at the age of 82.
+
+Gunawardena was widely celebrated for his significant contributions in the music, radio plays and the theater, and his renowned life was made an immortal seal in the country's artistic landscape.
+
+◼️
+
+[Data](articles/f68a0996.json)
+
+[Extended Data](ext_articles/f68a0996.ext.json)
+
+---
+
+### චමින්ද්‍රාණිගේ පැමිණිල්ලට ’’කෝප්’’ වරප්‍රසාද කමිටුවට
+
+*2025-10-08 12:38:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/චමනදරණග-පමණලලට-කප-වරපරසද-කමටවට/101-680927) · `si`
+
+සමගි ජන බලවේගයේ මහනුවර දිස්ත්‍රික් මන්ත්‍රීනි නීතිඥ  චමින්ද්‍රාණී කිරිඇල්ල මහත්මියට  කෝප්  කමිටුවේ විමර්ශනයකදී අගතියක් සහ අපහාසයක් සිදු වී යැයි සඳහන්  වරප්‍රසාද ප්‍රශ්නය විභාග කිරීම සඳහා පාර්ලිමේන්තුවේ ආචාර ධර්ම සහ වරප්‍රසාද කමිටුවට යොමු   කිරීමට තීරණය කර ඇත.
+
+මේ අනුව මේ කාරණය පිළිබඳව සාකච්ඡා කිරීමට  කෝප් කමිටුවේ සාමාජිකයන් ඉදිරි දිනවල එම කමිටුව හමුවට කැඳවෙනු ඇත.
+
+මේ සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී අද අදහස් දැක්වූ කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා මෙසේ පැවසීය.
+
+සමගි ජන බලවේගයේ මහනුවර දිස්ත්‍රික් මන්ත්‍රීනි නීතිඥ  චමින්ද්‍රාණී කිරිඇල්ල මහත්මිය 2025 ජුලි 22 ඉදිරිපත් කළ වරප්‍රසාද ප්‍රශ්නය යටතේ පාර්ලිමේන්තුවේදී මතුකළ කරුණු  ආචාර ධර්ම සහ වරප්‍රසාද කාරක සභාවට  ඉදිරිපත් කිරීම සඳහා යෝජනාවක් ඉදිරිපත් කළ හැකිය.
+
+...
+
+[Data](articles/53cb1d6b.json)
+
+---
+
+### The risk of lightning in the country again?
+
+*2025-10-08 12:37:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-நாட்டில்-மின்வெட்டு-ஏற்படும்-அபாயம்/175-365955) · `ta`
+
+Following the decision that the Electricity Engineers Association will suspend all work from 4:15 pm yesterday, there is a risk that the country is at risk of facing power and instability, which intensifies its continuous trade union action, Ananda Palitha, coordinator of the Joint Trade Union Alliance, warned.
+
+In an interview with our brother -in -law, Daily Mirror, Palitha said that the decision was not made arbitrarily and that it was taken only after all relevant authorities were written in writing.. He said the letters clearly outlined the reasons behind the union's decision to quit work rules.
+
+“All maintenance and repairing work will only be carried out during the static eight -hour working period. On top of that, whatever the urgency, there will be no maintenance or repair work, ”he said.
+
+...
+
+[Data](articles/5b220ba7.json)
+
+[Extended Data](ext_articles/5b220ba7.ext.json)
+
+---
 
 ### Tension in parliament
 
@@ -321,19 +437,21 @@ When the Nallur Pradeshiya Sabha Chairman Mayuran arrived at the demonstration, 
 
 ---
 
-### Honda Dio ස්කූටරය Standard සහ DLX යන මාදිලි දෙකකින්
+### Honda dio scooter in two models that goardard and dlx
 
 *2025-10-08 11:03:01* · [`adalk`](https://www.ada.lk/business/Honda-Dio-ස්කූටරය-Standard-සහ-DLX-යන-මාදිලි-දෙකකින්/7-418974) · `si`
 
-නවතම Honda Dio 110cc ස්කූටරය Honda යතුරුපැදි සඳහා ශ්‍රී ලංකාවේ එකම බලයලත් බෙදාහරින්නා වන ස්ටැෆර්ඩ් මෝටර් පුද්ගලික සමාගම විසින් මෙරට වෙළෙඳපොළට එළිදැක්වීම සාඩම්බරයෙන් නිවේදනය කර සිටී. මෙම නව ස්කූටරය උසස් තාක්ෂණයෙන් සහ නවතම විශේෂාංගවලින් සමන්විත වන අතර, මුදලට සරිලන අසමසම වටිනාකමක් ලබාදෙයි.
+The latest Honda DIO 110cc scooter is proud to launch the only authorized distributor to the local market for Honda motorcycles. The new scooter consists of high tech and late technology and the most unique value to the money.
 
-වසර ගණනාවක් පුරා Honda Dio සන්නාමය මෙරට පාරිභෝගිකයන්ගේ සමීපතම ගමන් සගයා ලෙස විශ්වසනීයත්වය දිනාගෙන ඇත. එහි නවතම මාදිලිය ලෙස 2025 Honda Dio ස්කූටරය තවත් පියවරක් ඉදිරියට තබමින්, ආර්ථිකමය වශයෙන් වාසිදායි, තාක්ෂණයෙන් ඉහළ, සුවපහසු ගමනක් අපේක්ෂා කරන සියල්ලන්ගේ පළමු තේරීම බවට පත්ව ඇත.
+For many years HonDA DIO brand has won the reliability of the customers of the country. As its latest Model, the 2025 Honda Dio scooter will take another step further, and the first choice of all the technique expected and a comfortable journey.
 
-නව Honda Dio ස්කූටරය 109cc එන්ජිමකින් බලගැන්වී ඇති අතර, Standard සහ DLX යන මාදිලි දෙකකින් ලබාගත හැකිය. මෙම නව ස්කූටරය ඉලෙක්ට්‍රොනික ඉන්ධන සැපයීමේ පද්ධතියකින් [Electronic Fuel Injection (PGM-FI)] සහ Honda සමාගමේ Enhanced Smart Power (eSP) තාක්ෂණයෙන් සමන්විත වේ. එමඟින් එන්ජිමට වඩාත් ඉහළ ඉන්ධන කාර්යක්ෂමතාවක්, වැඩි බලයක් සහ සුමට ක්‍රියාකාරිත්වක් ලබාදෙන අතර නඩත්තු අවම කරයි. එහි නිහඬ ACG ස්ටාටරය මඟින් ඉතා සුමට සහ නිහඬ පණගැන්වුමක් ලබාදෙයි.
+The new Honda Dio scooter is powered with a 109cc engine, and the standard and dlx are available in two models. This new scooter consists of electronic fuel injection (PGM-Fi) and Honda's Enhalat Power (ESP) technology. It provides a higher fuel efficiency, greater power and smooth operation and minimizes the maintenance. Its silent ACG Standrator gives a smooth and silent boil.
 
 ...
 
 [Data](articles/5d7daf88.json)
+
+[Extended Data](ext_articles/5d7daf88.ext.json)
 
 ---
 
@@ -374,6 +492,24 @@ The monthly meeting of the Elpitiya Pradeshiya Sabha commenced this morning, and
 [Data](articles/3a7ef82e.json)
 
 [Extended Data](ext_articles/3a7ef82e.ext.json)
+
+---
+
+### ඇල්පිටිය ප්‍රා.ස. විපක්ෂ මන්ත්‍රීවරියන් විරෝධයක්
+
+*2025-10-08 11:01:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇලපටය-පර-ස-වපකෂ-මනතරවරයන-වරධයක/101-680901) · `si`
+
+ඇල්පිටිය ප්‍රාදේශීය සභාවේ විපක්ෂය නියෝජනය කරන මන්ත්‍රිවරියන් විසින් ඇල්පිටිය ප්‍රාදේශීය සභා කාර්‍යාලය ඉදිරිපිටදී උදෑසන විරෝධතාවක් දක්වනු ලැබීය
+
+." සමරිසි අපට එපා." "මන්ත්‍රි දීමනා ගන්නෑ කියා ඇල්පිටිය ජනතාව මුලා කළේ ඇයි ."
+
+පාසල් පද්ධතිය වලපල්ලට දානවද?කොණ්ඩම් දරුවන් හට " යනුවෙන් ලියූ පුවරු ඔවුන් ප්‍රදර්ශනය කළාය.
+
+ඇල්පිටිය ප්‍රාදේශීය සභාවේ මාසික රැස්වීම අද පෙරවරුවේ ආරම්භවූ අතර ඊට පෙර විපක්ෂය නියෝජනය කරන මන්ත්‍රිවරියන් පෝස්ටර් ප්‍රදර්ශනය කරමින් සටන් පාඨ කියමින් සභාව ඉදිපිට සිට විරෝධතා දැක්වූ අතර පසුව එම පෝස්ටර් ප්‍රදර්ශනය කරමින් සභාවට ඇතුළු වූහ . සභාවේ කටයුතු සාමාන්‍ය පරිදි සභාපති වරයා විසින් කරගෙන යනු ලැබීය .
+
+◼️
+
+[Data](articles/fb0390e1.json)
 
 ---
 
@@ -711,19 +847,21 @@ The owner of the vehicle has been identified as the two passengers in the car ha
 
 ---
 
-### ටී 56 පතරොම් සමග අවු. 20ක තරුණයෙක් අල්ලයි
+### Awk with T 56 ammun. Youth arrested
 
 *2025-10-08 08:26:02* · [`adalk`](https://www.ada.lk/breaking_news/ටී-56-පතරොම්-සමග-අවු--20ක-තරුණයෙක්-අල්ලයි/11-418971) · `si`
 
-පැල්මඩුල්ල පොලිස් වසමේ පාතකඩ ප්‍රදේශයේදී රත්නපුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් කණ්ඩායමකට ලද තොරතුරක් මත වැටලීමක් සිදුකර ටී 56 වර්ගයේ ජීව පතරොම් 20 ක් හා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 03 ක් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන රත්නපුර පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත.
+The Ratnapura Divisional Criminal Investigation Bureau has arrested 20 T-56 liarroms and three ice narcotics in the Pelkada area in the Pelchella area.
 
-සැකකරු වයස අවුරුදු 20 ක් වන පාතකඩ, පැල්මඩුල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The suspect is a resident of Pelmadulla, Pelmadulla, aged 20.
 
-මෙම සැකකරු දැනට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන ඇති සැකකරුවෙකුගෙන් අත්අඩංගුවට ගැනීමට පෙර මෙම පතරොම් තොගය ලබාගෙන ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇත. රත්නපුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+Investigations have revealed that the stock had been obtained before he was arrested by the CID from the CID.. The Ratnapura Divisional Criminal Investigation Bureau is conducting further investigations.
 
 ◼️
 
 [Data](articles/5b169b59.json)
+
+[Extended Data](ext_articles/5b169b59.ext.json)
 
 ---
 
@@ -1742,155 +1880,5 @@ Aitken Spence Logistics proudly emerged as a frontrunner at the CILT Awards 2025
 [Data](articles/5bd114ee.json)
 
 [Extended Data](ext_articles/5bd114ee.ext.json)
-
----
-
-### LB Finance to raise Rs. 20 billion through debentures; selling pressure brings down indices
-
-*2025-10-07 23:06:00* · [`islandlk`](http://island.lk/lb-finance-to-raise-rs-20-billion-through-debentures-selling-pressure-brings-down-indices/) · `en`
-
-L B Finance will issue a hundred million senior debentures and a hundred million subordinated debentures, to raise a total of Rs 20 billion, CSE sources said.
-
-50,000,000 listed, rated, senior, unsecured, redeemable debentures will be issued, the finance company sources said, with an option to issue a further 30,000,000 in the event of an oversubscription of the initial issue, and another 20,000,000 if there’s an oversubscription of the second tranche.
-
-Amid these developments, CSE indices at the outset yesterday picked up but during the latter part of the trading session selling pressure was noted and subsequently the All Share Price Index went down by 68.34 points while the S and P SL20 rose by 5.59 points. Turnover stood at Rs 7.95 billion with 17 crossings.
-
-...
-
-[Data](articles/5cee4098.json)
-
-[Extended Data](ext_articles/5cee4098.ext.json)
-
----
-
-### Telbedde Estate crowned Overall Gold Winner at Ceylon Specialty Estate Tea Awards 2025
-
-*2025-10-07 23:06:00* · [`islandlk`](http://island.lk/telbedde-estate-crowned-overall-gold-winner-at-ceylon-specialty-estate-tea-awards-2025/) · `en`
-
-Telbedde Estate, managed by Balangoda Plantations PLC, has emerged as the Overall Gold Award Winner at the prestigious Ceylon Specialty Estate Tea of the Year 2025.
-
-The award, presented by the Sri Lanka Tea Board in collaboration with the Colombo Tea Traders Association and Colombo Brokers’ Association, celebrates excellence in single-origin Ceylon teas. Telbedde Estate’s Orange Pekoe 1 (OP1) tea stood out from a competitive field, judged for its exceptional quality, unique character and consistency.
-
-This victory reinforces Telbedde’s position as a leading producer of premium Ceylon single-estate teas, recognized globally for its craftsmanship and commitment to sustainable tea production. The winning lot was also featured in a charity auction at the Osaka expo, fetching an impressive ¥65,000 (LKR 133,620) per kilo, which highlights its international appeal and the growing global appreciation for specialty teas from Sri Lanka.
-
-...
-
-[Data](articles/ebd57d2c.json)
-
-[Extended Data](ext_articles/ebd57d2c.ext.json)
-
----
-
-### Inspiring Sri Lanka’s children to dream big on World Children’s Day
-
-*2025-10-07 23:05:00* · [`islandlk`](http://island.lk/inspiring-sri-lankas-children-to-dream-big-on-world-childrens-day-2/) · `en`
-
-In celebration of World Children’s Day on 1 October, SriLankan Airlines facilitated the flight experience for a special programme organised by Derana TV and Unilever, named ‘Derana – Signal Ahasin Gamanak’ for children selected through a creative competition from every province across Sri Lanka. Through this unique initiative, 250 youngsters aged 12 to 15 were gifted the opportunity to enjoy a nearly two-hour flight aboard a SriLankan Airlines Airbus A330-300, with breath-taking views of Sri Lanka’s stunning landscapes from the sky. For many, it was their first flying experience.
-
-The children were warmly welcomed at Bandaranaike International Airport and taken on a guided tour by SriLankan Airlines’ Ground Handling team and Airport and Aviation Services (AASL), where they experienced the full international travel process, from check-in to boarding, before taking off to the skies with SriLankan Airlines.
-
-...
-
-[Data](articles/6bcb20b7.json)
-
-[Extended Data](ext_articles/6bcb20b7.ext.json)
-
----
-
-### MOVA partners with FILMBASE to bring next-generation Smart Glass & LED Film Solutions to Sri Lanka
-
-*2025-10-07 23:05:00* · [`islandlk`](http://island.lk/mova-partners-with-filmbase-to-bring-next-generation-smart-glass-led-film-solutions-to-sri-lanka/) · `en`
-
-MOVA, a rising leader in furnishing and technology-driven interior solutions, has officially partnered with Shenzhen FILMBASE Technology Co., Ltd, China, to introduce the most advanced smart glass and LED film solutions to Sri Lanka.
-
-This strategic collaboration marks a significant milestone in transforming how glass is experienced across commercial, residential, and retail spaces in the country. Through this partnership, Sri Lankan businesses and households will now gain access to FILMBASE’s comprehensive portfolio of innovations, including LED Film, Smart Glass, PDLC Films, Thermochromic and Photochromic Materials, 3D Display Glass, and Flying Display Films; technologies that are already redefining global standards.
-
-...
-
-[Data](articles/01cdcd9d.json)
-
-[Extended Data](ext_articles/01cdcd9d.ext.json)
-
----
-
-### “Missing Case Inquiries are not progressed”
-
-*2025-10-07 22:12:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணாமல்-ஆக்கப்பட்டோர்-வழக்கு-விசாரணைகளில்-முன்னேற்றம்-இல்லை/175-365927) · `ta`
-
-UN forcibly missing. The committee (CED) released its discoveries about Sri Lanka today after reviewing its recent session.
-
-These inventions are the main concerns and recommendations and positive aspects of the committee to implement the International Conference to Protect All Persons from Missing. The main issues are as follows:
-
-The group expressed concern over the lack of detailed registration of the missing and the limited progress in clarifying their fate and location, noted that only 23 of the 16,966 cases received by the Office of the Missing Persons (OMP) were found.
-
-It also expressed its concern over the excessive exemption of punishment exemption that reflected in the hearing of alleged disappearance, including what happened during the armed conflict.
-
-...
-
-[Data](articles/47e4e12e.json)
-
-[Extended Data](ext_articles/47e4e12e.ext.json)
-
----
-
-### AIIB reaffirms support for Sri Lanka’s green energy and development goals
-
-*2025-10-07 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/113311/aiib-reaffirms-support-for-sri-lankas-green-energy-and-development-goals) · `en`
-
-The President of the Asian Infrastructure Investment Bank (AIIB), Jin Liqun, affirmed AIIB’s commitment to supporting Sri Lanka’s development, particularly in the promotion of the green energy sector.
-
-This statement was made during a meeting at the Presidential Secretariat this morning (07), where AIIB Head Jin Liqun, accompanied by senior management, met with President Anura Kumara Dissanayake, according to the President’s Media Division (PMD).
-
-The delegation reviewed the progress of projects implemented in Sri Lanka under AIIB loans and Liqun expressed his intention to continue collaborating with the country to support its overall progress.
-
-He highlighted that future support will focus on sectors such as green energy and green transportation, while ensuring energy stability in Sri Lanka, the PMD said.
-
-...
-
-[Data](articles/074598cf.json)
-
-[Extended Data](ext_articles/074598cf.ext.json)
-
----
-
-### People's Payoples Tower Opens New Head Office
-
-*2025-10-07 21:48:53* · [`adalk`](https://www.ada.lk/business/මහජන-බැංකුවේ-Peoples-Tower-නව-ප්‍රධාන-කාර්යාලය-විවෘත-වේ/7-418964) · `si`
-
-People's Tower "People's Tower" New Head Office Building is the Governor of the Central Bank of Sri Lanka. Nandalal Weerasinghe and Treasury Secretary and Secretary to the Ministry of Finance Planning and Economic Development Ministry Dr. Harshana Sooriyapperuma led by Hon.. At the time of the auspicious time of Rs.
-
-The new head office will be a special way in banking and financial history, which is dedicated to the public and financial assistance to the public, as well as sixty years, as well as to the social economic revival of the country.. The economic growth of the bank as well as the economic growth of the country is well represented and provides further expansion of the service to the country and the people.
-
-...
-
-[Data](articles/0d485bd9.json)
-
-[Extended Data](ext_articles/0d485bd9.ext.json)
-
----
-
-### Second Anniversary of October 7: To ensure peace of mind by Trump's 20 -point plan
-
-*2025-10-07 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/227164) · `ta`
-
-The second anniversary of the Hamas attack on October 7, 2023, which is considered the most brutal terrorist attack in Israel's history, is observed on Tuesday (October 7, 2025).
-
-In a statement issued by US Secretary of State Marco Rubio, he added.
-
-More than 1,200 innocent men, women and children were brutally killed in the attack, including 46 Americans.
-
-Of the 254 people who were taken to hostage by the Hamas organization that day, 12 Americans were included.
-
-To date, a total of 48 hostages, including the bodies of American citizens Iyai Sen and Omar Neutra, are in the grip of Hamas.
-
-While Israel's unwavering support for Israel, the US reaffirms the right to the existence of Israel, to defend itself and ensure the safety of its people.
-
-As a tribute to the victims, the US has updated its commitment to prevent such evil forces from happening again.
-
-...
-
-[Data](articles/54777b1b.json)
-
-[Extended Data](ext_articles/54777b1b.ext.json)
 
 ---

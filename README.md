@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 13:06:26**
+As of **2025-10-08 13:20:37**
 
 ## Newspaper Stats
 
-*Scraped **82,108** Articles*
+*Scraped **82,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,7 +19,7 @@ islandlk | 4,937
 dailyftlk | 5,703
 adalk | 7,842
 adaderanalk | 10,532
-tamilmirrorlk | 12,170
+tamilmirrorlk | 12,172
 virakesarilk | 13,530
 adaderanasinhalalk | 14,067
 
@@ -27,11 +27,41 @@ adaderanasinhalalk | 14,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,106 (100.0%) of 82,108 articles have been extended.
+82,106 (100.0%) of 82,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### பிரபல பாடகியும் வானொலி நடிகையுமான சந்திராணி குணவர்தன காலமானார்
+
+*2025-10-08 12:44:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-பாடகியும்-வானொலி-நடிகையுமான-சந்திராணி-குணவர்தன-காலமானார்/175-365956) · `ta`
+
+புகழ்பெற்ற இலங்கை பாடகி, வானொலி குரல் நடிகை மற்றும் மேடை நிகழ்ச்சியாளரான சந்திராணி குணவர்தன தனது 82வது வயதில் காலமானார்.
+
+இசை, வானொலி நாடகங்கள் மற்றும் நாடகத்துறையில் அவர் ஆற்றிய குறிப்பிடத்தக்க பங்களிப்புகளுக்காக குணவர்தன பரவலாகக் கொண்டாடப்பட்டார், அவரது புகழ்பெற்ற வாழ்க்கை முழுவதும் நாட்டின் கலை நிலப்பரப்பில் ஒரு அழியாத முத்திரையைப் பதித்தார்.
+
+◼️
+
+[Data](articles/f68a0996.json)
+
+---
+
+### மீண்டும் நாட்டில் மின்வெட்டு ஏற்படும் அபாயம்?
+
+*2025-10-08 12:37:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-நாட்டில்-மின்வெட்டு-ஏற்படும்-அபாயம்/175-365955) · `ta`
+
+மின்சார பொறியாளர்கள் சங்கம் நேற்று மாலை 4:15 மணி முதல் அனைத்து பணி விதிமுறைகளையும் நிறுத்தி வைப்பதாக எடுத்த முடிவைத் தொடர்ந்து, நாடு மின்வெட்டு மற்றும் உறுதியற்ற தன்மையை எதிர்கொள்ளும் அபாயம் உள்ளது, இது அதன் தொடர்ச்சியான தொழிற்சங்க நடவடிக்கையை தீவிரப்படுத்துகிறது என்று சமகி கூட்டு தொழிற்சங்க கூட்டணியின் ஒருங்கிணைப்பாளர் ஆனந்த பாலித எச்சரித்தார்.
+
+எமது சகோதர பத்திரிகையான டெய்லி மிரருக்கு பேட்டி அளித்த பாலித, இந்த முடிவு தன்னிச்சையாக எடுக்கப்படவில்லை என்றும், அனைத்து தொடர்புடைய அதிகாரிகளுக்கும் எழுத்துப்பூர்வமாக அறிவித்த பின்னரே எடுக்கப்பட்டது என்றும் கூறினார். வேலை விதிமுறைகளில் இருந்து விலகுவதற்கான தொழிற்சங்கத்தின் முடிவின் பின்னணியில் உள்ள காரணங்களை கடிதங்கள் தெளிவாக கோடிட்டுக் காட்டியுள்ளன என்றும் அவர் கூறினார்.
+
+"அனைத்து பராமரிப்பு மற்றும் பழுது நீக்கும் பணிகளும் நிலையான எட்டு மணி நேர வேலை காலத்தில் மட்டுமே மேற்கொள்ளப்படும். அதற்கு மேல், அவசரம் எதுவாக இருந்தாலும், எந்த பராமரிப்பு அல்லது பழுது நீக்கும் பணியும் நடைபெறாது," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/5b220ba7.json)
+
+---
 
 ### Tension in parliament
 
@@ -1850,47 +1880,5 @@ He highlighted that future support will focus on sectors such as green energy an
 [Data](articles/074598cf.json)
 
 [Extended Data](ext_articles/074598cf.ext.json)
-
----
-
-### People's Payoples Tower Opens New Head Office
-
-*2025-10-07 21:48:53* · [`adalk`](https://www.ada.lk/business/මහජන-බැංකුවේ-Peoples-Tower-නව-ප්‍රධාන-කාර්යාලය-විවෘත-වේ/7-418964) · `si`
-
-People's Tower "People's Tower" New Head Office Building is the Governor of the Central Bank of Sri Lanka. Nandalal Weerasinghe and Treasury Secretary and Secretary to the Ministry of Finance Planning and Economic Development Ministry Dr. Harshana Sooriyapperuma led by Hon.. At the time of the auspicious time of Rs.
-
-The new head office will be a special way in banking and financial history, which is dedicated to the public and financial assistance to the public, as well as sixty years, as well as to the social economic revival of the country.. The economic growth of the bank as well as the economic growth of the country is well represented and provides further expansion of the service to the country and the people.
-
-...
-
-[Data](articles/0d485bd9.json)
-
-[Extended Data](ext_articles/0d485bd9.ext.json)
-
----
-
-### Second Anniversary of October 7: To ensure peace of mind by Trump's 20 -point plan
-
-*2025-10-07 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/227164) · `ta`
-
-The second anniversary of the Hamas attack on October 7, 2023, which is considered the most brutal terrorist attack in Israel's history, is observed on Tuesday (October 7, 2025).
-
-In a statement issued by US Secretary of State Marco Rubio, he added.
-
-More than 1,200 innocent men, women and children were brutally killed in the attack, including 46 Americans.
-
-Of the 254 people who were taken to hostage by the Hamas organization that day, 12 Americans were included.
-
-To date, a total of 48 hostages, including the bodies of American citizens Iyai Sen and Omar Neutra, are in the grip of Hamas.
-
-While Israel's unwavering support for Israel, the US reaffirms the right to the existence of Israel, to defend itself and ensure the safety of its people.
-
-As a tribute to the victims, the US has updated its commitment to prevent such evil forces from happening again.
-
-...
-
-[Data](articles/54777b1b.json)
-
-[Extended Data](ext_articles/54777b1b.ext.json)
 
 ---

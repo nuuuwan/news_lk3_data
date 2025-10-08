@@ -1,3 +1,10 @@
+
+🛑 Data will no be updated as of 2025-10-08. 
+
+For data on **Sri Lankan News Articles** see new repo [https://github.com/nuuuwan/lk_news](https://github.com/nuuuwan/lk_news).
+
+...
+
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
 As of **2025-10-08 14:23:04**

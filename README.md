@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 10:55:48**
+As of **2025-10-08 11:57:43**
 
 ## Newspaper Stats
 
-*Scraped **82,076** Articles*
+*Scraped **82,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,26 +12,114 @@ dbsjeyarajcom | 638
 newsfirstlk | 649
 bbccomsinhala | 729
 colombotelegraphcom | 815
-lankadeepalk | 974
+lankadeepalk | 980
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
-adalk | 7,835
+adalk | 7,838
 adaderanalk | 10,532
-tamilmirrorlk | 12,166
+tamilmirrorlk | 12,167
 virakesarilk | 13,530
-adaderanasinhalalk | 14,061
+adaderanasinhalalk | 14,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,065 (100.0%) of 82,076 articles have been extended.
+82,090 (100.0%) of 82,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### World Gold prices jumps $ 4,000 - gold price to be reappeared
+
+*2025-10-08 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215460) · `si`
+
+The price of a golden ounce of history has exceeded $ 4,000.
+
+Accordingly, the price of a spot was $ 4,011.18.
+
+Meanwhile, the price of gold has increased Rs. 6,000 today.
+
+Accordingly, the price of 22 carrots of Rs 290,500 has increased to Rs 296,000 today.
+
+Meanwhile, the price of a 24 carator pound, 244,000, has risen to Rs.
+
+The most famous Crypto in the world exceeded $ 125,000 for the first time of $ 125,000 for the first time.
+
+Ranmil is now up, the fastest growth marked after the 1970s
+
+Foreign media reports that gold prices have increased by 50% since January 1 this year.
+
+The gold price of the gold price of 2018 has increased by 300% to the end of 2018.
+
+The situation has been further enhanced with the economic uncertain that has arisen with the President Trump's duty war.
+
+The US Treasury bills are not only about the pooling exchange but also investors have begun to doubt the US dollar.
+
+It is no secret that Ukrainian war and Gaza war have been further increased.
+
+...
+
+[Data](articles/26b02f96.json)
+
+[Extended Data](ext_articles/26b02f96.ext.json)
+
+---
+
+### Opposition to garbage: demonstration in Jaffna
+
+*2025-10-08 11:03:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/குப்பை-கொட்டுவதற்கு-எதிர்ப்பு-யாழில்-ஆர்ப்பாட்டம்/71-365945) · `ta`
+
+The people of the town have vehemently opposed the project of the Nallur Pradeshiya Sabha to build garbage in Ariyal. They staged a demonstration on Wednesday (08) in the eastern part of the Ariyalai to record their opposition.
+
+Traffic was blocked through the area as the protesters had led the fate of the Nallur Pradeshiya Sabha.
+
+When the Nallur Pradeshiya Sabha Chairman Mayuran arrived at the demonstration, the people expressed their massive opposition and we were no longer responsible for the impact of the traffic.. They warned. A Mahajar was also handed over to the Divine.
+
+◼️
+
+[Data](articles/822f4d81.json)
+
+[Extended Data](ext_articles/822f4d81.ext.json)
+
+---
+
+### Ambewela promotes a significant holiday experience
+
+*2025-10-08 11:01:31* · [`adalk`](https://www.ada.lk/business/අඹේවෙල-වෙතින්-සුවිශේෂී-නිවාඩු-අත්දැකීමක්-ගෙනෙන-ප්‍රවර්ධනයක්/7-418973) · `si`
+
+Ambewela has introduced a consumer promotional campaign with special experiences for its customers in Sri Lanka's milk production.
+
+Ambewela is now presented to his trusted customers to make a valuable experience in the quality of that brand. The latest consumer promotion program has been launched by its customers across the country to win a luxury holiday.
+
+Whenever buying a package of the Ambewela Fresh Milk or Non-Fat title, customers will win the opportunity to win 10 vacation packages. The promotion running over 10 weeks, one lucky winner of one lucky winner, and 10 winners.
+
+This is simple and is simple and the Purchase of the liter of the liter of the liter is included in the Draw by 'follow' page 'to scan and the purchase with the receipt of the purchase.. Every package purchased will give a chance to win.
+
+...
+
+[Data](articles/fbcddce2.json)
+
+[Extended Data](ext_articles/fbcddce2.ext.json)
+
+---
+
+### I'm the second Sri Lankan who started Gem Business in Gem Business
+
+*2025-10-08 10:40:52* · [`lankadeepalk`](https://www.lankadeepa.lk/visheshanga/මම-තමය-චන-මණක-බසනස-පටන-ගතත-දවන-ශර-ලකකය/26-680900) · `si`
+
+I was added to the Menikaggnel since five years old.. Now I went to China to do the second to China, the Chinese and businesses in China, who is carrying out in the world's biggest gem markets. My name is Kanana Character Ranasinghe.
+
+...
+
+[Data](articles/723e9d83.json)
+
+[Extended Data](ext_articles/723e9d83.ext.json)
+
+---
 
 ### Denmark To Ban Social Media for Under-15s
 
@@ -40,6 +128,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d468e692.json)
+
+[Extended Data](ext_articles/d468e692.ext.json)
 
 ---
 
@@ -53,6 +143,8 @@ The Illegal Assets Investigation Division has initiated investigations into the 
 
 [Data](articles/d7ce769f.json)
 
+[Extended Data](ext_articles/d7ce769f.ext.json)
+
 ---
 
 ### Fingerprint System Introduced for Postal Staff Attendance
@@ -65,6 +157,62 @@ Postmaster General Ruwan Sathkumara says that steps have been taken to introduce
 
 [Data](articles/c735b156.json)
 
+[Extended Data](ext_articles/c735b156.ext.json)
+
+---
+
+### Grama Niladhari prepares to strike
+
+*2025-10-08 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215459) · `si`
+
+Sri Lanka United Grama Niladhari Association says that if the coming budget is not paid for its offers, the Sri Lanka United Grama Niladhari Association says.
+
+Addressing a media briefing held today (08), Mr. Jagath Chandralal said this.
+
+"The Minister said that" the Minister said that our Service Minute was passed with amendment with amendment. By May 1st, gazette and provides us service minutes. It has become a false promise today. We say that the government gazettes and enforce the amendment of the Grama Niladhari UPFA.. Or we have to get into the road against this government. Also, the quota was cut in the last budget of 20 liters of fuel. If it did not receive it in this Budget, we decided as a joint alliance in the next budget if we had no provision from the next budget. "
+
+◼️
+
+[Data](articles/be5e3c10.json)
+
+[Extended Data](ext_articles/be5e3c10.ext.json)
+
+---
+
+### Missing Privileges Questions Disappearance: Opposition Leader charge
+
+*2025-10-08 10:09:45* · [`lankadeepalk`](https://www.lankadeepa.lk/news/වරපරසද-පරශන-අතරදන-වපකෂනයකගන-චදනවක/101-680899) · `si`
+
+Opposition Leader Sajith Premadasa accused the parliamentary leader's issues that the opposition MPs had taken revealed recently.
+
+He asked to take action to discuss these questions as soon as possible.
+
+The Opposition (Ocho) stated that Dilip Wadarachchi Jagath Wedana's Royal Kumari Wijeratne has not yet taken place regarding the privilege issues.
+
+◼️
+
+[Data](articles/57e68624.json)
+
+[Extended Data](ext_articles/57e68624.ext.json)
+
+---
+
+### Missing Privileges Questions Disappearance: Opposition Leader charge
+
+*2025-10-08 10:09:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වරපරසද-පරශන-අතරදන-වපකෂනයකගන-චදනවක/1-680899) · `si`
+
+Opposition Leader Sajith Premadasa accused the parliamentary leader's issues that the opposition MPs had taken revealed recently.
+
+He asked to take action to discuss these questions as soon as possible.
+
+The Opposition (Ocho) stated that Dilip Wadarachchi Jagath Wedana's Royal Kumari Wijeratne has not yet taken place regarding the privilege issues.
+
+◼️
+
+[Data](articles/5f499c3a.json)
+
+[Extended Data](ext_articles/5f499c3a.ext.json)
+
 ---
 
 ### All Stranded Everest Hikers Evacuated
@@ -75,35 +223,61 @@ Postmaster General Ruwan Sathkumara says that steps have been taken to introduce
 
 [Data](articles/e01f9e55.json)
 
+[Extended Data](ext_articles/e01f9e55.ext.json)
+
 ---
 
-### பொலிஸார் அவசர எச்சரிக்கை
+### The police emergency warning
 
 *2025-10-08 09:57:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸார்-அவசர-எச்சரிக்கை/175-365936) · `ta`
 
-சமூக ஊடக தளங்கள், குறிப்பாக டெலிகிராம், வாட்ஸ்அப் மற்றும் பிற ஆன்லைன் குழுக்கள் மூலம் அதிகரித்து வரும் நிதி மோசடிகள் குறித்து இலங்கை காவல்துறை பொதுமக்களுக்கு அவசர எச்சரிக்கை விடுத்துள்ளது
+The Sri Lankan police have issued an emergency warning to the public about increasing financial frauds by social media sites, especially telegram, WhatsApp and other online groups.
 
 ◼️
 
 [Data](articles/6f2684da.json)
 
+[Extended Data](ext_articles/6f2684da.ext.json)
+
 ---
 
-### ඕ අයි සීලා තිහක් හිතුමතේ මාරු කරලා
+### O i can have been transferred in a thirty
 
 *2025-10-08 09:54:57* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඕ-අය-සල-තහක-හතමත-මර-කරල/101-680898) · `si`
 
-පොලිස් ස්ථානාධිපතිවරුන් තිස් දෙනෙකු කිසිදු හේතුවක් නැතුව මාරු කර යවා  ඇතැයි සමගි ජන බලවේගයේ කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී නීතිඥ  දයාසිරි ජයසේකර මහතා පාර්ලිමේන්තුවේදී අද පැවසීය.
+Dayasiri Jayasekera, Kurunegala District, the Kurunegala District of the Sri Lanka Agency, said in Parliament today (Thirty Police OICs have been transferred for any reason.
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්ද කිසිදු වැඩපිළිවෙලක් නැතුව මාරු කර ඇතැයි ඔහු කීවේය.
+He said that senior DIGs were transferred without any program.
 
-පොලිස් ස්ථානාධිපතිවරුන් ස්ථාන මාරු කිරීමේ තීරණය ගැනීමේ බලය තිබෙන්නේ ජාතික පොලිස් කොමිෂන් සභාවට බව කී මන්ත්‍රීවරයා මොකක්ද මේ අද කරන්නේ යයිද විමසා සිටියේය.
+The National Police Commission (DM) said that the National Police Commission has the power to determine the transfer of the Police OICs.
 
-පොලිසියේ මාරුවීම් එක් අතකට අද පැවරිලා. පොලිස් කොමිසම ආණ්ඩුවේ රූකඩයක් කරගන්න බැහැ. පඹේක් කරගන්න බැහැ. පොලිස් කොමිසම සතු බලතල පොලිස්පතිවරයාට පැවරීම ගැන විපක්ෂයේ පොදු විරෝධතාවය පළ කරනවා.
+Police shifts be assigned to today. The police commission cannot make a government puppet. Can't make a papac. The opposition's opposition protests the powers of the Police Commission to the Inspector General of Police.
 
 ◼️
 
 [Data](articles/a8716c78.json)
+
+[Extended Data](ext_articles/a8716c78.ext.json)
+
+---
+
+### O i can have been transferred in a thirty
+
+*2025-10-08 09:54:57* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඕ-අය-සල-තහක-හතමත-මර-කරල/1-680898) · `si`
+
+Dayasiri Jayasekera, Kurunegala District, the Kurunegala District of the Sri Lanka Agency, said in Parliament today (Thirty Police OICs have been transferred for any reason.
+
+He said that senior DIGs were transferred without any program.
+
+The National Police Commission (DM) said that the National Police Commission has the power to determine the transfer of the Police OICs.
+
+Police shifts be assigned to today. The police commission cannot make a government puppet. Can't make a papac. The opposition's opposition protests the powers of the Police Commission to the Inspector General of Police.
+
+◼️
+
+[Data](articles/0b674ceb.json)
+
+[Extended Data](ext_articles/0b674ceb.ext.json)
 
 ---
 
@@ -115,19 +289,75 @@ Postmaster General Ruwan Sathkumara says that steps have been taken to introduce
 
 [Data](articles/77c09256.json)
 
+[Extended Data](ext_articles/77c09256.ext.json)
+
 ---
 
-### අණ නොතැකු රියට පොලිස් වෙඩි
+### Police firing police shops
+
+*2025-10-08 09:48:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අණ-නතක-රයට-පලස-වඩ/1-680897) · `si`
+
+Police and suspect arrested suspect in defaulting of police orders yesterday (07) at the Maadawatta Republicavaya, Matara yesterday.
+
+The vehicle went to the police burn and was crashed and stopped. A suspect was arrested on suspicion at the time.
+
+◼️
+
+[Data](articles/478f5fc4.json)
+
+[Extended Data](ext_articles/478f5fc4.ext.json)
+
+---
+
+### Police firing police shops
 
 *2025-10-08 09:48:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අණ-නතක-රයට-පලස-වඩ/101-680897) · `si`
 
-මාතර මැද්දවත්ත ජනරජ මාවත ප්‍රදේශයේ දී ඊයේ (07) රාත්‍රී පොලිස් අණ නොතකා ධාවනය කළ මෝටර් රථයකට පොලීසිය වෙඩි තබා එම මෝටර් රථය හා සැකකරුවකු සැක පිට අත්අඩංගුවට ගෙන ඇත.
+Police and suspect arrested suspect in defaulting of police orders yesterday (07) at the Maadawatta Republicavaya, Matara yesterday.
 
-පොලිස් වෙඩි ප්‍රහාරය හමුවේ එම මෝටර් රථය ටික දුරක් ගොස් අනතුරට ලක් වී නතර වී තිබේ. එම අවස්ථාවේ එහි සිටි සැකකරුවකු සැක පිට අත්අඩංගුවට ගෙන ඇත.
+The vehicle went to the police burn and was crashed and stopped. A suspect was arrested on suspicion at the time.
 
 ◼️
 
 [Data](articles/cd38456d.json)
+
+[Extended Data](ext_articles/cd38456d.ext.json)
+
+---
+
+### Court decision not to unicorn murder case
+
+*2025-10-08 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215458) · `si`
+
+The Kalkgoda Magistrate's Court has ordered the Wildlife Department to the Government Antiquity Testing to the Government Antiquity Tree.
+
+The Ada Derana of the court reporter was rejected by Mrs. Hingurakgoda Mag Karunaratne, Site Assistant AB Kularatne at the Minneriya Wildlife Office.
+
+The Magistrate also ordered that a report on the progress of the investigation into the killing of unicorn gross.
+
+The victim has been released on bail by the court regarding the crime and a resident of the Matale Yatiribanna, Matale.
+
+Senior Attorney-at-Law Vijitha Wickramanayaka who appeared for the rights of Unicorn Popular garden was the main reason for the Grosses, a large number of foreign tourists to see Unicorn Gross.
+
+The unicorn was 40 feet old and 6 feet tall.
+
+◼️
+
+[Data](articles/f37caad2.json)
+
+[Extended Data](ext_articles/f37caad2.ext.json)
+
+---
+
+### Parliamentary Council begins
+
+*2025-10-08 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215457) · `si`
+
+◼️
+
+[Data](articles/00294ad4.json)
+
+[Extended Data](ext_articles/00294ad4.ext.json)
 
 ---
 
@@ -171,21 +401,23 @@ COLOMBO (News 1st) - Police opened fire on a vehicle in Wellamadama, Matara, aro
 
 ---
 
-### சமிக்ஞையை மீறிச் சென்ற கார் மீது துப்பாக்கிச் சூடு
+### Firing on the car that violated the signal
 
 *2025-10-08 08:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமிக்ஞையை-மீறிச்-சென்ற-கார்-மீது-துப்பாக்கிச்-சூடு/175-365932) · `ta`
 
-மாத்தறை, வெல்லமடம பகுதியில் சென்ற கார் மீது பொலிஸார் துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+Police fired a car that was traveling in Wellamadama in Matara.
 
-பொலிஸார் காரை நிறுத்துமாறு கூறிய போதும், மீறிச் சென்றதால் பொலிஸார் துப்பாக்கிப் பிரேயோகம் மேற்கொண்டதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the police have been guilty of the fire, but the police have called for the car to stop.
 
-இதையடுத்து குறித்த கார், மாத்தறை, ஜனராஜ மாவத்தை பகுதியில்  கைவிடப்பட்ட நிலையில் கண்டுபிடிக்கப்பட்டதாக பொலிஸார்  தெரிவித்தனர்.
+The car was found abandoned in the Janaraja Mawatha area of ​​Matara, police said.
 
-குறித்த காரில் பயணித்தவ இருவரும் தப்பிச் சென்ற நிலையில் வாகனத்தின் உரிமையாளர் அடையாளம் காணப்பட்டுள்ளதோடு, சம்பவம் தொடர்பில் ஒருவர் கைது செய்யப்பட்டுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர். R
+The owner of the vehicle has been identified as the two passengers in the car have escaped and one person has been arrested in connection with the incident.. Remble
 
 ◼️
 
 [Data](articles/0619e64c.json)
+
+[Extended Data](ext_articles/0619e64c.ext.json)
 
 ---
 
@@ -261,21 +493,43 @@ Gaza will be tied up again by the battle. Extreme argument will be eliminated fr
 
 ---
 
-### භෞතික විද්‍යාව සඳහා නොබෙල් ත්‍යාගය තිදෙනෙකුට
+### Four suspects arrested for murder of Hungama
+
+*2025-10-08 07:56:18* · [`adalk`](https://www.ada.lk/breaking_news/හුංගම-ද්විත්ව-ඝාතනයට-සැක-4ක්-අල්ලයි/11-418969) · `si`
+
+The Hungama Police Station and Tangalle Division Criminal Investigation (Criminal Investigation) of the Hungama and Tangalle Divisional Criminal Investigation Bureau have commenced on the criminal of a man and a woman in the Hungama area in the Hungama area.
+
+Accordingly, a suspect has been arrested and submitted to the Hungama Police under the help of the crime on the morning and 10th August 2025 on 07.07.2010.
+
+The suspects are residents of Ranna, 27 and 33, and the suspect is a 35 year old resident of the area.
+
+Police are conducting further investigations into the arrest of other suspects involved in the crime.. Hungama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/5cb4dadf.json)
+
+[Extended Data](ext_articles/5cb4dadf.ext.json)
+
+---
+
+### Nobel Prize for Physics
 
 *2025-10-08 07:51:34* · [`adalk`](https://www.ada.lk/international/භෞතික-විද්‍යාව-සඳහා-නොබෙල්-ත්‍යාගය-තිදෙනෙකුට/3-418968) · `si`
 
-ඉතා බලවත් පරිගණක නව පරම්පරාවකට මග පාදන ක්වොන්ටම් යාන්ත්‍ර විද්‍යාව පිළිබඳව කළ සේවාව අගයමින් භෞතික විද්‍යාව සඳහා නොබෙල් ත්‍යාගය ජෝන් ක්ලාක්, මයිකල් එච්. ඩෙවොරෙට් සහ ජෝන් එම්. මාර්ටිනිස් යන අයට හිමිව තිබේ.
+Nobel Prize for Physics, who has made a new generation of quantum mechanics that leads to a new generation of quantum mechanics, Michael H. Darott and John M. Martinis has occupied.
 
-"ජංගම දුරකථන, කැමරා... සහ ෆයිබර් ඔප්ටික් කේබල් ඇතුළු ක්වොන්ටම් යාන්ත්‍ර විද්‍යාව මත රඳා නොපවතින අද භාවිතා වන වෙනත් දියුණු තාක්ෂණයක් නොමැත," නොබෙල් කමිටුව පැවසීය.
+"Mobile Phones, cameras.. And there is no other advanced technique that does not depend on quantum mechanics, including Fiber Optic Cables, "said the Nobel Committee.
 
-ස්වීඩනයේ ස්ටොක්හෝම් හි පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී රාජකීය ස්වීඩන් විද්‍යා ඇකඩමිය විසින් මෙම නිවේදනය නිකුත් කරන ලදී.
+The announcement was issued at a press conference held in Stockholm in Sweden.
 
-"මෘදු ලෙස කිවහොත්, එය මගේ ජීවිතයේ පුදුමයක් " එක්සත් රාජධානියේ කේම්බ්‍රිජ් හි උපත ලැබූ සහ දැන් බර්ක්ලි හි කැලිෆෝනියා විශ්ව විද්‍යාලයේ සේවය කරන මහාචාර්ය ජෝන් ක්ලාක් පැවසීය.
+"Softly, it is a surprise in my life" Professor John Clarke, who is born in Cambridge, and now in Berkeley, California University.
 
 ◼️
 
 [Data](articles/6479d576.json)
+
+[Extended Data](ext_articles/6479d576.ext.json)
 
 ---
 
@@ -1269,6 +1523,22 @@ He highlighted that future support will focus on sectors such as green energy an
 
 ---
 
+### People's Payoples Tower Opens New Head Office
+
+*2025-10-07 21:48:53* · [`adalk`](https://www.ada.lk/business/මහජන-බැංකුවේ-Peoples-Tower-නව-ප්‍රධාන-කාර්යාලය-විවෘත-වේ/7-418964) · `si`
+
+People's Tower "People's Tower" New Head Office Building is the Governor of the Central Bank of Sri Lanka. Nandalal Weerasinghe and Treasury Secretary and Secretary to the Ministry of Finance Planning and Economic Development Ministry Dr. Harshana Sooriyapperuma led by Hon.. At the time of the auspicious time of Rs.
+
+The new head office will be a special way in banking and financial history, which is dedicated to the public and financial assistance to the public, as well as sixty years, as well as to the social economic revival of the country.. The economic growth of the bank as well as the economic growth of the country is well represented and provides further expansion of the service to the country and the people.
+
+...
+
+[Data](articles/0d485bd9.json)
+
+[Extended Data](ext_articles/0d485bd9.ext.json)
+
+---
+
 ### Second Anniversary of October 7: To ensure peace of mind by Trump's 20 -point plan
 
 *2025-10-07 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/227164) · `ta`
@@ -1658,285 +1928,5 @@ It is customary for these earthquakes to occur in the area as Papua New Guinea i
 [Data](articles/093180d9.json)
 
 [Extended Data](ext_articles/093180d9.ext.json)
-
----
-
-### Convention against Doping in Sport (Amendment) Bill passed in Parliament
-
-*2025-10-07 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/113309/convention-against-doping-in-sport-amendment-bill-passed-in-parliament) · `en`
-
-The Speaker of Sri Lanka’s Parliament, Dr. Jagath Wickramaratne, today (07) endorsed the certificate on the Convention against Doping in Sport (Amendment) Bill.
-
-The Second Reading Debate on the Convention against Doping in Sport (Amendment) Bill was held from 11.30 a.m. to 5.00 p.m. today, and the Bill was passed without a division and amendment.
-
-The Bill was presented to Parliament for First Reading on September 12, 2025 by the Minister of Youth Affairs and Sports Sunil Kumara Gamage.
-
-This Bill is intended to amend the Convention against Doping in Sports Act No. 33 of 2013, aligning Sri Lanka’s anti-doping legislation with international standards, the statement said.
-
-The World Anti-Doping Agency (WADA) annually monitors the laws and regulations on doping in sports in Sri Lanka and accordingly, this Bill aims to amend the existing Act in accordance with the laws and regulations of the World Anti-Doping Agency to bring it in line with the needs of modern sports, it said.
-
-...
-
-[Data](articles/1b385180.json)
-
-[Extended Data](ext_articles/1b385180.ext.json)
-
----
-
-### Para champions to Sri Lanka
-
-*2025-10-07 18:46:38* · [`lankadeepalk`](https://www.lankadeepa.lk/news/පර-ශරය-ලකවට/101-680881) · `si`
-
-Sri Lanka's athletes arrived in the island today (7).
-
-The tournament was held at the participation of 980 athletes from 100 countries from September 27 to October 5.
-
-At the tournament, Nuwan Indika Indika Indika Ven.
-
-All athletes and the officers of the Ministry of Youth Affairs and Sports and the Chairman of the Sri Lanka Paralympic Committee participated in the Parai Winner Competition and the Chairman of the Sri Lanka Paralympic Committee.
-
-◼️
-
-[Data](articles/1c7ec503.json)
-
-[Extended Data](ext_articles/1c7ec503.ext.json)
-
----
-
-### Para champions to Sri Lanka
-
-*2025-10-07 18:46:38* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/පර-ශරය-ලකවට/1-680881) · `si`
-
-Sri Lanka's athletes arrived in the island today (7).
-
-The tournament was held at the participation of 980 athletes from 100 countries from September 27 to October 5.
-
-At the tournament, Nuwan Indika Indika Indika Ven.
-
-All athletes and the officers of the Ministry of Youth Affairs and Sports and the Chairman of the Sri Lanka Paralympic Committee participated in the Parai Winner Competition and the Chairman of the Sri Lanka Paralympic Committee.
-
-◼️
-
-[Data](articles/b37d167f.json)
-
-[Extended Data](ext_articles/b37d167f.ext.json)
-
----
-
-### Discussion between the President and the International Monetary Fund Representatives
-
-*2025-10-07 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/227151) · `ta`
-
-A discussion between President Anura Kumara Dissanayake and Representatives of the International Monetary Fund was held today (07) at the Presidential Office.
-
-It was held as an interim discussion of the fifth review before the IMF to provide the sixth installment of the International Monetary Fund in the Debt Relief process.
-
-President Anura Kumara Dissanayake said that the main objective of the government is to liberate the country, which is economically bankrupt, and lead to development.
-
-The President also stated that he is greatly appreciative of the International Monetary Fund's support for the success of this program.
-
-The President pointed out that the government had identified the need to exceed the targets set by the International Monetary Fund to develop this country as an economic revival.
-
-...
-
-[Data](articles/99299829.json)
-
-[Extended Data](ext_articles/99299829.ext.json)
-
----
-
-### 323 containers controversy; team appointment
-
-*2025-10-07 18:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/323-கொள்கலன்கள்-சர்ச்சை-குழு-நியமனம்/175-365913) · `ta`
-
-Parliament is to appoint a selection committee to investigate the controversial case in violation of the established customs procedures, without compulsory inspection of 323 containers from the Port of Colombo.
-
-The resolution filed in Parliament states that the release of irregular containers is a serious danger to "national security, revenue collection and public security", in the report of the Inquiry Committee appointed by the Treasury Secretary on the instructions of the President.
-
-The investigation was followed by media reports that highlight the alleged allegation of customs.
-
-According to the resolution, the Sri Lanka Customs Officers Association has publicly stated that the contents of the containers released due to irregular process cannot be held responsible. There has also been concerns that such disadvantages may have led to the smuggling of drugs, guns or other restricted items into the country.
-
-...
-
-[Data](articles/a09753eb.json)
-
-[Extended Data](ext_articles/a09753eb.ext.json)
-
----
-
-### Rs.. 757.4 million, handed over to the Treasury of 757.4 million
-
-*2025-10-07 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215443) · `si`
-
-757.4 million of the state enterprises under the Ministry of Industries has been handed over to the Treasury.
-
-The dividend has been officially handed over to Labor Minister and Deputy Minister of Economic Development, Anil Jayantha, Deputy Minister of Labor and Economic Development Mr. Harshana Sooriyapperuma in parliament today (07).
-
-It is said that Lanka Minal Salt Limited, BCC Lanka Limited, BCC Lanka Limited, BCC Lanka Limited, BCC Lanka Limited, Limited, and Lanka Kahathoya Limitted under the new government.
-
-Acting Chairman Gayan Wellala, acting chairman of the Institute, was given a sum of Rs. 500 million as part of the dividends in the last 9 months.
-
-At the end of this year, the Acting Chairman said that the acting chairman said he would attempt to reach Rs. 5 billion.
-
-Sri Lanka President of the BCC Lanka Limited. Prasanna Indrajith was given to the Treasury as part of its dividends in their company dividends, which is a company that was due to liquidate due to the loss of BCC.
-
-...
-
-[Data](articles/30981353.json)
-
-[Extended Data](ext_articles/30981353.ext.json)
-
----
-
-### The gazette on the bet and gambling tax
-
-*2025-10-07 18:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தயம்-மற்றும்-சூதாட்ட-வரி-மீதான-வர்த்தமானி-வெளியீடு/175-365912) · `ta`
-
-The Gazette on Betting and Gambling Tax (Amendment) has been released from October 01, 2025.
-
-Accordingly, the tax on the total collection of gambling businesses has been increased from 15% to 18%, including a gambling or gambling director's business.
-
-In addition, the Cassino entry fee to be paid by Sri Lankan citizens has been increased to US $ 100, which is a 100% increase.
-
-◼️
-
-[Data](articles/2d75cb51.json)
-
-[Extended Data](ext_articles/2d75cb51.ext.json)
-
----
-
-### Opposition MPs submit motion seeking probe into release of 323 containers
-
-*2025-10-07 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113308/opposition-mps-submit-motion-seeking-probe-into-release-of-323-containers) · `en`
-
-A motion seeking to appoint a special parliamentary committee to investigate the release of 323 shipping containers from the Colombo Port without mandatory physical inspection has been submitted to the Speaker of Parliament.
-
-A group of opposition MPs had submitted the motion to the Speaker Jagath Wickramaratne today.
-
-Chief Opposition Whip Gayantha Karunathilaka, MPs Ranjith Madduma Bandara, Harshana Rajakaruna, J.C. Alawathuwala, Dr. Kavinda Jayawardena, and several other members of the Samagi Jana Balawegaya (SJB) were present on this occasion.
-
-In addition, Sri Lanka Podujana Peramuna (SLPP) MP D. V. Chanaka was also present.
-
-◼️
-
-[Data](articles/d330da8c.json)
-
-[Extended Data](ext_articles/d330da8c.ext.json)
-
----
-
-### Homes to low income families in Kalutara
-
-*2025-10-07 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/227155) · `ta`
-
-Under the "Own Place - A Beautiful Life" program implemented on the basis of the new government policy for low -income families, the government -funded housing and Mass Media Minister of State for Health and Mass Media, Monday (6), was held on Monday afternoon.
-
-The Minister presented the keys of the houses built for three low -income families living in the villages of Yattiyan and Senapura in the Venivelpitiya and Bandaragama Divisional Secretariat Division in the Millaniya Divisional Secretariat Division.
-
-The Minister presented the keys of two houses built for low income families in the Kumbuga, Eastern and Konapola villages of the Horana Divisional Secretariat Division.
-
-The government has taken steps to provide 1 million rupees to build each house.
-
-The government has so far paid 155 million rupees to 155 poor families who have no housing in Kalutara district. Steps have been taken to hand over the five houses built under the scheme today.
-
-...
-
-[Data](articles/13c9053f.json)
-
-[Extended Data](ext_articles/13c9053f.ext.json)
-
----
-
-### Speaker Certificate to act on banned stimulants
-
-*2025-10-07 18:08:07* · [`adalk`](https://www.ada.lk/sports/තහනම්-උත්තේජකවලට-එරෙහි-පනතට-කථානායක-සහතිකය/9-418961) · `si`
-
-Speaker Medical Jagath Wickramaratne today noted the certificate today (07).
-
-Today is 11.30 pm to. Conventions Against Machines (Amendment) Bill was held in the second reading of the Bill, without a bill, without a polling.. The Hon.
-
-This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.  World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
-
-◼️
-
-[Data](articles/556ea330.json)
-
-[Extended Data](ext_articles/556ea330.ext.json)
-
----
-
-### Young couple arrested with heavy ice drugs
-
-*2025-10-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227157) · `ta`
-
-A young couple has been arrested by the Valaichenai police on Monday evening with 2030 grams of ice drugs in Valaichenai area in Batticaloa.
-
-Valaichenai police said that the amount of ice drugs in the Eastern Province has been seized for the first time.
-
-Assistant Superintendent of Police MSM. Based on the information received by Jaruus, a police team led by him went to the scene at 4.30 pm yesterday and engaged in surveillance near the Assistant Superintendent of Police.
-
-The police surrounded the husband and wife who had taken the ice drug from Kalkuda in the three -wheeler.
-
-Subsequently, the suspects were arrested after they seized 2030 grams of ice and three wheelers.
-
-A main drug dealer in Morakottanjane has sought a puppy in Colombo and paid Rs.
-
-Subsequently, the couple went to Colombo train. There, a woman gave a puppy and a bag to the couple in the Parakkottai area, and they took it and returned to their home in Calcutta by bus.
-
-...
-
-[Data](articles/c7e33378.json)
-
-[Extended Data](ext_articles/c7e33378.ext.json)
-
----
-
-### Sri Lanka's economic resource is still incomplete - World Bank
-
-*2025-10-07 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215442) · `si`
-
-The World Bank says Sri Lanka's recent economic activity is strong.
-
-However, the Sri Lankan economy is imperfect and the economic growth is still below the crisis.
-
-The World Bank says a new report on Sri Lanka's development updates (Sri Lanka Development Update).
-
-The World Bank says a press release regarding the contents of this report, the World Bank says that the current macroeconomic stability, quick structural reforms and more efficient, amenitable state spending will be needed.
-
-The World Bank foretells that the Sri Lanka Development updates released today (07) will be 4.6% of the Sri Lankan economy in 2025.
-
-However, the World Bank pointed out that this can slow down to 3.5% in 2026.
-
-◼️
-
-[Data](articles/cd209f25.json)
-
-[Extended Data](ext_articles/cd209f25.ext.json)
-
----
-
-### Speaker's Certificate to the Convention against Timing (Amendment) Bill
-
-*2025-10-07 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215441) · `si`
-
-Speaker Medical Medical Minister Wickramaratne today noted his certificate today (07).
-
-Today is 11.30 pm to. The second reading of the Convention (Amendment) Bill was held in the second reading of the bill against the role of stimulating material (Amendment).
-
-The Hon.
-
-This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.
-
-World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
-
-Accordingly, the Convention Against the Convention on Modeling Mars' Conventional (Amendment) Bill (Amendment) Act No. 21 of 2025 is enforced as the Convention Against Matching.
-
-◼️
-
-[Data](articles/2babb329.json)
-
-[Extended Data](ext_articles/2babb329.ext.json)
 
 ---

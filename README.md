@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 11:07:56**
+As of **2025-10-08 10:55:48**
 
 ## Newspaper Stats
 
-*Scraped **82,084** Articles*
+*Scraped **82,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,22 +12,22 @@ dbsjeyarajcom | 638
 newsfirstlk | 649
 bbccomsinhala | 729
 colombotelegraphcom | 815
-lankadeepalk | 978
+lankadeepalk | 974
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
-adalk | 7,836
+adalk | 7,835
 adaderanalk | 10,532
 tamilmirrorlk | 12,166
 virakesarilk | 13,530
-adaderanasinhalalk | 14,064
+adaderanasinhalalk | 14,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,065 (100.0%) of 82,084 articles have been extended.
+82,065 (100.0%) of 82,076 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,38 +64,6 @@ Postmaster General Ruwan Sathkumara says that steps have been taken to introduce
 ◼️
 
 [Data](articles/c735b156.json)
-
----
-
-### ග්‍රාම නිලධාරීන් වර්ජනයකට සැරසෙයි
-
-*2025-10-08 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215459) · `si`
-
-එළැඹෙන අයවැයෙන් තම දීමනා නොලැබෙන්නේ නම් දීප ව්‍යාප්ත වැඩවර්ජනයකට යන බව ශ්‍රී ලංකා එක්සත් ග්‍රාම නිලධාරී සංගමය පවසයි.
-
-අද (08) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් එම සංගමයේ ප්‍රධාන ලේකම් ජගත් චන්ද්‍රලාල් මහතා ඒ බව සඳහන් කළේය.
-
-"අපේ සේවා ව්‍යවස්ථාව සංශෝධන සහිතව සම්මතකර දෙනවා කියලා ඇමතිවරයා කිව්වේ ගිය අයවැය විවාදයේදී. මැයි 01 වෙනිදා වෙනකොට ගැසට් කරලා අපිට සේවා ව්‍යවස්ථාව ලබාදෙනවා කිව්වා. අදට ඒක බොරු පොරොන්දුවක් වෙලා තියෙනවා. අපි කියනවා මේ රජයට මේ සේවා ව්‍යවස්ථාව ග්‍රාම නිලධාරී සන්ධානයේ සංශෝධනය ඇතුව වහාම ගැසට් කරලා අපට බලාත්මක කරලා දෙන්න. එහෙම නැත්නම් අපිට සිදුවෙනවා මේ රජයට විරුද්ධව පාරට බහින්න. ඒ වගේම ඉන්ධන ලීටර 20ක කෝටා එක පසුගිය අයවැයෙන් කැපුවා. ඒක මේ අයවැයේදී ලැබුණේ නැත්නම් අපි ඒකාබද්ධ සන්ධානයක් වශයෙන් අපි අද තීරණයක් ගත්තා ඉදිරි අයවැයෙන් මේ ප්‍රතිපාදන අපිට ලැබුණේ නැත්නම් අපි දීප ව්‍යාප්ත වැඩවර්ජනයකට යනවා."
-
-◼️
-
-[Data](articles/be5e3c10.json)
-
----
-
-### වරප්‍රසාද ප්‍රශ්න අතුරුදන්: විපක්ෂනායකගෙන් චෝදනාවක්
-
-*2025-10-08 10:09:45* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/වරපරසද-පරශන-අතරදන-වපකෂනයකගන-චදනවක/1-680899) · `si`
-
-විපක්ෂයේ මන්ත්‍රීවරුන් පසුගිය දිනවල ඉදිරිපත් කළ වරප්‍රසාද ප්‍රශ්න තවමත් කිසිම සාකච්ඡාවකට ගෙන නැතැයි විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පාර්ලිමේන්තුවේදී චෝදනා කළේය.
-
-මෙම ප්‍රශ්න හැකි ඉක්මනින්  සාකච්ඡාවට ගැනීමට කටයුතු කරන්නැයි  ඔහු ඉල්ලා සිටියේය.
-
-දිලිප් වෙදආරච්චි  ජගත් විතානගේ  රෝහිනී කුමාරි විජේරත්න යන අය ඉදිරිපත් කළ වරප්‍රසාද  ප්‍රශ්න සම්බන්ධයෙන් මෙතෙක් කටයුතු කර නැතැයිද විපක්ෂනායකවරයා පැවසීය.
-
-◼️
-
-[Data](articles/5f499c3a.json)
 
 ---
 
@@ -139,24 +107,6 @@ Postmaster General Ruwan Sathkumara says that steps have been taken to introduce
 
 ---
 
-### ඕ අයි සීලා තිහක් හිතුමතේ මාරු කරලා
-
-*2025-10-08 09:54:57* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඕ-අය-සල-තහක-හතමත-මර-කරල/1-680898) · `si`
-
-පොලිස් ස්ථානාධිපතිවරුන් තිස් දෙනෙකු කිසිදු හේතුවක් නැතුව මාරු කර යවා  ඇතැයි සමගි ජන බලවේගයේ කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී නීතිඥ  දයාසිරි ජයසේකර මහතා පාර්ලිමේන්තුවේදී අද පැවසීය.
-
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්ද කිසිදු වැඩපිළිවෙලක් නැතුව මාරු කර ඇතැයි ඔහු කීවේය.
-
-පොලිස් ස්ථානාධිපතිවරුන් ස්ථාන මාරු කිරීමේ තීරණය ගැනීමේ බලය තිබෙන්නේ ජාතික පොලිස් කොමිෂන් සභාවට බව කී මන්ත්‍රීවරයා මොකක්ද මේ අද කරන්නේ යයිද විමසා සිටියේය.
-
-පොලිසියේ මාරුවීම් එක් අතකට අද පැවරිලා. පොලිස් කොමිසම ආණ්ඩුවේ රූකඩයක් කරගන්න බැහැ. පඹේක් කරගන්න බැහැ. පොලිස් කොමිසම සතු බලතල පොලිස්පතිවරයාට පැවරීම ගැන විපක්ෂයේ පොදු විරෝධතාවය පළ කරනවා.
-
-◼️
-
-[Data](articles/0b674ceb.json)
-
----
-
 ### மஹிந்தவை தூக்கில் போடவேண்டும்
 
 *2025-10-08 09:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/மஹிந்தவை-தூக்கில்-போடவேண்டும்/62-365934) · `ta`
@@ -164,20 +114,6 @@ Postmaster General Ruwan Sathkumara says that steps have been taken to introduce
 ◼️
 
 [Data](articles/77c09256.json)
-
----
-
-### අණ නොතැකු රියට පොලිස් වෙඩි
-
-*2025-10-08 09:48:56* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/අණ-නතක-රයට-පලස-වඩ/1-680897) · `si`
-
-මාතර මැද්දවත්ත ජනරජ මාවත ප්‍රදේශයේ දී ඊයේ (07) රාත්‍රී පොලිස් අණ නොතකා ධාවනය කළ මෝටර් රථයකට පොලීසිය වෙඩි තබා එම මෝටර් රථය හා සැකකරුවකු සැක පිට අත්අඩංගුවට ගෙන ඇත.
-
-පොලිස් වෙඩි ප්‍රහාරය හමුවේ එම මෝටර් රථය ටික දුරක් ගොස් අනතුරට ලක් වී නතර වී තිබේ. එම අවස්ථාවේ එහි සිටි සැකකරුවකු සැක පිට අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/478f5fc4.json)
 
 ---
 
@@ -192,34 +128,6 @@ Postmaster General Ruwan Sathkumara says that steps have been taken to introduce
 ◼️
 
 [Data](articles/cd38456d.json)
-
----
-
-### යුනිකෝන් ඇතා ඝාතන සිද්ධිය සම්බන්ධයෙන් අධිකරණයෙන් දුන් තීන්දුව
-
-*2025-10-08 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215458) · `si`
-
-මින්නේරිය ජාතික වනෝද්‍යානයේ සැරිසරමින් සිටි යුනිකෝන් දළ ඇතාට සැලසුම් සහගතව ‍චේතනාන්විතව වෙඩිතබා ඝාතනය කිරීමට යොදා ගත් බවට සැක කෙරෙන ගිනි අවිය රජයේ රස පරික්ෂකවරයා වෙත යොමුකර අදාළ රස පරික්ෂක වාර්තාව අධිකරණයට ඉදිරිපත් කරන ලෙස හිඟුක්ගොඩ මහෙස්ත්‍රාත් අධිකරණය වනජීවි දෙපාර්තමේන්තුවට නියෝග කර තිබේ.
-
-"අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන කළේ හිඟුරක්ගොඩ මහෙස්ත්‍රාත් එන් ඩී කරුණාරත්න මහත්මිය විසින් මින්නේරිය වනජීවි කාර්යාලයේ අඩවි සහකාර ඒ බී සී කුලරත්න මහතාට මෙම නියෝගය සිදුකළ බවය.
-
-යුනිකෝන් දළ ඇතාට වෙඩි තබා මරා දැමීමේ සිද්ධිය  සම්බන්ධයෙන් සිදු කෙරෙන විමර්ශන වල ප්‍රගතිය දැක්වෙන වාර්තාවක් අධිකරණය හමුවට ඉදිරිපත් කරන ලෙසද මහේස්ත්‍රාත්වරිය නියෝග කර තිබේ.
-
-මෙම අපරාධය සම්බන්ධයෙන් අධිකරණය මගින් පොළොන්නරුව දියබෙදුම ඉහනලුවැව පදිංචිකරුවන් තිදෙනෙකු සහ මාතලේ යටිවිමන ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු ඇප මත මුදාහැර ඇති බව සඳහන්ය.
-
-...
-
-[Data](articles/f37caad2.json)
-
----
-
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
-
-*2025-10-08 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215457) · `si`
-
-◼️
-
-[Data](articles/00294ad4.json)
 
 ---
 
@@ -350,24 +258,6 @@ Gaza will be tied up again by the battle. Extreme argument will be eliminated fr
 [Data](articles/b4af4155.json)
 
 [Extended Data](ext_articles/b4af4155.ext.json)
-
----
-
-### හුංගම ද්විත්ව ඝාතනයට සැක 4ක් අල්ලයි
-
-*2025-10-08 07:56:18* · [`adalk`](https://www.ada.lk/breaking_news/හුංගම-ද්විත්ව-ඝාතනයට-සැක-4ක්-අල්ලයි/11-418969) · `si`
-
-හුංගම පොලිස් වසමේ වාඩිගල, රන්න ප්‍රදේශයේ නිවසක් තුල පිරිමි පුද්ගලයෙකු හා කාන්තාවක් කපා කොටා ඝාතනය කිරීමේ අපරාධය සම්බන්ධව හුංගම පොලිස් ස්ථානය හා තංගල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය මඟින් වැඩිදුර විමර්ශන ආරම්භ තිබුණි.
-
-ඒ අනුව 2025.10.07 වන දින උදෑසන හා සවස් කාලයේදී හුංගම පොලිස් වසමේ අඳුපැලෑන හා රන්න ප්‍රදේශවලදී එම කාර්යංශයේ නිලධාරීන් කණ්ඩායමක් විසින් ලද තොරතුරක් මත මෙම අපරාධයට සම්බන්ධ සැකකරුවන් තිදෙනෙකු සහ අපරාධයට ආධාර අනුබල දීම යටතේ සැකකාරියක් අත්අඩංගුවට ගෙන හුංගම පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත.
-
-සැකකරුවන් අවුරුදු 27 හා 33 වයස් වල පසුවන රන්න ප්‍රදේශයේ පදිංචිකරුවන් වන අතර සැකකාරිය වයස අවුරුදු 35 ක් වන එම ප්‍රදේශයේම පදිංචිකාරියකි.
-
-මෙම අපරාධයට සම්බන්ධ තවත් සැකකරුවන් අත්අඩංගුවට ගැනීමට තවදුරටත් විමර්ශන සිදුකරනු ලබන අතර අපරාධයට යොදා ගත් මෙරට නිෂ්පාදිත බෝර 12 වර්ගයේ පතරොම් යෙදිය හැකි ගල්කටස් වර්ගයේ ගිනි අවියක්, මන්නා පිහි 02 ක්, බෝර 12 වර්ගයේ සජීව පතරොමක් හා බෝර 12 වර්ගයේ හිස් පතරොමක් පොලිස් භාරයට ගෙන ඇත. හුංගම පොලිසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
-
-◼️
-
-[Data](articles/5cb4dadf.json)
 
 ---
 
@@ -1896,5 +1786,157 @@ Sri Lanka President of the BCC Lanka Limited. Prasanna Indrajith was given to th
 [Data](articles/30981353.json)
 
 [Extended Data](ext_articles/30981353.ext.json)
+
+---
+
+### The gazette on the bet and gambling tax
+
+*2025-10-07 18:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தயம்-மற்றும்-சூதாட்ட-வரி-மீதான-வர்த்தமானி-வெளியீடு/175-365912) · `ta`
+
+The Gazette on Betting and Gambling Tax (Amendment) has been released from October 01, 2025.
+
+Accordingly, the tax on the total collection of gambling businesses has been increased from 15% to 18%, including a gambling or gambling director's business.
+
+In addition, the Cassino entry fee to be paid by Sri Lankan citizens has been increased to US $ 100, which is a 100% increase.
+
+◼️
+
+[Data](articles/2d75cb51.json)
+
+[Extended Data](ext_articles/2d75cb51.ext.json)
+
+---
+
+### Opposition MPs submit motion seeking probe into release of 323 containers
+
+*2025-10-07 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/113308/opposition-mps-submit-motion-seeking-probe-into-release-of-323-containers) · `en`
+
+A motion seeking to appoint a special parliamentary committee to investigate the release of 323 shipping containers from the Colombo Port without mandatory physical inspection has been submitted to the Speaker of Parliament.
+
+A group of opposition MPs had submitted the motion to the Speaker Jagath Wickramaratne today.
+
+Chief Opposition Whip Gayantha Karunathilaka, MPs Ranjith Madduma Bandara, Harshana Rajakaruna, J.C. Alawathuwala, Dr. Kavinda Jayawardena, and several other members of the Samagi Jana Balawegaya (SJB) were present on this occasion.
+
+In addition, Sri Lanka Podujana Peramuna (SLPP) MP D. V. Chanaka was also present.
+
+◼️
+
+[Data](articles/d330da8c.json)
+
+[Extended Data](ext_articles/d330da8c.ext.json)
+
+---
+
+### Homes to low income families in Kalutara
+
+*2025-10-07 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/227155) · `ta`
+
+Under the "Own Place - A Beautiful Life" program implemented on the basis of the new government policy for low -income families, the government -funded housing and Mass Media Minister of State for Health and Mass Media, Monday (6), was held on Monday afternoon.
+
+The Minister presented the keys of the houses built for three low -income families living in the villages of Yattiyan and Senapura in the Venivelpitiya and Bandaragama Divisional Secretariat Division in the Millaniya Divisional Secretariat Division.
+
+The Minister presented the keys of two houses built for low income families in the Kumbuga, Eastern and Konapola villages of the Horana Divisional Secretariat Division.
+
+The government has taken steps to provide 1 million rupees to build each house.
+
+The government has so far paid 155 million rupees to 155 poor families who have no housing in Kalutara district. Steps have been taken to hand over the five houses built under the scheme today.
+
+...
+
+[Data](articles/13c9053f.json)
+
+[Extended Data](ext_articles/13c9053f.ext.json)
+
+---
+
+### Speaker Certificate to act on banned stimulants
+
+*2025-10-07 18:08:07* · [`adalk`](https://www.ada.lk/sports/තහනම්-උත්තේජකවලට-එරෙහි-පනතට-කථානායක-සහතිකය/9-418961) · `si`
+
+Speaker Medical Jagath Wickramaratne today noted the certificate today (07).
+
+Today is 11.30 pm to. Conventions Against Machines (Amendment) Bill was held in the second reading of the Bill, without a bill, without a polling.. The Hon.
+
+This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.  World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
+
+◼️
+
+[Data](articles/556ea330.json)
+
+[Extended Data](ext_articles/556ea330.ext.json)
+
+---
+
+### Young couple arrested with heavy ice drugs
+
+*2025-10-07 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/227157) · `ta`
+
+A young couple has been arrested by the Valaichenai police on Monday evening with 2030 grams of ice drugs in Valaichenai area in Batticaloa.
+
+Valaichenai police said that the amount of ice drugs in the Eastern Province has been seized for the first time.
+
+Assistant Superintendent of Police MSM. Based on the information received by Jaruus, a police team led by him went to the scene at 4.30 pm yesterday and engaged in surveillance near the Assistant Superintendent of Police.
+
+The police surrounded the husband and wife who had taken the ice drug from Kalkuda in the three -wheeler.
+
+Subsequently, the suspects were arrested after they seized 2030 grams of ice and three wheelers.
+
+A main drug dealer in Morakottanjane has sought a puppy in Colombo and paid Rs.
+
+Subsequently, the couple went to Colombo train. There, a woman gave a puppy and a bag to the couple in the Parakkottai area, and they took it and returned to their home in Calcutta by bus.
+
+...
+
+[Data](articles/c7e33378.json)
+
+[Extended Data](ext_articles/c7e33378.ext.json)
+
+---
+
+### Sri Lanka's economic resource is still incomplete - World Bank
+
+*2025-10-07 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215442) · `si`
+
+The World Bank says Sri Lanka's recent economic activity is strong.
+
+However, the Sri Lankan economy is imperfect and the economic growth is still below the crisis.
+
+The World Bank says a new report on Sri Lanka's development updates (Sri Lanka Development Update).
+
+The World Bank says a press release regarding the contents of this report, the World Bank says that the current macroeconomic stability, quick structural reforms and more efficient, amenitable state spending will be needed.
+
+The World Bank foretells that the Sri Lanka Development updates released today (07) will be 4.6% of the Sri Lankan economy in 2025.
+
+However, the World Bank pointed out that this can slow down to 3.5% in 2026.
+
+◼️
+
+[Data](articles/cd209f25.json)
+
+[Extended Data](ext_articles/cd209f25.ext.json)
+
+---
+
+### Speaker's Certificate to the Convention against Timing (Amendment) Bill
+
+*2025-10-07 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215441) · `si`
+
+Speaker Medical Medical Minister Wickramaratne today noted his certificate today (07).
+
+Today is 11.30 pm to. The second reading of the Convention (Amendment) Bill was held in the second reading of the bill against the role of stimulating material (Amendment).
+
+The Hon.
+
+This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.
+
+World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
+
+Accordingly, the Convention Against the Convention on Modeling Mars' Conventional (Amendment) Bill (Amendment) Act No. 21 of 2025 is enforced as the Convention Against Matching.
+
+◼️
+
+[Data](articles/2babb329.json)
+
+[Extended Data](ext_articles/2babb329.ext.json)
 
 ---

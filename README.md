@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 10:20:55**
+As of **2025-10-08 10:38:17**
 
 ## Newspaper Stats
 
-*Scraped **82,069** Articles*
+*Scraped **82,074** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 638
-newsfirstlk | 646
+newsfirstlk | 647
 bbccomsinhala | 729
 colombotelegraphcom | 815
 lankadeepalk | 974
@@ -17,9 +17,9 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
-adalk | 7,834
+adalk | 7,835
 adaderanalk | 10,532
-tamilmirrorlk | 12,163
+tamilmirrorlk | 12,166
 virakesarilk | 13,530
 adaderanasinhalalk | 14,061
 
@@ -27,11 +27,23 @@ adaderanasinhalalk | 14,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,065 (100.0%) of 82,069 articles have been extended.
+82,065 (100.0%) of 82,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### Fingerprint System Introduced for Postal Staff Attendance
+
+*2025-10-08 10:17:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/fingerprint-system-introduced-for-postal-staff-attendance) · `en`
+
+Postmaster General Ruwan Sathkumara says that steps have been taken to introduce fingerprint machines for marking attendance at the Colombo Central Mail Exchange. He says the machines have been installed across all departments, and future overtime calculations will be based on data recorded through the system.Fingerprint machines have already been set up in all administrative offices, while arrangements are underway to extend the system to all provincial offices and post offices nationwide.The initiative follows recommendations made in the Auditor General’s audit reports.However, several postal trade unions recently launched a strike opposing the installation of fingerprint machines at the Central Mail Exchange and citing other related concerns.
+
+◼️
+
+[Data](articles/c735b156.json)
+
+---
 
 ### All Stranded Everest Hikers Evacuated
 
@@ -40,6 +52,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e01f9e55.json)
+
+---
+
+### பொலிஸார் அவசர எச்சரிக்கை
+
+*2025-10-08 09:57:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸார்-அவசர-எச்சரிக்கை/175-365936) · `ta`
+
+சமூக ஊடக தளங்கள், குறிப்பாக டெலிகிராம், வாட்ஸ்அப் மற்றும் பிற ஆன்லைன் குழுக்கள் மூலம் அதிகரித்து வரும் நிதி மோசடிகள் குறித்து இலங்கை காவல்துறை பொதுமக்களுக்கு அவசர எச்சரிக்கை விடுத்துள்ளது
+
+◼️
+
+[Data](articles/6f2684da.json)
 
 ---
 
@@ -58,6 +82,16 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a8716c78.json)
+
+---
+
+### மஹிந்தவை தூக்கில் போடவேண்டும்
+
+*2025-10-08 09:49:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/மஹிந்தவை-தூக்கில்-போடவேண்டும்/62-365934) · `ta`
+
+◼️
+
+[Data](articles/77c09256.json)
 
 ---
 
@@ -112,6 +146,24 @@ COLOMBO (News 1st) - Police opened fire on a vehicle in Wellamadama, Matara, aro
 [Data](articles/b3923a03.json)
 
 [Extended Data](ext_articles/b3923a03.ext.json)
+
+---
+
+### சமிக்ஞையை மீறிச் சென்ற கார் மீது துப்பாக்கிச் சூடு
+
+*2025-10-08 08:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமிக்ஞையை-மீறிச்-சென்ற-கார்-மீது-துப்பாக்கிச்-சூடு/175-365932) · `ta`
+
+மாத்தறை, வெல்லமடம பகுதியில் சென்ற கார் மீது பொலிஸார் துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+
+பொலிஸார் காரை நிறுத்துமாறு கூறிய போதும், மீறிச் சென்றதால் பொலிஸார் துப்பாக்கிப் பிரேயோகம் மேற்கொண்டதாக தெரிவிக்கப்படுகின்றது.
+
+இதையடுத்து குறித்த கார், மாத்தறை, ஜனராஜ மாவத்தை பகுதியில்  கைவிடப்பட்ட நிலையில் கண்டுபிடிக்கப்பட்டதாக பொலிஸார்  தெரிவித்தனர்.
+
+குறித்த காரில் பயணித்தவ இருவரும் தப்பிச் சென்ற நிலையில் வாகனத்தின் உரிமையாளர் அடையாளம் காணப்பட்டுள்ளதோடு, சம்பவம் தொடர்பில் ஒருவர் கைது செய்யப்பட்டுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/0619e64c.json)
 
 ---
 
@@ -184,6 +236,24 @@ Gaza will be tied up again by the battle. Extreme argument will be eliminated fr
 [Data](articles/b4af4155.json)
 
 [Extended Data](ext_articles/b4af4155.ext.json)
+
+---
+
+### භෞතික විද්‍යාව සඳහා නොබෙල් ත්‍යාගය තිදෙනෙකුට
+
+*2025-10-08 07:51:34* · [`adalk`](https://www.ada.lk/international/භෞතික-විද්‍යාව-සඳහා-නොබෙල්-ත්‍යාගය-තිදෙනෙකුට/3-418968) · `si`
+
+ඉතා බලවත් පරිගණක නව පරම්පරාවකට මග පාදන ක්වොන්ටම් යාන්ත්‍ර විද්‍යාව පිළිබඳව කළ සේවාව අගයමින් භෞතික විද්‍යාව සඳහා නොබෙල් ත්‍යාගය ජෝන් ක්ලාක්, මයිකල් එච්. ඩෙවොරෙට් සහ ජෝන් එම්. මාර්ටිනිස් යන අයට හිමිව තිබේ.
+
+"ජංගම දුරකථන, කැමරා... සහ ෆයිබර් ඔප්ටික් කේබල් ඇතුළු ක්වොන්ටම් යාන්ත්‍ර විද්‍යාව මත රඳා නොපවතින අද භාවිතා වන වෙනත් දියුණු තාක්ෂණයක් නොමැත," නොබෙල් කමිටුව පැවසීය.
+
+ස්වීඩනයේ ස්ටොක්හෝම් හි පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී රාජකීය ස්වීඩන් විද්‍යා ඇකඩමිය විසින් මෙම නිවේදනය නිකුත් කරන ලදී.
+
+"මෘදු ලෙස කිවහොත්, එය මගේ ජීවිතයේ පුදුමයක් " එක්සත් රාජධානියේ කේම්බ්‍රිජ් හි උපත ලැබූ සහ දැන් බර්ක්ලි හි කැලිෆෝනියා විශ්ව විද්‍යාලයේ සේවය කරන මහාචාර්ය ජෝන් ක්ලාක් පැවසීය.
+
+◼️
+
+[Data](articles/6479d576.json)
 
 ---
 
@@ -1890,103 +1960,5 @@ Accordingly, the Convention Amendment Amendments to the Struggle to Take Strain 
 [Data](articles/82c70ca5.json)
 
 [Extended Data](ext_articles/82c70ca5.ext.json)
-
----
-
-### Earthquake of magnitude 6.6 shakes Lae city in Papua New Guinea
-
-*2025-10-07 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/113307/earthquake-of-magnitude-66-shakes-lae-city-in-papua-new-guinea) · `en`
-
-An earthquake of magnitude 6.6 struck near Lae, the second largest city in Papua New Guinea, on Tuesday, the U.S. Geological Survey (USGS) said.
-
-City police official Mildred Ongige told Reuters by telephone that a “very huge” earthquake was felt. “It was a few minutes ago so we have no further details of damage but we are concerned,” she added.
-
-A tsunami warning was not issued after the quake, which struck at a depth of 10 km, according to the Pacific Tsunami Warning Center.
-
-The quake’s epicentre was 26 km (~16 miles) from the city of Lae, which has a population of over 76,000 and is located in the country’s Morobe province, according to USGS.
-
-The quake was initially reported at a magnitude of 6.8 by the German Research Centre for Geosciences (GFZ) before the agency revised it to 6.6.
-
-Papua New Guinea straddles the Pacific’s “Ring of Fire”, a region known for frequent earthquakes.
-
-...
-
-[Data](articles/34c5f167.json)
-
-[Extended Data](ext_articles/34c5f167.ext.json)
-
----
-
-### Request of the Opposition to 323 Imported Contactations of Customs
-
-*2025-10-07 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215440) · `si`
-
-A proposal to appoint 323 containers from the Colombo Port has been handed over to the Speaker to appoint 323 containers.
-
-The proposal was handed over to the Speaker today a man of opposition members.
-
-Members of the Opposition of the Opposition of the Opposition of Members of the Agreement for the occasion, Ranjith Madduma Bandara, Harshana Rajakarunana, JC. The elephants and Dr. Kavinda Jayawardena were present.
-
-The Sri Lanka General Front is also appointed as MP. Paddy. Mr. Chanaka was participating.
-
-◼️
-
-[Data](articles/20210c3b.json)
-
-[Extended Data](ext_articles/20210c3b.ext.json)
-
----
-
-### New Resolution on Sri Lanka: Human Rights Watch has sown among affected parties
-
-*2025-10-07 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/227156) · `ta`
-
-The Human Rights Watch, which has rejected the United Nations, has rejected the United Nations's Magistrate's Project, but the new resolution passed in Sri Lanka yesterday, despite the fact that the President of the United Nations, which was appointed as the government of 2024, was appointed as the government of Sri Lanka, which was passed by the government in the United States of America yesterday. It has been sown among the affected parties.
-
-In a statement issued by Deputy Director of Human Rights Watch in Geneva, Lucy McCarenn, on the new resolution passed on Sri Lanka on Monday (6) at the 60th session of the United Nations Human Rights Council, said:
-
-...
-
-[Data](articles/abc9380f.json)
-
-[Extended Data](ext_articles/abc9380f.ext.json)
-
----
-
-### SC Confirms Death Sentence for Julampitiya Amare
-
-*2025-10-07 17:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/sc-confirms-death-sentence-for-julampitiya-amare) · `en`
-
-COLOMBO (News 1st); The Supreme Court of Sri Lanka upheld the death sentence imposed by the Tangalle High Court on G.G. Amarasekara, widely known as Julampitiya Amare, for his conviction in a double murder that occurred in 2012.The ruling was delivered by a bench comprising Justices Janak de Silva, Sobhitha Rajakaruna, and Sampath Wijeratne, who dismissed the appeal filed by Amare’s legal team seeking acquittal and release. The appeal was rejected without being taken up for full hearing, thereby confirming the original sentence.Amare was found guilty of opening fire at a political rally organized by the Janatha Vimukthi Peramuna (JVP) in Katuwana, resulting in the deaths of two individuals and causing critical injuries to another. Following a lengthy trial, the Tangalle High Court sentenced him to death in 2019.
-
-◼️
-
-[Data](articles/586a96d8.json)
-
-[Extended Data](ext_articles/586a96d8.ext.json)
-
----
-
-### IMF representatives who met the president
-
-*2025-10-07 17:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்த-IMF-பிரதிநிதிகள்/175-365910) · `ta`
-
-Representatives of the International Monetary Fund (IMF) praised the government's steps to restore the economy of the declined country and discussed the steps to be followed in the future.
-
-A discussion between President Anuragumara Dissanayake and the International Monetary Fund was held on Tuesday (07) at the Presidential Office.
-
-It was held as an interim discussion of the fifth review before the IMF to provide the sixth installment of the International Monetary Fund in the Debt Relief process.
-
-President Anura Kumara Dissanayake said that the main objective of the government is to liberate the country, which is economically bankrupt, and lead to development.
-
-The President also said that the International Monetary Fund's support for the success of this program is greatly appreciated.
-
-The President pointed out that the government had identified the need to exceed the targets set by the IMF to develop the country as an economic revival.
-
-...
-
-[Data](articles/5d141cf8.json)
-
-[Extended Data](ext_articles/5d141cf8.ext.json)
 
 ---

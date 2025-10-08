@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 09:39:19**
+As of **2025-10-08 09:56:43**
 
 ## Newspaper Stats
 
-*Scraped **82,064** Articles*
+*Scraped **82,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ dbsjeyarajcom | 638
 newsfirstlk | 645
 bbccomsinhala | 729
 colombotelegraphcom | 815
-lankadeepalk | 970
+lankadeepalk | 971
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
@@ -27,21 +27,23 @@ adaderanasinhalalk | 14,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,062 (100.0%) of 82,064 articles have been extended.
+82,064 (100.0%) of 82,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
 
-### විදුලි ගාස්තු සංශෝධන ගැන අවසන් මහජන අදහස් ලබා ගැනීම අද
+### Taking an end public opinion on electricity tariffs today
 
 *2025-10-08 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215456) · `si`
 
-ලංකා විදුලි බල මණ්ඩලය විසින් විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන උපයෝගීතා කොමිසම වෙත ඉදිරිපත් කළ යෝජනාවට අදාළ මහජන අදහස් ලබා ගැනීම අදින් අවසන් වේ.
+The Ceylon Electricity Board (CEB) has come to the proposal to be submitted to the Public Utilities Commission regarding the telecommunication revision.
 
 ◼️
 
 [Data](articles/41a664d9.json)
+
+[Extended Data](ext_articles/41a664d9.ext.json)
 
 ---
 
@@ -402,6 +404,22 @@ Some places in the Northern, North Central East, Central and Uva provinces will 
 [Data](articles/f47eeddd.json)
 
 [Extended Data](ext_articles/f47eeddd.ext.json)
+
+---
+
+### තැනින් තැනට අදත් තරමක තද වැසි
+
+*2025-10-08 06:30:40* · [`lankadeepalk`](https://www.lankadeepa.lk/news/තනන-තනට-අදත-තරමක-තද-වස/101-680890) · `si`
+
+උතුරු සහ උතුරු - මැද පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+සෙසු ප්‍රදේශවල පස්වරු 1.00 පමන පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ. බස්නාහිර සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදිත් තැනින් තැන වැසි ඇති වේ.
+
+උතුරු,උතුරු මැද නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මිලි මීටර් 50 වැඩි තරමක තද වැසි ඇති වේ.
+
+◼️
+
+[Data](articles/b2cf7484.json)
 
 ---
 
@@ -1974,29 +1992,5 @@ Also, the Opposition MPs Jeevan Thondaman, Chanakyan and Dayasiri Jayasekara com
 [Data](articles/e188d0f2.json)
 
 [Extended Data](ext_articles/e188d0f2.ext.json)
-
----
-
-### The government has not taken steps to resolve Tamils ​​despite taking action against drugs and corruption -E. Sirinath
-
-*2025-10-07 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/227152) · `ta`
-
-Sri Lanka Tamil State Party Batticaloa District Parliamentarian E. Sirinath said that although the new government has taken a variety of development programs, drugs and many other measures against corruption and corruption.
-
-"We see the reluctance of the government to provide a solution to the Tamil people," he said.
-
-The foundation stone for the construction of the Vadapatrakali Ammal Temple, located in the Sengaladi Iyengani area in Batticaloa, was held on Tuesday (7).
-
-The event was held at the arrangement of the temple administration and the chairman of the temple priest.
-
-In today's period, young people are undergoing various guidelines. In this case, the temples are responsible for the preservation of the youth and the builders of our areas in the future.
-
-We have a huge responsibility for the Tamil people, our political leaderships and social organizations in our area to unite and lead our society and religion.
-
-...
-
-[Data](articles/1a4a3f49.json)
-
-[Extended Data](ext_articles/1a4a3f49.ext.json)
 
 ---

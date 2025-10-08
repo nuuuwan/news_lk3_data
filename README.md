@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 10:38:17**
+As of **2025-10-08 10:55:48**
 
 ## Newspaper Stats
 
-*Scraped **82,074** Articles*
+*Scraped **82,076** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 638
-newsfirstlk | 647
+newsfirstlk | 649
 bbccomsinhala | 729
 colombotelegraphcom | 815
 lankadeepalk | 974
@@ -27,11 +27,33 @@ adaderanasinhalalk | 14,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,065 (100.0%) of 82,074 articles have been extended.
+82,065 (100.0%) of 82,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### Denmark To Ban Social Media for Under-15s
+
+*2025-10-08 10:28:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/denmark-to-ban-social-media-for-under-15s) · `en`
+
+...
+
+[Data](articles/d468e692.json)
+
+---
+
+### Investigations Launched into Assets of 10 Former Ministers and Organized Criminals
+
+*2025-10-08 10:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/investigations-launched-into-assets-of-10-former-ministers-and-organized-criminals) · `en`
+
+The Illegal Assets Investigation Division has initiated investigations into the assets of 10 former MPs and Ministers, following several complaints received by the police.According to police sources, in addition to the former MPs and Ministers, a separate probe has also begun into the assets of 10 members of organized criminal gangs.Authorities have stated that the findings uncovered during these investigations will be submitted to court in due course.Furthermore, the police emphasized that steps will be taken to confiscate properties acquired through unlawful means, in accordance with the provisions of the Prevention of Money Laundering Act and related legislation.
+
+◼️
+
+[Data](articles/d7ce769f.json)
+
+---
 
 ### Fingerprint System Introduced for Postal Staff Attendance
 
@@ -1916,49 +1938,5 @@ Accordingly, the Convention Against the Convention on Modeling Mars' Conventiona
 [Data](articles/2babb329.json)
 
 [Extended Data](ext_articles/2babb329.ext.json)
-
----
-
-### Speaker Certificate to Sports Stimulant Act
-
-*2025-10-07 17:57:24* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරඩ-උතතජක-තහනම-පනතට-කතනයක-සහතකය/101-680880) · `si`
-
-Speaker Medical Jagath Wickramaratne today noted his certificate today (07).
-
-Today is 11.30 pm to. The second reading of the Convention (Amendment) Bill was held in the second reading of the bill against the role of stimulating material (Amendment).
-
-The Bill was presented to parliament on 12.09.2012 to the first reading for the first time.
-
-This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.  World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
-
-Accordingly, the Convention Amendment Amendments to the Struggle to Take Strain to Take Strain (Amendments) Bill, No. 21, No. 21, 2025, is in force.
-
-◼️
-
-[Data](articles/3f38fcb1.json)
-
-[Extended Data](ext_articles/3f38fcb1.ext.json)
-
----
-
-### Speaker Certificate to Sports Stimulant Act
-
-*2025-10-07 17:57:24* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/කරඩ-උතතජක-තහනම-පනතට-කතනයක-සහතකය/1-680880) · `si`
-
-Speaker Medical Jagath Wickramaratne today noted his certificate today (07).
-
-Today is 11.30 pm to. The second reading of the Convention (Amendment) Bill was held in the second reading of the bill against the role of stimulating material (Amendment).
-
-The Bill was presented to parliament on 12.09.2012 to the first reading for the first time.
-
-This bill is considered a bill to amend the Convention Act of No. 33. to update the stimulant eradication law of Sri Lanka.  World Anti Repression (World Anti - Doping Agency- Wada) The Act has been viewed annually to amend the existing base of global eradication legal and regulations according to modern sports requirements.
-
-Accordingly, the Convention Amendment Amendments to the Struggle to Take Strain to Take Strain (Amendments) Bill, No. 21, No. 21, 2025, is in force.
-
-◼️
-
-[Data](articles/82c70ca5.json)
-
-[Extended Data](ext_articles/82c70ca5.ext.json)
 
 ---

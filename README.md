@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 12:56:04**
+As of **2025-10-08 13:06:26**
 
 ## Newspaper Stats
 
-*Scraped **82,106** Articles*
+*Scraped **82,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
-adalk | 7,840
+adalk | 7,842
 adaderanalk | 10,532
 tamilmirrorlk | 12,170
 virakesarilk | 13,530
@@ -27,7 +27,7 @@ adaderanasinhalalk | 14,067
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,106 (100.0%) of 82,106 articles have been extended.
+82,106 (100.0%) of 82,108 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -318,6 +318,22 @@ When the Nallur Pradeshiya Sabha Chairman Mayuran arrived at the demonstration, 
 [Data](articles/822f4d81.json)
 
 [Extended Data](ext_articles/822f4d81.ext.json)
+
+---
+
+### Honda Dio ස්කූටරය Standard සහ DLX යන මාදිලි දෙකකින්
+
+*2025-10-08 11:03:01* · [`adalk`](https://www.ada.lk/business/Honda-Dio-ස්කූටරය-Standard-සහ-DLX-යන-මාදිලි-දෙකකින්/7-418974) · `si`
+
+නවතම Honda Dio 110cc ස්කූටරය Honda යතුරුපැදි සඳහා ශ්‍රී ලංකාවේ එකම බලයලත් බෙදාහරින්නා වන ස්ටැෆර්ඩ් මෝටර් පුද්ගලික සමාගම විසින් මෙරට වෙළෙඳපොළට එළිදැක්වීම සාඩම්බරයෙන් නිවේදනය කර සිටී. මෙම නව ස්කූටරය උසස් තාක්ෂණයෙන් සහ නවතම විශේෂාංගවලින් සමන්විත වන අතර, මුදලට සරිලන අසමසම වටිනාකමක් ලබාදෙයි.
+
+වසර ගණනාවක් පුරා Honda Dio සන්නාමය මෙරට පාරිභෝගිකයන්ගේ සමීපතම ගමන් සගයා ලෙස විශ්වසනීයත්වය දිනාගෙන ඇත. එහි නවතම මාදිලිය ලෙස 2025 Honda Dio ස්කූටරය තවත් පියවරක් ඉදිරියට තබමින්, ආර්ථිකමය වශයෙන් වාසිදායි, තාක්ෂණයෙන් ඉහළ, සුවපහසු ගමනක් අපේක්ෂා කරන සියල්ලන්ගේ පළමු තේරීම බවට පත්ව ඇත.
+
+නව Honda Dio ස්කූටරය 109cc එන්ජිමකින් බලගැන්වී ඇති අතර, Standard සහ DLX යන මාදිලි දෙකකින් ලබාගත හැකිය. මෙම නව ස්කූටරය ඉලෙක්ට්‍රොනික ඉන්ධන සැපයීමේ පද්ධතියකින් [Electronic Fuel Injection (PGM-FI)] සහ Honda සමාගමේ Enhanced Smart Power (eSP) තාක්ෂණයෙන් සමන්විත වේ. එමඟින් එන්ජිමට වඩාත් ඉහළ ඉන්ධන කාර්යක්ෂමතාවක්, වැඩි බලයක් සහ සුමට ක්‍රියාකාරිත්වක් ලබාදෙන අතර නඩත්තු අවම කරයි. එහි නිහඬ ACG ස්ටාටරය මඟින් ඉතා සුමට සහ නිහඬ පණගැන්වුමක් ලබාදෙයි.
+
+...
+
+[Data](articles/5d7daf88.json)
 
 ---
 
@@ -692,6 +708,22 @@ The owner of the vehicle has been identified as the two passengers in the car ha
 [Data](articles/943d05d2.json)
 
 [Extended Data](ext_articles/943d05d2.ext.json)
+
+---
+
+### ටී 56 පතරොම් සමග අවු. 20ක තරුණයෙක් අල්ලයි
+
+*2025-10-08 08:26:02* · [`adalk`](https://www.ada.lk/breaking_news/ටී-56-පතරොම්-සමග-අවු--20ක-තරුණයෙක්-අල්ලයි/11-418971) · `si`
+
+පැල්මඩුල්ල පොලිස් වසමේ පාතකඩ ප්‍රදේශයේදී රත්නපුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් කණ්ඩායමකට ලද තොරතුරක් මත වැටලීමක් සිදුකර ටී 56 වර්ගයේ ජීව පතරොම් 20 ක් හා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 03 ක් සමඟ සැකකරුවෙකු අත්අඩංගුවට ගෙන රත්නපුර පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇත.
+
+සැකකරු වයස අවුරුදු 20 ක් වන පාතකඩ, පැල්මඩුල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෙම සැකකරු දැනට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් අත්අඩංගුවට ගෙන ඇති සැකකරුවෙකුගෙන් අත්අඩංගුවට ගැනීමට පෙර මෙම පතරොම් තොගය ලබාගෙන ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇත. රත්නපුර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/5b169b59.json)
 
 ---
 
@@ -1860,43 +1892,5 @@ As a tribute to the victims, the US has updated its commitment to prevent such e
 [Data](articles/54777b1b.json)
 
 [Extended Data](ext_articles/54777b1b.ext.json)
-
----
-
-### Special Task Force arrested by police officer
-
-*2025-10-07 21:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரியை-கைது-செய்த-விசேட-அதிரடிப்படையினர்/175-365914) · `ta`
-
-Police officer has been arrested with ice drugs in Mullaitivu - Mangulam, Kokavil area.
-
-According to the confidential information available to the Army Intelligence Unit, the police officer has been arrested by the Special Task Force with an Ice drug in the Koka area of ​​A-9 road this morning and handed over to the Mankulam Police Station.
-
-The police officer has been arrested on charges of possessing 92 grams of 400 milligrams of ice in his body.
-
-◼️
-
-[Data](articles/c9aa42ad.json)
-
-[Extended Data](ext_articles/c9aa42ad.ext.json)
-
----
-
-### Massive landslide in India
-
-*2025-10-07 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215448) · `si`
-
-A bus have been killed in a large number of landslides in the Hathachalle in the Hathachal area in the Billaspur district of India.
-
-It is reported that the accident had occurred while he was traveling from Rohtlevin to Gummervin.
-
-The Indian media reported that massive operations have been launched to release the buses of the accident.
-
-The bus has reported that the bus has collapsed at once on the road.
-
-◼️
-
-[Data](articles/bfdad714.json)
-
-[Extended Data](ext_articles/bfdad714.ext.json)
 
 ---

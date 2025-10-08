@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 05:20:25**
+As of **2025-10-08 05:56:50**
 
 ## Newspaper Stats
 
-*Scraped **81,999** Articles*
+*Scraped **82,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,112 @@ dailyftlk | 5,683
 adalk | 7,831
 adaderanalk | 10,529
 tamilmirrorlk | 12,158
-virakesarilk | 13,523
+virakesarilk | 13,529
 adaderanasinhalalk | 14,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-81,999 (100.0%) of 81,999 articles have been extended.
+81,999 (100.0%) of 82,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### தொண்டமானாறு உவர்நீர்த் தடுப்பணையால் வெள்ளப்பாதிப்பனை எதிர்கொள்வோருக்கு தீர்வு முன்வைக்கப்படவேண்டும் - ஆளுநரிடம் தவிசாளர் நிரோஷ் கோரிக்கை
+
+*2025-10-08 03:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/227172) · `ta`
+
+தொண்டமனாறு உவர்நீர்த் தடுப்பணைத் திட்டத்தினை நாம் வரவேற்கின்றோம். அதேயிடத்தில் இத் திட்டத்தினால் வருடாவருடம் வெள்ளப் பாதிப்பை எதிர்கொள்ளும் மக்களை காப்பாற்றுவதற்கான நிலைத்தகு திட்டத்தினை மாகாண நிதி ஒதுக்கீடுகளுக்குள்ளாகவோ அல்லது சர்வதேச தாபனங்களின் ஒத்துழைப்புடனோ நிறைவேற்றமாறு என வடக்கு மாகாண ஆளுநர் வேதநாயகத்திடம் வலிகாமம் கிழக்குப் பிரதேச சபைத் தவிசாளர் தியாகராஜா நிரோஷ் கோரிக்கை விடுத்தார்.
+
+7ஆம் திகதி செவ்வாய்க்கிழமை வடக்கு மாகாணத்தினைச் சேர்ந்த உள்ளுராட்சி மன்றத் தலைவர்களுக்கம் ஆளுநர் நா. வேதநாயகம் அவர்களுக்கும் இடையிலான சந்திப்பு ஆளுநர் அலுவலகத்தில் நடைபெற்றது. இச் சந்திப்பிலேயே வலிகாமம் கிழக்குப் பிரதேச சபைத் தவிசாளர் தியாகராஜா நிரோஷ்   மேற்படி கோரிக்கையினை முன்வைத்தார்.
+
+...
+
+[Data](articles/058998ac.json)
+
+---
+
+### மன்னார் மற்றும் முல்லைத்தீவு மாவட்ட பொது மருத்துவமனைகளையும் சமச்சீரான சேவைவழங்கலில் இணையுங்கள்; அமைச்சர் நளிந்த ஜெயதிஸ்ஸவிடம் வலியுறுத்திய - ரவிகரன் எம்.பி
+
+*2025-10-08 03:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/227171) · `ta`
+
+மன்னார் மற்றும்  முல்லைத்தீவு மாவட்ட பொது மருத்துவமனைகளை கஸ்ட மருத்துவமனைகள் என்ற பட்டியலில் இருந்து அகற்றி சமச்சீரான சேவை வழங்கலில் இணைக்குமாறும், உள்ளகப்பயிற்சி மருத்துவர் சேவைவசதியை வழங்குமாறும் வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் சுகாதார அமைச்சர் நளிந்த ஜெயதிஸ்ஸவிடம் வலியுறுத்தியுள்ளார்.
+
+இந்நிலையில் மருத்துவ சபையில் பதிவு செய்யப்பட்ட மற்றும் சான்றளிக்கப்பட்ட விசேட மருத்துவ அதிகாரிகளின் பற்றாக்குறையால் மன்னார் மற்றும் முல்லைத்தீவு மருத்துவமனைகளில் உள்ள வெற்றிடங்களை விசேட தர மருத்துவர்களைக் கொண்டு நிரப்ப முடியவில்லை எனத் தெரிவித்த சுகாதார அமைச்சர் நளிந்த ஜெயதிஸ்ஸ அனைத்து மாவட்ட பொதுவைத்தியசாலைகளுக்கும் போதுமான அளவு பணியாட்தொகுதி மற்றும் பௌதீக வளங்கள் வழங்குவதற்கு முடிவெடுக்கப்பட்டிருப்பதாகவும் அதற்குரிய நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் தெரிவித்துள்ளார்.
+
+பாராளுமன்றில் செவ்வாய்க்கிழமை (07) வாய்மூல விடைக்கான வினா நேரத்தில் வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன், சுகாதார அமைச்சரிடம் கேள்வி எழுப்பியபோதே இந்த விடயம்தொடர்பில் பேசப்பட்டுள்ளது.
+
+...
+
+[Data](articles/e18093a6.json)
+
+---
+
+### இரத்த சுத்திகரிப்பு சிகிச்சைக்கான ஃபிஸ்டுலா ஊசிக்கு தட்டுபாடு இல்லை - பிரதி அமைச்சரை் ஹன்சக விஜேமுனி
+
+*2025-10-08 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227170) · `ta`
+
+அரச வைத்தியசாலைகளில் சிறுநீரக நோயாளர்களுக்கான இரத்த சுத்திகரிப்பு சிகிச்சைக்குப் பயன்படுத்தப்படும் ஃபிஸ்டுலா ஊசிக்கு  தட்டுபாடு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படும் கருத்தில் எவ்வித உண்மையும் இல்லை. அனைத்து வைத்தியசாலைகளிலும் நோயாளர்களுக்கு அவசியமான ஊசிகள் கையிருப்பில் உள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் பிரதி அமைச்சரை் ஹன்சக விஜேமுனி தெரிவித்துள்ளார்.
+
+இவ்விடயம் தொடர்பில் செவ்வாய்கிழமை (7) ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்,
+
+சிறுநீரக நோயாளர்களுக்கான இரத்த சுத்திகரிப்பு சிகிச்சைக்குப் பயன்படுத்தப்படும் ஃபிஸ்டுலா ஊசிக்கு  தட்டுபாடு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது. அண்மையில் இவ்வாறான ஊசிகளைப் பெறுவதற்கு காலதாமதம் ஏற்பட்டது. நாட்டிற்கு கொண்டுவரப்பட்ட ஊசிகள் ஒரு சில காரணங்களால் நிராகரிக்கப்பட்டன. கடந்த வாரங்களில் விநியோக செயன்முறையிலும் சிக்கல் நிலவியது எனினும் நாம் அவற்றை மீள வழமைக்கு கொண்டுவந்துள்ளோம்.
+
+...
+
+[Data](articles/5b9a3102.json)
+
+---
+
+### சரத் பொன்சேக்காவுக்கு ஏன் சர்வதேசம் தடை விதிக்கவில்லை? மஹிந்த மீதான குற்றச்சாட்டு தொடர்பில் பொதுஜன பெரமுன கேள்வி
+
+*2025-10-08 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/227169) · `ta`
+
+வசந்த கரன்னாகொட, சவேந்திர சில்வா, கமல் குணரத்ன போன்ற இராணுவ அதிகாரிகளுக்கு எதிராக உலகளாவிய ரீதியில் போர்க் குற்றச்சாட்டுகள் சுமத்தப்படுவதோடு, அவர்களுக்கெதிராக தடைகளும் விதிக்கப்பட்டுள்ளன. ஆனால் யுத்தத்திற்குத் தலைமை தாங்கிப் பிரபாகரனைக் கொன்ற அப்போதைய இராணுவத்தளபதியான சரத் பொன்சேக்காவுக்கு ஏன் சர்வதேசம் தடை விதிக்கவில்லை? என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பேச்சாளர் சட்டத்தரணி மனோஜ் கமகே கேள்வியெழுப்பினார்.
+
+கொழும்பிலுள்ள பொதுஜன பெரமுன அலுவலகத்தில் செவ்வாய்கிழமை (7) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+சரத் பொன்சேகா மிகுந்த ஆவேசத்துடனும் வெறுப்புடனும் சில விடயங்களைத் தெரிவித்துள்ளார். அதில் அவர் என் பெயரையும் குறிப்பிட்டுள்ளார். சரத் பொன்சேகாவுக்குப் பாடம் புகட்ட விரும்பும் இரண்டு விலங்குகளைப் பற்றி அவர் அறிந்துகொள்ள வேண்டும்: ஒரு விலங்கு சிங்கம், மற்றொன்று தேவாங்கு. சிங்கத்திற்கும் தேவாங்கிற்குமிடையில் உள்ள மிகப் பெரிய வித்தியாசத்தை சரத் பொன்சேகா உணர வேண்டும்.
+
+...
+
+[Data](articles/83153efe.json)
+
+---
+
+### வசீம் தாஜூதீன் படுகொலை: உண்மை வெளியாகும் போது ராஜபக்ஷர்கள் கலக்கமடைவது ஆச்சரியமல்ல - மஹிந்த ஜயசிங்க
+
+*2025-10-08 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/227168) · `ta`
+
+தாஜுதீன் படுகொலை  தொடர்பில் முறையான விசாரணைகள் மேற்கொள்ளப்படும் போது  ராஜபக்ஷர்கள் கலக்கமடைவது ஒன்றும் ஆச்சரியத்துக்குரியதல்ல,ஐக்கிய மக்கள் சக்தி ஏன் கலக்கமடைகிறது என்பது எமக்கு தெரியவில்லை. தாஜூதீனின் படுகொலைக்கு நீதியை பெற்றுக்கொடுக்க  வேண்டும் என்று நாமல் ராஜபக்ஷ குறிப்பிடுகிறார். அவர்கள் எவ்வாறு நீதியை பெற்றுக்கொடுத்தார்கள். சாட்சியங்களை அழித்தார்கள். இதனால் தான் இன்றும்  விசாரணைகள்  தொடர்கிறது. நடுங்க வேண்டாம் உண்மை வெளிவரும் என தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) நடைபெற்ற  விளையாட்டில் ஊக்கு பதார்த்தப் பயன்பாட்டிற்கெதிரான சமவாயம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+2015.01.08. ஆம் திகதி மைத்திரிபால சிறிசேனவை ஜனாதிபதியாக்கும் தேர்தல் பிரச்சார மேடைகளில் ' தாஜூதீனின் படுகொலைக்கு நீதி' என்பது பிரதான பேசுபொருளாக இருந்ததை ஐக்கிய மக்கள் சக்தி இன்று மறந்து விட்டது. மைத்திரி ,ரணில் மற்றும் சஜித் அரசாங்கம் தாஜுதீன் படுகொலை குறித்து முறையான விசாரணைகளை  மேற்கொண்டு உண்மையை வெளிக்கொண்டு வரவில்லை.
+
+...
+
+[Data](articles/c485ecc7.json)
+
+---
+
+### 2009 ஆம் ஆண்டுக்கு பின்னர் வடக்கில் செய்தவற்றின் பிரதிபலன் இன்று  தெற்கில் கிடைக்கிறது - சத்தியலிங்கம்
+
+*2025-10-08 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/227167) · `ta`
+
+தெற்கில் பாடசாலை மாணவர்களை இலக்காகக் கொண்டு போதைப்பொருள்  விநியோகிக்கப்படுகிறது என்று செய்தி வெளியாகியுள்ளதை பார்த்தேன். இதனை தான் தன்வினை தன்னைச் சுடும் என்பார்கள். 2009 ஆம் ஆண்டுக்கு பின்னர் வடக்கில் செய்தவற்றின்  பிரதிபலன் இன்று  தெற்கில் கிடைக்கிறது.  செல்வந்த நாடு -அழகான வாழ்க்கை என்ற இலக்கை அடைய வேண்டுமாயின் அரசாங்கம் போதைப்பொருள் பாவனை மற்றும் வியாபாரத்தை முழுமையாக இல்லாதொழிக்க வேண்டும் என  இலங்கைத் தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் பி. சத்தியலிங்கம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) நடைபெற்ற  விளையாட்டில் ஊக்கு பதார்த்தப் பயன்பாட்டிற்கெதிரான சமவாயம் (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+விளையாட்டில் ஊக்கு பதார்த்தங்கள் பயன்படுத்துவது பொதுவானதாக காணப்படுகிறது. விளையாட்டு என்பது ஒரு நாட்டின் பொருளாதாரத்தையோ அல்லது விளையாட்டு வீரர்களின்  பொருளாதாரத்தையோ மேம்படுத்துகின்ற நிலையில்  வெற்றிப்பெறுவதற்காக விளையாட்டு வீரர்கள் இந்த ஊக்குப்பதார்த்தங்களை பயன்படுத்துவது அதிகரித்துள்ளது.
+
+...
+
+[Data](articles/3fb3ddcf.json)
+
+---
 
 ### Youth arrested with heroin in Bashayur, Jaffna
 
@@ -1934,131 +2028,5 @@ Chairman of the Official Languages ​​Commission Attorney General Thilak Nand
 [Data](articles/abaf4e4f.json)
 
 [Extended Data](ext_articles/abaf4e4f.ext.json)
-
----
-
-### Is the Punishment Baker?
-
-*2025-10-07 15:00:30* · [`lankadeepalk`](https://www.lankadeepa.lk/features/දඬවම-පනත-බලලකද/2-680858) · `si`
-
-There is a social discourse on the bill, presented to Parliament to amend the Penal Code. The term "intention" is included in this revised bill instead of the word "intent" in verse 308 of the Penal Code.
-
-This revised Bill included a new clause, which is named 30 in this revised Bill and is described the opportunity to punish its physical punishment. It is the following:
-
-When a person under the age of 18, the trustee of the trustee, or the right thing to be done in the same stage, and a system of pain or inconvenience, any degree of pain is caused by a minimum of pain or difficulty, any person has committed the guilty of physical punishment It is possible.
-
-...
-
-[Data](articles/c1df43c3.json)
-
-[Extended Data](ext_articles/c1df43c3.ext.json)
-
----
-
-### Teacher Day - What to do?
-
-*2025-10-07 14:53:24* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ගර-දනය-කළ-යතත-කමකද/2-680857) · `si`
-
-We celebrate the "World Teacher Day" on Tuesday, October 07. But it is acting on October 5th. That was the special day for education and teaching that that day was declared world teachers.
-
-On October 5, 1966, the International Labor Organization (IOL) with UN EDG and Cultural Organization. As such, in 1994, the two of these organizations declared "World Teachers' Day" as an important date for the entire world.
-
-This teachers' day in our society celebrates the parent giving teachers or otherwise gifts. Collection of money for that is a combination of the schools. UNESCO gives a theme for world teacher day every year. There are no principals, teachers, and parents who see what it is.
-
-I have not heard that discussion discussions will be held in schools with the annual theme of the World Teachers' Day annual.
-
-...
-
-[Data](articles/f1784fb8.json)
-
-[Extended Data](ext_articles/f1784fb8.ext.json)
-
----
-
-### Fighting fines charged from clients
-
-*2025-10-07 14:52:28* · [`adalk`](https://www.ada.lk/breaking_news/කූ‍ඨ-වෙළදුන්ගෙන්-වාර්තාගත-ගත-දඩ-මුදලක්-අය-කර-ගනියි/11-418957) · `si`
-
-The Kandy District of the Authority has passed the Kandy District of the Consumer Affairs of the Authority (Consumer Affairs Authority) has passed the Consumer Affairs Authority to recover a sum of Rs
-
-He said that 989 businessmen have charged the fines for the past nine months, selling goods, selling more than the control price, selling expired goods, including the non-mention of the Prices.
-
-The raids have been carried out covering all areas including the Maha, Wattegama, Nawalapitiya, Gampte, Digana, Teldeniya, Peradeniya, Peradeniya, Peradeniya.
-
-The raids have been carried out on the instructions of the Consumer Affairs Authority (CA) ASP
-
-◼️
-
-[Data](articles/21e89ed4.json)
-
-[Extended Data](ext_articles/21e89ed4.ext.json)
-
----
-
-### Rathnu donkey murder reveals
-
-*2025-10-07 14:46:52* · [`adalk`](https://www.ada.lk/breaking_news/රත්න-ද්වි-පුද්ගල-ඝාතනයේ-සුල-මුල-හෙළිවෙයි/11-418956) · `si`
-
-A couple has been murdered at a house in Walawella, Walawella, Walawella, Walawella.
-
-The killing of these killings is a woman named Wijesekara Arachchige (28), alphabethanda alias, alphabethanda, a resident of Tissamaharama, Tissamaharama.
-
-The victim had arrived at the house nearly four days ago and the phase was said to the police.
-
-The murdered woman, Box, was taken bail to the court, who had been arrested by the Hungama police for the murder of the murder in March 2024, and six months ago, he had about her drug reserved for several days ago. According to a warrant, he was arrested on the 5th and later arrived at the house on the same evening.
-
-The police states that Bo Bo Saspu and his casual wife are also involved in the court of charged with drug dealer.. Samarawickrama Kadawatha Restalerachchige Samankumara alias Kadawatha has been arrested by five crimes to the murder of the murder (27).
-
-...
-
-[Data](articles/3760debc.json)
-
-[Extended Data](ext_articles/3760debc.ext.json)
-
----
-
-### Threatening can never be silent; The resignation of the Director of the Bribery and Corruption Investigation Commission - Udaya Kammanpila
-
-*2025-10-07 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227122) · `ta`
-
-Director General of the Bribery and Corruption Investigation Commission has warned me of Ranga Dissanayake. His threat that does not meet even the basic merits for holding the post can never be silent. Udaya Kammanpila, president of Pivithuru Hela Urumaya, said that it is best to automatically resign his post before I prove his qualifications.
-
-He further stated this at a press conference held at the Pivithuru Hela Urumaya headquarters in Colombo on Tuesday (07).
-
-Ranga Dissanayake, Director General of the Bribery and Corruption Investigation Commission on the 2nd, warned that if I commented in the presence of the media against him, the Corruption Act would be criticized by Article 118 of the Anti -Corruption Act.
-
-It is clear that even though he is the Director of the Bribery and Corruption Investigation Commission, he has no knowledge of it.
-
-He has accepted the qualifications for holding this post and it is the act of pulling the Commission. He warns me without knowing my history.
-
-...
-
-[Data](articles/fb587299.json)
-
-[Extended Data](ext_articles/fb587299.ext.json)
-
----
-
-### One of the most special factors that led to a bankrupt country is bad debt management; Sajith Premadasa
-
-*2025-10-07 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/227109) · `ta`
-
-Opposition leader Sajith Premadasa said that the government has taken the government to repay domestic and foreign loans as the government has come to power and the new government has come to power since the new government came to power.
-
-He said this in a speech on Tuesday (07) under the Standing Ordinance of Parliament (07).
-
-The worst debt management is one of the special factors that we, as Sri Lankans, have led to a bankrupt country.
-
-When the International Monetary Fund was compliant with the International Monetary Fund, the people expected the current government to lead the country towards the development of development.
-
-In the meantime, more than a year after the new government came to power, I would like to ask the following questions to know the country's future development goals and its economic reading.
-
-At present, how much is Sri Lanka's total stock?  What are the monthly changes that have been found in the stockpile last year?
-
-...
-
-[Data](articles/7dc3b049.json)
-
-[Extended Data](ext_articles/7dc3b049.ext.json)
 
 ---

@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 10:09:16**
+As of **2025-10-08 10:20:55**
 
 ## Newspaper Stats
 
-*Scraped **82,065** Articles*
+*Scraped **82,069** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 638
-newsfirstlk | 645
+newsfirstlk | 646
 bbccomsinhala | 729
 colombotelegraphcom | 815
-lankadeepalk | 971
+lankadeepalk | 974
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
@@ -27,11 +27,53 @@ adaderanasinhalalk | 14,061
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,065 (100.0%) of 82,065 articles have been extended.
+82,065 (100.0%) of 82,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### All Stranded Everest Hikers Evacuated
+
+*2025-10-08 09:59:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/all-stranded-everest-hikers-evacuated) · `en`
+
+...
+
+[Data](articles/e01f9e55.json)
+
+---
+
+### ඕ අයි සීලා තිහක් හිතුමතේ මාරු කරලා
+
+*2025-10-08 09:54:57* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඕ-අය-සල-තහක-හතමත-මර-කරල/101-680898) · `si`
+
+පොලිස් ස්ථානාධිපතිවරුන් තිස් දෙනෙකු කිසිදු හේතුවක් නැතුව මාරු කර යවා  ඇතැයි සමගි ජන බලවේගයේ කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී නීතිඥ  දයාසිරි ජයසේකර මහතා පාර්ලිමේන්තුවේදී අද පැවසීය.
+
+ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්ද කිසිදු වැඩපිළිවෙලක් නැතුව මාරු කර ඇතැයි ඔහු කීවේය.
+
+පොලිස් ස්ථානාධිපතිවරුන් ස්ථාන මාරු කිරීමේ තීරණය ගැනීමේ බලය තිබෙන්නේ ජාතික පොලිස් කොමිෂන් සභාවට බව කී මන්ත්‍රීවරයා මොකක්ද මේ අද කරන්නේ යයිද විමසා සිටියේය.
+
+පොලිසියේ මාරුවීම් එක් අතකට අද පැවරිලා. පොලිස් කොමිසම ආණ්ඩුවේ රූකඩයක් කරගන්න බැහැ. පඹේක් කරගන්න බැහැ. පොලිස් කොමිසම සතු බලතල පොලිස්පතිවරයාට පැවරීම ගැන විපක්ෂයේ පොදු විරෝධතාවය පළ කරනවා.
+
+◼️
+
+[Data](articles/a8716c78.json)
+
+---
+
+### අණ නොතැකු රියට පොලිස් වෙඩි
+
+*2025-10-08 09:48:56* · [`lankadeepalk`](https://www.lankadeepa.lk/news/අණ-නතක-රයට-පලස-වඩ/101-680897) · `si`
+
+මාතර මැද්දවත්ත ජනරජ මාවත ප්‍රදේශයේ දී ඊයේ (07) රාත්‍රී පොලිස් අණ නොතකා ධාවනය කළ මෝටර් රථයකට පොලීසිය වෙඩි තබා එම මෝටර් රථය හා සැකකරුවකු සැක පිට අත්අඩංගුවට ගෙන ඇත.
+
+පොලිස් වෙඩි ප්‍රහාරය හමුවේ එම මෝටර් රථය ටික දුරක් ගොස් අනතුරට ලක් වී නතර වී තිබේ. එම අවස්ථාවේ එහි සිටි සැකකරුවකු සැක පිට අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/cd38456d.json)
+
+---
 
 ### Taking an end public opinion on electricity tariffs today
 
@@ -1946,53 +1988,5 @@ The President pointed out that the government had identified the need to exceed 
 [Data](articles/5d141cf8.json)
 
 [Extended Data](ext_articles/5d141cf8.ext.json)
-
----
-
-### Nobel Prize for Physics 3
-
-*2025-10-07 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227154) · `ta`
-
-John Clark of the United States, Michelle H. Devoreth and John M. Martinis is to be awarded the Nobel Peace Prize for Physics.
-
-Nobel Prize winners for 2025 have been announced from Monday. The Nobel Prize for Medicine was announced yesterday as the first day. Accordingly, the Nobel Prize for Medicine this year will be distributed to 3 people.  Mary E. Frankov, Brett Ramstel and Shimon Sahakuchi have been announced to be awarded the Nobel Prize for Medicine in 2025.
-
-Following this, the Nobel Prize for Physics for 2025 has been announced. John Clark of the United States, Michelle H. Devoreth and John M. The Nobel Prize is to be shared for Martinis. The gift has been announced for detecting macroscopic quantum mechanical tunnel and energy measurement in one of the electrical circuits.
-
-◼️
-
-[Data](articles/c587af24.json)
-
-[Extended Data](ext_articles/c587af24.ext.json)
-
----
-
-### Kajja Worked At MoD During Thajudeen Murder
-
-*2025-10-07 17:25:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/07/kajja-worked-at-mod-during-thajudeen-murder) · `en`
-
-...
-
-[Data](articles/aad1f350.json)
-
-[Extended Data](ext_articles/aad1f350.ext.json)
-
----
-
-### Jeevan Thondaman, Chanakyan, Dayasiri Jayasekara Council
-
-*2025-10-07 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/227153) · `ta`
-
-Opposition MPs Jeevan Thondaman, Chanakyan and Dayasiri Jayasekara have recorded strong protests at the parliamentary session held today (7) against the appointment of the Bribery Commission.
-
-Members who questioned the appointment of the new Director General of the Bribery Commission recently issued by the government accused the government of ignoring freedom and justice.
-
-Also, the Opposition MPs Jeevan Thondaman, Chanakyan and Dayasiri Jayasekara commented, but other members of the opposition remained silent.
-
-◼️
-
-[Data](articles/e188d0f2.json)
-
-[Extended Data](ext_articles/e188d0f2.ext.json)
 
 ---

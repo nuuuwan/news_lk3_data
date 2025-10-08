@@ -1,69 +1,267 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 13:40:53**
+As of **2025-10-08 14:11:56**
 
 ## Newspaper Stats
 
-*Scraped **82,116** Articles*
+*Scraped **82,129** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 638
-newsfirstlk | 653
+newsfirstlk | 655
 bbccomsinhala | 730
 colombotelegraphcom | 815
-lankadeepalk | 989
+lankadeepalk | 993
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
 adalk | 7,842
 adaderanalk | 10,532
-tamilmirrorlk | 12,172
+tamilmirrorlk | 12,178
 virakesarilk | 13,530
-adaderanasinhalalk | 14,068
+adaderanasinhalalk | 14,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,110 (100.0%) of 82,116 articles have been extended.
+82,118 (100.0%) of 82,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
 
-### කර්මාන්ත අමාත්‍යාංශයෙන් භාණ්ඩාගාරයට කෝටි 75ක්
+### நவம்பருக்குள் பெண் ஓட்டுநர்கள், நடத்துனர்கள்
+
+*2025-10-08 13:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பருக்குள்-பெண்-ஓட்டுநர்கள்-நடத்துனர்கள்/175-365962) · `ta`
+
+பேருந்து ஓட்டுநர்கள் மற்றும் நடத்துனர்களாக பெண்கள் நவம்பர் மாத இறுதிக்குள்  ணியமர்த்தப்படுவார்கள் என்று போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சர் பிமல் ரத்நாயக்க பாராளுமன்றத்தில் புதன்கிழமை (08) தெரிவித்தார்.
+
+போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சின் நிதியொதுக்கீட்டை நிறைவேற்றுவதற்கான விவாதத்தைத் தொடங்கி வைத்து அமைச்சர் இவ்வாறு கூறினார்.
+
+நவம்பர் மாத இறுதிக்குள் பெண் ஓட்டுநர்கள் மற்றும் நடத்துனர்கள் பணியமர்த்தப்படுவார்கள். மெட்ரோ பேருந்து சேவையையும் தொடங்குவோம். பேருந்து டிக்கெட்டுகள் மோசடி செய்யப்படுவது அனைவரும் அறிந்த உண்மை. எனவே, அட்டை கட்டண முறையை நிறுவ கோரிக்கை விடுக்கப்பட்டது.
+
+தற்போதுள்ள பேருந்து டிக்கெட் இயந்திரங்கள் வங்கி அட்டைகள் மூலம் பணம் செலுத்துவதற்கான வசதிகளுடன் நவம்பர் 30 ஆம் திகதிக்குள் வழங்கப்படும். பொது பயணிகள் போக்குவரத்து இன்னும் மோசமான நிலையில் உள்ளது. அதைத் தீர்க்க அனைவரும் உதவுமாறு அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/560a20ba.json)
+
+---
+
+### දුම්රිය රියැදුරු මැදිරි ඒ.සී කරයි
+
+*2025-10-08 13:52:27* · [`lankadeepalk`](https://www.lankadeepa.lk/news/දමරය-රයදර-මදර-ඒ-ස-කරය/101-680932) · `si`
+
+දුම්රිය රියැදුරු මැදිරි වායු සමීකරණය කිරීම සඳහා අවශ්‍ය ප්‍රසම්පාදන කටයුතු ආරම්භ කර තිබෙන බව මහනුවර දිස්ත්‍රික් මන්ත්‍රී තනුර දිසානායක මහතා:-(ජා.ජ.බ) පාර්ලිමේන්තුවේදී අද පැවසීය.
+
+"නව දුම්රිය බලවේග කට්ටල පහක් ගැනීම සඳහා ප්‍රසම්පාදන කටයුතු අප අරඹා තිබෙනවා.ඒ වගේම දුම්රිය මැදිරි වල මගී පහසුකම් වැඩි කිරීමට ආරම්භ කර තිබෙනවා. දුම්රිය විදුලි පංකා පන්දාහක් ආනයනය කරන්නට කටයුතු කර තිබෙනවා.දුම්රිය මාර්ගවල පීලි බොහෝ කලකින් අලුත් වැඩියා කර නැහැ. මුහුදුබඩ මාර්ගයේ ඉක්මනින් පීලි දිරාපත් වෙනවා. ඒ නිසා රේල් පීලි දොළොස් දහසක් ආනයනය කරන්නට කටයුතු කර තිබෙනවා.දුම්රිය රියැදුරු මැදිරි වායු සමීකරණය කිරීම සඳහා අවශ්‍ය ප්‍රසම්පාදන කටයුතුද අප ආරම්භ කර තිබෙනවා. මධ්‍යම බස් නැවතුම්පොළ මෙන්ම දුම්රිය ස්ථාන සීයක් නවීකරණය අරඹා තිබෙනවා. නවීකරණය කියන්නේ තීන්ත ගෑම පමණක් නෙමෙයි. පාලකයන් තමන්ගේ වරප්‍රසාද ගොඩ ගහ ගත්තා මිසක් පොදු පොදු ප්‍රවාහනයේ ප්‍රවර්ධනය වෙනුවෙන් වැඩ කර නැහැ යනුවෙන්ද මන්ත්‍රීවරයා කීය.
+
+◼️
+
+[Data](articles/d8d142d5.json)
+
+---
+
+### கலிபோர்னியாவில் இனி தீபாவளிக்கு அரசு விடுமுறை
+
+*2025-10-08 13:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கலிபோர்னியாவில்-இனி-தீபாவளிக்கு-அரசு-விடுமுறை/50-365961) · `ta`
+
+அமெரிக்காவின் கலிபோர்னியா மாகாணத்தில் தீபாவளி தினம், இனி விடுமுறை பட்டியலில் சேர்க்கப்படுவதாக அம்மாகாண கவர்னர் கவின் நியூசம் அறிவித்துள்ளார்.
+
+இது இந்தியாவின் தீபாவளி பண்டிகையை, விடுமுறையாக அதிகாரப்பூர்வமாக அங்கீகரித்த அமெரிக்காவின் மூன்றாவது மாகாணமாகும்.
+
+ஏற்கனவே 2024-ல் பென்சில்வேனியாவும், 2025-ல் கனெக்டிகட் மாகாணங்கள் தீபாவளியை அரசு விடுமுறையாக அதிகாரப்பூர்வமாக அங்கீகரித்திருந்தன.
+
+இந்த விடுமுறை மூலம் அரசு பொது கல்லூரிகள், பள்ளிகள் மற்றும் நிறுவனங்களில் பணியாற்றும் ஊழியர்களுக்கும் ஊதியத்துடன் விடுமுறை வழங்க முடியும் என்பது குறிப்பிடத்தக்கது.
+
+முன்னதாக கடந்த செப்டம்பர் மாதம் கலிபோர்னியாவின் சட்டப்பேரவையின் இரு அவைகளிலும் தீபாவளியை அரசு விடுமுறையாக அறிவிக்கும் 'ஏபி 268' என்ற மசோதா வெற்றிகரமாக நிறைவேற்றப்பட்டது.
+
+இந்த மசோதா கவர்னர் கவின் நியூசம் ஒப்புதலுக்கு அனுப்பி வைக்கப்பட்டது. இதனைத்தொடர்ந்து தீபாவளியை அதிகாரப்பூர்வ விடுமுறையாக அறிவிக்கும் 'ஏபி 268' என்ற மசோதாவுக்கு கவின் நியூசம் ஒப்புதல் அளித்து கையெழுத்திட்டார்.
+
+...
+
+[Data](articles/7fb907c2.json)
+
+---
+
+### ශ‍්‍රී ලංකාවේ සෞඛ්‍ය සේවාවේ උන්නතිය සඳහා වන කැපවීම ස්ථිර කරමින් හේමාස් සමාගම තලවතුගොඩදී නවීනතම රෝහලක් ආරම්භ කරයි
+
+*2025-10-08 13:46:37* · [`lankadeepalk`](https://www.lankadeepa.lk/you_may_also_like/%E0%B7%81%E2%80%8D%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93-%E0%B6%BD%E0%B6%82%E0%B6%9A%E0%B7%8F%E0%B7%80%E0%B7%9A-%E0%B7%83%E0%B7%9E%E0%B6%9B%E0%B7%8A%E2%80%8D%E0%B6%BA-%E0%B7%83%E0%B7%9A%E0%B7%80%E0%B7%8F%E0%B7%80%E0%B7%9A-%E0%B6%8B%E0%B6%B1%E0%B7%8A%E0%B6%B1%E0%B6%AD%E0%B7%92%E0%B6%BA-%E0%B7%83%E0%B6%B3%E0%B7%84%E0%B7%8F-%E0%B7%80%E0%B6%B1-%E0%B6%9A%E0%B7%90%E0%B6%B4%E0%B7%80%E0%B7%93%E0%B6%B8-%E0%B7%83%E0%B7%8A%E0%B6%AE%E0%B7%92%E0%B6%BB-%E0%B6%9A%E0%B6%BB%E0%B6%B8%E0%B7%92%E0%B6%B1%E0%B7%8A-%E0%B7%84%E0%B7%9A%E0%B6%B8%E0%B7%8F%E0%B7%83%E0%B7%8A-%E0%B7%83%E0%B6%B8%E0%B7%8F%E0%B6%9C%E0%B6%B8-%E0%B6%AD%E0%B6%BD%E0%B7%80%E0%B6%AD%E0%B7%94%E0%B6%9C%E0%B7%9C%E0%B6%A9%E0%B6%AF%E0%B7%93-%E0%B6%B1%E0%B7%80%E0%B7%93%E0%B6%B1%E0%B6%AD%E0%B6%B8-%E0%B6%BB%E0%B7%9D%E0%B7%84%E0%B6%BD%E0%B6%9A%E0%B7%8A-%E0%B6%86%E0%B6%BB%E0%B6%B8%E0%B7%8A%E0%B6%B7-%E0%B6%9A%E0%B6%BB%E0%B6%BA%E0%B7%92/197-680931) · `si`
+
+හේමාස් සමාගම සිය නවීන තෘතීයික සත්කාර රෝහල ආරම්භ කිරීම පිළිබඳව අද දින  තලවතුගොඩ දී නිවේදනය කරනු ලැබීය. එය සමූහයේ මේ දක්වා කර ඇති වඩා අභිලාෂකාමී ආයෝජනවලින් එකක් වේ. රුපියල් බිලියන 10 ක ප‍්‍රාග්ධන වියදමක් සහ සෞඛ්‍ය සේවා වෘත්තිකයන් 900 කට ආසන්න සංඛ්‍යාවකට රැකියා අවස්ථා සැලසුම් කර ඇති මෙම නව පහසුකම, ශ‍්‍රී ලංකාවේ සෞඛ්‍ය සේවාවන්හි ප‍්‍රමිතීන් ඉහළ නැංවීම සඳහා හේමාස් හි කැපවීම අවධාරණය කරයි. මෙම මුලපිරීම සමූහයේ ඉදිරි වර්ධන උපාය මාර්ගයේ ප‍්‍රධාන අංගයක් වන අතර, එය සෞඛ්‍ය සේවා ක්ෂේත‍්‍රය තුළ සිය ස්ථානය තවදුරටත් ශක්තිමත් කරයි.
+
+" සෞඛ්‍ය සේවා ක්ෂේත‍්‍රයේ අනාගතයට නව අරුතක්” යන තේමාව යටතේ පැවති මෙම අවස්ථාවට ගරු සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා සහ ජ්‍යෙෂ්ඨ සම්භාවනීය අමුත්තන්, උපදේශකයින්, අධ්‍යක්ෂ මණ්ඩලය සහ හේමාස් සමූහ නායකත්ව කණ්ඩායමේ සාමාජිකයින් ද සහභාගී විය.
+
+...
+
+[Data](articles/29659c37.json)
+
+---
+
+### மிதந்த சடலம் மீட்பு
+
+*2025-10-08 13:45:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மிதந்த-சடலம்-மீட்பு/76-365960) · `ta`
+
+கொத்மலை நீர்த்தேக்கத்திற்கு நீர் ஏந்திசெல்லும் கொத்மலை ஓயாவில்  அடையாளம் தெரியாத மனித சடலம் மிதப்பது புதன்கிழமை (08) கண்டுபிடிக்கப்பட்டதாக லிந்துல பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+ஹட்டன்-நுவரெலியா பிரதான வீதியில் லிந்துல கொத்மலை ஓயாவின் மீது கட்டப்பட்ட பாலத்தின் கீழ் சடலம் கண்டெடுக்கப்பட்டது.
+
+கொத்மலைஓயாவில் மீன்பிடிக்கச் சென்ற ஒருவர் ஆற்றில் மிதக்கும் சடலத்தைக் கண்டு லிந்துல பொலிஸாருக்கு தகவல் கொடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/63604ab4.json)
+
+---
+
+### மியான்மர் புத்த மத விழாவில் பாராகிளைடர் குண்டுகளை வீசியதில்  24 பேர் பலி
+
+*2025-10-08 13:43:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மியான்மர்-புத்த-மத-விழாவில்-பாராகிளைடர்-குண்டுகளை-வீசியதில்-24-பேர்-பலி/50-365959) · `ta`
+
+மியன்மாரில் புத்த திருவிழாவின்போது, இடம்பெற்ற குண்டு வெடிப்பு சம்பவத்தில் 24 பேர் உயிரிழந்துள்ளதாக  அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+மத்திய மியன்மாரில் தாடிங்யுட் என்ற புத்த திருவிழாவிற்காக தேசிய விடுமுறை அறிவிக்கப்பட்டிருந்த நிலையில், இந்த விழாவை கொண்டாட ஏராளமான மக்கள் கூடியிருந்தனர். அப்போது பாராகிளைடர் மூலம் இயக்கப்படும் வெடிக்குண்டுகள் அந்த கூட்டத்தில் வீசப்பட்டதில், குண்டு வெடித்து 24 பேர் பரிதாபமாக பலியானார்கள். பலர் படுகாயங்களுடன் மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மியன்மாரில் ஆட்சிக் கவிழ்ப்பு நடந்து நீண்ட காலமாக இராணுவ ஆட்சி நடந்து வரும் நிலையில், வரும் டிசெம்பரில் மக்களாட்சியை கொண்டு வர தேர்தல் நடத்தப்பட உள்ளதாக அறிவிக்கப்பட்டிருந்தது. இந்நிலையில், நடந்துள்ள இந்த வெடிக்குண்டு தாக்குதல் சம்பவம் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+ஒளி திருவிழா என அழைக்கப்படும் தாடிங்யுட் திருவிழாவில் கூடிய மக்கள் இராணுவ ஆட்சிக்கும், எதிர்வரும் ஒரு சார்பான தேர்தல் நடவடிக்கைகளுக்கும் எதிராக முழக்கம் செய்த நிலையில், மியன்மார் இராணுவம்தான் இந்த தாக்குதலை செய்ததாக குற்றச்சாட்டுகளை மக்கள் முன்வைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/ae656515.json)
+
+---
+
+### “அமைச்சரின் மகன் சிகரட் புகைத்து சிக்கினார்”
+
+*2025-10-08 13:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரின்-மகன்-சிகரட்-புகைத்து-சிக்கினார்/175-365958) · `ta`
+
+இந்த அரசாங்கத்தின் அமைச்சர் ஒருவரின் மகன், சிகரெட் புகைத்து மாட்டிக்கொண்டார் என தெரிவித்த பாராளுமன்ற உறுப்பினர் சாமர சம்பத், முதலில் உங்களுடைய பிள்ளைகளை திருத்துங்கள், அதன்பின்னர் நாட்டு பிள்ளைகளை திருத்த பாருங்கள் எனக் கேட்டுக்கொண்டார்.
+
+பாராளுமன்றத்தில் தற்போது உரையாற்றிக்கொண்டிருக்கும் அவர், ஈ-சிகரெட்டுத, சுவிச்த மொன மகுல்த எனக்குத் தெரியாது என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/a9091001.json)
+
+---
+
+### Hand Grenade, Meth Found in Vehicle After Police Pursuit
+
+*2025-10-08 13:37:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/hand-grenade-meth-found-in-vehicle-after-police-pursuit) · `en`
+
+COLOMBO (News 1st); Police recovered a hand grenade and nearly 2 grams of crystal methamphetamine (Ice) from a car that sped through a checkpoint on Janaraja Mawatha in Vellamada, Matara, last night.According to police, the incident occurred around 9:30 p.m. when officers signaled the vehicle to stop. The driver ignored the order, prompting police to open fire on the car. The suspect later abandoned the vehicle and fled but was apprehended while hiding.Investigations revealed that the same vehicle had allegedly been used for surveillance in connection with the recent double murder near the Devinuwara temple. Police also suspect the individual is involved in drug trafficking.
+
+◼️
+
+[Data](articles/45da367e.json)
+
+---
+
+### The biggest corruption in printing driver's license: Minister's explanation
+
+*2025-10-08 13:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓட்டுநர்-உரிமம்-அச்சிடுவதில்-மிகப்பெரிய-ஊழல்-அமைச்சர்-விளக்கம்/175-365957) · `ta`
+
+Transport Minister Bimal Ratnayake told Parliament on Wednesday (08)
+
+The Minister said that a large amount of funds have been funded by providing a company to a company.
+
+The private company costs Rs.. He also said that one could print at a cost of 367.
+
+“We have decided to print driving licenses through the Motor Vehicle Registration Department (RMV). The printing machines are being installed for that, ”the minister said.
+
+◼️
+
+[Data](articles/c674570e.json)
+
+[Extended Data](ext_articles/c674570e.ext.json)
+
+---
+
+### The main suspect in Hungama double murder arrested
+
+*2025-10-08 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215464) · `si`
+
+The police were arrested by the police in a house in the Wadigala area in Halugigala area.
+
+The police said that the woman and the main suspect, the woman and the murder of the murder, was also a close relationship with Kadawatha Arachchi Saman Kumara, Kavatuwa Kumara, or the closure of the woman.
+
+The woman's husband was also remanded for drug trafficking.
+
+Meanwhile, the main suspect has revealed many more information.
+
+The suspect has said that he was not necessary to kill her friend who had a close relationship with her friend.
+
+The suspect has said that she was shot dead and he was shot dead by her.
+
+The suspect said that his friend was assassinated by he was aware of his drug trafficking information.
+
+Meanwhile, the suspects were presented to Angunakolapelessa Magistrate Court today (08).
+
+Police investigates two more suspects involved in the murder are being arrested.
+
+...
+
+[Data](articles/2a0ef075.json)
+
+[Extended Data](ext_articles/2a0ef075.ext.json)
+
+---
+
+### Cristiano Ronaldo Becomes Football's First Billionaire
+
+*2025-10-08 13:22:00* · [`newsfirstlk`](https://english.newsfirst.lk/2025/10/08/cristiano-ronaldo-becomes-football-s-first-billionaire) · `en`
+
+(BLOOMBERG) Cristiano Ronaldo’s football career has been a series of glittering firsts, from a record transfer to Real Madrid to scoring more competition goals than any man in history. He’s now notched up another huge win off the pitch: becoming the first billionaire player.
+
+During more than two decades at some of Europe’s biggest clubs, including Manchester United and Juventus, the 40-year old Portuguese national hasn’t been shy about cashing in on his stardom with lucrative side gigs for the likes of Armani and Nike. But it’s now, in the twilight of his playing career, that he’s been catapulted into the top ranks of the richest sportspeople, inking a fresh contract extension in June with Saudi Arabian team Al-Nassr that’s reportedly worth more than $400 million.
+
+...
+
+[Data](articles/647c26b9.json)
+
+---
+
+### 75 million for the Ministry of Industry
 
 *2025-10-08 13:19:08* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කරමනත-අමතයශයන-භණඩගරයට-කට-75ක/101-680930) · `si`
 
-කර්මාන්ත අමාත්‍යාංශය යටතේ ක්‍රියාත්මක රාජ්‍ය ව්‍යාපාරවලින් ලැබූ රුපියල් මිලියන 757.4 ක් හෙවත් රුපියල් කෝටි 75 කට අධික ලාභාංශ භාණ්ඩාගාරයට භාරදුන්නේය.
+757.4 million acquired by the Ministry of Industries, over Rs.
 
-මෙම ආයතනය භාණ්ඩාගාරයට වසර 14 කට පසු ලාභාංශ යොමු කිරීම මෙහිදී කැපී පෙනේ.
+It is noticeable to dividend the dividend after 14 years of this institute.
 
-මෙම රුපියල් කෝටි 75 කට අධික මුදල අර්ධ වාර්ෂික ලාභාංශයකින් යොමුකළ අතර ඉදිරි කාලය තුළදී පූර්ණ ලාභාංශ තුළින් ප්‍රතිපාදන දීමට හැකියාව පවතින බව ද එම අමාත්‍යංශය කීය.
+The total amount of over Rs.
 
-කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ පවතින ලංකා මිනරල් සෑන්ඩ්, බීසීසී ලංකා ලිමිටඩ් ජාතික ලුණු සමාගම, ලංකා පොස්පේට් සමාගම සහ ලංකා කහටගහ ග්‍රැෆයිට් ලිමිටඩ් යන ආයතන නව රජය යටතේ ලැබූ ලාභාංශවලින් කොටසක් මෙසේ කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය අනිල් ජයන්ත සහ මුදල් අමාත්‍යාංශ ලේකම් හර්ෂණ සූරියප්පෙරුම මහත්වරුන්ට නිල වශයෙන් පාර්ලිමේන්තුවේදී දුන්හ.
+The Ceylon Minary Sand, BCC Lanka Limited Company and the Secretary to the Ministry of Labor and Economic Development Mr. Assistant Minister of Labor and Economic Development Mr. Assistant Minister of Labor and Economic Development Mr. Harshi Suriyapparama and Finance Ministry Secretary to the new government and the Secretary to the Ministry of Finance Ministry Secretary of Labor and Finance Ministries were officially given in Parliament.
+
+The acting chairman of the Institute for the Ceylon Minary Sand was given to the Treasury as part of Rs. 500 million, or Rs. 5 billion, or Rs. 5 billion, or Rs.
 
 ...
 
 [Data](articles/f74eb745.json)
 
+[Extended Data](ext_articles/f74eb745.ext.json)
+
 ---
 
-### කොත්මලා ඔයේ නාඳුනන මළ සිරුරක්
+### Unidentified body found in Kotmale Oya
 
 *2025-10-08 13:05:39* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කතමල-ඔය-නඳනන-මළ-සරරක/101-680929) · `si`
 
-කොත්මලේ ජලාශයට ජලය ගලා බසිනා කොත්මලා ඔයේ පාවෙමින් තිබූ හඳුනා ගැනීමට නොහැකි තත්වයේ තිබෙන මිනිස් මළ සිරුරක් අද (08) හමු වූ බව ලිදුල පොලිසියේ නිළධාරියෙකු පැවසීය.
+A human body was found in the Kotmale Reservoir to identify a human body in Kotmale today (08).
 
-හැටන් නුවරඑලිය ප්‍රධාන මාර්ගයේ ලිදුල කොත්මලා ඔය හරහා ඉදි කර ඇති පාළම යට තිබී මෙම මළසිරුර සොයා ගෙන ඇත.
+The body was found under the source of the Land Wula Kothmale Oya on the Lidula Kothmale Oya on the Negombo main road.
 
-කොත්මලා ඔයේ මාළු ඇල්ලීමට ගිය පුද්ගලයෙකු විසින් ඔයේ පාවෙමින් තිබූ මළ සිරුර දැක ඒ බව ලිදුල පොලිසියට දැනුම් දී ඇත.
+A man who went fishing to fish in the Kotmale Oya has told the police station.
 
 ◼️
 
 [Data](articles/254fbc1d.json)
+
+[Extended Data](ext_articles/254fbc1d.ext.json)
 
 ---
 
@@ -71,29 +269,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-10-08 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215463) · `si`
 
-2025 නොවැම්බර් 30 වන දින සිට ක්‍රියාත්මක වන පරිදි, ටිකට්පත් නිකුත් කිරීමේ යන්ත්‍ර සහිත බස් රථවල, බැංකු කාඩ්පත් භාවිතයෙන් මගීන්ට බස් ගාස්තු ගෙවීමට හැකියාව ලබාදීමට රජය තීරණය කර තිබේ.
+The government has decided to promote the bus fare using ticket issuing issuance machines, with ticket issuance machines, on 30th November.
 
-ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පාර්ලිමේන්තුවේදී ඒ බව සඳහන් කළේය.
+Minister of Transport, Highways, Ports and Civil Aviation stated that in Parliament in Parliament.
 
 ◼️
 
 [Data](articles/171d0aa7.json)
 
+[Extended Data](ext_articles/171d0aa7.ext.json)
+
 ---
 
-### කතුන්ට නොවැම්බරයේ බස් රියැදුරු වරම්
+### Bus driver in November for women
 
 *2025-10-08 12:45:12* · [`lankadeepalk`](https://www.lankadeepa.lk/news/කතනට-නවමබරය-බස-රයදර-වරම/101-680928) · `si`
 
-බස් රියැදුරුවරියන් සහ කොන්දොස්තරවරියන් නොවැම්බර් අවසානයේ බඳවා ගන්නා බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පාර්ලිමේන්තුවේදී අද පැවසීය.
+Minister of Transport, Highways and Civil Aviation Minister Bimal Ratnayake said in Parliament today
 
-අමාත්‍යවරයා මේ බව කීවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශයේ පරිපුරක ඇස්තමේන්තුව සම්මත කරගැනීම සඳහා වන විවාදය අරඹමිනි.
+The Minister made this observation at the debate that the Supplementary Estimation of the Ministry of Highways, Ports and Civil Aviation.
 
-කාන්තා රියැදුරුවරියන් සහ කොන්දොස්තරවරියන් නොවැම්බර් අවසානය වන විට බඳවා ගන්නවා. ඒ වගේම මෙට්රෝ බස් සේවය අප පටන් ගන්නවා.බස් ටිකට් එකෙන් මාටියා ගැසීම ප්‍රසිද්ධ දෙයක්.ඒ නිසා කාඩ් ගෙවීම් ක්‍රමයක්  හැදීමේ ඉල්ලීම තිබුනා.නොවැම්බර් 30 වන විට දැනට තිබෙන බස් ටිකට් මැෂින් වලින් බැංකු කාඩ් මගින්  ගෙවීම් කරන්නට පහසුකම් ලබා දෙනවා.තවමත් පොදු මගී ප්‍රවාහනය තියෙන්නේ නරක තත්ත්වයේ.එය විසඳන්න සැමගේ උදව්ව ලබා දෙන්න යනුවෙන්ද අමාත්‍යවරයා කීය.
+Women's drivers and conductors will be recruited by the end of November. The Metro bus service is known for the ticket.
 
 ◼️
 
 [Data](articles/a1a16642.json)
+
+[Extended Data](ext_articles/a1a16642.ext.json)
 
 ---
 
@@ -113,21 +315,27 @@ Gunawardena was widely celebrated for his significant contributions in the music
 
 ---
 
-### චමින්ද්‍රාණිගේ පැමිණිල්ලට ’’කෝප්’’ වරප්‍රසාද කමිටුවට
+### COPE 'COPE' PUNERIAL committee
 
 *2025-10-08 12:38:44* · [`lankadeepalk`](https://www.lankadeepa.lk/news/චමනදරණග-පමණලලට-කප-වරපරසද-කමටවට/101-680927) · `si`
 
-සමගි ජන බලවේගයේ මහනුවර දිස්ත්‍රික් මන්ත්‍රීනි නීතිඥ  චමින්ද්‍රාණී කිරිඇල්ල මහත්මියට  කෝප්  කමිටුවේ විමර්ශනයකදී අගතියක් සහ අපහාසයක් සිදු වී යැයි සඳහන්  වරප්‍රසාද ප්‍රශ්නය විභාග කිරීම සඳහා පාර්ලිමේන්තුවේ ආචාර ධර්ම සහ වරප්‍රසාද කමිටුවට යොමු   කිරීමට තීරණය කර ඇත.
+Kandy District Attorney-at-Law Chamindrandi Kiriella has decided to send a privilege and insulting the privilege issue of the COPE Committee on a prejudice and insulting the privilege issue.
 
-මේ අනුව මේ කාරණය පිළිබඳව සාකච්ඡා කිරීමට  කෝප් කමිටුවේ සාමාජිකයන් ඉදිරි දිනවල එම කමිටුව හමුවට කැඳවෙනු ඇත.
+Members of the COPE Committee will be summoned to the committee to discuss the matter.
 
-මේ සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී අද අදහස් දැක්වූ කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා මෙසේ පැවසීය.
+Speaker, Speaker, said the Speaker, said in this regard.
 
-සමගි ජන බලවේගයේ මහනුවර දිස්ත්‍රික් මන්ත්‍රීනි නීතිඥ  චමින්ද්‍රාණී කිරිඇල්ල මහත්මිය 2025 ජුලි 22 ඉදිරිපත් කළ වරප්‍රසාද ප්‍රශ්නය යටතේ පාර්ලිමේන්තුවේදී මතුකළ කරුණු  ආචාර ධර්ම සහ වරප්‍රසාද කාරක සභාවට  ඉදිරිපත් කිරීම සඳහා යෝජනාවක් ඉදිරිපත් කළ හැකිය.
+Legal in Sri Lanka, Chamindrandi Kiriella, Kandy District, General Kandy, Kiriella, the privilege issue presented on July 22, 2025 under the issue of July 22, will be submitted to the Committee on the ethics and the privilege Committee.
 
-...
+Ms. Chamindehi Kiriella declared that the privilege of discussing the privilege of discussing the privilege of forty-three acres of land in Hanthouse, Kandy.
+
+She also stated that this is a punishment in the Supreme Court.
+
+◼️
 
 [Data](articles/53cb1d6b.json)
+
+[Extended Data](ext_articles/53cb1d6b.ext.json)
 
 ---
 
@@ -168,6 +376,22 @@ He also pointed out that 32 senior police superintendents and several deputy pol
 [Data](articles/ab837e1a.json)
 
 [Extended Data](ext_articles/ab837e1a.ext.json)
+
+---
+
+### සුව ඇමැති - ස්වීඩන් තානාපති හමුවක්
+
+*2025-10-08 12:07:18* · [`lankadeepalk`](https://www.lankadeepa.lk/news/සව-ඇමත-සවඩන-තනපත-හමවක/101-680911) · `si`
+
+නවදිල්ලියේ නේවාසිකව සිටින ශ්‍රී ලංකාවේ ස්වීඩන තානාපති ජෑන් තෙස්ලෙෆ් (Jan Thesleff) මහතා සහ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අතර හමුවක් සෞඛ්‍ය අමාත්‍යංශයේ දී පැවැත්විණි.
+
+ශ්‍රී ලංකාවේ සෞඛ්‍ය ක්ෂේත්‍රයේ උන්නතිය මෙන්ම මෙරට ආර්ථිකයේ දියුණුව සඳහා ස්වීඩනය ඉතිහාසය පුරා කර ඇති මැදිහත්වීමි හා ව්‍යාපාරික අංශයේ කර තිබෙන ආයෝජන පිළිබඳව  මෙහිදී සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යරයා සිහිපත් කළ අතර, ශ්‍රී ලංකා රජය ගත වූ වසරක කාලයේ ලබා ඇති ප්‍රගතිය පිළිබඳව ද දැනුවත් කළේය.
+
+එමෙන් ම මෙම හමුවේ දී මෙරට සෞඛ්‍ය ක්ෂේත්‍රය පිළිබඳව සහ ජනමාධ්‍ය ක්ෂේත්‍රය පිළිබඳව ද සාකච්ඡා සිදු කරන ලද අතර, ශ්‍රී ලංකාවේ ආහාර සුරක්ෂිතතාව, ශ්‍රී ලංකාව කලාපය තුළ ඉහළ සෞඛ්‍ය දර්ශක පවත්වාගෙන යාම, ළමා පෝෂණය සහ පෝෂණ ඌණතා, පාසල් සිසුන් අතර පෝෂණ තත්ත්වය සහ අභියෝග, වයස්ගත ජනගහණ අභියෝග, මෙරට ඖෂධ නිෂ්පාදන වැඩපිළිවෙල පිළිබඳව මෙන්ම ප්‍රාථමික සෞඛ්‍ය ප්‍රවර්ධන වැඩපිළිවෙල පිළිබඳව  සාකච්ඡා කෙරිණි.
+
+◼️
+
+[Data](articles/6cdff206.json)
 
 ---
 
@@ -383,6 +607,22 @@ Additional Secretary of the Bribery Commission has been arrested for assisting f
 
 ---
 
+### ශෂීන්ද්‍රට උදවු කළ හානිපූර්ණ කාර්යාලයේ හිටපු ලොක්කියක් අත්අඩංගුවට
+
+*2025-10-08 11:20:51* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ශෂනදරට-උදව-කළ-හනපරණ-කරයලය-හටප-ලකකයක-අතඅඩගවට/101-680903) · `si`
+
+අරගල කරුවන් විසින්  2022 දී ගිනිබත්  කර විනාශයට පත් කළ කිරිඉබ්බන්වැව , මහවැලි අධිකාරියට අයත් ඉඩමේ දේපළ සඳහා  වන්දි නියම කිරීමේ දී හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා සමග කුමන්ත්‍රණය කළේ යැයි කියන හානිපූර්ණ කාර්යාලයේ එවකට වැඩ බලන අධ්‍යක්ෂ ජනරාල්වරිය අල්ලස් හෝ දූෂණ විමර්ශන කොමිසම සභාව මගින් අද අත්අඩංගුවට ගැනිණි.
+
+කිරිඉබ්බන්වැව , මහවැලි අධිකාරියට අයත් ඉඩමේ පැවති දේපල ගිනිබත් කිරීමෙන් සිදුවූ අගතියට  රුපියල් 885000ක වන්දි මුදලක් රජයේ නිලධාරීන්ට බලපෑම් කර ලබා ගනිමින් රාජ්‍ය දේපළ  සාපරාදී සාවද්‍ය පරිහරණය කිරීම සම්බන්ධයෙන්    හිටපු රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතාට එරෙහිව අල්ලස් කොමිසම පැවරූ විමර්ශනයේ දෙවන සැකකාරිය වන  අතිරේක ලේකම්වරිය රාජපක්ෂ මහතාට ආධාර අනුබලදීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත.
+
+සැකකාරිය අද දින කොළඹ ප්‍රධාන මහේස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/4e505fb0.json)
+
+---
+
 ### World Gold prices jumps $ 4,000 - gold price to be reappeared
 
 *2025-10-08 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215460) · `si`
@@ -495,21 +735,23 @@ The monthly meeting of the Elpitiya Pradeshiya Sabha commenced this morning, and
 
 ---
 
-### ඇල්පිටිය ප්‍රා.ස. විපක්ෂ මන්ත්‍රීවරියන් විරෝධයක්
+### Elpitiya PS member. Opposition MPs claim
 
 *2025-10-08 11:01:23* · [`lankadeepalk`](https://www.lankadeepa.lk/news/ඇලපටය-පර-ස-වපකෂ-මනතරවරයන-වරධයක/101-680901) · `si`
 
-ඇල්පිටිය ප්‍රාදේශීය සභාවේ විපක්ෂය නියෝජනය කරන මන්ත්‍රිවරියන් විසින් ඇල්පිටිය ප්‍රාදේශීය සභා කාර්‍යාලය ඉදිරිපිටදී උදෑසන විරෝධතාවක් දක්වනු ලැබීය
+An opposition representing the Opposition of the Elpitiya Pradeshiya Sabha address protest in front of the Elpitiya Pradeshiya Sabha
 
-." සමරිසි අපට එපා." "මන්ත්‍රි දීමනා ගන්නෑ කියා ඇල්පිටිය ජනතාව මුලා කළේ ඇයි ."
+. "Don't we have Samaraysa." "Why did Elpitiya deceived the public's gift?"
 
-පාසල් පද්ධතිය වලපල්ලට දානවද?කොණ්ඩම් දරුවන් හට " යනුවෙන් ලියූ පුවරු ඔවුන් ප්‍රදර්ශනය කළාය.
+Do you put the boards written by the school system?
 
-ඇල්පිටිය ප්‍රාදේශීය සභාවේ මාසික රැස්වීම අද පෙරවරුවේ ආරම්භවූ අතර ඊට පෙර විපක්ෂය නියෝජනය කරන මන්ත්‍රිවරියන් පෝස්ටර් ප්‍රදර්ශනය කරමින් සටන් පාඨ කියමින් සභාව ඉදිපිට සිට විරෝධතා දැක්වූ අතර පසුව එම පෝස්ටර් ප්‍රදර්ශනය කරමින් සභාවට ඇතුළු වූහ . සභාවේ කටයුතු සාමාන්‍ය පරිදි සභාපති වරයා විසින් කරගෙන යනු ලැබීය .
+The monthly meeting of the Elpitiya Pradeshiya Sabha commenced this morning, and the church had protested and later protesting to the church, displaying the posters. The proceedings of the House was ordained by the Chairman.
 
 ◼️
 
 [Data](articles/fb0390e1.json)
+
+[Extended Data](ext_articles/fb0390e1.ext.json)
 
 ---
 
@@ -1630,255 +1872,5 @@ Economist and Arutha Research Director – Civic Education Rehana Thowfeek said 
 [Data](articles/d29bd38c.json)
 
 [Extended Data](ext_articles/d29bd38c.ext.json)
-
----
-
-### Govt. addressing shortage of dialysis needles – Health Minister
-
-*2025-10-08 05:31:59* · [`dailyftlk`](https://www.ft.lk/news/Govt-addressing-shortage-of-dialysis-needles-Health-Minister/56-782684) · `en`
-
-Health Minister Nalinda Jayatissa informed Parliament yesterday that steps are underway to resolve the shortage of dialysis needles after the initially contracted supplier failed to deliver the required type.
-
-Responding to a question raised by Opposition MP Chamara Sampath Dassanayake, the Minister said the supplier appointed to provide the needles had not supplied the specified type needed for dialysis treatments, causing a temporary shortage in hospitals.
-
-He said the Government has now engaged a new supplier and initiated emergency purchases from alternate sources to ensure continuous treatment for kidney patients. Funds have also been allocated to state and provincial hospitals to make local procurements until normal supplies resume.
-
-According to the Minister, the required consignment of dialysis needles is expected to arrive by 12 October, while stocks for major hospitals and regional Medical Supplies Divisions have already been secured.
-
-...
-
-[Data](articles/231d8d0a.json)
-
-[Extended Data](ext_articles/231d8d0a.ext.json)
-
----
-
-### Govt. raises taxes on gambling, doubles casino entry fee for Lankans
-
-*2025-10-08 05:30:48* · [`dailyftlk`](https://www.ft.lk/news/Govt-raises-taxes-on-gambling-doubles-casino-entry-fee-for-Lankans/56-782683) · `en`
-
-A Gazette notification amending the Betting and Gambling Levy has been issued, coming into effect from 1 October.
-
-Under the new regulation, the levy on gross collections from gambling operations, including bookmakers and gaming operators, has been raised from 15% to 18%.
-
-The amendment also doubles the casino entry fee for Sri Lankan citizens to $ 100.
-
-◼️
-
-[Data](articles/632ec7ff.json)
-
-[Extended Data](ext_articles/632ec7ff.ext.json)
-
----
-
-### Police shooting orders from the commanding car
-
-*2025-10-08 05:26:22* · [`adalk`](https://www.ada.lk/breaking_news/අණ-නොතැකූ-මෝටර්-රථයට-පොලීසියෙන්-වෙඩි/11-418965) · `si`
-
-Police and suspect arrested a car and suspect in Matara yesterday (07) at the Meddawatta Republicavaya area in Matara yesterday.
-
-The car has gone to the accident and stayed in the accident.
-
-Police have arrested a suspect there. Headquarters police are conducting further investigations.
-
-◼️
-
-[Data](articles/bb1fc93d.json)
-
-[Extended Data](ext_articles/bb1fc93d.ext.json)
-
----
-
-### Resolve to those who face floods due
-
-*2025-10-08 03:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/227172) · `ta`
-
-We welcome the Thondamanaru Salt Water Resistance Scheme. The Northern Provincial Governor, Valikamam East Pradeshiya Sabha Chairman Thiagarajah Nirosh, has asked the Governor of the Northern Province Vedanayakam to fulfill the project to protect the people who are facing flooding annually by the project.
-
-Local Government Leaders of the Northern Province on Tuesday 7th. The meeting between Vedanayagam was held at the Governor's Office. At this meeting, Valikamam Eastern Pradeshiya Sabha Chairman Thiagarajah Nirosh made this request.
-
-He is more Jaffna. Valikamam East is a great commitment to protect groundwater in the district.. Thondamanaru and sheep water are subject to our regime. Thousands of our people face floods as the Underwater Dilution Scheme is being implemented here.. Likewise, even when the people are affected, we are demanding that the people be affected by the sole reason that we are the underground water security program.
-
-...
-
-[Data](articles/058998ac.json)
-
-[Extended Data](ext_articles/058998ac.ext.json)
-
----
-
-### Join Mannar and Mullaitivu District General Hospitals in a balanced service; Ravikaran MP urged Minister Nalinda Jayadissa
-
-*2025-10-08 03:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/227171) · `ta`
-
-Wannimavatta MP Durairasa Ravikaran has urged Health Minister Nalinda Jayadissa to remove the Mannar and Mullaitivu District General Hospitals from the list of Gust Hospitals and to connect a balanced service and provide an internal trainee service.
-
-Health Minister Nalinda Jayadissa said that the vacancies in the Mannar and Mullaitivu hospitals were unable to fill the vacancies in the Mannar and Mullaitivu hospitals due to the shortage of special medical officers registered and certified by the Medical Council.
-
-Wannimavatta Member of Parliament Durairasa Ravikaran questioned the Minister of Health during the query on Tuesday (07) in Parliament.
-
-The last parliamentary session also discussed the physical resources of the Mullaitivu District General Hospital.
-
-The Hon. Minister of Health and the Indian High Commissioner in Sri Lanka promised to meet with the Hon.. I hope that these promises will be a form of action.
-
-...
-
-[Data](articles/e18093a6.json)
-
-[Extended Data](ext_articles/e18093a6.ext.json)
-
----
-
-### There is no shortage of fistula needle for blood purification treatment - Deputy Minister Hansaka Wijemuni
-
-*2025-10-08 03:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/227170) · `ta`
-
-There is no fact that the fistula needle used for blood purification treatment for kidney patients in state hospitals is reported to be shortened. Hansaka Wijemuni, Deputy Minister of the Ministry of Health and Media, said that all the hospitals are in need of needles for patients.
-
-He said this while speaking to the media on Tuesday (7).
-
-It is reported that the fistula injection used for blood purification for kidney patients has been reported. Recently there was a delay in obtaining such pins. The needles brought to the country were rejected for a few reasons. In the past weeks, there has been a problem with the distribution process, but we have brought them back to normal.
-
-...
-
-[Data](articles/5b9a3102.json)
-
-[Extended Data](ext_articles/5b9a3102.ext.json)
-
----
-
-### Why is the international ban on Sarath Fonseka? PA
-
-*2025-10-08 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/227169) · `ta`
-
-Worldwide war crimes have been imposed on military officers such as Vasantha Karanagoda, Shavendra Silva and Kamal Gunaratne and have imposed sanctions against them.. But why not the international ban on Sarath Fonseka, the then military commander who killed Prabhakaran? Former President Mahinda Rajapakse's spokesman Manoj Kamage questioned.
-
-He further stated this at a press conference held at the PA office in Colombo on Tuesday (7).
-
-Sarath Fonseka has said a few things with great excitement and hatred. In it he mentioned my name. He must learn about two animals who want to teach Sarath Fonseka: one animal lion, the other is Devang. Sarath Fonseka must realize the biggest difference between the lion and the Deva.
-
-Whether the lion is old or sick, it will never eat grass. But although Devang is generally known to be a meat -eating animal, some Devangs eat bark. There are opportunities that go becoming a dog. But I would like to tell Sarath Fonseka the fact that the lion will never be a dog.
-
-...
-
-[Data](articles/83153efe.json)
-
-[Extended Data](ext_articles/83153efe.ext.json)
-
----
-
-### Wasim Tajuddin assassination: It is not surprising that Rajapaksas are disturbed when the truth is revealed - Mahinda Jayasinghe
-
-*2025-10-08 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/227168) · `ta`
-
-It is not surprising that the Rajapaksas are confused when a formal inquiry into the assassination of the Tajuddin assassination is being carried out.. Namal Rajapaksa notes that justice should be given to Tajuddin's assassination. How did they get righteous. Destroyed the testimony. This is why investigations continue today. Deputy Minister of Labor Mahinda Jayasinghe said the truth would not be revealed.
-
-He was speaking at a debate on the Amendment Bill on Tuesday (7) in Parliament on Tuesday (7).
-
-௨௦௧௫.௦௧.௦௮. The United People's Power has forgotten that 'Justice for the assassination of Tajuddin' was the main speech of Maithripala Sirisena on the election campaign platforms on the day.. The government of Maithri, Ranil and Sajith did not carry out a formal inquiry into the assassination of Tajuddin.
-
-...
-
-[Data](articles/c485ecc7.json)
-
-[Extended Data](ext_articles/c485ecc7.ext.json)
-
----
-
-### The reward of what done in the north after 2009 is available in the south today - Satyalingam
-
-*2025-10-08 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/227167) · `ta`
-
-I saw the news that the drug is being distributed by schoolchildren in the south. This is what they shoot himself. The reward of what has been done in the north after 2009 is available in the south today.  The Sri Lankan Tamil National Alliance (TNA) parliamentarian P.. Said Sathiyalingam.
-
-He was speaking at a debate on the Amendment Bill on Tuesday (7) in Parliament on Tuesday (7).
-
-The use of stimulants in the game is found in common. Increasingly the use of these encouragements has been increased as sports are enhanced by a country's economy or the economy of athletes.
-
-Equal status should be given to athletes. The players do not think about the consequences of this, because they are not given priority to the skills.
-
-Drug detection in the country is spoken of as seriously at the national level and international level. The government came to power and seized a large number of narcotics in various parts of the country. The rich and a few politicians are behind this drug trade.
-
-...
-
-[Data](articles/3fb3ddcf.json)
-
-[Extended Data](ext_articles/3fb3ddcf.ext.json)
-
----
-
-### Youth arrested with heroin in Bashayur, Jaffna
-
-*2025-10-08 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/227166) · `ta`
-
-A youth was arrested with heroin in the Bashayur area in Jaffna and three swords and mobile phone were recovered.
-
-The arrest of the Jaffna District Criminal Investigation Division was carried out today.
-
-Police have taken steps to appear at the Jaffna Magistrate's Court tomorrow after further investigations.
-
-Police said that there are already some criminal cases pending against the suspect who had been in hiding for a long time.
-
-◼️
-
-[Data](articles/227c062f.json)
-
-[Extended Data](ext_articles/227c062f.ext.json)
-
----
-
-### Death toll in Himachal Pradesh
-
-*2025-10-08 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/227165) · `ta`
-
-The death toll of the major landslides in the Mooton area of ​​Bilaspur district of India has risen to 18, according to media reports.
-
-The bus, which was traveling from Haryana's Rohtal to Kumrvin with about 30 passengers, suddenly collapsed on the mud and rocks.
-
-Rescuers immediately rushed to the scene and are taking serious measures to rescue the trapped.
-
-◼️
-
-[Data](articles/3270d401.json)
-
-[Extended Data](ext_articles/3270d401.ext.json)
-
----
-
-### Deputy Minister Namal Karunaratne responds to the invasive plant removal plan of Kahalla forest reserve
-
-*2025-10-08 01:28:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpvle94mexmo) · `si`
-
-Deputy Minister Namal Karunaratne responds to the invasive plant removal plan of Kahalla forest reserve
-
-Deputy Minister of Agriculture and Livestock Development Namal Karunaratne says that arrangements have been made to commence a tank construction project in tanks. Addressing a meeting held at the recent past, said that this program was implemented to the needs of animals in the reserves.
-
-The Deputy Minister said that funds have been allocated for the construction of 5 such tanks in the Kurunegala and Kahalla forest reserve.
-
-In the case of a statement he made, there is a strong conversation in society.
-
-He was said to 'remove trees like teak, agasia, turpentine,' that is the invasive plants in the jungle. '
-
-...
-
-[Data](articles/2abf4cd5.json)
-
-[Extended Data](ext_articles/2abf4cd5.ext.json)
-
----
-
-### 2025-10-07 (Tuesday)
-
-### Aitken Spence Logistics wins big at CILT Awards 2025
-
-*2025-10-07 23:08:00* · [`islandlk`](http://island.lk/aitken-spence-logistics-wins-big-at-cilt-awards-2025/) · `en`
-
-Aitken Spence Logistics proudly emerged as a frontrunner at the CILT Awards 2025, securing the prestigious Sustainability Award and earning Runner-up in the Market Segment Customer Service category. The awards ceremony was recently held, celebrating excellence across the logistics and transport industry, with global delegates attending as part of the CILT International Convention 2025 in Colombo.
-
-...
-
-[Data](articles/5bd114ee.json)
-
-[Extended Data](ext_articles/5bd114ee.ext.json)
 
 ---

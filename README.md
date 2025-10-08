@@ -1,37 +1,135 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-10-08 12:14:21**
+As of **2025-10-08 12:38:05**
 
 ## Newspaper Stats
 
-*Scraped **82,096** Articles*
+*Scraped **82,106** Articles*
 
 newspaper | n
 --- | ---:
 dbsjeyarajcom | 638
 newsfirstlk | 653
-bbccomsinhala | 729
+bbccomsinhala | 730
 colombotelegraphcom | 815
-lankadeepalk | 980
+lankadeepalk | 984
 dailymirrorlk | 4,733
 economynextcom | 4,774
 islandlk | 4,937
 dailyftlk | 5,703
 adalk | 7,840
 adaderanalk | 10,532
-tamilmirrorlk | 12,167
+tamilmirrorlk | 12,170
 virakesarilk | 13,530
-adaderanasinhalalk | 14,065
+adaderanasinhalalk | 14,067
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-82,090 (100.0%) of 82,096 articles have been extended.
+82,106 (100.0%) of 82,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-10-08 (Wednesday)
+
+### Tension in parliament
+
+*2025-10-08 12:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பதற்றம்/175-365954) · `ta`
+
+There was a tense situation in Parliament today (08) regarding the issue of police transfers.
+
+Speaking in Parliament, the Prime Minister of the Opposition, Korada Karunathilaka, ignored the Police Commission and questioned the government about a process that is being carried out by the Police Inspector (IGP) by the Inspector General of Police (IGP).
+
+Opposition parliamentarian Gayantha Karunathilaka urged the stopping of such procedures.
+
+Speaking in Parliament, Member of Parliament Dayasiri Jayasekara said that since 2017, police transfers have been handled by the Police Commission and that it is inappropriate to hand over this power to the Inspector General of Police at this stage.
+
+He also pointed out that 32 senior police superintendents and several deputy police inspectors have already been transferred outside the Police Authority.
+
+...
+
+[Data](articles/ab837e1a.json)
+
+[Extended Data](ext_articles/ab837e1a.ext.json)
+
+---
+
+### Swedish ambassador to Swedish
+
+*2025-10-08 12:07:18* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/සව-ඇමත-සවඩන-තනපත-හමවක/1-680911) · `si`
+
+The Ministry of Health was held at the Health and Mass Media Dr. Nalinda Jayatissa, who is residential in New Delhi.
+
+The Health and Mass Media recalled information on the injection and investment in the business of the Sri Lankan health carefully to the development of the Sri Lankan economy.
+
+The discussion of the health sector and the country in this regard, the health sector in Sri Lanka and the medical nutritional deficiency and nutrition, nutritional deficiency, and the primary deficiency, and the primary deficiency program, the country's pharmaceutical program.
+
+◼️
+
+[Data](articles/222bbecb.json)
+
+[Extended Data](ext_articles/222bbecb.ext.json)
+
+---
+
+### Sani, including Shani, permits petitions
+
+*2025-10-08 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215462) · `si`
+
+Shani Abeysekara, Director of the Criminal Investigation Department (CID) Shani Abeysekara, Director of the Criminal Investigation Department (CID) Shani Abeysekara, Director of the Criminal Investigation Division (CID) Shani Abeysekara, the Colombo Crimes Division (CID) has been granted permission to be heard by the former Inspector of the Department.
+
+After considering a lengthy consideration, he issued the order by a three-member judiciary of the Supreme Court Judge.
+
+◼️
+
+[Data](articles/0cd4ae11.json)
+
+[Extended Data](ext_articles/0cd4ae11.ext.json)
+
+---
+
+### Minister explain to the delay in providing vehicle number plates
+
+*2025-10-08 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215461) · `si`
+
+Minister of Transport, Highways, Ports and Civil Aviation was explained in Parliament regarding the delay in the provision of new vehicle number plates.
+
+The Minister said that 165,512 vehicle number plates were not provided with a query.
+
+The Minister further stated that there is a delay in the provision of vehicle number plates.
+
+"There is much delay in providing you with vehicle number plates. The new vehicle number plate contains seven special security features. We handed over these features on the inspection of Sri Lanka. They took a three-month time. And they could say that only six of them were. Therefore, we have to do internationally checking on the 7th. That's why this delay has been. The attempt to increase the security situation, this has been added. "
+
+Meanwhile, Minister of Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake said that the issue of new driver's licenses will be resolved on the 18th.
+
+◼️
+
+[Data](articles/808ce4ec.json)
+
+[Extended Data](ext_articles/808ce4ec.ext.json)
+
+---
+
+### LGBTQ Tourism Affairs; PM Explanation
+
+*2025-10-08 11:42:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/LGBTQ-சுற்றுலா-விவகாரம்-பிரதமர்-விளக்கம்/175-365947) · `ta`
+
+Prime Minister Harini Amarasuriya said today that the Chairman of the Sri Lanka Tourism Development Commission (SLTDA) has issued a letter regarding the LGBTQ tour without consulting with the political authority following the controversy over LGBTQ tourism in Sri Lanka.
+
+He told Parliament that the SLTDA leader had advised the SLTDA leader on the government's position and policy on the LGBTQ issue.
+
+The government's position in this case is that the government will not encourage or offer special privileges to any particular committee.
+
+He said this while responding to a question raised by SJB MP Kavinda Jayawardene on the government's actions against the SLTDA leader regarding the letter.
+
+◼️
+
+[Data](articles/f10b776d.json)
+
+[Extended Data](ext_articles/f10b776d.ext.json)
+
+---
 
 ### Steps Taken to Fast-track Licenses for Surveying Graduates
 
@@ -42,6 +140,8 @@ The Ministry of Education has decided to remove barriers preventing surveying gr
 ◼️
 
 [Data](articles/094ccd61.json)
+
+[Extended Data](ext_articles/094ccd61.ext.json)
 
 ---
 
@@ -63,6 +163,24 @@ CID officers are currently recording his statement in connection with these find
 
 [Data](articles/c3c1145b.json)
 
+[Extended Data](ext_articles/c3c1145b.ext.json)
+
+---
+
+### The reward to give up Japan
+
+*2025-10-08 11:33:51* · [`lankadeepalk`](https://www.lankadeepa.lk/features/ජපනය-අතහරම-වපකය/2-680904) · `si`
+
+In a few days, Japan is to be appointed as a woman in a women's prime. No women have been appointed in any case after the formation of the Japanese parliamentary system. Sanaa Visioni has been selected as the leader of the largest political party, the Liberal Democratic Party, the largest political party in the country.
+
+As a result, she will also be the post of Prime Minister. President Anura Kumara Dissanayake had to meet the acting prime minister at the Japanese official visit to the Japanese official visit to the Acting Prime Minister only until the leader of the Liberal Democratic Party is selected.. The need to think and implement Japanese Sri Lanka relations with the need to think and operate. It should also focus on how Japanese Sri Lanka relations can be opened in a new chapter in the political changes caused by both countries.
+
+...
+
+[Data](articles/0fae90b3.json)
+
+[Extended Data](ext_articles/0fae90b3.ext.json)
+
 ---
 
 ### Suspect Arrested in Pelmadulla With Ammunition and Drugs
@@ -74,6 +192,30 @@ A 20-year-old resident of Pathakada, Pelmadulla was arrested with 20 T-56 bullet
 ◼️
 
 [Data](articles/dd25f630.json)
+
+[Extended Data](ext_articles/dd25f630.ext.json)
+
+---
+
+### Gold Award in Japan for Greedweston Tea
+
+*2025-10-08 11:27:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கிரேட்வெஸ்டன்-தேயிலைக்கு-ஜப்பானில்-தங்க-விருது/76-365946) · `ta`
+
+Dragon Ball Gold Winner has won the Greedweston Gardens under the Talawakelle Plantation Company.
+
+The event was held on Tuesday (07) by the Executive Director of the Talawakelle Plantation Company, Roshan Rajadurai, to honor the plantation factory officers and factory workers who worked for this.
+
+The events were held at the Greedweston Estate Factory under the patronage of Sarath Ranweera, Deputy General Manager of the Greedweston Estate.
+
+The Executive Director of the Talawakelle Plantation Company, Roshan Rajadurai, Deputy General Manager of Greedweston Estate, Sarath Ranweera, Gradveston Estate Assistant Officers Hehan Abeywardena, NP Valalakampaya, Gradweston Tea Factory Administrator Paramasivam, Plantation Welfare Officers and Plantation Officers.
+
+The Greedweston Tea Factory has been the best tea plant for the last three years in 108 tea plantations in Sri Lanka.
+
+◼️
+
+[Data](articles/b49ca2a3.json)
+
+[Extended Data](ext_articles/b49ca2a3.ext.json)
 
 ---
 
@@ -87,19 +229,41 @@ The Public Utilities Commission of Sri Lanka(PUCSL) said the public consultation
 
 [Data](articles/ae0b4ead.json)
 
+[Extended Data](ext_articles/ae0b4ead.ext.json)
+
 ---
 
-### අයවැයෙන් ඉල්ලීම් වලට විසඳුම් නොලැබුණොත් අනිවාර්යෙන් පාරට බහිනවා
+### If the budget demands are not solved, it will definitely fall into the road
 
 *2025-10-08 11:23:54* · [`adalk`](https://www.ada.lk/breaking_news/අයවැයෙන්-ඉල්ලීම්-වලට-විසඳුම්-නොලැබුණොත්-අනිවාර්යෙන්-පාරට-බහිනවා/11-418975) · `si`
 
-2026 අයවැය තුළින් සිය ඉල්ලීම් වලට විසඳුම් ලබා නොදෙන්නේ නම් , අනිවාර්යෙන් වෘත්තීය සමිති ක්‍රියාමාර්ග ගන්නා බව එක්සත් ග්‍රාම නිලධාරී සංගමයේ සභාපති නන්දන රණසිංහ මහතා පැවසීය.
+The United Grama Niladhari Union Chairman Nandana Ranasinghe said that the trade union action would be taken if they do not address their demands through Budget 2026.
 
-කොළඹ අද(08දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+He was speaking at a media briefing held in Colombo today (08) he said.
 
 ◼️
 
 [Data](articles/523ca2ec.json)
+
+[Extended Data](ext_articles/523ca2ec.ext.json)
+
+---
+
+### An ex-boss arrested for help Shashindra
+
+*2025-10-08 11:20:51* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ශෂනදරට-උදව-කළ-හනපරණ-කරයලය-හටප-ලකකයක-අතඅඩගවට/1-680903) · `si`
+
+The Bribery Investigation Commission was arrested today by the Bribery or Corruption Commission at the Bribery Office, which is said to be compensated by the struggles and compensation to the property of the Mahaweli Authority of the Mahaweli Authority.
+
+Additional Secretary of the Bribery Commission has been arrested for assisting former State Minister Shashindra Rajapaksa with the influence of state property against the Bribery Commission (PSC) against the Bribery Commission.
+
+සැකකාරිය අද දින කොළඹ ප්‍රධාන මහේස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/f6822bd3.json)
+
+[Extended Data](ext_articles/f6822bd3.ext.json)
 
 ---
 
@@ -174,6 +338,26 @@ This is simple and is simple and the Purchase of the liter of the liter of the l
 [Data](articles/fbcddce2.json)
 
 [Extended Data](ext_articles/fbcddce2.ext.json)
+
+---
+
+### Elpitiya PS member. Opposition MPs claim
+
+*2025-10-08 11:01:23* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/ඇලපටය-පර-ස-වපකෂ-මනතරවරයන-වරධයක/1-680901) · `si`
+
+An opposition representing the Opposition of the Elpitiya Pradeshiya Sabha address protest in front of the Elpitiya Pradeshiya Sabha
+
+. "Don't we have Samaraysa." "Why did Elpitiya deceived the public's gift?"
+
+Do you put the boards written by the school system?
+
+The monthly meeting of the Elpitiya Pradeshiya Sabha commenced this morning, and the church had protested and later protesting to the church, displaying the posters. The proceedings of the House was ordained by the Chairman.
+
+◼️
+
+[Data](articles/3a7ef82e.json)
+
+[Extended Data](ext_articles/3a7ef82e.ext.json)
 
 ---
 
@@ -563,19 +747,25 @@ Gaza will be tied up again by the battle. Extreme argument will be eliminated fr
 
 ---
 
-### ඉඩම් කොමිෂන් සභාවට ලැබිය යුතු ආදායමවත් අයකරගෙන න‍ෑ
+### The Land Commission has not even recovered any income
 
 *2025-10-08 08:02:07* · [`adalk`](https://www.ada.lk/breaking_news/ඉඩම්-කොමිෂන්-සභාවට-ලැබිය-යුතු-ආදායමවත්-අයකරගෙන-න‍ෑ/11-418970) · `si`
 
-ඉඩම් ප්‍රතිසංස්කරණ කොමිෂම් සභාවට අයත්  කුරුණැගල දිස්ත්‍රික්කයේ ඉබ්බාගමුව  ප්‍රා දේශිය ලේකම් කොට්ඨාශයේ පිහිටි රාගෙදර වත්ත ඉඩමෙන් අක්කර 70ක් මිනිරන් කැණිම සදහා පුද්ගලික සමාගමක් වෙත බදු පදනම මත ලබා දි වසර 13ක් ගතවි තිබුණද  එකි ඉඩම තක්සේරුකර  බදු  මුදල් අයකරගැනිමට කටයුතුකර   නොතිබු  බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක සදහන් වේ.
+The National Audit report is issued by the National Audit Office that a private company has been given to a private company in the Ibbagamuwa Divisional Secretariat area on the Ibbagamuwa Divisional Secretariat Division belonging to the Land Reforms Commission.
 
-ඉඩම අදාළ පුද්ගලික සමාගමට ලබා දි වසර 13ක් ගතවි තිබුණද  දෙපාර්ශවය අතර බදු ගිවිසුමකට  එළබිමට කොමිෂම් සභාව  කටයුතු කර නොතිබුණි. මෙකි ඉඩම රජයේ  තක්සේරුකරුවකුගේ  වර්තමාන තක්සේරු වටිනාකම මත තක්සේරුකොට  වසර 05ක කාලයක් සදහා  2011 වර්ෂයේ   පුද්ගලික සමාගමක් වෙත ලබාදිමට කොමිෂම් සභාව විසින්  කොමිෂන් පත්‍රිකාවක් මගින් අනුමැතිය ලබා දි තිබුණි.
+13 years after the land has been given to the private company, the Commission has not acted on a tax agreement between the two parties.. It was approved by the Commission to provide a Commission to a private company for a period of five years.
 
-මෙකි ඉඩමට අදාළව  කොමිෂම් සභාව විසින්  ප්‍රධාන තක්සේරුකරු  වෙතින් තක්සේරුව කැදවා ඇත්තේ 2022.08.18 වැනිදින වන අතර  එහෙත් තක්සේරුව නොලැබිම මත 2023.03.29 වැනිදන  පළාත් තක්සේරුකරු වෙත  සිහිකැදවිමක් යොමුකොට ඇති බවද විගණන වාර්තාවේ සදහන් වේ.
+The Commission's Council has been assessed from the Chief Assessor on 182022.08.18 million, while 2023.03.29 has been referred to the provincial apparatus.
 
-...
+The Commission has stated to the Audit that a sum of Rs.
+
+This information is included in the Audit Report issued by the National Audit Office on the year 2024 by the National Audit Office.
+
+◼️
 
 [Data](articles/0fd3ed99.json)
+
+[Extended Data](ext_articles/0fd3ed99.ext.json)
 
 ---
 
@@ -934,6 +1124,28 @@ Sustainability has emerged as one of the most critical strategic imperatives of 
 [Data](articles/2ecfa5ec.json)
 
 [Extended Data](ext_articles/2ecfa5ec.ext.json)
+
+---
+
+### 'Nothing Will Not Mone If I Feel Thought Thoughts That Those Legs Will Not Mone: Nurses
+
+*2025-10-08 06:24:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp8wg2n8wxyo) · `si`
+
+'Nothing Will Not Mone If I Feel Thought Thoughts That Those Legs Will Not Mone: Nurses
+
+DM lives in Delkanda area in Nugegoda. A car technician who repaired three wheelers and motorcycles from Gamini profession.
+
+At the age of 27, he had lost both feet in an attempt to recover into a train that he was driven.
+
+Despite the loss of both feet, he does not handle the expectations of life and live a life of revenue from repairing three wheeler.
+
+He says, but the two feet were not a problem for them.
+
+◼️
+
+[Data](articles/1ab0fc84.json)
+
+[Extended Data](ext_articles/1ab0fc84.ext.json)
 
 ---
 
@@ -1686,215 +1898,5 @@ The bus has reported that the bus has collapsed at once on the road.
 [Data](articles/bfdad714.json)
 
 [Extended Data](ext_articles/bfdad714.ext.json)
-
----
-
-### Appoint a Special Select Committee to investigate 323 containers who have been released without testing!
-
-*2025-10-07 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/227163) · `ta`
-
-The United People's Power -led Opposition on Tuesday (07) handed over the proposal to appoint a Special Select Committee to investigate the release of 323 containers from the Port of Colombo without compulsory physical examination.
-
-According to the guidance by the Honorable President, the Committee of the Committee has been appointed by the Treasury Secretary and that the process of release of its observation on its report is unconstitutional, and that "the release of containers without proper examination is" putting serious dangers in national security, income collection and public safety matters ";
-
-...
-
-[Data](articles/ad2de4df.json)
-
-[Extended Data](ext_articles/ad2de4df.ext.json)
-
----
-
-### Asian Investment Bank Chairman who meets President
-
-*2025-10-07 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/227162) · `ta`
-
-Jin Liqun, president of the Asian Infrastructure Investment Bank, said that Sri Lanka's Green Strength Department will be supported.
-
-The Asian Infrastructure Investment Bank Chairman Jin Liqun and its Senior Management Management were speaking at the Presidential Office at the Presidential Office on Tuesday (07).
-
-The Chairman said that the progress of the projects implemented in Sri Lanka under the loan of the Asian Infrastructure Investment Bank has been extensively investigated and will continue to work with Sri Lanka and support the country's progress.
-
-Accordingly, the power of power in Sri Lanka will be promoted and action will be taken to support the future in the fields of green power and green transport facilities.
-
-The president, explaining the economic progress that Sri Lanka has achieved economically, including reducing interest rates and controlling inflation, said the government's expectation is to bring the benefits of the national economy to the ordinary people.
-
-...
-
-[Data](articles/26e2b0ef.json)
-
-[Extended Data](ext_articles/26e2b0ef.ext.json)
-
----
-
-### Asian Infrastructure Investment Bank President's Chairman and Teacher Meets President
-
-*2025-10-07 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215447) · `si`
-
-The Asian Infrastructure Investment Bank (AIIB), the President of the Asian Infrastruct Bank - AIIB (AIIB), said.
-
-The Asian Infrastructure Investment Bank Chairman Jin LIQUN (JIN LIQUN) and its senior management, including Jin LIQUN, met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
-
-The progress of the projects implemented in Sri Lanka so far under the Asian Infrastructure Bank is recently reviewed and supported by the country's progress.
-
-According to the Sri Lankan energy stability, he said that the growth of green energy, green transport facilities and focusing on the fields of green transport facilities.
-
-The government expects the President to take the growth of the national economy, which explains the interest rates and the control of inflation control.
-
-...
-
-[Data](articles/0c57785a.json)
-
-[Extended Data](ext_articles/0c57785a.ext.json)
-
----
-
-### “Complete abandonment of Sri Lanka’s inclusive nationalistic vision” – Dilith slams govt over UN resolution
-
-*2025-10-07 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/113310/complete-abandonment-of-sri-lankas-inclusive-nationalistic-vision-dilith-slams-govt-over-un-resolution-) · `en`
-
-‘Sarvajana Balaya’ leader and Member of Parliament Dilith Jayaweera today demanded immediate answers from the government for the “shocking betrayal” of Sri Lanka’s allies who stood with the country against UNHRC resolutions.
-
-Posting on X (formerly Twitter), Jayaweera said he was “appalled by the disastrous execution of foreign policy by Sri Lanka’s delegation, led by the Foreign Minister, to the UNHRC.”
-
-He stated that the Government of Sri Lanka (GoSL) must immediately provide answers to the 22 million citizens it was duty-bound to represent, and the “shocking betrayal of our allies who stood with us by speaking against unfounded UN resolutions against Sri Lanka.”
-
-Jayaweera further alleged that the delegation’s actions displayed “sheer weakness and incompetence before the international community,” claiming that this reflected how poorly the government was handling the nation’s priorities.
-
-...
-
-[Data](articles/c6027f22.json)
-
-[Extended Data](ext_articles/c6027f22.ext.json)
-
----
-
-### Police notify the public
-
-*2025-10-07 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215446) · `si`
-
-The police requests the public to be aware of the financial fraud.
-
-The fraudulent acts have occurred through Telegraph, Whatsapp Accounts and other social media masses.
-
-The police say that complaints have been reported regarding such financial fraud.
-
-Therefore, the police requested the public not to be caught by individuals who do not know that they are unknown in social media collateral accounts.
-
-The police also said that the account numbers, passwords and passwords are notified by giving out external people to external people.
-
-◼️
-
-[Data](articles/468e2166.json)
-
-[Extended Data](ext_articles/468e2166.ext.json)
-
----
-
-### Helps to improve green
-
-*2025-10-07 20:03:47* · [`lankadeepalk`](https://www.lankadeepa.lk/latest_news/හරත-බලශකතය-නවනන-උදව-කරනව/1-680886) · `si`
-
-Investment Bank (AIIB), President of the Asian Infrastricture Investment Bank (AIIB) (AIIB) President Anura Kumara Dissanayake said he was responding to the promotion of the green energy sector in Sri Lanka.
-
-President Anura Kumara Dissanayake met at the Presidential Secretariat today (7), the Chairman of the Asian Infrastructure.
-
-The progress of the projects implemented in Sri Lanka so far under the Asian Infrastructure Bank is recently reviewed and supported by the country's progress.
-
-According to the Sri Lankan energy stability, he said that the growth of green energy, green transport facilities and focusing on the fields of green transport facilities.
-
-The government expects the President to take the growth of the national economy, which explains the interest rates and the control of inflation control.
-
-...
-
-[Data](articles/fb79bf88.json)
-
-[Extended Data](ext_articles/fb79bf88.ext.json)
-
----
-
-### Helps to improve green
-
-*2025-10-07 20:03:47* · [`lankadeepalk`](https://www.lankadeepa.lk/news/හරත-බලශකතය-නවනන-උදව-කරනව/101-680886) · `si`
-
-Investment Bank (AIIB), President of the Asian Infrastricture Investment Bank (AIIB) (AIIB) President Anura Kumara Dissanayake said he was responding to the promotion of the green energy sector in Sri Lanka.
-
-President Anura Kumara Dissanayake met at the Presidential Secretariat today (7), the Chairman of the Asian Infrastructure.
-
-The progress of the projects implemented in Sri Lanka so far under the Asian Infrastructure Bank is recently reviewed and supported by the country's progress.
-
-According to the Sri Lankan energy stability, he said that the growth of green energy, green transport facilities and focusing on the fields of green transport facilities.
-
-The government expects the President to take the growth of the national economy, which explains the interest rates and the control of inflation control.
-
-...
-
-[Data](articles/f7c920a6.json)
-
-[Extended Data](ext_articles/f7c920a6.ext.json)
-
----
-
-### Ajith P. Perera questioned today's allegations made by the President on the Cricket Board
-
-*2025-10-07 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/227161) · `ta`
-
-President Anura Kumara Dissanayake has made several allegations regarding the fraud of the Sri Lanka Cricket Board while in the opposition party. He also noted that a short party has occupied the Cricket Board. The President is currently taking steps on the allegations made by the United People's Power Kalutara District Parliamentarian Ajith P. Perera.
-
-He was speaking at a debate on the Amendment Bill on Tuesday (7) in Parliament on Tuesday (7).
-
-We are firmly in the position of changing the oldest laws in the world. Therefore, we welcome the Equality (Amendment) Bill against the use of stimulant use in the game.
-
-During the last session, the government brought the Penal Code (Amendment) Bill. We have highlighted the legacy of this bill.
-
-Recently, a teacher has been attacked by a teacher in Moneragala. The teacher has lodged a complaint with the police.
-
-...
-
-[Data](articles/fe317444.json)
-
-[Extended Data](ext_articles/fe317444.ext.json)
-
----
-
-### Dilith's concerns about UNHRC's role in Sri Lankan delegation team
-
-*2025-10-07 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/215445) · `si`
-
-Leader of the Alliance, MP Dilith Jayaweera says that the Sri Lankan delegation will be shocked to the Sri Lankan delegation in the UN Human Rights Council.
-
-Dilith Jayaweera has made this statement on the proposal for Sri Lanka by the UN Human Rights Council.
-
-They have noted that they should be provided to represent Sri Lanka at the UNHRC.
-
-He further stated that the priorities of our nation before the international community have shown that the present government is a demonstration and failure.
-
-I am Appalled by The Disastrous Execution Execution of Foreign Palicy by Sri Lanka's Delegation, LED By The Foreign Minister, To The UNHRC!
-
-The Gosl Must immeditely advcessers to the 22 million answers to the 22 million people tend to the repsent, and the shocking betrayal of ouries ...
-
-◼️
-
-[Data](articles/a6f98723.json)
-
-[Extended Data](ext_articles/a6f98723.ext.json)
-
----
-
-### International pressure will gradually decrease if the solution is carried out - the Human Rights Commission of Sri Lanka
-
-*2025-10-07 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/227160) · `ta`
-
-Nimal Punjiwa, a member of the Sri Lanka Human Rights Commission, said the new resolution at the UN Human Rights Council (UNHRC) would gradually decrease if the international community could be realized in the matter of human rights and accountability.
-
-The 60th session of the United Nations Human Rights Council commenced in Geneva on the 8th. The new proposal, titled 'Reconciliation, Responsibility and Human Rights Improves in Sri Lanka' by the Internet countries including Canada, Malawi, Montenegro and North Messidonia, were submitted to the British -led government on Monday (6).
-
-He pointed out that various countries have insisted in the past to resolve human rights concerns in Sri Lanka and have passed some resolutions at the UN Human Rights Council, adding that the resolution was not very good.
-
-...
-
-[Data](articles/b07af789.json)
-
-[Extended Data](ext_articles/b07af789.ext.json)
 
 ---

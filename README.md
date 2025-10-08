@@ -1,7 +1,7 @@
 
-🛑 Data will no be updated as of 2025-10-08. 
+# 🛑 Data will no be updated as of 2025-10-08. 
 
-For data on **Sri Lankan News Articles** see new repo [https://github.com/nuuuwan/lk_news](https://github.com/nuuuwan/lk_news).
+## For data on **Sri Lankan News Articles** see new repo [https://github.com/nuuuwan/lk_news](https://github.com/nuuuwan/lk_news).
 
 ...
 
